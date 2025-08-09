@@ -26,6 +26,10 @@
                   "file": "./data/math-12-geometry-chapter-1.json"
                 }
               ]
+            },
+            "midterm-1": {
+              "name": "Ôn tập học kỳ 1",
+              "file": "./data/math-12-midterm-1.json"
             }
           }
         }
