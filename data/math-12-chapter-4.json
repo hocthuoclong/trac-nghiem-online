@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Hàm số F(x) = x³ là một nguyên hàm của hàm số nào sau đây?",
+    "options": ["f(x) = 3x²", "f(x) = x⁴/4", "f(x) = 3x", "f(x) = x³"],
+    "correctAnswer": "f(x) = 3x²"
+  },
+  {
+    "question": "Tìm nguyên hàm của hàm số f(x) = cos(x).",
+    "options": ["sin(x) + C", "-sin(x) + C", "cos(x) + C", "-cos(x) + C"],
+    "correctAnswer": "sin(x) + C"
+  },
+  {
+    "question": "Công thức tính tích phân ∫[a,b] f(x)dx = F(b) - F(a) được gọi là:",
+    "options": ["Định lý Newton-Leibniz", "Định lý Lagrange", "Quy tắc L'Hopital", "Công thức tích phân từng phần"],
+    "correctAnswer": "Định lý Newton-Leibniz"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] e<sup>x</sup> dx.",
+    "options": ["e - 1", "e", "1", "e + 1"],
+    "correctAnswer": "e - 1"
+  },
+  {
+    "question": "Tìm nguyên hàm của hàm số f(x) = 1/x (với x > 0).",
+    "options": ["ln(x) + C", "-1/x² + C", "ln|x| + C", "e<sup>x</sup> + C"],
+    "correctAnswer": "ln(x) + C"
+  },
+  {
+    "question": "Nếu ∫f(x)dx = F(x) + C thì ∫f(2x)dx bằng:",
+    "options": ["(1/2)F(2x) + C", "2F(2x) + C", "F(2x) + C", "F(x) + C"],
+    "correctAnswer": "(1/2)F(2x) + C"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi đồ thị hàm số y = x², trục Ox và hai đường thẳng x=0, x=1 là:",
+    "options": ["1/3", "1", "1/2", "1/4"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Công thức tính nguyên hàm từng phần là:",
+    "options": ["∫udv = uv - ∫vdu", "∫udv = uv + ∫vdu", "∫udv = vdu - ∫udv", "∫udv = u'v - ∫v'u"],
+    "correctAnswer": "∫udv = uv - ∫vdu"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=√x, Ox, x=1, x=4 quanh trục Ox là:",
+    "options": ["15π/2", "7π", "14π/3", "8π"],
+    "correctAnswer": "15π/2"
+  },
+  {
+    "question": "Hàm số F(x) được gọi là nguyên hàm của f(x) trên K nếu:",
+    "options": ["F'(x) = f(x) với mọi x thuộc K", "f'(x) = F(x) với mọi x thuộc K", "F(x) = f(x) với mọi x thuộc K", "F'(x) = f'(x) với mọi x thuộc K"],
+    "correctAnswer": "F'(x) = f(x) với mọi x thuộc K"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,π/2] sin(x) dx.",
+    "options": ["1", "0", "-1", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm nguyên hàm của f(x) = x³ + 2x.",
+    "options": ["x⁴/4 + x² + C", "3x² + 2 + C", "x⁴ + 2x² + C", "x³/3 + 2 + C"],
+    "correctAnswer": "x⁴/4 + x² + C"
+  },
+  {
+    "question": "Cho F(x) là một nguyên hàm của f(x) = e<sup>x</sup> và F(0) = 2. Tìm F(x).",
+    "options": ["e<sup>x</sup> + 1", "e<sup>x</sup> + 2", "e<sup>x</sup>", "2e<sup>x</sup>"],
+    "correctAnswer": "e<sup>x</sup> + 1"
+  },
+  {
+    "question": "Tính tích phân I = ∫[1,2] dx/x.",
+    "options": ["ln(2)", "1", "-1/4", "ln(2) - 1"],
+    "correctAnswer": "ln(2)"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = sin(x), Ox, x=0, x=π là:",
+    "options": ["2", "1", "0", "π"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫(2x+1)⁵ dx.",
+    "options": ["(2x+1)⁶/12 + C", "(2x+1)⁶/6 + C", "5(2x+1)⁴ + C", "(2x+1)⁴/8 + C"],
+    "correctAnswer": "(2x+1)⁶/12 + C"
+  },
+  {
+    "question": "Cho ∫[0,2] f(x)dx = 4. Tính I = ∫[0,2] (2f(x) + 1) dx.",
+    "options": ["10", "9", "8", "6"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=x, y=0, x=1 quanh trục Ox là:",
+    "options": ["π/3", "π", "π/2", "2π/3"],
+    "correctAnswer": "π/3"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫x.e<sup>x</sup> dx.",
+    "options": ["(x-1)e<sup>x</sup> + C", "xe<sup>x</sup> + C", "(x+1)e<sup>x</sup> + C", "x²e<sup>x</sup>/2 + C"],
+    "correctAnswer": "(x-1)e<sup>x</sup> + C"
+  },
+  {
+    "question": "Nếu F(x) và G(x) đều là nguyên hàm của f(x) thì:",
+    "options": ["F(x) - G(x) là hằng số", "F(x) = G(x)", "F(x) + G(x) là hằng số", "F(x)/G(x) là hằng số"],
+    "correctAnswer": "F(x) - G(x) là hằng số"
+  },
+  {
+    "question": "Tính tích phân I = ∫[1,e] ln(x) dx.",
+    "options": ["1", "e-1", "e", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm nguyên hàm của f(x) = 1/sin²(x).",
+    "options": ["-cot(x) + C", "cot(x) + C", "tan(x) + C", "-tan(x) + C"],
+    "correctAnswer": "-cot(x) + C"
+  },
+  {
+    "question": "Cho ∫[1,3] f(x)dx = 5 và ∫[1,3] g(x)dx = -2. Tính ∫[1,3] [f(x) - g(x)] dx.",
+    "options": ["7", "3", "-7", "-3"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi hai đường cong y = x² và y = x là:",
+    "options": ["1/6", "1/3", "1/2", "1"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] (x+1)² dx.",
+    "options": ["7/3", "8/3", "3", "2"],
+    "correctAnswer": "7/3"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫sin(2x) dx.",
+    "options": ["-cos(2x)/2 + C", "cos(2x)/2 + C", "-2cos(2x) + C", "2cos(2x) + C"],
+    "correctAnswer": "-cos(2x)/2 + C"
+  },
+  {
+    "question": "Cho f(x) là hàm số lẻ và liên tục trên [-a, a]. Khi đó ∫[-a,a] f(x)dx bằng:",
+    "options": ["0", "2∫[0,a] f(x)dx", "a", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=1/x, Ox, x=1, x=2 quanh Ox là:",
+    "options": ["π/2", "π", "πln(2)", "2π"],
+    "correctAnswer": "π/2"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫ln(x)/x dx.",
+    "options": ["ln²(x)/2 + C", "ln(x) + C", "1/x² + C", "-1/x² + C"],
+    "correctAnswer": "ln²(x)/2 + C"
+  },
+  {
+    "question": "Tính I = ∫[0,π] x.cos(x) dx.",
+    "options": ["-2", "0", "1", "π"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = 2<sup>x</sup> là:",
+    "options": ["2<sup>x</sup>/ln(2) + C", "2<sup>x</sup>.ln(2) + C", "2<sup>x</sup> + C", "x.2<sup>x-1</sup> + C"],
+    "correctAnswer": "2<sup>x</sup>/ln(2) + C"
+  },
+  {
+    "question": "Cho ∫[0,1] f(x)dx = 2 và ∫[1,2] f(x)dx = 3. Tính ∫[0,2] f(x)dx.",
+    "options": ["5", "1", "-1", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = e<sup>x</sup>, y = 1, x = 1 là:",
+    "options": ["e-2", "e-1", "e", "1"],
+    "correctAnswer": "e-2"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] dx/(x+1).",
+    "options": ["ln(2)", "1", "ln(1)", "2"],
+    "correctAnswer": "ln(2)"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫tan(x) dx.",
+    "options": ["-ln|cos(x)| + C", "ln|sin(x)| + C", "1/cos²(x) + C", "cot(x) + C"],
+    "correctAnswer": "-ln|cos(x)| + C"
+  },
+  {
+    "question": "Cho f(x) là hàm số chẵn và liên tục trên [-a, a]. Khi đó ∫[-a,a] f(x)dx bằng:",
+    "options": ["2∫[0,a] f(x)dx", "0", "f(a) - f(-a)", "a"],
+    "correctAnswer": "2∫[0,a] f(x)dx"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=x², y=1 quanh trục Oy là:",
+    "options": ["π/2", "π", "2π", "π/4"],
+    "correctAnswer": "π/2"
+  },
+  {
+    "question": "Tính I = ∫[0,1] x(x-1)<sup>10</sup> dx.",
+    "options": ["1/132", "1/110", "1/12", "1/11"],
+    "correctAnswer": "1/132"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = x.√(x²+1) là:",
+    "options": ["(1/3)(x²+1)√(x²+1) + C", "(2/3)(x²+1)√(x²+1) + C", "√(x²+1) + C", "x²/2 . √(x²+1) + C"],
+    "correctAnswer": "(1/3)(x²+1)√(x²+1) + C"
+  },
+  {
+    "question": "Cho F(x) là một nguyên hàm của f(x) = 1/(2x-1). Biết F(1)=2. Tính F(2).",
+    "options": ["2 + (1/2)ln(3)", "2 + ln(3)", "4", "2.5"],
+    "correctAnswer": "2 + (1/2)ln(3)"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = |x² - 1|, Ox, x=0, x=2 là:",
+    "options": ["2", "8/3", "4/3", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,π/4] tan²(x) dx.",
+    "options": ["1 - π/4", "π/4 - 1", "1", "π/4"],
+    "correctAnswer": "1 - π/4"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫e<sup>2x+1</sup> dx.",
+    "options": ["(1/2)e<sup>2x+1</sup> + C", "2e<sup>2x+1</sup> + C", "e<sup>2x+1</sup> + C", "e<sup>x²</sup> + C"],
+    "correctAnswer": "(1/2)e<sup>2x+1</sup> + C"
+  },
+  {
+    "question": "Cho ∫[a,b] f'(x)dx = 5 và f(b) = 8. Tính f(a).",
+    "options": ["3", "13", "-3", "5/8"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=e<sup>-x</sup>, y=0, x=0, x=1 quanh Ox là:",
+    "options": ["π(1-e<sup>-2</sup>)/2", "π(e<sup>-2</sup>-1)", "π(1-e<sup>-1</sup>)", "π"],
+    "correctAnswer": "π(1-e<sup>-2</sup>)/2"
+  },
+  {
+    "question": "Tính I = ∫[0,1] x.e<sup>x²</sup> dx.",
+    "options": ["(e-1)/2", "e-1", "e/2", "1"],
+    "correctAnswer": "(e-1)/2"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = 1/(x²+a²) là:",
+    "options": ["(1/a)arctan(x/a) + C", "arctan(x/a) + C", "ln(x²+a²) + C", "2x/(x²+a²) + C"],
+    "correctAnswer": "(1/a)arctan(x/a) + C"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y=ln(x), Ox, x=1, x=e là:",
+    "options": ["1", "e-1", "e", "1/e"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,2] |x-1| dx.",
+    "options": ["1", "2", "0", "1/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫cos³(x) dx.",
+    "options": ["sin(x) - sin³(x)/3 + C", "sin(x) + sin³(x)/3 + C", "cos⁴(x)/4 + C", "3cos²(x)sin(x) + C"],
+    "correctAnswer": "sin(x) - sin³(x)/3 + C"
+  },
+  {
+    "question": "Cho ∫[0,π/2] f(x)dx = 5. Tính I = ∫[0,π/2] f(π/2 - x) dx.",
+    "options": ["5", "-5", "0", "π/2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Thể tích vật thể tròn xoay sinh ra khi quay hình phẳng giới hạn bởi y=2x-x², y=0 quanh trục Ox là:",
+    "options": ["16π/15", "4π/3", "8π/15", "32π/15"],
+    "correctAnswer": "16π/15"
+  },
+  {
+    "question": "Tính I = ∫[1,2] (x²-1)/x² dx.",
+    "options": ["1/2", "1", "3/2", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = 1/(√x) là:",
+    "options": ["2√x + C", "1/(2√x) + C", "√x + C", "-1/(2x√x) + C"],
+    "correctAnswer": "2√x + C"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi parabol y = x² - 2x và đường thẳng y = x là:",
+    "options": ["9/2", "27/2", "4/3", "9"],
+    "correctAnswer": "9/2"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,a] (x-a)<sup>100</sup> dx.",
+    "options": ["-a<sup>101</sup>/101", "a<sup>101</sup>/101", "0", "1"],
+    "correctAnswer": "-a<sup>101</sup>/101"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫x.cos(x) dx.",
+    "options": ["x.sin(x) + cos(x) + C", "x.sin(x) - cos(x) + C", "-x.sin(x) + cos(x) + C", "sin(x) + x.cos(x) + C"],
+    "correctAnswer": "x.sin(x) + cos(x) + C"
+  },
+  {
+    "question": "Cho hàm số f(x) liên tục trên [0;1] và f(x) + f(1-x) = 1. Tính ∫[0,1] f(x)dx.",
+    "options": ["1/2", "1", "0", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình elip x²/a² + y²/b² = 1 quanh trục Ox là:",
+    "options": ["4/3 πab²", "2/3 πab²", "4/3 πa²b", "πab"],
+    "correctAnswer": "4/3 πab²"
+  },
+  {
+    "question": "Tính I = ∫[e, e²] dx/(x.ln(x)).",
+    "options": ["ln(2)", "1", "2", "e"],
+    "correctAnswer": "ln(2)"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = (x+2)/(x+1) là:",
+    "options": ["x + ln|x+1| + C", "1 + ln|x+1| + C", "x - ln|x+1| + C", "ln|x+1| + C"],
+    "correctAnswer": "x + ln|x+1| + C"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = x³, y = 8, x = 0 là:",
+    "options": ["12", "16", "8", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] dx/√(1-x²).",
+    "options": ["π/2", "π", "π/4", "1"],
+    "correctAnswer": "π/2"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫(1-2x)<sup>1/2</sup> dx.",
+    "options": ["-(1/3)(1-2x)<sup>3/2</sup> + C", "(1/3)(1-2x)<sup>3/2</sup> + C", "-(2/3)(1-2x)<sup>3/2</sup> + C", "-(1-2x)<sup>-1/2</sup> + C"],
+    "correctAnswer": "-(1/3)(1-2x)<sup>3/2</sup> + C"
+  },
+  {
+    "question": "Cho ∫[0,4] f(x)dx = 16. Tính ∫[0,2] f(2x)dx.",
+    "options": ["8", "16", "32", "4"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Thể tích vật thể có đáy là hình tròn bán kính R, thiết diện vuông góc với đường kính là một tam giác đều. Thể tích vật thể đó là:",
+    "options": ["4√3R³/3", "2√3R³/3", "πR³", "√3R³"],
+    "correctAnswer": "4√3R³/3"
+  },
+  {
+    "question": "Tính I = ∫[0,π/2] sin²(x) dx.",
+    "options": ["π/4", "π/2", "1", "π"],
+    "correctAnswer": "π/4"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = e<sup>x</sup>(1+e<sup>-x</sup>) là:",
+    "options": ["e<sup>x</sup> + x + C", "e<sup>x</sup> + C", "x + C", "e<sup>x</sup> - x + C"],
+    "correctAnswer": "e<sup>x</sup> + x + C"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y=x⁴-2x² và y=x² là:",
+    "options": ["128√3/15", "64√3/15", "32√3/15", "16√3/15"],
+    "correctAnswer": "128√3/15"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] (x³+3x²+3x+1) dx.",
+    "options": ["15/4", "4", "3", "7/2"],
+    "correctAnswer": "15/4"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫dx/(x²-a²).",
+    "options": ["(1/2a)ln|(x-a)/(x+a)| + C", "(1/a)ln|(x-a)/(x+a)| + C", "ln|x²-a²| + C", "arctan(x/a) + C"],
+    "correctAnswer": "(1/2a)ln|(x-a)/(x+a)| + C"
+  },
+  {
+    "question": "Cho f(x) là hàm liên tục và ∫[0,1] f(x)dx = 7. Tính I = ∫[0,π/2] cos(x)f(sin(x))dx.",
+    "options": ["7", "1", "0", "π/2"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=√cosx, y=0, x=0, x=π/2 quanh Ox là:",
+    "options": ["π", "1", "π/2", "2π"],
+    "correctAnswer": "π"
+  },
+  {
+    "question": "Tính I = ∫[0,ln2] √(e<sup>x</sup>-1) dx.",
+    "options": ["2 - π/2", "1", "ln2", "π/2"],
+    "correctAnswer": "2 - π/2"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = 1/(x(x+1)) là:",
+    "options": ["ln|x/(x+1)| + C", "ln|x(x+1)| + C", "-1/x² - 1/(x+1)² + C", "ln|x| - ln|x-1| + C"],
+    "correctAnswer": "ln|x/(x+1)| + C"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y=x², y=√x là:",
+    "options": ["1/3", "2/3", "1", "1/2"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] x²√(1-x²) dx (đặt x=sint).",
+    "options": ["π/16", "π/8", "π/4", "π/32"],
+    "correctAnswer": "π/16"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫x.ln(x) dx.",
+    "options": ["(x²/2)ln(x) - x²/4 + C", "(x²/2)ln(x) + x²/4 + C", "x.ln(x) - x + C", "ln(x) + C"],
+    "correctAnswer": "(x²/2)ln(x) - x²/4 + C"
+  },
+  {
+    "question": "Cho ∫[1,2] f(x)/x² dx = 2 và f(1)=3, f(2)=5. Tính ∫[1,2] f'(x)/x dx.",
+    "options": ["-1/2", "1/2", "1", "0"],
+    "correctAnswer": "-1/2"
+  },
+  {
+    "question": "Thể tích vật thể tròn xoay khi quay hình phẳng giới hạn bởi y=x.e<sup>x/2</sup>, y=0, x=0, x=1 quanh Ox là:",
+    "options": ["π(e-2)", "π(e+2)", "πe", "π"],
+    "correctAnswer": "π(e-2)"
+  },
+  {
+    "question": "Tính I = ∫[0,π/2] e<sup>x</sup>.sin(x) dx.",
+    "options": ["(e<sup>π/2</sup>+1)/2", "(e<sup>π/2</sup>-1)/2", "e<sup>π/2</sup>", "1"],
+    "correctAnswer": "(e<sup>π/2</sup>+1)/2"
+  },
+  {
+    "question": "Nguyên hàm của f(x) = sin(x).cos(x) là:",
+    "options": ["-cos(2x)/4 + C", "sin²(x)/2 + C", "Cả A và B đều đúng", "Cả A và B đều sai"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y=2<sup>x</sup>, y=3-x, x=0, x=1 là:",
+    "options": ["5/2 - 1/ln2", "3/2 + 1/ln2", "5/2 + 1/ln2", "3/2 - 1/ln2"],
+    "correctAnswer": "5/2 - 1/ln2"
+  },
+  {
+    "question": "Tính tích phân I = ∫[1,e] (1+lnx)/x dx.",
+    "options": ["3/2", "1", "e", "2"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫dx/(e<sup>x</sup>+1).",
+    "options": ["x - ln(e<sup>x</sup>+1) + C", "ln(e<sup>x</sup>+1) + C", "-1/(e<sup>x</sup>+1)² + C", "x + ln(e<sup>x</sup>+1) + C"],
+    "correctAnswer": "x - ln(e<sup>x</sup>+1) + C"
+  },
+  {
+    "question": "Cho f(x) liên tục trên R và ∫[0,x²] f(t)dt = x.cos(πx). Tính f(4).",
+    "options": ["1/4", "1", "π/2", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi y=xlnx, y=0, x=e quanh trục Ox là:",
+    "options": ["π(2e³+1)/9", "π(e³-1)/9", "πe³/9", "π(2e³-1)/9"],
+    "correctAnswer": "π(2e³+1)/9"
+  },
+  {
+    "question": "Tính I = ∫[0,3] dx/(x+2).",
+    "options": ["ln(5/2)", "ln(3/2)", "ln(5)", "ln(2)"],
+    "correctAnswer": "ln(5/2)"
+  }
+]
+
