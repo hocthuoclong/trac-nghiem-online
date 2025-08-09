@@ -1,0 +1,457 @@
+[
+  {
+    "question": "Hàm số y = x<sup>3</sup> - 3x đồng biến trên khoảng nào?",
+    "options": ["(-∞; -1)", "(1; +∞)", "(-1; 1)", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Giá trị cực đại của hàm số y = -x<sup>4</sup> + 2x<sup>2</sup> + 2 là bao nhiêu?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Đồ thị hàm số y = (2x+1)/(x-1) có tiệm cận đứng là đường thẳng nào?",
+    "options": ["x = 1", "x = -1", "y = 2", "y = -1/2"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Tìm giá trị lớn nhất M của hàm số y = x<sup>4</sup> - 2x<sup>2</sup> + 3 trên đoạn [0; 2].",
+    "options": ["M = 11", "M = 2", "M = 3", "M = 19"],
+    "correctAnswer": "M = 11"
+  },
+  {
+    "question": "Hàm số y = -x<sup>3</sup> + 3x<sup>2</sup> - 2 có bao nhiêu điểm cực trị?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đồ thị hàm số có dạng chữ N ngược, đi qua điểm (0,1) và có hai điểm cực trị là đồ thị của hàm số nào dưới đây?",
+    "options": ["y = x<sup>3</sup> - 3x + 1", "y = -x<sup>3</sup> + 3x + 1", "y = x<sup>4</sup> - 2x<sup>2</sup> + 1", "y = -x<sup>4</sup> + 2x<sup>2</sup> + 1"],
+    "correctAnswer": "y = -x<sup>3</sup> + 3x + 1"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x-2)/(x<sup>2</sup> - 4) có bao nhiêu đường tiệm cận?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hàm số nào sau đây nghịch biến trên R?",
+    "options": ["y = x<sup>3</sup> + x", "y = -x<sup>3</sup> - 3x", "y = tan(x)", "y = (x+1)/(x-2)"],
+    "correctAnswer": "y = -x<sup>3</sup> - 3x"
+  },
+  {
+    "question": "Tìm tất cả các giá trị của tham số m để hàm số y = x<sup>3</sup> - 3mx<sup>2</sup> + 3(m<sup>2</sup>-1)x - m<sup>3</sup> đạt cực đại tại x=1.",
+    "options": ["m = 0", "m = 2", "m = 0 hoặc m = 2", "Không có giá trị m"],
+    "correctAnswer": "m = 2"
+  },
+  {
+    "question": "Số giao điểm của đồ thị hàm số y = x<sup>3</sup> - 2x<sup>2</sup> + x - 1 và đường thẳng y = 1 - 2x là:",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hàm số y = 2x<sup>4</sup> - 4x<sup>2</sup> + 1 đồng biến trên khoảng nào dưới đây?",
+    "options": ["(-1; 0)", "(1; +∞)", "Cả A và B", "(-∞; -1)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Điểm cực tiểu của đồ thị hàm số y = x<sup>3</sup> - 3x<sup>2</sup> + 2 là:",
+    "options": ["(2; -2)", "(0; 2)", "(2; 0)", "(-2; 2)"],
+    "correctAnswer": "(2; -2)"
+  },
+  {
+    "question": "Đường tiệm cận ngang của đồ thị hàm số y = (3-x)/(x+1) là:",
+    "options": ["y = -1", "y = 3", "x = -1", "x = 3"],
+    "correctAnswer": "y = -1"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x + 4/x trên khoảng (0; +∞) là:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hàm số y = (mx+1)/(x+m) đồng biến trên từng khoảng xác định khi nào?",
+    "options": ["m > 1", "m < -1", "m > 1 hoặc m < -1", "-1 < m < 1"],
+    "correctAnswer": "m > 1"
+  },
+  {
+    "question": "Đồ thị hàm số y = x<sup>4</sup> - 5x<sup>2</sup> + 4 cắt trục hoành tại bao nhiêu điểm?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hàm số y = x - sin(2x) + 3 đồng biến trên khoảng nào?",
+    "options": ["R", "(π/6; 5π/6)", "(0; π)", "(-π/6; π/6)"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Tìm m để hàm số y = x<sup>3</sup> - 3x<sup>2</sup> + mx - 1 không có cực trị.",
+    "options": ["m ≥ 3", "m > 3", "m ≤ 3", "m < 3"],
+    "correctAnswer": "m ≥ 3"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = √(4 - x<sup>2</sup>) là:",
+    "options": ["0", "1", "2", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đường thẳng y = m cắt đồ thị hàm số y = x<sup>3</sup> - 3x tại 3 điểm phân biệt khi:",
+    "options": ["-2 < m < 2", "m > 2", "m < -2", "m = 2 hoặc m = -2"],
+    "correctAnswer": "-2 < m < 2"
+  },
+  {
+    "question": "Hàm số y = (x<sup>2</sup> - 3x + 2) / (x - 1) có bao nhiêu điểm cực trị?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tìm giá trị nhỏ nhất của hàm số y = |x<sup>3</sup> - 3x| trên đoạn [-2, 2].",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Đồ thị hàm số y = (ax+b)/(cx+d) có tiệm cận đứng x=2 và tiệm cận ngang y=3. Tính a/c.",
+    "options": ["2", "3", "-2/3", "3/2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho hàm số y = f(x) có đạo hàm f'(x) = x(x-1)<sup>2</sup>(x+2). Hàm số đồng biến trên khoảng nào?",
+    "options": ["(-2; 0)", "(1; +∞)", "(-∞; -2)", "Cả A và B"],
+    "correctAnswer": "(-∞; -2)"
+  },
+  {
+    "question": "Hàm số y = x<sup>4</sup> + 1 có bao nhiêu điểm uốn?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số đường tiệm cận của đồ thị hàm số y = (x+1)/√(x<sup>2</sup>+1) là:",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Để hàm số y = (x+1)/(x-m) nghịch biến trên (2; +∞), giá trị của m là:",
+    "options": ["m ≤ 2", "m < 2", "m > 1", "m ≥ 1"],
+    "correctAnswer": "m ≤ 2"
+  },
+  {
+    "question": "Tìm GTLN của hàm số y = 3sin(x) - 4cos(x) + 5.",
+    "options": ["5", "8", "10", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Đồ thị của hàm số nào dưới đây có tâm đối xứng là I(1, -2)?",
+    "options": ["y = (x+1)/(x-1)", "y = (-2x+1)/(x-1)", "y = (2x+1)/(x+1)", "y = (x-3)/(x+1)"],
+    "correctAnswer": "y = (-2x+1)/(x-1)"
+  },
+  {
+    "question": "Hàm số y = x<sup>3</sup> + (m-1)x<sup>2</sup> + (m<sup>2</sup>-4)x + 1 đạt cực tiểu tại x=0 khi:",
+    "options": ["m = 2", "m = -2", "m = 2 hoặc m = -2", "Không có m"],
+    "correctAnswer": "m = 2"
+  },
+  {
+    "question": "Hàm số y = x<sup>3</sup> - 3x<sup>2</sup> + 2 nghịch biến trên khoảng nào?",
+    "options": ["(0; 2)", "(-∞; 0)", "(2; +∞)", "Cả B và C"],
+    "correctAnswer": "(0; 2)"
+  },
+  {
+    "question": "Điểm cực đại của đồ thị hàm số y = x<sup>4</sup> - 2x<sup>2</sup> + 1 là:",
+    "options": ["(0; 1)", "(1; 0)", "(-1; 0)", "Không có"],
+    "correctAnswer": "(0; 1)"
+  },
+  {
+    "question": "Đường tiệm cận xiên của đồ thị hàm số y = (x<sup>2</sup> - x + 1)/(x+1) là:",
+    "options": ["y = x - 2", "y = x + 2", "y = x", "y = -x + 2"],
+    "correctAnswer": "y = x - 2"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 2x<sup>3</sup> - 3x<sup>2</sup> - 12x + 10 trên đoạn [-2; 3] là:",
+    "options": ["17", "6", "15", "10"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "Tìm m để hàm số y = mx<sup>3</sup> + 3x<sup>2</sup> + 2x + 1 có 2 điểm cực trị.",
+    "options": ["m < 3/2", "m > 3/2", "m ≠ 0 và m < 3/2", "m ≠ 0"],
+    "correctAnswer": "m ≠ 0 và m < 3/2"
+  },
+  {
+    "question": "Phương trình tiếp tuyến của đồ thị hàm số y = x<sup>3</sup> - 2x + 1 tại điểm có hoành độ x=2 là:",
+    "options": ["y = 10x - 15", "y = 10x + 5", "y = 5x - 10", "y = 5x + 10"],
+    "correctAnswer": "y = 10x - 15"
+  },
+  {
+    "question": "Hàm số y = ln(x<sup>2</sup> + 1) đồng biến trên khoảng:",
+    "options": ["(0; +∞)", "(-∞; 0)", "R", "(-1; 1)"],
+    "correctAnswer": "(0; +∞)"
+  },
+  {
+    "question": "Điểm uốn của đồ thị hàm số y = x<sup>3</sup> - 6x<sup>2</sup> + 9x - 1 là:",
+    "options": ["(2; 1)", "(1; 3)", "(3; -1)", "(2; -1)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = (x<sup>2</sup>+x+1)/(x+1) trên đoạn [0; 2] là:",
+    "options": ["1", "3/2", "7/3", "2"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Đồ thị hàm số y = x<sup>3</sup> - 3m<sup>2</sup>x + 2m có hai điểm cực trị A, B sao cho tam giác OAB vuông tại O. Giá trị của m là:",
+    "options": ["m = 1/√2", "m = -1/√2", "Cả A và B", "m = 1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hàm số y = (x-1)/(x+2) nghịch biến trên các khoảng nào?",
+    "options": ["(-∞; -2) và (-2; +∞)", "R", "R \\ {-2}", "Không có khoảng nào"],
+    "correctAnswer": "Không có khoảng nào"
+  },
+  {
+    "question": "Hàm số y = -x<sup>4</sup> + 4x<sup>2</sup> - 3 có giá trị cực đại là:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Số đường tiệm cận đứng của đồ thị hàm số y = (√(x+1)-1)/x là:",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Giá trị lớn nhất và nhỏ nhất của hàm số y = sin<sup>4</sup>x + cos<sup>4</sup>x lần lượt là:",
+    "options": ["1 và 1/2", "1 và 0", "2 và 1", "1/2 và 0"],
+    "correctAnswer": "1 và 1/2"
+  },
+  {
+    "question": "Để hàm số y = x<sup>3</sup> - 3(m+1)x<sup>2</sup> + 9x - m đồng biến trên R, giá trị của m là:",
+    "options": ["-1-√2 ≤ m ≤ -1+√2", "m ≥ -1+√2", "m ≤ -1-√2", "Không có m"],
+    "correctAnswer": "Không có m"
+  },
+  {
+    "question": "Số giao điểm của đồ thị (C): y = x<sup>4</sup> - 2x<sup>2</sup> và trục Ox là:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hàm số y = x.e<sup>-x</sup> có điểm cực đại là:",
+    "options": ["x = 1", "x = -1", "x = 0", "x = e"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Đồ thị hàm số y = (2x - √(x<sup>2</sup>+1))/(x+3) có bao nhiêu tiệm cận ngang?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x<sup>2</sup> + 2/x trên đoạn [1/2; 2] là:",
+    "options": ["3", "4", "5", "9/2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tìm m để đường thẳng y = m(x-1) + 2 cắt đồ thị y = x<sup>3</sup> - 3x<sup>2</sup> + 2 tại 3 điểm phân biệt.",
+    "options": ["m > -3", "m < -3", "m > -3 và m ≠ 0", "m < -3 và m ≠ 0"],
+    "correctAnswer": "m > -3 và m ≠ 0"
+  },
+  {
+    "question": "Hàm số y = (x<sup>2</sup>+m)/(x+1) đạt cực tiểu tại x=2 khi:",
+    "options": ["m = -3", "m = -12", "m = 3", "m = 12"],
+    "correctAnswer": "m = -3"
+  },
+  {
+    "question": "Hàm số y = sinx - x nghịch biến trên khoảng nào?",
+    "options": ["(0; π/2)", "R", "(0; π)", "(-π/2; π/2)"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Đồ thị hàm số y = |x|/(x<sup>2</sup>+1) có bao nhiêu điểm cực trị?",
+    "options": ["1", "2", "3", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tìm giá trị lớn nhất của hàm số y = (x<sup>2</sup>-8x+7)/(x<sup>2</sup>+1).",
+    "options": ["9", "1", "-8", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tiếp tuyến của đồ thị y = (x+2)/(2x+3) tại giao điểm của nó với trục tung có hệ số góc là:",
+    "options": ["-1/9", "1/9", "9", "-9"],
+    "correctAnswer": "-1/9"
+  },
+  {
+    "question": "Hàm số y = x<sup>3</sup>/3 - mx<sup>2</sup> + (m<sup>2</sup>-m)x + 2017 có hai điểm cực trị x1, x2 thỏa mãn x1.x2=2. Giá trị của m là:",
+    "options": ["m = 2", "m = -1", "m = 2 hoặc m = -1", "m = 1"],
+    "correctAnswer": "m = 2"
+  },
+  {
+    "question": "Khoảng cách giữa hai điểm cực trị của đồ thị hàm số y = x<sup>3</sup> - 3x là:",
+    "options": ["2√5", "√5", "4", "2"],
+    "correctAnswer": "2√5"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x-1)/(x<sup>2</sup>-3x+2) có bao nhiêu tiệm cận đứng?",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = e<sup>x</sup>(x<sup>2</sup>-x-1) trên đoạn [0; 2] là:",
+    "options": ["-e", "-1", "-e<sup>2</sup>", "e"],
+    "correctAnswer": "-e"
+  },
+  {
+    "question": "Tìm m để đồ thị hàm số y = x<sup>4</sup> - 2m<sup>2</sup>x<sup>2</sup> + 1 có 3 điểm cực trị tạo thành một tam giác đều.",
+    "options": ["m = 1/∛3", "m = ∛3", "m = 1", "Không có m"],
+    "correctAnswer": "m = 1/∛3"
+  },
+  {
+    "question": "Hàm số y = (x<sup>2</sup> - 2x + 2)/(x-1) đồng biến trên khoảng nào?",
+    "options": ["(-∞; 1) và (1; +∞)", "R \\ {1}", "(0; 2)", "(-∞; 0) và (2; +∞)"],
+    "correctAnswer": "(-∞; 0) và (2; +∞)"
+  },
+  {
+    "question": "Điểm cực tiểu của hàm số y = -x<sup>3</sup> + 3x + 4 là:",
+    "options": ["x = 1", "x = -1", "x = 0", "x = 2"],
+    "correctAnswer": "x = -1"
+  },
+  {
+    "question": "Đường thẳng nào là tiệm cận ngang của đồ thị hàm số y = (1-4x)/(2x-1)?",
+    "options": ["y = 2", "y = -2", "y = 1/2", "y = 4"],
+    "correctAnswer": "y = -2"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = x + √(8-x<sup>2</sup>) là:",
+    "options": ["4", "2√2", "8", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tìm m để hàm số y = (m-1)x<sup>4</sup> - 2(m-3)x<sup>2</sup> + 1 chỉ có một cực tiểu và không có cực đại.",
+    "options": ["1 ≤ m ≤ 3", "m < 1", "m > 3", "m = 1 hoặc m = 3"],
+    "correctAnswer": "1 ≤ m ≤ 3"
+  },
+  {
+    "question": "Số giao điểm của đồ thị y = (x<sup>2</sup>-2x-3)/(x-2) và đường thẳng y = x+1 là:",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hàm số y = x/ln(x) đồng biến trên khoảng:",
+    "options": ["(0; 1)", "(1; e)", "(e; +∞)", "(0; e)"],
+    "correctAnswer": "(e; +∞)"
+  },
+  {
+    "question": "Tìm m để hàm số y = x<sup>3</sup>-3x<sup>2</sup>+m có GTLN trên [-1; 1] bằng 5.",
+    "options": ["m = 5", "m = 1", "m = 3", "m = 9"],
+    "correctAnswer": "m = 5"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x+√(x<sup>2</sup>+1))/x có bao nhiêu tiệm cận?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho hàm số y=f(x) có bảng biến thiên như hình vẽ. Hàm số đạt cực đại tại điểm nào?",
+    "options": ["x = 0", "x = 2", "y = 3", "y = -1"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Hàm số y = -x<sup>3</sup> + (2m-1)x<sup>2</sup> - (m<sup>2</sup>+8)x + 2 nghịch biến trên R khi:",
+    "options": ["m = 3", "m = -3", "Với mọi m", "Không có m"],
+    "correctAnswer": "Với mọi m"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x<sup>3</sup> - 3x<sup>2</sup> - 9x + 35 trên đoạn [-4; 4] là:",
+    "options": ["-41", "8", "-5", "40"],
+    "correctAnswer": "-41"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x<sup>2</sup>-1)/(x<sup>2</sup>-3x+2) có bao nhiêu đường tiệm cận?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hàm số y = 2x<sup>3</sup> - 9x<sup>2</sup> + 12x + 4 có hai điểm cực trị là x1, x2. Tính x1+x2.",
+    "options": ["3", "-3", "6", "-6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hàm số y = (3x+1)/(1-x) đồng biến hay nghịch biến trên các khoảng xác định?",
+    "options": ["Đồng biến", "Nghịch biến", "Không đổi", "Vừa đồng biến vừa nghịch biến"],
+    "correctAnswer": "Đồng biến"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 1/(x<sup>2</sup>-4x+5) là:",
+    "options": ["1", "1/5", "5", "Không có"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm m để đồ thị hàm số y = x<sup>3</sup> - 3mx + 2 cắt trục hoành tại một điểm duy nhất.",
+    "options": ["m ≤ 0", "m > 1", "m < 0 hoặc m > 1", "0 < m < 1"],
+    "correctAnswer": "m > 1"
+  },
+  {
+    "question": "Hệ số góc của tiếp tuyến với đồ thị y = tan(x) tại điểm có hoành độ x=π/4 là:",
+    "options": ["1", "2", "1/2", "√2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hàm số y = x<sup>4</sup> - 4x<sup>3</sup> + 4x<sup>2</sup> + m có 3 điểm cực trị khi:",
+    "options": ["m > 0", "m < 0", "m = 0", "Không có m"],
+    "correctAnswer": "Không có m"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = (x-1)<sup>2</sup> + (x-3)<sup>2</sup> là:",
+    "options": ["0", "1", "2", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đường thẳng y = 2x - 1 cắt đồ thị y = x<sup>3</sup> - x<sup>2</sup> + x - 1 tại điểm có tọa độ là:",
+    "options": ["(0; -1)", "(1; 1)", "(2; 3)", "(-1; -3)"],
+    "correctAnswer": "(0; -1)"
+  },
+  {
+    "question": "Hàm số y = (mx-1)/(x-m) có tiệm cận đứng là x=2. Giá trị m là:",
+    "options": ["m = 1", "m = 2", "m = -1", "m = -2"],
+    "correctAnswer": "m = 2"
+  },
+  {
+    "question": "Cho hàm số y = f(x) liên tục trên R và có đạo hàm f'(x) = (x-1)(x-2)<sup>2</sup>(x-3)<sup>3</sup>. Hàm số có bao nhiêu điểm cực trị?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 2 - 3sin<sup>2</sup>x.cos<sup>2</sup>x là:",
+    "options": ["2", "5/4", "1", "7/4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tìm m để đồ thị hàm số y = x<sup>4</sup> - 2(m+1)x<sup>2</sup> + m có 3 điểm cực trị tạo thành một tam giác có diện tích bằng 1.",
+    "options": ["m = 0", "m = 1", "m = ∛2 - 1", "m = ∛4 - 1"],
+    "correctAnswer": "m = ∛4 - 1"
+  },
+  {
+    "question": "Hàm số y = x<sup>5</sup>/5 - x<sup>3</sup>/3 + 2 đồng biến trên khoảng nào?",
+    "options": ["(-1; 1)", "(-∞; -1) và (1; +∞)", "(0; 1)", "(-1; 0)"],
+    "correctAnswer": "(-∞; -1) và (1; +∞)"
+  },
+  {
+    "question": "Điểm cực đại của hàm số y = (x<sup>2</sup>+2x+2)/(x+1) là:",
+    "options": ["x = 0", "x = -2", "x = -1", "Không có"],
+    "correctAnswer": "x = -2"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x-3)/(2x+1) có tâm đối xứng là điểm nào?",
+    "options": ["(-1/2; 1/2)", "(1/2; -1/2)", "(3; 1/2)", "(-1/2; 3)"],
+    "correctAnswer": "(-1/2; 1/2)"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x.ln(x) trên khoảng (0; +∞) là:",
+    "options": ["-1/e", "0", "1", "e"],
+    "correctAnswer": "-1/e"
+  },
+  {
+    "question": "Tìm m để hàm số y = -x<sup>3</sup> + 3x<sup>2</sup> + 3mx - 1 nghịch biến trên khoảng (0; +∞).",
+    "options": ["m ≤ -1", "m ≥ -1", "m ≤ 1", "m ≥ 1"],
+    "correctAnswer": "m ≤ -1"
+  },
+  {
+    "question": "Số giao điểm của hai đồ thị y = x<sup>3</sup> - x và y = x<sup>2</sup> - 1 là:",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3"
+  }
+]
