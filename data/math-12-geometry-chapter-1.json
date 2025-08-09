@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Trong không gian Oxyz, cho điểm A(1; 2; 3). Hình chiếu của A trên mặt phẳng (Oxy) là:",
+    "options": ["M(1; 2; 0)", "N(0; 2; 3)", "P(1; 0; 3)", "Q(0; 0; 3)"],
+    "correctAnswer": "M(1; 2; 0)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ a = (2; -1; 3). Tọa độ của vectơ -2a là:",
+    "options": ["(-4; 2; -6)", "(4; -2; 6)", "(-4; -2; -6)", "(4; 2; 6)"],
+    "correctAnswer": "(-4; 2; -6)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai điểm A(1; 1; 2) và B(3; 1; 0). Tọa độ của vectơ AB là:",
+    "options": ["(2; 0; -2)", "(4; 2; 2)", "(-2; 0; 2)", "(2; 0; 2)"],
+    "correctAnswer": "(2; 0; -2)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ u = 2i + 3j - k. Tọa độ của vectơ u là:",
+    "options": ["(2; 3; -1)", "(2; -1; 3)", "(3; 2; -1)", "(-1; 3; 2)"],
+    "correctAnswer": "(2; 3; -1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai vectơ a = (1; 0; -2) và b = (2; 1; 1). Tích vô hướng a.b bằng:",
+    "options": ["0", "1", "2", "-1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(3; -1; 2). Khoảng cách từ M đến trục Ox là:",
+    "options": ["√5", "3", "√13", "2"],
+    "correctAnswer": "√5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): (x-1)² + (y+2)² + z² = 9. Tâm và bán kính của mặt cầu là:",
+    "options": ["I(1; -2; 0), R=3", "I(-1; 2; 0), R=3", "I(1; -2; 0), R=9", "I(-1; 2; 0), R=9"],
+    "correctAnswer": "I(1; -2; 0), R=3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai vectơ u=(1; -2; 1) và v=(2; 1; -1). Tọa độ của vectơ [u, v] là:",
+    "options": ["(1; 3; 5)", "(-1; -3; -5)", "(1; -3; 5)", "(-1; 3; 5)"],
+    "correctAnswer": "(1; 3; 5)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho ba điểm A(1;0;0), B(0;2;0), C(0;0;3). Trọng tâm của tam giác ABC có tọa độ là:",
+    "options": ["(1/3; 2/3; 1)", "(1; 2; 3)", "(1/2; 1; 3/2)", "(1/3; 1; 2/3)"],
+    "correctAnswer": "(1/3; 2/3; 1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ a=(2;m;1) và b=(1;-1;3). Hai vectơ này vuông góc khi:",
+    "options": ["m=5", "m=-5", "m=1", "m=-1"],
+    "correctAnswer": "m=5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm A(1;2;3) và B(5;2;0). Độ dài đoạn thẳng AB là:",
+    "options": ["5", "√7", "√29", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x² + y² + z² - 2x + 4y - 6z + 5 = 0. Tâm của mặt cầu là:",
+    "options": ["I(1; -2; 3)", "I(-1; 2; -3)", "I(2; -4; 6)", "I(-2; 4; -6)"],
+    "correctAnswer": "I(1; -2; 3)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai vectơ a=(1;1;-2) và b=(2;1;-1). Góc giữa hai vectơ là:",
+    "options": ["60°", "45°", "30°", "90°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(1; -2; 4). Điểm đối xứng của M qua mặt phẳng (Oxy) là:",
+    "options": ["M'(1; -2; -4)", "M'(1; 2; -4)", "M'(-1; -2; -4)", "M'(1; 2; 4)"],
+    "correctAnswer": "M'(1; -2; -4)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho ba điểm A(1;0;1), B(0;2;0), C(0;0;3). Thể tích của khối tứ diện OABC là:",
+    "options": ["1", "2", "3", "6"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(2;1;-1) và tiếp xúc với mặt phẳng (Oyz). Bán kính của mặt cầu là:",
+    "options": ["2", "1", "√6", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hình bình hành ABCD có A(1;1;1), B(2;3;4), C(7;7;5). Tọa độ đỉnh D là:",
+    "options": ["D(6; 5; 2)", "D(8; 9; 8)", "D(-4; -3; -8)", "D(6; 5; -2)"],
+    "correctAnswer": "D(6; 5; 2)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ u = (1; 2; 3). Độ dài của vectơ u là:",
+    "options": ["√14", "14", "6", "√6"],
+    "correctAnswer": "√14"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai điểm M(2; 1; -3) và N(4; 5; 1). Tọa độ trung điểm của đoạn thẳng MN là:",
+    "options": ["(3; 3; -1)", "(1; 2; 2)", "(6; 6; -2)", "(2; 4; 4)"],
+    "correctAnswer": "(3; 3; -1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, điều kiện để ba vectơ a, b, c đồng phẳng là:",
+    "options": ["[a, b].c = 0", "[a, b].c ≠ 0", "a.b = 0", "a+b+c=0"],
+    "correctAnswer": "[a, b].c = 0"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm A(-3; 2; -1). Tọa độ hình chiếu của A trên trục Oy là:",
+    "options": ["(0; 2; 0)", "(-3; 0; -1)", "(0; 2; -1)", "(-3; 2; 0)"],
+    "correctAnswer": "(0; 2; 0)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có phương trình x² + y² + z² = 4. Bán kính của mặt cầu là:",
+    "options": ["2", "4", "√2", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai vectơ a=(2;3;1) và b=(-1;0;4). Tọa độ của vectơ u = a + 2b là:",
+    "options": ["(0; 3; 9)", "(1; 3; 5)", "(3; 3; -3)", "(4; 3; -7)"],
+    "correctAnswer": "(0; 3; 9)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho ba vectơ u=(1;1;0), v=(1;-1;0), w=(1;1;1). Vectơ nào sau đây không vuông góc với w?",
+    "options": ["z=(1;-1;0)", "u", "v", "z=(0;0;1)"],
+    "correctAnswer": "u"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(1; 4; -3). Khoảng cách từ M đến mặt phẳng (Oxz) là:",
+    "options": ["4", "1", "3", "√26"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có đường kính AB với A(1;3;2) và B(3;5;0). Phương trình của mặt cầu (S) là:",
+    "options": ["(x-2)²+(y-4)²+(z-1)²=3", "(x-1)²+(y-3)²+(z-2)²=12", "(x-3)²+(y-5)²+z²=12", "(x-2)²+(y-4)²+(z-1)²=9"],
+    "correctAnswer": "(x-2)²+(y-4)²+(z-1)²=3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho ba điểm A(2;5;-1), B(2;2;3), C(-3;2;3). Tam giác ABC là tam giác gì?",
+    "options": ["Vuông tại B", "Cân tại A", "Đều", "Vuông tại A"],
+    "correctAnswer": "Vuông tại B"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ u=(3;-4;0). Cosin của góc giữa vectơ u và trục Oz là:",
+    "options": ["0", "3/5", "-4/5", "1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm A(1; -1; 2) và B(2; 1; 0). Vectơ nào sau đây cùng phương với vectơ AB?",
+    "options": ["u=(2; 4; -4)", "v=(1; 2; 2)", "w=(-1; -2; -2)", "z=(2; 4; 4)"],
+    "correctAnswer": "u=(2; 4; -4)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) đi qua bốn điểm A(2;0;0), B(0;4;0), C(0;0;6), O(0;0;0). Bán kính mặt cầu (S) là:",
+    "options": ["√14", "√56", "14", "56"],
+    "correctAnswer": "√14"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;0), B(3;-1;1). Tọa độ điểm C sao cho OABC là hình bình hành là:",
+    "options": ["C(4;1;1)", "C(-2;3;-1)", "C(2;-3;1)", "C(2;3;-1)"],
+    "correctAnswer": "C(4;1;1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ a=(1; log₃5; m). Vectơ b=(3; log₅3; 4). Hai vectơ này cùng phương khi:",
+    "options": ["m = 4/3", "m = 1", "m = 12", "m = 3/4"],
+    "correctAnswer": "m = 4/3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(2; -5; 7). Điểm đối xứng của M qua trục Oz là:",
+    "options": ["M'(-2; 5; 7)", "M'(2; -5; -7)", "M'(-2; -5; 7)", "M'(2; 5; 7)"],
+    "correctAnswer": "M'(-2; 5; 7)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²+2x-4y+6z-2=0. Bán kính R của mặt cầu là:",
+    "options": ["R=4", "R=16", "R=√12", "R=√15"],
+    "correctAnswer": "R=4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;3), B(-1;3;2), C(-1;2;3). Diện tích tam giác ABC là:",
+    "options": ["√6/2", "√6", "3", "√3"],
+    "correctAnswer": "√6/2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(2;-1;1), v=(m;3;-1), w=(1;2;1). Ba vectơ đồng phẳng khi:",
+    "options": ["m = -8/3", "m = 8/3", "m = -3/8", "m = 3/8"],
+    "correctAnswer": "m = -8/3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M cách đều ba điểm A(1;1;1), B(-1;1;0), C(3;1;-1). Tọa độ của M là:",
+    "options": ["M(5/6; 1; -7/6)", "M(1; 1; 0)", "M(3/2; 1; -1/2)", "M(2; 1; 0)"],
+    "correctAnswer": "M(5/6; 1; -7/6)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ u=(1;1;2), v=(-1;m;m-2). Vectơ u vuông góc với v khi:",
+    "options": ["m = 1", "m = -1", "m = 2", "m = -2"],
+    "correctAnswer": "m = 1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;0;-2) và đi qua điểm A(2;1;0). Phương trình mặt cầu (S) là:",
+    "options": ["(x-1)²+y²+(z+2)²=6", "(x-1)²+y²+(z+2)²=√6", "(x+1)²+y²+(z-2)²=6", "(x-2)²+(y-1)²+z²=6"],
+    "correctAnswer": "(x-1)²+y²+(z+2)²=6"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hình hộp ABCD.A'B'C'D' có A(0;0;0), B(1;0;0), D(0;2;0), A'(0;0;3). Tọa độ tâm của hình hộp là:",
+    "options": ["(1/2; 1; 3/2)", "(1; 2; 3)", "(1/2; 1/2; 3/2)", "(1; 1; 3)"],
+    "correctAnswer": "(1/2; 1; 3/2)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ u=(sinα; cosα; 0), v=(cosα; -sinα; 0). Tích vô hướng u.v là:",
+    "options": ["0", "1", "sin(2α)", "cos(2α)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3). Điểm M thuộc trục Ox sao cho tam giác MAB vuông tại A, với B(0;1;2). Tọa độ M là:",
+    "options": ["M(2;0;0)", "M(1;0;0)", "M(-1;0;0)", "M(3;0;0)"],
+    "correctAnswer": "M(2;0;0)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-4x-5=0. Khẳng định nào sau đây đúng?",
+    "options": ["(S) có tâm I(2;0;0) và R=3", "(S) có tâm I(-2;0;0) và R=3", "(S) đi qua gốc tọa độ", "(S) không cắt trục Oz"],
+    "correctAnswer": "(S) có tâm I(2;0;0) và R=3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(2;0;0), B(0;3;0), C(0;0;4). Thể tích khối chóp O.ABC là:",
+    "options": ["4", "12", "24", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;m;-1), v=(2;1;3). |[u,v]| = √122 khi:",
+    "options": ["m=2", "m=-2", "m=3", "m=-3"],
+    "correctAnswer": "m=2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(1;2;3). Khoảng cách từ M đến gốc tọa độ O là:",
+    "options": ["√14", "14", "6", "√6"],
+    "correctAnswer": "√14"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;2;3) và tiếp xúc với trục Ox. Bán kính của mặt cầu là:",
+    "options": ["√13", "1", "√5", "√10"],
+    "correctAnswer": "√13"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;0;0), B(0;1;0), C(1;1;1). Tứ giác OABC là hình gì?",
+    "options": ["Không là hình bình hành", "Hình bình hành", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Không là hình bình hành"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ a=(1;2;3), b=(-2;1;1). Tọa độ của vectơ c = 2a - 3b là:",
+    "options": ["(8; 1; 3)", "(-4; 1; 3)", "(8; 1; 9)", "(-4; 7; 3)"],
+    "correctAnswer": "(8; 1; 3)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(m-1; 2; 3), B(1; m; -1). Đoạn AB có độ dài nhỏ nhất khi:",
+    "options": ["m=2", "m=1", "m=0", "m=3"],
+    "correctAnswer": "m=2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): (x+3)²+(y-1)²+(z-2)²=4. Tọa độ tâm I và bán kính R là:",
+    "options": ["I(-3;1;2), R=2", "I(3;-1;-2), R=2", "I(-3;1;2), R=4", "I(3;-1;-2), R=4"],
+    "correctAnswer": "I(-3;1;2), R=2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;-1), B(2;1;-3), C(0;-1;2). Điểm D để ABCD là hình bình hành có tọa độ:",
+    "options": ["D(-1;0;4)", "D(1;0;-4)", "D(3;2;-6)", "D(1;-2;0)"],
+    "correctAnswer": "D(-1;0;4)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(2;1;2) và v=(-1;0;2). Cosin góc giữa u và v là:",
+    "options": ["2/(3√5)", "2/15", "2/3", "2/√5"],
+    "correctAnswer": "2/(3√5)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(2; 1; 5). Hình chiếu của M trên (Oyz) là:",
+    "options": ["P(0;1;5)", "Q(2;0;5)", "R(2;1;0)", "O(0;0;0)"],
+    "correctAnswer": "P(0;1;5)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2y-2z-2=0. Bán kính mặt cầu là:",
+    "options": ["2", "√2", "4", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;1), B(2;2;2), C(3;3;3). Khẳng định nào đúng?",
+    "options": ["A, B, C thẳng hàng", "A, B, C tạo thành tam giác", "O, A, B, C đồng phẳng", "AB vuông góc AC"],
+    "correctAnswer": "A, B, C thẳng hàng"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;3;4). Vectơ nào sau đây không cùng phương với u?",
+    "options": ["a=(-2;-6;-8)", "b=(2;6;8)", "c=(1/2; 3/2; 2)", "d=(1;3;-4)"],
+    "correctAnswer": "d=(1;3;-4)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3), B(-1;0;1). Tọa độ trọng tâm G của tam giác OAB là:",
+    "options": ["G(0; 1; 2)", "G(0; 2/3; 4/3)", "G(0; 1; 4/3)", "G(2/3; 1; 4/3)"],
+    "correctAnswer": "G(0; 1; 4/3)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;4;2) và bán kính R=2. Phương trình mặt cầu (S) là:",
+    "options": ["(x-1)²+(y-4)²+(z-2)²=4", "(x+1)²+(y+4)²+(z+2)²=4", "(x-1)²+(y-4)²+(z-2)²=2", "(x+1)²+(y+4)²+(z+2)²=2"],
+    "correctAnswer": "(x-1)²+(y-4)²+(z-2)²=4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;0;-2), v=(2;1;-1), w=(1;-2;2). Tích hỗn tạp [u,v].w bằng:",
+    "options": ["-9", "9", "7", "-7"],
+    "correctAnswer": "-9"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(3;4;5). Khoảng cách từ M đến trục Oy là:",
+    "options": ["√34", "3", "4", "5"],
+    "correctAnswer": "√34"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) tiếp xúc với hai mặt phẳng (P): z-2=0 và (Q): z+4=0. Bán kính của (S) là:",
+    "options": ["3", "6", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;1), B(2;-1;0), C(3;1;-1). Điểm M trên trục Ox sao cho |MA+MB+MC| nhỏ nhất. Tọa độ M là:",
+    "options": ["M(2;0;0)", "M(1;0;0)", "M(3;0;0)", "M(6;0;0)"],
+    "correctAnswer": "M(2;0;0)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;1;-2) và v=(1;k;2). Hai vectơ vuông góc khi:",
+    "options": ["k=3", "k=-3", "k=5", "k=-5"],
+    "correctAnswer": "k=3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;0;0), B(0;1;0), C(0;0;1), D(-2;1;-1). Thể tích khối tứ diện ABCD là:",
+    "options": ["1/2", "1/3", "1", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2x-4y-6z=0. Mặt cầu có bán kính bằng:",
+    "options": ["√14", "14", "√5", "5"],
+    "correctAnswer": "√14"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(2;-1;6), B(-3;-1;-4), C(5;-1;0). Tam giác ABC là:",
+    "options": ["Tam giác vuông cân tại B", "Tam giác đều", "Tam giác vuông tại A", "Tam giác cân tại C"],
+    "correctAnswer": "Tam giác vuông tại A"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;2;m) và v=(2;-m;1). Để u.v = 3, giá trị của m là:",
+    "options": ["m=-1", "m=1", "m=2", "m=-2"],
+    "correctAnswer": "m=-1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(1;1;2). Tìm điểm N trên đường thẳng d: (x-1)/1 = y/2 = (z+1)/-1 sao cho MN vuông góc với d.",
+    "options": ["N(1;0;-1)", "N(2;2;-2)", "N(0;-2;0)", "N(1;0;1)"],
+    "correctAnswer": "N(1;0;-1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(2;0;-3) và đi qua M(4;2;-2). Bán kính R là:",
+    "options": ["3", "√3", "9", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(-1;2;3), B(1;0;2). Tọa độ trung điểm I của AB là:",
+    "options": ["I(0;1;5/2)", "I(2;-2;-1)", "I(-2;2;1)", "I(0;1;1)"],
+    "correctAnswer": "I(0;1;5/2)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;1;1) và v=(0;1;-1). Góc giữa hai vectơ là:",
+    "options": ["90°", "60°", "45°", "30°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(1;-2;3). Hình chiếu của M trên trục Oz là:",
+    "options": ["P(0;0;3)", "Q(1;0;0)", "R(0;-2;0)", "S(1;-2;0)"],
+    "correctAnswer": "P(0;0;3)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): (x-5)²+(y+4)²+z²=9. Tâm và bán kính là:",
+    "options": ["I(5;-4;0), R=3", "I(-5;4;0), R=3", "I(5;-4;0), R=9", "I(-5;4;0), R=9"],
+    "correctAnswer": "I(5;-4;0), R=3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;0), B(1;0;-1), C(0;-1;2). Ba điểm này tạo thành:",
+    "options": ["Một tam giác", "Một đường thẳng", "Ba đỉnh của hình vuông", "Ba đỉnh của hình thoi"],
+    "correctAnswer": "Một tam giác"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(2;3;-1) và v=(1;1;m). Để [u,v].(1;0;1)=0, giá trị của m là:",
+    "options": ["m=4", "m=-4", "m=2", "m=-2"],
+    "correctAnswer": "m=4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;0), B(0;2;1), C(1;0;2), D(1;1;1). Thể tích tứ diện ABCD là:",
+    "options": ["1/6", "1/3", "1/2", "1"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm O và tiếp xúc mặt phẳng (P): x+2y-2z+18=0. Phương trình mặt cầu (S) là:",
+    "options": ["x²+y²+z²=36", "x²+y²+z²=6", "x²+y²+z²=18", "x²+y²+z²=81"],
+    "correctAnswer": "x²+y²+z²=36"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3), B(3;2;1). Điểm M trên (Oxy) cách đều A và B có tọa độ:",
+    "options": ["M(2;y;0) với y bất kỳ", "M(2;0;0)", "M(0;2;0)", "M(2;2;0)"],
+    "correctAnswer": "M(2;y;0) với y bất kỳ"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho |u|=2, |v|=3, góc(u,v)=120°. Tích vô hướng u.v là:",
+    "options": ["-3", "3", "6", "-6"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;0;2), B(2;-1;3). Điểm C đối xứng với A qua B có tọa độ:",
+    "options": ["C(3;-2;4)", "C(1/2;-1/2;5/2)", "C(0;1;1)", "C(3;2;4)"],
+    "correctAnswer": "C(3;-2;4)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-8x+2y+1=0. Tâm I và bán kính R là:",
+    "options": ["I(4;-1;0), R=4", "I(-4;1;0), R=4", "I(4;-1;0), R=16", "I(8;-2;0), R=4"],
+    "correctAnswer": "I(4;-1;0), R=4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(2;4;-1), B(1;4;-1), C(2;4;3). Diện tích tam giác ABC là:",
+    "options": ["2", "4", "√2", "2√2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(m;m;2) và v=(1;2;3). Để |u|=|v|, giá trị của m là:",
+    "options": ["m=±√5", "m=5", "m=±2", "m=4"],
+    "correctAnswer": "m=±√5"
+  }
+]
+
