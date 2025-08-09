@@ -1,0 +1,403 @@
+[
+  {
+    "question": "Hàm số y = x³ - 3x nghịch biến trên khoảng nào?",
+    "options": ["(-1; 1)", "(-∞; -1)", "(1; +∞)", "R"],
+    "correctAnswer": "(-1; 1)"
+  },
+  {
+    "question": "Tập xác định của hàm số y = ln(x² - 1) là:",
+    "options": ["(-∞; -1) ∪ (1; +∞)", "(-1; 1)", "R \\ {-1, 1}", "R"],
+    "correctAnswer": "(-∞; -1) ∪ (1; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): 3x + y - 2z + 1 = 0. Vectơ nào là vectơ pháp tuyến của (P)?",
+    "options": ["n=(3; 1; -2)", "n=(3; 1; 2)", "n=(3; -1; 2)", "n=(1; 1; -2)"],
+    "correctAnswer": "n=(3; 1; -2)"
+  },
+  {
+    "question": "Họ nguyên hàm của hàm số f(x) = cos(2x) là:",
+    "options": ["(1/2)sin(2x) + C", "- (1/2)sin(2x) + C", "2sin(2x) + C", "-2sin(2x) + C"],
+    "correctAnswer": "(1/2)sin(2x) + C"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biết mặt xuất hiện là số nguyên tố. Xác suất để mặt đó là số 2 là:",
+    "options": ["1/3", "1/2", "1/6", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Giá trị cực đại của hàm số y = -x³ + 3x + 2 là:",
+    "options": ["4", "2", "0", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Giải phương trình 3<sup>x-1</sup> = 27.",
+    "options": ["x = 4", "x = 3", "x = 2", "x = 10"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=1+2t, y=3-t, z=4t. Một vectơ chỉ phương của d là:",
+    "options": ["u=(2; -1; 4)", "u=(1; 3; 0)", "u=(2; -1; 0)", "u=(1; 3; 4)"],
+    "correctAnswer": "u=(2; -1; 4)"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] (x²+1) dx.",
+    "options": ["4/3", "1", "2/3", "2"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh, 3 bi đỏ. Lấy ngẫu nhiên 2 bi. Biết 2 bi lấy ra khác màu. Xác suất để bi thứ nhất màu xanh là:",
+    "options": ["1/2", "5/8", "3/8", "5/15"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Đường tiệm cận ngang của đồ thị hàm số y = (2x+1)/(x-3) là:",
+    "options": ["y = 2", "y = -1/3", "x = 3", "x = -1/2"],
+    "correctAnswer": "y = 2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = 5<sup>x</sup> là:",
+    "options": ["5<sup>x</sup>.ln5", "5<sup>x</sup>", "x.5<sup>x-1</sup>", "5<sup>x</sup>/ln5"],
+    "correctAnswer": "5<sup>x</sup>.ln5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-4x+2y-6z+1=0. Tọa độ tâm I là:",
+    "options": ["I(2; -1; 3)", "I(-2; 1; -3)", "I(4; -2; 6)", "I(-4; 2; -6)"],
+    "correctAnswer": "I(2; -1; 3)"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = x² và y = 4 là:",
+    "options": ["32/3", "16/3", "8", "16"],
+    "correctAnswer": "32/3"
+  },
+  {
+    "question": "Hai xạ thủ độc lập bắn vào mục tiêu. Xác suất trúng của người A là 0.7, của người B là 0.8. Xác suất mục tiêu bị trúng là:",
+    "options": ["0.94", "0.56", "1.5", "0.06"],
+    "correctAnswer": "0.94"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x⁴ - 2x² + 3 trên đoạn [0, 2] là:",
+    "options": ["2", "3", "11", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình log<sub>0.2</sub>(x) > -1 là:",
+    "options": ["(0; 5)", "(5; +∞)", "(-∞; 5)", "(0; 0.2)"],
+    "correctAnswer": "(0; 5)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3) và B(3;0;-1). Phương trình mặt phẳng trung trực của đoạn AB là:",
+    "options": ["x - y - 2z = 0", "x + y + 2z - 6 = 0", "2x + y - z - 5 = 0", "x - y - 2z + 1 = 0"],
+    "correctAnswer": "x - y - 2z = 0"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = 1/(x-1)² là:",
+    "options": ["-1/(x-1) + C", "1/(x-1) + C", "ln|x-1| + C", "-2/(x-1)³ + C"],
+    "correctAnswer": "-1/(x-1) + C"
+  },
+  {
+    "question": "Một lớp có 40 học sinh gồm 25 nam và 15 nữ. Chọn ngẫu nhiên 3 học sinh. Biết 3 học sinh được chọn có cả nam và nữ. Xác suất để có 1 nam và 2 nữ là:",
+    "options": ["C(25,1)C(15,2) / (C(40,3)-C(25,3)-C(15,3))", "C(25,1)C(15,2)/C(40,3)", "1/2", "1/3"],
+    "correctAnswer": "C(25,1)C(15,2) / (C(40,3)-C(25,3)-C(15,3))"
+  },
+  {
+    "question": "Số giao điểm của đồ thị y = x³ - 2x² + 1 và trục hoành là:",
+    "options": ["3", "1", "2", "0"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương trình 9<sup>x</sup> - 4.3<sup>x</sup> + 3 = 0 có tổng các nghiệm là:",
+    "options": ["1", "3", "4", "log₃4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: (x-1)/2 = y/(-1) = z/1 và mặt phẳng (P): x+y+z-3=0. Giao điểm của d và (P) là:",
+    "options": ["M(1;0;0)", "N(3;-1;1)", "P(-1;1;-1)", "Không có giao điểm"],
+    "correctAnswer": "N(3;-1;1)"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=√x, y=0, x=0, x=1 quanh Ox là:",
+    "options": ["π/2", "π", "π/3", "2π"],
+    "correctAnswer": "π/2"
+  },
+  {
+    "question": "Cho P(A)=1/3, P(B)=1/4, P(A∪B)=1/2. Tính P(A|B).",
+    "options": ["1/3", "1/4", "1/2", "1/12"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Hàm số y = (mx+1)/(x+m) đồng biến trên khoảng (1; +∞) khi:",
+    "options": ["m > 1", "m < -1", "-1 < m < 1", "m ≥ 1"],
+    "correctAnswer": "m > 1"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (x-1)<sup>√2</sup> là:",
+    "options": ["(1; +∞)", "[1; +∞)", "R \\ {1}", "R"],
+    "correctAnswer": "(1; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;1) và B(2;3;4). Vectơ nào sau đây là vectơ chỉ phương của đường thẳng AB?",
+    "options": ["u=(1;2;3)", "u=(3;4;5)", "u=(1;1;1)", "u=(2;3;4)"],
+    "correctAnswer": "u=(1;2;3)"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,π] sin(x/2) dx.",
+    "options": ["2", "1", "0", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một hộp có 2 bi trắng, 3 bi xanh, 5 bi đỏ. Lấy lần lượt 3 bi không hoàn lại. Biết bi thứ nhất và thứ hai đều màu đỏ. Xác suất bi thứ ba màu trắng là:",
+    "options": ["1/4", "2/10", "2/8", "1/5"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x²+1)/(x-1) có tiệm cận xiên là:",
+    "options": ["y = x+1", "y = x-1", "y = x", "Không có"],
+    "correctAnswer": "y = x+1"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = log(x) là:",
+    "options": ["1/(x.ln10)", "1/x", "ln10/x", "x.ln10"],
+    "correctAnswer": "1/(x.ln10)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;2;3) và tiếp xúc với mặt phẳng (Oxy). Phương trình của (S) là:",
+    "options": ["(x-1)²+(y-2)²+(z-3)²=9", "(x-1)²+(y-2)²+(z-3)²=3", "x²+y²+z²=9", "(x-1)²+(y-2)²+(z-3)²=14"],
+    "correctAnswer": "(x-1)²+(y-2)²+(z-3)²=9"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = x.ln(x) là:",
+    "options": ["(x²/2)ln(x) - x²/4 + C", "(x²/2)ln(x) + x²/4 + C", "x²ln(x) + C", "ln(x) + C"],
+    "correctAnswer": "(x²/2)ln(x) - x²/4 + C"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Biết tổng số chấm là một số chẵn. Xác suất để tổng số chấm bằng 8 là:",
+    "options": ["5/18", "5/36", "1/6", "1/2"],
+    "correctAnswer": "5/18"
+  },
+  {
+    "question": "Tìm m để hàm số y = x³ - 3x² + mx + 1 có hai điểm cực trị.",
+    "options": ["m < 3", "m > 3", "m ≤ 3", "m ≥ 3"],
+    "correctAnswer": "m < 3"
+  },
+  {
+    "question": "Phương trình log₂(x) + log₂(x-1) = 1 có nghiệm là:",
+    "options": ["x = 2", "x = -1", "x = 1", "Vô nghiệm"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): 2x-y+z-3=0. Điểm nào sau đây không thuộc (P)?",
+    "options": ["M(1;1;1)", "N(0;0;3)", "P(1;-1;0)", "Q(2;1;0)"],
+    "correctAnswer": "M(1;1;1)"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] x.e<sup>x</sup> dx.",
+    "options": ["1", "e-1", "e", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một hộp có 10 sản phẩm, trong đó có 3 phế phẩm. Lấy lần lượt 2 sản phẩm không hoàn lại. Xác suất để sản phẩm thứ hai là phế phẩm là:",
+    "options": ["3/10", "2/9", "3/9", "7/10"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = (x-1)/x trên đoạn [1, 2] là:",
+    "options": ["1/2", "0", "1", "Không tồn tại"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình 2<sup>x²</sup> < 16 là:",
+    "options": ["(-2; 2)", "(-∞; -2) ∪ (2; +∞)", "(0; 4)", "(-4; 4)"],
+    "correctAnswer": "(-2; 2)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=t, y=2t, z=3t và mặt phẳng (P): x+y-z=0. Vị trí tương đối của d và (P) là:",
+    "options": ["d nằm trong (P)", "d song song (P)", "d cắt (P)", "d vuông góc (P)"],
+    "correctAnswer": "d nằm trong (P)"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = |x|, trục Ox, x=-1, x=1 là:",
+    "options": ["1", "2", "1/2", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một người có 4 đôi giày khác nhau. Lấy ngẫu nhiên 2 chiếc. Biết 2 chiếc lấy ra không cùng một đôi. Xác suất để có 1 chiếc trái và 1 chiếc phải là:",
+    "options": ["4/7", "1/2", "3/7", "1"],
+    "correctAnswer": "4/7"
+  },
+  {
+    "question": "Hàm số y = x⁴ - 2mx² + m có 3 điểm cực trị khi:",
+    "options": ["m > 0", "m < 0", "m ≥ 0", "m ≠ 0"],
+    "correctAnswer": "m > 0"
+  },
+  {
+    "question": "Cho a = log₂3, b = log₂5. Tính log₂60 theo a và b.",
+    "options": ["2+a+b", "1+a+b", "2ab", "a+b"],
+    "correctAnswer": "2+a+b"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2x-4y-6z=0. Mặt cầu (S) đi qua điểm nào?",
+    "options": ["O(0;0;0)", "A(1;2;3)", "B(2;4;6)", "C(-1;-2;-3)"],
+    "correctAnswer": "O(0;0;0)"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = 1/√(1-x²) là:",
+    "options": ["arcsin(x) + C", "arccos(x) + C", "ln|√(1-x²)| + C", "2√(1-x²) + C"],
+    "correctAnswer": "arcsin(x) + C"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh, 4 bi đỏ. Lấy lần lượt 2 bi không hoàn lại. Xác suất để bi thứ 2 màu đỏ, biết bi thứ nhất màu xanh là:",
+    "options": ["2/3", "4/7", "4/6", "3/6"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x+1)/(x²-1) có bao nhiêu đường tiệm cận?",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup> + 2<sup>-x</sup> = 2 có nghiệm là:",
+    "options": ["x = 0", "x = 1", "x = -1", "Vô nghiệm"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): x-2y+2z-3=0. Khoảng cách từ M(1;1;1) đến (P) là:",
+    "options": ["2/3", "2", "3", "1/3"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] (2x+1)e<sup>x</sup> dx.",
+    "options": ["e+1", "e-1", "3e-1", "e"],
+    "correctAnswer": "e+1"
+  },
+  {
+    "question": "Gieo một đồng xu 4 lần. Biết lần đầu tiên ra mặt sấp. Xác suất để có đúng 2 mặt sấp là:",
+    "options": ["3/8", "1/2", "1/4", "3/16"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Hàm số y = x + cos²(x) đồng biến trên khoảng nào?",
+    "options": ["R", "(0; π/2)", "(-π/2; 0)", "Không có"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log₂(log₃(x)) là:",
+    "options": ["(1; +∞)", "(0; +∞)", "(3; +∞)", "(e; +∞)"],
+    "correctAnswer": "(1; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=t, y=1, z=2-t. Góc giữa d và trục Oy là:",
+    "options": ["90°", "0°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi y=x² và y=x quanh trục Ox là:",
+    "options": ["2π/15", "3π/10", "π/6", "π/5"],
+    "correctAnswer": "2π/15"
+  },
+  {
+    "question": "Một hộp có 2 sản phẩm tốt, 3 phế phẩm. Lấy lần lượt từng sản phẩm cho đến khi lấy được sản phẩm tốt thì dừng. Xác suất dừng lại ở lần lấy thứ 3 là:",
+    "options": ["1/10", "3/5", "2/5", "1/20"],
+    "correctAnswer": "1/10"
+  },
+  {
+    "question": "Giá trị cực tiểu của hàm số y = x + 4/x trên (0; +∞) là:",
+    "options": ["4", "2", "5", "Không có"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Phương trình log(x-1)² = 2 có tổng các nghiệm là:",
+    "options": ["2", "10", "12", "100"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): x+y-1=0 và (Q): y+z-1=0. Giao tuyến của (P) và (Q) có một VTCP là:",
+    "options": ["u=(1;-1;1)", "u=(1;1;-1)", "u=(1;1;1)", "u=(1;0;1)"],
+    "correctAnswer": "u=(1;-1;1)"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = tan²(x) là:",
+    "options": ["tan(x) - x + C", "tan(x) + x + C", "x - tan(x) + C", "1/3 tan³(x) + C"],
+    "correctAnswer": "tan(x) - x + C"
+  },
+  {
+    "question": "Hai người A và B chơi cờ. Biết xác suất A thắng là 0.3, B thắng là 0.4. Họ chơi 3 ván. Xác suất A thắng 1 ván, B thắng 1 ván, hòa 1 ván là:",
+    "options": ["0.216", "0.3*0.4*0.3", "3!*0.3*0.4*0.3", "0.12"],
+    "correctAnswer": "3!*0.3*0.4*0.3"
+  },
+  {
+    "question": "Hàm số y = (x²-x+1)/(x-1) có điểm cực đại và cực tiểu lần lượt là:",
+    "options": ["x=0 và x=2", "x=2 và x=0", "Không có cực trị", "x=1 và x=-1"],
+    "correctAnswer": "x=0 và x=2"
+  },
+  {
+    "question": "Bất phương trình 4<sup>x</sup> - 2<sup>x+1</sup> - 8 > 0 có tập nghiệm là:",
+    "options": ["(2; +∞)", "(-∞; -1) ∪ (2; +∞)", "(4; +∞)", "(-∞; 2)"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²=4 và mặt phẳng (P): x+y+z=m. (P) tiếp xúc với (S) khi:",
+    "options": ["m = ±2√3", "m = ±2", "m = ±√3", "m = ±3"],
+    "correctAnswer": "m = ±2√3"
+  },
+  {
+    "question": "Tính tích phân I = ∫[1,2] dx/(x²+x).",
+    "options": ["ln(4/3)", "ln(3/2)", "ln(2)", "ln(3)"],
+    "correctAnswer": "ln(4/3)"
+  },
+  {
+    "question": "Một hộp có 10 bi trong đó có 3 bi đỏ. Lấy ngẫu nhiên 3 bi. Biết trong 3 bi có bi đỏ. Xác suất để cả 3 bi đều đỏ là:",
+    "options": ["1/85", "1/120", "C(3,3)/C(10,3)", "1/(C(10,3)-C(7,3))"],
+    "correctAnswer": "1/(C(10,3)-C(7,3))"
+  },
+  {
+    "question": "Đồ thị hàm số y = x³ - 3x² + 2 có hai điểm cực trị là A và B. Độ dài đoạn thẳng AB là:",
+    "options": ["2√5", "√5", "5", "4"],
+    "correctAnswer": "2√5"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup> = 3-x có bao nhiêu nghiệm?",
+    "options": ["1", "2", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3), B(2;2;3), C(1;3;3). Phương trình mặt phẳng (ABC) là:",
+    "options": ["z-3=0", "x-1=0", "y-2=0", "x+y+z=6"],
+    "correctAnswer": "z-3=0"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = x.cos(x²) là:",
+    "options": ["(1/2)sin(x²) + C", "2sin(x²) + C", "- (1/2)sin(x²) + C", "sin(x²) + C"],
+    "correctAnswer": "(1/2)sin(x²) + C"
+  },
+  {
+    "question": "Xác suất một sản phẩm bị lỗi là 0.05. Kiểm tra 3 sản phẩm. Biết có ít nhất 1 sản phẩm lỗi. Xác suất cả 3 đều lỗi là:",
+    "options": ["0.05³ / (1-0.95³)", "0.05³", "1-0.95³", "3*0.05"],
+    "correctAnswer": "0.05³ / (1-0.95³)"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = x/e<sup>x</sup> trên [0, 2] là:",
+    "options": ["1/e", "0", "2/e²", "e"],
+    "correctAnswer": "1/e"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = log₂(x²) là:",
+    "options": ["2/(x.ln2)", "2/x", "1/(x.ln2)", "1/x²"],
+    "correctAnswer": "2/(x.ln2)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=t, y=2t, z=3t và d': x=2u, y=4u, z=6u. Vị trí tương đối của d và d' là:",
+    "options": ["Trùng nhau", "Song song", "Cắt nhau", "Chéo nhau"],
+    "correctAnswer": "Trùng nhau"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = 1/x, y=0, x=1, x=a (a>1) bằng 2. Tìm a.",
+    "options": ["e²", "e", "100", "2"],
+    "correctAnswer": "e²"
+  },
+  {
+    "question": "Một hộp có 3 bi đỏ, 2 bi xanh. Lấy lần lượt 2 bi có hoàn lại. Biết 2 bi lấy ra cùng màu. Xác suất cả 2 bi đều đỏ là:",
+    "options": ["9/13", "9/25", "4/25", "4/13"],
+    "correctAnswer": "9/13"
+  }
+]
+
