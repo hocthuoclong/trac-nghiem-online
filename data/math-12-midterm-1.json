@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Hàm số y = x<sup>3</sup> - 3x<sup>2</sup> + 2 đồng biến trên khoảng nào?",
+    "options": ["(-∞; 0) và (2; +∞)", "(0; 2)", "R", "(-∞; 2)"],
+    "correctAnswer": "(-∞; 0) và (2; +∞)"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log(x-2) là:",
+    "options": ["(2; +∞)", "[2; +∞)", "R", "R \\ {2}"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm A(2; -1; 5). Hình chiếu của A trên trục Oy là:",
+    "options": ["(0; -1; 0)", "(2; 0; 5)", "(0; -1; 5)", "(2; -1; 0)"],
+    "correctAnswer": "(0; -1; 0)"
+  },
+  {
+    "question": "Giá trị cực tiểu của hàm số y = x<sup>4</sup> - 2x<sup>2</sup> + 5 là:",
+    "options": ["4", "5", "3", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Giải phương trình 5<sup>x+1</sup> = 25.",
+    "options": ["x = 1", "x = 2", "x = 3", "x = 4"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai vectơ u=(2;1;-1) và v=(1;3;1). Tích vô hướng u.v bằng:",
+    "options": ["4", "5", "6", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Đường tiệm cận đứng của đồ thị hàm số y = (3x+2)/(x-1) là:",
+    "options": ["x = 1", "x = -1", "y = 3", "y = -2/3"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = ln(3x+1) là:",
+    "options": ["3/(3x+1)", "1/(3x+1)", "3", "ln(3)"],
+    "correctAnswer": "3/(3x+1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): (x-2)² + y² + (z+1)² = 16. Tâm và bán kính của mặt cầu là:",
+    "options": ["I(2; 0; -1), R=4", "I(-2; 0; 1), R=4", "I(2; 0; -1), R=16", "I(-2; 0; 1), R=16"],
+    "correctAnswer": "I(2; 0; -1), R=4"
+  },
+  {
+    "question": "Hàm số y = -x<sup>3</sup> + 3x - 5 có bao nhiêu điểm cực trị?",
+    "options": ["2", "1", "0", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình log<sub>2</sub>(x) > 3 là:",
+    "options": ["(8; +∞)", "(9; +∞)", "(0; 8)", "(-∞; 8)"],
+    "correctAnswer": "(8; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai điểm A(3; 2; 1) và B(1; 0; -1). Tọa độ của vectơ BA là:",
+    "options": ["(2; 2; 2)", "(-2; -2; -2)", "(4; 2; 0)", "(2; 2; 0)"],
+    "correctAnswer": "(2; 2; 2)"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 2x³ - 3x² - 12x + 1 trên đoạn [-2, 3] là:",
+    "options": ["8", "-3", "1", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = 3<sup>x²</sup> là:",
+    "options": ["2x.3<sup>x²</sup>.ln3", "3<sup>x²</sup>.ln3", "x².3<sup>x²-1</sup>", "2x.3<sup>x²</sup>"],
+    "correctAnswer": "2x.3<sup>x²</sup>.ln3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ u = 3i - j + 2k. Tọa độ của vectơ u là:",
+    "options": ["(3; -1; 2)", "(3; 1; 2)", "(-1; 3; 2)", "(2; -1; 3)"],
+    "correctAnswer": "(3; -1; 2)"
+  },
+  {
+    "question": "Đường tiệm cận ngang của đồ thị hàm số y = (4-2x)/(x+1) là:",
+    "options": ["y = -2", "y = 4", "x = -1", "x = 2"],
+    "correctAnswer": "y = -2"
+  },
+  {
+    "question": "Phương trình log₃(2x-1) = 2 có nghiệm là:",
+    "options": ["x = 5", "x = 4", "x = 3.5", "x = 9/2"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho điểm M(1; 6; -3). Khoảng cách từ M đến mặt phẳng (Oxy) là:",
+    "options": ["3", "1", "6", "√46"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hàm số y = (x+1)/(x-1) nghịch biến trên các khoảng nào?",
+    "options": ["(-∞; 1) và (1; +∞)", "R", "R \\ {1}", "Không có khoảng nào"],
+    "correctAnswer": "(-∞; 1) và (1; +∞)"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình (0.5)<sup>x</sup> > 2 là:",
+    "options": ["(-∞; -1)", "(1; +∞)", "(-1; +∞)", "(-∞; 1)"],
+    "correctAnswer": "(-∞; -1)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho ba điểm A(1;0;0), B(0;1;0), C(0;0;1). Thể tích khối tứ diện OABC là:",
+    "options": ["1/6", "1", "1/3", "1/2"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Tìm m để hàm số y = x³ - 3mx² + 3x + 1 đồng biến trên R.",
+    "options": ["-1 ≤ m ≤ 1", "m > 1", "m < -1", "m=1 hoặc m=-1"],
+    "correctAnswer": "-1 ≤ m ≤ 1"
+  },
+  {
+    "question": "Cho log₃x = 2. Giá trị của x là:",
+    "options": ["9", "6", "8", "√3"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho vectơ a=(1;m;2) và b=(2;-2;n). Hai vectơ này cùng phương khi:",
+    "options": ["m=-1, n=4", "m=1, n=-4", "m=-1, n=-4", "m=1, n=4"],
+    "correctAnswer": "m=-1, n=4"
+  },
+  {
+    "question": "Số giao điểm của đồ thị hàm số y = x⁴ - 4x² + 3 và trục hoành là:",
+    "options": ["4", "2", "3", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Phương trình 4<sup>x</sup> - 6.2<sup>x</sup> + 8 = 0 có tổng các nghiệm là:",
+    "options": ["3", "6", "8", "log₂6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x² + y² + z² + 4x - 2y + 6z - 2 = 0. Tâm của mặt cầu là:",
+    "options": ["I(-2; 1; -3)", "I(2; -1; 3)", "I(4; -2; 6)", "I(-4; 2; -6)"],
+    "correctAnswer": "I(-2; 1; -3)"
+  },
+  {
+    "question": "Hàm số y = -x⁴ + 2x² - 1 có bao nhiêu điểm cực đại?",
+    "options": ["2", "1", "0", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (x²-4)<sup>-1/3</sup> là:",
+    "options": ["(-∞; -2) ∪ (2; +∞)", "R \\ {-2, 2}", "[-2; 2]", "R"],
+    "correctAnswer": "(-∞; -2) ∪ (2; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3), B(3;4;5), C(5;6;7). Khẳng định nào đúng?",
+    "options": ["A, B, C thẳng hàng", "A, B, C tạo thành tam giác vuông", "A, B, C tạo thành tam giác đều", "A, B, C tạo thành tam giác cân"],
+    "correctAnswer": "A, B, C thẳng hàng"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x + 1/x trên khoảng (0; +∞) là:",
+    "options": ["2", "1", "0", "Không có"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho log₅2 = a. Tính log₂₅50 theo a.",
+    "options": ["(1+a)/2", "2(1+a)", "1+a", "1+2a"],
+    "correctAnswer": "(1+a)/2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai vectơ u=(1; -2; 3) và v=(x; 4; -6). Hai vectơ cùng phương khi x bằng:",
+    "options": ["-2", "2", "1", "-1"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Tiếp tuyến của đồ thị hàm số y = (2x-1)/(x+1) tại điểm có hoành độ x=1 có hệ số góc bằng:",
+    "options": ["3/4", "4/3", "1/4", "3"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Bất phương trình log(x² - 3) > log(x - 1) có tập nghiệm là:",
+    "options": ["(2; +∞)", "(√3; +∞)", "(1; 2)", "(-√3; 1)"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1; -2; 0) và tiếp xúc với trục Oz. Bán kính của mặt cầu là:",
+    "options": ["√5", "1", "2", "3"],
+    "correctAnswer": "√5"
+  },
+  {
+    "question": "Hàm số y = x - e<sup>x</sup> nghịch biến trên khoảng nào?",
+    "options": ["R", "(0; +∞)", "(-∞; 0)", "(1; e)"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Phương trình 2<sup>2x+1</sup> - 9.2<sup>x</sup> + 4 = 0 có tích các nghiệm là:",
+    "options": ["1", "2", "4", "9/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hình bình hành ABCD có A(1;0;1), B(2;1;2), D(1;-1;1). Tọa độ đỉnh C là:",
+    "options": ["C(2;0;2)", "C(0;0;0)", "C(2;2;2)", "C(0;-2;0)"],
+    "correctAnswer": "C(2;0;2)"
+  },
+  {
+    "question": "Đồ thị hàm số y = x³ - 3x² + 1 có điểm uốn là:",
+    "options": ["I(1; -1)", "I(0; 1)", "I(2; -3)", "I(1; 1)"],
+    "correctAnswer": "I(1; -1)"
+  },
+  {
+    "question": "Tập xác định của hàm số y = ln(x² - 2x) là:",
+    "options": ["(-∞; 0) ∪ (2; +∞)", "(0; 2)", "R \\ {0, 2}", "R"],
+    "correctAnswer": "(-∞; 0) ∪ (2; +∞)"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;2), B(3;1;0), C(1;3;0). Tam giác ABC là tam giác gì?",
+    "options": ["Cân tại A", "Vuông tại B", "Đều", "Vuông tại C"],
+    "correctAnswer": "Cân tại A"
+  },
+  {
+    "question": "Giá trị của biểu thức P = log₂(cos(45°)) + log₂(sin(45°)) là:",
+    "options": ["-1", "0", "1", "1/2"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Hàm số y = (2x+3)/(x+1) có bao nhiêu đường tiệm cận?",
+    "options": ["2", "1", "0", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2x+4y-2=0. Bán kính R là:",
+    "options": ["√7", "7", "√2", "2"],
+    "correctAnswer": "√7"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = log₅(x²+x+1) là:",
+    "options": ["(2x+1)/((x²+x+1)ln5)", "(2x+1)/(x²+x+1)", "1/((x²+x+1)ln5)", "ln5/(x²+x+1)"],
+    "correctAnswer": "(2x+1)/((x²+x+1)ln5)"
+  },
+  {
+    "question": "Số nghiệm của phương trình log₂(x-1) + log₂(x+1) = 3 là:",
+    "options": ["1", "2", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;2;3), v=(2;2;-1), w=(4;0;-4). Ba vectơ này:",
+    "options": ["Đồng phẳng", "Không đồng phẳng", "Tạo thành tam diện vuông", "Cùng phương"],
+    "correctAnswer": "Đồng phẳng"
+  },
+  {
+    "question": "Giá trị cực đại của hàm số y = -x³ + 3x² + 5 là:",
+    "options": ["9", "5", "1", "2"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Hàm số y = (x²-4x+5)<sup>2025</sup> có tập xác định là:",
+    "options": ["R", "R \\ {1, 5}", "(1; 5)", "(-∞; 1) ∪ (5; +∞)"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3) và B(-3;-2;-1). Tọa độ trung điểm I của AB là:",
+    "options": ["I(-1;0;1)", "I(-2;-2;-2)", "I(2;2;2)", "I(-4;-4;-4)"],
+    "correctAnswer": "I(-1;0;1)"
+  },
+  {
+    "question": "Bất phương trình (π/4)<sup>x</sup> < (π/4)<sup>2</sup> có tập nghiệm là:",
+    "options": ["(2; +∞)", "(-∞; 2)", "(0; 2)", "R"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x-1)/(x²+1) có bao nhiêu tiệm cận ngang?",
+    "options": ["1", "2", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) đi qua A(1;2;0) và có tâm là gốc tọa độ O. Phương trình của (S) là:",
+    "options": ["x²+y²+z²=5", "x²+y²+z²=√5", "(x-1)²+(y-2)²+z²=5", "x²+y²+z²=25"],
+    "correctAnswer": "x²+y²+z²=5"
+  },
+  {
+    "question": "Phương trình 3<sup>x²-4x+5</sup> = 9 có tổng các nghiệm là:",
+    "options": ["4", "3", "2", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x.ln(x) trên đoạn [1/e, e] là:",
+    "options": ["-1/e", "e", "1", "0"],
+    "correctAnswer": "-1/e"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(2;-1;1), v=(1;0;m). Góc giữa u và v bằng 90° khi:",
+    "options": ["m=-2", "m=2", "m=1", "m=-1"],
+    "correctAnswer": "m=-2"
+  },
+  {
+    "question": "Hàm số nào sau đây đồng biến trên R?",
+    "options": ["y = x³+x", "y = -x³+x", "y = (x+1)/(x-1)", "y = x⁴+x²"],
+    "correctAnswer": "y = x³+x"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình log<sub>1/2</sub>(x+2) ≥ -2 là:",
+    "options": ["(-2; 2]", "(-∞; 2]", "[-2; 2]", "(2; +∞)"],
+    "correctAnswer": "(-2; 2]"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;0;0), B(0;2;0), C(0;0;3). Trọng tâm G của tam giác ABC có tọa độ:",
+    "options": ["(1/3; 2/3; 1)", "(1; 2; 3)", "(1/2; 1; 3/2)", "(1/3; 1; 2/3)"],
+    "correctAnswer": "(1/3; 2/3; 1)"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = e<sup>1-2x</sup> là:",
+    "options": ["-2e<sup>1-2x</sup>", "e<sup>1-2x</sup>", "2e<sup>1-2x</sup>", "(1-2x)e<sup>-2x</sup>"],
+    "correctAnswer": "-2e<sup>1-2x</sup>"
+  },
+  {
+    "question": "Số đường tiệm cận của đồ thị hàm số y = (x²-3x+2)/(x-1) là:",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): (x-1)²+(y-2)²+(z-3)²=1. Khoảng cách từ tâm I của (S) đến mặt phẳng (Oxy) là:",
+    "options": ["3", "1", "2", "√14"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup> + 2<sup>3-x</sup> = 6 có tổng các nghiệm là:",
+    "options": ["3", "6", "2", "8"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hàm số y = x⁴ - 2x² có điểm cực tiểu là:",
+    "options": ["x=±1", "x=0", "x=1", "x=-1"],
+    "correctAnswer": "x=±1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(2;1;4), B(-2;3;0). Độ dài đoạn thẳng AB là:",
+    "options": ["6", "√36", "√24", "4"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log<sub>x</sub>(2-x) là:",
+    "options": ["(0; 2) \\ {1}", "(0; 2)", "(-∞; 2)", "(0; +∞)"],
+    "correctAnswer": "(0; 2) \\ {1}"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 3sinx + 4cosx là:",
+    "options": ["5", "7", "1", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(2;0;1), v=(-1;1;2). Tọa độ của [u,v] là:",
+    "options": ["(-1; -5; 2)", "(1; 5; -2)", "(-1; 5; 2)", "(1; -5; -2)"],
+    "correctAnswer": "(-1; -5; 2)"
+  },
+  {
+    "question": "Bất phương trình 5<sup>x-1</sup> ≥ 1/25 có tập nghiệm là:",
+    "options": ["[-1; +∞)", "[3; +∞)", "(-∞; -1]", "(-∞; 3]"],
+    "correctAnswer": "[-1; +∞)"
+  },
+  {
+    "question": "Đồ thị hàm số y=(x-2)/(x²-4) có bao nhiêu tiệm cận đứng?",
+    "options": ["1", "2", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;2;-3) và đi qua A(1;0;4). Bán kính R là:",
+    "options": ["√53", "53", "7", "√7"],
+    "correctAnswer": "√53"
+  },
+  {
+    "question": "Nghiệm của phương trình log(x) + log(x-9) = 1 là:",
+    "options": ["10", "-1", "1", "9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hàm số y = x³ - 6x² + 5 có điểm cực đại và cực tiểu lần lượt là:",
+    "options": ["x=0 và x=4", "x=4 và x=0", "x=0 và x=2", "x=2 và x=0"],
+    "correctAnswer": "x=0 và x=4"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;1), B(2;3;4), C(6;5;2), D(7;7;5). Bốn điểm này:",
+    "options": ["Tạo thành một tứ diện", "Tạo thành hình bình hành", "Đồng phẳng", "Thẳng hàng"],
+    "correctAnswer": "Tạo thành một tứ diện"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x<sup>√2</sup> là:",
+    "options": ["√2.x<sup>√2-1</sup>", "x<sup>√2</sup>.lnx", "√2.x<sup>√2</sup>", "x<sup>√2-1</sup>"],
+    "correctAnswer": "√2.x<sup>√2-1</sup>"
+  },
+  {
+    "question": "Số giao điểm của đồ thị y = x³ - 3x + 1 và đường thẳng y = 2 là:",
+    "options": ["2", "3", "1", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²=1 và điểm A(1;1;1). Khẳng định nào đúng?",
+    "options": ["A nằm trong mặt cầu", "A nằm trên mặt cầu", "A nằm ngoài mặt cầu", "A là tâm mặt cầu"],
+    "correctAnswer": "A nằm ngoài mặt cầu"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình log<sub>3</sub>(x-1) ≤ 2 là:",
+    "options": ["(1; 10]", "(-∞; 10]", "[1; 10]", "(1; 9]"],
+    "correctAnswer": "(1; 10]"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = x⁴ - 4x² + 3 trên đoạn [-1, 2] là:",
+    "options": ["-1", "0", "3", "-2"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho u=(1;1;0), v=(1;-1;0). Góc giữa hai vectơ là:",
+    "options": ["90°", "60°", "45°", "0°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Phương trình e<sup>x</sup> = 1 có nghiệm là:",
+    "options": ["x = 0", "x = 1", "x = e", "Vô nghiệm"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Đồ thị hàm số y = (x+1)/√(x²-1) có bao nhiêu tiệm cận đứng?",
+    "options": ["1", "2", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;0;0), B(0;1;0), C(1;1;0). Tam giác ABC là:",
+    "options": ["Tam giác vuông cân tại O", "Tam giác vuông cân tại C", "Tam giác đều", "Tam giác vuông tại A"],
+    "correctAnswer": "Tam giác vuông cân tại C"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (2-x)<sup>π</sup> là:",
+    "options": ["(-∞; 2)", "(-∞; 2]", "R \\ {2}", "R"],
+    "correctAnswer": "(-∞; 2)"
+  },
+  {
+    "question": "Hàm số y = x.e<sup>x</sup> có bao nhiêu điểm cực trị?",
+    "options": ["1", "0", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(0;0;1) và bán kính R=5. Phương trình của (S) là:",
+    "options": ["x²+y²+(z-1)²=25", "x²+y²+(z+1)²=25", "x²+y²+z²=25", "(x-1)²+y²+z²=25"],
+    "correctAnswer": "x²+y²+(z-1)²=25"
+  },
+  {
+    "question": "Cho log₂3 = a. Tính log₁₂18 theo a.",
+    "options": ["(2a+1)/(a+2)", "(a+1)/(a+2)", "(2a-1)/(a-2)", "(a+2)/(2a+1)"],
+    "correctAnswer": "(2a+1)/(a+2)"
+  }
+]
+
