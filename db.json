@@ -26,6 +26,10 @@
                   "file": "./data/math-12-chapter-4.json"
                 },
                 {
+                  "name": "Chương 6 (ĐS&GT): Xác suất có điều kiện",
+                  "file": "./data/math-12-chapter-5.json"
+                },
+                {
                   "name": "Chương 1 (Hình học): Vectơ và hệ tọa độ trong không gian",
                   "file": "./data/math-12-geometry-chapter-1.json"
                 },
