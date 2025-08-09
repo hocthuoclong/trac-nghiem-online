@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Cho hai biến cố A và B. Công thức tính xác suất có điều kiện của A khi B đã xảy ra là:",
+    "options": ["P(A|B) = P(A ∩ B) / P(B)", "P(A|B) = P(A ∩ B) / P(A)", "P(A|B) = P(A) * P(B)", "P(A|B) = P(A) + P(B)"],
+    "correctAnswer": "P(A|B) = P(A ∩ B) / P(B)"
+  },
+  {
+    "question": "Gieo một con súc sắc cân đối. Biết rằng mặt xuất hiện là số chẵn. Xác suất để mặt đó là số 2 là:",
+    "options": ["1/3", "1/6", "1/2", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Cho P(A) = 0.5, P(B) = 0.4 và P(A ∩ B) = 0.2. Tính P(A|B).",
+    "options": ["0.5", "0.4", "0.2", "0.8"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "question": "Hai biến cố A và B được gọi là độc lập nếu:",
+    "options": ["P(A ∩ B) = P(A) * P(B)", "P(A ∩ B) = 0", "P(A ∪ B) = P(A) + P(B)", "A ∩ B = ∅"],
+    "correctAnswer": "P(A ∩ B) = P(A) * P(B)"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh và 3 bi đỏ. Lấy ngẫu nhiên 2 bi. Biết rằng 2 bi lấy ra cùng màu. Xác suất để 2 bi đó màu xanh là:",
+    "options": ["10/13", "5/8", "3/8", "10/28"],
+    "correctAnswer": "10/13"
+  },
+  {
+    "question": "Công thức nhân xác suất cho hai biến cố A và B là:",
+    "options": ["P(A ∩ B) = P(A) * P(B|A)", "P(A ∩ B) = P(A) + P(B)", "P(A ∩ B) = P(A|B)", "P(A ∩ B) = P(A) * P(B)"],
+    "correctAnswer": "P(A ∩ B) = P(A) * P(B|A)"
+  },
+  {
+    "question": "Tung một đồng xu 2 lần. Biết rằng lần tung thứ nhất xuất hiện mặt sấp. Xác suất để lần thứ hai cũng xuất hiện mặt sấp là:",
+    "options": ["1/2", "1/4", "1/3", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong một lớp học, 60% học sinh thích môn Toán, 50% thích môn Lý, và 30% thích cả hai. Chọn ngẫu nhiên một học sinh thích Lý, xác suất học sinh đó cũng thích Toán là:",
+    "options": ["0.6", "0.5", "0.3", "0.8"],
+    "correctAnswer": "0.6"
+  },
+  {
+    "question": "Cho hai biến cố độc lập A và B với P(A) = 0.3 và P(B) = 0.6. Tính P(A ∪ B).",
+    "options": ["0.72", "0.9", "0.18", "0.42"],
+    "correctAnswer": "0.72"
+  },
+  {
+    "question": "Một hộp có 10 sản phẩm, trong đó có 3 phế phẩm. Lấy lần lượt 2 sản phẩm không hoàn lại. Xác suất để cả hai sản phẩm lấy ra đều là phế phẩm là:",
+    "options": ["1/15", "3/10", "1/10", "9/100"],
+    "correctAnswer": "1/15"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Biết tổng số chấm là 7. Xác suất để có ít nhất một mặt 1 chấm là:",
+    "options": ["1/3", "1/6", "2/7", "0"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Cho P(B) = 0.6 và P(A|B) = 0.5. Tính P(A ∩ B).",
+    "options": ["0.3", "0.5", "0.6", "1.1"],
+    "correctAnswer": "0.3"
+  },
+  {
+    "question": "Một bài thi trắc nghiệm có 10 câu, mỗi câu 4 phương án. Một học sinh không học bài và chọn ngẫu nhiên. Xác suất để học sinh đó trả lời đúng cả 10 câu là:",
+    "options": ["(1/4)<sup>10</sup>", "1/10", "10 * (1/4)", "1 - (3/4)<sup>10</sup>"],
+    "correctAnswer": "(1/4)<sup>10</sup>"
+  },
+  {
+    "question": "Trong một khu dân cư, tỉ lệ người bị bệnh tim là 9%, bị bệnh huyết áp là 12% và bị cả hai bệnh là 7%. Chọn ngẫu nhiên một người bị bệnh tim, xác suất người đó cũng bị bệnh huyết áp là:",
+    "options": ["7/9", "7/12", "9/12", "0.07"],
+    "correctAnswer": "7/9"
+  },
+  {
+    "question": "Hai xạ thủ cùng bắn vào một mục tiêu. Xác suất trúng của người thứ nhất là 0.8, của người thứ hai là 0.7. Xác suất để cả hai cùng trúng là:",
+    "options": ["0.56", "1.5", "0.1", "0.94"],
+    "correctAnswer": "0.56"
+  },
+  {
+    "question": "Rút một lá bài từ bộ bài 52 lá. Biết rằng lá bài rút ra là lá Át. Xác suất để lá bài đó là Át cơ là:",
+    "options": ["1/4", "1/52", "1/13", "4/13"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Cho P(A ∩ B) = 0.1 và P(B|A) = 0.2. Tính P(A).",
+    "options": ["0.5", "0.2", "0.1", "0.02"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "question": "Một hộp có 4 bi đỏ, 5 bi xanh, 6 bi vàng. Lấy ngẫu nhiên 3 bi. Biết 3 bi lấy ra có đủ 3 màu. Xác suất để bi lấy lần đầu là bi đỏ là:",
+    "options": ["1/3", "4/15", "5/15", "6/15"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Nếu A và B là hai biến cố độc lập thì A và B' (biến cố đối của B) có độc lập không?",
+    "options": ["Có", "Không", "Chỉ khi P(A)=P(B)", "Chỉ khi P(A)=0.5"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một nhà máy có hai máy sản xuất. Máy I sản xuất 60% sản phẩm, máy II sản xuất 40%. Tỉ lệ phế phẩm của máy I là 3%, của máy II là 2%. Lấy ngẫu nhiên một sản phẩm, biết nó là phế phẩm. Xác suất sản phẩm đó do máy I sản xuất là (dùng công thức Bayes):",
+    "options": ["9/13", "0.018", "0.03", "0.6"],
+    "correctAnswer": "9/13"
+  },
+  {
+    "question": "Gieo một đồng xu không cân đối, xác suất mặt sấp là 0.6. Biết lần gieo đầu là mặt sấp, xác suất lần gieo thứ hai là mặt ngửa là:",
+    "options": ["0.4", "0.6", "0.24", "0.5"],
+    "correctAnswer": "0.4"
+  },
+  {
+    "question": "Cho P(A|B) = P(A). Điều này có nghĩa là:",
+    "options": ["A và B độc lập", "A và B xung khắc", "A là con của B", "B là con của A"],
+    "correctAnswer": "A và B độc lập"
+  },
+  {
+    "question": "Một lớp có 30 nữ và 20 nam. 10% nữ và 20% nam thuận tay trái. Chọn ngẫu nhiên một học sinh, biết học sinh đó thuận tay trái. Xác suất học sinh đó là nam là:",
+    "options": ["4/7", "3/7", "20/50", "1/5"],
+    "correctAnswer": "4/7"
+  },
+  {
+    "question": "Tung 3 đồng xu. Biết rằng có ít nhất một mặt sấp. Xác suất để có đúng 2 mặt sấp là:",
+    "options": ["3/7", "3/8", "1/2", "4/7"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Một hộp có 6 bi trắng và 4 bi đen. Lấy lần lượt 2 bi không hoàn lại. Biết bi thứ nhất màu trắng. Xác suất bi thứ hai cũng màu trắng là:",
+    "options": ["5/9", "6/10", "5/10", "1/2"],
+    "correctAnswer": "5/9"
+  },
+  {
+    "question": "Cho P(A) = 1/3, P(B) = 1/2, A và B độc lập. Tính P(A ∩ B).",
+    "options": ["1/6", "5/6", "2/5", "1"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Gia đình có 2 con. Biết rằng có ít nhất một đứa là con trai. Xác suất để gia đình đó có 2 con trai là:",
+    "options": ["1/3", "1/2", "1/4", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Trong một kỳ thi, 80% học sinh đỗ môn Toán, 70% đỗ môn Lý. Biết rằng đỗ môn Lý thì chắc chắn đỗ môn Toán. Xác suất để một học sinh đỗ cả hai môn là:",
+    "options": ["0.7", "0.8", "0.56", "1.0"],
+    "correctAnswer": "0.7"
+  },
+  {
+    "question": "Hai người cùng làm bài thi. Xác suất làm được bài của người A là 0.9, của người B là 0.8. Xác suất để chỉ có một người làm được bài là:",
+    "options": ["0.26", "0.72", "0.18", "0.02"],
+    "correctAnswer": "0.26"
+  },
+  {
+    "question": "Một túi chứa 3 quả cầu đỏ và 7 quả cầu xanh. Lấy lần lượt 2 quả không hoàn lại. Xác suất để quả thứ hai là màu đỏ, biết quả thứ nhất là màu xanh là:",
+    "options": ["1/3", "3/10", "7/10", "3/9"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Cho P(A|B) = 0.8, P(B') = 0.6. Tính P(A ∩ B).",
+    "options": ["0.32", "0.48", "0.4", "Không đủ dữ kiện"],
+    "correctAnswer": "0.32"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Biết rằng hai mặt có số chấm khác nhau. Xác suất để tổng số chấm bằng 6 là:",
+    "options": ["2/15", "4/36", "1/6", "5/30"],
+    "correctAnswer": "2/15"
+  },
+  {
+    "question": "Một hộp có 20 vé, trong đó có 2 vé trúng thưởng. Bạn là người mua thứ hai. Xác suất bạn mua được vé trúng, biết người thứ nhất đã mua trúng là:",
+    "options": ["1/19", "2/20", "1/20", "2/19"],
+    "correctAnswer": "1/19"
+  },
+  {
+    "question": "Xác suất một người bị cúm là 0.2. Xác suất người đó bị đau họng là 0.3. Xác suất người đó bị cả hai là 0.1. Nếu một người bị cúm, xác suất người đó bị đau họng là:",
+    "options": ["0.5", "0.1", "0.2", "1/3"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "question": "Hai biến cố A, B xung khắc và độc lập khi và chỉ khi:",
+    "options": ["P(A) = 0 hoặc P(B) = 0", "P(A) + P(B) = 1", "P(A) = P(B)", "Không thể xảy ra"],
+    "correctAnswer": "P(A) = 0 hoặc P(B) = 0"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số tự nhiên có 3 chữ số. Biết số đó chia hết cho 5. Xác suất để số đó có các chữ số khác nhau là:",
+    "options": ["136/180", "136/900", "180/900", "1/5"],
+    "correctAnswer": "136/180"
+  },
+  {
+    "question": "Trong một hộp có 3 bút xanh, 4 bút đỏ. Lấy lần lượt 2 bút không hoàn lại. Xác suất để lấy được 1 bút xanh và 1 bút đỏ là:",
+    "options": ["4/7", "12/49", "24/42", "1/2"],
+    "correctAnswer": "4/7"
+  },
+  {
+    "question": "Cho P(A) > 0, P(B) > 0. Nếu P(A|B) > P(A) thì:",
+    "options": ["P(B|A) > P(B)", "P(B|A) < P(B)", "P(B|A) = P(B)", "Không kết luận được"],
+    "correctAnswer": "P(B|A) > P(B)"
+  },
+  {
+    "question": "Một cặp vợ chồng dự định có 3 con. Xác suất có đúng 2 con gái, biết rằng con đầu lòng là con gái là:",
+    "options": ["1/2", "1/4", "1/3", "3/8"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Hai máy bay cùng ném bom một cây cầu. Xác suất trúng của máy bay 1 là 0.7, của máy bay 2 là 0.8. Cầu bị hỏng nếu có ít nhất 1 quả bom trúng. Xác suất cầu bị hỏng là:",
+    "options": ["0.94", "0.56", "1.5", "0.06"],
+    "correctAnswer": "0.94"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Gọi A là biến cố 'tổng số chấm là số lẻ', B là biến cố 'có ít nhất một mặt 1 chấm'. Tính P(A|B).",
+    "options": ["6/11", "1/2", "5/11", "18/36"],
+    "correctAnswer": "6/11"
+  },
+  {
+    "question": "Trong một lô hàng có 90 sản phẩm tốt và 10 phế phẩm. Lấy ngẫu nhiên 2 sản phẩm. Biết rằng sản phẩm thứ nhất là sản phẩm tốt. Xác suất sản phẩm thứ hai cũng là sản phẩm tốt là:",
+    "options": ["89/99", "90/100", "89/100", "9/10"],
+    "correctAnswer": "89/99"
+  },
+  {
+    "question": "Cho P(A ∪ B) = 0.7, P(A) = 0.4, P(B) = 0.5. Tính P(A|B).",
+    "options": ["0.4", "0.2", "0.5", "0.7"],
+    "correctAnswer": "0.4"
+  },
+  {
+    "question": "Một người có 3 chìa khóa giống hệt nhau nhưng chỉ có 1 chìa mở được cửa. Người đó thử lần lượt từng chìa. Xác suất người đó mở được cửa ở lần thử thứ hai là:",
+    "options": ["1/3", "2/3", "1/2", "1/6"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Hai biến cố được gọi là xung khắc nếu:",
+    "options": ["Chúng không thể cùng xảy ra", "Chúng độc lập với nhau", "Tổng xác suất của chúng bằng 1", "Xác suất của chúng bằng nhau"],
+    "correctAnswer": "Chúng không thể cùng xảy ra"
+  },
+  {
+    "question": "Một hộp có 5 bi trắng, 3 bi đen. Lấy ngẫu nhiên 1 bi, xem màu rồi trả lại. Sau đó lấy tiếp 1 bi. Xác suất để cả hai bi đều trắng là:",
+    "options": ["25/64", "20/56", "5/8", "1/2"],
+    "correctAnswer": "25/64"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là biến cố 'mặt chẵn', B là biến cố 'mặt lớn hơn 3'. A và B có độc lập không?",
+    "options": ["Có", "Không", "Xung khắc", "Đối nhau"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Tỷ lệ nam trong một trường là 55%. Tỷ lệ sinh viên giỏi là 30%. Tỷ lệ nam sinh viên giỏi là 18%. Chọn một sinh viên nam, xác suất sinh viên đó là sinh viên giỏi là:",
+    "options": ["18/55", "18/30", "0.18", "0.55"],
+    "correctAnswer": "18/55"
+  },
+  {
+    "question": "Một hộp có 10 quả bóng bàn, trong đó có 7 quả mới. Lấy ngẫu nhiên 3 quả để chơi. Sau đó trả lại. Lần sau lấy ngẫu nhiên 3 quả. Xác suất cả 3 quả lần sau đều là quả mới là:",
+    "options": ["(7/10)³", "C(7,3)/C(10,3)", "Không đổi", "Không tính được"],
+    "correctAnswer": "C(7,3)/C(10,3)"
+  },
+  {
+    "question": "Cho P(A)=0.2, P(B)=0.3, P(A∩B)=0.1. Tính P(A'|B).",
+    "options": ["2/3", "1/3", "0.2", "0.7"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một gia đình có 3 con. Biết rằng gia đình đó có con gái. Xác suất gia đình đó có ít nhất một con trai là:",
+    "options": ["6/7", "7/8", "3/4", "1/2"],
+    "correctAnswer": "6/7"
+  },
+  {
+    "question": "Một xạ thủ bắn 3 viên đạn. Xác suất trúng mỗi viên là 0.8. Biết rằng có ít nhất một viên trúng. Xác suất để cả 3 viên đều trúng là:",
+    "options": ["0.8³ / (1 - 0.2³)", "0.8³", "1 - 0.2³", "0.2³"],
+    "correctAnswer": "0.8³ / (1 - 0.2³)"
+  },
+  {
+    "question": "Có 2 hộp bi. Hộp 1 có 3 xanh 2 đỏ. Hộp 2 có 4 xanh 1 đỏ. Lấy ngẫu nhiên 1 bi từ hộp 1 bỏ vào hộp 2, rồi lấy 1 bi từ hộp 2. Xác suất bi lấy ra sau cùng là bi xanh là:",
+    "options": ["23/30", "4/5", "3/5", "1/2"],
+    "correctAnswer": "23/30"
+  },
+  {
+    "question": "Nếu P(A|B) = 1, điều đó có nghĩa là:",
+    "options": ["Nếu B xảy ra thì A chắc chắn xảy ra", "A và B là một", "A và B độc lập", "A và B xung khắc"],
+    "correctAnswer": "Nếu B xảy ra thì A chắc chắn xảy ra"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Tính xác suất để tổng số chấm là 8, biết rằng hai mặt có số chấm bằng nhau.",
+    "options": ["1/6", "1/36", "1/11", "5/36"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Một lớp có 40 học sinh, trong đó có 4 cặp anh em sinh đôi. Chọn ngẫu nhiên 2 học sinh. Biết 2 học sinh được chọn là anh em. Xác suất để đó là một cặp sinh đôi là:",
+    "options": ["1", "1/10", "4/C(40,2)", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Xác suất để một email là spam là 0.1. Nếu một email là spam, xác suất nó chứa từ 'miễn phí' là 0.9. Nếu không phải spam, xác suất chứa từ 'miễn phí' là 0.01. Một email chứa từ 'miễn phí', xác suất nó là spam là:",
+    "options": ["0.09 / 0.099", "0.9", "0.1", "0.09"],
+    "correctAnswer": "0.09 / 0.099"
+  },
+  {
+    "question": "Cho P(A)=0.4, P(B)=0.5, P(A∪B)=0.6. A và B có độc lập không?",
+    "options": ["Không", "Có", "Xung khắc", "Không xác định"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Một hộp có 5 bi đỏ và 5 bi xanh. Lấy lần lượt 2 bi không hoàn lại. Xác suất để bi thứ hai màu xanh là:",
+    "options": ["1/2", "5/9", "4/9", "4/10"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tung một đồng xu 3 lần. Biết rằng mặt sấp xuất hiện ít nhất 2 lần. Xác suất để cả 3 lần đều là mặt sấp là:",
+    "options": ["1/4", "1/8", "1/2", "3/8"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một bài kiểm tra có 2 câu hỏi. Xác suất trả lời đúng câu 1 là 0.8. Nếu trả lời đúng câu 1, xác suất trả lời đúng câu 2 là 0.9. Xác suất trả lời đúng cả 2 câu là:",
+    "options": ["0.72", "0.8", "0.9", "1.7"],
+    "correctAnswer": "0.72"
+  },
+  {
+    "question": "Trong một trò chơi, bạn thắng nếu gieo được mặt 6 chấm. Bạn được gieo tối đa 3 lần. Trò chơi dừng lại khi bạn thắng. Xác suất bạn thắng trò chơi là:",
+    "options": ["1 - (5/6)³", "1/6", "3 * (1/6)", "(5/6)² * (1/6)"],
+    "correctAnswer": "1 - (5/6)³"
+  },
+  {
+    "question": "Cho P(A'|B) = 0.3. Tính P(A|B).",
+    "options": ["0.7", "0.3", "1", "Không tính được"],
+    "correctAnswer": "0.7"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số từ {1, 2, ..., 10}. Biết số được chọn là số chẵn. Xác suất số đó chia hết cho 4 là:",
+    "options": ["2/5", "1/5", "1/2", "4/10"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Một hộp có 3 sản phẩm tốt và 2 phế phẩm. Lấy lần lượt từng sản phẩm cho đến khi gặp phế phẩm thì dừng. Xác suất dừng lại ở lần lấy thứ hai là:",
+    "options": ["3/10", "2/5", "3/5", "1/2"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Nếu A ⊂ B thì P(A|B) bằng:",
+    "options": ["P(A)/P(B)", "1", "P(B)/P(A)", "P(A)"],
+    "correctAnswer": "P(A)/P(B)"
+  },
+  {
+    "question": "Hai cung thủ cùng bắn. Xác suất trúng của người 1 là 0.6, của người 2 là 0.5. Biết rằng có đúng một người bắn trúng. Xác suất người đó là người 1 là:",
+    "options": ["3/5", "0.6", "0.3", "0.5"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Gieo 3 con súc sắc. Biết tổng số chấm là 5. Xác suất để có đúng hai mặt 2 chấm là:",
+    "options": ["1/2", "3/6", "1/3", "1/6"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong các công thức sau, công thức nào là công thức xác suất toàn phần?",
+    "options": ["P(A) = Σ P(Bᵢ)P(A|Bᵢ)", "P(A) = P(A|B)P(B)", "P(A|B) = P(B|A)P(A)/P(B)", "P(A) = 1 - P(A')"],
+    "correctAnswer": "P(A) = Σ P(Bᵢ)P(A|Bᵢ)"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 6 bi đỏ. Lấy ngẫu nhiên 3 bi. Biết rằng trong 3 bi lấy ra có ít nhất 1 bi đỏ. Xác suất để cả 3 bi đều đỏ là:",
+    "options": ["20/119", "C(6,3)/C(10,3)", "1/6", "20/120"],
+    "correctAnswer": "20/119"
+  },
+  {
+    "question": "Cho P(A)=0.6, P(B)=0.7, A và B độc lập. Tính xác suất để có ít nhất một biến cố xảy ra.",
+    "options": ["0.88", "1.3", "0.42", "0.12"],
+    "correctAnswer": "0.88"
+  },
+  {
+    "question": "Một người có 2 đồng xu, một đồng cân đối và một đồng có 2 mặt sấp. Chọn ngẫu nhiên 1 đồng xu và tung. Biết mặt xuất hiện là mặt sấp. Xác suất đồng xu được chọn là đồng xu 2 mặt sấp là:",
+    "options": ["2/3", "1/2", "1", "1/3"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Nếu A và B là hai biến cố xung khắc thì P(A|B) bằng:",
+    "options": ["0", "P(A)", "1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số có 2 chữ số. Biết số đó là số lẻ. Xác suất để số đó chia hết cho 3 là:",
+    "options": ["1/3", "15/45", "15/90", "1/2"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Có 3 hộp. Hộp 1: 2 trắng 3 đen. Hộp 2: 4 trắng 1 đen. Hộp 3: 3 trắng 2 đen. Chọn ngẫu nhiên 1 hộp và lấy ra 1 bi. Biết bi lấy ra màu trắng. Xác suất bi đó thuộc hộp 2 là:",
+    "options": ["(1/3 * 4/5) / (1/3*2/5 + 1/3*4/5 + 1/3*3/5)", "4/5", "1/3", "9/15"],
+    "correctAnswer": "(1/3 * 4/5) / (1/3*2/5 + 1/3*4/5 + 1/3*3/5)"
+  },
+  {
+    "question": "Xác suất sinh con trai là 0.51. Một gia đình có 2 con. Biết đứa thứ nhất là con trai. Xác suất đứa thứ hai cũng là con trai là:",
+    "options": ["0.51", "0.51²", "0.49", "1"],
+    "correctAnswer": "0.51"
+  },
+  {
+    "question": "Một bài thi có 20 câu trắc nghiệm. Xác suất làm đúng một câu là 0.8. Các câu trả lời độc lập. Xác suất làm sai cả 20 câu là:",
+    "options": ["0.2<sup>20</sup>", "1 - 0.8<sup>20</sup>", "20 * 0.2", "0"],
+    "correctAnswer": "0.2<sup>20</sup>"
+  },
+  {
+    "question": "Trong một lô hàng, tỉ lệ sản phẩm loại I là 80%. Lấy ngẫu nhiên 2 sản phẩm. Biết sản phẩm thứ hai là loại I. Xác suất sản phẩm thứ nhất cũng là loại I là:",
+    "options": ["0.8", "79/99", "80/99", "Không tính được"],
+    "correctAnswer": "0.8"
+  },
+  {
+    "question": "Gieo một con súc sắc 2 lần. Biết lần gieo thứ hai ra mặt 6 chấm. Xác suất để tổng số chấm 2 lần gieo lớn hơn 8 là:",
+    "options": ["2/3", "4/6", "1/2", "5/6"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Cho P(A)=1/2, P(B)=1/3, P(A|B)=1/4. Tính P(B|A).",
+    "options": ["1/6", "1/4", "1/3", "1/2"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Một hộp có 4 bi xanh, 3 bi đỏ, 2 bi vàng. Lấy ngẫu nhiên 2 bi. Biết 2 bi lấy ra không có bi vàng. Xác suất để 2 bi đó cùng màu là:",
+    "options": ["9/21", "C(4,2)/C(7,2) + C(3,2)/C(7,2)", "1/3", "1/2"],
+    "correctAnswer": "C(4,2)/C(7,2) + C(3,2)/C(7,2)"
+  },
+  {
+    "question": "Hai sự kiện A và B là độc lập. P(A)=0.25, P(B)=0.4. Xác suất để không có sự kiện nào xảy ra là:",
+    "options": ["0.45", "0.6", "0.75", "0.1"],
+    "correctAnswer": "0.45"
+  },
+  {
+    "question": "Một lớp học có 25 nam và 15 nữ. Chọn ngẫu nhiên 3 người. Biết trong 3 người được chọn có ít nhất 1 nữ. Xác suất để cả 3 người đều là nữ là:",
+    "options": ["C(15,3) / (C(40,3) - C(25,3))", "C(15,3)/C(40,3)", "1 - C(25,3)/C(40,3)", "3/8"],
+    "correctAnswer": "C(15,3) / (C(40,3) - C(25,3))"
+  },
+  {
+    "question": "Một người bắn 2 viên đạn vào bia. Xác suất trúng của viên thứ nhất là 0.6. Nếu viên thứ nhất trúng, xác suất trúng của viên thứ hai là 0.7. Nếu viên thứ nhất trượt, xác suất trúng của viên thứ hai là 0.4. Xác suất viên thứ hai trúng là:",
+    "options": ["0.58", "0.7", "0.4", "1.1"],
+    "correctAnswer": "0.58"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Biết rằng có ít nhất một mặt 4 chấm. Xác suất để tổng số chấm lớn hơn 7 là:",
+    "options": ["5/11", "6/11", "1/2", "7/11"],
+    "correctAnswer": "5/11"
+  },
+  {
+    "question": "Cho P(A' ∩ B') = 0.3, P(A) = 0.4, P(B) = 0.5. A và B có độc lập không?",
+    "options": ["Có", "Không", "Xung khắc", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 5 phế phẩm. Lấy lần lượt không hoàn lại 3 sản phẩm. Xác suất để lấy được 3 phế phẩm là:",
+    "options": ["C(5,3)/C(100,3)", "(5/100)*(4/99)*(3/98)", "Cả A và B đều đúng", "Cả A và B đều sai"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Trong một trận đấu cờ, An thắng Bình với xác suất 0.4, hòa với xác suất 0.3. Hai người đấu 2 ván. Biết An không thua ở ván đầu. Xác suất An thắng cả 2 ván là:",
+    "options": ["16/70", "0.16", "0.4", "0.7"],
+    "correctAnswer": "16/70"
+  },
+  {
+    "question": "Công thức Bayes được sử dụng để:",
+    "options": ["Tính xác suất của nguyên nhân khi biết kết quả", "Tính xác suất của kết quả khi biết nguyên nhân", "Tính xác suất của hai biến cố độc lập", "Tính xác suất của hai biến cố xung khắc"],
+    "correctAnswer": "Tính xác suất của nguyên nhân khi biết kết quả"
+  }
+]
+
