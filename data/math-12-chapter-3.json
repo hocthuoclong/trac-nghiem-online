@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Cho mẫu số liệu ghép nhóm về thời gian (phút) đi từ nhà đến trường của học sinh. Nhóm [10; 20) có tần số là 15. Giá trị đại diện của nhóm này là:",
+    "options": ["10", "15", "20", "5"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Trong các số đặc trưng sau, số nào dùng để đo mức độ phân tán của mẫu số liệu?",
+    "options": ["Số trung bình", "Mốt", "Phương sai", "Số trung vị"],
+    "correctAnswer": "Phương sai"
+  },
+  {
+    "question": "Khoảng biến thiên của một mẫu số liệu ghép nhóm được tính bằng cách:",
+    "options": ["Lấy đầu mút phải của nhóm cuối trừ đi đầu mút trái của nhóm đầu", "Lấy giá trị lớn nhất trừ giá trị nhỏ nhất", "Lấy trung vị trừ mốt", "Lấy phương sai nhân độ lệch chuẩn"],
+    "correctAnswer": "Lấy đầu mút phải của nhóm cuối trừ đi đầu mút trái của nhóm đầu"
+  },
+  {
+    "question": "Cho bảng tần số ghép nhóm. Nhóm chứa mốt là nhóm:",
+    "options": ["Có tần số nhỏ nhất", "Có tần số lớn nhất", "Nằm ở chính giữa", "Có giá trị đại diện lớn nhất"],
+    "correctAnswer": "Có tần số lớn nhất"
+  },
+  {
+    "question": "Độ lệch chuẩn là:",
+    "options": ["Bình phương của phương sai", "Căn bậc hai của phương sai", "Giá trị trung bình của mẫu", "Hiệu của giá trị lớn nhất và nhỏ nhất"],
+    "correctAnswer": "Căn bậc hai của phương sai"
+  },
+  {
+    "question": "Tứ phân vị thứ hai (Q₂) của mẫu số liệu còn được gọi là:",
+    "options": ["Số trung bình", "Mốt", "Số trung vị (Median)", "Khoảng biến thiên"],
+    "correctAnswer": "Số trung vị (Median)"
+  },
+  {
+    "question": "Khoảng tứ phân vị, ký hiệu là Δ<sub>Q</sub>, được tính bằng công thức nào?",
+    "options": ["Δ<sub>Q</sub> = Q₃ - Q₁", "Δ<sub>Q</sub> = Q₂ - Q₁", "Δ<sub>Q</sub> = Q₃ - Q₂", "Δ<sub>Q</sub> = (Q₁+Q₃)/2"],
+    "correctAnswer": "Δ<sub>Q</sub> = Q₃ - Q₁"
+  },
+  {
+    "question": "Trong công thức tính mốt Mₒ = uₘ + ((nₘ - nₘ₋₁)/(2nₘ - nₘ₋₁ - nₘ₊₁)) * h, đại lượng h là gì?",
+    "options": ["Tần số của nhóm chứa mốt", "Độ dài của nhóm chứa mốt", "Giá trị đại diện của nhóm chứa mốt", "Tổng các tần số"],
+    "correctAnswer": "Độ dài của nhóm chứa mốt"
+  },
+  {
+    "question": "Một mẫu số liệu có phương sai càng lớn thì:",
+    "options": ["Mức độ phân tán của các số liệu càng lớn", "Mức độ phân tán của các số liệu càng bé", "Số trung bình càng lớn", "Số trung vị càng nhỏ"],
+    "correctAnswer": "Mức độ phân tán của các số liệu càng lớn"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Để tìm nhóm chứa trung vị, ta cần xác định:",
+    "options": ["Nhóm có tần số lớn nhất", "Nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng n/2", "Nhóm có giá trị đại diện lớn nhất", "Nhóm nằm ở cuối bảng"],
+    "correctAnswer": "Nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng n/2"
+  },
+  {
+    "question": "Khảo sát cân nặng của 40 học sinh, ta có bảng tần số ghép nhóm. Khoảng biến thiên của mẫu số liệu này là 15 kg. Điều này có nghĩa là:",
+    "options": ["Học sinh nặng nhất hơn học sinh nhẹ nhất 15 kg", "Chênh lệch giữa đầu mút cuối và đầu mút đầu của các nhóm là 15 kg", "Phương sai của mẫu là 15", "Độ lệch chuẩn là 15"],
+    "correctAnswer": "Chênh lệch giữa đầu mút cuối và đầu mút đầu của các nhóm là 15 kg"
+  },
+  {
+    "question": "Trong công thức tính phương sai, ta sử dụng giá trị nào để đại diện cho mỗi nhóm?",
+    "options": ["Đầu mút trái", "Đầu mút phải", "Giá trị đại diện", "Tần số"],
+    "correctAnswer": "Giá trị đại diện"
+  },
+  {
+    "question": "Cho bảng tần số ghép nhóm chiều cao của cây. Nhóm [150; 160) có tần số 20. Nhóm [160; 170) có tần số 35. Nhóm [170; 180) có tần số 15. Mốt của mẫu số liệu thuộc nhóm nào?",
+    "options": ["[150; 160)", "[160; 170)", "[170; 180)", "Không xác định được"],
+    "correctAnswer": "[160; 170)"
+  },
+  {
+    "question": "Nếu tất cả các giá trị trong mẫu số liệu đều bằng nhau thì đại lượng nào sau đây bằng 0?",
+    "options": ["Số trung bình", "Số trung vị", "Độ lệch chuẩn", "Mốt"],
+    "correctAnswer": "Độ lệch chuẩn"
+  },
+  {
+    "question": "Để xác định tứ phân vị thứ nhất (Q₁), ta tìm nhóm chứa Q₁ là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["n/2", "n/4", "3n/4", "n"],
+    "correctAnswer": "n/4"
+  },
+  {
+    "question": "Số đặc trưng nào không bị ảnh hưởng bởi các giá trị bất thường (quá lớn hoặc quá bé) trong mẫu số liệu?",
+    "options": ["Số trung bình", "Khoảng biến thiên", "Số trung vị", "Phương sai"],
+    "correctAnswer": "Số trung vị"
+  },
+  {
+    "question": "Trong công thức tính trung vị Mₑ = uₖ + ((n/2 - cfₖ₋₁)/nₖ) * h, đại lượng cfₖ₋₁ là gì?",
+    "options": ["Tần số của nhóm chứa trung vị", "Tần số của nhóm trước nhóm chứa trung vị", "Tần số tích lũy của nhóm trước nhóm chứa trung vị", "Độ dài nhóm chứa trung vị"],
+    "correctAnswer": "Tần số tích lũy của nhóm trước nhóm chứa trung vị"
+  },
+  {
+    "question": "Một công ty có hai phân xưởng. Độ lệch chuẩn về tiền lương của công nhân ở phân xưởng A là 500 nghìn đồng, ở phân xưởng B là 800 nghìn đồng. Nhận xét nào đúng?",
+    "options": ["Mức lương ở phân xưởng A đồng đều hơn", "Mức lương ở phân xưởng B đồng đều hơn", "Lương trung bình ở phân xưởng A cao hơn", "Lương trung bình ở phân xưởng B cao hơn"],
+    "correctAnswer": "Mức lương ở phân xưởng A đồng đều hơn"
+  },
+  {
+    "question": "Cho mẫu số liệu về tuổi thọ (năm) của một loại bóng đèn. Khoảng tứ phân vị là Δ<sub>Q</sub> = 2.5. Điều này có ý nghĩa gì?",
+    "options": ["50% số bóng đèn ở giữa có tuổi thọ chênh lệch không quá 2.5 năm", "Tuổi thọ trung bình là 2.5 năm", "Bóng đèn bền nhất hơn bóng kém bền nhất 2.5 năm", "Mốt của mẫu là 2.5"],
+    "correctAnswer": "50% số bóng đèn ở giữa có tuổi thọ chênh lệch không quá 2.5 năm"
+  },
+  {
+    "question": "Giá trị ngoại lai (bất thường) là giá trị:",
+    "options": ["Lớn hơn Q₃ + 1.5Δ<sub>Q</sub> hoặc nhỏ hơn Q₁ - 1.5Δ<sub>Q</sub>", "Nằm giữa Q₁ và Q₃", "Bằng với số trung bình", "Bằng với mốt"],
+    "correctAnswer": "Lớn hơn Q₃ + 1.5Δ<sub>Q</sub> hoặc nhỏ hơn Q₁ - 1.5Δ<sub>Q</sub>"
+  },
+  {
+    "question": "Cho bảng phân bố tần số ghép nhóm. Tổng các tần số là 100. Nhóm chứa tứ phân vị thứ ba (Q₃) là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["25", "50", "75", "100"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Đơn vị của phương sai là:",
+    "options": ["Cùng đơn vị với dữ liệu", "Bình phương đơn vị của dữ liệu", "Không có đơn vị", "Căn bậc hai đơn vị của dữ liệu"],
+    "correctAnswer": "Bình phương đơn vị của dữ liệu"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Số trung bình cộng của mẫu được tính xấp xỉ bằng công thức nào?",
+    "options": ["Tổng các giá trị đại diện chia cho số nhóm", "Tổng các (giá trị đại diện * tần số) chia cho cỡ mẫu", "Lấy giá trị đại diện của nhóm giữa", "Lấy mốt cộng trung vị chia 2"],
+    "correctAnswer": "Tổng các (giá trị đại diện * tần số) chia cho cỡ mẫu"
+  },
+  {
+    "question": "Khi nào thì nên sử dụng mốt để đại diện cho xu thế trung tâm của mẫu số liệu?",
+    "options": ["Khi muốn biết giá trị xuất hiện nhiều nhất", "Khi mẫu số liệu có giá trị ngoại lai", "Khi cần tính toán các đại lượng khác", "Khi mẫu số liệu đối xứng"],
+    "correctAnswer": "Khi muốn biết giá trị xuất hiện nhiều nhất"
+  },
+  {
+    "question": "Độ lệch chuẩn có đơn vị:",
+    "options": ["Cùng đơn vị với dữ liệu", "Bình phương đơn vị của dữ liệu", "Không có đơn vị", "Là một tỉ số"],
+    "correctAnswer": "Cùng đơn vị với dữ liệu"
+  },
+  {
+    "question": "Trong một mẫu số liệu ghép nhóm, nếu tăng tất cả các giá trị lên 5 đơn vị thì phương sai sẽ:",
+    "options": ["Tăng 5 đơn vị", "Tăng 25 đơn vị", "Không đổi", "Giảm 5 đơn vị"],
+    "correctAnswer": "Không đổi"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Nhóm [20; 30) có tần số 10, tần số tích lũy là 25. Nhóm [30; 40) có tần số 15. Tần số tích lũy của nhóm [30; 40) là:",
+    "options": ["15", "25", "35", "40"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Khoảng biến thiên là một số đo độ phân tán:",
+    "options": ["Rất nhạy cảm với các giá trị ngoại lai", "Không nhạy cảm với các giá trị ngoại lai", "Luôn bằng 0", "Phản ánh độ phân tán quanh trung vị"],
+    "correctAnswer": "Rất nhạy cảm với các giá trị ngoại lai"
+  },
+  {
+    "question": "Cho mẫu số liệu có Q₁ = 20 và Q₃ = 50. Khoảng tứ phân vị là:",
+    "options": ["20", "30", "50", "70"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Mốt của mẫu số liệu ghép nhóm được sử dụng để:",
+    "options": ["Ước lượng giá trị có khả năng xuất hiện cao nhất", "Đo lường sự biến động của dữ liệu", "Tìm giá trị chính giữa của dữ liệu", "Tính toán độ lệch chuẩn"],
+    "correctAnswer": "Ước lượng giá trị có khả năng xuất hiện cao nhất"
+  },
+  {
+    "question": "Cho mẫu số liệu về điểm thi của 100 học sinh. Phương sai là 4. Độ lệch chuẩn là:",
+    "options": ["4", "16", "2", "√2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong công thức tính Q₁, n₁ là gì?",
+    "options": ["Cỡ mẫu", "Tần số của nhóm chứa Q₁", "Tổng tần số các nhóm trước nhóm chứa Q₁", "Giá trị đại diện của nhóm chứa Q₁"],
+    "correctAnswer": "Tần số của nhóm chứa Q₁"
+  },
+  {
+    "question": "Một cửa hàng ghi lại số lượng sản phẩm bán được mỗi ngày. Để tìm ngày bán được nhiều sản phẩm nhất, cửa hàng nên dùng số đặc trưng nào?",
+    "options": ["Số trung bình", "Số trung vị", "Mốt", "Khoảng biến thiên"],
+    "correctAnswer": "Mốt"
+  },
+  {
+    "question": "Nếu nhân tất cả các giá trị trong mẫu số liệu với 2 thì độ lệch chuẩn sẽ:",
+    "options": ["Tăng gấp 2 lần", "Tăng gấp 4 lần", "Không đổi", "Giảm đi 2 lần"],
+    "correctAnswer": "Tăng gấp 2 lần"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Cỡ mẫu n=80. Nhóm chứa trung vị là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["20", "40", "60", "80"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Khoảng tứ phân vị là một số đo:",
+    "options": ["Độ phân tán của 50% dữ liệu trung tâm", "Độ phân tán của toàn bộ dữ liệu", "Xu thế trung tâm", "Giá trị lớn nhất"],
+    "correctAnswer": "Độ phân tán của 50% dữ liệu trung tâm"
+  },
+  {
+    "question": "Cho mẫu số liệu có Q₁ = 30, Q₃ = 60, Δ<sub>Q</sub> = 30. Một giá trị x = 100 được coi là:",
+    "options": ["Giá trị bình thường", "Giá trị ngoại lai", "Số trung vị", "Mốt"],
+    "correctAnswer": "Giá trị ngoại lai"
+  },
+  {
+    "question": "Trong một cuộc điều tra, người ta hỏi về màu sắc yêu thích. Số liệu thu được là mẫu số liệu:",
+    "options": ["Định tính", "Định lượng", "Ghép nhóm", "Liên tục"],
+    "correctAnswer": "Định tính"
+  },
+  {
+    "question": "Đối với mẫu số liệu định tính, ta có thể tính được số đặc trưng nào?",
+    "options": ["Số trung bình", "Phương sai", "Mốt", "Số trung vị"],
+    "correctAnswer": "Mốt"
+  },
+  {
+    "question": "Giá trị đại diện của nhóm [a; b) là:",
+    "options": ["a", "b", "(a+b)/2", "b-a"],
+    "correctAnswer": "(a+b)/2"
+  },
+  {
+    "question": "Cho bảng tần số ghép nhóm. Để tính phương sai, bước đầu tiên cần làm là:",
+    "options": ["Tính mốt", "Tính trung vị", "Tính số trung bình", "Tính khoảng biến thiên"],
+    "correctAnswer": "Tính số trung bình"
+  },
+  {
+    "question": "Phương sai mẫu, kí hiệu s², được dùng để:",
+    "options": ["Ước lượng cho phương sai của tổng thể", "Thay thế cho độ lệch chuẩn", "Tìm giá trị lớn nhất", "Xác định xu thế trung tâm"],
+    "correctAnswer": "Ước lượng cho phương sai của tổng thể"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Cỡ mẫu n=50. Nhóm chứa Q₁ là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["50", "25", "12.5", "37.5"],
+    "correctAnswer": "12.5"
+  },
+  {
+    "question": "Nếu một mẫu số liệu có độ lệch chuẩn bằng 0, điều đó có nghĩa là:",
+    "options": ["Tất cả các giá trị bằng nhau", "Tất cả các giá trị bằng 0", "Mẫu số liệu đối xứng", "Mẫu số liệu có nhiều mốt"],
+    "correctAnswer": "Tất cả các giá trị bằng nhau"
+  },
+  {
+    "question": "Số đặc trưng nào nhạy cảm nhất với giá trị ngoại lai?",
+    "options": ["Số trung vị", "Mốt", "Khoảng biến thiên", "Khoảng tứ phân vị"],
+    "correctAnswer": "Khoảng biến thiên"
+  },
+  {
+    "question": "Trong công thức tính Mốt, nₘ₊₁ là gì?",
+    "options": ["Tần số nhóm chứa mốt", "Tần số nhóm liền sau nhóm chứa mốt", "Tần số nhóm liền trước nhóm chứa mốt", "Độ dài nhóm chứa mốt"],
+    "correctAnswer": "Tần số nhóm liền sau nhóm chứa mốt"
+  },
+  {
+    "question": "Để so sánh độ phân tán của hai mẫu số liệu có đơn vị đo khác nhau, người ta thường dùng:",
+    "options": ["Phương sai", "Độ lệch chuẩn", "Hệ số biến thiên", "Khoảng biến thiên"],
+    "correctAnswer": "Hệ số biến thiên"
+  },
+  {
+    "question": "Hệ số biến thiên được tính bằng:",
+    "options": ["(Độ lệch chuẩn / Số trung bình) * 100%", "(Phương sai / Số trung bình) * 100%", "Số trung bình / Độ lệch chuẩn", "Độ lệch chuẩn / Phương sai"],
+    "correctAnswer": "(Độ lệch chuẩn / Số trung bình) * 100%"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Nhóm chứa mốt là [40; 50). Mốt của mẫu số liệu này sẽ:",
+    "options": ["Nhỏ hơn 40", "Lớn hơn 50", "Nằm trong khoảng [40; 50)", "Bằng 45"],
+    "correctAnswer": "Nằm trong khoảng [40; 50)"
+  },
+  {
+    "question": "Tần số tích lũy của một nhóm là:",
+    "options": ["Tần số của riêng nhóm đó", "Tổng tần số của nhóm đó và tất cả các nhóm đứng trước nó", "Hiệu tần số của nhóm đó và nhóm trước nó", "Tích tần số của nhóm đó và giá trị đại diện"],
+    "correctAnswer": "Tổng tần số của nhóm đó và tất cả các nhóm đứng trước nó"
+  },
+  {
+    "question": "Cho mẫu số liệu có Q₁=15, Q₂=25, Q₃=40. Giá trị nào sau đây không phải là giá trị ngoại lai?",
+    "options": ["-25", "80", "20", "-20"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Cỡ mẫu của một mẫu số liệu ghép nhóm là:",
+    "options": ["Số lượng các nhóm", "Tổng các tần số", "Giá trị lớn nhất", "Khoảng biến thiên"],
+    "correctAnswer": "Tổng các tần số"
+  },
+  {
+    "question": "Trong các số đặc trưng đo xu thế trung tâm, số nào dễ xác định nhất đối với dữ liệu định tính?",
+    "options": ["Số trung bình", "Số trung vị", "Mốt", "Tứ phân vị"],
+    "correctAnswer": "Mốt"
+  },
+  {
+    "question": "Phương sai của một hằng số là:",
+    "options": ["0", "1", "Hằng số đó", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Cỡ mẫu n=120. Nhóm chứa Q₃ là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["30", "60", "90", "120"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Nếu biểu đồ tần số có dạng đối xứng thì mối quan hệ nào sau đây thường đúng?",
+    "options": ["Số trung bình ≈ Số trung vị ≈ Mốt", "Số trung bình > Số trung vị", "Số trung bình < Mốt", "Mốt = 2 Trung vị - 3 Trung bình"],
+    "correctAnswer": "Số trung bình ≈ Số trung vị ≈ Mốt"
+  },
+  {
+    "question": "Trong công thức tính phương sai s², ta chia cho:",
+    "options": ["n", "n-1", "n+1", "2n"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Độ dài của nhóm [a; b) là:",
+    "options": ["a", "b", "b-a", "(a+b)/2"],
+    "correctAnswer": "b-a"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm về doanh thu. Khoảng tứ phân vị nhỏ cho thấy:",
+    "options": ["Doanh thu của 50% cửa hàng ở giữa ít biến động", "Doanh thu trung bình cao", "Có nhiều cửa hàng có doanh thu cao bất thường", "Doanh thu của các cửa hàng rất khác nhau"],
+    "correctAnswer": "Doanh thu của 50% cửa hàng ở giữa ít biến động"
+  },
+  {
+    "question": "Để tính mốt của mẫu số liệu ghép nhóm, ta cần biết tần số của:",
+    "options": ["Tất cả các nhóm", "Nhóm chứa mốt và hai nhóm kề nó", "Chỉ nhóm chứa mốt", "Nhóm đầu và nhóm cuối"],
+    "correctAnswer": "Nhóm chứa mốt và hai nhóm kề nó"
+  },
+  {
+    "question": "Số trung bình cộng bị ảnh hưởng nhiều bởi:",
+    "options": ["Giá trị ngoại lai", "Tần số lớn nhất", "Số lượng nhóm", "Giá trị trung vị"],
+    "correctAnswer": "Giá trị ngoại lai"
+  },
+  {
+    "question": "Cho mẫu số liệu có phương sai là 9. Nếu cộng thêm 10 vào mỗi giá trị thì phương sai mới là:",
+    "options": ["9", "19", "81", "109"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Cho mẫu số liệu có độ lệch chuẩn là 5. Nếu nhân mỗi giá trị với 3 thì độ lệch chuẩn mới là:",
+    "options": ["5", "8", "15", "45"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Trong một mẫu số liệu, 50% giá trị nhỏ hơn hoặc bằng giá trị nào?",
+    "options": ["Q₁", "Q₂", "Q₃", "Mốt"],
+    "correctAnswer": "Q₂"
+  },
+  {
+    "question": "Trong một mẫu số liệu, 75% giá trị nhỏ hơn hoặc bằng giá trị nào?",
+    "options": ["Q₁", "Q₂", "Q₃", "Số trung bình"],
+    "correctAnswer": "Q₃"
+  },
+  {
+    "question": "Đâu không phải là số đặc trưng đo mức độ phân tán?",
+    "options": ["Khoảng biến thiên", "Khoảng tứ phân vị", "Phương sai", "Số trung vị"],
+    "correctAnswer": "Số trung vị"
+  },
+  {
+    "question": "Cho mẫu có n=60. Nhóm chứa trung vị là [20;30) có tần số 15. Tần số tích lũy của nhóm trước đó là 25. Trung vị được tính từ công thức có n/2 bằng:",
+    "options": ["60", "30", "15", "25"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Một mẫu số liệu có khoảng biến thiên bằng 0. Điều này có nghĩa là:",
+    "options": ["Tất cả các giá trị bằng nhau", "Mẫu chỉ có một giá trị", "Phương sai bằng 0", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Số đặc trưng nào mô tả 'sự khác biệt trung bình' của mỗi giá trị so với số trung bình của mẫu?",
+    "options": ["Phương sai", "Độ lệch chuẩn", "Khoảng biến thiên", "Mốt"],
+    "correctAnswer": "Độ lệch chuẩn"
+  },
+  {
+    "question": "Để tính các tứ phân vị của mẫu số liệu ghép nhóm, ta dựa vào:",
+    "options": ["Bảng tần số", "Bảng tần số tích lũy", "Giá trị đại diện", "Biểu đồ"],
+    "correctAnswer": "Bảng tần số tích lũy"
+  },
+  {
+    "question": "Trong công thức tính Q₃, ta sử dụng giá trị nào?",
+    "options": ["n/4", "n/2", "3n/4", "n"],
+    "correctAnswer": "3n/4"
+  },
+  {
+    "question": "Nếu một nhà nghiên cứu muốn loại bỏ ảnh hưởng của các giá trị quá cao hoặc quá thấp, họ nên dùng số đo độ phân tán nào?",
+    "options": ["Khoảng biến thiên", "Phương sai", "Khoảng tứ phân vị", "Độ lệch chuẩn"],
+    "correctAnswer": "Khoảng tứ phân vị"
+  },
+  {
+    "question": "Giá trị đại diện của nhóm được sử dụng để tính gần đúng cho:",
+    "options": ["Số trung bình và phương sai", "Mốt và trung vị", "Chỉ số trung bình", "Chỉ phương sai"],
+    "correctAnswer": "Số trung bình và phương sai"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Nếu độ dài tất cả các nhóm đều bằng nhau, việc tính toán sẽ:",
+    "options": ["Trở nên phức tạp hơn", "Không thay đổi", "Trở nên đơn giản hơn", "Không thể thực hiện"],
+    "correctAnswer": "Trở nên đơn giản hơn"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu chia mẫu số liệu đã sắp xếp thành:",
+    "options": ["Hai phần bằng nhau", "Ba phần bằng nhau", "Bốn phần bằng nhau", "Nhiều phần không bằng nhau"],
+    "correctAnswer": "Hai phần bằng nhau"
+  },
+  {
+    "question": "Các tứ phân vị chia mẫu số liệu đã sắp xếp thành:",
+    "options": ["Hai phần bằng nhau", "Ba phần bằng nhau", "Bốn phần bằng nhau", "Năm phần bằng nhau"],
+    "correctAnswer": "Bốn phần bằng nhau"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Nếu một nhóm có tần số bằng 0, thì:",
+    "options": ["Nhóm đó không ảnh hưởng đến tính toán", "Không thể tính toán được", "Phải loại bỏ nhóm đó", "Giá trị đại diện của nhóm đó bằng 0"],
+    "correctAnswer": "Nhóm đó không ảnh hưởng đến tính toán"
+  },
+  {
+    "question": "Mẫu số liệu ghép nhóm là một cách trình bày dữ liệu cho:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng liên tục có số lượng lớn", "Dữ liệu có ít giá trị", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Dữ liệu định lượng liên tục có số lượng lớn"
+  },
+  {
+    "question": "Trong biểu đồ tần số hình cột (histogram), diện tích mỗi cột tỉ lệ với:",
+    "options": ["Tần số của nhóm tương ứng", "Giá trị đại diện của nhóm", "Độ dài của nhóm", "Tần số tích lũy"],
+    "correctAnswer": "Tần số của nhóm tương ứng"
+  },
+  {
+    "question": "Cho mẫu số liệu có Q₁ = 50 và Δ<sub>Q</sub> = 20. Tứ phân vị thứ ba Q₃ là:",
+    "options": ["30", "70", "1000", "Không xác định"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Mục đích chính của việc tính các số đặc trưng đo mức độ phân tán là:",
+    "options": ["Tìm giá trị trung tâm", "Đánh giá sự biến động và tính đại diện của số trung bình", "So sánh hai mẫu số liệu", "Tìm các giá trị ngoại lai"],
+    "correctAnswer": "Đánh giá sự biến động và tính đại diện của số trung bình"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Đầu mút trái của nhóm đầu tiên là 10, đầu mút phải của nhóm cuối cùng là 50. Khoảng biến thiên là:",
+    "options": ["10", "50", "40", "60"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Trong công thức tính trung vị, uₖ là gì?",
+    "options": ["Đầu mút trái của nhóm chứa trung vị", "Đầu mút phải của nhóm chứa trung vị", "Giá trị đại diện của nhóm chứa trung vị", "Tần số của nhóm chứa trung vị"],
+    "correctAnswer": "Đầu mút trái của nhóm chứa trung vị"
+  },
+  {
+    "question": "Nếu phương sai của một mẫu số liệu là 0.25, độ lệch chuẩn là:",
+    "options": ["0.5", "0.0625", "0.25", "1"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "question": "Một bài kiểm tra có điểm trung bình là 7 và độ lệch chuẩn là 1.5. Một bài kiểm tra khác có điểm trung bình là 70 và độ lệch chuẩn là 15. Nhận xét nào đúng?",
+    "options": ["Mức độ phân tán điểm của hai bài là như nhau", "Bài thứ nhất có điểm phân tán hơn", "Bài thứ hai có điểm phân tán hơn", "Không so sánh được"],
+    "correctAnswer": "Mức độ phân tán điểm của hai bài là như nhau"
+  },
+  {
+    "question": "Số liệu về chiều cao của học sinh trong một lớp là loại số liệu:",
+    "options": ["Định tính", "Định lượng rời rạc", "Định lượng liên tục", "Không có thứ tự"],
+    "correctAnswer": "Định lượng liên tục"
+  },
+  {
+    "question": "Số liệu về số anh chị em trong gia đình của học sinh là loại số liệu:",
+    "options": ["Định tính", "Định lượng rời rạc", "Định lượng liên tục", "Ghép nhóm"],
+    "correctAnswer": "Định lượng rời rạc"
+  },
+  {
+    "question": "Khi dữ liệu bị lệch phải (có nhiều giá trị lớn bất thường), mối quan hệ nào thường đúng?",
+    "options": ["Số trung bình > Số trung vị > Mốt", "Số trung bình < Số trung vị < Mốt", "Số trung bình = Số trung vị", "Mốt không tồn tại"],
+    "correctAnswer": "Số trung bình > Số trung vị > Mốt"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Cỡ mẫu n=90. Nhóm chứa mốt có tần số 30. Nhóm liền trước có tần số 20, nhóm liền sau có tần số 15. Tử số trong công thức tính mốt là:",
+    "options": ["30 - 20", "30 - 15", "2*30 - 20 - 15", "15"],
+    "correctAnswer": "30 - 20"
+  }
+]
+
