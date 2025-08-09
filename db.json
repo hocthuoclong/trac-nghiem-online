@@ -18,6 +18,10 @@
                   "file": "./data/math-12-chapter-2.json"
                 },
                 {
+                  "name": "Chương 3 (ĐS&GT): Các số đặc trưng của mẫu số liệu ghép nhóm",
+                  "file": "./data/math-12-chapter-3.json"
+                },
+                {
                   "name": "Chương 1 (Hình học): Vectơ và hệ tọa độ trong không gian",
                   "file": "./data/math-12-geometry-chapter-1.json"
                 }
