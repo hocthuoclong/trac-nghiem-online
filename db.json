@@ -28,6 +28,10 @@
                 {
                   "name": "Chương 1 (Hình học): Vectơ và hệ tọa độ trong không gian",
                   "file": "./data/math-12-geometry-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2 (Hình học): Phương pháp tọa độ trong không gian",
+                  "file": "./data/math-12-geometry-chapter-2.json"
                 }
               ]
             },
