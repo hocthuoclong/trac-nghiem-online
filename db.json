@@ -10,8 +10,16 @@
               "name": "Ôn tập chương",
               "chapters": [
                 {
-                  "name": "Chương 1: Ứng dụng đạo hàm để khảo sát và vẽ đồ thị của hàm số",
+                  "name": "Chương 1 (ĐS&GT): Ứng dụng đạo hàm",
                   "file": "./data/math-12-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2 (ĐS&GT): Hàm số lũy thừa, mũ, logarit",
+                  "file": "./data/math-12-chapter-2.json"
+                },
+                {
+                  "name": "Chương 1 (Hình học): Vectơ và hệ tọa độ trong không gian",
+                  "file": "./data/math-12-geometry-chapter-1.json"
                 }
               ]
             }
