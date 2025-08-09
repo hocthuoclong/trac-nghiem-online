@@ -1,0 +1,398 @@
+[
+  {
+    "question": "Trong không gian Oxyz, mặt phẳng (P): x - 3y + 2z - 5 = 0 có một vectơ pháp tuyến là:",
+    "options": ["n=(1; -3; 2)", "n=(1; 3; 2)", "n=(1; -3; -2)", "n=(1; 2; -3)"],
+    "correctAnswer": "n=(1; -3; 2)"
+  },
+  {
+    "question": "Họ nguyên hàm của hàm số f(x) = sin(x) là:",
+    "options": ["-cos(x) + C", "cos(x) + C", "sin(x) + C", "-sin(x) + C"],
+    "correctAnswer": "-cos(x) + C"
+  },
+  {
+    "question": "Gieo một con súc sắc cân đối. Biết mặt xuất hiện là số lẻ. Xác suất để mặt đó là số 3 là:",
+    "options": ["1/3", "1/6", "1/2", "1/5"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Trong không gian Oxyz, đường thẳng d: (x+2)/3 = (y-1)/(-1) = z/2 có một vectơ chỉ phương là:",
+    "options": ["u=(3; -1; 2)", "u=(-2; 1; 0)", "u=(3; 1; 2)", "u=(-3; 1; -2)"],
+    "correctAnswer": "u=(3; -1; 2)"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] 2x dx.",
+    "options": ["1", "2", "1/2", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho hai biến cố độc lập A và B với P(A) = 0.2 và P(B) = 0.5. Tính P(A ∩ B).",
+    "options": ["0.1", "0.7", "1.0", "0.3"],
+    "correctAnswer": "0.1"
+  },
+  {
+    "question": "Trong không gian Oxyz, phương trình mặt cầu có tâm I(1; 0; -2) và bán kính R=4 là:",
+    "options": ["(x-1)² + y² + (z+2)² = 16", "(x+1)² + y² + (z-2)² = 16", "(x-1)² + y² + (z+2)² = 4", "x²+y²+z²=16"],
+    "correctAnswer": "(x-1)² + y² + (z+2)² = 16"
+  },
+  {
+    "question": "Họ nguyên hàm của hàm số f(x) = e<sup>2x</sup> là:",
+    "options": ["(1/2)e<sup>2x</sup> + C", "2e<sup>2x</sup> + C", "e<sup>2x</sup> + C", "e<sup>x</sup> + C"],
+    "correctAnswer": "(1/2)e<sup>2x</sup> + C"
+  },
+  {
+    "question": "Một hộp có 4 bi xanh và 6 bi đỏ. Lấy ngẫu nhiên 1 bi. Biết bi lấy ra không phải màu xanh. Xác suất bi đó màu đỏ là:",
+    "options": ["1", "6/10", "4/10", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong không gian Oxyz, khoảng cách từ điểm M(2; 3; 1) đến mặt phẳng (P): 2x - 2y + z - 1 = 0 là:",
+    "options": ["2/3", "2", "3", "1"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,π/2] cos(x) dx.",
+    "options": ["1", "0", "-1", "π/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hai xạ thủ cùng bắn vào bia. Xác suất trúng của người thứ nhất là 0.9, người thứ hai là 0.6. Xác suất để bia bị trúng ít nhất một lần là:",
+    "options": ["0.96", "0.54", "1.5", "0.04"],
+    "correctAnswer": "0.96"
+  },
+  {
+    "question": "Trong không gian Oxyz, phương trình tham số của đường thẳng đi qua A(1; 2; 3) và có VTCP u=(3; 3; 1) là:",
+    "options": ["x=1+3t, y=2+3t, z=3+t", "x=3+t, y=3+2t, z=1+3t", "x=1-3t, y=2+3t, z=3+t", "x=1+3t, y=2-3t, z=3-t"],
+    "correctAnswer": "x=1+3t, y=2+3t, z=3+t"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi đồ thị hàm số y = x³, trục Ox và hai đường thẳng x=0, x=2 là:",
+    "options": ["4", "8", "16", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một lớp có 20 nam và 15 nữ. Chọn ngẫu nhiên một bạn. Biết bạn được chọn là nam. Xác suất bạn đó tên An là (biết lớp có 1 bạn nam tên An):",
+    "options": ["1/20", "1/35", "1/15", "1/40"],
+    "correctAnswer": "1/20"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²+2x-4y-11=0. Bán kính của mặt cầu là:",
+    "options": ["4", "16", "√11", "√15"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = 1/(2x+3) là:",
+    "options": ["(1/2)ln|2x+3| + C", "ln|2x+3| + C", "-2/(2x+3)² + C", "2ln|2x+3| + C"],
+    "correctAnswer": "(1/2)ln|2x+3| + C"
+  },
+  {
+    "question": "Gieo hai đồng xu. Biết rằng có ít nhất một mặt ngửa. Xác suất để có hai mặt ngửa là:",
+    "options": ["1/3", "1/2", "1/4", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Trong không gian Oxyz, phương trình mặt phẳng đi qua M(0; 1; -2) và vuông góc với đường thẳng d: x/2 = (y-1)/(-1) = z/3 là:",
+    "options": ["2x - y + 3z + 7 = 0", "2x - y + 3z - 7 = 0", "x + 2y - 3z + 7 = 0", "2x + y + 3z + 5 = 0"],
+    "correctAnswer": "2x - y + 3z + 7 = 0"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=2x, y=0, x=1 quanh trục Ox là:",
+    "options": ["4π/3", "4π", "2π", "2π/3"],
+    "correctAnswer": "4π/3"
+  },
+  {
+    "question": "Cho P(A)=0.6, P(B)=0.5, P(A∩B)=0.3. Tính P(A|B).",
+    "options": ["0.6", "0.5", "0.3", "0.75"],
+    "correctAnswer": "0.6"
+  },
+  {
+    "question": "Trong không gian Oxyz, góc giữa hai vectơ u=(1;1;0) và v=(0;1;1) là:",
+    "options": ["60°", "90°", "45°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Tính tích phân I = ∫[1,e] dx/x.",
+    "options": ["1", "e-1", "e", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một hộp có 3 bi đỏ, 7 bi xanh. Lấy lần lượt 2 bi không hoàn lại. Xác suất để cả hai bi đều đỏ là:",
+    "options": ["1/15", "9/100", "3/10", "6/90"],
+    "correctAnswer": "1/15"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=1+t, y=2, z=3-t. Điểm nào sau đây thuộc d?",
+    "options": ["M(2;2;2)", "N(1;2;3)", "P(0;2;2)", "Q(1;3;2)"],
+    "correctAnswer": "M(2;2;2)"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫x.sin(x) dx.",
+    "options": ["-x.cos(x) + sin(x) + C", "x.cos(x) - sin(x) + C", "x.sin(x) + cos(x) + C", "sin(x) + C"],
+    "correctAnswer": "-x.cos(x) + sin(x) + C"
+  },
+  {
+    "question": "Hai biến cố A, B độc lập. P(A)=0.4, P(B)=0.5. Tính P(A∪B).",
+    "options": ["0.7", "0.9", "0.2", "0.6"],
+    "correctAnswer": "0.7"
+  },
+  {
+    "question": "Trong không gian Oxyz, phương trình mặt phẳng (Oxz) là:",
+    "options": ["y = 0", "x = 0", "z = 0", "x+z=0"],
+    "correctAnswer": "y = 0"
+  },
+  {
+    "question": "Cho ∫[0,1] f(x)dx = 5. Tính I = ∫[0,1] (3 - 2f(x)) dx.",
+    "options": ["-7", " -10", "3", "13"],
+    "correctAnswer": "-7"
+  },
+  {
+    "question": "Một hộp có 20 sản phẩm, trong đó có 4 phế phẩm. Lấy ngẫu nhiên 2 sản phẩm. Biết sản phẩm thứ nhất là phế phẩm. Xác suất sản phẩm thứ hai cũng là phế phẩm là:",
+    "options": ["3/19", "4/20", "3/20", "4/19"],
+    "correctAnswer": "3/19"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): 2x+y-z+5=0 và điểm M(1;1;1). Khoảng cách từ M đến (P) là:",
+    "options": ["7/√6", "7", "6", "√6"],
+    "correctAnswer": "7/√6"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = x² và y = 2x là:",
+    "options": ["4/3", "2/3", "8/3", "2"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Biết tổng số chấm là 10. Xác suất để có ít nhất một mặt 5 chấm là:",
+    "options": ["2/3", "1/3", "1/2", "1/6"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;1;1) và tiếp xúc với mặt phẳng (P): x+2y+2z+3=0. Bán kính R là:",
+    "options": ["8/3", "3", "8", "1"],
+    "correctAnswer": "8/3"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = 1/cos²(x) là:",
+    "options": ["tan(x) + C", "-tan(x) + C", "cot(x) + C", "-cot(x) + C"],
+    "correctAnswer": "tan(x) + C"
+  },
+  {
+    "question": "Một lớp có 50 học sinh, trong đó có 30 học sinh giỏi Toán, 25 học sinh giỏi Lý và 15 học sinh giỏi cả hai môn. Chọn ngẫu nhiên một học sinh giỏi Lý. Xác suất học sinh đó cũng giỏi Toán là:",
+    "options": ["15/25", "15/30", "15/50", "25/50"],
+    "correctAnswer": "15/25"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: (x-1)/1 = y/2 = (z+2)/(-1). Đường thẳng d vuông góc với mặt phẳng nào sau đây?",
+    "options": ["(P): x+2y-z+1=0", "(Q): x-2y-z+1=0", "(R): x+y+z+1=0", "(S): 2x+y-z+1=0"],
+    "correctAnswer": "(P): x+2y-z+1=0"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] dx/(x²+1).",
+    "options": ["π/4", "π/2", "1", "π"],
+    "correctAnswer": "π/4"
+  },
+  {
+    "question": "Một người bắn 2 viên đạn vào mục tiêu, xác suất trúng mỗi viên là 0.7. Biết có ít nhất một viên trúng. Xác suất cả hai viên đều trúng là:",
+    "options": ["0.49/0.91", "0.49", "0.91", "0.7"],
+    "correctAnswer": "0.49/0.91"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho hai mặt phẳng (P): x-2y+z-1=0 và (Q): -2x+4y-2z+5=0. Vị trí tương đối của (P) và (Q) là:",
+    "options": ["Song song", "Cắt nhau", "Trùng nhau", "Vuông góc"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Thể tích khối tròn xoay tạo thành khi quay hình phẳng giới hạn bởi y=sinx, y=0, x=0, x=π quanh trục Ox là:",
+    "options": ["π²/2", "π", "π²/4", "2π"],
+    "correctAnswer": "π²/2"
+  },
+  {
+    "question": "Cho P(A|B) = 0.4 và P(A∩B) = 0.2. Tính P(B).",
+    "options": ["0.5", "0.4", "0.2", "0.8"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "question": "Trong không gian Oxyz, phương trình mặt phẳng đi qua A(1;1;1), B(2;2;2), C(3;3;3) là:",
+    "options": ["Không tồn tại", "x+y+z=3", "x-y=0", "x-z=0"],
+    "correctAnswer": "Không tồn tại"
+  },
+  {
+    "question": "Tìm nguyên hàm ∫(x²+1)/x dx.",
+    "options": ["x²/2 + ln|x| + C", "x + 1/x + C", "x² + ln|x| + C", "2x - 1/x² + C"],
+    "correctAnswer": "x²/2 + ln|x| + C"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 2 bi đỏ. Lấy lần lượt 2 bi không hoàn lại. Xác suất để bi thứ hai là bi đỏ là:",
+    "options": ["1/5", "2/10", "1/9", "2/9"],
+    "correctAnswer": "1/5"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=1+t, y=2-2t, z=3+3t và d': x=2+2t', y=-2t', z=3+6t'. Vị trí tương đối của d và d' là:",
+    "options": ["Song song", "Cắt nhau", "Trùng nhau", "Chéo nhau"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Tính I = ∫[0,π/2] x.sin(x) dx.",
+    "options": ["1", "π/2", "0", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Gia đình có 3 con. Biết rằng có cả con trai và con gái. Xác suất để có đúng 1 con trai là:",
+    "options": ["1/2", "3/8", "3/6", "1/3"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2x+2y-4z-3=0. Tâm I và bán kính R là:",
+    "options": ["I(1;-1;2), R=3", "I(-1;1;-2), R=3", "I(1;-1;2), R=9", "I(-1;1;-2), R=9"],
+    "correctAnswer": "I(1;-1;2), R=3"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = 3<sup>x</sup> + x³ là:",
+    "options": ["3<sup>x</sup>/ln3 + x⁴/4 + C", "3<sup>x</sup>.ln3 + 3x² + C", "3<sup>x</sup> + x⁴/4 + C", "3<sup>x</sup>/ln3 + 3x² + C"],
+    "correctAnswer": "3<sup>x</sup>/ln3 + x⁴/4 + C"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh, 4 bi đỏ. Lấy ngẫu nhiên 3 bi. Biết có ít nhất 1 bi đỏ. Xác suất để có đúng 2 bi đỏ là:",
+    "options": ["30/74", "30/84", "40/84", "40/74"],
+    "correctAnswer": "30/74"
+  },
+  {
+    "question": "Trong không gian Oxyz, phương trình mặt phẳng đi qua M(1;2;3) và song song với mặt phẳng (Oyz) là:",
+    "options": ["x - 1 = 0", "y - 2 = 0", "z - 3 = 0", "x+y+z=6"],
+    "correctAnswer": "x - 1 = 0"
+  },
+  {
+    "question": "Cho F(x) là một nguyên hàm của f(x) = sin(x) và F(0)=1. Tìm F(x).",
+    "options": ["-cos(x) + 2", "-cos(x) + 1", "cos(x)", "sin(x) + 1"],
+    "correctAnswer": "-cos(x) + 2"
+  },
+  {
+    "question": "Hai người chơi cờ. Xác suất thắng của A là 0.3, của B là 0.4, xác suất hòa là 0.3. Biết ván cờ không hòa. Xác suất A thắng là:",
+    "options": ["3/7", "4/7", "0.3", "0.4"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=t, y=2-t, z=1 và mặt phẳng (P): x+y+z+1=0. Giao điểm của d và (P) là:",
+    "options": ["M(-4;6;1)", "N(4;-2;1)", "P(1;1;1)", "Không có giao điểm"],
+    "correctAnswer": "M(-4;6;1)"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y = e<sup>x</sup>, y = e<sup>-x</sup> và x = 1 là:",
+    "options": ["e + 1/e - 2", "e - 1/e", "e + 1/e", "2e"],
+    "correctAnswer": "e + 1/e - 2"
+  },
+  {
+    "question": "Một hộp có 6 bi trắng, 4 bi đen. Lấy ngẫu nhiên 2 bi. Biết 2 bi cùng màu. Xác suất 2 bi đó màu trắng là:",
+    "options": ["15/21", "15/45", "6/21", "6/45"],
+    "correctAnswer": "15/21"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S) có tâm I(1;2;3) và tiếp xúc với trục Oy. Bán kính R là:",
+    "options": ["√10", "1", "√5", "√13"],
+    "correctAnswer": "√10"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] x/(x+1) dx.",
+    "options": ["1 - ln(2)", "1 + ln(2)", "ln(2)", "1"],
+    "correctAnswer": "1 - ln(2)"
+  },
+  {
+    "question": "Tung một con súc sắc 3 lần. Biết lần đầu ra mặt 6 chấm. Xác suất để tổng 3 lần là 18 là:",
+    "options": ["1/36", "1/216", "1/6", "1/18"],
+    "correctAnswer": "1/36"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;1;1) và mặt phẳng (P): 2x-y+2z-1=0. Khoảng cách từ A đến (P) là:",
+    "options": ["2/3", "2", "3", "1/3"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = x.e<sup>x²</sup> là:",
+    "options": ["(1/2)e<sup>x²</sup> + C", "2e<sup>x²</sup> + C", "x.e<sup>x²</sup> + C", "e<sup>x²</sup> + C"],
+    "correctAnswer": "(1/2)e<sup>x²</sup> + C"
+  },
+  {
+    "question": "Một hộp có 3 bi đỏ, 2 bi vàng. Lấy lần lượt 2 bi có hoàn lại. Xác suất để 2 bi khác màu là:",
+    "options": ["12/25", "6/20", "13/25", "1/2"],
+    "correctAnswer": "12/25"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=t, y=1, z=2. Vị trí của d so với trục Ox là:",
+    "options": ["Song song", "Cắt nhau", "Trùng nhau", "Chéo nhau"],
+    "correctAnswer": "Chéo nhau"
+  },
+  {
+    "question": "Thể tích khối tròn xoay khi quay hình phẳng giới hạn bởi y = ln(x), y=0, x=e quanh trục Ox là:",
+    "options": ["π", "π(e-2)", "πe", "π(e-1)"],
+    "correctAnswer": "π"
+  },
+  {
+    "question": "Cho P(A')=0.7, P(B|A)=0.5. Tính P(A∩B).",
+    "options": ["0.15", "0.3", "0.5", "0.35"],
+    "correctAnswer": "0.15"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): x²+y²+z²-2z-3=0. Mặt cầu (S) cắt mặt phẳng (Oxy) theo đường tròn có bán kính là:",
+    "options": ["√3", "3", "√2", "2"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Tính I = ∫[0,π/4] dx/cos²(x).",
+    "options": ["1", "π/4", "√2", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Gieo 1 con súc sắc. A là biến cố 'mặt chẵn', B là 'mặt chia hết cho 3'. Tính P(A|B).",
+    "options": ["1/2", "1/3", "1/6", "2/3"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho A(1;2;3), B(3;4;1). Phương trình mặt phẳng trung trực của AB là:",
+    "options": ["x+y-z-3=0", "2x+2y-2z-6=0", "x+y-z+3=0", "2x+2y+2z-12=0"],
+    "correctAnswer": "x+y-z-3=0"
+  },
+  {
+    "question": "Họ nguyên hàm của f(x) = sin(x)cos(x) là:",
+    "options": ["sin²(x)/2 + C", "-cos(2x)/4 + C", "Cả A và B", "Không có đáp án đúng"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 sản phẩm, trong đó có 3 phế phẩm. Lấy ngẫu nhiên 3 sản phẩm. Biết trong 3 sản phẩm có ít nhất 1 phế phẩm. Xác suất để có đúng 1 phế phẩm là:",
+    "options": ["63/85", "63/120", "C(3,1)C(7,2)/C(10,3)", "1 - C(7,3)/C(10,3)"],
+    "correctAnswer": "63/85"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho đường thẳng d: x=t, y=2t, z=3 và mặt phẳng (P): x+y-z+1=0. Vị trí của d và (P) là:",
+    "options": ["d cắt (P)", "d song song (P)", "d nằm trong (P)", "d vuông góc (P)"],
+    "correctAnswer": "d cắt (P)"
+  },
+  {
+    "question": "Diện tích hình phẳng giới hạn bởi y=x.e<sup>x</sup>, y=0, x=1 là:",
+    "options": ["1", "e-1", "e", "e+1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hai người độc lập làm một bài thi. Xác suất làm được của A là 0.6, của B là 0.7. Biết rằng có ít nhất một người làm được. Xác suất cả hai cùng làm được là:",
+    "options": ["0.42/0.88", "0.42", "0.88", "0.12"],
+    "correctAnswer": "0.42/0.88"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt cầu (S): (x-1)²+(y-2)²+(z-3)²=25. Giao điểm của (S) với trục Ox có tọa độ:",
+    "options": ["(5;0;0) và (-3;0;0)", "(1±√12;0;0)", "Không cắt", "(1;0;0)"],
+    "correctAnswer": "(5;0;0) và (-3;0;0)"
+  },
+  {
+    "question": "Tính tích phân I = ∫[0,1] (e<sup>x</sup>+1)³e<sup>x</sup> dx.",
+    "options": ["(e+1)⁴/4 - 2", "(e+1)⁴/4 - 4", "(e+1)⁴/4", "e⁴-1"],
+    "correctAnswer": "(e+1)⁴/4 - 4"
+  },
+  {
+    "question": "Một bài thi có 2 câu. Xác suất đúng câu 1 là 0.9. Xác suất đúng câu 2 là 0.8. Xác suất đúng ít nhất 1 câu là 0.95. Xác suất đúng cả 2 câu là:",
+    "options": ["0.75", "0.72", "0.9", "0.8"],
+    "correctAnswer": "0.75"
+  },
+  {
+    "question": "Trong không gian Oxyz, cho mặt phẳng (P): x+y+z-1=0 và đường thẳng d: (x-1)/2=y/1=(z+1)/(-3). Góc giữa d và (P) là:",
+    "options": ["90°", "0°", "45°", "60°"],
+    "correctAnswer": "90°"
+  }
+]
+
