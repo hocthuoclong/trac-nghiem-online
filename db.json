@@ -1,5 +1,24 @@
 {
   "grades": {
+    "9": {
+      "name": "Lớp 9",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+                  "file": "./data/math-9-chapter-1.json"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "10": {
       "name": "Lớp 10",
       "subjects": {
