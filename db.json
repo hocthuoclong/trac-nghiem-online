@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Vectơ",
                   "file": "./data/math-10-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Các số đặc trưng của mẫu số liệu không ghép nhóm",
+                  "file": "./data/math-10-chapter-5.json"
                 }
               ]
             }
