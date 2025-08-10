@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Biểu thức nào sau đây là một phân thức đại số?",
+    "options": ["(x² + 1) / (x - 2)", "x² - 3x + 5", "sqrt(x) / 2", "5 / 0"],
+    "correctAnswer": "(x² + 1) / (x - 2)"
+  },
+  {
+    "question": "Điều kiện xác định của phân thức (3x + 1) / (x - 5) là gì?",
+    "options": ["x ≠ 5", "x ≠ -5", "x ≠ 1/3", "x ≠ -1/3"],
+    "correctAnswer": "x ≠ 5"
+  },
+  {
+    "question": "Với điều kiện nào của x thì giá trị của phân thức (x - 1) / (x + 1) được xác định?",
+    "options": ["x ≠ -1", "x ≠ 1", "x = -1", "x = 1"],
+    "correctAnswer": "x ≠ -1"
+  },
+  {
+    "question": "Phân thức (x² - 4) / (x + 2) bằng phân thức nào sau đây?",
+    "options": ["x - 2", "x + 2", "x", "4"],
+    "correctAnswer": "x - 2"
+  },
+  {
+    "question": "Hai phân thức A/B và C/D bằng nhau khi nào?",
+    "options": ["A.D = B.C", "A.C = B.D", "A+D = B+C", "A-D = B-C"],
+    "correctAnswer": "A.D = B.C"
+  },
+  {
+    "question": "Rút gọn phân thức (15x²y) / (10xy²) ta được kết quả là:",
+    "options": ["(3x) / (2y)", "(3y) / (2x)", "3x / 2", "3 / 2y"],
+    "correctAnswer": "(3x) / (2y)"
+  },
+  {
+    "question": "Sử dụng quy tắc đổi dấu, phân thức (A) / (-B) bằng với phân thức nào?",
+    "options": ["(-A) / B", "A / B", "(-A) / (-B)", "- (A / -B)"],
+    "correctAnswer": "(-A) / B"
+  },
+  {
+    "question": "Mẫu thức chung của hai phân thức 1/(2x) và 1/(3y) là:",
+    "options": ["6xy", "5xy", "2x + 3y", "xy"],
+    "correctAnswer": "6xy"
+  },
+  {
+    "question": "Mẫu thức chung của hai phân thức 1/(x-1) và 1/(x+1) là:",
+    "options": ["x² - 1", "x - 1", "x + 1", "2x"],
+    "correctAnswer": "x² - 1"
+  },
+  {
+    "question": "Quy đồng mẫu thức hai phân thức 2/(x²y) và 3/(xy²) ta được các phân thức mới là:",
+    "options": ["2y/(x²y²) và 3x/(x²y²)", "2/(x²y²) và 3/(x²y²)", "2x/(x²y²) và 3y/(x²y²)", "2y/(xy) và 3x/(xy)"],
+    "correctAnswer": "2y/(x²y²) và 3x/(x²y²)"
+  },
+  {
+    "question": "Kết quả của phép cộng 2/x + 3/x là:",
+    "options": ["5/x", "5/(2x)", "6/x", "6/x²"],
+    "correctAnswer": "5/x"
+  },
+  {
+    "question": "Kết quả của phép trừ (x+3)/(x-1) - 4/(x-1) là:",
+    "options": ["1", "(x-1)/(x-1)", "x-1", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Thực hiện phép tính 1/x + 1/y ta được:",
+    "options": ["(x+y)/(xy)", "2/(x+y)", "1/(xy)", "2/(xy)"],
+    "correctAnswer": "(x+y)/(xy)"
+  },
+  {
+    "question": "Kết quả của phép tính 1/(x-2) + 1/(x+2) là:",
+    "options": ["2x / (x² - 4)", "2 / (x² - 4)", "4 / (x² - 4)", "2x / (x-2)"],
+    "correctAnswer": "2x / (x² - 4)"
+  },
+  {
+    "question": "Phân thức đối của phân thức (x-1)/5 là:",
+    "options": ["(1-x)/5", "-(1-x)/5", "5/(x-1)", "5/(1-x)"],
+    "correctAnswer": "(1-x)/5"
+  },
+  {
+    "question": "Kết quả của phép nhân (x/y) * (y²/x²) là:",
+    "options": ["y/x", "x/y", "1", "xy"],
+    "correctAnswer": "y/x"
+  },
+  {
+    "question": "Kết quả của phép nhân (x-1)/y * y²/(x-1)² là:",
+    "options": ["y / (x-1)", "(x-1) / y", "y", "1/(x-1)"],
+    "correctAnswer": "y / (x-1)"
+  },
+  {
+    "question": "Phân thức nghịch đảo của phân thức (x+3)/(y-2) là:",
+    "options": ["(y-2)/(x+3)", "(x+3)/(2-y)", "-(x+3)/(y-2)", "1"],
+    "correctAnswer": "(y-2)/(x+3)"
+  },
+  {
+    "question": "Kết quả của phép chia (x/y) : (z/y) là:",
+    "options": ["x/z", "z/x", "xz/y²", "1"],
+    "correctAnswer": "x/z"
+  },
+  {
+    "question": "Thực hiện phép tính (x²-9)/(x+1) : (x-3)/(x+1) ta được:",
+    "options": ["x + 3", "x - 3", "1/(x+3)", "1/(x-3)"],
+    "correctAnswer": "x + 3"
+  },
+  {
+    "question": "Điều kiện xác định của phân thức 1/(x²-1) là:",
+    "options": ["x ≠ 1 và x ≠ -1", "x ≠ 1", "x ≠ -1", "x ≠ 0"],
+    "correctAnswer": "x ≠ 1 và x ≠ -1"
+  },
+  {
+    "question": "Giá trị của phân thức (x+2)/(x-1) tại x = 2 là:",
+    "options": ["4", "0", "2", "Không xác định"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Rút gọn phân thức (x²+2x+1)/(x+1) ta được:",
+    "options": ["x + 1", "x - 1", "1", "x"],
+    "correctAnswer": "x + 1"
+  },
+  {
+    "question": "Mẫu thức chung đơn giản nhất của 1/(x²-4) và 1/(x+2) là:",
+    "options": ["x² - 4", "(x²-4)(x+2)", "x+2", "x-2"],
+    "correctAnswer": "x² - 4"
+  },
+  {
+    "question": "Kết quả của phép tính (x/(x+y)) + (y/(x+y)) là:",
+    "options": ["1", "x+y", "xy", "x/y"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính (2x-1)/(x-y) - (x+y-1)/(x-y) là:",
+    "options": ["(x-y)/(x-y)", "1", "x-y", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính (x+1)/x * x²/(x+1) là:",
+    "options": ["x", "1", "x²", "x+1"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "Kết quả của phép tính (a/b) : (a/b) với a, b ≠ 0 là:",
+    "options": ["1", "a²/b²", "0", "a+b"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Biểu thức C = (1 - 1/x) : (1 + 1/x). Rút gọn C ta được:",
+    "options": ["(x-1)/(x+1)", "(x+1)/(x-1)", "x-1", "x+1"],
+    "correctAnswer": "(x-1)/(x+1)"
+  },
+  {
+    "question": "Điều kiện của x để giá trị phân thức (x+5)/(x²-25) được xác định là:",
+    "options": ["x ≠ 5 và x ≠ -5", "x ≠ 5", "x ≠ -5", "x = 5"],
+    "correctAnswer": "x ≠ 5 và x ≠ -5"
+  },
+  {
+    "question": "Phân thức (2(x-y))/(y-x) sau khi rút gọn là:",
+    "options": ["-2", "2", "2(x-y)", "1"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Mẫu thức chung của ba phân thức 1/x, 1/y, 1/z là:",
+    "options": ["xyz", "x+y+z", "xy+yz+zx", "1"],
+    "correctAnswer": "xyz"
+  },
+  {
+    "question": "Thực hiện phép tính 1/x - 1/(x+1) ta được:",
+    "options": ["1/(x(x+1))", "-1/(x(x+1))", "x/(x+1)", "(x-1)/x"],
+    "correctAnswer": "1/(x(x+1))"
+  },
+  {
+    "question": "Thực hiện phép tính (x+2)/3 + (x-2)/3 ta được:",
+    "options": ["2x/3", "4/3", "2x", "x"],
+    "correctAnswer": "2x/3"
+  },
+  {
+    "question": "Thực hiện phép nhân (x²-1)/(x) * (x²)/(x+1) ta được:",
+    "options": ["x(x-1)", "x-1", "x", "x(x+1)"],
+    "correctAnswer": "x(x-1)"
+  },
+  {
+    "question": "Giá trị của phân thức (x²-1)/(x-1) tại x = 99 là:",
+    "options": ["100", "99", "98", "1"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Phân thức nào không phải là phân thức đối của (x-2)/(x+2)?",
+    "options": ["(x-2)/-(x+2)", "(2-x)/(x+2)", "-(x-2)/(x+2)", "(x+2)/(x-2)"],
+    "correctAnswer": "(x+2)/(x-2)"
+  },
+  {
+    "question": "Kết quả của phép chia (4x²y) / (2xy) là:",
+    "options": ["2x", "2y", "2", "2xy"],
+    "correctAnswer": "2x"
+  },
+  {
+    "question": "Rút gọn biểu thức (1/x + 1/y) * (xy) ta được:",
+    "options": ["y + x", "1", "2", "xy"],
+    "correctAnswer": "y + x"
+  },
+  {
+    "question": "Điều kiện xác định của phân thức (x²+y²)/(xy) là:",
+    "options": ["x ≠ 0 và y ≠ 0", "x ≠ 0", "y ≠ 0", "x, y bất kỳ"],
+    "correctAnswer": "x ≠ 0 và y ≠ 0"
+  },
+  {
+    "question": "Phân thức (x³+1)/(x+1) rút gọn thành:",
+    "options": ["x² - x + 1", "x² + 1", "x² - 1", "x² + x + 1"],
+    "correctAnswer": "x² - x + 1"
+  },
+  {
+    "question": "Mẫu thức chung của 1/(x-y) và 1/(y-x) là:",
+    "options": ["x - y", "y - x", "(x-y)(y-x)", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của (x/(x-y)) - (y/(x-y)) là:",
+    "options": ["1", "(x-y)/(x-y)", "x-y", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của (x+1)² / (x+1) là:",
+    "options": ["x + 1", "(x+1)²", "1", "x"],
+    "correctAnswer": "x + 1"
+  },
+  {
+    "question": "Phép tính (x/2) * (4/x²) có kết quả là:",
+    "options": ["2/x", "x/2", "2x", "2"],
+    "correctAnswer": "2/x"
+  },
+  {
+    "question": "Phép tính (x+y)/(x) : (x+y)/(y) có kết quả là:",
+    "options": ["y/x", "x/y", "1", "(x+y)²/(xy)"],
+    "correctAnswer": "y/x"
+  },
+  {
+    "question": "Tìm x, biết (x+1)/2 = 3. Giá trị của x là:",
+    "options": ["5", "6", "2", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Rút gọn A = (x²-y²)/(x+y) ta được:",
+    "options": ["x - y", "x + y", "x² + y²", "1"],
+    "correctAnswer": "x - y"
+  },
+  {
+    "question": "Điều kiện xác định của phân thức 1/(x² + 1) là:",
+    "options": ["Mọi x thuộc R", "x ≠ 1", "x ≠ -1", "x ≠ 0"],
+    "correctAnswer": "Mọi x thuộc R"
+  },
+  {
+    "question": "Kết quả của phép tính (2/(x-1)) - (2/(x+1)) là:",
+    "options": ["4 / (x² - 1)", "0", "-4 / (x² - 1)", "2x / (x² - 1)"],
+    "correctAnswer": "4 / (x² - 1)"
+  },
+  {
+    "question": "Phân thức (3x+3)/(3x) rút gọn là:",
+    "options": ["(x+1)/x", "x+1", "1", "3"],
+    "correctAnswer": "(x+1)/x"
+  },
+  {
+    "question": "Mẫu thức chung của 1/x, 1/x², 1/x³ là:",
+    "options": ["x³", "x⁶", "x", "3x"],
+    "correctAnswer": "x³"
+  },
+  {
+    "question": "Kết quả của (x+y) + (x-y) / 2 là:",
+    "options": ["(3x+y)/2", "x", "3x/2", "x+y"],
+    "correctAnswer": "(3x+y)/2"
+  },
+  {
+    "question": "Kết quả của (x²y) * (1/xy) là:",
+    "options": ["x", "y", "xy", "1"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "Kết quả của (1/x) : (1/x²) là:",
+    "options": ["x", "1/x", "x²", "1"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "Giá trị của phân thức (2a-b)/(a+b) với a=1, b=1 là:",
+    "options": ["1/2", "1", "2", "0"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Phân thức (x-5)/(5-x) bằng:",
+    "options": ["-1", "1", "x-5", "5-x"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Điều kiện xác định của (x-1)/(x(x+2)) là:",
+    "options": ["x ≠ 0 và x ≠ -2", "x ≠ 0", "x ≠ -2", "x ≠ 1"],
+    "correctAnswer": "x ≠ 0 và x ≠ -2"
+  },
+  {
+    "question": "Rút gọn (8xy²)/(12x²y) ta được:",
+    "options": ["2y / 3x", "2x / 3y", "2/3", "xy"],
+    "correctAnswer": "2y / 3x"
+  },
+  {
+    "question": "Mẫu thức chung của 1/(x+1) và 1/(x+1)² là:",
+    "options": ["(x+1)²", "x+1", "(x+1)³", "x²-1"],
+    "correctAnswer": "(x+1)²"
+  },
+  {
+    "question": "Kết quả của x + 1/x là:",
+    "options": ["(x²+1)/x", "x+1", "1", "2"],
+    "correctAnswer": "(x²+1)/x"
+  },
+  {
+    "question": "Kết quả của (x/y) - (y/x) là:",
+    "options": ["(x²-y²)/(xy)", "0", "1", "x-y"],
+    "correctAnswer": "(x²-y²)/(xy)"
+  },
+  {
+    "question": "Kết quả của (x+1)/y * y/(x+1) là:",
+    "options": ["1", "x+1", "y", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của (x³-1)/(x-1) là:",
+    "options": ["x² + x + 1", "x² - 1", "x+1", "x-1"],
+    "correctAnswer": "x² + x + 1"
+  },
+  {
+    "question": "Biểu thức nào không phải là phân thức đại số?",
+    "options": ["(x+1)/sqrt(y)", "3x", "(x-y)/(x+y)", "7"],
+    "correctAnswer": "(x+1)/sqrt(y)"
+  },
+  {
+    "question": "Giá trị của phân thức (x-3)/(x+4) bằng 0 khi:",
+    "options": ["x = 3", "x = -4", "x = 0", "x = -3"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Phân thức (x²+4x+4)/(x+2) rút gọn là:",
+    "options": ["x + 2", "x - 2", "x+4", "1"],
+    "correctAnswer": "x + 2"
+  },
+  {
+    "question": "Quy đồng mẫu thức của 1/(x-2) và 1/(x²-4) ta được:",
+    "options": ["(x+2)/(x²-4) và 1/(x²-4)", "1/(x²-4) và 1/(x²-4)", "x+2 và 1", "Không quy đồng được"],
+    "correctAnswer": "(x+2)/(x²-4) và 1/(x²-4)"
+  },
+  {
+    "question": "Phép tính (a/c) + (b/c) có kết quả là:",
+    "options": ["(a+b)/c", "ab/c", "ab/c²", "a+b"],
+    "correctAnswer": "(a+b)/c"
+  },
+  {
+    "question": "Phép tính (x+5)/y - 5/y có kết quả là:",
+    "options": ["x/y", "x", "y", "5"],
+    "correctAnswer": "x/y"
+  },
+  {
+    "question": "Phép tính (x/3) * (6/x) có kết quả là:",
+    "options": ["2", "x²/18", "18/x²", "6"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phép tính (2/x) : (4/x²) có kết quả là:",
+    "options": ["x/2", "2/x", "8/x³", "x³/8"],
+    "correctAnswer": "x/2"
+  },
+  {
+    "question": "Rút gọn biểu thức (x/y + 1) / (x/y - 1) ta được:",
+    "options": ["(x+y)/(x-y)", "(x-y)/(x+y)", "1", "-1"],
+    "correctAnswer": "(x+y)/(x-y)"
+  },
+  {
+    "question": "Điều kiện xác định của phân thức (x-y)/(x²-y²) là:",
+    "options": ["x ≠ y và x ≠ -y", "x ≠ y", "x ≠ -y", "x, y bất kỳ"],
+    "correctAnswer": "x ≠ y và x ≠ -y"
+  },
+  {
+    "question": "Giá trị của phân thức (x²+y²)/(x-y) tại x=2, y=1 là:",
+    "options": ["5", "3", "4", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Rút gọn phân thức (5x-5y)/(x-y) ta được:",
+    "options": ["5", "5(x-y)", "1", "x-y"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Mẫu thức chung của 1/(x²y) và 1/(xy³) là:",
+    "options": ["x²y³", "xy", "x³y⁴", "x+y"],
+    "correctAnswer": "x²y³"
+  },
+  {
+    "question": "Kết quả của 2x + 3/y là:",
+    "options": ["(2xy+3)/y", "5x/y", "5xy", "(2x+3)/y"],
+    "correctAnswer": "(2xy+3)/y"
+  },
+  {
+    "question": "Kết quả của (x²/(x-1)) - (1/(x-1)) là:",
+    "options": ["x + 1", "x - 1", "1", "x"],
+    "correctAnswer": "x + 1"
+  },
+  {
+    "question": "Kết quả của (x-2)/(x) * (x²)/(x-2) là:",
+    "options": ["x", "x²", "x-2", "1"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "Phân thức nghịch đảo của 5 là:",
+    "options": ["1/5", "5", "-5", "-1/5"],
+    "correctAnswer": "1/5"
+  },
+  {
+    "question": "Kết quả của (1-1/x) * x là:",
+    "options": ["x - 1", "1", "0", "x"],
+    "correctAnswer": "x - 1"
+  },
+  {
+    "question": "Điều kiện xác định của 1/(x²-2x+1) là:",
+    "options": ["x ≠ 1", "x ≠ -1", "x ≠ 0", "x ≠ 2"],
+    "correctAnswer": "x ≠ 1"
+  },
+  {
+    "question": "Phân thức (x³-8)/(x-2) sau khi rút gọn là:",
+    "options": ["x² + 2x + 4", "x² - 2x + 4", "x² - 4", "x² + 4"],
+    "correctAnswer": "x² + 2x + 4"
+  },
+  {
+    "question": "Mẫu thức chung của 1/(x-1), 1/(x+1), 1/(x²-1) là:",
+    "options": ["x² - 1", "(x-1)(x+1)(x²-1)", "x-1", "x+1"],
+    "correctAnswer": "x² - 1"
+  },
+  {
+    "question": "Kết quả của (x/(x+1)) + (1/(x+1)) là:",
+    "options": ["1", "x+1", "x", "1/(x+1)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của (2x/5) - (x/5) là:",
+    "options": ["x/5", "1/5", "x", "5"],
+    "correctAnswer": "x/5"
+  },
+  {
+    "question": "Kết quả của (x/y) * (y/x) với x, y ≠ 0 là:",
+    "options": ["1", "0", "xy", "x²/y²"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của (5x) : (1/x) là:",
+    "options": ["5x²", "5", "5/x", "x/5"],
+    "correctAnswer": "5x²"
+  },
+  {
+    "question": "Giá trị của phân thức (x+y)/(x-y) tại x=1, y=-1 là:",
+    "options": ["0", "1", "Không xác định", "-1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Rút gọn biểu thức A = (x³-x)/(x²+x) ta được:",
+    "options": ["x - 1", "x + 1", "x", "1"],
+    "correctAnswer": "x - 1"
+  },
+  {
+    "question": "Thực hiện phép tính (1/x) + (2/x) + (3/x) ta được:",
+    "options": ["6/x", "6/x³", "6", "1/x"],
+    "correctAnswer": "6/x"
+  }
+]
+
