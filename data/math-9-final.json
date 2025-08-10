@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Hệ phương trình {2x+y=3; x-y=3} có nghiệm là:",
+    "options": ["(2; -1)", "(1; 1)", "(0; 3)", "(-1; 5)"],
+    "correctAnswer": "(2; -1)"
+  },
+  {
+    "question": "Nghiệm của bất phương trình 5x - 10 > 0 là:",
+    "options": ["x > 2", "x < 2", "x > -2", "x < -2"],
+    "correctAnswer": "x > 2"
+  },
+  {
+    "question": "Biểu thức √(2x-6) có nghĩa khi:",
+    "options": ["x ≥ 3", "x > 3", "x ≤ 3", "x < 3"],
+    "correctAnswer": "x ≥ 3"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=3, AC=4. sin(B) bằng:",
+    "options": ["4/5", "3/5", "3/4", "4/3"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Cho đường tròn (O; 6cm) và dây AB = 6cm. Khoảng cách từ O đến dây AB là:",
+    "options": ["3√3 cm", "3 cm", "6 cm", "6√3 cm"],
+    "correctAnswer": "3√3 cm"
+  },
+  {
+    "question": "Phương trình x² - 8x + 15 = 0 có tổng hai nghiệm là:",
+    "options": ["8", "-8", "15", "-15"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một lớp có 40 học sinh, trong đó có 24 nữ. Tần số tương đối của học sinh nữ là:",
+    "options": ["60%", "24%", "40%", "0.6%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt xuất hiện có số chấm là một số chẵn là:",
+    "options": ["1/2", "1/3", "2/3", "1/6"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong một đường tròn, góc nội tiếp chắn cung 100° có số đo là:",
+    "options": ["50°", "100°", "200°", "25°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Công thức tính thể tích hình nón có bán kính đáy r và chiều cao h là:",
+    "options": ["V = (1/3)πr²h", "V = πr²h", "V = πrl", "V = 2πrh"],
+    "correctAnswer": "V = (1/3)πr²h"
+  },
+  {
+    "question": "Cặp số (1; 0) là nghiệm của phương trình nào?",
+    "options": ["x - y = 1", "x + y = 0", "2x + y = 1", "x - 2y = 0"],
+    "correctAnswer": "x - y = 1"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình -3x + 6 ≤ 0 là:",
+    "options": ["[2; +∞)", "(-∞; 2]", "(2; +∞)", "(-∞; 2)"],
+    "correctAnswer": "[2; +∞)"
+  },
+  {
+    "question": "Rút gọn biểu thức √( (2 - √5)² ) ta được:",
+    "options": ["√5 - 2", "2 - √5", "3", "1"],
+    "correctAnswer": "√5 - 2"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có B=30°, BC=10. Cạnh AC bằng:",
+    "options": ["5", "5√3", "10√3", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Đường thẳng d và đường tròn (O) có 2 điểm chung. Vị trí tương đối của chúng là:",
+    "options": ["Cắt nhau", "Tiếp xúc", "Không giao nhau", "Song song"],
+    "correctAnswer": "Cắt nhau"
+  },
+  {
+    "question": "Hàm số y = -3x² nghịch biến khi:",
+    "options": ["x > 0", "x < 0", "x = 0", "Với mọi x"],
+    "correctAnswer": "x > 0"
+  },
+  {
+    "question": "Một mẫu số liệu có 200 giá trị. Một giá trị có tần số là 50. Tần số tương đối là:",
+    "options": ["25%", "50%", "20%", "4%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Một hộp có 2 bi đỏ, 3 bi xanh. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi không phải màu xanh là:",
+    "options": ["2/5", "3/5", "1", "0"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Tứ giác ABCD nội tiếp đường tròn. Nếu góc B = 80° thì góc D bằng:",
+    "options": ["100°", "80°", "280°", "10°"],
+    "correctAnswer": "100°"
+  },
+  {
+    "question": "Công thức tính diện tích xung quanh của hình trụ có bán kính đáy r và chiều cao h là:",
+    "options": ["Sxq = 2πrh", "Sxq = πr²h", "Sxq = 2πr(r+h)", "Sxq = πrh"],
+    "correctAnswer": "Sxq = 2πrh"
+  },
+  {
+    "question": "Hệ phương trình {x-y=2; 2x-2y=4} có bao nhiêu nghiệm?",
+    "options": ["Vô số nghiệm", "Một nghiệm duy nhất", "Vô nghiệm", "Hai nghiệm"],
+    "correctAnswer": "Vô số nghiệm"
+  },
+  {
+    "question": "Phương trình 0x = 0 có tập nghiệm là:",
+    "options": ["R", "∅", "{0}", "{1}"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Kết quả của phép tính √18 - 2√2 là:",
+    "options": ["√2", "√16", "1", "3√2 - 2√2"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Giá trị của tan(30°)cot(60°) là:",
+    "options": ["1/3", "1", "3", "√3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Hai đường tròn (O; 5cm) và (O'; 3cm) có OO' = 2cm. Vị trí tương đối của chúng là:",
+    "options": ["Tiếp xúc trong", "Cắt nhau", "Đựng nhau", "Tiếp xúc ngoài"],
+    "correctAnswer": "Tiếp xúc trong"
+  },
+  {
+    "question": "Phương trình x² + 5x + 6 = 0 có tích hai nghiệm là:",
+    "options": ["6", "-6", "5", "-5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, hình quạt ứng với tần số tương đối 10% có góc ở tâm là:",
+    "options": ["36°", "10°", "180°", "90°"],
+    "correctAnswer": "36°"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để có ít nhất một mặt ngửa là:",
+    "options": ["3/4", "1/2", "1/4", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Góc tạo bởi tiếp tuyến và dây cung tại tiếp điểm có số đo:",
+    "options": ["Bằng nửa số đo cung bị chắn", "Bằng góc nội tiếp cùng chắn cung đó", "Cả A và B", "Bằng góc ở tâm"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hình cầu có bán kính 3cm. Thể tích của khối cầu là:",
+    "options": ["36π cm³", "9π cm³", "108π cm³", "12π cm³"],
+    "correctAnswer": "36π cm³"
+  },
+  {
+    "question": "Hai vòi nước cùng chảy vào bể thì 4 giờ đầy. Mỗi giờ, lượng nước vòi I chảy bằng 1.5 lần vòi II. Mỗi vòi chảy riêng đầy bể trong bao lâu?",
+    "options": ["Vòi I: 20/3 giờ, Vòi II: 10 giờ", "Vòi I: 6 giờ, Vòi II: 12 giờ", "Vòi I: 10 giờ, Vòi II: 20/3 giờ", "Vòi I: 4 giờ, Vòi II: 8 giờ"],
+    "correctAnswer": "Vòi I: 20/3 giờ, Vòi II: 10 giờ"
+  },
+  {
+    "question": "Bất phương trình 2(x-1) < 2x + 5 có tập nghiệm là:",
+    "options": ["R", "∅", "x > -7/2", "x < -7/2"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 4/(√3 - 1) là:",
+    "options": ["2(√3 + 1)", "4(√3 + 1)", "2(√3 - 1)", "√3 + 1"],
+    "correctAnswer": "2(√3 + 1)"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Biết AB=6, BC=10. Độ dài BH là:",
+    "options": ["3.6", "6.4", "4.8", "5"],
+    "correctAnswer": "3.6"
+  },
+  {
+    "question": "Tâm của đường tròn nội tiếp tam giác là giao điểm của:",
+    "options": ["Ba đường phân giác", "Ba đường trung trực", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường phân giác"
+  },
+  {
+    "question": "Parabol y = ax² + bx + c có đỉnh I(-1; 2) và đi qua A(0; 1). Parabol đó là:",
+    "options": ["y = -x² - 2x + 1", "y = x² + 2x + 3", "y = -x² + 2x + 1", "y = x² - 2x - 1"],
+    "correctAnswer": "y = -x² - 2x + 1"
+  },
+  {
+    "question": "Một mẫu số liệu có 25 giá trị. Một giá trị có tần số là 5. Tần số tương đối là:",
+    "options": ["20%", "5%", "25%", "1/5"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 4 bi đỏ. Lấy ngẫu nhiên 3 bi. Xác suất để có đúng 2 bi đỏ là:",
+    "options": ["3/10", "C(4,2)C(6,1)/C(10,3)", "36/120", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tứ giác nào sau đây không phải lúc nào cũng nội tiếp được đường tròn?",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r, chiều cao h, đường sinh l. Hệ thức nào đúng?",
+    "options": ["l² = h² + r²", "r² = h² + l²", "h² = r² + l²", "l = h+r"],
+    "correctAnswer": "l² = h² + r²"
+  },
+  {
+    "question": "Hệ phương trình {x+y=1; 2x-y=5} có nghiệm là:",
+    "options": ["(2; -1)", "(-1; 2)", "(1; 0)", "(3; -2)"],
+    "correctAnswer": "(2; -1)"
+  },
+  {
+    "question": "Phương trình |2x-1| = 3 có tổng các nghiệm là:",
+    "options": ["1", "2", "-1", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-64) là:",
+    "options": ["-4", "4", "±4", "-8"],
+    "correctAnswer": "-4"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có sin(B) = 5/13. Giá trị của tan(B) là:",
+    "options": ["5/12", "12/5", "12/13", "5/13"],
+    "correctAnswer": "5/12"
+  },
+  {
+    "question": "Đường tròn ngoại tiếp tam giác đều cạnh a có bán kính là:",
+    "options": ["a√3/3", "a√3/6", "a/2", "a√3"],
+    "correctAnswer": "a√3/3"
+  },
+  {
+    "question": "Phương trình x² - 2x + m = 0 có hai nghiệm phân biệt khi:",
+    "options": ["m < 1", "m > 1", "m = 1", "m ≤ 1"],
+    "correctAnswer": "m < 1"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn phù hợp để:",
+    "options": ["So sánh tỉ lệ, cơ cấu các phần trong một tổng thể", "Biểu diễn sự thay đổi theo thời gian", "Tìm mốt", "Tìm số trung bình"],
+    "correctAnswer": "So sánh tỉ lệ, cơ cấu các phần trong một tổng thể"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là một số chẵn là:",
+    "options": ["3/4", "27/36", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho đường tròn (O) và điểm M nằm ngoài. Hai tiếp tuyến MA, MB. Nếu góc AOB = 130° thì góc AMB bằng:",
+    "options": ["50°", "130°", "65°", "230°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Một hình trụ có diện tích xung quanh bằng 40π, chiều cao bằng 5. Bán kính đáy là:",
+    "options": ["4", "8", "2", "20"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một số có hai chữ số. Tổng hai chữ số là 11. Nếu đổi chỗ hai chữ số thì số mới lớn hơn số cũ 45 đơn vị. Số ban đầu là:",
+    "options": ["38", "83", "47", "74"],
+    "correctAnswer": "38"
+  },
+  {
+    "question": "Bất phương trình 2x - 1 > 3x + 1 có nghiệm là:",
+    "options": ["x < -2", "x > -2", "x < 2", "x > 2"],
+    "correctAnswer": "x < -2"
+  },
+  {
+    "question": "Rút gọn biểu thức √(125a) / √5a với a > 0.",
+    "options": ["5", "25", "√25a", "5√a"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một cái thang dài 6m dựa vào tường tạo với mặt đất một góc 60°. Chân thang cách tường bao xa?",
+    "options": ["3 m", "3√3 m", "6√3 m", "12 m"],
+    "correctAnswer": "3 m"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) có OO' = d. Nếu d = R+r thì chúng:",
+    "options": ["Tiếp xúc ngoài", "Cắt nhau", "Tiếp xúc trong", "Ngoài nhau"],
+    "correctAnswer": "Tiếp xúc ngoài"
+  },
+  {
+    "question": "Phương trình x² - 4x + m = 0 có nghiệm kép khi:",
+    "options": ["m = 4", "m < 4", "m > 4", "m = 2"],
+    "correctAnswer": "m = 4"
+  },
+  {
+    "question": "Một mẫu số liệu có mốt là 10. Điều này có nghĩa là:",
+    "options": ["Giá trị 10 xuất hiện nhiều lần nhất", "Giá trị trung bình là 10", "Giá trị trung vị là 10", "Giá trị lớn nhất là 10"],
+    "correctAnswer": "Giá trị 10 xuất hiện nhiều lần nhất"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 10 phế phẩm. Lấy ngẫu nhiên 2 sản phẩm. Xác suất để có ít nhất một phế phẩm là:",
+    "options": ["37/99", "1 - C(90,2)/C(100,2)", "1 - (90*89)/(100*99)", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Số đo mỗi góc của một ngũ giác đều là:",
+    "options": ["108°", "120°", "90°", "72°"],
+    "correctAnswer": "108°"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy 5cm, chiều cao 12cm. Thể tích khối nón là:",
+    "options": ["100π cm³", "300π cm³", "60π cm³", "156π cm³"],
+    "correctAnswer": "100π cm³"
+  },
+  {
+    "question": "Hệ phương trình {x+y=2; x-y=0} có nghiệm là:",
+    "options": ["(1; 1)", "(2; 0)", "(0; 2)", "Vô nghiệm"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Phương trình 3x + 2 = 2x + 3 có nghiệm là:",
+    "options": ["x = 1", "x = -1", "x = 5", "Vô nghiệm"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Biểu thức ³√(x-1) có nghĩa khi:",
+    "options": ["Với mọi x", "x ≥ 1", "x > 1", "x ≠ 1"],
+    "correctAnswer": "Với mọi x"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có AB=5, BC=13. tan(C) bằng:",
+    "options": ["5/12", "12/5", "5/13", "12/13"],
+    "correctAnswer": "5/12"
+  },
+  {
+    "question": "Đường tròn nội tiếp hình vuông cạnh a có bán kính là:",
+    "options": ["a/2", "a", "a√2/2", "a√2"],
+    "correctAnswer": "a/2"
+  },
+  {
+    "question": "Phương trình x² - 2x - 3 = 0 có hai nghiệm là:",
+    "options": ["-1 và 3", "1 và -3", "1 và 3", "-1 và -3"],
+    "correctAnswer": "-1 và 3"
+  },
+  {
+    "question": "Một mẫu số liệu có 10 giá trị. Tần số của mỗi giá trị là 1. Tần số tương đối của mỗi giá trị là:",
+    "options": ["10%", "1%", "100%", "1"],
+    "correctAnswer": "10%"
+  },
+  {
+    "question": "Gieo 3 đồng xu. Xác suất để 3 mặt giống nhau là:",
+    "options": ["1/4", "2/8", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tứ giác ABCD nội tiếp. Góc ngoài tại đỉnh A bằng:",
+    "options": ["Góc C", "Góc B", "Góc D", "Góc A"],
+    "correctAnswer": "Góc C"
+  },
+  {
+    "question": "Một hình cầu có diện tích 36π. Bán kính của hình cầu là:",
+    "options": ["3", "6", "9", "√18"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {2x+y=0; x-y=3} là:",
+    "options": ["(1; -2)", "(-1; 2)", "(2; -4)", "(-2; 4)"],
+    "correctAnswer": "(1; -2)"
+  },
+  {
+    "question": "Bất phương trình |x| ≤ 1 có tập nghiệm là:",
+    "options": ["[-1; 1]", "(-1; 1)", "(-∞; -1] ∪ [1; +∞)", "R"],
+    "correctAnswer": "[-1; 1]"
+  },
+  {
+    "question": "Kết quả của phép tính √(3-2√2) là:",
+    "options": ["√2 - 1", "1 - √2", "1", "√2 + 1"],
+    "correctAnswer": "√2 - 1"
+  },
+  {
+    "question": "Một tam giác vuông có một góc nhọn 30° và cạnh kề góc đó là 6. Cạnh đối diện góc đó là:",
+    "options": ["2√3", "6√3", "3", "12"],
+    "correctAnswer": "2√3"
+  },
+  {
+    "question": "Đường thẳng và đường tròn có thể có tối đa bao nhiêu điểm chung?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phương trình x² - 2mx + m² = 0 có:",
+    "options": ["Nghiệm kép x=m", "Hai nghiệm phân biệt", "Vô nghiệm", "Phụ thuộc vào m"],
+    "correctAnswer": "Nghiệm kép x=m"
+  },
+  {
+    "question": "Một mẫu số liệu có 4 giá trị. Tần số tương đối của giá trị thứ nhất là 20%, thứ hai là 30%, thứ ba là 40%. Tần số tương đối của giá trị thứ tư là:",
+    "options": ["10%", "25%", "5%", "Không xác định"],
+    "correctAnswer": "10%"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 1 bi đỏ. Lấy ngẫu nhiên 3 bi. Xác suất để có bi đỏ là:",
+    "options": ["3/10", "C(9,2)/C(10,3)", "36/120", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Số đo mỗi góc của một lục giác đều nội tiếp đường tròn là:",
+    "options": ["120°", "60°", "90°", "108°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy r, chiều cao h. Một hình nón có cùng bán kính đáy và chiều cao. Tỉ số thể tích của hình nón và hình trụ là:",
+    "options": ["1/3", "3", "1/2", "2"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Một số có hai chữ số. Chữ số hàng chục lớn hơn chữ số hàng đơn vị là 4. Nếu đổi chỗ hai chữ số thì được số mới bằng 3/8 số cũ. Số ban đầu là:",
+    "options": ["84", "73", "62", "51"],
+    "correctAnswer": "84"
+  },
+  {
+    "question": "Phương trình (m-1)x = m-1 có nghiệm duy nhất khi:",
+    "options": ["m ≠ 1", "m = 1", "m bất kỳ", "Không có m"],
+    "correctAnswer": "m ≠ 1"
+  },
+  {
+    "question": "Biểu thức ³√(a³) bằng:",
+    "options": ["a", "|a|", "-a", "±a"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, AB=6, AC=8. Bán kính đường tròn ngoại tiếp là:",
+    "options": ["5", "10", "4", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Hai đường tròn (O; 5cm) và (O'; 5cm) có OO' = 10cm. Số tiếp tuyến chung là:",
+    "options": ["3", "4", "2", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương trình x² - 2x - 1 = 0 có tổng các nghịch đảo của hai nghiệm là:",
+    "options": ["-2", "2", "-1", "1"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Dữ liệu về 'xếp loại học lực' là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Dữ liệu rời rạc", "Dữ liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là một số nguyên tố là:",
+    "options": ["5/12", "15/36", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Góc nội tiếp chắn cung 360° là:",
+    "options": ["Không tồn tại", "180°", "90°", "360°"],
+    "correctAnswer": "Không tồn tại"
+  },
+  {
+    "question": "Một hình nón có diện tích xung quanh bằng diện tích đáy. Tỉ số l/r là:",
+    "options": ["1", "2", "1/2", "π"],
+    "correctAnswer": "1"
+  }
+]
+
