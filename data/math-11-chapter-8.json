@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Cho A và B là hai biến cố. Biến cố 'A hoặc B xảy ra' được gọi là:",
+    "options": ["Biến cố hợp của A và B", "Biến cố giao của A và B", "Biến cố đối của A", "Biến cố xung khắc"],
+    "correctAnswer": "Biến cố hợp của A và B"
+  },
+  {
+    "question": "Cho A và B là hai biến cố. Biến cố 'Cả A và B cùng xảy ra' được gọi là:",
+    "options": ["Biến cố giao của A và B", "Biến cố hợp của A và B", "Biến cố độc lập", "Biến cố đối của B"],
+    "correctAnswer": "Biến cố giao của A và B"
+  },
+  {
+    "question": "Hai biến cố A và B được gọi là xung khắc nếu:",
+    "options": ["A ∩ B = ∅", "A ∪ B = Ω", "A = B", "A ⊂ B"],
+    "correctAnswer": "A ∩ B = ∅"
+  },
+  {
+    "question": "Công thức cộng xác suất cho hai biến cố bất kỳ A và B là:",
+    "options": ["P(A ∪ B) = P(A) + P(B) - P(A ∩ B)", "P(A ∪ B) = P(A) + P(B)", "P(A ∪ B) = P(A) * P(B)", "P(A ∪ B) = P(A) + P(B) + P(A ∩ B)"],
+    "correctAnswer": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B)"
+  },
+  {
+    "question": "Hai biến cố A và B được gọi là độc lập nếu:",
+    "options": ["P(A ∩ B) = P(A) * P(B)", "P(A ∩ B) = 0", "P(A ∪ B) = P(A) + P(B)", "Việc xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia"],
+    "correctAnswer": "Việc xảy ra của biến cố này không ảnh hưởng đến xác suất xảy ra của biến cố kia"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là biến cố 'mặt chẵn xuất hiện', B là 'mặt lẻ xuất hiện'. A và B là hai biến cố:",
+    "options": ["Xung khắc", "Độc lập", "Hợp", "Giao"],
+    "correctAnswer": "Xung khắc"
+  },
+  {
+    "question": "Cho P(A) = 0.4, P(B) = 0.5 và P(A ∩ B) = 0.2. Tính P(A ∪ B).",
+    "options": ["0.7", "0.9", "0.2", "1.1"],
+    "correctAnswer": "0.7"
+  },
+  {
+    "question": "Tung một đồng xu và gieo một con súc sắc. Hai phép thử này là:",
+    "options": ["Độc lập", "Phụ thuộc", "Xung khắc", "Đối nhau"],
+    "correctAnswer": "Độc lập"
+  },
+  {
+    "question": "Cho A và B là hai biến cố độc lập. Biết P(A) = 1/3 và P(B) = 1/4. Tính P(A ∩ B).",
+    "options": ["1/12", "7/12", "1/7", "2/7"],
+    "correctAnswer": "1/12"
+  },
+  {
+    "question": "Nếu A và B là hai biến cố xung khắc thì công thức cộng xác suất là:",
+    "options": ["P(A ∪ B) = P(A) + P(B)", "P(A ∪ B) = P(A) + P(B) - P(A ∩ B)", "P(A ∪ B) = P(A) * P(B)", "P(A ∪ B) = 0"],
+    "correctAnswer": "P(A ∪ B) = P(A) + P(B)"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là 'mặt có số chấm chia hết cho 3', B là 'mặt có số chấm là số chẵn'. Biến cố A ∩ B là:",
+    "options": ["'Mặt 6 chấm xuất hiện'", "'Mặt 3 chấm xuất hiện'", "'Mặt 2 hoặc 4 xuất hiện'", "∅"],
+    "correctAnswer": "'Mặt 6 chấm xuất hiện'"
+  },
+  {
+    "question": "Biến cố đối của biến cố A, ký hiệu là A', thỏa mãn:",
+    "options": ["P(A) + P(A') = 1", "P(A) = P(A')", "A ∪ A' = ∅", "A ∩ A' = Ω"],
+    "correctAnswer": "P(A) + P(A') = 1"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 6 bi xanh và 4 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh hoặc bi đỏ là:",
+    "options": ["1", "0.6", "0.4", "0.24"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hai xạ thủ cùng bắn vào một mục tiêu. Xác suất trúng của người thứ nhất là 0.8, của người thứ hai là 0.7. Xác suất để cả hai cùng trượt là:",
+    "options": ["0.06", "0.56", "0.94", "0.1"],
+    "correctAnswer": "0.06"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 7 là:",
+    "options": ["1/6", "1/36", "5/36", "7/36"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Một lớp học có 20 nam và 15 nữ. Chọn ngẫu nhiên 1 học sinh. Xác suất chọn được nam là 20/35. Xác suất chọn được nữ là 15/35. Hai biến cố 'chọn được nam' và 'chọn được nữ' là:",
+    "options": ["Xung khắc", "Độc lập", "Không xung khắc", "Không độc lập"],
+    "correctAnswer": "Xung khắc"
+  },
+  {
+    "question": "Cho P(A) = 0.6, P(B) = 0.5, P(A ∪ B) = 0.8. Tính P(A ∩ B).",
+    "options": ["0.3", "1.1", "0.2", "0.4"],
+    "correctAnswer": "0.3"
+  },
+  {
+    "question": "Tung một đồng xu 3 lần. Xác suất để cả 3 lần đều ra mặt sấp là:",
+    "options": ["1/8", "1/2", "3/8", "1/4"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "question": "Nếu A và B là hai biến cố độc lập thì A' và B' có độc lập không?",
+    "options": ["Có", "Không", "Chỉ khi A, B xung khắc", "Không thể kết luận"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một chiếc hộp chứa 5 quả cầu trắng và 3 quả cầu đen. Lấy ngẫu nhiên 2 quả. Xác suất để lấy được 2 quả cùng màu là:",
+    "options": ["13/28", "10/28", "3/28", "15/64"],
+    "correctAnswer": "13/28"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là 'mặt có số chấm là số chẵn', B là 'mặt có số chấm lớn hơn 3'. A và B có phải là biến cố độc lập không?",
+    "options": ["Có", "Không", "Xung khắc", "Đối nhau"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Xác suất một học sinh thi đỗ môn Toán là 0.8, đỗ môn Lý là 0.7. Giả sử hai môn là độc lập. Xác suất học sinh đó đỗ ít nhất một môn là:",
+    "options": ["0.94", "0.56", "1.5", "0.1"],
+    "correctAnswer": "0.94"
+  },
+  {
+    "question": "Cho P(A) = 1/2, P(B) = 1/3. A, B là hai biến cố xung khắc. Tính P(A ∪ B).",
+    "options": ["5/6", "1/6", "1", "0"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Một tổ có 7 nam và 3 nữ. Chọn ngẫu nhiên 2 người. Xác suất để cả hai người được chọn đều là nữ là:",
+    "options": ["1/15", "3/10", "C(3,2)/C(10,2)", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Công thức nhân xác suất cho hai biến cố độc lập A và B là:",
+    "options": ["P(A ∩ B) = P(A) * P(B)", "P(A ∩ B) = P(A) + P(B)", "P(A ∩ B) = P(A|B)", "P(A ∩ B) = P(B|A)"],
+    "correctAnswer": "P(A ∩ B) = P(A) * P(B)"
+  },
+  {
+    "question": "Rút một lá bài từ bộ bài 52 lá. Gọi A là 'rút được lá cơ', B là 'rút được lá Át'. Biến cố A ∩ B là:",
+    "options": ["'Rút được lá Át cơ'", "'Rút được lá cơ hoặc lá Át'", "∅", "'Rút được lá không phải Át cơ'"],
+    "correctAnswer": "'Rút được lá Át cơ'"
+  },
+  {
+    "question": "Cho P(A) = 0.3. Xác suất để biến cố A không xảy ra là:",
+    "options": ["0.7", "0.3", "1", "0"],
+    "correctAnswer": "0.7"
+  },
+  {
+    "question": "Một bình đựng 5 viên bi xanh và 3 viên bi vàng. Lấy ngẫu nhiên 1 viên. Xác suất để được viên bi không phải màu xanh là:",
+    "options": ["3/8", "5/8", "1", "0"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Hai máy bay cùng ném bom một mục tiêu. Xác suất trúng của máy bay 1 là 0.7, của máy bay 2 là 0.8. Xác suất để mục tiêu chỉ bị trúng 1 lần là:",
+    "options": ["0.38", "0.56", "0.94", "0.26"],
+    "correctAnswer": "0.38"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm nhỏ hơn hoặc bằng 3 là:",
+    "options": ["1/12", "1/36", "2/36", "3/36"],
+    "correctAnswer": "1/12"
+  },
+  {
+    "question": "Biến cố hợp A ∪ B xảy ra khi:",
+    "options": ["Ít nhất một trong hai biến cố A, B xảy ra", "Cả A và B cùng xảy ra", "A xảy ra nhưng B không xảy ra", "A và B không thể cùng xảy ra"],
+    "correctAnswer": "Ít nhất một trong hai biến cố A, B xảy ra"
+  },
+  {
+    "question": "Cho P(A)=0.5, P(B)=0.5, A và B độc lập. Tính P(A ∪ B).",
+    "options": ["0.75", "1", "0.25", "0.5"],
+    "correctAnswer": "0.75"
+  },
+  {
+    "question": "Một hộp có 10 sản phẩm, trong đó có 2 phế phẩm. Lấy ngẫu nhiên 2 sản phẩm. Xác suất để lấy được ít nhất một phế phẩm là:",
+    "options": ["17/45", "2/10", "1 - C(8,2)/C(10,2)", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tung một đồng xu cho đến khi được mặt sấp thì dừng. Xác suất để dừng lại ở lần tung thứ 3 là:",
+    "options": ["1/8", "1/2", "1/4", "3/8"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "question": "Cho A và B là hai biến cố xung khắc. Mệnh đề nào sau đây đúng?",
+    "options": ["P(A ∩ B) = 0", "P(A ∪ B) = P(A) + P(B) - P(A ∩ B)", "A và B độc lập", "P(A) + P(B) = 1"],
+    "correctAnswer": "P(A ∩ B) = 0"
+  },
+  {
+    "question": "Một xạ thủ bắn hai viên đạn. Xác suất trúng viên thứ nhất là 0.9, viên thứ hai là 0.6. Xác suất để cả hai viên đều trượt là:",
+    "options": ["0.04", "0.54", "0.1", "0.4"],
+    "correctAnswer": "0.04"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là 'mặt có số chấm là số lẻ', B là 'mặt có số chấm chia hết cho 3'. Biến cố A ∪ B là:",
+    "options": ["{1, 3, 5, 6}", "{1, 2, 3, 5}", "{3}", "{1, 5, 6}"],
+    "correctAnswer": "{1, 3, 5, 6}"
+  },
+  {
+    "question": "Cho P(A ∪ B) = 0.8, P(A ∩ B) = 0.1, P(A) = 0.4. Tính P(B).",
+    "options": ["0.5", "0.4", "0.3", "0.7"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "question": "Một tổ có 6 nam và 4 nữ. Chọn ngẫu nhiên 3 người. Xác suất để có đúng 2 nam và 1 nữ là:",
+    "options": ["1/2", "C(6,2)C(4,1)/C(10,3)", "60/120", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Nếu A là biến cố không thể (A=∅) thì P(A) bằng:",
+    "options": ["0", "1", "-1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Nếu A là biến cố chắc chắn (A=Ω) thì P(A) bằng:",
+    "options": ["1", "0", "100", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Xác suất của một biến cố A luôn thỏa mãn:",
+    "options": ["0 ≤ P(A) ≤ 1", "P(A) > 0", "P(A) < 1", "P(A) là số nguyên"],
+    "correctAnswer": "0 ≤ P(A) ≤ 1"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là một số nguyên tố là:",
+    "options": ["15/36", "12/36", "1/2", "1/3"],
+    "correctAnswer": "15/36"
+  },
+  {
+    "question": "Một hộp có 3 bi đỏ, 4 bi xanh. Lấy ngẫu nhiên đồng thời 2 bi. Xác suất để 2 bi khác màu là:",
+    "options": ["4/7", "12/21", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hai biến cố độc lập A, B. Biết P(A) = 0.5, P(A ∩ B) = 0.2. Tính P(B).",
+    "options": ["0.4", "0.25", "0.7", "0.3"],
+    "correctAnswer": "0.4"
+  },
+  {
+    "question": "Một người có một chùm chìa khóa gồm 5 chiếc, trong đó chỉ có 1 chiếc mở được cửa. Người đó thử lần lượt. Xác suất để người đó mở được cửa ở lần thử thứ 3 là:",
+    "options": ["1/5", "3/5", "(4/5)*(3/4)*(1/3)", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số có 2 chữ số. Xác suất để số đó chia hết cho 10 là:",
+    "options": ["1/10", "9/90", "Cả A và B", "10/99"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho P(A)=0.3, P(B)=0.4. A và B xung khắc. Tính P(A' ∩ B').",
+    "options": ["0.3", "0.7", "1 - (0.3+0.4)", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Một cặp vợ chồng dự định có 3 con. Xác suất để có ít nhất một con trai là:",
+    "options": ["7/8", "1/2", "3/8", "1/8"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Hai biến cố A và B xung khắc có thể độc lập không?",
+    "options": ["Có, nếu ít nhất một trong hai biến cố có xác suất bằng 0", "Không bao giờ", "Luôn luôn", "Chỉ khi P(A)=P(B)"],
+    "correctAnswer": "Có, nếu ít nhất một trong hai biến cố có xác suất bằng 0"
+  },
+  {
+    "question": "Một vé số có 5 chữ số. Xác suất để một vé mua ngẫu nhiên có các chữ số khác nhau là:",
+    "options": ["P(10,5)/10⁵", "A(10,5)/10⁵", "Cả A và B", "C(10,5)/10⁵"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo một đồng xu cân đối 4 lần. Xác suất để mặt sấp xuất hiện đúng 2 lần là:",
+    "options": ["3/8", "C(4,2)*(1/2)⁴", "6/16", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một hộp có 10 bi trắng, 5 bi đen. Lấy ngẫu nhiên 3 bi. Xác suất để có đúng 2 bi trắng là:",
+    "options": ["C(10,2)C(5,1)/C(15,3)", "45*5/455", "Cả A và B", "2/3"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho P(A)=1/2, P(B)=1/2, P(A∪B)=2/3. Tính P(A∩B).",
+    "options": ["1/3", "1/6", "1/2", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Xác suất một người ném rổ trúng là 0.3. Người đó ném 3 quả. Xác suất để trúng ít nhất một quả là:",
+    "options": ["1 - 0.7³", "0.3³", "3 * 0.3", "1 - 0.3³"],
+    "correctAnswer": "1 - 0.7³"
+  },
+  {
+    "question": "Trong một hộp có 10 phiếu, trong đó có 2 phiếu trúng. Hai người lần lượt rút thăm. Xác suất để người thứ hai trúng là:",
+    "options": ["1/5", "2/10", "Cả A và B", "1/9"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biến cố giao A ∩ B là tập hợp các kết quả:",
+    "options": ["Thuận lợi cho cả A và B", "Thuận lợi cho A hoặc B", "Thuận lợi cho A nhưng không cho B", "Không thuận lợi cho A và B"],
+    "correctAnswer": "Thuận lợi cho cả A và B"
+  },
+  {
+    "question": "Cho A, B là hai biến cố độc lập. P(A)=0.5, P(B')=0.6. Tính P(A∪B).",
+    "options": ["0.7", "0.9", "0.2", "0.3"],
+    "correctAnswer": "0.7"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là một số chẵn là:",
+    "options": ["3/4", "1/2", "1/4", "27/36"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Một lớp có 3 tổ. Tổ 1 có 10 người, tổ 2 có 11 người, tổ 3 có 12 người. Chọn ngẫu nhiên 1 người. Xác suất để người đó thuộc tổ 1 là:",
+    "options": ["10/33", "1/3", "1/10", "33/10"],
+    "correctAnswer": "10/33"
+  },
+  {
+    "question": "Nếu A và B là hai biến cố đối nhau thì:",
+    "options": ["Chúng xung khắc", "Chúng độc lập", "P(A)=P(B)", "A=B"],
+    "correctAnswer": "Chúng xung khắc"
+  },
+  {
+    "question": "Có 2 hộp sản phẩm. Hộp 1 có 8 chính phẩm và 2 phế phẩm. Hộp 2 có 7 chính phẩm và 3 phế phẩm. Lấy ngẫu nhiên 1 sản phẩm từ mỗi hộp. Xác suất để lấy được 1 chính phẩm và 1 phế phẩm là:",
+    "options": ["0.38", "0.1", "0.56", "0.06"],
+    "correctAnswer": "0.38"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất để được lá K hoặc lá cơ là:",
+    "options": ["16/52", "4/13", "Cả A và B", "17/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho P(A)=0.2, P(B)=0.8. A và B độc lập. Tính P(A' ∩ B').",
+    "options": ["0.16", "1", "0.8", "0.2"],
+    "correctAnswer": "0.16"
+  },
+  {
+    "question": "Một người có 3 đôi giày khác nhau. Buổi sáng, người đó chọn ngẫu nhiên 2 chiếc. Xác suất để 2 chiếc đó tạo thành một đôi là:",
+    "options": ["1/5", "3/6", "1/2", "1/3"],
+    "correctAnswer": "1/5"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là 'mặt có số chấm chẵn', B là 'mặt có số chấm là 1 hoặc 2'. A và B có xung khắc không?",
+    "options": ["Không", "Có", "Độc lập", "Đối nhau"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Xác suất một bệnh nhân khỏi bệnh là 0.8. Có 2 bệnh nhân. Xác suất để có đúng 1 người khỏi bệnh là:",
+    "options": ["0.32", "0.64", "0.16", "0.8"],
+    "correctAnswer": "0.32"
+  },
+  {
+    "question": "Một hộp có 12 bóng đèn, trong đó có 3 bóng hỏng. Lấy ngẫu nhiên 3 bóng. Xác suất để cả 3 bóng đều tốt là:",
+    "options": ["21/55", "C(9,3)/C(12,3)", "84/220", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Cho P(A)=1/3, P(B)=1/2, P(A∪B)=2/3. A và B có độc lập không?",
+    "options": ["Có", "Không", "Xung khắc", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một đề thi có 10 câu hỏi, xác suất làm đúng mỗi câu là 0.5. Để đạt, cần làm đúng ít nhất 8 câu. Xác suất để đạt là:",
+    "options": ["(C(10,8)+C(10,9)+C(10,10))/2¹⁰", "C(10,8)/2¹⁰", "1/2", "0.8"],
+    "correctAnswer": "(C(10,8)+C(10,9)+C(10,10))/2¹⁰"
+  },
+  {
+    "question": "Trong một phép thử, nếu biến cố A xảy ra thì biến cố B cũng xảy ra. Mệnh đề nào đúng?",
+    "options": ["A ⊂ B", "B ⊂ A", "A = B", "A và B xung khắc"],
+    "correctAnswer": "A ⊂ B"
+  },
+  {
+    "question": "Một hộp có 4 bi đỏ, 5 bi xanh. Lấy lần lượt 2 bi có hoàn lại. Xác suất để 2 bi cùng màu là:",
+    "options": ["41/81", "16/81", "25/81", "20/81"],
+    "correctAnswer": "41/81"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để hai mặt có số chấm bằng nhau là:",
+    "options": ["1/6", "1/36", "6/36", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Một người bắn 3 viên đạn. Xác suất trúng lần lượt là 0.6, 0.7, 0.8. Xác suất để có đúng 1 viên trúng là:",
+    "options": ["0.156", "0.336", "0.4*0.3*0.2", "0.6+0.7+0.8"],
+    "correctAnswer": "0.156"
+  },
+  {
+    "question": "Cho P(A)=0.5, P(B)=0.6, P(A∩B)=0.2. Tính P(A'∪B').",
+    "options": ["0.8", "1 - P(A∩B)", "Cả A và B", "0.7"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Chọn ngẫu nhiên 2 số từ tập {1, 2, ..., 11}. Xác suất để tổng hai số được chọn là số chẵn là:",
+    "options": ["5/11", "C(6,2)+C(5,2)/C(11,2)", "25/55", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Một bài thi có 2 câu hỏi độc lập. Xác suất làm đúng câu 1 là 0.8, xác suất làm đúng câu 2 là 0.6. Xác suất làm đúng cả 2 câu là:",
+    "options": ["0.48", "1.4", "0.2", "0.92"],
+    "correctAnswer": "0.48"
+  },
+  {
+    "question": "Gieo một đồng xu 5 lần. Xác suất để mặt sấp xuất hiện ít nhất một lần là:",
+    "options": ["31/32", "1 - (1/2)⁵", "Cả A và B", "1/32"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 6 bi đỏ và 4 bi xanh. Lấy ngẫu nhiên 3 bi. Xác suất để có cả bi đỏ và bi xanh là:",
+    "options": ["24/25", "1 - (C(6,3)+C(4,3))/C(10,3)", "96/120", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Cho P(A)=1/4, P(A∪B)=1/2. A và B xung khắc. Tính P(B).",
+    "options": ["1/4", "1/2", "3/4", "1/8"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một người tung một con súc sắc cho đến khi được mặt 6 chấm thì dừng. Xác suất để người đó phải tung ít nhất 3 lần là:",
+    "options": ["25/36", "(5/6)²", "Cả A và B", "1 - 1/6 - 5/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Có 3 xạ thủ, xác suất trúng đích của mỗi người là 0.8, 0.7, 0.6. Cả ba cùng bắn. Xác suất để có đúng 2 người trúng đích là:",
+    "options": ["0.444", "0.8*0.7*0.4 + 0.8*0.3*0.6 + 0.2*0.7*0.6", "Cả A và B", "0.336"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hai biến cố A và B. Nếu A và B xung khắc thì chúng có độc lập không?",
+    "options": ["Không, trừ khi P(A)=0 hoặc P(B)=0", "Có", "Luôn luôn", "Không thể kết luận"],
+    "correctAnswer": "Không, trừ khi P(A)=0 hoặc P(B)=0"
+  },
+  {
+    "question": "Một lớp có 30 học sinh, trong đó có 3 cán bộ lớp. Chọn ngẫu nhiên 3 học sinh. Xác suất để cả 3 học sinh được chọn đều là cán bộ lớp là:",
+    "options": ["1/C(30,3)", "1/4060", "Cả A và B", "3/30"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Xác suất một người qua đường bị tai nạn trong một ngày là 0.001. Giả sử các ngày là độc lập. Xác suất người đó không bị tai nạn trong cả năm (365 ngày) là:",
+    "options": ["(0.999)<sup>365</sup>", "1 - 0.001", "1 - (0.001)<sup>365</sup>", "0"],
+    "correctAnswer": "(0.999)<sup>365</sup>"
+  }
+]
+
