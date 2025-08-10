@@ -1,0 +1,433 @@
+[
+  {
+    "question": "Bất phương trình nào sau đây là bất phương trình bậc nhất hai ẩn?",
+    "options": ["2x + 3y < 5", "x² + y > 0", "x + y + z ≤ 1", "y³ - 2x < 0"],
+    "correctAnswer": "2x + 3y < 5"
+  },
+  {
+    "question": "Cặp số (1; 2) là nghiệm của bất phương trình nào sau đây?",
+    "options": ["x - y < 0", "2x - y > 1", "x + y > 4", "x - 2y + 5 < 0"],
+    "correctAnswer": "x - y < 0"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x + y ≥ 2 là nửa mặt phẳng chứa điểm nào sau đây?",
+    "options": ["(1; 2)", "(0; 0)", "(1; 0)", "(-1; 1)"],
+    "correctAnswer": "(1; 2)"
+  },
+  {
+    "question": "Trong mặt phẳng tọa độ Oxy, đường thẳng d: 2x - y = 3 chia mặt phẳng thành hai nửa mặt phẳng. Miền nghiệm của bất phương trình 2x - y > 3 là:",
+    "options": ["Nửa mặt phẳng không chứa gốc tọa độ O(0;0), không kể bờ d.", "Nửa mặt phẳng chứa gốc tọa độ O(0;0), không kể bờ d.", "Nửa mặt phẳng không chứa gốc tọa độ O(0;0), kể cả bờ d.", "Nửa mặt phẳng chứa gốc tọa độ O(0;0), kể cả bờ d."],
+    "correctAnswer": "Nửa mặt phẳng không chứa gốc tọa độ O(0;0), không kể bờ d."
+  },
+  {
+    "question": "Cặp số nào không phải là nghiệm của hệ bất phương trình {x ≥ 0; y ≥ 0; x+y ≤ 3}?",
+    "options": ["(2; 2)", "(1; 1)", "(0; 3)", "(2; 1)"],
+    "correctAnswer": "(2; 2)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình 3x - 2y + 6 > 0 là phần mặt phẳng không bị gạch chéo trong hình vẽ nào? (Không kể đường thẳng)",
+    "options": ["Hình có đường thẳng cắt trục Ox tại -2 và Oy tại 3, phần không gạch chứa O.", "Hình có đường thẳng cắt trục Ox tại -2 và Oy tại 3, phần gạch chứa O.", "Hình có đường thẳng cắt trục Ox tại 2 và Oy tại -3, phần không gạch chứa O.", "Hình có đường thẳng cắt trục Ox tại 2 và Oy tại -3, phần gạch chứa O."],
+    "correctAnswer": "Hình có đường thẳng cắt trục Ox tại -2 và Oy tại 3, phần không gạch chứa O."
+  },
+  {
+    "question": "Hệ bất phương trình nào sau đây là hệ bất phương trình bậc nhất hai ẩn?",
+    "options": ["{x + y > 1; 2x - y ≤ 0}", "{x² - y > 0; x + y < 2}", "{y > 0; x + √y < 1}", "{x + y + z > 0; y < 0}"],
+    "correctAnswer": "{x + y > 1; 2x - y ≤ 0}"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x ≤ 2 là:",
+    "options": ["Nửa mặt phẳng bên trái đường thẳng x=2, kể cả bờ.", "Nửa mặt phẳng bên phải đường thẳng x=2, kể cả bờ.", "Phần mặt phẳng phía trên đường thẳng y=2.", "Phần mặt phẳng phía dưới đường thẳng y=2."],
+    "correctAnswer": "Nửa mặt phẳng bên trái đường thẳng x=2, kể cả bờ."
+  },
+  {
+    "question": "Giá trị nhỏ nhất của biểu thức F(x,y) = x - y trên miền nghiệm của hệ {y-2x≤2; 2y-x≥4; x+y≤5} là:",
+    "options": ["-3", "0", "1", "-1"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Điểm nào sau đây thuộc miền nghiệm của hệ bất phương trình {2x-y > 1; x+y < 2}?",
+    "options": ["(1; 0)", "(0; 0)", "(2; 1)", "(1; 2)"],
+    "correctAnswer": "(1; 0)"
+  },
+  {
+    "question": "Bất phương trình x - 2y < 4 có đường thẳng biên là:",
+    "options": ["x - 2y = 4", "x - 2y > 4", "y = (1/2)x - 2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Miền nghiệm của hệ bất phương trình {x > 0; y > 0} là:",
+    "options": ["Góc phần tư thứ nhất", "Góc phần tư thứ hai", "Góc phần tư thứ ba", "Góc phần tư thứ tư"],
+    "correctAnswer": "Góc phần tư thứ nhất"
+  },
+  {
+    "question": "Để biểu diễn miền nghiệm của bất phương trình ax + by ≤ c, ta vẽ đường thẳng ax + by = c và:",
+    "options": ["Lấy một điểm không thuộc đường thẳng, kiểm tra và gạch bỏ nửa mặt phẳng không phải là nghiệm.", "Gạch bỏ toàn bộ mặt phẳng.", "Chỉ vẽ đường thẳng.", "Lấy một điểm trên đường thẳng."],
+    "correctAnswer": "Lấy một điểm không thuộc đường thẳng, kiểm tra và gạch bỏ nửa mặt phẳng không phải là nghiệm."
+  },
+  {
+    "question": "Một cửa hàng cần ít nhất 400kg cà chua và 250kg khoai tây. Giá cà chua là 20 nghìn/kg, khoai tây là 15 nghìn/kg. Gọi x, y lần lượt là số kg cà chua và khoai tây. Bất phương trình biểu thị tổng số tiền không quá 10 triệu đồng là:",
+    "options": ["20x + 15y ≤ 10000", "400x + 250y ≤ 10000", "20x + 15y ≥ 10000", "x+y ≤ 10000"],
+    "correctAnswer": "20x + 15y ≤ 10000"
+  },
+  {
+    "question": "Giá trị lớn nhất của biểu thức F(x,y) = 2x + 3y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤4; x+2y≤6} là:",
+    "options": ["11", "12", "8", "9"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Cặp số nào là nghiệm của bất phương trình 5x - 2y + 1 > 0?",
+    "options": ["(1; 1)", "(0; 1)", "(-1; 0)", "(-2; -5)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình y > -1 là:",
+    "options": ["Nửa mặt phẳng phía trên đường thẳng y=-1, không kể bờ.", "Nửa mặt phẳng phía dưới đường thẳng y=-1, không kể bờ.", "Nửa mặt phẳng phía trên đường thẳng y=-1, kể cả bờ.", "Nửa mặt phẳng phía dưới đường thẳng y=-1, kể cả bờ."],
+    "correctAnswer": "Nửa mặt phẳng phía trên đường thẳng y=-1, không kể bờ."
+  },
+  {
+    "question": "Miền nghiệm của hệ bất phương trình {x+y-1≥0; x-y+2≤0} là miền chứa điểm nào?",
+    "options": ["(-1; 3)", "(1; 1)", "(0; 0)", "(2; 0)"],
+    "correctAnswer": "(-1; 3)"
+  },
+  {
+    "question": "Trong bài toán tối ưu hóa, giá trị lớn nhất hoặc nhỏ nhất của hàm mục tiêu F(x,y) thường đạt được tại:",
+    "options": ["Các đỉnh của miền nghiệm", "Một điểm bất kỳ trong miền nghiệm", "Gốc tọa độ", "Một điểm trên trục hoành"],
+    "correctAnswer": "Các đỉnh của miền nghiệm"
+  },
+  {
+    "question": "Điểm nào không thuộc miền nghiệm của bất phương trình 2x + y ≤ 1?",
+    "options": ["(1; 1)", "(0; 0)", "(-1; 2)", "(0; 1)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Bất phương trình 0x + 2y > 4 tương đương với:",
+    "options": ["y > 2", "y < 2", "x > 2", "x < 2"],
+    "correctAnswer": "y > 2"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x≤1; y≥-1; x-y≤0} là một:",
+    "options": ["Tam giác", "Tứ giác", "Miền không bị chặn", "Đoạn thẳng"],
+    "correctAnswer": "Miền không bị chặn"
+  },
+  {
+    "question": "Bất phương trình nào sau đây có miền nghiệm là nửa mặt phẳng chứa điểm O(0,0)?",
+    "options": ["x + y - 1 < 0", "2x + y - 3 > 0", "x - 2y + 4 < 0", "x - y > 1"],
+    "correctAnswer": "x + y - 1 < 0"
+  },
+  {
+    "question": "Một xưởng sản xuất hai loại sản phẩm. Loại I cần 2 giờ máy A và 1 giờ máy B. Loại II cần 1 giờ máy A và 3 giờ máy B. Máy A hoạt động không quá 10 giờ, máy B không quá 12 giờ. Hệ bất phương trình mô tả ràng buộc là:",
+    "options": ["{2x+y≤10; x+3y≤12; x≥0; y≥0}", "{2x+y≥10; x+3y≥12}", "{x+2y≤10; 3x+y≤12}", "{2x+y≤10; x+3y≤12}"],
+    "correctAnswer": "{2x+y≤10; x+3y≤12; x≥0; y≥0}"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x>0; y>0; x+y<2} là:",
+    "options": ["Miền trong của tam giác OAB với A(2,0), B(0,2)", "Miền ngoài của tam giác OAB", "Toàn bộ góc phần tư thứ nhất", "Một hình vuông"],
+    "correctAnswer": "Miền trong của tam giác OAB với A(2,0), B(0,2)"
+  },
+  {
+    "question": "Cặp số (x;y) = (2;3) là nghiệm của bất phương trình nào?",
+    "options": ["4x-3y < 0", "x-3y+7 > 0", "2x-y > 3", "x-y < -2"],
+    "correctAnswer": "4x-3y < 0"
+  },
+  {
+    "question": "Đường thẳng Δ: 3x+4y=5. Điểm M(1;1) có vị trí như thế nào so với Δ?",
+    "options": ["Nằm trên nửa mặt phẳng bờ Δ có bất phương trình 3x+4y>5", "Nằm trên nửa mặt phẳng bờ Δ có bất phương trình 3x+4y<5", "Nằm trên đường thẳng Δ", "Không xác định"],
+    "correctAnswer": "Nằm trên nửa mặt phẳng bờ Δ có bất phương trình 3x+4y>5"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x - 2y ≥ 0 là nửa mặt phẳng không chứa điểm nào?",
+    "options": ["(1; 1)", "(2; 0)", "(3; 1)", "(0; -1)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y) = 3x+y trên miền nghiệm của hệ {x≥1; y≥2; x+y≤6} là:",
+    "options": ["14", "12", "10", "16"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Điểm nào sau đây không thuộc miền nghiệm của hệ {x+y-2≤0; 2x-3y+2>0}?",
+    "options": ["(2; 2)", "(0; 0)", "(1; 1)", "(-1; 0)"],
+    "correctAnswer": "(2; 2)"
+  },
+  {
+    "question": "Bất phương trình bậc nhất hai ẩn có vô số nghiệm. Phát biểu này:",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi c>0", "Chỉ đúng khi c<0"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Miền nghiệm của một hệ bất phương trình bậc nhất hai ẩn là một:",
+    "options": ["Miền đa giác (có thể không bị chặn)", "Đường tròn", "Parabol", "Đường thẳng"],
+    "correctAnswer": "Miền đa giác (có thể không bị chặn)"
+  },
+  {
+    "question": "Cặp số nào là nghiệm của bất phương trình -x + 3y ≤ 2?",
+    "options": ["(1; 1)", "(2; 1)", "(3; 2)", "(4; 1)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+y>0; x-y<0} là miền chứa điểm:",
+    "options": ["(0; 1)", "(1; 0)", "(1; -2)", "(-1; 0)"],
+    "correctAnswer": "(0; 1)"
+  },
+  {
+    "question": "Một người nông dân có 10 ha đất để trồng ngô và đậu. Chi phí trồng 1 ha ngô là 4 triệu, 1 ha đậu là 6 triệu. Tổng chi phí không quá 54 triệu. Hệ bất phương trình mô tả là:",
+    "options": ["{x+y≤10; 4x+6y≤54; x≥0; y≥0}", "{x+y≥10; 4x+6y≥54}", "{x+y≤10; 6x+4y≤54}", "{x+y=10; 4x+6y=54}"],
+    "correctAnswer": "{x+y≤10; 4x+6y≤54; x≥0; y≥0}"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y) = 2x+y trên miền nghiệm của hệ {x≥0; y≥0; x+y≥3; 2x+y≥4} là:",
+    "options": ["4", "3", "5", "0"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Điểm nào sau đây thuộc miền nghiệm của bất phương trình 3x - 5y + 1 ≤ 0?",
+    "options": ["(1; 1)", "(0; 0)", "(-1; 0)", "(2; 1)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình 2x + 0y < 6 là:",
+    "options": ["x < 3", "x > 3", "y < 3", "y > 3"],
+    "correctAnswer": "x < 3"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x-2y<0; x+3y>-2; y-x<3} là một tam giác. Tọa độ một đỉnh của tam giác đó là:",
+    "options": ["(-4/5; -2/5)", "(4; 1)", "(1; 4)", "(0; 0)"],
+    "correctAnswer": "(-4/5; -2/5)"
+  },
+  {
+    "question": "Một bài toán thực tế dẫn đến việc tìm giá trị lớn nhất/nhỏ nhất của một biểu thức bậc nhất trên một miền đa giác được gọi là:",
+    "options": ["Bài toán quy hoạch tuyến tính", "Bài toán tối ưu", "Cả A và B", "Bài toán thống kê"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cặp số nào không phải là nghiệm của bất phương trình x - 4y + 5 ≥ 0?",
+    "options": ["(0; 2)", "(1; 1)", "(5; 0)", "(-1; 1)"],
+    "correctAnswer": "(0; 2)"
+  },
+  {
+    "question": "Đường thẳng d: ax+by=c. Điểm M(x₀,y₀) không thuộc d. Nếu ax₀+by₀ > c thì miền nghiệm của ax+by > c là:",
+    "options": ["Nửa mặt phẳng bờ d chứa M", "Nửa mặt phẳng bờ d không chứa M", "Toàn bộ mặt phẳng", "Chỉ đường thẳng d"],
+    "correctAnswer": "Nửa mặt phẳng bờ d chứa M"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x≤0; y≤0} là:",
+    "options": ["Góc phần tư thứ ba", "Góc phần tư thứ nhất", "Góc phần tư thứ hai", "Góc phần tư thứ tư"],
+    "correctAnswer": "Góc phần tư thứ ba"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=x+2y trên miền đa giác OABC với O(0,0), A(3,0), B(3,2), C(0,4) là:",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Điểm nào sau đây thuộc miền nghiệm của cả hai bất phương trình x+y>2 và x-y<1?",
+    "options": ["(2; 1)", "(1; 1)", "(0; 3)", "(3; 0)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Bất phương trình 2(x-1) + 3(y-2) < 5x - y tương đương với:",
+    "options": ["-3x + 4y < 8", "7x - 2y > 8", "3x - 4y > -8", "-3x + 4y > 8"],
+    "correctAnswer": "-3x + 4y < 8"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x≥2; y≤3; x+y≥3} là một:",
+    "options": ["Miền không bị chặn", "Tam giác", "Tứ giác", "Đoạn thẳng"],
+    "correctAnswer": "Miền không bị chặn"
+  },
+  {
+    "question": "Để pha một lít nước cam, cần 30g đường và 1 lít nước. Để pha một lít nước chanh, cần 20g đường và 1 lít nước. Có 200g đường và 8 lít nước. Hệ bất phương trình mô tả số lít nước cam (x) và chanh (y) có thể pha là:",
+    "options": ["{30x+20y≤200; x+y≤8; x≥0; y≥0}", "{30x+20y≥200; x+y≥8}", "{20x+30y≤200; x+y≤8}", "{x+y≤200; 30x+20y≤8}"],
+    "correctAnswer": "{30x+20y≤200; x+y≤8; x≥0; y≥0}"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=y-x trên miền nghiệm của hệ {2x+y≤4; x-y≤1; x≥0} là:",
+    "options": ["-1", "0", "4", "-4"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Cặp số nào là nghiệm của hệ {x-2y<1; 2x+y>3}?",
+    "options": ["(2; 1)", "(1; 1)", "(0; 0)", "(-1; 2)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình 3x - y ≤ 0 là nửa mặt phẳng chứa điểm:",
+    "options": ["(1; 4)", "(1; 2)", "(2; 1)", "(3; 1)"],
+    "correctAnswer": "(1; 4)"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x≥0; y≥0; 2x+y≤6; x+2y≤6} là một:",
+    "options": ["Tứ giác", "Tam giác", "Ngũ giác", "Miền không bị chặn"],
+    "correctAnswer": "Tứ giác"
+  },
+  {
+    "question": "Trong một bài toán quy hoạch tuyến tính, nếu miền nghiệm là một miền không bị chặn thì:",
+    "options": ["Biểu thức mục tiêu có thể có hoặc không có giá trị lớn nhất/nhỏ nhất", "Luôn có cả GTLN và GTNN", "Luôn không có GTLN và GTNN", "Chỉ có GTLN"],
+    "correctAnswer": "Biểu thức mục tiêu có thể có hoặc không có giá trị lớn nhất/nhỏ nhất"
+  },
+  {
+    "question": "Điểm nào không thuộc miền nghiệm của bất phương trình -x - y + 3 > 0?",
+    "options": ["(2; 2)", "(1; 1)", "(0; 0)", "(-1; 1)"],
+    "correctAnswer": "(2; 2)"
+  },
+  {
+    "question": "Bất phương trình nào có miền nghiệm là nửa mặt phẳng không chứa điểm (1;1)?",
+    "options": ["x + y > 3", "x + y < 3", "x - y > 1", "x - y < -1"],
+    "correctAnswer": "x + y > 3"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+2y-4≤0; x-y-1≥0} là miền chứa điểm:",
+    "options": ["(2; 0)", "(0; 0)", "(4; 0)", "(0; 3)"],
+    "correctAnswer": "(2; 0)"
+  },
+  {
+    "question": "Một người ăn kiêng cần ít nhất 9 đơn vị protein và 8 đơn vị lipid. 1kg thịt bò chứa 8 đơn vị protein và 2 đơn vị lipid. 1kg thịt lợn chứa 6 đơn vị protein và 6 đơn vị lipid. Hệ bất phương trình mô tả là:",
+    "options": ["{8x+6y≥9; 2x+6y≥8; x≥0; y≥0}", "{8x+2y≥9; 6x+6y≥8}", "{6x+8y≥9; 6x+2y≥8}", "{x+y≥9; x+y≥8}"],
+    "correctAnswer": "{8x+6y≥9; 2x+6y≥8; x≥0; y≥0}"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=5x+4y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤5; x+2y≤8} là:",
+    "options": ["25", "22", "20", "21"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Cặp số nào không phải là nghiệm của hệ {x>1; y<2}?",
+    "options": ["(1; 1)", "(2; 1)", "(3; 0)", "(4; -1)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x + 2y - 2 < 0 không chứa điểm nào?",
+    "options": ["(2; 0)", "(0; 0)", "(1; 0)", "(-1; 1)"],
+    "correctAnswer": "(2; 0)"
+  },
+  {
+    "question": "Miền nghiệm của hệ {y-x≤1; y+x≤3; y≥0} là một tam giác. Diện tích của tam giác đó là:",
+    "options": ["4", "2", "3", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong bài toán vận tải, mục tiêu thường là:",
+    "options": ["Tối thiểu hóa chi phí", "Tối đa hóa lợi nhuận", "Cả A và B", "Không có mục tiêu"],
+    "correctAnswer": "Tối thiểu hóa chi phí"
+  },
+  {
+    "question": "Điểm nào sau đây thuộc miền nghiệm của bất phương trình 2(x-1) + y > 3?",
+    "options": ["(3; 0)", "(1; 1)", "(0; 5)", "(2; 1)"],
+    "correctAnswer": "(3; 0)"
+  },
+  {
+    "question": "Bất phương trình nào tương đương với 2x ≤ 4y - 6?",
+    "options": ["x - 2y + 3 ≤ 0", "2x - 4y + 6 ≥ 0", "x - 2y ≤ -3", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+y≥1; x≤2; y≤2} là một:",
+    "options": ["Ngũ giác", "Tam giác", "Tứ giác", "Miền không bị chặn"],
+    "correctAnswer": "Ngũ giác"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=x+y trên miền nghiệm của hệ {x≥1; y≥1; 2x+y≤4} là:",
+    "options": ["2", "2.5", "3", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cặp số nào là nghiệm của hệ {3x-y>1; x+2y≤2}?",
+    "options": ["(1; 0)", "(0; 1)", "(2; 2)", "(-1; -1)"],
+    "correctAnswer": "(1; 0)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình 2x > 0 là:",
+    "options": ["Nửa mặt phẳng bên phải trục Oy, không kể bờ", "Nửa mặt phẳng bên trái trục Oy", "Toàn bộ mặt phẳng", "Trục Oy"],
+    "correctAnswer": "Nửa mặt phẳng bên phải trục Oy, không kể bờ"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x-y≤2; x+y≤4; x≥0; y≥0} là một tứ giác. Tọa độ các đỉnh của nó là:",
+    "options": ["(0,0), (2,0), (3,1), (0,4)", "(0,0), (2,0), (3,1), (0,2)", "Đây không phải là tứ giác", "(0,0), (4,0), (3,1), (0,2)"],
+    "correctAnswer": "(0,0), (2,0), (3,1), (0,4)"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=4x+3y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤100; 2x+y≤150} là:",
+    "options": ["350", "300", "400", "450"],
+    "correctAnswer": "350"
+  },
+  {
+    "question": "Điểm nào không thuộc miền nghiệm của hệ {x-1>0; y+1<0}?",
+    "options": ["(1; -1)", "(2; -2)", "(3; -3)", "(4; -4)"],
+    "correctAnswer": "(1; -1)"
+  },
+  {
+    "question": "Bất phương trình nào có miền nghiệm là nửa mặt phẳng chứa điểm (2; -1)?",
+    "options": ["x - y > 2", "x + y < 0", "2x - y < 5", "x + 2y > 1"],
+    "correctAnswer": "x - y > 2"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+y≥2; x-y≤1} là miền chứa điểm:",
+    "options": ["(2; 1)", "(0; 0)", "(1; 0)", "(0; 1)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=x-2y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤2; x-y≥0} là:",
+    "options": ["-2", "0", "1", "-1"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Cặp số nào là nghiệm của bất phương trình x/2 + y/3 ≥ 1?",
+    "options": ["(2; 0)", "(0; 2)", "(1; 1)", "(1; 2)"],
+    "correctAnswer": "(2; 0)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình 3x+0y ≤ -6 là:",
+    "options": ["x ≤ -2", "x ≥ -2", "y ≤ -2", "y ≥ -2"],
+    "correctAnswer": "x ≤ -2"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+y≤5; x-y≥-1; y≥1} là một tam giác. Diện tích tam giác đó là:",
+    "options": ["8", "4", "6", "2"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤1} là:",
+    "options": ["1", "0", "1/2", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Điểm nào sau đây thuộc miền nghiệm của hệ {2x+3y-6<0; 2x-y+2>0}?",
+    "options": ["(0; 1)", "(3; 0)", "(0; 2)", "(1; 2)"],
+    "correctAnswer": "(0; 1)"
+  },
+  {
+    "question": "Bất phương trình nào có miền nghiệm là nửa mặt phẳng không chứa điểm (-1;2)?",
+    "options": ["x + y > 2", "x - y < 0", "2x + y > 1", "x + 2y < 3"],
+    "correctAnswer": "x + y > 2"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+y≥0; x-y≥0} là:",
+    "options": ["Miền góc tạo bởi hai đường thẳng y=-x và y=x, chứa trục Ox", "Góc phần tư thứ nhất", "Góc phần tư thứ tư", "Miền góc chứa trục Oy"],
+    "correctAnswer": "Miền góc tạo bởi hai đường thẳng y=-x và y=x, chứa trục Ox"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=2x-y trên miền nghiệm của hệ {x≥0; 0≤y≤5; x+y≥2; x-y≤2} là:",
+    "options": ["-5", "-2", "0", "-3"],
+    "correctAnswer": "-5"
+  },
+  {
+    "question": "Cặp số nào không phải là nghiệm của bất phương trình 2x - y > 1?",
+    "options": ["(1; 1)", "(2; 2)", "(3; 4)", "(0; -2)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình -x+y < 2 là nửa mặt phẳng chứa điểm:",
+    "options": ["(0; 0)", "(0; 3)", "(-3; 0)", "(-2; 1)"],
+    "correctAnswer": "(0; 0)"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x-2y+2≥0; 2x-y-1≤0; x≤0} là một:",
+    "options": ["Miền không bị chặn", "Tam giác", "Tứ giác", "Đoạn thẳng"],
+    "correctAnswer": "Miền không bị chặn"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=x+y trên miền nghiệm của hệ {x≥0; y≥0; x/2+y/3≤1} là:",
+    "options": ["3", "2", "5", "1"],
+    "correctAnswer": "3"
+  }
+]
+
