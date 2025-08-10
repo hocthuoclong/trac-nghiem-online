@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Hệ thức lượng trong tam giác",
                   "file": "./data/math-10-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Vectơ",
+                  "file": "./data/math-10-chapter-4.json"
                 }
               ]
             }
