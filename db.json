@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Tỉ lệ thức và đại lượng tỉ lệ",
                   "file": "./data/math-7-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Biểu thức đại số và đa thức một biến",
+                  "file": "./data/math-7-chapter-7.json"
                 }
               ]
             },
