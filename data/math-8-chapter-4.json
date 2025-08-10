@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Định lí Thalès trong tam giác được phát biểu: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó:",
+    "options": ["Định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.", "Chia tam giác thành hai tam giác đồng dạng.", "Chia tam giác thành hai phần có diện tích bằng nhau.", "Vuông góc với hai cạnh đó."],
+    "correctAnswer": "Định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ."
+  },
+  {
+    "question": "Đường trung bình của tam giác là đoạn thẳng nối:",
+    "options": ["Trung điểm hai cạnh của tam giác.", "Một đỉnh và trung điểm cạnh đối diện.", "Hai đỉnh của tam giác.", "Trung điểm một cạnh và một đỉnh."],
+    "correctAnswer": "Trung điểm hai cạnh của tam giác."
+  },
+  {
+    "question": "Đường trung bình của tam giác thì:",
+    "options": ["Song song với cạnh thứ ba và bằng nửa cạnh ấy.", "Vuông góc với cạnh thứ ba.", "Bằng cạnh thứ ba.", "Song song với cạnh thứ ba và bằng cạnh ấy."],
+    "correctAnswer": "Song song với cạnh thứ ba và bằng nửa cạnh ấy."
+  },
+  {
+    "question": "Đường phân giác của một góc trong tam giác chia cạnh đối diện thành hai đoạn thẳng:",
+    "options": ["Tỉ lệ với hai cạnh kề hai đoạn ấy.", "Bằng nhau.", "Vuông góc với hai cạnh kề.", "Song song với hai cạnh kề."],
+    "correctAnswer": "Tỉ lệ với hai cạnh kề hai đoạn ấy."
+  },
+  {
+    "question": "Cho tam giác ABC, một đường thẳng song song với BC cắt AB tại D và AC tại E. Nếu AD=2, DB=4 thì tỉ số AE/EC bằng:",
+    "options": ["1/2", "2", "1/3", "3"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Cho tam giác ABC có M là trung điểm AB, N là trung điểm AC. Biết BC = 10cm. Độ dài MN là:",
+    "options": ["5 cm", "10 cm", "20 cm", "2.5 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Cho tam giác ABC, AD là đường phân giác của góc A (D thuộc BC). Nếu AB=6, AC=9, DB=4 thì DC bằng:",
+    "options": ["6", "4", "9", "2/3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Định lí Thalès đảo phát biểu:",
+    "options": ["Nếu một đường thẳng cắt hai cạnh của một tam giác và định ra trên hai cạnh này những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó song song với cạnh còn lại.", "Nếu một đường thẳng song song với một cạnh của tam giác thì nó cắt hai cạnh còn lại.", "Nếu một đường thẳng đi qua trung điểm một cạnh và song song với cạnh thứ hai thì nó đi qua trung điểm cạnh thứ ba.", "Nếu ba đường thẳng đồng quy thì chúng cắt nhau tại một điểm."],
+    "correctAnswer": "Nếu một đường thẳng cắt hai cạnh của một tam giác và định ra trên hai cạnh này những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó song song với cạnh còn lại."
+  },
+  {
+    "question": "Trong tam giác ABC, đường thẳng đi qua trung điểm một cạnh và song song với cạnh thứ hai thì:",
+    "options": ["Đi qua trung điểm cạnh thứ ba.", "Vuông góc với cạnh thứ ba.", "Bằng nửa cạnh thứ ba.", "Cắt cạnh thứ ba tại một điểm bất kỳ."],
+    "correctAnswer": "Đi qua trung điểm cạnh thứ ba."
+  },
+  {
+    "question": "Cho tam giác ABC, AE là đường phân giác ngoài của góc A. Hệ thức nào sau đây đúng (E, B, C thẳng hàng)?",
+    "options": ["EB/EC = AB/AC", "EB/AB = EC/AC", "Cả A và B", "EA/EB = AC/AB"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Biết AD=3, AB=9, AC=6. Độ dài AE là:",
+    "options": ["2", "3", "18", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tam giác ABC có AB=6, AC=8. M, N lần lượt là trung điểm AB, AC. Chu vi tứ giác BMNC là:",
+    "options": ["BC + 7", "BC + 14", "BC + 4", "Không tính được"],
+    "correctAnswer": "BC + 7"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=3, AC=4, BC=5. AD là đường phân giác trong. Tỉ số DB/DC là:",
+    "options": ["3/4", "4/3", "5/3", "5/4"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Hệ quả của định lí Thalès: Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh còn lại thì nó tạo ra một tam giác mới:",
+    "options": ["Có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho.", "Bằng tam giác đã cho.", "Có diện tích bằng nửa tam giác đã cho.", "Vuông góc với tam giác đã cho."],
+    "correctAnswer": "Có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho."
+  },
+  {
+    "question": "Đường trung bình của hình thang là đoạn thẳng nối:",
+    "options": ["Trung điểm hai cạnh bên", "Trung điểm hai đáy", "Hai đỉnh đối diện", "Trung điểm một cạnh bên và một đáy"],
+    "correctAnswer": "Trung điểm hai cạnh bên"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Biết AD/DB = 2/3 và AE=4. Độ dài EC là:",
+    "options": ["6", "8/3", "10", "2.5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Đường trung bình của hình thang thì:",
+    "options": ["Song song với hai đáy và bằng nửa tổng hai đáy.", "Song song với hai đáy và bằng nửa hiệu hai đáy.", "Vuông góc với hai đáy.", "Bằng tổng hai đáy."],
+    "correctAnswer": "Song song với hai đáy và bằng nửa tổng hai đáy."
+  },
+  {
+    "question": "Cho tam giác ABC có AB=8, AC=12, BC=10. AD là đường phân giác trong. Độ dài DB là:",
+    "options": ["4", "6", "5", "10/3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Biết AD=4, AB=10, DE=6. Độ dài BC là:",
+    "options": ["15", "24", "10", "6"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). E là trung điểm AD, F là trung điểm BC. Biết AB=8, CD=12. Độ dài EF là:",
+    "options": ["10", "20", "4", "2"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Trong tam giác ABC, nếu AD là đường phân giác và DB/DC = AB/AC thì:",
+    "options": ["Phát biểu này là định lí đường phân giác", "Phát biểu này sai", "AD là trung tuyến", "Tam giác ABC cân tại A"],
+    "correctAnswer": "Phát biểu này là định lí đường phân giác"
+  },
+  {
+    "question": "Cho tam giác ABC, có AD=DB, AE=EC. Tứ giác BDEC là hình gì?",
+    "options": ["Hình thang", "Hình bình hành", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Hệ thức nào sau đây sai?",
+    "options": ["AD/AE = DB/EC", "AD/AB = AE/AC", "DB/AB = EC/AC", "AD/DB = AE/EC"],
+    "correctAnswer": "AD/AE = DB/EC"
+  },
+  {
+    "question": "Định lí Thalès cũng đúng cho trường hợp đường thẳng song song với một cạnh cắt phần kéo dài của hai cạnh còn lại. Phát biểu này:",
+    "options": ["Đúng", "Sai", "Chỉ đúng với tam giác vuông", "Chỉ đúng với tam giác cân"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=5, AC=10. AD là đường phân giác. Tỉ số diện tích tam giác ABD và ACD là:",
+    "options": ["1/2", "2", "1/3", "3"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Cho tam giác ABC. Một đường thẳng cắt AB tại D, AC tại E sao cho AD/AB = AE/AC. Kết luận nào đúng?",
+    "options": ["DE // BC", "DE cắt BC", "DE = BC", "DE ⊥ BC"],
+    "correctAnswer": "DE // BC"
+  },
+  {
+    "question": "Trong hình thang, đoạn thẳng nối trung điểm hai đường chéo thì:",
+    "options": ["Song song với hai đáy và bằng nửa hiệu hai đáy", "Song song với hai đáy và bằng nửa tổng hai đáy", "Vuông góc với hai đáy", "Bằng đường trung bình"],
+    "correctAnswer": "Song song với hai đáy và bằng nửa hiệu hai đáy"
+  },
+  {
+    "question": "Cho tam giác ABC có BC=15. M, N là trung điểm AB, AC. Một đường thẳng song song BC cắt AM, AN tại D, E. Biết DE=3. Tỉ số AD/AM là:",
+    "options": ["2/5", "3/15", "1/5", "3/7.5"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Tính chất đường phân giác của tam giác đúng cho cả:",
+    "options": ["Đường phân giác trong và đường phân giác ngoài", "Chỉ đường phân giác trong", "Chỉ đường phân giác ngoài", "Chỉ tam giác vuông"],
+    "correctAnswer": "Đường phân giác trong và đường phân giác ngoài"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Biết AB=12, AD=4, AE=3. Độ dài AC là:",
+    "options": ["9", "12", "1", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Đường trung bình của tam giác chia tam giác đó thành một tam giác nhỏ và một hình thang. Tỉ số diện tích của tam giác nhỏ và hình thang là:",
+    "options": ["1/3", "1/2", "1/4", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=6, AC=8. Phân giác AD. Kẻ DE // AB (E∈AC). Độ dài DE là:",
+    "options": ["24/7", "4", "3", "3.5"],
+    "correctAnswer": "24/7"
+  },
+  {
+    "question": "Hệ quả của định lí Thalès dẫn đến khái niệm:",
+    "options": ["Tam giác đồng dạng", "Tam giác bằng nhau", "Đường trung bình", "Đường phân giác"],
+    "correctAnswer": "Tam giác đồng dạng"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD), AC cắt BD tại O. Biết AB=4, CD=8. Tỉ số OA/OC là:",
+    "options": ["1/2", "2", "1/3", "3"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong tam giác ABC, AD là phân giác trong, AE là phân giác ngoài của góc A. Góc DAE bằng:",
+    "options": ["90°", "45°", "180°", "Góc A"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Cho tam giác ABC, D là điểm trên cạnh BC sao cho BD/DC = 1/2. Đường thẳng qua D song song với AC cắt AB tại E. Tỉ số AE/AB là:",
+    "options": ["2/3", "1/2", "1/3", "3/2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Cho tam giác ABC có chu vi 30cm. Các đường phân giác trong AD, BE, CF. Biết DB/DC=2/3, EC/EA=1/2. Độ dài cạnh AB là:",
+    "options": ["10 cm", "12 cm", "8 cm", "15 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết diện tích tam giác ADE bằng 1/4 diện tích tam giác ABC. Tỉ số AD/AB là:",
+    "options": ["1/2", "1/4", "1/16", "1/√2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong hình thang ABCD (AB//CD), E là trung điểm AD, F là trung điểm BC. I là giao điểm của AC và EF, K là giao điểm của BD và EF. Mệnh đề nào sai?",
+    "options": ["EI = KF", "I là trung điểm AC", "EI = CD/2", "IK = (CD-AB)/2"],
+    "correctAnswer": ["I là trung điểm AC", "EI = CD/2"]
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết AB=c, AC=b, BC=a. Độ dài BD tính theo a, b, c là:",
+    "options": ["ac/(b+c)", "ab/(b+c)", "bc/(a+c)", "a+b+c"],
+    "correctAnswer": "ac/(b+c)"
+  },
+  {
+    "question": "Định lí Thalès được áp dụng trong:",
+    "options": ["Hình học phẳng", "Hình học không gian", "Cả A và B", "Đại số"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC, trọng tâm G. Đường thẳng qua G song song với BC cắt AB, AC tại M, N. Tỉ số AM/AB là:",
+    "options": ["2/3", "1/3", "1/2", "3/4"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=4, AC=6. Phân giác ngoài của góc A cắt BC tại E. Biết BC=5. Độ dài EB là:",
+    "options": ["10", "15", "5", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD=x, DB=2, AE=3, EC=x. Giá trị của x là:",
+    "options": ["√6", "6", "2/3", "3/2"],
+    "correctAnswer": "√6"
+  },
+  {
+    "question": "Đường trung bình của tam giác ABC ứng với cạnh BC là MN. Nếu chu vi tam giác AMN là 10 thì chu vi tam giác ABC là:",
+    "options": ["20", "10", "30", "15"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=AC=10, BC=12. Phân giác BD. Độ dài AD là:",
+    "options": ["60/11", "5", "6", "120/22"],
+    "correctAnswer": "60/11"
+  },
+  {
+    "question": "Để đo chiều cao của một cái cây, người ta dùng một cái cọc cao 2m đặt cách cây 15m. Bóng của cọc dài 3m. Bóng của cây dài:",
+    "options": ["Bóng của cây dài 18m", "Bóng của cây dài 10m", "Cây cao 10m", "Không đủ dữ kiện"],
+    "correctAnswer": "Cây cao 10m"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết chu vi tam giác ADE bằng 2/3 chu vi tam giác ABC. Tỉ số diện tích của tam giác ADE và ABC là:",
+    "options": ["4/9", "2/3", "9/4", "3/2"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD) có E, F là trung điểm AD, BC. Đường thẳng EF cắt BD tại I, AC tại K. Biết AB=6, CD=10. Độ dài IK là:",
+    "options": ["2", "4", "8", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong tam giác ABC, nếu đường thẳng d cắt AB, AC và song song BC thì d có cắt trung tuyến AM không?",
+    "options": ["Có, tại trung điểm của AM", "Có, tại một điểm chia AM theo tỉ số AD/AB", "Không cắt", "Chỉ cắt khi tam giác cân"],
+    "correctAnswer": "Có, tại một điểm chia AM theo tỉ số AD/AB"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=3, AC=5, BC=7. Phân giác AD. Độ dài DC là:",
+    "options": ["35/8", "21/8", "5", "3"],
+    "correctAnswer": "35/8"
+  },
+  {
+    "question": "Định lí Menelaus và Ceva là sự phát triển của định lí nào?",
+    "options": ["Định lí Thalès", "Định lí Pytago", "Định lí đường trung bình", "Định lí đường phân giác"],
+    "correctAnswer": "Định lí Thalès"
+  },
+  {
+    "question": "Cho tam giác ABC. M, N là trung điểm AB, AC. P, Q là trung điểm BM, CN. Độ dài PQ là:",
+    "options": ["3/4 BC", "1/2 BC", "1/4 BC", "BC"],
+    "correctAnswer": "3/4 BC"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Qua D kẻ đường thẳng song song AB cắt AC tại E. Nếu AC=b, AB=c thì AE bằng:",
+    "options": ["bc/(b+c)", "b²/(b+c)", "c²/(b+c)", "b+c"],
+    "correctAnswer": "bc/(b+c)"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD = 2, DB = 3, DE = 4. Độ dài BC là:",
+    "options": ["10", "6", "8", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Đường trung bình của tam giác có tính chất gì?",
+    "options": ["Chia tam giác thành hai phần có diện tích tỉ lệ 1:3", "Chia tam giác thành hai tam giác đồng dạng", "Cả A và B", "Vuông góc với đường cao"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Tỉ số diện tích của tam giác ABD và ACD bằng:",
+    "options": ["AB/AC", "AD/BC", "BD/CD", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho tam giác ABC, M là trung điểm BC. Đường thẳng song song với AM cắt AB, AC tại D, E. Mệnh đề nào đúng?",
+    "options": ["DE = 2AM", "DE = AM", "DE = AM/2", "Không có quan hệ"],
+    "correctAnswer": "Không có quan hệ"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). Một đường thẳng song song với hai đáy cắt AD tại M, BC tại N. Mệnh đề nào đúng?",
+    "options": ["AM/MD = BN/NC", "AM/AD = BN/BC", "Cả A và B", "AM/BN = MD/NC"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong tam giác ABC, D là điểm trên BC. Nếu AD là phân giác thì BD/DC = AB/AC. Mệnh đề đảo có đúng không?",
+    "options": ["Đúng", "Sai", "Chỉ đúng với tam giác vuông", "Chỉ đúng với tam giác cân"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AB=15, AD=5, AC=18. Độ dài EC là:",
+    "options": ["12", "6", "13", "9"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=6, AC=9, BC=10. Phân giác trong AD và phân giác ngoài AE. Độ dài DE là:",
+    "options": ["24", "12", "18", "30"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Định lí Thalès trong không gian được áp dụng cho:",
+    "options": ["Ba mặt phẳng song song cắt hai cát tuyến", "Hai đường thẳng chéo nhau", "Đường thẳng và mặt phẳng song song", "Hai mặt phẳng vuông góc"],
+    "correctAnswer": "Ba mặt phẳng song song cắt hai cát tuyến"
+  },
+  {
+    "question": "Cho tam giác ABC, M là trung điểm AB. Đường thẳng qua M song song với BC cắt AC tại N. Nếu AC=8 thì AN bằng:",
+    "options": ["4", "8", "2", "16"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=12, AC=15. Trên AB, AC lấy M, N sao cho AM=4, AN=5. Khi đó:",
+    "options": ["MN // BC", "MN cắt BC", "MN = 1/3 BC", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Nếu diện tích tam giác ABD bằng 10 và diện tích tam giác ACD bằng 15 thì tỉ số AB/AC là:",
+    "options": ["2/3", "3/2", "10/15", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD/DB = 3/2. Tỉ số AE/AC là:",
+    "options": ["3/5", "2/5", "3/2", "2/3"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Trong hình thang ABCD (AB//CD), hai đường chéo cắt nhau tại O. Qua O kẻ đường thẳng song song với hai đáy, cắt AD và BC tại M và N. Khi đó:",
+    "options": ["O là trung điểm của MN", "M là trung điểm AD", "N là trung điểm BC", "MN = AB+CD"],
+    "correctAnswer": "O là trung điểm của MN"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết AB=5, AC=10, BC=9. Độ dài BD là:",
+    "options": ["3", "6", "4.5", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD=5, AB=8, BC=12. Độ dài DE là:",
+    "options": ["7.5", "19.2", "4.5", "8"],
+    "correctAnswer": "7.5"
+  },
+  {
+    "question": "Đường trung bình của tam giác ABC là MN. Nếu diện tích tam giác ABC là 16 thì diện tích tam giác AMN là:",
+    "options": ["4", "8", "2", "12"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết BD=3, DC=4. Tỉ số AB/AC là:",
+    "options": ["3/4", "4/3", "3/7", "4/7"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Hệ quả của định lí Thalès: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó tạo ra một tam giác mới đồng dạng với tam giác đã cho. Phát biểu này:",
+    "options": ["Đúng", "Sai", "Thiếu điều kiện", "Chỉ đúng với tam giác vuông"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD), E là trung điểm AD, F là trung điểm AC, G là trung điểm BC. Ba điểm E, F, G:",
+    "options": ["Thẳng hàng", "Tạo thành tam giác", "Nằm trên đường tròn", "Không thẳng hàng"],
+    "correctAnswer": "Thẳng hàng"
+  },
+  {
+    "question": "Trong tam giác ABC, nếu D là điểm trên BC sao cho AB/AC = DB/DC thì AD là:",
+    "options": ["Đường phân giác của góc A", "Đường trung tuyến", "Đường cao", "Đường trung trực"],
+    "correctAnswer": "Đường phân giác của góc A"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD=2, AB=6. Tỉ số DE/BC là:",
+    "options": ["1/3", "1/2", "3", "2"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Tam giác ABC có M, N, P là trung điểm của AB, BC, CA. Chu vi tam giác MNP bằng:",
+    "options": ["Nửa chu vi tam giác ABC", "Chu vi tam giác ABC", "1/3 chu vi tam giác ABC", "1/4 chu vi tam giác ABC"],
+    "correctAnswer": "Nửa chu vi tam giác ABC"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=10, AC=15. Phân giác AD. Qua D kẻ DE//AC, DF//AB (E∈AB, F∈AC). Tứ giác AEDF là hình gì?",
+    "options": ["Hình thoi", "Hình bình hành", "Hình chữ nhật", "Hình vuông"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Định lí Thalès có thể dùng để chứng minh:",
+    "options": ["Các đoạn thẳng tỉ lệ", "Hai đường thẳng song song", "Cả A và B", "Hai đường thẳng vuông góc"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). M, N là trung điểm AD, BC. P, Q là trung điểm AC, BD. Bốn điểm M, N, P, Q:",
+    "options": ["Thẳng hàng", "Tạo thành hình bình hành", "Tạo thành hình thang", "Không thẳng hàng"],
+    "correctAnswer": "Thẳng hàng"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác BD và CE cắt nhau tại I. Tỉ số AI/ID bằng:",
+    "options": ["(AB+AC)/BC", "(AB+BC)/AC", "(AC+BC)/AB", "2"],
+    "correctAnswer": "(AB+AC)/BC"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD=x, DB=4, AE=x+1, EC=x+3. Giá trị của x là:",
+    "options": ["2", "1", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Số đường trung bình trong một tam giác là:",
+    "options": ["3", "1", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết AB=4, AC=6, BC=5. Độ dài CD là:",
+    "options": ["3", "2", "2.5", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho tam giác ABC, một đường thẳng song song với BC cắt AB tại D, AC tại E. Biết S(ADE) = 9, S(BDEC) = 7. Tỉ số AD/AB là:",
+    "options": ["3/4", "9/16", "9/7", "3/5"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). AB=a, CD=b. Đường thẳng qua giao điểm hai đường chéo và song song với hai đáy cắt hai cạnh bên tại M, N. Độ dài MN là:",
+    "options": ["2ab/(a+b)", "(a+b)/2", "√(ab)", "b-a"],
+    "correctAnswer": "2ab/(a+b)"
+  },
+  {
+    "question": "Trong tam giác ABC, nếu AD là phân giác và AB=AC thì:",
+    "options": ["D là trung điểm của BC", "AD là đường cao", "AD là đường trung trực", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD=6, DB=9, AE=4. Độ dài AC là:",
+    "options": ["10", "6", "13", "4/9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Cho tam giác ABC có M, N, P là trung điểm các cạnh. Diện tích tam giác ABC là 20. Diện tích tam giác MNP là:",
+    "options": ["5", "10", "4", "2.5"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Kẻ tia Cx song song với AD cắt tia BA tại E. Mệnh đề nào đúng?",
+    "options": ["Tam giác ACE cân tại A", "AC = AE", "Cả A và B", "Tam giác ABC cân"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một ứng dụng thực tế quan trọng của định lí Thalès là:",
+    "options": ["Đo chiều cao của vật thể mà không cần lên tới đỉnh", "Tính diện tích", "Vẽ đường tròn", "Xây dựng nhà cửa"],
+    "correctAnswer": "Đo chiều cao của vật thể mà không cần lên tới đỉnh"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). I là giao điểm của AD và BC. K là giao điểm của AC và BD. Đường thẳng IK:",
+    "options": ["Đi qua trung điểm của hai đáy AB và CD", "Song song với hai đáy", "Vuông góc với hai đáy", "Là đường chéo"],
+    "correctAnswer": "Đi qua trung điểm của hai đáy AB và CD"
+  },
+  {
+    "question": "Cho tam giác ABC. D là điểm trên BC sao cho BD/BC = 1/3. E là điểm trên AD sao cho AE/AD = 1/4. Gọi K là giao điểm của BE và AC. Tỉ số AK/AC là:",
+    "options": ["1/7", "1/4", "1/3", "2/7"],
+    "correctAnswer": "1/7"
+  }
+]
+
