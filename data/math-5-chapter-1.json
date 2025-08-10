@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Số 'Năm mươi tám triệu bốn trăm nghìn không trăm linh năm' được viết là:",
+    "options": ["58 400 005", "58 040 005", "58 400 500", "508 400 005"],
+    "correctAnswer": "58 400 005"
+  },
+  {
+    "question": "Trong số 789 123 456, chữ số 9 thuộc hàng nào, lớp nào?",
+    "options": ["Hàng triệu, lớp triệu", "Hàng chục triệu, lớp triệu", "Hàng trăm nghìn, lớp nghìn", "Hàng triệu, lớp đơn vị"],
+    "correctAnswer": "Hàng triệu, lớp triệu"
+  },
+  {
+    "question": "Giá trị của chữ số 5 trong số 456 789 là:",
+    "options": ["50 000", "5", "5000", "500 000"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Kết quả của phép tính 254 789 + 132 105 là:",
+    "options": ["386 894", "386 884", "387 894", "376 894"],
+    "correctAnswer": "386 894"
+  },
+  {
+    "question": "Kết quả của phép tính 789 123 - 456 789 là:",
+    "options": ["332 334", "333 334", "322 334", "332 434"],
+    "correctAnswer": "332 334"
+  },
+  {
+    "question": "Kết quả của phép tính 1234 x 25 là:",
+    "options": ["30 850", "30 800", "30 750", "31 000"],
+    "correctAnswer": "30 850"
+  },
+  {
+    "question": "Kết quả của phép tính 15 600 : 12 là:",
+    "options": ["1300", "130", "1030", "1003"],
+    "correctAnswer": "1300"
+  },
+  {
+    "question": "Phân số nào sau đây bằng phân số 3/4?",
+    "options": ["15/20", "9/15", "12/15", "10/20"],
+    "correctAnswer": "15/20"
+  },
+  {
+    "question": "Rút gọn phân số 24/36 ta được phân số tối giản là:",
+    "options": ["2/3", "4/6", "12/18", "6/9"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Phân số thập phân là phân số có mẫu số là:",
+    "options": ["10, 100, 1000,...", "Các số tròn chục", "Các số chẵn", "Số bất kỳ"],
+    "correctAnswer": "10, 100, 1000,..."
+  },
+  {
+    "question": "Phân số 7/10 được viết dưới dạng số thập phân là:",
+    "options": ["0,7", "7,0", "0,07", "70"],
+    "correctAnswer": "0,7"
+  },
+  {
+    "question": "Chuyển phân số 3/5 thành phân số thập phân.",
+    "options": ["6/10", "30/50", "60/100", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 2/7 + 3/7 là:",
+    "options": ["5/7", "5/14", "6/49", "6/14"],
+    "correctAnswer": "5/7"
+  },
+  {
+    "question": "Kết quả của phép tính 5/8 - 1/4 là:",
+    "options": ["3/8", "4/4", "1", "4/8"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Kết quả của phép tính 2/3 x 5/7 là:",
+    "options": ["10/21", "7/10", "10/10", "14/15"],
+    "correctAnswer": "10/21"
+  },
+  {
+    "question": "Kết quả của phép tính 4/5 : 2/3 là:",
+    "options": ["6/5", "8/15", "5/6", "12/10"],
+    "correctAnswer": "6/5"
+  },
+  {
+    "question": "Hỗn số 3 2/5 được viết dưới dạng phân số là:",
+    "options": ["17/5", "11/5", "32/5", "6/5"],
+    "correctAnswer": "17/5"
+  },
+  {
+    "question": "Viết phân số 23/4 dưới dạng hỗn số.",
+    "options": ["5 3/4", "4 7/4", "5 1/4", "6 1/4"],
+    "correctAnswer": "5 3/4"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 12cm, chiều rộng 8cm. Chu vi hình chữ nhật đó là:",
+    "options": ["40cm", "20cm", "96cm", "96cm²"],
+    "correctAnswer": "40cm"
+  },
+  {
+    "question": "Một hình vuông có cạnh 7dm. Diện tích hình vuông đó là:",
+    "options": ["49 dm²", "28 dm", "14 dm²", "49 dm"],
+    "correctAnswer": "49 dm²"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 587 699; 587 969; 578 969; 587 696 là:",
+    "options": ["587 969", "587 699", "578 969", "587 696"],
+    "correctAnswer": "587 969"
+  },
+  {
+    "question": "Tìm x, biết x - 1234 = 5678",
+    "options": ["x = 6912", "x = 4444", "x = 5678", "x = 1234"],
+    "correctAnswer": "x = 6912"
+  },
+  {
+    "question": "Trong phép chia cho 9, số dư lớn nhất có thể là:",
+    "options": ["8", "9", "7", "1"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "So sánh hai phân số 5/6 và 7/8.",
+    "options": ["5/6 < 7/8", "5/6 > 7/8", "5/6 = 7/8", "Không so sánh được"],
+    "correctAnswer": "5/6 < 7/8"
+  },
+  {
+    "question": "Chuyển 4/25 thành phân số thập phân.",
+    "options": ["16/100", "40/100", "8/50", "20/100"],
+    "correctAnswer": "16/100"
+  },
+  {
+    "question": "Kết quả của phép tính 2 + 3/5 là:",
+    "options": ["13/5", "5/5", "1", "10/5"],
+    "correctAnswer": "13/5"
+  },
+  {
+    "question": "Kết quả của phép tính 3 - 1/4 là:",
+    "options": ["11/4", "2/4", "1/2", "7/4"],
+    "correctAnswer": "11/4"
+  },
+  {
+    "question": "Kết quả của phép tính 5 x 2/3 là:",
+    "options": ["10/3", "10/15", "2/15", "7/3"],
+    "correctAnswer": "10/3"
+  },
+  {
+    "question": "Kết quả của phép tính 6 : 1/2 là:",
+    "options": ["12", "3", "6/2", "1/12"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Chuyển hỗn số 4 2/3 thành phân số.",
+    "options": ["14/3", "10/3", "8/3", "24/3"],
+    "correctAnswer": "14/3"
+  },
+  {
+    "question": "Một hình bình hành có độ dài đáy 15cm và chiều cao 8cm. Diện tích hình bình hành đó là:",
+    "options": ["120 cm²", "60 cm²", "46 cm", "23 cm²"],
+    "correctAnswer": "120 cm²"
+  },
+  {
+    "question": "Một hình thoi có độ dài hai đường chéo là 10dm và 14dm. Diện tích hình thoi đó là:",
+    "options": ["70 dm²", "140 dm²", "24 dm²", "48 dm²"],
+    "correctAnswer": "70 dm²"
+  },
+  {
+    "question": "Số gồm 5 triệu, 6 trăm nghìn, 7 chục và 8 đơn vị được viết là:",
+    "options": ["5 600 078", "5 060 078", "5 678 000", "5 600 780"],
+    "correctAnswer": "5 600 078"
+  },
+  {
+    "question": "Giá trị của biểu thức 250 x 4 - 500 là:",
+    "options": ["500", "1000", "0", "250"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Tìm y, biết 25 x y = 2500.",
+    "options": ["y = 100", "y = 10", "y = 25", "y = 1000"],
+    "correctAnswer": "y = 100"
+  },
+  {
+    "question": "Quy đồng mẫu số hai phân số 2/5 và 3/7.",
+    "options": ["14/35 và 15/35", "10/35 và 21/35", "7/35 và 5/35", "14/35 và 10/35"],
+    "correctAnswer": "14/35 và 15/35"
+  },
+  {
+    "question": "Phân số nào lớn hơn 1?",
+    "options": ["9/8", "8/9", "1/1", "7/7"],
+    "correctAnswer": "9/8"
+  },
+  {
+    "question": "Số 0,45 được viết dưới dạng phân số thập phân là:",
+    "options": ["45/100", "4/10", "5/100", "45/10"],
+    "correctAnswer": "45/100"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 1/4 + 1/8 là:",
+    "options": ["7/8", "3/14", "3/8", "1"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Kết quả của phép tính (2/3 + 1/4) x 2 là:",
+    "options": ["11/6", "11/12", "11/24", "22/12"],
+    "correctAnswer": "11/6"
+  },
+  {
+    "question": "Một lớp có 35 học sinh, trong đó số học sinh nam bằng 3/4 số học sinh nữ. Lớp đó có bao nhiêu học sinh nam?",
+    "options": ["15", "20", "21", "14"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 50m, chiều dài hơn chiều rộng 5m. Diện tích hình chữ nhật đó là:",
+    "options": ["150 m²", "100 m²", "250 m²", "125 m²"],
+    "correctAnswer": "150 m²"
+  },
+  {
+    "question": "Số tự nhiên x lớn nhất thỏa mãn x < 2025,5 là:",
+    "options": ["2025", "2026", "2024", "2025,4"],
+    "correctAnswer": "2025"
+  },
+  {
+    "question": "Tìm số dư của phép chia 2468 cho 5.",
+    "options": ["3", "1", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong các phân số sau, phân số nào tối giản: 6/8, 9/12, 11/13, 10/15?",
+    "options": ["11/13", "6/8", "9/12", "10/15"],
+    "correctAnswer": "11/13"
+  },
+  {
+    "question": "Số 1,05 được viết dưới dạng phân số là:",
+    "options": ["105/100", "21/20", "1 5/100", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính 2 1/3 - 1 1/2 là:",
+    "options": ["5/6", "1 1/6", "1 -1/6", "7/6"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Số nghịch đảo của hỗn số 1 1/2 là:",
+    "options": ["2/3", "3/2", "1 2/1", "2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Một cửa hàng bán được 120 kg gạo, bằng 3/4 tổng số gạo của cửa hàng. Hỏi cửa hàng còn lại bao nhiêu kg gạo?",
+    "options": ["40 kg", "160 kg", "90 kg", "30 kg"],
+    "correctAnswer": "40 kg"
+  },
+  {
+    "question": "Một hình tam giác có độ dài đáy 12cm và chiều cao 8cm. Diện tích tam giác đó là:",
+    "options": ["48 cm²", "96 cm²", "20 cm²", "40 cm²"],
+    "correctAnswer": "48 cm²"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 2 tấn 50 kg = ... kg",
+    "options": ["2050", "250", "2500", "20050"],
+    "correctAnswer": "2050"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 3m² 5dm² = ... dm²",
+    "options": ["305", "35", "350", "3005"],
+    "correctAnswer": "305"
+  },
+  {
+    "question": "Số bé nhất có 6 chữ số là:",
+    "options": ["100 000", "111 111", "100 001", "999 999"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Kết quả của biểu thức 135 x (20 + 3) là:",
+    "options": ["3105", "2703", "13523", "2700"],
+    "correctAnswer": "3105"
+  },
+  {
+    "question": "Tìm y, biết y : 15 = 20.",
+    "options": ["y = 300", "y = 5", "y = 4/3", "y = 35"],
+    "correctAnswer": "y = 300"
+  },
+  {
+    "question": "So sánh 1 và 19/20.",
+    "options": ["1 > 19/20", "1 < 19/20", "1 = 19/20", "Không so sánh được"],
+    "correctAnswer": "1 > 19/20"
+  },
+  {
+    "question": "Chuyển 125/1000 thành phân số thập phân tối giản.",
+    "options": ["1/8", "125/1000", "5/40", "25/200"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 2/3 + 5/6 là:",
+    "options": ["2", "8/11", "8/6", "4/3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Kết quả của phép tính 5/3 x 4/5 x 3/4 là:",
+    "options": ["1", "60/60", "12/12", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Tìm x, biết 1/2 của x bằng 10.",
+    "options": ["x = 20", "x = 5", "x = 10.5", "x = 9.5"],
+    "correctAnswer": "x = 20"
+  },
+  {
+    "question": "Một hình chữ nhật có nửa chu vi là 25m. Chiều dài hơn chiều rộng 5m. Chiều dài là:",
+    "options": ["15m", "10m", "20m", "30m"],
+    "correctAnswer": "15m"
+  },
+  {
+    "question": "Một giờ có 60 phút. 1/4 giờ có bao nhiêu phút?",
+    "options": ["15 phút", "20 phút", "25 phút", "10 phút"],
+    "correctAnswer": "15 phút"
+  },
+  {
+    "question": "Số gồm 5 trăm, 2 chục, 3 đơn vị và 8 phần mười được viết là:",
+    "options": ["523,8", "5238", "52,38", "5,238"],
+    "correctAnswer": "523,8"
+  },
+  {
+    "question": "Tìm số trung bình cộng của 10, 20, 30.",
+    "options": ["20", "60", "30", "15"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Tìm x, biết x : 12 = 12.",
+    "options": ["x = 144", "x = 1", "x = 24", "x = 0"],
+    "correctAnswer": "x = 144"
+  },
+  {
+    "question": "Trong các phân số 1/3, 1/4, 1/5, 1/6, phân số nào lớn nhất?",
+    "options": ["1/3", "1/4", "1/5", "1/6"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Số 0,05 được viết dưới dạng phân số thập phân là:",
+    "options": ["5/100", "5/10", "50/100", "5/1000"],
+    "correctAnswer": "5/100"
+  },
+  {
+    "question": "Kết quả của phép tính 1 - 3/8 là:",
+    "options": ["5/8", "8/8", "1", "-2/8"],
+    "correctAnswer": "5/8"
+  },
+  {
+    "question": "Kết quả của phép tính 2 1/5 x 3 là:",
+    "options": ["33/5", "11/5", "6 3/5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "3/5 của 1kg là bao nhiêu gam?",
+    "options": ["600g", "300g", "500g", "750g"],
+    "correctAnswer": "600g"
+  },
+  {
+    "question": "Một hình chữ nhật và một hình vuông có cùng chu vi. Cạnh hình vuông là 10cm. Chiều dài hình chữ nhật là 12cm. Chiều rộng hình chữ nhật là:",
+    "options": ["8cm", "10cm", "20cm", "28cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 5 km 32 m = ... m",
+    "options": ["5032", "532", "5320", "50032"],
+    "correctAnswer": "5032"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 4 tạ 5 kg = ... kg",
+    "options": ["405", "45", "450", "4005"],
+    "correctAnswer": "405"
+  },
+  {
+    "question": "Số liền trước của số bé nhất có 5 chữ số là:",
+    "options": ["9999", "10000", "10001", "9998"],
+    "correctAnswer": "9999"
+  },
+  {
+    "question": "Giá trị của biểu thức a + b x c với a=10, b=5, c=2 là:",
+    "options": ["20", "30", "25", "17"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Tìm số tự nhiên y, biết 120 : y = 20.",
+    "options": ["y = 6", "y = 2400", "y = 100", "y = 140"],
+    "correctAnswer": "y = 6"
+  },
+  {
+    "question": "So sánh 13/12 và 12/13.",
+    "options": ["13/12 > 12/13", "13/12 < 12/13", "13/12 = 12/13", "Không so sánh được"],
+    "correctAnswer": "13/12 > 12/13"
+  },
+  {
+    "question": "Phân số 3/20 được viết dưới dạng số thập phân là:",
+    "options": ["0,15", "1,5", "0,015", "15,0"],
+    "correctAnswer": "0,15"
+  },
+  {
+    "question": "Kết quả của phép tính 2/3 + 1/6 là:",
+    "options": ["5/6", "3/9", "1/2", "1/3"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Kết quả của phép tính 2/3 : 4/3 là:",
+    "options": ["1/2", "8/9", "2", "9/8"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Lớp 5A có 30 học sinh, trong đó 2/3 là học sinh khá. Số học sinh khá của lớp 5A là:",
+    "options": ["20", "10", "15", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 50 cm² và chiều cao 10cm. Độ dài đáy của tam giác đó là:",
+    "options": ["10cm", "5cm", "20cm", "25cm"],
+    "correctAnswer": "10cm"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 5 phút 15 giây = ... giây",
+    "options": ["315", "515", "75", "900"],
+    "correctAnswer": "315"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số khác nhau là:",
+    "options": ["98765", "99999", "56789", "10234"],
+    "correctAnswer": "98765"
+  },
+  {
+    "question": "Giá trị của biểu thức 100 - 100 : (5 + 5) là:",
+    "options": ["90", "0", "10", "95"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Tìm y, biết 140 : (y - 8) = 7.",
+    "options": ["y = 28", "y = 12", "y = 20", "y = 148"],
+    "correctAnswer": "y = 28"
+  },
+  {
+    "question": "Phân số nào nằm giữa 1/3 và 1/2?",
+    "options": ["2/5", "1/4", "2/6", "3/5"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Viết hỗn số 5 2/100 dưới dạng số thập phân.",
+    "options": ["5,02", "5,2", "5,200", "52,100"],
+    "correctAnswer": "5,02"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 x 1/3 + 1/4 là:",
+    "options": ["5/12", "1/9", "2/7", "3/9"],
+    "correctAnswer": "5/12"
+  },
+  {
+    "question": "Kết quả của phép tính 1 - 1/2 : 2 là:",
+    "options": ["3/4", "1/4", "0", "1/2"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Một người đi được 12km, chiếm 2/3 quãng đường cần đi. Quãng đường người đó cần đi dài bao nhiêu km?",
+    "options": ["18 km", "8 km", "24 km", "30 km"],
+    "correctAnswer": "18 km"
+  },
+  {
+    "question": "Một hình vuông có chu vi bằng chu vi hình chữ nhật có chiều dài 10cm, chiều rộng 6cm. Cạnh của hình vuông đó là:",
+    "options": ["8cm", "16cm", "32cm", "4cm"],
+    "correctAnswer": "8cm"
+  }
+]
+
