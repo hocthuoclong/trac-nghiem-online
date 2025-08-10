@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Câu nào sau đây là một mệnh đề?",
+    "options": ["Số 5 là một số chẵn.", "Bạn có thích học Toán không?", "Hãy làm bài tập đi!", "Thời tiết hôm nay đẹp quá!"],
+    "correctAnswer": "Số 5 là một số chẵn."
+  },
+  {
+    "question": "Mệnh đề phủ định của mệnh đề 'Mọi học sinh đều thích học Toán' là:",
+    "options": ["Tồn tại một học sinh không thích học Toán.", "Mọi học sinh đều không thích học Toán.", "Tồn tại một học sinh thích học Toán.", "Không có học sinh nào thích học Toán."],
+    "correctAnswer": "Tồn tại một học sinh không thích học Toán."
+  },
+  {
+    "question": "Cho tập hợp A = {1, 2, 3}. Cách viết nào sau đây đúng?",
+    "options": ["1 ∈ A", "1 ⊂ A", "{1} ∈ A", "A ∈ 1"],
+    "correctAnswer": "1 ∈ A"
+  },
+  {
+    "question": "Cho hai tập hợp A = {1, 2} và B = {1, 2, 3}. Phép toán A ∩ B cho kết quả là:",
+    "options": ["{1, 2}", "{1, 2, 3}", "{3}", "∅"],
+    "correctAnswer": "{1, 2}"
+  },
+  {
+    "question": "Cho hai tập hợp A = {a, b} và B = {b, c, d}. Phép toán A ∪ B cho kết quả là:",
+    "options": ["{a, b, c, d}", "{b}", "{a, c, d}", "{a, b}"],
+    "correctAnswer": "{a, b, c, d}"
+  },
+  {
+    "question": "Ký hiệu ∀ đọc là:",
+    "options": ["Với mọi", "Tồn tại", "Suy ra", "Tương đương"],
+    "correctAnswer": "Với mọi"
+  },
+  {
+    "question": "Ký hiệu ∃ đọc là:",
+    "options": ["Tồn tại", "Với mọi", "Kéo theo", "Nếu và chỉ nếu"],
+    "correctAnswer": "Tồn tại"
+  },
+  {
+    "question": "Mệnh đề P ⇒ Q được phát biểu là:",
+    "options": ["Nếu P thì Q", "P và Q", "P hoặc Q", "P tương đương Q"],
+    "correctAnswer": "Nếu P thì Q"
+  },
+  {
+    "question": "Cho tập hợp X = {x ∈ N | x ≤ 5}. Liệt kê các phần tử của X.",
+    "options": ["{0, 1, 2, 3, 4, 5}", "{1, 2, 3, 4, 5}", "{0, 1, 2, 3, 4}", "{1, 2, 3, 4}"],
+    "correctAnswer": "{0, 1, 2, 3, 4, 5}"
+  },
+  {
+    "question": "Cho A = {1, 3, 5} và B = {1, 2, 3}. Tập hợp A \\ B là:",
+    "options": ["{5}", "{1, 3}", "{2}", "{1, 2, 3, 5}"],
+    "correctAnswer": "{5}"
+  },
+  {
+    "question": "Câu nào sau đây không phải là mệnh đề?",
+    "options": ["x + 2 = 5", "Hà Nội là thủ đô của Việt Nam.", "2 là số nguyên tố.", "1 > 2."],
+    "correctAnswer": "x + 2 = 5"
+  },
+  {
+    "question": "Mệnh đề 'Nếu tam giác ABC đều thì nó có ba góc bằng 60°' có mệnh đề đảo là:",
+    "options": ["Nếu tam giác ABC có ba góc bằng 60° thì nó là tam giác đều.", "Nếu tam giác ABC không đều thì nó không có ba góc bằng 60°.", "Tam giác ABC đều và có ba góc bằng 60°.", "Tam giác ABC không đều."],
+    "correctAnswer": "Nếu tam giác ABC có ba góc bằng 60° thì nó là tam giác đều."
+  },
+  {
+    "question": "Tập hợp A = {x ∈ R | x² - 4 = 0} có bao nhiêu phần tử?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho A là tập hợp các số tự nhiên chẵn, B là tập hợp các số tự nhiên lẻ. A ∩ B là:",
+    "options": ["∅", "N", "A", "B"],
+    "correctAnswer": "∅"
+  },
+  {
+    "question": "Cho A = [1; 5] và B = (3; 7). A ∪ B là:",
+    "options": ["[1; 7)", "[1; 3)", "(5; 7)", "(3; 5]"],
+    "correctAnswer": "[1; 7)"
+  },
+  {
+    "question": "Phủ định của mệnh đề '∃x ∈ R, x² < 0' là:",
+    "options": ["∀x ∈ R, x² ≥ 0", "∀x ∈ R, x² > 0", "∃x ∈ R, x² ≥ 0", "∃x ∈ R, x² > 0"],
+    "correctAnswer": "∀x ∈ R, x² ≥ 0"
+  },
+  {
+    "question": "Mệnh đề nào sau đây sai?",
+    "options": ["π là một số hữu tỉ.", "Tổng ba góc trong một tam giác bằng 180°.", "15 chia hết cho 3.", "2024 là năm nhuận."],
+    "correctAnswer": "π là một số hữu tỉ."
+  },
+  {
+    "question": "Tập hợp rỗng, ký hiệu là ∅, là tập hợp:",
+    "options": ["Không chứa phần tử nào", "Chứa một phần tử là 0", "Chứa tất cả các số", "Không xác định"],
+    "correctAnswer": "Không chứa phần tử nào"
+  },
+  {
+    "question": "Cho A = (-∞; 2] và B = [0; +∞). A ∩ B là:",
+    "options": ["[0; 2]", "(-∞; +∞)", "[0; 2)", "(0; 2]"],
+    "correctAnswer": "[0; 2]"
+  },
+  {
+    "question": "Cho U = {1, 2, 3, 4, 5} và A = {1, 3, 5}. Phần bù của A trong U là:",
+    "options": ["{2, 4}", "{1, 3, 5}", "∅", "{1, 2, 3, 4, 5}"],
+    "correctAnswer": "{2, 4}"
+  },
+  {
+    "question": "Mệnh đề chứa biến là một câu:",
+    "options": ["Phụ thuộc vào giá trị của biến để xác định tính đúng sai.", "Luôn luôn đúng.", "Luôn luôn sai.", "Không phải là mệnh đề."],
+    "correctAnswer": "Phụ thuộc vào giá trị của biến để xác định tính đúng sai."
+  },
+  {
+    "question": "Mệnh đề P ⇔ Q đúng khi nào?",
+    "options": ["P và Q cùng đúng hoặc cùng sai.", "P đúng và Q sai.", "P sai và Q đúng.", "P và Q không liên quan."],
+    "correctAnswer": "P và Q cùng đúng hoặc cùng sai."
+  },
+  {
+    "question": "Tập hợp A = {a, b, c} có bao nhiêu tập con?",
+    "options": ["8", "7", "6", "3"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Cho A = {x ∈ Z | |x| < 3}. Liệt kê các phần tử của A.",
+    "options": ["{-2, -1, 0, 1, 2}", "{-3, -2, -1, 0, 1, 2, 3}", "{0, 1, 2}", "{1, 2}"],
+    "correctAnswer": "{-2, -1, 0, 1, 2}"
+  },
+  {
+    "question": "Cho A = (1; 4) và B = [2; 6]. A \\ B là:",
+    "options": ["(1; 2)", "[1; 2)", "(1; 2]", "[1; 2]"],
+    "correctAnswer": "(1; 2)"
+  },
+  {
+    "question": "Phủ định của mệnh đề 'Tất cả các loài chim đều biết bay' là:",
+    "options": ["Có ít nhất một loài chim không biết bay.", "Tất cả các loài chim đều không biết bay.", "Có ít nhất một loài chim biết bay.", "Không có loài chim nào biết bay."],
+    "correctAnswer": "Có ít nhất một loài chim không biết bay."
+  },
+  {
+    "question": "Mệnh đề P: '17 là số nguyên tố'. Mệnh đề phủ định P' là:",
+    "options": ["'17 không phải là số nguyên tố'", "'17 là hợp số'", "Cả A và B", "'17 là số chẵn'"],
+    "correctAnswer": "'17 không phải là số nguyên tố'"
+  },
+  {
+    "question": "Hai tập hợp A và B được gọi là bằng nhau nếu:",
+    "options": ["Mọi phần tử của A đều thuộc B và ngược lại.", "A và B có cùng số phần tử.", "A là tập con của B.", "B là tập con của A."],
+    "correctAnswer": "Mọi phần tử của A đều thuộc B và ngược lại."
+  },
+  {
+    "question": "Cho A = {x ∈ R | (x-1)(x+2) = 0} và B = {-2, 1}. Mối quan hệ giữa A và B là:",
+    "options": ["A = B", "A ⊂ B", "B ⊂ A", "A ∩ B = ∅"],
+    "correctAnswer": "A = B"
+  },
+  {
+    "question": "Cho A = (-2; 3] và B = [1; 5]. A ∪ B là:",
+    "options": ["(-2; 5]", "[-2; 5]", "(1; 3]", "[1; 3]"],
+    "correctAnswer": "(-2; 5]"
+  },
+  {
+    "question": "Mệnh đề nào sau đây có mệnh đề đảo là mệnh đề đúng?",
+    "options": ["Nếu một số chia hết cho 6 thì nó chia hết cho 3.", "Nếu hai tam giác bằng nhau thì chúng có diện tích bằng nhau.", "Nếu một tứ giác là hình vuông thì nó có 4 cạnh bằng nhau.", "Nếu một số tự nhiên là số chẵn thì nó chia hết cho 2."],
+    "correctAnswer": "Nếu một số tự nhiên là số chẵn thì nó chia hết cho 2."
+  },
+  {
+    "question": "Cho mệnh đề P(x): 'x là một số chẵn'. Mệnh đề nào sau đây đúng?",
+    "options": ["P(4)", "P(3)", "∀x ∈ N, P(x)", "∃x ∈ N, P(x+1/2)"],
+    "correctAnswer": "P(4)"
+  },
+  {
+    "question": "Tập hợp các số tự nhiên N và tập hợp các số nguyên Z có mối quan hệ:",
+    "options": ["N ⊂ Z", "Z ⊂ N", "N = Z", "N ∩ Z = ∅"],
+    "correctAnswer": "N ⊂ Z"
+  },
+  {
+    "question": "Số tập con có 2 phần tử của tập hợp A = {1, 2, 3, 4} là:",
+    "options": ["6", "4", "12", "16"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho A = {1, 2} và B = {a, b}. Tập hợp A x B (tích Descartes) là:",
+    "options": ["{(1,a), (1,b), (2,a), (2,b)}", "{1a, 1b, 2a, 2b}", "{1, 2, a, b}", "Không xác định"],
+    "correctAnswer": "{(1,a), (1,b), (2,a), (2,b)}"
+  },
+  {
+    "question": "Phủ định của mệnh đề '∃x ∈ Q, 4x² - 1 = 0' là:",
+    "options": ["∀x ∈ Q, 4x² - 1 ≠ 0", "∃x ∈ Q, 4x² - 1 ≠ 0", "∀x ∈ Q, 4x² - 1 = 0", "∀x ∈ Q, 4x² - 1 > 0"],
+    "correctAnswer": "∀x ∈ Q, 4x² - 1 ≠ 0"
+  },
+  {
+    "question": "Mệnh đề '∀x ∈ R, x² > 0' đúng hay sai?",
+    "options": ["Sai", "Đúng", "Vừa đúng vừa sai", "Không phải mệnh đề"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Tập hợp A có n phần tử. Số tập con của A là:",
+    "options": ["2ⁿ", "n²", "2n", "n!"],
+    "correctAnswer": "2ⁿ"
+  },
+  {
+    "question": "Cho A = [ -3; 1) và B = (-2; 4]. A ∩ B là:",
+    "options": ["(-2; 1)", "[-2; 1)", "(-2; 1]", "[-3; 4]"],
+    "correctAnswer": "(-2; 1)"
+  },
+  {
+    "question": "Cho A = R và B = [0; +∞). A \\ B là:",
+    "options": ["(-∞; 0)", "∅", "R", "[0; +∞)"],
+    "correctAnswer": "(-∞; 0)"
+  },
+  {
+    "question": "Mệnh đề kéo theo P ⇒ Q chỉ sai khi:",
+    "options": ["P đúng và Q sai", "P sai và Q đúng", "P và Q cùng sai", "P và Q cùng đúng"],
+    "correctAnswer": "P đúng và Q sai"
+  },
+  {
+    "question": "Cho A = {x ∈ N | x là ước của 12}. Số phần tử của A là:",
+    "options": ["6", "5", "4", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tập hợp nào sau đây là tập rỗng?",
+    "options": ["{x ∈ R | x² + 1 = 0}", "{x ∈ Z | |x| < 1}", "{x ∈ Q | x² - 2 = 0}", "{0}"],
+    "correctAnswer": "{x ∈ R | x² + 1 = 0}"
+  },
+  {
+    "question": "Cho A = {1, 5} và B = {1, 3, 5}. Mệnh đề nào sau đây đúng?",
+    "options": ["A ⊂ B", "B ⊂ A", "A = B", "A và B không có phần tử chung"],
+    "correctAnswer": "A ⊂ B"
+  },
+  {
+    "question": "Cho A = (-∞; 5] và B = (2; +∞). A ∪ B là:",
+    "options": ["R", "(-∞; 2)", "(5; +∞)", "(2; 5]"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Mệnh đề 'Một năm có tối đa 366 ngày' là mệnh đề:",
+    "options": ["Đúng", "Sai", "Không phải mệnh đề", "Mệnh đề chứa biến"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho mệnh đề P: 'Nếu a và b cùng chia hết cho c thì a+b chia hết cho c'. Mệnh đề này là một:",
+    "options": ["Định lý", "Tiên đề", "Giả thuyết", "Mệnh đề sai"],
+    "correctAnswer": "Định lý"
+  },
+  {
+    "question": "Số phần tử của tập hợp A = {k² + 1 | k ∈ Z, |k| ≤ 2} là:",
+    "options": ["3", "5", "4", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho A = {a, b, c, d}. Số tập con có 3 phần tử của A là:",
+    "options": ["4", "3", "6", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho A = (0; 2) và B = [1; 3). B \\ A là:",
+    "options": ["[2; 3)", "(0; 1)", "[1; 2)", "{2, 3}"],
+    "correctAnswer": "[2; 3)"
+  },
+  {
+    "question": "Phủ định của mệnh đề 'Có một số tự nhiên chia hết cho 11' là:",
+    "options": ["Mọi số tự nhiên đều không chia hết cho 11", "Mọi số tự nhiên đều chia hết cho 11", "Có một số tự nhiên không chia hết cho 11", "Số 11 là số nguyên tố"],
+    "correctAnswer": "Mọi số tự nhiên đều không chia hết cho 11"
+  },
+  {
+    "question": "Mệnh đề nào sau đây là mệnh đề tương đương?",
+    "options": ["'Tứ giác là hình vuông khi và chỉ khi nó là hình chữ nhật có hai đường chéo vuông góc'", "'Nếu trời mưa thì đường ướt'", "'Tam giác ABC đều suy ra góc A bằng 60°'", "'Số 6 chia hết cho 2 và 3'"],
+    "correctAnswer": "'Tứ giác là hình vuông khi và chỉ khi nó là hình chữ nhật có hai đường chéo vuông góc'"
+  },
+  {
+    "question": "Tập hợp các nghiệm của phương trình (x²-1)(x²-x-2)=0 là:",
+    "options": ["{-1, 1, 2}", "{-1, 1}", "{-1, 2}", "{1, 2}"],
+    "correctAnswer": "{-1, 1, 2}"
+  },
+  {
+    "question": "Cho A = {x ∈ N | 2 < x ≤ 8}. A được viết dưới dạng liệt kê là:",
+    "options": ["{3, 4, 5, 6, 7, 8}", "{2, 3, 4, 5, 6, 7, 8}", "{3, 4, 5, 6, 7}", "(2; 8]"],
+    "correctAnswer": "{3, 4, 5, 6, 7, 8}"
+  },
+  {
+    "question": "Cho A = {1, 2, 3} và B = {3, 4, 5}. (A ∪ B) \\ (A ∩ B) là:",
+    "options": ["{1, 2, 4, 5}", "{3}", "{1, 2, 3, 4, 5}", "∅"],
+    "correctAnswer": "{1, 2, 4, 5}"
+  },
+  {
+    "question": "Mệnh đề '∀x ∈ R, x² - 2x + 1 ≥ 0' có thể được viết lại là:",
+    "options": ["∀x ∈ R, (x-1)² ≥ 0", "∀x ∈ R, x > 1", "∃x ∈ R, (x-1)² ≥ 0", "∀x ∈ R, x² ≥ 2x-1"],
+    "correctAnswer": "∀x ∈ R, (x-1)² ≥ 0"
+  },
+  {
+    "question": "Cho mệnh đề P(n): 'n chia hết cho 5'. Mệnh đề nào sau đây sai?",
+    "options": ["P(4)", "P(0)", "P(5)", "P(10)"],
+    "correctAnswer": "P(4)"
+  },
+  {
+    "question": "Tập hợp các số hữu tỉ được ký hiệu là:",
+    "options": ["Q", "R", "Z", "N"],
+    "correctAnswer": "Q"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ R | -1 ≤ x < 4} được viết dưới dạng khoảng, đoạn là:",
+    "options": ["[-1; 4)", "(-1; 4]", "[-1; 4]", "(-1; 4)"],
+    "correctAnswer": "[-1; 4)"
+  },
+  {
+    "question": "Cho A là tập hợp các học sinh giỏi Toán, B là tập hợp các học sinh giỏi Văn. A ∪ B là tập hợp:",
+    "options": ["Các học sinh giỏi ít nhất một trong hai môn Toán hoặc Văn", "Các học sinh giỏi cả hai môn", "Các học sinh chỉ giỏi Toán", "Các học sinh chỉ giỏi Văn"],
+    "correctAnswer": "Các học sinh giỏi ít nhất một trong hai môn Toán hoặc Văn"
+  },
+  {
+    "question": "Mệnh đề 'Nếu một số chia hết cho 9 thì nó chia hết cho 3' có mệnh đề đảo là:",
+    "options": ["Nếu một số chia hết cho 3 thì nó chia hết cho 9", "Nếu một số không chia hết cho 9 thì nó không chia hết cho 3", "Nếu một số không chia hết cho 3 thì nó không chia hết cho 9", "Cả A và C đều đúng"],
+    "correctAnswer": "Nếu một số chia hết cho 3 thì nó chia hết cho 9"
+  },
+  {
+    "question": "Mệnh đề đảo của mệnh đề 'Nếu một số chia hết cho 3 thì nó chia hết cho 9' đúng hay sai?",
+    "options": ["Sai", "Đúng", "Không xác định", "Vừa đúng vừa sai"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Tập hợp các số thực được ký hiệu là:",
+    "options": ["R", "Q", "Z", "N*"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Cho A = {x ∈ R | x > 3}. Phần bù của A trong R là:",
+    "options": ["(-∞; 3]", "(-∞; 3)", "[3; +∞)", "(3; +∞)"],
+    "correctAnswer": "(-∞; 3]"
+  },
+  {
+    "question": "Cho A = {1, 2} và B = {2, 3}. Hiệu đối xứng của A và B (A Δ B) là:",
+    "options": ["{1, 3}", "{2}", "{1, 2, 3}", "∅"],
+    "correctAnswer": "{1, 3}"
+  },
+  {
+    "question": "Phủ định của mệnh đề '∀n ∈ N, n² + 1 không chia hết cho 3' là:",
+    "options": ["∃n ∈ N, n² + 1 chia hết cho 3", "∀n ∈ N, n² + 1 chia hết cho 3", "∃n ∈ N, n² + 1 không chia hết cho 3", "n² + 1 là số nguyên tố"],
+    "correctAnswer": "∃n ∈ N, n² + 1 chia hết cho 3"
+  },
+  {
+    "question": "Mệnh đề '∃x ∈ R, x = x+1' đúng hay sai?",
+    "options": ["Sai", "Đúng", "Không phải mệnh đề", "Mệnh đề chứa biến"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ Z | 2x² - 3x + 1 = 0} có các phần tử là:",
+    "options": ["{1}", "{1/2, 1}", "{1/2}", "∅"],
+    "correctAnswer": "{1}"
+  },
+  {
+    "question": "Cho A = {1, 2, 4, 6} và B = {1, 2, 3, 4, 5}. Số phần tử của A ∪ B là:",
+    "options": ["7", "9", "4", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Cho A = {1, 2, 4, 6} và B = {1, 2, 3, 4, 5}. Số phần tử của A ∩ B là:",
+    "options": ["3", "4", "5", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Mệnh đề 'Bình phương của mọi số thực đều không âm' được viết bằng ký hiệu là:",
+    "options": ["∀x ∈ R, x² ≥ 0", "∃x ∈ R, x² ≥ 0", "∀x ∈ R, x² > 0", "∃x ∈ R, x² > 0"],
+    "correctAnswer": "∀x ∈ R, x² ≥ 0"
+  },
+  {
+    "question": "Cho mệnh đề P: 'x là số chẵn' và Q: 'x chia hết cho 2'. Mệnh đề nào sau đây đúng?",
+    "options": ["P ⇔ Q", "P ⇒ Q", "Q ⇒ P", "Cả 3 đều đúng"],
+    "correctAnswer": "Cả 3 đều đúng"
+  },
+  {
+    "question": "Tập hợp nào là tập con của mọi tập hợp?",
+    "options": ["Tập rỗng ∅", "Tập {0}", "Tập {1}", "Tập N"],
+    "correctAnswer": "Tập rỗng ∅"
+  },
+  {
+    "question": "Cho A = (-3; 5] và B = [2; 8). A \\ B là:",
+    "options": ["(-3; 2)", "(-3; 2]", "[-3; 2)", "(-3; 8)"],
+    "correctAnswer": "(-3; 2)"
+  },
+  {
+    "question": "Cho U là tập hợp học sinh của một trường, A là tập hợp học sinh nữ. Phần bù của A trong U là:",
+    "options": ["Tập hợp học sinh nam", "Tập hợp học sinh giỏi", "Tập hợp rỗng", "Tập hợp U"],
+    "correctAnswer": "Tập hợp học sinh nam"
+  },
+  {
+    "question": "Phủ định của mệnh đề 'Nếu hôm nay trời mưa thì tôi ở nhà' là:",
+    "options": ["Hôm nay trời mưa và tôi không ở nhà", "Hôm nay trời không mưa và tôi ở nhà", "Nếu hôm nay trời không mưa thì tôi không ở nhà", "Hôm nay trời không mưa hoặc tôi ở nhà"],
+    "correctAnswer": "Hôm nay trời mưa và tôi không ở nhà"
+  },
+  {
+    "question": "Mệnh đề '∃n ∈ N, n² = n' đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Vừa đúng vừa sai"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ Z | (x+1)(2x-5) = 0} có bao nhiêu phần tử?",
+    "options": ["1", "2", "0", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho A = {a, b}, B = {a, b, c}, C = {a, c, d}. Tập hợp (A ∪ B) ∩ C là:",
+    "options": ["{a, c}", "{a, b, c}", "{a, b, c, d}", "{a}"],
+    "correctAnswer": "{a, c}"
+  },
+  {
+    "question": "Cho A = [1; 4] và B = [3; 6]. A ∩ B là:",
+    "options": ["[3; 4]", "(3; 4]", "[3; 4)", "(1; 6]"],
+    "correctAnswer": "[3; 4]"
+  },
+  {
+    "question": "Mệnh đề '∀x ∈ R, x > x-1' là mệnh đề:",
+    "options": ["Đúng", "Sai", "Không phải mệnh đề", "Mệnh đề chứa biến"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho mệnh đề P: 'Tứ giác ABCD là hình thoi' và Q: 'Tứ giác ABCD có hai đường chéo vuông góc'. Phát biểu P ⇒ Q là:",
+    "options": ["Nếu tứ giác ABCD là hình thoi thì nó có hai đường chéo vuông góc", "Tứ giác ABCD là hình thoi và có hai đường chéo vuông góc", "Tứ giác ABCD là hình thoi khi và chỉ khi nó có hai đường chéo vuông góc", "Nếu tứ giác ABCD có hai đường chéo vuông góc thì nó là hình thoi"],
+    "correctAnswer": "Nếu tứ giác ABCD là hình thoi thì nó có hai đường chéo vuông góc"
+  },
+  {
+    "question": "Tập hợp các số nguyên tố nhỏ hơn 10 là:",
+    "options": ["{2, 3, 5, 7}", "{1, 2, 3, 5, 7}", "{2, 3, 5, 7, 9}", "{3, 5, 7}"],
+    "correctAnswer": "{2, 3, 5, 7}"
+  },
+  {
+    "question": "Cho A = {1, 2, 3, 4} và B = {3, 4, 5, 6}. Số phần tử của A \\ B là:",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho A = (-5; 1] và B = [-2; 7). A ∪ B là:",
+    "options": ["(-5; 7)", "[-5; 7)", "(-5; 7]", "[-2; 1]"],
+    "correctAnswer": "(-5; 7)"
+  },
+  {
+    "question": "Mệnh đề nào sau đây là phủ định của mệnh đề 'Mọi động vật đều di chuyển'?",
+    "options": ["Có ít nhất một động vật không di chuyển", "Mọi động vật đều không di chuyển", "Có ít nhất một động vật di chuyển", "Tất cả các đáp án đều sai"],
+    "correctAnswer": "Có ít nhất một động vật không di chuyển"
+  },
+  {
+    "question": "Cho mệnh đề A: '∀x ∈ R, x² - x + 1 > 0'. Mệnh đề phủ định của A là:",
+    "options": ["∃x ∈ R, x² - x + 1 ≤ 0", "∀x ∈ R, x² - x + 1 ≤ 0", "∃x ∈ R, x² - x + 1 < 0", "∀x ∈ R, x² - x + 1 < 0"],
+    "correctAnswer": "∃x ∈ R, x² - x + 1 ≤ 0"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ N* | x < 4} có bao nhiêu tập con khác rỗng?",
+    "options": ["7", "8", "3", "4"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Cho A là tập các hình thoi, B là tập các hình chữ nhật. A ∩ B là tập hợp:",
+    "options": ["Các hình vuông", "Các hình bình hành", "Các tứ giác", "∅"],
+    "correctAnswer": "Các hình vuông"
+  },
+  {
+    "question": "Cho A = [-4; 4] và B = [1; 7]. A \\ B là:",
+    "options": ["[-4; 1)", "[-4; 1]", "(-4; 1)", "[-4; 7]"],
+    "correctAnswer": "[-4; 1)"
+  }
+]
+
