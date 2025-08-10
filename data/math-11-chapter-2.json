@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = 2n + 1. Số hạng thứ 5 của dãy là:",
+    "options": ["11", "10", "9", "12"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Trong các dãy số sau, dãy số nào là cấp số cộng?",
+    "options": ["1; 3; 5; 7; 9", "1; 2; 4; 8; 16", "1; -1; 1; -1; 1", "2; 4; 6; 9; 11"],
+    "correctAnswer": "1; 3; 5; 7; 9"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ = 3 và công sai d = 2. Số hạng u₃ bằng:",
+    "options": ["7", "5", "9", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Trong các dãy số sau, dãy số nào là cấp số nhân?",
+    "options": ["2; 4; 8; 16", "2; 4; 6; 8", "1; 3; 5; 7", "10; 8; 6; 4"],
+    "correctAnswer": "2; 4; 8; 16"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ = 2 và công bội q = 3. Số hạng u₄ bằng:",
+    "options": ["54", "18", "8", "11"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "Cho dãy số (uₙ) xác định bởi u₁ = 1 và uₙ₊₁ = uₙ + 2. Đây là dãy số gì?",
+    "options": ["Cấp số cộng", "Cấp số nhân", "Dãy số không đổi", "Dãy số giảm"],
+    "correctAnswer": "Cấp số cộng"
+  },
+  {
+    "question": "Công thức số hạng tổng quát của cấp số cộng (uₙ) với số hạng đầu u₁ và công sai d là:",
+    "options": ["uₙ = u₁ + (n-1)d", "uₙ = u₁ + nd", "uₙ = u₁ * dⁿ⁻¹", "uₙ = u₁ + (n+1)d"],
+    "correctAnswer": "uₙ = u₁ + (n-1)d"
+  },
+  {
+    "question": "Công thức số hạng tổng quát của cấp số nhân (uₙ) với số hạng đầu u₁ và công bội q là:",
+    "options": ["uₙ = u₁ * qⁿ⁻¹", "uₙ = u₁ * qⁿ", "uₙ = u₁ + (n-1)q", "uₙ = u₁ * q"],
+    "correctAnswer": "uₙ = u₁ * qⁿ⁻¹"
+  },
+  {
+    "question": "Cho cấp số cộng có u₁ = -2, d = 3. Tìm u₁₀.",
+    "options": ["25", "28", "22", "31"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Cho cấp số nhân có u₁ = 5, q = -2. Tìm u₆.",
+    "options": ["-160", "160", "320", "-320"],
+    "correctAnswer": "-160"
+  },
+  {
+    "question": "Cho dãy số uₙ = (-1)ⁿ. Dãy số này là dãy:",
+    "options": ["Bị chặn", "Tăng", "Giảm", "Không bị chặn"],
+    "correctAnswer": "Bị chặn"
+  },
+  {
+    "question": "Tổng 10 số hạng đầu của cấp số cộng có u₁ = 1 và d = 2 là:",
+    "options": ["100", "110", "90", "120"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Tổng 5 số hạng đầu của cấp số nhân có u₁ = 1 và q = 2 là:",
+    "options": ["31", "32", "15", "16"],
+    "correctAnswer": "31"
+  },
+  {
+    "question": "Ba số x, 5, 2x+1 theo thứ tự lập thành cấp số cộng. Tìm x.",
+    "options": ["3", "2", "4", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Ba số 2, x, 18 theo thứ tự lập thành cấp số nhân. Tìm x.",
+    "options": ["6", "-6", "Cả A và B", "10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho dãy số uₙ = n/(n+1). Dãy số này là dãy:",
+    "options": ["Tăng và bị chặn", "Giảm và bị chặn", "Tăng và không bị chặn", "Giảm và không bị chặn"],
+    "correctAnswer": "Tăng và bị chặn"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₅ = 10 và u₉ = 22. Tìm công sai d.",
+    "options": ["3", "4", "2", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₂ = 6 và u₅ = 48. Tìm công bội q.",
+    "options": ["2", "3", "4", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Công thức tính tổng n số hạng đầu của cấp số cộng là:",
+    "options": ["Sₙ = n/2 * (u₁ + uₙ)", "Sₙ = n/2 * (2u₁ + nd)", "Sₙ = u₁ + (n-1)d", "Sₙ = n(u₁ + uₙ)"],
+    "correctAnswer": "Sₙ = n/2 * (u₁ + uₙ)"
+  },
+  {
+    "question": "Công thức tính tổng n số hạng đầu của cấp số nhân (q≠1) là:",
+    "options": ["Sₙ = u₁(1-qⁿ)/(1-q)", "Sₙ = u₁(qⁿ-1)/q", "Sₙ = u₁/(1-q)", "Sₙ = u₁(1+qⁿ)/(1+q)"],
+    "correctAnswer": "Sₙ = u₁(1-qⁿ)/(1-q)"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = 3ⁿ. Số hạng nào của dãy bằng 243?",
+    "options": ["u₅", "u₆", "u₄", "u₇"],
+    "correctAnswer": "u₅"
+  },
+  {
+    "question": "Tìm số hạng đầu u₁ của cấp số cộng (uₙ) biết u₁₀ = 30 và d = 3.",
+    "options": ["3", "0", "6", "-3"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tìm số hạng đầu u₁ của cấp số nhân (uₙ) biết u₄ = 24 và q = 2.",
+    "options": ["3", "4", "6", "12"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = sin(nπ/2). Dãy số này có bao nhiêu giá trị khác nhau?",
+    "options": ["3", "4", "2", "Vô số"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tính tổng S = 1 + 3 + 5 + ... + 99.",
+    "options": ["2500", "5050", "2550", "5000"],
+    "correctAnswer": "2500"
+  },
+  {
+    "question": "Tính tổng S = 1 + 1/2 + 1/4 + 1/8 + ... (cấp số nhân lùi vô hạn).",
+    "options": ["2", "1", "3/2", "Vô cùng"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ + u₅ = 14 và u₂ + u₃ = 12. Tìm u₁ và d.",
+    "options": ["u₁=2, d=3", "u₁=3, d=2", "u₁=4, d=1", "u₁=1, d=4"],
+    "correctAnswer": "u₁=2, d=3"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ - u₃ = 8 và u₁ + u₂ = 12. Tìm u₁ và q.",
+    "options": ["u₁=24, q=-1/2", "u₁=8, q=1/2", "u₁=16, q=-1/2", "u₁=6, q=1"],
+    "correctAnswer": "u₁=24, q=-1/2"
+  },
+  {
+    "question": "Dãy số nào sau đây không phải là cấp số cộng?",
+    "options": ["uₙ = n²", "uₙ = 2n+3", "uₙ = -n+1", "uₙ = 5"],
+    "correctAnswer": "uₙ = n²"
+  },
+  {
+    "question": "Dãy số nào sau đây không phải là cấp số nhân?",
+    "options": ["uₙ = n+1", "uₙ = 2ⁿ", "uₙ = (-3)ⁿ", "uₙ = 5"],
+    "correctAnswer": "uₙ = n+1"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = 2n²-1. Số 71 là số hạng thứ mấy?",
+    "options": ["6", "5", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một cấp số cộng có 10 số hạng. Tổng của số hạng đầu và số hạng cuối là 20. Tổng của 10 số hạng đó là:",
+    "options": ["100", "200", "50", "150"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Một cấp số nhân có các số hạng dương. Tích của số hạng thứ 2 và thứ 4 là 36. Số hạng thứ 3 là:",
+    "options": ["6", "18", "12", "9"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Dãy số được cho bởi công thức truy hồi u₁=2, uₙ₊₁ = 2uₙ. Số hạng tổng quát của dãy là:",
+    "options": ["uₙ = 2ⁿ", "uₙ = 2n", "uₙ = 2ⁿ⁺¹", "uₙ = 2ⁿ⁻¹"],
+    "correctAnswer": "uₙ = 2ⁿ"
+  },
+  {
+    "question": "Tìm x để 3 số 1-x, x², 1+x lập thành cấp số cộng.",
+    "options": ["x=±2", "x=2", "x=-2", "x=±1"],
+    "correctAnswer": "x=±2"
+  },
+  {
+    "question": "Tìm x > 0 để 3 số x, x+2, x+3 lập thành cấp số nhân.",
+    "options": ["-4+2√6", "1", "4", "Không có x"],
+    "correctAnswer": "-4+2√6"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có S₆ = 18 và S₁₀ = 50. Tính S₁₆.",
+    "options": ["112", "100", "96", "128"],
+    "correctAnswer": "112"
+  },
+  {
+    "question": "Cho cấp số nhân lùi vô hạn có tổng bằng 3 và u₁=2. Công bội q là:",
+    "options": ["1/3", "2/3", "-1/3", "-2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Dãy số nào sau đây là dãy số giảm?",
+    "options": ["uₙ = 1/n", "uₙ = n²", "uₙ = 2n-1", "uₙ = (-1)ⁿ"],
+    "correctAnswer": "uₙ = 1/n"
+  },
+  {
+    "question": "Bốn góc của một tứ giác lập thành một cấp số cộng. Nếu góc nhỏ nhất là 60°, góc lớn nhất là:",
+    "options": ["120°", "100°", "140°", "150°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Số 99 là số hạng thứ bao nhiêu của cấp số cộng 3, 6, 9, ...?",
+    "options": ["33", "32", "34", "30"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Cho cấp số nhân có các số hạng đều âm, u₂ = -4 và u₄ = -16. Tìm u₅.",
+    "options": ["-32", "32", "-64", "64"],
+    "correctAnswer": "-32"
+  },
+  {
+    "question": "Cho dãy số uₙ = (n-1)/(2n+1). Dãy số này bị chặn trên bởi số nào?",
+    "options": ["1/2", "1", "0", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tổng của 15 số hạng đầu tiên của cấp số cộng 1, 4, 7, ... là:",
+    "options": ["315", "330", "285", "345"],
+    "correctAnswer": "315"
+  },
+  {
+    "question": "Tổng S = 1 - 1/3 + 1/9 - 1/27 + ... là:",
+    "options": ["3/4", "4/3", "2/3", "3/2"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₄ + u₈ = 20. Tính S₁₁.",
+    "options": ["110", "100", "120", "90"],
+    "correctAnswer": "110"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₃.u₅ = 144. Tính u₄.",
+    "options": ["12", "-12", "Cả A và B", "24"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Dãy số nào sau đây không bị chặn?",
+    "options": ["uₙ = n²", "uₙ = 1/n", "uₙ = sin(n)", "uₙ = (-1)ⁿ/n"],
+    "correctAnswer": "uₙ = n²"
+  },
+  {
+    "question": "Xen vào giữa số 2 và 22 bốn số để được một cấp số cộng. Bốn số đó là:",
+    "options": ["6, 10, 14, 18", "5, 8, 11, 14", "4, 8, 12, 16", "7, 12, 17, 22"],
+    "correctAnswer": "6, 10, 14, 18"
+  },
+  {
+    "question": "Xen vào giữa số 5 và 160 ba số để được một cấp số nhân. Ba số đó là:",
+    "options": ["10, 20, 40", "10, 30, 90", "20, 40, 80", "15, 45, 135"],
+    "correctAnswer": "20, 40, 80"
+  },
+  {
+    "question": "Cho dãy số uₙ = a.n + b. Dãy số này là:",
+    "options": ["Cấp số cộng", "Cấp số nhân", "Không phải CSC hay CSN", "Tùy vào a, b"],
+    "correctAnswer": "Cấp số cộng"
+  },
+  {
+    "question": "Cho dãy số uₙ = a.bⁿ. Dãy số này là:",
+    "options": ["Cấp số nhân", "Cấp số cộng", "Không phải CSC hay CSN", "Tùy vào a, b"],
+    "correctAnswer": "Cấp số nhân"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₂₀ = -55 và d = -3. Tìm u₅.",
+    "options": ["-10", "-13", "-7", "-16"],
+    "correctAnswer": "-10"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₇ = 1/16 và q = 1/2. Tìm u₁.",
+    "options": ["4", "8", "2", "16"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Dãy số nào sau đây có giới hạn bằng 0?",
+    "options": ["uₙ = (1/3)ⁿ", "uₙ = (4/3)ⁿ", "uₙ = n²", "uₙ = 2n+1"],
+    "correctAnswer": "uₙ = (1/3)ⁿ"
+  },
+  {
+    "question": "Tổng 1+2+3+...+n bằng:",
+    "options": ["n(n+1)/2", "n(n-1)/2", "n²", "n(n+1)"],
+    "correctAnswer": "n(n+1)/2"
+  },
+  {
+    "question": "Số 0.333... được biểu diễn dưới dạng tổng của cấp số nhân lùi vô hạn nào?",
+    "options": ["3/10 + 3/100 + 3/1000 + ...", "3 + 0.3 + 0.03 + ...", "1/3 + 1/9 + 1/27 + ...", "3/10 + 3/10² + 3/10⁴ + ..."],
+    "correctAnswer": "3/10 + 3/100 + 3/1000 + ..."
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ = 1 và u₁₀₀ = 199. Tổng 100 số hạng đầu là:",
+    "options": ["10000", "20000", "10100", "20200"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ = 3 và u₅ = 48. Công bội q là:",
+    "options": ["2", "-2", "Cả A và B", "4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Dãy số uₙ = (-1)ⁿ.n là dãy số:",
+    "options": ["Không bị chặn", "Bị chặn trên", "Bị chặn dưới", "Bị chặn"],
+    "correctAnswer": "Không bị chặn"
+  },
+  {
+    "question": "Một người gửi tiết kiệm 100 triệu đồng với lãi suất 6%/năm, lãi hàng năm được nhập vào vốn. Sau 5 năm, người đó nhận được số tiền là:",
+    "options": ["100 * (1.06)⁵", "100 * 1.06 * 5", "100 + 100 * 0.06 * 5", "100 * (1.06)⁴"],
+    "correctAnswer": "100 * (1.06)⁵"
+  },
+  {
+    "question": "Ba số hạng liên tiếp của một cấp số cộng có tổng bằng 9 và tổng các bình phương của chúng bằng 35. Ba số đó là:",
+    "options": ["1, 3, 5", "2, 3, 4", "0, 3, 6", "1, 2, 6"],
+    "correctAnswer": "1, 3, 5"
+  },
+  {
+    "question": "Ba số hạng liên tiếp của một cấp số nhân có tích bằng 216 và tổng bằng 26. Ba số đó là:",
+    "options": ["2, 6, 18", "1, 6, 36", "3, 6, 12", "4, 6, 9"],
+    "correctAnswer": ["2, 6, 18"]
+  },
+  {
+    "question": "Cho dãy số (uₙ) xác định bởi u₁ = 3, uₙ₊₁ = uₙ - 2. Số hạng thứ 100 là:",
+    "options": ["-195", "-197", "-199", "-201"],
+    "correctAnswer": "-195"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ + u₂ + u₃ = 9 và u₁ + u₃ + u₅ = 11. Tìm S₁₀.",
+    "options": ["55", "50", "60", "65"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₂ = -2 và u₅ = 54. Tính tổng 10 số hạng đầu tiên.",
+    "options": ["(2/3)(1-(-3)¹⁰)", "(-2/3)(1-(-3)¹⁰)", "(2/3)(1-3¹⁰)", "(-2/3)(1-3¹⁰)"],
+    "correctAnswer": "(2/3)(1-(-3)¹⁰)"
+  },
+  {
+    "question": "Dãy số nào sau đây là dãy tuần hoàn?",
+    "options": ["uₙ = cos(nπ)", "uₙ = n", "uₙ = 1/n", "uₙ = 2ⁿ"],
+    "correctAnswer": "uₙ = cos(nπ)"
+  },
+  {
+    "question": "Tìm số hạng thứ n của cấp số cộng, biết tổng n số hạng đầu là Sₙ = 3n² + 4n.",
+    "options": ["6n+1", "3n+4", "6n-1", "3n+1"],
+    "correctAnswer": "6n+1"
+  },
+  {
+    "question": "Một tam giác có các góc lập thành một cấp số cộng. Một trong các góc đó chắc chắn là:",
+    "options": ["60°", "90°", "45°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ + u₅ = 51 và u₂ + u₆ = 102. Tìm u₁.",
+    "options": ["3", "51/17", "1", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Dãy số Fibonacci 1, 1, 2, 3, 5, 8,... được xác định bởi công thức truy hồi nào?",
+    "options": ["u₁=1, u₂=1, uₙ = uₙ₋₁ + uₙ₋₂ (n≥3)", "uₙ = uₙ₋₁ + 1", "uₙ = 2uₙ₋₁", "uₙ = n"],
+    "correctAnswer": "u₁=1, u₂=1, uₙ = uₙ₋₁ + uₙ₋₂ (n≥3)"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ = 123 và u₃ + u₅ = 100. Tìm u₄.",
+    "options": ["-11", "50", "12.5", "112"],
+    "correctAnswer": "-11"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có S₂ = 4 và S₃ = 13. Tìm S₅.",
+    "options": ["121", "81", "133/4", "40"],
+    "correctAnswer": "121"
+  },
+  {
+    "question": "Dãy số uₙ = (2n+1)/(n+2) bị chặn dưới bởi số nào?",
+    "options": ["1", "0", "2", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính tổng S = 9 + 3 + 1 + 1/3 + ...",
+    "options": ["27/2", "13.5", "12", "Vô cùng"],
+    "correctAnswer": "27/2"
+  },
+  {
+    "question": "Số đo các góc của một đa giác lồi có 9 cạnh lập thành một cấp số cộng có công sai d = 3°. Góc nhỏ nhất là:",
+    "options": ["128°", "140°", "136°", "124°"],
+    "correctAnswer": "128°"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ = -1, q = -1/10. Số -1/10¹⁰¹ là số hạng thứ mấy?",
+    "options": ["102", "101", "100", "103"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = n²-4n+3. Dãy số này có bao nhiêu số hạng âm?",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁₇ - u₂₀ = 9. Tìm công sai d.",
+    "options": ["-3", "3", "1/3", "-1/3"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ = 1, u₃ = 9. Các số hạng của dãy đều dương. Tìm u₅.",
+    "options": ["81", "27", "243", "729"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Dãy số nào sau đây là cấp số cộng?",
+    "options": ["Dãy các số tự nhiên chẵn", "Dãy các số nguyên tố", "Dãy các lũy thừa của 2", "Dãy các số chính phương"],
+    "correctAnswer": "Dãy các số tự nhiên chẵn"
+  },
+  {
+    "question": "Cho cấp số cộng có Sₙ = n² + 2n. Tìm số hạng đầu u₁ và công sai d.",
+    "options": ["u₁=3, d=2", "u₁=2, d=3", "u₁=1, d=2", "u₁=3, d=1"],
+    "correctAnswer": "u₁=3, d=2"
+  },
+  {
+    "question": "Cho cấp số nhân có Sₙ = 3ⁿ - 1. Tìm số hạng đầu u₁ và công bội q.",
+    "options": ["u₁=2, q=3", "u₁=3, q=2", "u₁=1, q=3", "u₁=2, q=2"],
+    "correctAnswer": "u₁=2, q=3"
+  },
+  {
+    "question": "Dãy số (uₙ) với uₙ = (n+1)! / n! là dãy số nào?",
+    "options": ["uₙ = n+1", "uₙ = n", "uₙ = 1/n", "uₙ = (n+1)"],
+    "correctAnswer": "uₙ = n+1"
+  },
+  {
+    "question": "Một cái tháp có 11 tầng. Diện tích mặt sàn tầng 2 bằng nửa diện tích mặt sàn tầng 1, diện tích tầng 3 bằng nửa tầng 2,... Diện tích tầng 1 là 12288 m². Diện tích tầng 11 là:",
+    "options": ["12 m²", "24 m²", "6 m²", "1 m²"],
+    "correctAnswer": "12 m²"
+  },
+  {
+    "question": "Tìm bốn số hạng liên tiếp của một cấp số cộng biết tổng của chúng bằng 20 và tổng các bình phương của chúng bằng 120.",
+    "options": ["2, 4, 6, 8", "1, 3, 5, 11", "1, 4, 7, 8", "3, 4, 6, 7"],
+    "correctAnswer": "2, 4, 6, 8"
+  },
+  {
+    "question": "Giá trị của x để 3 số sin(x), sin(x+π/3), sin(x+2π/3) lập thành cấp số nhân là:",
+    "options": ["Không tồn tại x", "x = kπ", "x = π/2 + kπ", "x = π/6 + kπ"],
+    "correctAnswer": "Không tồn tại x"
+  },
+  {
+    "question": "Cho dãy số uₙ = 1+2+...+n. Số hạng tổng quát của dãy số này là:",
+    "options": ["n(n+1)/2", "n²", "2ⁿ-1", "n!"],
+    "correctAnswer": "n(n+1)/2"
+  }
+]
+
