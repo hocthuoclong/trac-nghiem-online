@@ -1,0 +1,473 @@
+[
+  {
+    "question": "Hình nào sau đây được gọi là có trục đối xứng?",
+    "options": ["Hình mà có một đường thẳng chia nó thành hai phần mà khi 'gấp' theo đường thẳng đó thì hai phần chồng khít lên nhau.", "Hình có thể xoay 180 độ quanh một điểm mà không thay đổi.", "Hình có các cạnh bằng nhau.", "Hình có các góc bằng nhau."],
+    "correctAnswer": "Hình mà có một đường thẳng chia nó thành hai phần mà khi 'gấp' theo đường thẳng đó thì hai phần chồng khít lên nhau."
+  },
+  {
+    "question": "Đường thẳng chia hình thành hai phần bằng nhau mà chúng chồng khít lên nhau khi gấp được gọi là gì?",
+    "options": ["Trục đối xứng", "Tâm đối xứng", "Đường chéo", "Đường trung bình"],
+    "correctAnswer": "Trục đối xứng"
+  },
+  {
+    "question": "Hình nào sau đây có trục đối xứng?",
+    "options": ["Đoạn thẳng", "Hình bình hành không phải hình đặc biệt", "Tam giác thường", "Đường gấp khúc"],
+    "correctAnswer": "Đoạn thẳng"
+  },
+  {
+    "question": "Trục đối xứng của một đoạn thẳng là:",
+    "options": ["Đường trung trực của đoạn thẳng đó", "Chính đoạn thẳng đó", "Một đường thẳng song song với nó", "Một điểm"],
+    "correctAnswer": "Đường trung trực của đoạn thẳng đó"
+  },
+  {
+    "question": "Tam giác đều có bao nhiêu trục đối xứng?",
+    "options": ["3", "1", "0", "Vô số"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hình vuông có bao nhiêu trục đối xứng?",
+    "options": ["4", "2", "8", "Vô số"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hình chữ nhật (không phải hình vuông) có bao nhiêu trục đối xứng?",
+    "options": ["2", "4", "1", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hình nào sau đây được gọi là có tâm đối xứng?",
+    "options": ["Hình mà khi quay 180 độ quanh một điểm thì hình đó trùng với chính nó ở vị trí ban đầu.", "Hình có trục đối xứng.", "Hình có các cạnh bằng nhau.", "Hình có các góc bằng nhau."],
+    "correctAnswer": "Hình mà khi quay 180 độ quanh một điểm thì hình đó trùng với chính nó ở vị trí ban đầu."
+  },
+  {
+    "question": "Điểm mà khi quay hình 180 độ quanh nó ta được hình mới trùng khít với hình ban đầu được gọi là:",
+    "options": ["Tâm đối xứng", "Trục đối xứng", "Trọng tâm", "Trực tâm"],
+    "correctAnswer": "Tâm đối xứng"
+  },
+  {
+    "question": "Hình nào sau đây có tâm đối xứng?",
+    "options": ["Hình bình hành", "Tam giác đều", "Hình thang cân", "Tam giác cân"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Tâm đối xứng của hình bình hành là:",
+    "options": ["Giao điểm của hai đường chéo", "Một đỉnh bất kỳ", "Trung điểm của một cạnh", "Không có tâm đối xứng"],
+    "correctAnswer": "Giao điểm của hai đường chéo"
+  },
+  {
+    "question": "Chữ cái nào sau đây có trục đối xứng thẳng đứng?",
+    "options": ["A", "B", "C", "D"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Chữ cái nào sau đây có trục đối xứng nằm ngang?",
+    "options": ["E", "A", "M", "T"],
+    "correctAnswer": "E"
+  },
+  {
+    "question": "Chữ cái nào sau đây có cả trục đối xứng thẳng đứng và nằm ngang?",
+    "options": ["H", "A", "B", "K"],
+    "correctAnswer": "H"
+  },
+  {
+    "question": "Chữ cái nào sau đây có tâm đối xứng?",
+    "options": ["N", "A", "M", "K"],
+    "correctAnswer": "N"
+  },
+  {
+    "question": "Hình tam giác cân (không đều) có mấy trục đối xứng?",
+    "options": ["1", "0", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hình thoi (không phải hình vuông) có mấy trục đối xứng?",
+    "options": ["2", "4", "1", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tâm đối xứng của hình thoi là:",
+    "options": ["Giao điểm của hai đường chéo", "Một đỉnh bất kỳ", "Trung điểm một cạnh", "Không có"],
+    "correctAnswer": "Giao điểm của hai đường chéo"
+  },
+  {
+    "question": "Hình thang cân có mấy trục đối xứng?",
+    "options": ["1", "0", "2", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trục đối xứng của hình thang cân là:",
+    "options": ["Đường thẳng đi qua trung điểm hai đáy", "Đường chéo", "Cạnh bên", "Đáy lớn"],
+    "correctAnswer": "Đường thẳng đi qua trung điểm hai đáy"
+  },
+  {
+    "question": "Hình lục giác đều có bao nhiêu trục đối xứng?",
+    "options": ["6", "3", "12", "Vô số"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Hình lục giác đều có tâm đối xứng không?",
+    "options": ["Có, là tâm của nó", "Không", "Chỉ khi nó nội tiếp đường tròn", "Chỉ khi nó ngoại tiếp đường tròn"],
+    "correctAnswer": "Có, là tâm của nó"
+  },
+  {
+    "question": "Hình tròn có bao nhiêu trục đối xứng?",
+    "options": ["Vô số", "1", "2", "4"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Tâm đối xứng của hình tròn là:",
+    "options": ["Tâm của hình tròn", "Một điểm trên đường tròn", "Một điểm ngoài đường tròn", "Không có"],
+    "correctAnswer": "Tâm của hình tròn"
+  },
+  {
+    "question": "Trong các biển báo sau, biển báo nào có trục đối xứng?",
+    "options": ["Biển báo 'Cấm đi ngược chiều'", "Biển báo 'Cấm rẽ trái'", "Biển báo 'Tốc độ tối đa'", "Biển báo 'Đường một chiều'"],
+    "correctAnswer": "Biển báo 'Cấm đi ngược chiều'"
+  },
+  {
+    "question": "Trong các hình ảnh sau, hình ảnh nào có tâm đối xứng?",
+    "options": ["Mặt cắt của quả cam", "Một chiếc lá cây", "Một con bướm", "Một ngôi nhà"],
+    "correctAnswer": "Mặt cắt của quả cam"
+  },
+  {
+    "question": "Chữ cái 'S' có tính chất đối xứng nào?",
+    "options": ["Có tâm đối xứng", "Có trục đối xứng", "Vừa có tâm vừa có trục đối xứng", "Không có tính đối xứng"],
+    "correctAnswer": "Có tâm đối xứng"
+  },
+  {
+    "question": "Chữ cái 'O' có tính chất đối xứng nào?",
+    "options": ["Vừa có trục đối xứng, vừa có tâm đối xứng", "Chỉ có trục đối xứng", "Chỉ có tâm đối xứng", "Không có tính đối xứng"],
+    "correctAnswer": "Vừa có trục đối xứng, vừa có tâm đối xứng"
+  },
+  {
+    "question": "Hình bình hành có mấy trục đối xứng?",
+    "options": ["0", "1", "2", "4"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Hình nào sau đây vừa có trục đối xứng, vừa có tâm đối xứng?",
+    "options": ["Hình chữ nhật", "Hình thang cân", "Tam giác đều", "Tam giác cân"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Trục đối xứng của một góc là:",
+    "options": ["Tia phân giác của góc đó", "Một cạnh của góc", "Đỉnh của góc", "Không có"],
+    "correctAnswer": "Tia phân giác của góc đó"
+  },
+  {
+    "question": "Một hình có thể có nhiều trục đối xứng không?",
+    "options": ["Có", "Không", "Chỉ có 1", "Chỉ có 2"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một hình có thể có nhiều tâm đối xứng không?",
+    "options": ["Không, chỉ có 1 tâm đối xứng duy nhất (nếu có)", "Có", "Có 2", "Vô số"],
+    "correctAnswer": "Không, chỉ có 1 tâm đối xứng duy nhất (nếu có)"
+  },
+  {
+    "question": "Trong các hình sau, hình nào không có trục đối xứng?",
+    "options": ["Hình bình hành (không phải hình đặc biệt)", "Hình thoi", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình bình hành (không phải hình đặc biệt)"
+  },
+  {
+    "question": "Trong các hình sau, hình nào không có tâm đối xứng?",
+    "options": ["Hình thang cân (không phải hình chữ nhật)", "Hình vuông", "Hình thoi", "Đoạn thẳng"],
+    "correctAnswer": "Hình thang cân (không phải hình chữ nhật)"
+  },
+  {
+    "question": "Số '8' có mấy trục đối xứng?",
+    "options": ["2", "1", "0", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Số '3' có mấy trục đối xứng?",
+    "options": ["1", "0", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Số '0' có tâm đối xứng không?",
+    "options": ["Có", "Không", "Chỉ có trục đối xứng", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình ảnh một bông tuyết có tính chất đối xứng nào?",
+    "options": ["Vừa có trục đối xứng, vừa có tâm đối xứng", "Chỉ có trục đối xứng", "Chỉ có tâm đối xứng", "Không có tính đối xứng"],
+    "correctAnswer": "Vừa có trục đối xứng, vừa có tâm đối xứng"
+  },
+  {
+    "question": "Hình ảnh con sao biển (5 cánh đều nhau) có mấy trục đối xứng?",
+    "options": ["5", "1", "10", "0"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một chiếc lá đối xứng qua:",
+    "options": ["Gân lá chính", "Cuống lá", "Mép lá", "Không có trục đối xứng"],
+    "correctAnswer": "Gân lá chính"
+  },
+  {
+    "question": "Trong kiến trúc, yếu tố đối xứng thường được sử dụng để tạo ra:",
+    "options": ["Sự cân đối, hài hòa", "Sự lộn xộn", "Sự phức tạp", "Sự ngẫu nhiên"],
+    "correctAnswer": "Sự cân đối, hài hòa"
+  },
+  {
+    "question": "Đường tròn có bao nhiêu tâm đối xứng?",
+    "options": ["1", "Vô số", "0", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trục đối xứng của hình chữ nhật là:",
+    "options": ["Đường thẳng đi qua trung điểm của hai cạnh đối", "Đường chéo", "Một cạnh bất kỳ", "Tất cả các đáp án trên"],
+    "correctAnswer": "Đường thẳng đi qua trung điểm của hai cạnh đối"
+  },
+  {
+    "question": "Tâm đối xứng của đoạn thẳng AB là:",
+    "options": ["Trung điểm của AB", "Điểm A", "Điểm B", "Không có"],
+    "correctAnswer": "Trung điểm của AB"
+  },
+  {
+    "question": "Chữ cái 'X' có mấy trục đối xứng?",
+    "options": ["2", "1", "4", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Chữ cái 'Z' có tính chất đối xứng nào?",
+    "options": ["Có tâm đối xứng", "Có trục đối xứng", "Vừa có tâm vừa có trục đối xứng", "Không có tính đối xứng"],
+    "correctAnswer": "Có tâm đối xứng"
+  },
+  {
+    "question": "Hình nào sau đây chỉ có tâm đối xứng mà không có trục đối xứng?",
+    "options": ["Hình bình hành (không phải hình đặc biệt)", "Hình thoi", "Hình chữ nhật", "Hình vuông"],
+    "correctAnswer": "Hình bình hành (không phải hình đặc biệt)"
+  },
+  {
+    "question": "Hình nào sau đây chỉ có trục đối xứng mà không có tâm đối xứng?",
+    "options": ["Tam giác cân (không đều)", "Đoạn thẳng", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Tam giác cân (không đều)"
+  },
+  {
+    "question": "Một hình có tâm đối xứng thì có đối xứng trục không?",
+    "options": ["Chưa chắc", "Luôn luôn có", "Không bao giờ có", "Chỉ khi là hình tròn"],
+    "correctAnswer": "Chưa chắc"
+  },
+  {
+    "question": "Một hình có trục đối xứng thì có tâm đối xứng không?",
+    "options": ["Chưa chắc", "Luôn luôn có", "Không bao giờ có", "Chỉ khi là hình vuông"],
+    "correctAnswer": "Chưa chắc"
+  },
+  {
+    "question": "Lấy điểm A' đối xứng với A qua đường thẳng d. Đoạn thẳng AA' có quan hệ gì với d?",
+    "options": ["d là đường trung trực của AA'", "d vuông góc với AA'", "d đi qua trung điểm của AA'", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Lấy điểm M' đối xứng với M qua tâm O. Mối quan hệ giữa O, M, M' là:",
+    "options": ["O là trung điểm của MM'", "M là trung điểm của OM'", "M' là trung điểm của OM", "Ba điểm tạo thành tam giác cân"],
+    "correctAnswer": "O là trung điểm của MM'"
+  },
+  {
+    "question": "Hình gồm hai đường thẳng cắt nhau có mấy trục đối xứng?",
+    "options": ["2", "1", "4", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hình gồm hai đường thẳng song song có mấy trục đối xứng?",
+    "options": ["1", "2", "Vô số", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hình gồm hai đường tròn bằng nhau và cắt nhau có mấy trục đối xứng?",
+    "options": ["2", "1", "4", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hình nào sau đây có vô số trục đối xứng?",
+    "options": ["Đường thẳng", "Đường tròn", "Cả A và B đều đúng", "Hình vuông"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tâm đối xứng của hình chữ nhật là:",
+    "options": ["Giao điểm hai đường chéo", "Trung điểm một cạnh", "Một đỉnh", "Không có"],
+    "correctAnswer": "Giao điểm hai đường chéo"
+  },
+  {
+    "question": "Hình nào sau đây có đúng 3 trục đối xứng?",
+    "options": ["Tam giác đều", "Hình vuông", "Hình thoi", "Lục giác đều"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Trong mặt phẳng tọa độ Oxy, trục đối xứng của parabol y = x² là:",
+    "options": ["Trục Oy", "Trục Ox", "Đường thẳng y=x", "Không có"],
+    "correctAnswer": "Trục Oy"
+  },
+  {
+    "question": "Biển báo 'Giao nhau với đường ưu tiên' (hình tam giác lộn ngược) có mấy trục đối xứng?",
+    "options": ["1", "3", "0", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Lá cờ Tổ quốc Việt Nam có tâm đối xứng không?",
+    "options": ["Có", "Không", "Chỉ khi không có ngôi sao", "Chỉ khi là cờ hình tròn"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Lá cờ Tổ quốc Việt Nam có trục đối xứng không?",
+    "options": ["Có, 5 trục", "Không", "Có, 1 trục", "Có, 2 trục"],
+    "correctAnswer": "Có, 5 trục"
+  },
+  {
+    "question": "Chữ cái 'P' có tính đối xứng nào?",
+    "options": ["Không có trục đối xứng và không có tâm đối xứng", "Có trục đối xứng", "Có tâm đối xứng", "Có cả hai"],
+    "correctAnswer": "Không có trục đối xứng và không có tâm đối xứng"
+  },
+  {
+    "question": "Hình trái tim thường được vẽ có mấy trục đối xứng?",
+    "options": ["1", "2", "0", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong các quân bài (cơ, rô, chuồn, bích), quân nào có cả trục đối xứng và tâm đối xứng?",
+    "options": ["Rô", "Cơ", "Chuồn", "Bích"],
+    "correctAnswer": "Rô"
+  },
+  {
+    "question": "Một hình thang vuông có trục đối xứng không?",
+    "options": ["Không, trừ khi nó là hình chữ nhật", "Có, 1 trục", "Có, 2 trục", "Luôn có"],
+    "correctAnswer": "Không, trừ khi nó là hình chữ nhật"
+  },
+  {
+    "question": "Tâm đối xứng của hình vuông là:",
+    "options": ["Giao điểm hai đường chéo", "Một đỉnh", "Trung điểm một cạnh", "Không có"],
+    "correctAnswer": "Giao điểm hai đường chéo"
+  },
+  {
+    "question": "Số '6' và số '9' có mối quan hệ đối xứng nào?",
+    "options": ["Đối xứng tâm", "Đối xứng trục", "Không đối xứng", "Vừa đối xứng tâm vừa đối xứng trục"],
+    "correctAnswer": "Đối xứng tâm"
+  },
+  {
+    "question": "Hình ảnh khuôn mặt người (nhìn chính diện) có tính đối xứng nào?",
+    "options": ["Đối xứng trục", "Đối xứng tâm", "Cả hai", "Không có"],
+    "correctAnswer": "Đối xứng trục"
+  },
+  {
+    "question": "Trong các hình tứ giác đã học, hình nào có nhiều trục đối xứng nhất?",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Một đường thẳng có phải là hình có tâm đối xứng không?",
+    "options": ["Có, mọi điểm trên đường thẳng đều là tâm đối xứng", "Không", "Chỉ có 1 tâm đối xứng", "Có 2 tâm đối xứng"],
+    "correctAnswer": "Có, mọi điểm trên đường thẳng đều là tâm đối xứng"
+  },
+  {
+    "question": "Nếu một hình có hai trục đối xứng vuông góc với nhau thì giao điểm của chúng là:",
+    "options": ["Tâm đối xứng của hình", "Một đỉnh của hình", "Không là gì đặc biệt", "Trục đối xứng thứ ba"],
+    "correctAnswer": "Tâm đối xứng của hình"
+  },
+  {
+    "question": "Chữ cái 'W' có mấy trục đối xứng?",
+    "options": ["1", "2", "0", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hình elip có mấy trục đối xứng?",
+    "options": ["2", "1", "4", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hình elip có tâm đối xứng không?",
+    "options": ["Có", "Không", "Chỉ khi nó là hình tròn", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một tam giác vuông có trục đối xứng khi nào?",
+    "options": ["Khi nó là tam giác vuông cân", "Luôn luôn có", "Không bao giờ có", "Chỉ khi có 1 góc 60°"],
+    "correctAnswer": "Khi nó là tam giác vuông cân"
+  },
+  {
+    "question": "Một tam giác có thể có tâm đối xứng không?",
+    "options": ["Không", "Có, khi nó là tam giác đều", "Có, khi nó là tam giác cân", "Có, khi nó là tam giác vuông"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Hình nào sau đây có đúng 2 trục đối xứng?",
+    "options": ["Hình chữ nhật (không phải hình vuông)", "Hình thoi (không phải hình vuông)", "Cả A và B đều đúng", "Hình vuông"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tâm đối xứng của lục giác đều là:",
+    "options": ["Giao điểm các đường chéo chính", "Tâm đường tròn ngoại tiếp", "Tâm đường tròn nội tiếp", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Số '1' có trục đối xứng không?",
+    "options": ["Không (nếu viết theo font thông thường)", "Có, 1 trục đứng", "Có, 1 trục ngang", "Có, 2 trục"],
+    "correctAnswer": "Không (nếu viết theo font thông thường)"
+  },
+  {
+    "question": "Số '2' có tâm đối xứng không?",
+    "options": ["Không", "Có", "Chỉ có trục đối xứng", "Không xác định"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Hình ảnh phản chiếu của bạn trong gương là một ví dụ về:",
+    "options": ["Đối xứng trục", "Đối xứng tâm", "Phép quay", "Phép tịnh tiến"],
+    "correctAnswer": "Đối xứng trục"
+  },
+  {
+    "question": "Cánh quạt trần khi quay là một ví dụ về:",
+    "options": ["Đối xứng tâm (đối xứng quay)", "Đối xứng trục", "Phép tịnh tiến", "Không có đối xứng"],
+    "correctAnswer": "Đối xứng tâm (đối xứng quay)"
+  },
+  {
+    "question": "Trục đối xứng của tam giác cân là:",
+    "options": ["Đường cao ứng với cạnh đáy", "Cạnh đáy", "Cạnh bên", "Không có"],
+    "correctAnswer": "Đường cao ứng với cạnh đáy"
+  },
+  {
+    "question": "Trong các hình sau, hình nào có vô số tâm đối xứng?",
+    "options": ["Đường thẳng", "Đường tròn", "Hình vuông", "Không có hình nào"],
+    "correctAnswer": "Đường thẳng"
+  },
+  {
+    "question": "Một hình gồm hai đường thẳng vuông góc có mấy trục đối xứng?",
+    "options": ["4", "2", "1", "0"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một hình gồm hai đường tròn đồng tâm có mấy trục đối xứng?",
+    "options": ["Vô số", "1", "2", "0"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Một hình gồm hai đường tròn đồng tâm có tâm đối xứng không?",
+    "options": ["Có, là tâm chung của chúng", "Không", "Có 2 tâm", "Vô số tâm"],
+    "correctAnswer": "Có, là tâm chung của chúng"
+  },
+  {
+    "question": "Chữ cái 'M' có mấy trục đối xứng?",
+    "options": ["1", "2", "0", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Chữ cái 'H' có mấy tâm đối xứng?",
+    "options": ["1", "2", "0", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Nếu một hình có đối xứng trục thì ảnh của mỗi điểm trên hình qua trục đối xứng đó:",
+    "options": ["Cũng thuộc hình đó", "Nằm ngoài hình đó", "Trùng với điểm ban đầu", "Không xác định"],
+    "correctAnswer": "Cũng thuộc hình đó"
+  },
+  {
+    "question": "Nếu một hình có đối xứng tâm thì ảnh của mỗi điểm trên hình qua tâm đối xứng đó:",
+    "options": ["Cũng thuộc hình đó", "Nằm ngoài hình đó", "Trùng với điểm ban đầu", "Không xác định"],
+    "correctAnswer": "Cũng thuộc hình đó"
+  },
+  {
+    "question": "Hình nào sau đây có cả trục đối xứng và tâm đối xứng?",
+    "options": ["Hình thoi", "Tam giác cân", "Hình thang cân", "Tam giác đều"],
+    "correctAnswer": "Hình thoi"
+  }
+]
+
