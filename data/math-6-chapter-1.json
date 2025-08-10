@@ -1,0 +1,458 @@
+[
+  {
+    "question": "Cho tập hợp A = {1; 2; 3}. Cách viết nào sau đây là đúng?",
+    "options": ["1 ∈ A", "4 ∈ A", "{1} ∈ A", "A ⊂ {1; 2}"],
+    "correctAnswer": "1 ∈ A"
+  },
+  {
+    "question": "Tập hợp các chữ cái trong từ 'HỌC SINH' là:",
+    "options": ["{H, O, C, S, I, N}", "{H, O, C, S, I, N, H}", "{h, o, c, s, i, n}", "H, O, C, S, I, N"],
+    "correctAnswer": "{H, O, C, S, I, N}"
+  },
+  {
+    "question": "Cho tập hợp M = {x ∈ N | 2 < x ≤ 7}. Viết tập hợp M bằng cách liệt kê các phần tử.",
+    "options": ["M = {3; 4; 5; 6; 7}", "M = {2; 3; 4; 5; 6; 7}", "M = {3; 4; 5; 6}", "M = {2; 3; 4; 5; 6}"],
+    "correctAnswer": "M = {3; 4; 5; 6; 7}"
+  },
+  {
+    "question": "Số tự nhiên liền sau của số 2025 là:",
+    "options": ["2026", "2024", "2025", "2027"],
+    "correctAnswer": "2026"
+  },
+  {
+    "question": "Trong số 3845, chữ số 8 có giá trị là:",
+    "options": ["800", "8", "80", "8000"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Số La Mã XIX biểu diễn số tự nhiên nào?",
+    "options": ["19", "21", "11", "9"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "So sánh hai số 999 và 1000.",
+    "options": ["999 < 1000", "999 > 1000", "999 = 1000", "Không so sánh được"],
+    "correctAnswer": "999 < 1000"
+  },
+  {
+    "question": "Kết quả của phép cộng 125 + 347 là:",
+    "options": ["472", "462", "471", "461"],
+    "correctAnswer": "472"
+  },
+  {
+    "question": "Kết quả của phép trừ 502 - 135 là:",
+    "options": ["367", "377", "467", "477"],
+    "correctAnswer": "367"
+  },
+  {
+    "question": "Tìm x, biết x + 50 = 120.",
+    "options": ["x = 70", "x = 170", "x = 60", "x = 50"],
+    "correctAnswer": "x = 70"
+  },
+  {
+    "question": "Kết quả của phép nhân 25 . 12 là:",
+    "options": ["300", "250", "275", "325"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Kết quả của phép chia 144 : 12 là:",
+    "options": ["12", "11", "13", "14"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Trong phép chia có dư, số dư phải:",
+    "options": ["Nhỏ hơn số chia", "Lớn hơn số chia", "Bằng số chia", "Bằng 0"],
+    "correctAnswer": "Nhỏ hơn số chia"
+  },
+  {
+    "question": "Kết quả của phép tính 2³ là:",
+    "options": ["8", "6", "9", "23"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Viết kết quả phép tính 5 . 5 . 5 . 5 dưới dạng một lũy thừa:",
+    "options": ["5⁴", "5.4", "4⁵", "5⁵"],
+    "correctAnswer": "5⁴"
+  },
+  {
+    "question": "Kết quả của phép tính 3⁴ : 3² là:",
+    "options": ["3²", "3⁶", "1²", "3⁸"],
+    "correctAnswer": "3²"
+  },
+  {
+    "question": "Thứ tự thực hiện phép tính trong biểu thức không có dấu ngoặc là:",
+    "options": ["Lũy thừa → Nhân và chia → Cộng và trừ", "Cộng và trừ → Nhân và chia → Lũy thừa", "Nhân và chia → Lũy thừa → Cộng và trừ", "Từ trái sang phải"],
+    "correctAnswer": "Lũy thừa → Nhân và chia → Cộng và trừ"
+  },
+  {
+    "question": "Kết quả của phép tính 20 - 2 . 3² là:",
+    "options": ["2", "162", "14", "18"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Kết quả của phép tính 5 + (12 - 7) . 2 là:",
+    "options": ["15", "19", "24", "10"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Tập hợp N* là tập hợp:",
+    "options": ["Các số tự nhiên khác 0", "Các số tự nhiên", "Các số nguyên", "Các số chẵn"],
+    "correctAnswer": "Các số tự nhiên khác 0"
+  },
+  {
+    "question": "Số phần tử của tập hợp B = {x ∈ N | 10 ≤ x < 15} là:",
+    "options": ["5", "4", "6", "15"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số 245 được viết trong hệ La Mã là:",
+    "options": ["CCXLV", "CCXXXXV", "CCVL", "CDXLV"],
+    "correctAnswer": "CCXLV"
+  },
+  {
+    "question": "Số tự nhiên nhỏ nhất có ba chữ số khác nhau là:",
+    "options": ["102", "100", "123", "987"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Áp dụng tính chất a(b+c) = ab + ac, tính nhanh 25 . 101.",
+    "options": ["2525", "2500", "2625", "25101"],
+    "correctAnswer": "2525"
+  },
+  {
+    "question": "Tìm x, biết 150 - x = 80.",
+    "options": ["x = 70", "x = 230", "x = 80", "x = 150"],
+    "correctAnswer": "x = 70"
+  },
+  {
+    "question": "Một cửa hàng có 500kg gạo. Buổi sáng bán được 150kg, buổi chiều bán được 200kg. Cửa hàng còn lại bao nhiêu kg gạo?",
+    "options": ["150kg", "350kg", "50kg", "250kg"],
+    "correctAnswer": "150kg"
+  },
+  {
+    "question": "Thực hiện phép chia 125 cho 4. Số dư là:",
+    "options": ["1", "0", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính 7² . 7³ là:",
+    "options": ["7⁵", "7⁶", "49⁵", "14⁵"],
+    "correctAnswer": "7⁵"
+  },
+  {
+    "question": "So sánh 2³ và 3².",
+    "options": ["2³ < 3²", "2³ > 3²", "2³ = 3²", "Không so sánh được"],
+    "correctAnswer": "2³ < 3²"
+  },
+  {
+    "question": "Kết quả của phép tính 10⁰ là:",
+    "options": ["1", "10", "0", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giá trị của biểu thức 100 : {2 . [52 - (35 - 8)]} là:",
+    "options": ["2", "1", "4", "5"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tìm x, biết 5 . (x - 3) = 15.",
+    "options": ["x = 6", "x = 0", "x = 4", "x = 18"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Tập hợp A các số tự nhiên không vượt quá 5 được viết là:",
+    "options": ["A = {0; 1; 2; 3; 4; 5}", "A = {1; 2; 3; 4; 5}", "A = {0; 1; 2; 3; 4}", "A = {1; 2; 3; 4}"],
+    "correctAnswer": "A = {0; 1; 2; 3; 4; 5}"
+  },
+  {
+    "question": "Số liền trước của số tự nhiên a (a > 0) là:",
+    "options": ["a - 1", "a + 1", "a", "0"],
+    "correctAnswer": "a - 1"
+  },
+  {
+    "question": "Số 4000 được viết dưới dạng tích của một số với một lũy thừa của 10 là:",
+    "options": ["4 . 10³", "40 . 10²", "400 . 10", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong các số sau, số nào nhỏ nhất: 2023, 2032, 2302, 2203?",
+    "options": ["2023", "2032", "2302", "2203"],
+    "correctAnswer": "2023"
+  },
+  {
+    "question": "Tính nhanh: 45 + 78 + 55 + 22",
+    "options": ["200", "190", "210", "180"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Tìm x, biết 2x - 10 = 20.",
+    "options": ["x = 15", "x = 5", "x = 20", "x = 10"],
+    "correctAnswer": "x = 15"
+  },
+  {
+    "question": "Tính nhanh: 4 . 125 . 25",
+    "options": ["12500", "10000", "5000", "1250"],
+    "correctAnswer": "12500"
+  },
+  {
+    "question": "Một đoàn tàu có 12 toa, mỗi toa có 10 khoang, mỗi khoang có 6 chỗ ngồi. Đoàn tàu đó chở được bao nhiêu khách?",
+    "options": ["720", "120", "600", "620"],
+    "correctAnswer": "720"
+  },
+  {
+    "question": "Viết số 16 dưới dạng lũy thừa của 2.",
+    "options": ["2⁴", "2³", "2⁵", "4²"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 10⁶ : 1000 là:",
+    "options": ["10³", "1000", "10⁹", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tìm số tự nhiên x, biết 2ˣ = 32.",
+    "options": ["x = 5", "x = 4", "x = 6", "x = 16"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Giá trị của biểu thức 2 . [ (195 + 35 : 7) : 8 + 195] - 400 là:",
+    "options": ["40", "50", "60", "30"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Cho A={a, b, c} và B={b, c, d}. Tập hợp A ∩ B (giao của A và B) là:",
+    "options": ["{b, c}", "{a, d}", "{a, b, c, d}", "Ø"],
+    "correctAnswer": "{b, c}"
+  },
+  {
+    "question": "Số tự nhiên lớn nhất có 4 chữ số là:",
+    "options": ["9999", "1000", "9876", "9990"],
+    "correctAnswer": "9999"
+  },
+  {
+    "question": "So sánh 2024.2026 và 2025².",
+    "options": ["2024.2026 < 2025²", "2024.2026 > 2025²", "2024.2026 = 2025²", "Không so sánh được"],
+    "correctAnswer": "2024.2026 < 2025²"
+  },
+  {
+    "question": "Kết quả của phép tính 1 + 2 + 3 + ... + 100 là:",
+    "options": ["5050", "5000", "10100", "4950"],
+    "correctAnswer": "5050"
+  },
+  {
+    "question": "Tìm x, biết (x - 25) - 130 = 0.",
+    "options": ["x = 155", "x = 105", "x = -105", "x = -155"],
+    "correctAnswer": "x = 155"
+  },
+  {
+    "question": "Tính chất phân phối của phép nhân đối với phép cộng là:",
+    "options": ["a(b+c) = ab + ac", "a+b = b+a", "a(bc) = (ab)c", "a+0 = a"],
+    "correctAnswer": "a(b+c) = ab + ac"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có chiều dài 20m, chiều rộng 15m. Chu vi mảnh đất là:",
+    "options": ["70m", "35m", "300m", "300m²"],
+    "correctAnswer": "70m"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có chiều dài 20m, chiều rộng 15m. Diện tích mảnh đất là:",
+    "options": ["300m²", "70m", "300m", "70m²"],
+    "correctAnswer": "300m²"
+  },
+  {
+    "question": "Viết gọn tích 10 . 100 . 1000 dưới dạng một lũy thừa:",
+    "options": ["10⁶", "10⁵", "100³", "1000²"],
+    "correctAnswer": "10⁶"
+  },
+  {
+    "question": "So sánh 1¹⁰⁰ và 100¹.",
+    "options": ["1¹⁰⁰ < 100¹", "1¹⁰⁰ > 100¹", "1¹⁰⁰ = 100¹", "Không so sánh được"],
+    "correctAnswer": "1¹⁰⁰ < 100¹"
+  },
+  {
+    "question": "Tìm x, biết 3ˣ⁻¹ = 27.",
+    "options": ["x = 4", "x = 3", "x = 2", "x = 9"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Giá trị của biểu thức 3 . { 5 . [ (5² + 2³) : 11 ] - 16 } + 2025 là:",
+    "options": ["2016", "2025", "2019", "2022"],
+    "correctAnswer": "2016"
+  },
+  {
+    "question": "Tập hợp rỗng được kí hiệu là:",
+    "options": ["Ø", "{}", "0", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Cho tập hợp P = {x | x là số tự nhiên chẵn, 10 < x < 20}. Số phần tử của P là:",
+    "options": ["4", "5", "9", "10"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số 1999 được viết trong hệ La Mã là:",
+    "options": ["MCMXCIX", "MDCCCCLXXXXIX", "IM", "Không viết được"],
+    "correctAnswer": "MCMXCIX"
+  },
+  {
+    "question": "Số liền sau của số tự nhiên lớn nhất có 2 chữ số là:",
+    "options": ["100", "99", "98", "101"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Kết quả của phép tính 237 + 86 + 163 + 214 là:",
+    "options": ["700", "600", "690", "710"],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Tìm x, biết 70 - 5(x-3) = 45.",
+    "options": ["x = 8", "x = 5", "x = 20", "x = 3"],
+    "correctAnswer": "x = 8"
+  },
+  {
+    "question": "Kết quả của phép nhân 125 . 16 là:",
+    "options": ["2000", "1000", "1500", "2500"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Một lớp học có 32 học sinh. Cô giáo muốn chia đều thành các nhóm để thảo luận. Số nhóm có thể là:",
+    "options": ["4", "3", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Kết quả của phép tính 4⁵ . 4³ : 4² là:",
+    "options": ["4⁶", "4¹⁰", "4⁴", "4⁵"],
+    "correctAnswer": "4⁶"
+  },
+  {
+    "question": "So sánh 5³⁰⁰ và 3⁵⁰⁰.",
+    "options": ["5³⁰⁰ < 3⁵⁰⁰", "5³⁰⁰ > 3⁵⁰⁰", "5³⁰⁰ = 3⁵⁰⁰", "Không so sánh được"],
+    "correctAnswer": "5³⁰⁰ < 3⁵⁰⁰"
+  },
+  {
+    "question": "Tìm x, biết (2x - 1)³ = 125.",
+    "options": ["x = 3", "x = 2", "x = 4", "x = 63"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Giá trị của biểu thức 24 . 5 - [131 - (13 - 4)²] là:",
+    "options": ["70", "120", "50", "80"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Cho A là tập hợp các số tự nhiên chia hết cho 3 và nhỏ hơn 10. A = ?",
+    "options": ["{0; 3; 6; 9}", "{3; 6; 9}", "{0; 3; 6}", "{3; 6}"],
+    "correctAnswer": "{0; 3; 6; 9}"
+  },
+  {
+    "question": "Số nhỏ nhất có 4 chữ số khác nhau mà tổng các chữ số bằng 10 là:",
+    "options": ["1027", "1234", "1036", "2017"],
+    "correctAnswer": "1027"
+  },
+  {
+    "question": "Điền dấu thích hợp vào chỗ trống: 1a + 2b + 3c ... a1 + b2 + c3 (a,b,c là chữ số)",
+    "options": ["Không so sánh được", "<", ">", "="],
+    "correctAnswer": "Không so sánh được"
+  },
+  {
+    "question": "Kết quả của phép tính 99 - 97 + 95 - 93 + ... + 3 - 1 là:",
+    "options": ["50", "100", "49", "51"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Tìm x, biết 12 + (5 + x) = 20.",
+    "options": ["x = 3", "x = 13", "x = 7", "x = 37"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Tính chất kết hợp của phép nhân được viết là:",
+    "options": ["(ab)c = a(bc)", "ab = ba", "a(b+c) = ab+ac", "a.1 = a"],
+    "correctAnswer": "(ab)c = a(bc)"
+  },
+  {
+    "question": "Một sân vận động hình chữ nhật có chu vi 400m, chiều dài hơn chiều rộng 40m. Diện tích sân vận động là:",
+    "options": ["9600 m²", "8000 m²", "10000 m²", "4000 m²"],
+    "correctAnswer": "9600 m²"
+  },
+  {
+    "question": "Số tự nhiên n thỏa mãn 2ⁿ = 1 là:",
+    "options": ["n = 0", "n = 1", "n = 2", "Không có n"],
+    "correctAnswer": "n = 0"
+  },
+  {
+    "question": "Kết quả của phép tính (2³)² là:",
+    "options": ["2⁶", "2⁵", "2⁹", "4³"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "So sánh 27⁵ và 243³.",
+    "options": ["27⁵ = 243³", "27⁵ > 243³", "27⁵ < 243³", "Không so sánh được"],
+    "correctAnswer": "27⁵ = 243³"
+  },
+  {
+    "question": "Tìm x, biết 5ˣ⁺² = 625.",
+    "options": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Giá trị của biểu thức 12 : { 390 : [500 - (125 + 35 . 7)] } là:",
+    "options": ["4", "3", "1", "12"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tập hợp con của A = {1, 2} là:",
+    "options": ["Ø, {1}, {2}, {1, 2}", "{1}, {2}", "{1, 2}", "Ø"],
+    "correctAnswer": "Ø, {1}, {2}, {1, 2}"
+  },
+  {
+    "question": "Số 20 trong hệ La Mã là:",
+    "options": ["XX", "XVV", "IIX", "VV"],
+    "correctAnswer": "XX"
+  },
+  {
+    "question": "Điền số vào chỗ trống: 1; 4; 9; 16; ...; 36",
+    "options": ["25", "20", "30", "32"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Tổng của số tự nhiên chẵn lớn nhất có 2 chữ số và số tự nhiên lẻ nhỏ nhất có 3 chữ số là:",
+    "options": ["199", "197", "200", "198"],
+    "correctAnswer": "199"
+  },
+  {
+    "question": "Tìm x, biết 200 - (2x + 6) = 4³",
+    "options": ["x = 65", "x = 136", "x = 71", "x = 68"],
+    "correctAnswer": "x = 65"
+  },
+  {
+    "question": "Tích 34 . 35 . 36 . 37 . 38 có chữ số tận cùng là:",
+    "options": ["0", "5", "4", "6"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một phép chia có số bị chia là 100, số dư là 7. Số chia và thương lần lượt có thể là:",
+    "options": ["13 và 7", "10 và 3", "9 và 10", "8 và 11"],
+    "correctAnswer": "13 và 7"
+  },
+  {
+    "question": "Kết quả của phép tính 11² là:",
+    "options": ["121", "22", "111", "112"],
+    "correctAnswer": "121"
+  },
+  {
+    "question": "So sánh 2¹⁰⁰ và 10²⁰.",
+    "options": ["2¹⁰⁰ > 10²⁰", "2¹⁰⁰ < 10²⁰", "2¹⁰⁰ = 10²⁰", "Không so sánh được"],
+    "correctAnswer": "2¹⁰⁰ > 10²⁰"
+  },
+  {
+    "question": "Tìm x, biết 2 . 3ˣ = 162.",
+    "options": ["x = 4", "x = 3", "x = 5", "x = 81"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Kết quả của phép tính 5 . 4² - 18 : 3² là:",
+    "options": ["78", "18", "80", "72"],
+    "correctAnswer": "78"
+  }
+]
+
