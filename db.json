@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Căn bậc hai và căn bậc ba",
                   "file": "./data/math-9-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Hệ thức lượng trong tam giác vuông",
+                  "file": "./data/math-9-chapter-4.json"
                 }
               ]
             }
