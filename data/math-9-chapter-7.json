@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Tần số của một giá trị trong mẫu số liệu là:",
+    "options": ["Số lần xuất hiện của giá trị đó", "Giá trị lớn nhất", "Giá trị nhỏ nhất", "Tổng các giá trị"],
+    "correctAnswer": "Số lần xuất hiện của giá trị đó"
+  },
+  {
+    "question": "Tần số tương đối của một giá trị được tính bằng công thức:",
+    "options": ["(Tần số / Cỡ mẫu) * 100%", "Tần số / Cỡ mẫu", "Cỡ mẫu / Tần số", "Tần số * Cỡ mẫu"],
+    "correctAnswer": "(Tần số / Cỡ mẫu) * 100%"
+  },
+  {
+    "question": "Tổng tất cả các tần số trong bảng tần số bằng:",
+    "options": ["Cỡ mẫu (N)", "1", "100", "Số các giá trị khác nhau"],
+    "correctAnswer": "Cỡ mẫu (N)"
+  },
+  {
+    "question": "Tổng tất cả các tần số tương đối trong bảng tần số tương đối bằng:",
+    "options": ["100%", "1", "Cỡ mẫu (N)", "Số các giá trị khác nhau"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 2, 2, 3, 3, 3, 4. Tần số của giá trị 3 là:",
+    "options": ["3", "2", "1", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, góc ở tâm của một hình quạt tương ứng với một giá trị được tính bằng:",
+    "options": ["Tần số tương đối * 360°", "Tần số * 360°", "Tần số tương đối * 180°", "Tần số / 360°"],
+    "correctAnswer": "Tần số tương đối * 360°"
+  },
+  {
+    "question": "Biểu đồ nào thường được sử dụng để biểu diễn bảng tần số của mẫu số liệu định tính?",
+    "options": ["Biểu đồ cột", "Biểu đồ đoạn thẳng", "Biểu đồ phân tán", "Biểu đồ Venn"],
+    "correctAnswer": "Biểu đồ cột"
+  },
+  {
+    "question": "Một lớp có 40 học sinh. Trong đó có 10 học sinh giỏi. Tần số tương đối của học sinh giỏi là:",
+    "options": ["25%", "10%", "40%", "0.25%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Cho bảng tần số. Giá trị có tần số lớn nhất được gọi là:",
+    "options": ["Mốt", "Số trung bình", "Số trung vị", "Khoảng biến thiên"],
+    "correctAnswer": "Mốt"
+  },
+  {
+    "question": "Mục đích của việc lập bảng tần số là:",
+    "options": ["Tổ chức và tóm tắt dữ liệu một cách gọn gàng", "Tìm giá trị lớn nhất", "Tính toán sai số", "Vẽ đồ thị hàm số"],
+    "correctAnswer": "Tổ chức và tóm tắt dữ liệu một cách gọn gàng"
+  },
+  {
+    "question": "Cỡ mẫu (N) của mẫu số liệu: 5, 6, 6, 7, 7, 7, 8 là:",
+    "options": ["7", "4", "8", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Trong một cuộc điều tra về màu sắc yêu thích, màu xanh được 15 người chọn trong tổng số 50 người. Tần số tương đối của màu xanh là:",
+    "options": ["30%", "15%", "50%", "0.3%"],
+    "correctAnswer": "30%"
+  },
+  {
+    "question": "Trong biểu đồ cột, chiều cao của mỗi cột biểu diễn:",
+    "options": ["Tần số của giá trị tương ứng", "Giá trị của dữ liệu", "Cỡ mẫu", "Tần số tương đối"],
+    "correctAnswer": "Tần số của giá trị tương ứng"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn thích hợp để biểu diễn:",
+    "options": ["Tỉ lệ, cơ cấu của các phần trong một tổng thể", "Sự thay đổi của dữ liệu theo thời gian", "Mối quan hệ giữa hai biến", "Tần số của các giá trị rời rạc"],
+    "correctAnswer": "Tỉ lệ, cơ cấu của các phần trong một tổng thể"
+  },
+  {
+    "question": "Cho bảng tần số ghép nhóm. Tần số của nhóm [10; 20) là 8. Điều này có nghĩa là:",
+    "options": ["Có 8 giá trị trong mẫu lớn hơn hoặc bằng 10 và nhỏ hơn 20", "Giá trị 8 xuất hiện 10 lần", "Giá trị 10 xuất hiện 8 lần", "Có 8 giá trị bằng 15"],
+    "correctAnswer": "Có 8 giá trị trong mẫu lớn hơn hoặc bằng 10 và nhỏ hơn 20"
+  },
+  {
+    "question": "Một mẫu số liệu có 20 giá trị. Giá trị 'A' có tần số là 5. Tần số tương đối của 'A' là:",
+    "options": ["25%", "5%", "20%", "0.25%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Trong biểu đồ tần số tương đối hình cột, tổng chiều cao của tất cả các cột (tính theo đơn vị %) là:",
+    "options": ["100%", "Cỡ mẫu N", "1", "Không xác định"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm được sử dụng khi:",
+    "options": ["Dữ liệu có nhiều giá trị khác nhau và là số liệu liên tục", "Dữ liệu có ít giá trị", "Dữ liệu là định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Dữ liệu có nhiều giá trị khác nhau và là số liệu liên tục"
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt tròn, hình quạt ứng với tần số tương đối 50% sẽ có góc ở tâm là:",
+    "options": ["180°", "90°", "360°", "50°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Dấu hiệu điều tra trong thống kê là:",
+    "options": ["Vấn đề hay hiện tượng mà người điều tra quan tâm", "Tất cả các kết quả thu được", "Một giá trị cụ thể", "Số lần lặp lại"],
+    "correctAnswer": "Vấn đề hay hiện tượng mà người điều tra quan tâm"
+  },
+  {
+    "question": "Cho mẫu số liệu về điểm thi: 5, 6, 7, 7, 8, 8, 8, 9, 10. Tần số của điểm 8 là:",
+    "options": ["3", "8", "2", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho mẫu số liệu về điểm thi: 5, 6, 7, 7, 8, 8, 8, 9, 10. Cỡ mẫu là:",
+    "options": ["9", "10", "8", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Cho mẫu số liệu về điểm thi: 5, 6, 7, 7, 8, 8, 8, 9, 10. Tần số tương đối của điểm 7 là:",
+    "options": ["22.2%", "2/9", "Cả A và B", "7/9"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Để biểu diễn sự thay đổi nhiệt độ trong một ngày, ta nên dùng biểu đồ nào?",
+    "options": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột", "Bảng tần số"],
+    "correctAnswer": "Biểu đồ đoạn thẳng"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có các nhóm [0;5), [5;10), [10;15). Một giá trị 10 sẽ thuộc nhóm nào?",
+    "options": ["[10; 15)", "[5; 10)", "Cả hai nhóm", "Không thuộc nhóm nào"],
+    "correctAnswer": "[10; 15)"
+  },
+  {
+    "question": "Một cửa hàng thống kê số lượng áo bán được theo size: S (20), M (50), L (30). Tổng số áo bán được là 100. Tần số tương đối của size M là:",
+    "options": ["50%", "0.5", "Cả A và B", "20%"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong biểu đồ cột ghép, ta có thể so sánh:",
+    "options": ["Tần số của cùng một giá trị qua các mẫu khác nhau", "Tần số của các giá trị khác nhau trong cùng một mẫu", "Cả A và B", "Chỉ tần số tương đối"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Độ rộng của nhóm [a; b) là:",
+    "options": ["b - a", "a + b", "(a+b)/2", "a"],
+    "correctAnswer": "b - a"
+  },
+  {
+    "question": "Một cuộc thăm dò ý kiến 200 người về một sản phẩm, có 120 người thích. Tần số tương đối của những người thích sản phẩm là:",
+    "options": ["60%", "120%", "200%", "0.6%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, tổng các góc ở tâm của tất cả các hình quạt là:",
+    "options": ["360°", "180°", "100°", "Tùy vào cỡ mẫu"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Giá trị đại diện của nhóm [a; b) là:",
+    "options": ["(a+b)/2", "a", "b", "b-a"],
+    "correctAnswer": "(a+b)/2"
+  },
+  {
+    "question": "Một mẫu số liệu có 50 giá trị. Một giá trị có tần số tương đối là 10%. Tần số của giá trị đó là:",
+    "options": ["5", "10", "0.1", "50"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Biểu đồ tần số hình cột được sử dụng cho:",
+    "options": ["Mẫu số liệu rời rạc", "Mẫu số liệu ghép nhóm", "Cả A và B", "Dữ liệu định tính"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho bảng tần số ghép nhóm. Tần số tích lũy của một nhóm là:",
+    "options": ["Tổng tần số của nhóm đó và các nhóm trước nó", "Tần số của nhóm đó", "Tần số tương đối của nhóm đó", "Tổng các tần số"],
+    "correctAnswer": "Tổng tần số của nhóm đó và các nhóm trước nó"
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt, hình quạt ứng với giá trị A có góc ở tâm là 72°. Tần số tương đối của A là:",
+    "options": ["20%", "72%", "36%", "10%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Dữ liệu về 'số học sinh trong mỗi lớp' của một trường là:",
+    "options": ["Số liệu định lượng rời rạc", "Số liệu định lượng liên tục", "Số liệu định tính", "Số liệu không có thứ tự"],
+    "correctAnswer": "Số liệu định lượng rời rạc"
+  },
+  {
+    "question": "Dữ liệu về 'chiều cao' của học sinh trong một lớp là:",
+    "options": ["Số liệu định lượng liên tục", "Số liệu định lượng rời rạc", "Số liệu định tính", "Số liệu không có thứ tự"],
+    "correctAnswer": "Số liệu định lượng liên tục"
+  },
+  {
+    "question": "Bảng tần số tương đối cung cấp thông tin về:",
+    "options": ["Tỉ lệ phần trăm của mỗi giá trị", "Số lần xuất hiện của mỗi giá trị", "Giá trị lớn nhất", "Giá trị nhỏ nhất"],
+    "correctAnswer": "Tỉ lệ phần trăm của mỗi giá trị"
+  },
+  {
+    "question": "Một mẫu số liệu có 4 giá trị khác nhau. Bảng tần số của mẫu này sẽ có mấy dòng (không kể dòng tổng)?",
+    "options": ["4", "5", "3", "Tùy vào cỡ mẫu"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong biểu đồ đoạn thẳng, trục hoành thường biểu diễn:",
+    "options": ["Thời gian hoặc các giá trị của dấu hiệu", "Tần số", "Tần số tương đối", "Cỡ mẫu"],
+    "correctAnswer": "Thời gian hoặc các giá trị của dấu hiệu"
+  },
+  {
+    "question": "Trong biểu đồ đoạn thẳng, trục tung thường biểu diễn:",
+    "options": ["Tần số hoặc tần số tương đối", "Giá trị của dấu hiệu", "Cỡ mẫu", "Thời gian"],
+    "correctAnswer": "Tần số hoặc tần số tương đối"
+  },
+  {
+    "question": "Một mẫu số liệu có cỡ mẫu N=25. Một giá trị có tần số là 10. Tần số tương đối là:",
+    "options": ["40%", "10%", "25%", "2.5%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [50; 60) với tần số 12. Giá trị đại diện của nhóm này là:",
+    "options": ["55", "50", "60", "10"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Để so sánh sự phân bố của hai mẫu số liệu có kích thước khác nhau, ta nên dùng:",
+    "options": ["Bảng tần số tương đối", "Bảng tần số", "Chỉ cỡ mẫu", "Mốt"],
+    "correctAnswer": "Bảng tần số tương đối"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, diện tích của mỗi hình quạt tỉ lệ với:",
+    "options": ["Tần số của giá trị tương ứng", "Giá trị của dữ liệu", "Cỡ mẫu", "Bán kính"],
+    "correctAnswer": "Tần số của giá trị tương ứng"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có các nhóm [150;155), [155;160), [160;165). Độ rộng của mỗi nhóm là:",
+    "options": ["5", "150", "165", "10"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một mẫu số liệu có 5 giá trị: 10, 20, 30, 40, 50. Tần số của giá trị 30 là:",
+    "options": ["1", "30", "5", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một mẫu số liệu có 5 giá trị: 10, 20, 30, 40, 50. Tần số tương đối của giá trị 30 là:",
+    "options": ["20%", "1/5", "Cả A và B", "30%"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một biểu đồ cột có các cột càng cao thì:",
+    "options": ["Tần số của giá trị đó càng lớn", "Giá trị đó càng lớn", "Tần số đó càng nhỏ", "Giá trị đó càng nhỏ"],
+    "correctAnswer": "Tần số của giá trị đó càng lớn"
+  },
+  {
+    "question": "Một mẫu số liệu có 100 giá trị. Một giá trị có tần số tương đối là 15%. Tần số của giá trị đó là:",
+    "options": ["15", "0.15", "100", "1.5"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Dữ liệu về 'loại phim yêu thích' (hành động, hài, tình cảm) là:",
+    "options": ["Số liệu định tính", "Số liệu định lượng", "Số liệu ghép nhóm", "Số liệu liên tục"],
+    "correctAnswer": "Số liệu định tính"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, hình quạt ứng với giá trị A có góc ở tâm là 90°. Tần số tương đối của A là:",
+    "options": ["25%", "90%", "50%", "1/4"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [20;25) với tần số 10 và tần số tích lũy là 15. Tần số tích lũy của nhóm trước đó là:",
+    "options": ["5", "10", "15", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Mục đích của việc sử dụng biểu đồ là:",
+    "options": ["Trực quan hóa dữ liệu, giúp dễ so sánh và nhận xét", "Làm cho báo cáo đẹp hơn", "Tính toán các số đặc trưng", "Thay thế hoàn toàn cho bảng số liệu"],
+    "correctAnswer": "Trực quan hóa dữ liệu, giúp dễ so sánh và nhận xét"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 1, 1, 2, 2, 3. Cỡ mẫu là:",
+    "options": ["6", "3", "2", "1"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 1, 1, 2, 2, 3. Tần số của giá trị 1 là:",
+    "options": ["3", "1", "2", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 1, 1, 2, 2, 3. Tần số tương đối của giá trị 1 là:",
+    "options": ["50%", "3/6", "Cả A và B", "30%"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Histogram là một dạng biểu đồ cột dùng cho:",
+    "options": ["Mẫu số liệu ghép nhóm có các nhóm bằng nhau", "Dữ liệu định tính", "Mẫu số liệu không ghép nhóm", "So sánh hai mẫu"],
+    "correctAnswer": "Mẫu số liệu ghép nhóm có các nhóm bằng nhau"
+  },
+  {
+    "question": "Một mẫu số liệu có cỡ mẫu là 40. Một giá trị có tần số là 8. Tần số tương đối là:",
+    "options": ["20%", "8%", "40%", "1/5"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt tròn, hai hình quạt có góc ở tâm bằng nhau. Điều này có nghĩa là:",
+    "options": ["Hai giá trị tương ứng có tần số bằng nhau", "Hai giá trị đó bằng nhau", "Hai giá trị đó là mốt", "Tổng tần số của chúng là 100%"],
+    "correctAnswer": "Hai giá trị tương ứng có tần số bằng nhau"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có 5 nhóm. Dữ liệu được chia thành:",
+    "options": ["5 lớp không giao nhau", "5 lớp có thể giao nhau", "5 điểm dữ liệu", "50 giá trị"],
+    "correctAnswer": "5 lớp không giao nhau"
+  },
+  {
+    "question": "Một mẫu số liệu có 25% giá trị là 'A'. Nếu cỡ mẫu là 60, tần số của 'A' là:",
+    "options": ["15", "25", "60", "0.25"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Biểu đồ nào sau đây không dùng trục tần số/tần số tương đối?",
+    "options": ["Biểu đồ hình quạt tròn", "Biểu đồ cột", "Biểu đồ đoạn thẳng", "Histogram"],
+    "correctAnswer": "Biểu đồ hình quạt tròn"
+  },
+  {
+    "question": "Tần số tích lũy của nhóm cuối cùng trong bảng tần số ghép nhóm luôn bằng:",
+    "options": ["Cỡ mẫu N", "100", "1", "Tần số của nhóm đó"],
+    "correctAnswer": "Cỡ mẫu N"
+  },
+  {
+    "question": "Một mẫu số liệu có 10 giá trị. Tần số của mỗi giá trị đều là 1. Tần số tương đối của mỗi giá trị là:",
+    "options": ["10%", "1%", "100%", "1"],
+    "correctAnswer": "10%"
+  },
+  {
+    "question": "Để biểu diễn cơ cấu GDP của một quốc gia theo các ngành kinh tế, biểu đồ nào là phù hợp nhất?",
+    "options": ["Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Biểu đồ cột", "Bảng tần số"],
+    "correctAnswer": "Biểu đồ hình quạt tròn"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [10;15) và [15;20). Giá trị 15.0 thuộc nhóm nào?",
+    "options": ["[15; 20)", "[10; 15)", "Cả hai", "Không thuộc nhóm nào"],
+    "correctAnswer": "[15; 20)"
+  },
+  {
+    "question": "Một mẫu số liệu có 5 giá trị. Tổng các tần số tương đối của chúng là:",
+    "options": ["100%", "500%", "5%", "1"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Trong biểu đồ cột, các cột thường được vẽ:",
+    "options": ["Cách đều nhau", "Sát nhau", "Chồng lên nhau", "Nằm ngang"],
+    "correctAnswer": "Cách đều nhau"
+  },
+  {
+    "question": "Một mẫu số liệu có giá trị lớn nhất là 50, giá trị nhỏ nhất là 10. Nếu chia thành 4 nhóm đều nhau, độ rộng mỗi nhóm là:",
+    "options": ["10", "40", "4", "5"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một giá trị có tần số là 0. Điều này có nghĩa là:",
+    "options": ["Giá trị đó không xuất hiện trong mẫu", "Giá trị đó bằng 0", "Cỡ mẫu bằng 0", "Không thể xảy ra"],
+    "correctAnswer": "Giá trị đó không xuất hiện trong mẫu"
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt tròn, góc ở tâm của một hình quạt là 18°. Tần số tương đối của giá trị tương ứng là:",
+    "options": ["5%", "18%", "10%", "20%"],
+    "correctAnswer": "5%"
+  },
+  {
+    "question": "Bảng tần số cho biết:",
+    "options": ["Sự phân bố của các giá trị trong mẫu", "Giá trị trung bình", "Độ lệch chuẩn", "Khoảng biến thiên"],
+    "correctAnswer": "Sự phân bố của các giá trị trong mẫu"
+  },
+  {
+    "question": "Một mẫu số liệu có 30 giá trị. Một giá trị có tần số là 6. Tần số tương đối là:",
+    "options": ["20%", "6%", "30%", "1/5"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Trong một histogram, diện tích của các hình chữ nhật tỉ lệ với:",
+    "options": ["Tần số của các nhóm tương ứng", "Giá trị đại diện", "Độ rộng của nhóm", "Cỡ mẫu"],
+    "correctAnswer": "Tần số của các nhóm tương ứng"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [0;100) với tần số 20. Tần số tương đối của nhóm này (cỡ mẫu 50) là:",
+    "options": ["40%", "20%", "50%", "10%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Một mẫu số liệu có 4 giá trị. Tần số của giá trị thứ nhất là 10. Tần số tương đối là 25%. Cỡ mẫu là:",
+    "options": ["40", "25", "10", "4"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Biểu đồ nào phù hợp để thể hiện số lượng huy chương vàng của các quốc gia tại một kỳ SEA Games?",
+    "options": ["Biểu đồ cột", "Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Bảng tần số"],
+    "correctAnswer": "Biểu đồ cột"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [60;70) và [70;80). Giá trị 69.9 thuộc nhóm nào?",
+    "options": ["[60; 70)", "[70; 80)", "Cả hai", "Không thuộc nhóm nào"],
+    "correctAnswer": "[60; 70)"
+  },
+  {
+    "question": "Một mẫu số liệu có 2 giá trị là 'Nam' và 'Nữ'. Tần số của 'Nam' là 15, tần số của 'Nữ' là 25. Tần số tương đối của 'Nữ' là:",
+    "options": ["62.5%", "25%", "40%", "15%"],
+    "correctAnswer": "62.5%"
+  },
+  {
+    "question": "Trong biểu đồ cột, nếu một cột cao gấp đôi cột khác thì:",
+    "options": ["Tần số của giá trị tương ứng cũng gấp đôi", "Giá trị tương ứng cũng gấp đôi", "Cỡ mẫu gấp đôi", "Không có ý nghĩa"],
+    "correctAnswer": "Tần số của giá trị tương ứng cũng gấp đôi"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [10;20) với tần số 5. Tần số tích lũy cũng là 5. Đây là nhóm:",
+    "options": ["Đầu tiên", "Cuối cùng", "Ở giữa", "Không xác định được"],
+    "correctAnswer": "Đầu tiên"
+  },
+  {
+    "question": "Một mẫu số liệu có mốt là 7. Điều này có nghĩa là:",
+    "options": ["Giá trị 7 xuất hiện nhiều lần nhất", "Giá trị trung bình là 7", "Giá trị trung vị là 7", "Giá trị lớn nhất là 7"],
+    "correctAnswer": "Giá trị 7 xuất hiện nhiều lần nhất"
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt tròn, một hình quạt chiếm 1/3 diện tích. Tần số tương đối của giá trị tương ứng là:",
+    "options": ["33.3%", "1/3", "Cả A và B", "120%"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có 4 nhóm. Tần số tích lũy của nhóm thứ 2 bằng:",
+    "options": ["Tổng tần số của nhóm 1 và nhóm 2", "Tần số của nhóm 2", "Tần số của nhóm 1", "Tổng tần số của nhóm 2 và nhóm 3"],
+    "correctAnswer": "Tổng tần số của nhóm 1 và nhóm 2"
+  },
+  {
+    "question": "Một mẫu số liệu có 8 giá trị. Một giá trị có tần số là 2. Tần số tương đối là:",
+    "options": ["25%", "20%", "8%", "1/4"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng được tạo bằng cách nối các điểm có tọa độ là:",
+    "options": ["(Giá trị; Tần số)", "(Tần số; Giá trị)", "(Giá trị; Tần số tương đối)", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [0;4), [4;8), [8;12). Độ rộng của các nhóm là:",
+    "options": ["4", "8", "12", "Không đều"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một mẫu số liệu có 2 giá trị. Tần số tương đối của giá trị thứ nhất là 60%. Tần số tương đối của giá trị thứ hai là:",
+    "options": ["40%", "60%", "100%", "Không xác định"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Trong biểu đồ cột, các cột có:",
+    "options": ["Cùng chiều rộng", "Cùng chiều cao", "Diện tích bằng nhau", "Chu vi bằng nhau"],
+    "correctAnswer": "Cùng chiều rộng"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm cuối cùng là [80; 100) có tần số 5. Cỡ mẫu là 50. Tần số tích lũy của nhóm này là:",
+    "options": ["50", "5", "45", "100"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một mẫu số liệu có mốt là 'Xanh' và 'Đỏ'. Mẫu này được gọi là:",
+    "options": ["Mẫu hai mốt", "Mẫu đa mốt", "Cả A và B", "Mẫu không có mốt"],
+    "correctAnswer": "Cả A và B"
+  }
+]
+
