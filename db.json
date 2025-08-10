@@ -40,6 +40,10 @@
                 {
                   "name": "Chương 8: Đại số tổ hợp",
                   "file": "./data/math-10-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Tính xác suất theo định nghĩa cổ điển",
+                  "file": "./data/math-10-chapter-9.json"
                 }
               ]
             },
