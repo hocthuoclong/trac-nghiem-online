@@ -12,6 +12,10 @@
                 {
                   "name": "Chương 1: Mệnh đề và tập hợp",
                   "file": "./data/math-10-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn",
+                  "file": "./data/math-10-chapter-2.json"
                 }
               ]
             }
