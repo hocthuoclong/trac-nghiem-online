@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Đổi số đo góc 270° sang radian.",
+    "options": ["3π/2", "3π/4", "2π/3", "5π/6"],
+    "correctAnswer": "3π/2"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = 2n² - 3. Số hạng thứ 3 của dãy là:",
+    "options": ["15", "9", "6", "21"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Tính giới hạn lim(4n+1)/(2n-1).",
+    "options": ["2", "4", "1/2", "-1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x⁵ - 3x + 2 là:",
+    "options": ["5x⁴ - 3", "5x⁴ - 3x", "x⁴ - 3", "4x⁴ - 3"],
+    "correctAnswer": "5x⁴ - 3"
+  },
+  {
+    "question": "Phương trình cos(x) = -1 có nghiệm là:",
+    "options": ["x = π + k2π", "x = k2π", "x = -π/2 + k2π", "x = kπ"],
+    "correctAnswer": "x = π + k2π"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ = 1 và công sai d = 4. Số hạng u₄ bằng:",
+    "options": ["13", "17", "9", "256"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Hàm số y = (2x+1)/(x-3) gián đoạn tại điểm nào?",
+    "options": ["x = 3", "x = -1/2", "x = -1", "x = 2"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = 1/x tại x=-1 là:",
+    "options": ["-1", "1", "0", "-2"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Tập xác định của hàm số y = tan(x) là:",
+    "options": ["R \\ {π/2 + kπ, k ∈ Z}", "R", "R \\ {kπ, k ∈ Z}", "[-1; 1]"],
+    "correctAnswer": "R \\ {π/2 + kπ, k ∈ Z}"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ = 5 và công bội q = 2. Số hạng u₆ bằng:",
+    "options": ["160", "320", "80", "640"],
+    "correctAnswer": "160"
+  },
+  {
+    "question": "Tính giới hạn lim(x→3) (x²-9)/(x-3).",
+    "options": ["6", "3", "0", "Không tồn tại"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = cos(x) là:",
+    "options": ["-sin(x)", "sin(x)", "cos(x)", "-cos(x)"],
+    "correctAnswer": "-sin(x)"
+  },
+  {
+    "question": "Giá trị của sin(π/3) là:",
+    "options": ["√3/2", "1/2", "√2/2", "1"],
+    "correctAnswer": "√3/2"
+  },
+  {
+    "question": "Công thức số hạng tổng quát của cấp số cộng là:",
+    "options": ["uₙ = u₁ + (n-1)d", "uₙ = u₁ + nd", "uₙ = u₁ * dⁿ⁻¹", "Sₙ = n/2 * (u₁ + uₙ)"],
+    "correctAnswer": "uₙ = u₁ + (n-1)d"
+  },
+  {
+    "question": "Hàm số nào sau đây liên tục trên R?",
+    "options": ["y = sin(x) + cos(x)", "y = cot(x)", "y = 1/(x²-1)", "y = √x"],
+    "correctAnswer": "y = sin(x) + cos(x)"
+  },
+  {
+    "question": "Đạo hàm cấp hai của hàm số y = 2x³ - 5x² là:",
+    "options": ["12x - 10", "6x² - 10x", "12x", "6x - 5"],
+    "correctAnswer": "12x - 10"
+  },
+  {
+    "question": "Phương trình tan(x) = 1 có nghiệm là:",
+    "options": ["x = π/4 + kπ", "x = π/4 + k2π", "x = kπ", "x = -π/4 + kπ"],
+    "correctAnswer": "x = π/4 + kπ"
+  },
+  {
+    "question": "Công thức số hạng tổng quát của cấp số nhân là:",
+    "options": ["uₙ = u₁ * qⁿ⁻¹", "uₙ = u₁ * qⁿ", "uₙ = u₁ + (n-1)q", "Sₙ = u₁(1-qⁿ)/(1-q)"],
+    "correctAnswer": "uₙ = u₁ * qⁿ⁻¹"
+  },
+  {
+    "question": "Tổng của cấp số nhân lùi vô hạn 1, 1/4, 1/16, ... là:",
+    "options": ["4/3", "3/4", "2", "3/2"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Hệ số góc của tiếp tuyến với đồ thị hàm số y = x² - 3x tại điểm có hoành độ x=2 là:",
+    "options": ["1", "-2", "4", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hàm số y = sin(x) là hàm số:",
+    "options": ["Lẻ", "Chẵn", "Không chẵn không lẻ", "Vừa chẵn vừa lẻ"],
+    "correctAnswer": "Lẻ"
+  },
+  {
+    "question": "Tổng 100 số hạng đầu của cấp số cộng có u₁ = 1 và d = 1 là:",
+    "options": ["5050", "10100", "5000", "100"],
+    "correctAnswer": "5050"
+  },
+  {
+    "question": "Tính giới hạn lim(x→-∞) (3x+1)/(x-2).",
+    "options": ["3", "-1/2", "+∞", "-∞"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = (x+1)/(x-2) là:",
+    "options": ["-3/(x-2)²", "3/(x-2)²", "1/(x-2)²", "-1/(x-2)²"],
+    "correctAnswer": "-3/(x-2)²"
+  },
+  {
+    "question": "Phương trình sin(2x) = 1/2 có nghiệm là:",
+    "options": ["x=π/12+kπ hoặc x=5π/12+kπ", "x=π/6+k2π hoặc x=5π/6+k2π", "x=π/12+k2π", "x=5π/12+k2π"],
+    "correctAnswer": "x=π/12+kπ hoặc x=5π/12+kπ"
+  },
+  {
+    "question": "Ba số 2, x, 8 theo thứ tự lập thành cấp số cộng. Giá trị của x là:",
+    "options": ["5", "4", "6", "10"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Để hàm số f(x) = { (x²-1)/(x-1) khi x≠1; a khi x=1 } liên tục tại x=1 thì a bằng:",
+    "options": ["2", "1", "0", "-1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = tan(2x) là:",
+    "options": ["2/cos²(2x)", "1/cos²(2x)", "-2/sin²(2x)", "2tan(x)"],
+    "correctAnswer": "2/cos²(2x)"
+  },
+  {
+    "question": "Tập giá trị của hàm số y = 2sin(x) + 3 là:",
+    "options": ["[1; 5]", "[-1; 1]", "[3; 5]", "[1; 3]"],
+    "correctAnswer": "[1; 5]"
+  },
+  {
+    "question": "Ba số 3, x, 27 theo thứ tự lập thành cấp số nhân. Giá trị của x là:",
+    "options": ["9", "-9", "Cả A và B", "15"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Dãy số nào sau đây có giới hạn bằng 0?",
+    "options": ["uₙ = (n+1)/(n²+1)", "uₙ = (2n-1)/n", "uₙ = n³", "uₙ = 2ⁿ"],
+    "correctAnswer": "uₙ = (n+1)/(n²+1)"
+  },
+  {
+    "question": "Cho chuyển động có phương trình s(t) = t³ - 6t² + 9t. Gia tốc của chuyển động tại t=1 là:",
+    "options": ["-6", "6", "0", "3"],
+    "correctAnswer": "-6"
+  },
+  {
+    "question": "Công thức cos(a) - cos(b) bằng:",
+    "options": ["-2sin((a+b)/2)sin((a-b)/2)", "2sin((a+b)/2)cos((a-b)/2)", "2cos((a+b)/2)cos((a-b)/2)", "-2cos((a+b)/2)sin((a-b)/2)"],
+    "correctAnswer": "-2sin((a+b)/2)sin((a-b)/2)"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có S₇ = 77 và S₁₂ = 192. Tìm u₁.",
+    "options": ["2", "3", "5", "7"],
+    "correctAnswer": ["2"]
+  },
+  {
+    "question": "Tính giới hạn lim(x→0) (√(x+1)-1)/x.",
+    "options": ["1/2", "1", "0", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x.√x là:",
+    "options": ["(3/2)√x", "√x + x/(2√x)", "Cả A và B", "1/(2√x)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phương trình cos²(x) = 1 có nghiệm là:",
+    "options": ["x = kπ", "x = k2π", "x = π/2 + kπ", "Vô nghiệm"],
+    "correctAnswer": "x = kπ"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁=2, u₄=16. Công bội q là:",
+    "options": ["2", "8", "4", "√8"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hàm số y = |x-1| có liên tục tại x=1 không?",
+    "options": ["Có", "Không", "Chỉ liên tục trái", "Chỉ liên tục phải"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Phương trình tiếp tuyến của đồ thị y = x³ - 2x tại điểm M(1, -1) là:",
+    "options": ["y = x - 2", "y = 3x - 4", "y = -x", "y = x + 2"],
+    "correctAnswer": "y = x - 2"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = cos(πx + 1) là:",
+    "options": ["2", "2π", "1", "π"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Dãy số nào sau đây là dãy tăng?",
+    "options": ["uₙ = n²", "uₙ = 2-n", "uₙ = (-1)ⁿ", "uₙ = 1/2ⁿ"],
+    "correctAnswer": "uₙ = n²"
+  },
+  {
+    "question": "Tính giới hạn lim (√(n²+2n) - n).",
+    "options": ["1", "0", "2", "+∞"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = sin(x²) là:",
+    "options": ["2x.cos(x²)", "cos(x²)", "-2x.cos(x²)", "2x.sin(x)"],
+    "correctAnswer": "2x.cos(x²)"
+  },
+  {
+    "question": "Phương trình sin(x) + cos(x) = √2 có nghiệm là:",
+    "options": ["x = π/4 + k2π", "x = -π/4 + k2π", "x = π/4 + kπ", "Vô nghiệm"],
+    "correctAnswer": "x = π/4 + k2π"
+  },
+  {
+    "question": "Một cấp số cộng có 20 số hạng. Tổng của chúng bằng 410. u₁₀ + u₁₁ = 41. Tìm u₁.",
+    "options": ["2", "1", "3", "41/20"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phương trình 2x³ - 3x² + 1 = 0 có ít nhất một nghiệm trong khoảng:",
+    "options": ["(-1; 1)", "(1; 2)", "(-2; -1)", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Đạo hàm cấp hai của y = 1/(x-1) là:",
+    "options": ["2/(x-1)³", "-2/(x-1)³", "-1/(x-1)²", "1/(x-1)²"],
+    "correctAnswer": "2/(x-1)³"
+  },
+  {
+    "question": "Nghiệm dương nhỏ nhất của phương trình tan(x) = -√3 là:",
+    "options": ["2π/3", "π/3", "5π/6", "π/6"],
+    "correctAnswer": "2π/3"
+  },
+  {
+    "question": "Một cấp số nhân có các số hạng dương. u₂=4, u₄=16. Tổng 10 số hạng đầu là:",
+    "options": ["2046", "1023", "2(2¹⁰-1)", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tính giới hạn lim(x→-∞) (x³+2x²-1).",
+    "options": ["-∞", "+∞", "1", "-1"],
+    "correctAnswer": "-∞"
+  },
+  {
+    "question": "Cho hàm số y = 2x² - 4x. Tiếp tuyến song song với trục hoành có phương trình:",
+    "options": ["y = -2", "y = 2", "x = 1", "y = 0"],
+    "correctAnswer": "y = -2"
+  },
+  {
+    "question": "Giá trị của cos(15°) là:",
+    "options": ["(√6 + √2)/4", "(√6 - √2)/4", "(√3+1)/2", "(√3-1)/2"],
+    "correctAnswer": "(√6 + √2)/4"
+  },
+  {
+    "question": "Dãy số nào sau đây là dãy bị chặn?",
+    "options": ["uₙ = n/(n+1)", "uₙ = n²", "uₙ = 2ⁿ", "uₙ = n³-1"],
+    "correctAnswer": "uₙ = n/(n+1)"
+  },
+  {
+    "question": "Tính giới hạn lim(x→0) (e<sup>2x</sup>-1)/x.",
+    "options": ["2", "1", "e", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x/cos(x) là:",
+    "options": ["(cos(x)+x.sin(x))/cos²(x)", "(cos(x)-x.sin(x))/cos²(x)", "1/(-sin(x))", "1"],
+    "correctAnswer": "(cos(x)+x.sin(x))/cos²(x)"
+  },
+  {
+    "question": "Phương trình sin(x) = m có nghiệm duy nhất trên [0, π] khi:",
+    "options": ["m=1", "m=0", "m=-1", "-1 < m < 1"],
+    "correctAnswer": "m=1"
+  },
+  {
+    "question": "Cho cấp số cộng có Sₙ = 5n - n². Số hạng đầu u₁ là:",
+    "options": ["4", "5", "3", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hàm số y = √(x²-1) liên tục trên:",
+    "options": ["(-∞; -1] ∪ [1; +∞)", "[-1; 1]", "R", "R \\ {±1}"],
+    "correctAnswer": "(-∞; -1] ∪ [1; +∞)"
+  },
+  {
+    "question": "Cho y = sin(2x). Hệ thức nào sau đây đúng?",
+    "options": ["y'' + 4y = 0", "y'' - 4y = 0", "y' + 2y = 0", "y' - 2y = 0"],
+    "correctAnswer": "y'' + 4y = 0"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = cos(2x) + 2cos(x) là:",
+    "options": ["-3/2", "-1", "-2", "0"],
+    "correctAnswer": "-3/2"
+  },
+  {
+    "question": "Một cấp số nhân có u₁=3, uₙ=768, Sₙ=1533. Tìm n.",
+    "options": ["9", "8", "10", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tính giới hạn lim (2ⁿ-1)/(2ⁿ+1).",
+    "options": ["1", "2", "0", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = (sin(x))<sup>x</sup> tại x=π/2 là:",
+    "options": ["0", "1", "π/2", "-1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Phương trình cot(x) = m có nghiệm khi:",
+    "options": ["m bất kỳ", "m ≥ 1", "m ≤ -1", "-1 ≤ m ≤ 1"],
+    "correctAnswer": "m bất kỳ"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với u₁=1, uₙ₊₁ = uₙ + n. Số hạng u₄ là:",
+    "options": ["7", "6", "5", "10"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính giới hạn lim(x→+∞) (x²-3x+2)/(x+1).",
+    "options": ["+∞", "-∞", "1", "0"],
+    "correctAnswer": "+∞"
+  },
+  {
+    "question": "Cho hàm số y = x³ - 3x² + 2. Tiếp tuyến có hệ số góc nhỏ nhất tại điểm có hoành độ:",
+    "options": ["x = 1", "x = 0", "x = 2", "x = -1"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Tập giá trị của hàm số y = sin(x) + cos(x) là:",
+    "options": ["[-√2; √2]", "[-1; 1]", "[0; 2]", "[-2; 2]"],
+    "correctAnswer": "[-√2; √2]"
+  },
+  {
+    "question": "Một quả bóng rơi từ độ cao 16m. Mỗi lần chạm đất, nó nảy lên độ cao bằng 3/4 độ cao của lần rơi trước. Tổng quãng đường bóng đi được là:",
+    "options": ["112 m", "64 m", "96 m", "Vô cùng"],
+    "correctAnswer": "112 m"
+  },
+  {
+    "question": "Hàm số y = f(x) có đạo hàm tại x₀. Phát biểu nào sau đây đúng?",
+    "options": ["f(x) liên tục tại x₀", "f(x) gián đoạn tại x₀", "f(x) không xác định tại x₀", "f'(x₀)=0"],
+    "correctAnswer": "f(x) liên tục tại x₀"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = (x-1)/(x²+1) là:",
+    "options": ["(-x²+2x+1)/(x²+1)²", "(x²+2x-1)/(x²+1)²", "1/(2x)", "3x²/(x²+1)²"],
+    "correctAnswer": "(-x²+2x+1)/(x²+1)²"
+  },
+  {
+    "question": "Phương trình sin(x) + sin(3x) = 0 có nghiệm là:",
+    "options": ["x=kπ/2", "x=kπ", "x=k2π", "x=π/2+kπ"],
+    "correctAnswer": "x=kπ/2"
+  },
+  {
+    "question": "Cho cấp số cộng có u₄=10, u₇=19. Tìm S₁₀.",
+    "options": ["145", "155", "135", "165"],
+    "correctAnswer": "145"
+  },
+  {
+    "question": "Tính giới hạn lim(x→-1⁺) (2x+1)/(x+1).",
+    "options": ["-∞", "+∞", "2", "-1"],
+    "correctAnswer": "-∞"
+  },
+  {
+    "question": "Cho hàm số y = x⁴ - 2x². Số điểm cực trị của hàm số là:",
+    "options": ["3", "1", "2", "0"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Giá trị của sin(α) + sin(α+2π/3) + sin(α+4π/3) là:",
+    "options": ["0", "1", "sin(α)", "3sin(α)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Cho cấp số nhân có các số hạng khác 0, u₃=9, u₅=81. Tìm u₁.",
+    "options": ["1", "-1", "Cả A và B", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Dãy số uₙ = (2n-1)/(n+1) có giới hạn là:",
+    "options": ["2", "1", "-1", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = cos³(x) tại x=π/6 là:",
+    "options": ["-9/8", "-3√3/8", "3/8", "-3/4"],
+    "correctAnswer": "-9/8"
+  },
+  {
+    "question": "Phương trình cos(x) = x/10 có bao nhiêu nghiệm?",
+    "options": ["Nhiều hơn 3", "1", "2", "3"],
+    "correctAnswer": "Nhiều hơn 3"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = 1+1/2+...+1/n. Dãy số này:",
+    "options": ["Tăng và không bị chặn", "Tăng và bị chặn", "Giảm và bị chặn", "Không tăng không giảm"],
+    "correctAnswer": "Tăng và không bị chặn"
+  },
+  {
+    "question": "Tính giới hạn lim(x→2) (x-2)/(√x - √2).",
+    "options": ["2√2", "√2", "2", "4"],
+    "correctAnswer": "2√2"
+  },
+  {
+    "question": "Cho hàm số y = sin(x)/x. Đạo hàm y' là:",
+    "options": ["(x.cos(x)-sin(x))/x²", "(sin(x)-x.cos(x))/x²", "cos(x)", "1"],
+    "correctAnswer": "(x.cos(x)-sin(x))/x²"
+  },
+  {
+    "question": "Nghiệm của phương trình tan(x) = cot(x) là:",
+    "options": ["x = π/4 + kπ/2", "x = π/4 + kπ", "x = kπ/2", "Vô nghiệm"],
+    "correctAnswer": "x = π/4 + kπ/2"
+  }
+]
+
