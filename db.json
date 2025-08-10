@@ -44,6 +44,10 @@
                 {
                   "name": "Chương 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
                   "file": "./data/math-5-chapter-10.json"
+                },
+                {
+                  "name": "Chương 11: Một số yếu tố thống kê và xác suất",
+                  "file": "./data/math-5-chapter-11.json"
                 }
               ]
             },
