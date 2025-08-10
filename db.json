@@ -1,5 +1,24 @@
 {
   "grades": {
+    "8": {
+      "name": "Lớp 8",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Đa thức",
+                  "file": "./data/math-8-chapter-1.json"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "9": {
       "name": "Lớp 9",
       "subjects": {
