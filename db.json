@@ -40,6 +40,10 @@
                 {
                   "name": "Chương 8: Những hình học cơ bản",
                   "file": "./data/math-6-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Dữ liệu và xác suất thực nghiệm",
+                  "file": "./data/math-6-chapter-9.json"
                 }
               ]
             },
