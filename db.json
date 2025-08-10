@@ -12,6 +12,10 @@
                 {
                   "name": "Chương 1: Phương trình và hệ hai phương trình bậc nhất hai ẩn",
                   "file": "./data/math-9-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Phương trình và bất phương trình bậc nhất một ẩn",
+                  "file": "./data/math-9-chapter-2.json"
                 }
               ]
             }
