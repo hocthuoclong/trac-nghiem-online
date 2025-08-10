@@ -1,0 +1,923 @@
+[
+  {
+    "question": "Số nào sau đây là số hữu tỉ?",
+    "options": ["-5", "3/4", "0.25", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 3/2 là:",
+    "options": ["2", "4/2", "1", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính (4/5) : (2/3) là:",
+    "options": ["6/5", "8/15", "5/6", "15/8"],
+    "correctAnswer": "6/5"
+  },
+  {
+    "question": "Số đối của 3/5 là:",
+    "options": ["-3/5", "5/3", "-5/3", "3/-5"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Kết quả của (2/3)² là:",
+    "options": ["4/9", "2/9", "4/6", "4/3"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Kết quả của (-1/2)³ là:",
+    "options": ["-1/8", "1/8", "-1/6", "1/6"],
+    "correctAnswer": "-1/8"
+  },
+  {
+    "question": "Giá trị của x trong biểu thức x + 1/4 = 5/4 là:",
+    "options": ["x = 1", "x = 6/4", "x = 3/2", "x = 4"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Áp dụng quy tắc chuyển vế, tìm x biết x - 2/3 = 1/3",
+    "options": ["x = 1", "x = -1/3", "x = 1/3", "x = 3"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Thứ tự thực hiện phép tính đúng là:",
+    "options": ["Lũy thừa → Nhân và chia → Cộng và trừ", "Cộng và trừ → Nhân và chia → Lũy thừa", "Nhân và chia → Lũy thừa → Cộng và trừ", "Lũy thừa → Cộng và trừ → Nhân và chia"],
+    "correctAnswer": "Lũy thừa → Nhân và chia → Cộng và trừ"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 1/3 * 3/4 là:",
+    "options": ["3/4", "5/8", "5/6", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Số nghịch đảo của -7 là:",
+    "options": ["-1/7", "7", "1/7", "Không có"],
+    "correctAnswer": "-1/7"
+  },
+  {
+    "question": "Tập hợp các số hữu tỉ được kí hiệu là:",
+    "options": ["Q", "N", "Z", "R"],
+    "correctAnswer": "Q"
+  },
+  {
+    "question": "Kết quả của phép tính 2 - 1/3 là:",
+    "options": ["5/3", "1/3", "2/3", "6"],
+    "correctAnswer": "5/3"
+  },
+  {
+    "question": "Giá trị tuyệt đối của -3/4 là:",
+    "options": ["3/4", "-3/4", "4/3", "-4/3"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Kết quả của (x²)³ là:",
+    "options": ["x⁶", "x⁵", "x⁸", "2x³"],
+    "correctAnswer": "x⁶"
+  },
+  {
+    "question": "Tìm x biết 2x = 1/2",
+    "options": ["x = 1/4", "x = 1", "x = 4", "x = 2"],
+    "correctAnswer": "x = 1/4"
+  },
+  {
+    "question": "Kết quả của phép tính 5 - (1/2 + 1/3) là:",
+    "options": ["25/6", "5/6", "29/6", "4"],
+    "correctAnswer": "25/6"
+  },
+  {
+    "question": "Kết quả của (1/2)² + (1/2)³ là:",
+    "options": ["3/8", "1/4", "1/8", "2/5"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Điểm biểu diễn số hữu tỉ -3/2 nằm ở đâu trên trục số?",
+    "options": ["Giữa -2 và -1", "Giữa -1 và 0", "Giữa 1 và 2", "Tại điểm -3"],
+    "correctAnswer": "Giữa -2 và -1"
+  },
+  {
+    "question": "Kết quả của phép tính 1/4 - 1/2 là:",
+    "options": ["-1/4", "1/4", "1/2", "-1/2"],
+    "correctAnswer": "-1/4"
+  },
+  {
+    "question": "Kết quả của (-2/3) * (-9/4) là:",
+    "options": ["3/2", "-3/2", "18/12", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Nếu |x| = 1/2 thì x bằng:",
+    "options": ["1/2 hoặc -1/2", "1/2", "-1/2", "Không có giá trị x"],
+    "correctAnswer": "1/2 hoặc -1/2"
+  },
+  {
+    "question": "Kết quả của (10⁵) / (10²) là:",
+    "options": ["10³", "10⁷", "10²·⁵", "1³"],
+    "correctAnswer": "10³"
+  },
+  {
+    "question": "Kết quả của (2/3)⁰ là:",
+    "options": ["1", "0", "2/3", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giá trị của biểu thức A = 2/3 + 5/6 : 5 - 1/18 * (-3)² là:",
+    "options": ["1/3", "1", "0", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Phân số nào biểu diễn số hữu tỉ -0.75?",
+    "options": ["-3/4", "-75/10", "3/-4", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính (-3/4) - (1/2) là:",
+    "options": ["-5/4", "-1/4", "-2/4", "-1"],
+    "correctAnswer": "-5/4"
+  },
+  {
+    "question": "Kết quả của (x*y)ⁿ là:",
+    "options": ["xⁿ * yⁿ", "(xy)ⁿ", "x*yⁿ", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tìm x biết 3/4 - x = 1/2",
+    "options": ["x = 1/4", "x = 5/4", "x = -1/4", "x = 1"],
+    "correctAnswer": "x = 1/4"
+  },
+  {
+    "question": "Tổng của hai số đối nhau bằng:",
+    "options": ["0", "1", "-1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tích của hai số nghịch đảo của nhau bằng:",
+    "options": ["1", "0", "-1", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của 3⁴ * 3² là:",
+    "options": ["3⁶", "3⁸", "9⁶", "9⁸"],
+    "correctAnswer": "3⁶"
+  },
+  {
+    "question": "Tìm x biết x² = 1/9",
+    "options": ["x = 1/3 hoặc x = -1/3", "x = 1/3", "x = -1/3", "x = 1/81"],
+    "correctAnswer": "x = 1/3 hoặc x = -1/3"
+  },
+  {
+    "question": "Kết quả của phép tính (1/3 - 1/2) * 6 là:",
+    "options": ["-1", "1", "-1/6", "1/6"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Kết quả của (2/3)⁵ * (3/2)⁴ là:",
+    "options": ["2/3", "1", "3/2", "(2/3)⁹"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Kết quả của (-1)¹⁰⁰ là:",
+    "options": ["1", "-1", "100", "-100"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm x, biết 2ˣ = 16",
+    "options": ["x = 4", "x = 8", "x = 14", "x = 2"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Tìm x, biết 1/2 * x + 3/4 = 5/4",
+    "options": ["x = 1", "x = 1/2", "x = 2", "x = 4/5"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Giá trị của biểu thức | -1/2 | + 3/2 là:",
+    "options": ["2", "1", "4/2", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 : 0.5 - 1 là:",
+    "options": ["0", "1", "-0.5", "2"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Phân số nào sau đây được viết dưới dạng số thập phân vô hạn tuần hoàn?",
+    "options": ["1/3", "1/4", "3/8", "1/5"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Số 0,666... được viết gọn là:",
+    "options": ["0,(6)", "0,6", "0,06", "0,(66)"],
+    "correctAnswer": "0,(6)"
+  },
+  {
+    "question": "Viết phân số 5/6 dưới dạng số thập phân.",
+    "options": ["0,8(3)", "0,83", "0,(83)", "0,833"],
+    "correctAnswer": "0,8(3)"
+  },
+  {
+    "question": "Số nào sau đây là số vô tỉ?",
+    "options": ["√3", "√9", "0.5", "-5"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là:",
+    "options": ["4", "8", "-4", "±4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Kết quả của phép tính √25 là:",
+    "options": ["5", "25", "-5", "±5"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Nếu x² = 4 thì x bằng:",
+    "options": ["2 hoặc -2", "2", "-2", "16"],
+    "correctAnswer": "2 hoặc -2"
+  },
+  {
+    "question": "Tập hợp các số thực được kí hiệu là:",
+    "options": ["R", "Q", "I", "Z"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Số π (pi) là:",
+    "options": ["Số vô tỉ", "Số hữu tỉ", "Số nguyên", "Số tự nhiên"],
+    "correctAnswer": "Số vô tỉ"
+  },
+  {
+    "question": "Giá trị tuyệt đối của -√5 là:",
+    "options": ["√5", "-√5", "5", "-5"],
+    "correctAnswer": "√5"
+  },
+  {
+    "question": "So sánh 2 và √5",
+    "options": ["2 < √5", "2 > √5", "2 = √5", "Không so sánh được"],
+    "correctAnswer": "2 < √5"
+  },
+  {
+    "question": "Làm tròn số 3,14159 đến chữ số thập phân thứ hai ta được:",
+    "options": ["3,14", "3,1", "3,15", "3,142"],
+    "correctAnswer": "3,14"
+  },
+  {
+    "question": "Số đối của √7 là:",
+    "options": ["-√7", "√7", "7", "1/√7"],
+    "correctAnswer": "-√7"
+  },
+  {
+    "question": "Tập hợp số hữu tỉ và tập hợp số vô tỉ được gọi chung là:",
+    "options": ["Tập hợp số thực", "Tập hợp số nguyên", "Tập hợp số tự nhiên", "Tập hợp số thập phân"],
+    "correctAnswer": "Tập hợp số thực"
+  },
+  {
+    "question": "Viết số thập phân 0,(3) dưới dạng phân số.",
+    "options": ["1/3", "3/10", "3/9", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Số nào có căn bậc hai số học bằng 9?",
+    "options": ["81", "3", "18", "-81"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Khẳng định nào sau đây là đúng?",
+    "options": ["Mọi số tự nhiên đều là số thực", "Mọi số thực đều là số vô tỉ", "Mọi số thực đều là số hữu tỉ", "Số 0 không phải là số thực"],
+    "correctAnswer": "Mọi số tự nhiên đều là số thực"
+  },
+  {
+    "question": "Kết quả của phép tính (√9 + √16) là:",
+    "options": ["7", "5", "√25", "Cả B và C đều đúng"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số nào không có căn bậc hai số học?",
+    "options": ["-25", "25", "0", "1"],
+    "correctAnswer": "-25"
+  },
+  {
+    "question": "Kết quả của (√3)² là:",
+    "options": ["3", "√3", "9", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trục số thực được lấp đầy bởi:",
+    "options": ["Các điểm biểu diễn số thực", "Các điểm biểu diễn số hữu tỉ", "Các điểm biểu diễn số nguyên", "Các điểm biểu diễn số vô tỉ"],
+    "correctAnswer": "Các điểm biểu diễn số thực"
+  },
+  {
+    "question": "Làm tròn số 127,458 đến hàng đơn vị.",
+    "options": ["127", "128", "127,5", "130"],
+    "correctAnswer": "127"
+  },
+  {
+    "question": "Số 0,1010010001... là:",
+    "options": ["Số vô tỉ", "Số hữu tỉ", "Số thập phân vô hạn tuần hoàn", "Số tự nhiên"],
+    "correctAnswer": "Số vô tỉ"
+  },
+  {
+    "question": "Căn bậc hai số học của 49/100 là:",
+    "options": ["7/10", "0.7", "4.9/10", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Nếu √x = 5 thì x bằng:",
+    "options": ["25", "5", "√5", "±5"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Tập hợp I là tập hợp các số:",
+    "options": ["Vô tỉ", "Hữu tỉ", "Nguyên", "Thực"],
+    "correctAnswer": "Vô tỉ"
+  },
+  {
+    "question": "Kết quả làm tròn số 0,089 đến chữ số thập phân thứ nhất là:",
+    "options": ["0,1", "0,0", "0,09", "0,08"],
+    "correctAnswer": "0,1"
+  },
+  {
+    "question": "Khẳng định nào sai?",
+    "options": ["Số vô tỉ không thể là số hữu tỉ", "Số hữu tỉ có thể là số vô tỉ", "Số nguyên là số thực", "Số tự nhiên là số hữu tỉ"],
+    "correctAnswer": "Số hữu tỉ có thể là số vô tỉ"
+  },
+  {
+    "question": "Kết quả của phép tính √((-5)²) là:",
+    "options": ["5", "-5", "25", "Không xác định"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép tính 2√9 - 3√4 là:",
+    "options": ["0", "1", "-1", "12"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 0,(9) bằng số nào sau đây?",
+    "options": ["1", "0,9", "9/10", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tổng của hai số vô tỉ có thể là một số hữu tỉ không?",
+    "options": ["Có, ví dụ √2 + (-√2) = 0", "Không", "Luôn là số vô tỉ", "Không xác định"],
+    "correctAnswer": "Có, ví dụ √2 + (-√2) = 0"
+  },
+  {
+    "question": "Khẳng định nào đúng?",
+    "options": ["Z ⊂ Q ⊂ R", "Q ⊂ Z ⊂ R", "I ⊂ Q ⊂ R", "N ⊂ Z ⊂ I"],
+    "correctAnswer": "Z ⊂ Q ⊂ R"
+  },
+  {
+    "question": "Kết quả của phép tính |√2 - 2| là:",
+    "options": ["2 - √2", "√2 - 2", "√2 + 2", "0"],
+    "correctAnswer": "2 - √2"
+  },
+  {
+    "question": "Nếu x² = -9 thì:",
+    "options": ["Không có giá trị x thực", "x = -3", "x = 3", "x = ±3"],
+    "correctAnswer": "Không có giá trị x thực"
+  },
+  {
+    "question": "Giữa hai số hữu tỉ bất kì luôn có:",
+    "options": ["Vô số số hữu tỉ khác", "Đúng một số hữu tỉ khác", "Không có số hữu tỉ nào", "Vô số số nguyên"],
+    "correctAnswer": "Vô số số hữu tỉ khác"
+  },
+  {
+    "question": "Số 1,7320508... là cách viết thập phân của số nào?",
+    "options": ["√3", "√2", "√5", "π"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Tìm x, biết x² = 5",
+    "options": ["x = √5 hoặc x = -√5", "x = 5", "x = 2.5", "Không có x"],
+    "correctAnswer": "x = √5 hoặc x = -√5"
+  },
+  {
+    "question": "Tích của một số vô tỉ và một số hữu tỉ khác 0 là một số:",
+    "options": ["Vô tỉ", "Hữu tỉ", "Nguyên", "Tự nhiên"],
+    "correctAnswer": "Vô tỉ"
+  },
+  {
+    "question": "Hai góc kề bù là hai góc có tổng số đo bằng:",
+    "options": ["180°", "90°", "360°", "100°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Hai góc đối đỉnh thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Kề nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tia phân giác của một góc là tia:",
+    "options": ["Nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau", "Nằm giữa hai cạnh của góc", "Tạo với hai cạnh của góc hai góc có tổng 180°", "Tạo với một cạnh của góc một góc vuông"],
+    "correctAnswer": "Nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau"
+  },
+  {
+    "question": "Nếu tia Oz là tia phân giác của góc xOy có số đo 80° thì số đo góc xOz là:",
+    "options": ["40°", "80°", "160°", "20°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a và b. Cặp góc so le trong là cặp góc:",
+    "options": ["Nằm ở hai phía khác nhau của c và nằm bên trong hai đường thẳng a, b", "Nằm cùng phía của c và nằm bên trong hai đường thẳng a, b", "Nằm ở hai phía khác nhau của c và một góc nằm ngoài, một góc nằm trong", "Nằm cùng phía của c và một góc nằm ngoài, một góc nằm trong"],
+    "correctAnswer": "Nằm ở hai phía khác nhau của c và nằm bên trong hai đường thẳng a, b"
+  },
+  {
+    "question": "Dấu hiệu nào sau đây cho biết hai đường thẳng a và b song song?",
+    "options": ["Một cặp góc so le trong bằng nhau", "Một cặp góc trong cùng phía bằng nhau", "Một cặp góc đồng vị bù nhau", "Một cặp góc kề bù bằng nhau"],
+    "correctAnswer": "Một cặp góc so le trong bằng nhau"
+  },
+  {
+    "question": "Nếu một đường thẳng cắt hai đường thẳng song song thì:",
+    "options": ["Hai góc đồng vị bằng nhau", "Hai góc so le trong bù nhau", "Hai góc trong cùng phía bằng nhau", "Tất cả các đáp án trên"],
+    "correctAnswer": "Hai góc đồng vị bằng nhau"
+  },
+  {
+    "question": "Phát biểu nào sau đây là nội dung của Tiên đề Euclid?",
+    "options": ["Qua một điểm ở ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó", "Qua một điểm ở ngoài một đường thẳng có vô số đường thẳng song song với đường thẳng đó", "Qua một điểm ở ngoài một đường thẳng không có đường thẳng nào song song với đường thẳng đó", "Hai đường thẳng song song là hai đường thẳng không có điểm chung"],
+    "correctAnswer": "Qua một điểm ở ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó"
+  },
+  {
+    "question": "Một định lí thường được phát biểu dưới dạng:",
+    "options": ["Nếu ... thì ...", "Hãy ...", "Tại sao ...?", "Khi nào ...?"],
+    "correctAnswer": "Nếu ... thì ..."
+  },
+  {
+    "question": "Trong một định lí, phần nằm sau chữ 'thì' được gọi là:",
+    "options": ["Kết luận", "Giả thiết", "Chứng minh", "Định nghĩa"],
+    "correctAnswer": "Kết luận"
+  },
+  {
+    "question": "Cho góc xOy = 100°. Góc đối đỉnh với góc xOy có số đo là:",
+    "options": ["100°", "80°", "260°", "Không xác định"],
+    "correctAnswer": "100°"
+  },
+  {
+    "question": "Cho góc A và góc B là hai góc kề bù. Nếu góc A = 60° thì góc B bằng:",
+    "options": ["120°", "60°", "30°", "90°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Nếu a ⊥ c và b ⊥ c thì:",
+    "options": ["a // b", "a ⊥ b", "a trùng b", "a cắt b"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Nếu a // b và c ⊥ a thì:",
+    "options": ["c ⊥ b", "c // b", "c trùng a", "c cắt b"],
+    "correctAnswer": "c ⊥ b"
+  },
+  {
+    "question": "Chứng minh một định lí là dùng lập luận để từ ... suy ra ...",
+    "options": ["Giả thiết, Kết luận", "Kết luận, Giả thiết", "Định nghĩa, Tính chất", "Tiên đề, Giả thiết"],
+    "correctAnswer": "Giả thiết, Kết luận"
+  },
+  {
+    "question": "Hai đường thẳng cắt nhau tạo thành mấy cặp góc đối đỉnh?",
+    "options": ["2", "1", "4", "8"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a, b và trong các góc tạo thành có một cặp góc đồng vị bằng nhau. Khi đó:",
+    "options": ["a // b", "a cắt b", "a ⊥ b", "a trùng b"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Cho a // b, đường thẳng c cắt a tại A, cắt b tại B. Một cặp góc trong cùng phía có tổng số đo bằng:",
+    "options": ["180°", "90°", "360°", "Bằng nhau"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Định lí 'Hai góc đối đỉnh thì bằng nhau' có giả thiết là:",
+    "options": ["Hai góc đó đối đỉnh", "Hai góc đó bằng nhau", "Hai góc đó có chung đỉnh", "Hai góc đó kề bù"],
+    "correctAnswer": "Hai góc đó đối đỉnh"
+  },
+  {
+    "question": "Hai góc phụ nhau là hai góc có tổng số đo bằng:",
+    "options": ["90°", "180°", "360°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Đường thẳng c cắt a, b tại A, B. Biết ∠aAB = 110° và ∠ABb = 70°. Vị trí của a và b là:",
+    "options": ["a // b", "a cắt b", "a ⊥ b", "Không xác định"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Một điều được thừa nhận là đúng mà không cần chứng minh được gọi là:",
+    "options": ["Tiên đề", "Định lí", "Hệ quả", "Bổ đề"],
+    "correctAnswer": "Tiên đề"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì chúng:",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Tia phân giác của góc bẹt tạo thành hai góc có số đo là:",
+    "options": ["90°", "180°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Định lí đảo của định lí 'Nếu hai đường thẳng song song thì hai góc so le trong bằng nhau' là:",
+    "options": ["Nếu hai góc so le trong bằng nhau thì hai đường thẳng đó song song", "Nếu hai đường thẳng không song song thì hai góc so le trong không bằng nhau", "Nếu hai góc so le trong không bằng nhau thì hai đường thẳng đó không song song", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Cho hai góc kề bù, một góc gấp đôi góc kia. Số đo hai góc đó là:",
+    "options": ["60° và 120°", "50° và 100°", "90° và 90°", "80° và 160°"],
+    "correctAnswer": "60° và 120°"
+  },
+  {
+    "question": "Cho a // b và b // c. Kết luận nào sau đây là đúng?",
+    "options": ["a // c", "a ⊥ c", "a cắt c", "a trùng c"],
+    "correctAnswer": "a // c"
+  },
+  {
+    "question": "Tia phân giác của hai góc kề bù thì:",
+    "options": ["Vuông góc với nhau", "Song song với nhau", "Trùng nhau", "Tạo thành góc 45°"],
+    "correctAnswer": "Vuông góc với nhau"
+  },
+  {
+    "question": "Cho a ⊥ b và b // c. Kết luận nào đúng?",
+    "options": ["a ⊥ c", "a // c", "a // b", "b ⊥ c"],
+    "correctAnswer": "a ⊥ c"
+  },
+  {
+    "question": "Tổng ba góc của một tam giác bằng:",
+    "options": ["180°", "90°", "360°", "100°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Trong một tam giác vuông, tổng hai góc nhọn bằng:",
+    "options": ["90°", "180°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Số đo góc ngoài tại một đỉnh của tam giác bằng:",
+    "options": ["Tổng hai góc trong không kề với nó", "Góc trong kề với nó", "180°", "90°"],
+    "correctAnswer": "Tổng hai góc trong không kề với nó"
+  },
+  {
+    "question": "Nếu ΔABC = ΔMNP thì:",
+    "options": ["AB = MN, BC = NP, AC = MP", "AB = MP, BC = MN, AC = NP", "AB = NP, BC = MP, AC = MN", "Các cạnh không nhất thiết bằng nhau"],
+    "correctAnswer": "AB = MN, BC = NP, AC = MP"
+  },
+  {
+    "question": "Phát biểu trường hợp bằng nhau thứ nhất (cạnh - cạnh - cạnh):",
+    "options": ["Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba góc của tam giác này bằng ba góc của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng.", "Nếu một cạnh và hai góc kề bằng nhau."],
+    "correctAnswer": "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau."
+  },
+  {
+    "question": "Phát biểu trường hợp bằng nhau thứ hai (cạnh - góc - cạnh):",
+    "options": ["Nếu hai cạnh và góc xen giữa của tam giác này bằng hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai góc và cạnh xen giữa của tam giác này bằng hai góc và cạnh xen giữa của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai cạnh và một góc bất kỳ bằng nhau."],
+    "correctAnswer": "Nếu hai cạnh và góc xen giữa của tam giác này bằng hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó bằng nhau."
+  },
+  {
+    "question": "Phát biểu trường hợp bằng nhau thứ ba (góc - cạnh - góc):",
+    "options": ["Nếu một cạnh và hai góc kề của tam giác này bằng một cạnh và hai góc kề của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai cạnh và góc xen giữa của tam giác này bằng hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba góc bằng nhau.", "Nếu một cạnh và một góc bằng nhau."],
+    "correctAnswer": "Nếu một cạnh và hai góc kề của tam giác này bằng một cạnh và hai góc kề của tam giác kia thì hai tam giác đó bằng nhau."
+  },
+  {
+    "question": "Hai tam giác vuông bằng nhau theo trường hợp cạnh huyền - góc nhọn nếu:",
+    "options": ["Cạnh huyền và một góc nhọn của tam giác vuông này bằng cạnh huyền và một góc nhọn của tam giác vuông kia.", "Hai cạnh góc vuông bằng nhau.", "Cạnh huyền bằng nhau.", "Một góc nhọn bằng nhau."],
+    "correctAnswer": "Cạnh huyền và một góc nhọn của tam giác vuông này bằng cạnh huyền và một góc nhọn của tam giác vuông kia."
+  },
+  {
+    "question": "Tam giác cân là tam giác có:",
+    "options": ["Hai cạnh bằng nhau", "Ba cạnh bằng nhau", "Hai góc bằng nhau", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Trong một tam giác cân, hai góc nào bằng nhau?",
+    "options": ["Hai góc ở đáy", "Hai góc ở đỉnh", "Tất cả các góc", "Không có góc nào bằng nhau"],
+    "correctAnswer": "Hai góc ở đáy"
+  },
+  {
+    "question": "Đường trung trực của một đoạn thẳng là:",
+    "options": ["Đường thẳng vuông góc với đoạn thẳng tại trung điểm của nó.", "Đường thẳng đi qua trung điểm của đoạn thẳng.", "Đường thẳng vuông góc với đoạn thẳng.", "Tia phân giác của góc tạo bởi đoạn thẳng."],
+    "correctAnswer": "Đường thẳng vuông góc với đoạn thẳng tại trung điểm của nó."
+  },
+  {
+    "question": "Một điểm nằm trên đường trung trực của một đoạn thẳng thì:",
+    "options": ["Cách đều hai đầu mút của đoạn thẳng đó.", "Nằm giữa hai đầu mút của đoạn thẳng.", "Tạo thành một tam giác vuông.", "Không có tính chất gì đặc biệt."],
+    "correctAnswer": "Cách đều hai đầu mút của đoạn thẳng đó."
+  },
+  {
+    "question": "Tam giác ABC có ∠A = 70°, ∠B = 50°. Số đo góc C là:",
+    "options": ["60°", "120°", "70°", "50°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Cho ΔABC = ΔDEF. Biết AB = 5cm, AC = 6cm, EF = 8cm. Chu vi của ΔDEF là:",
+    "options": ["19cm", "11cm", "14cm", "24cm"],
+    "correctAnswer": "19cm"
+  },
+  {
+    "question": "Cho ΔPQR và ΔXYZ có PQ=XY, ∠Q=∠Y, QR=YZ. Hai tam giác này bằng nhau theo trường hợp nào?",
+    "options": ["c.g.c", "g.c.g", "c.c.c", "Cạnh huyền - góc nhọn"],
+    "correctAnswer": "c.g.c"
+  },
+  {
+    "question": "Cho ΔABC và ΔDEF có ∠A=∠D, AB=DE, ∠B=∠E. Hai tam giác này bằng nhau theo trường hợp nào?",
+    "options": ["g.c.g", "c.g.c", "c.c.c", "Cạnh huyền - cạnh góc vuông"],
+    "correctAnswer": "g.c.g"
+  },
+  {
+    "question": "Hai tam giác vuông ABC (vuông tại A) và DEF (vuông tại D) có BC=EF, AB=DE. Chúng bằng nhau theo trường hợp:",
+    "options": ["Cạnh huyền - cạnh góc vuông", "c.g.c", "g.c.g", "c.c.c"],
+    "correctAnswer": "Cạnh huyền - cạnh góc vuông"
+  },
+  {
+    "question": "Một tam giác cân có một góc ở đỉnh bằng 40°. Số đo mỗi góc ở đáy là:",
+    "options": ["70°", "40°", "140°", "100°"],
+    "correctAnswer": "70°"
+  },
+  {
+    "question": "Một tam giác cân có một góc ở đáy bằng 50°. Số đo góc ở đỉnh là:",
+    "options": ["80°", "50°", "130°", "40°"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Tam giác nào là tam giác vuông cân?",
+    "options": ["Tam giác có một góc 90° và hai cạnh góc vuông bằng nhau", "Tam giác có hai góc 45°", "Tam giác vuông có hai cạnh bằng nhau", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho đoạn thẳng AB. Tập hợp các điểm M sao cho MA = MB là:",
+    "options": ["Đường trung trực của đoạn thẳng AB", "Đường tròn tâm A, bán kính AB", "Đường thẳng song song với AB", "Một điểm duy nhất"],
+    "correctAnswer": "Đường trung trực của đoạn thẳng AB"
+  },
+  {
+    "question": "Tam giác đều là tam giác:",
+    "options": ["Có ba cạnh bằng nhau", "Có ba góc bằng nhau và bằng 60°", "Cân tại ba đỉnh", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Góc ngoài tại đỉnh C của ΔABC có số đo bằng 100°. Biết ∠A = 60°. Số đo góc B là:",
+    "options": ["40°", "80°", "100°", "60°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Nếu ΔABC = ΔXYZ và ∠X = 50°, ∠Y = 70°, thì các góc của ΔABC là:",
+    "options": ["∠A=50°, ∠B=70°, ∠C=60°", "∠A=70°, ∠B=50°, ∠C=60°", "∠A=50°, ∠B=60°, ∠C=70°", "Không xác định được"],
+    "correctAnswer": "∠A=50°, ∠B=70°, ∠C=60°"
+  },
+  {
+    "question": "Trường hợp bằng nhau cạnh huyền - cạnh góc vuông áp dụng cho:",
+    "options": ["Chỉ tam giác vuông", "Mọi tam giác", "Chỉ tam giác cân", "Chỉ tam giác đều"],
+    "correctAnswer": "Chỉ tam giác vuông"
+  },
+  {
+    "question": "Nếu một tam giác có hai góc bằng nhau thì đó là:",
+    "options": ["Tam giác cân", "Tam giác đều", "Tam giác vuông", "Tam giác tù"],
+    "correctAnswer": "Tam giác cân"
+  },
+  {
+    "question": "Trong tam giác cân, đường trung trực ứng với cạnh đáy đồng thời là:",
+    "options": ["Đường phân giác, đường trung tuyến, đường cao", "Chỉ đường phân giác", "Chỉ đường trung tuyến", "Chỉ đường cao"],
+    "correctAnswer": "Đường phân giác, đường trung tuyến, đường cao"
+  },
+  {
+    "question": "Cho tam giác MNP có MN=MP và ∠N=45°. Tam giác MNP là tam giác gì?",
+    "options": ["Vuông cân tại M", "Vuông tại N", "Đều", "Cân tại P"],
+    "correctAnswer": "Vuông cân tại M"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A, M là trung điểm của BC. Khẳng định nào đúng?",
+    "options": ["AM = BM = CM", "AM = 1/2 BC", "ΔABM cân tại M", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Nếu một tam giác cân có một góc bằng 60° thì đó là:",
+    "options": ["Tam giác đều", "Tam giác vuông", "Tam giác tù", "Không thể kết luận"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Một tam giác không thể có:",
+    "options": ["Hai góc tù", "Một góc tù và hai góc nhọn", "Ba góc nhọn", "Một góc vuông và hai góc nhọn"],
+    "correctAnswer": "Hai góc tù"
+  },
+  {
+    "question": "Cho ΔABC có ∠A = 90°, ∠B = 50°. So sánh các cạnh của tam giác.",
+    "options": ["BC > AC > AB", "AC > AB > BC", "BC > AB > AC", "AC > BC > AB"],
+    "correctAnswer": "BC > AC > AB"
+  },
+  {
+    "question": "Trong tam giác vuông, cạnh đối diện với góc vuông là:",
+    "options": ["Cạnh huyền", "Cạnh góc vuông", "Cạnh lớn nhất", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Điểm cách đều ba đỉnh của một tam giác là giao điểm của:",
+    "options": ["Ba đường trung trực", "Ba đường phân giác", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường trung trực"
+  },
+  {
+    "question": "Tổng các góc ngoài của một tam giác (tại mỗi đỉnh lấy một góc) là:",
+    "options": ["360°", "180°", "720°", "540°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Cho ΔABC = ΔDEF. Biết ∠A = 30°, ∠E = 70°. Số đo góc F là:",
+    "options": ["80°", "30°", "70°", "100°"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Tam giác ABC có AB = 4, BC = 5. Độ dài cạnh AC có thể là:",
+    "options": ["3", "1", "9", "Không thể là số nào trong các số trên"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương pháp nào sau đây không phải là phương pháp thu thập dữ liệu trực tiếp?",
+    "options": ["Thu thập từ các nguồn có sẵn (sách, báo, internet)", "Quan sát", "Lập phiếu hỏi", "Phỏng vấn"],
+    "correctAnswer": "Thu thập từ các nguồn có sẵn (sách, báo, internet)"
+  },
+  {
+    "question": "Dữ liệu về 'môn thể thao yêu thích' của các bạn trong tổ là:",
+    "options": ["Dữ liệu không phải là số (định tính)", "Dữ liệu số (định lượng)", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu không phải là số (định tính)"
+  },
+  {
+    "question": "Dữ liệu về 'số học sinh của các lớp trong khối 7' là:",
+    "options": ["Dữ liệu số (định lượng)", "Dữ liệu không phải là số (định tính)", "Dữ liệu không sắp xếp được", "Dữ liệu màu sắc"],
+    "correctAnswer": "Dữ liệu số (định lượng)"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn dùng để:",
+    "options": ["So sánh các tỉ lệ phần trăm của từng loại dữ liệu trong một tổng thể.", "Biểu diễn sự thay đổi của dữ liệu theo thời gian.", "So sánh độ lớn của các dữ liệu khác nhau.", "Liệt kê tất cả các dữ liệu thu thập được."],
+    "correctAnswer": "So sánh các tỉ lệ phần trăm của từng loại dữ liệu trong một tổng thể."
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, tổng các tỉ lệ phần trăm của các phần là:",
+    "options": ["100%", "360%", "180%", "Tùy vào dữ liệu"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt biểu diễn tỉ lệ 25%. Góc ở tâm của hình quạt đó là:",
+    "options": ["90°", "25°", "180°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng thường được dùng để:",
+    "options": ["Biểu diễn sự thay đổi của một đại lượng theo thời gian.", "So sánh tỉ lệ các phần trong một tổng thể.", "So sánh độ lớn của các dữ liệu không liên quan đến thời gian.", "Phân loại dữ liệu."],
+    "correctAnswer": "Biểu diễn sự thay đổi của một đại lượng theo thời gian."
+  },
+  {
+    "question": "Trên biểu đồ đoạn thẳng, trục nằm ngang thường biểu diễn:",
+    "options": ["Thời gian (năm, tháng, ngày,...)", "Đại lượng cần thống kê (nhiệt độ, số lượng,...)", "Tỉ lệ phần trăm", "Tên các đối tượng"],
+    "correctAnswer": "Thời gian (năm, tháng, ngày,...)"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy đường biểu diễn đi xuống từ trái qua phải. Điều này thể hiện xu hướng:",
+    "options": ["Giảm", "Tăng", "Không đổi", "Không có xu hướng"],
+    "correctAnswer": "Giảm"
+  },
+  {
+    "question": "Dữ liệu thu được khi bạn cân đo cân nặng của các bạn trong tổ là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không đáng tin cậy"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Dữ liệu thu được khi bạn đếm số bút trong hộp của mỗi bạn là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, hình quạt lớn hơn biểu diễn:",
+    "options": ["Tỉ lệ lớn hơn", "Giá trị lớn hơn", "Tần số lớn hơn", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Để biểu diễn tỉ lệ các loại nước giải khát được bán trong một ngày của căng tin, ta nên dùng biểu đồ nào?",
+    "options": ["Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Biểu đồ cột", "Bảng thống kê"],
+    "correctAnswer": "Biểu đồ hình quạt tròn"
+  },
+  {
+    "question": "Để biểu diễn số lượng học sinh giỏi của lớp 7A qua các năm học, ta nên dùng biểu đồ nào?",
+    "options": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Chỉ dùng bảng số liệu", "Biểu đồ tranh"],
+    "correctAnswer": "Biểu đồ đoạn thẳng"
+  },
+  {
+    "question": "Một cuộc điều tra về phương tiện đến trường của 200 học sinh. Kết quả có 50% đi xe đạp. Số học sinh đi xe đạp là:",
+    "options": ["100", "50", "200", "150"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, góc ở tâm của một hình quạt là 180°. Hình quạt đó biểu diễn tỉ lệ bao nhiêu phần trăm?",
+    "options": ["50%", "180%", "100%", "25%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Trên biểu đồ đoạn thẳng, điểm cao nhất trên đường biểu diễn cho biết:",
+    "options": ["Giá trị lớn nhất của đại lượng", "Thời điểm cuối cùng", "Giá trị nhỏ nhất", "Giá trị không đổi"],
+    "correctAnswer": "Giá trị lớn nhất của đại lượng"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu định tính?",
+    "options": ["Tên các tỉnh thành của Việt Nam", "Dân số các tỉnh thành", "Diện tích các tỉnh thành", "Nhiệt độ trung bình các tỉnh thành"],
+    "correctAnswer": "Tên các tỉnh thành của Việt Nam"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là số liệu rời rạc?",
+    "options": ["Số thú cưng trong mỗi gia đình", "Chiều dài của một con sông", "Cân nặng của một người", "Vận tốc của một chiếc xe"],
+    "correctAnswer": "Số thú cưng trong mỗi gia đình"
+  },
+  {
+    "question": "Một cửa hàng thống kê tỉ lệ các loại pizza bán được: Hải sản 45%, Bò 30%, Gà 25%. Góc ở tâm của hình quạt biểu diễn pizza Bò là:",
+    "options": ["108°", "30°", "90°", "162°"],
+    "correctAnswer": "108°"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng cho thấy nhiệt độ lúc 6 giờ là 25°C, lúc 12 giờ là 32°C. Từ 6 giờ đến 12 giờ, nhiệt độ có xu hướng:",
+    "options": ["Tăng", "Giảm", "Không đổi", "Không xác định"],
+    "correctAnswer": "Tăng"
+  },
+  {
+    "question": "Để thu thập dữ liệu về chiều cao của các cây trong vườn trường, phương pháp nào là phù hợp nhất?",
+    "options": ["Đo đạc", "Phỏng vấn cây", "Lập phiếu hỏi", "Quan sát bằng mắt thường"],
+    "correctAnswer": "Đo đạc"
+  },
+  {
+    "question": "Dữ liệu 'nhóm máu' (A, B, AB, O) là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Trong một cuộc khảo sát 40 học sinh, có 10 bạn thích Toán. Tỉ lệ phần trăm số bạn thích Toán là:",
+    "options": ["25%", "10%", "40%", "4%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng có trục đứng biểu diễn lượng mưa (mm), trục ngang biểu diễn các tháng. Điểm (Tháng 7, 300) có ý nghĩa là:",
+    "options": ["Lượng mưa tháng 7 là 300 mm", "Tháng 7 có 300 ngày mưa", "Lượng mưa trung bình là 300 mm", "Năm đó có 300 tháng 7"],
+    "correctAnswer": "Lượng mưa tháng 7 là 300 mm"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là số liệu liên tục?",
+    "options": ["Thời gian chạy 100m của các vận động viên", "Số học sinh trong một lớp", "Số mặt của xúc xắc", "Số lỗi chính tả trong một bài văn"],
+    "correctAnswer": "Thời gian chạy 100m của các vận động viên"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn kết quả bầu lớp trưởng. Bạn An chiếm 144°. Tỉ lệ phiếu bầu của bạn An là:",
+    "options": ["40%", "144%", "50%", "36%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Khi đọc một biểu đồ đoạn thẳng, ta cần chú ý đến:",
+    "options": ["Tiêu đề biểu đồ", "Chú thích các trục", "Đơn vị tính", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Để so sánh dân số của 5 thành phố lớn tại Việt Nam vào năm 2023, nên dùng biểu đồ nào?",
+    "options": ["Biểu đồ cột", "Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Bảng dữ liệu"],
+    "correctAnswer": "Biểu đồ cột"
+  },
+  {
+    "question": "Dữ liệu 'điểm thi môn Toán' của học sinh là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn cơ cấu đất nông nghiệp. Lúa chiếm 60%, hoa màu 25%. Còn lại là cây ăn quả. Góc ở tâm của hình quạt biểu diễn cây ăn quả là:",
+    "options": ["54°", "15°", "90°", "216°"],
+    "correctAnswer": "54°"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng cho thấy doanh thu các quý của một công ty lần lượt là 10, 12, 11, 15 (tỷ đồng). Doanh thu có xu hướng chung là:",
+    "options": ["Lúc tăng lúc giảm nhưng xu hướng chung là tăng", "Tăng", "Giảm", "Không đổi"],
+    "correctAnswer": "Lúc tăng lúc giảm nhưng xu hướng chung là tăng"
+  },
+  {
+    "question": "Dữ liệu 'xếp loại hạnh kiểm' (Tốt, Khá, Trung bình) là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu liên tục", "Số liệu rời rạc"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Một cuộc khảo sát về thể loại phim yêu thích của 120 học sinh cho thấy 30 học sinh thích phim hành động. Trên biểu đồ hình quạt tròn, hình quạt biểu diễn phim hành động có góc ở tâm là:",
+    "options": ["90°", "30°", "25°", "120°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Dữ liệu nào sau đây không hợp lí trong bảng dữ liệu về tuổi của học sinh lớp 7?",
+    "options": ["20", "12", "13", "14"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng thể hiện rõ nhất điều gì?",
+    "options": ["Xu thế thay đổi của dữ liệu", "Cơ cấu của dữ liệu", "Độ lớn của dữ liệu", "Tần số của dữ liệu"],
+    "correctAnswer": "Xu thế thay đổi của dữ liệu"
+  },
+  {
+    "question": "Trong một cuộc điều tra, dữ liệu thu được ban đầu được gọi là:",
+    "options": ["Số liệu thống kê ban đầu", "Bảng tần số", "Biểu đồ", "Kết luận"],
+    "correctAnswer": "Số liệu thống kê ban đầu"
+  },
+  {
+    "question": "Dữ liệu 'số điện thoại của các bạn trong lớp' là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ học sinh các khối 6, 7, 8, 9. Nếu số học sinh khối 6 bằng 1/4 tổng số học sinh thì góc ở tâm của hình quạt biểu diễn khối 6 là:",
+    "options": ["90°", "25°", "45°", "180°"],
+    "correctAnswer": "90°"
+  }
+]
+
