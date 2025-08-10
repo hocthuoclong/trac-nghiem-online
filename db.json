@@ -16,6 +16,10 @@
                 {
                   "name": "Chương 2: Phương trình và bất phương trình bậc nhất một ẩn",
                   "file": "./data/math-9-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Căn bậc hai và căn bậc ba",
+                  "file": "./data/math-9-chapter-3.json"
                 }
               ]
             }
