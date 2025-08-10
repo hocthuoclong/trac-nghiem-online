@@ -86,11 +86,10 @@
 
             <!-- PHẦN THÔNG TIN BÁO LỖI - BẮT ĐẦU -->
             <div id="debug-info-container" class="mt-8 pt-4 border-t border-gray-200 text-xs text-gray-500">
-                <p class="font-bold mb-2">Thông tin gỡ lỗi:</p>
-                <p><strong>Đường dẫn tệp:</strong> <span id="debug-file-path"></span></p>
-                <p><strong>Vị trí câu hỏi trong tệp:</strong> <span id="debug-question-id"></span></p>
+                <p class="font-bold mb-2">Thông tin bài kiểm tra:</p>
+                <p><strong>id:</strong> <span id="debug-info"></span></p>
                 <p class="mt-4 italic">
-                    Khi phát hiện câu hỏi có sai sót (nội dung, đáp án sai,...) hoặc lỗi hệ thống, bạn vui lòng chụp lại màn hình kèm theo "Thông tin gỡ lỗi" ở trên và gửi về email 
+                    Khi phát hiện câu hỏi có sai sót (nội dung, đáp án sai,...) hoặc lỗi hệ thống, bạn vui lòng chụp lại màn hình kèm theo "Thông tin bài kiểm tra" ở trên và gửi về email 
                     <a href="mailto:hocthuoclong2k@gmail.com" class="font-medium text-blue-600 hover:underline">hocthuoclong2k@gmail.com</a>.
                     Xin chân thành cảm ơn sự đóng góp của bạn!
                 </p>
@@ -180,9 +179,8 @@
         const homeBtn = document.getElementById('home-btn');
         const confirmSubmitBtn = document.getElementById('confirm-submit-btn');
         const cancelSubmitBtn = document.getElementById('cancel-submit-btn');
-        // Thêm element cho thông tin gỡ lỗi
-        const debugFilePathEl = document.getElementById('debug-file-path');
-        const debugQuestionIdEl = document.getElementById('debug-question-id');
+        // Thay đổi element cho thông tin bài kiểm tra
+        const debugInfoEl = document.getElementById('debug-info');
 
         // --- State ---
         let dbStructure = {};
@@ -301,14 +299,12 @@
 
                 if (!questionFilePath) throw new Error('Không tìm thấy đường dẫn tệp câu hỏi.');
                 
-                // Lưu lại đường dẫn tệp để gỡ lỗi
                 lastSelections.filePath = questionFilePath;
 
                 const questionsResponse = await fetch(questionFilePath);
                 if (!questionsResponse.ok) throw new Error(`Không thể tải tệp câu hỏi: ${questionFilePath}`);
                 const questionBank = await questionsResponse.json();
 
-                // Thêm vị trí gốc vào mỗi câu hỏi để gỡ lỗi
                 const indexedQuestionBank = questionBank.map((q, index) => ({ ...q, originalIndex: index + 1 }));
 
                 if (!indexedQuestionBank || indexedQuestionBank.length === 0) {
@@ -342,13 +338,17 @@
             }
         }
         
-        // Hàm mới để cập nhật thông tin gỡ lỗi
+        // Cập nhật hàm để hiển thị thông tin thân thiện hơn
         function updateDebugInfo() {
             if (!currentQuestions[currentQuestionIndex]) return;
 
             const question = currentQuestions[currentQuestionIndex];
-            debugFilePathEl.textContent = lastSelections.filePath || 'Không xác định';
-            debugQuestionIdEl.textContent = question.originalIndex || 'Không xác định';
+            const filePath = lastSelections.filePath || 'unknown_file';
+            // Lấy tên tệp từ đường dẫn, ví dụ: './data/math-8-chapter-10.json' -> 'math-8-chapter-10.json'
+            const fileName = filePath.substring(filePath.lastIndexOf('/') + 1);
+            const questionId = question.originalIndex || 'N/A';
+            
+            debugInfoEl.textContent = `${fileName} - câu số ${questionId}`;
         }
 
         function displayQuestion() {
@@ -373,7 +373,6 @@
             });
             nextBtn.classList.add('hidden');
             
-            // Cập nhật thông tin gỡ lỗi mỗi khi hiển thị câu hỏi mới
             updateDebugInfo();
         }
 
