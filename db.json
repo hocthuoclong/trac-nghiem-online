@@ -16,6 +16,10 @@
                 {
                   "name": "Chương 2: Dãy số. Cấp số cộng và cấp số nhân",
                   "file": "./data/math-11-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Các số đặc trưng đo xu thế trung tâm",
+                  "file": "./data/math-11-chapter-3.json"
                 }
               ]
             }
