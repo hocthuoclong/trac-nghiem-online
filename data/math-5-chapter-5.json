@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Công thức tính diện tích hình tam giác có độ dài đáy là a và chiều cao là h là:",
+    "options": ["S = (a x h) : 2", "S = a x h", "S = (a + h) x 2", "S = a x a"],
+    "correctAnswer": "S = (a x h) : 2"
+  },
+  {
+    "question": "Một hình tam giác có độ dài đáy là 12cm và chiều cao là 8cm. Diện tích hình tam giác đó là:",
+    "options": ["48 cm²", "96 cm²", "20 cm²", "40 cm²"],
+    "correctAnswer": "48 cm²"
+  },
+  {
+    "question": "Muốn tính diện tích hình tam giác, ta lấy độ dài đáy nhân với chiều cao (cùng một đơn vị đo) rồi:",
+    "options": ["Chia cho 2", "Nhân với 2", "Cộng với 2", "Trừ đi 2"],
+    "correctAnswer": "Chia cho 2"
+  },
+  {
+    "question": "Một hình tam giác có diện tích là 50 dm² và độ dài đáy là 10 dm. Chiều cao của tam giác đó là:",
+    "options": ["10 dm", "5 dm", "20 dm", "25 dm"],
+    "correctAnswer": "10 dm"
+  },
+  {
+    "question": "Một hình tam giác vuông có độ dài hai cạnh góc vuông lần lượt là 6m và 8m. Diện tích của tam giác vuông đó là:",
+    "options": ["24 m²", "48 m²", "14 m²", "28 m²"],
+    "correctAnswer": "24 m²"
+  },
+  {
+    "question": "Công thức tính diện tích hình thang có độ dài hai đáy là a, b và chiều cao là h là:",
+    "options": ["S = (a + b) x h : 2", "S = (a + b) x h", "S = a x b x h", "S = (a x b) : h"],
+    "correctAnswer": "S = (a + b) x h : 2"
+  },
+  {
+    "question": "Một hình thang có độ dài hai đáy lần lượt là 15cm và 10cm, chiều cao là 8cm. Diện tích hình thang đó là:",
+    "options": ["100 cm²", "200 cm²", "25 cm²", "120 cm²"],
+    "correctAnswer": "100 cm²"
+  },
+  {
+    "question": "Một thửa ruộng hình thang có tổng độ dài hai đáy là 150m và chiều cao là 40m. Diện tích thửa ruộng đó là:",
+    "options": ["3000 m²", "6000 m²", "190 m²", "380 m²"],
+    "correctAnswer": "3000 m²"
+  },
+  {
+    "question": "Một hình thang có diện tích 60 m² và chiều cao 5m. Tổng độ dài hai đáy của hình thang đó là:",
+    "options": ["24 m", "12 m", "300 m", "30 m"],
+    "correctAnswer": "24 m"
+  },
+  {
+    "question": "Hình tròn có đường kính d. Công thức tính chu vi hình tròn là:",
+    "options": ["C = d x 3,14", "C = r x 3,14", "C = d x d x 3,14", "C = r x r x 3,14"],
+    "correctAnswer": "C = d x 3,14"
+  },
+  {
+    "question": "Hình tròn có bán kính r. Công thức tính chu vi hình tròn là:",
+    "options": ["C = r x 2 x 3,14", "C = r x 3,14", "C = d x 3,14", "C = r x r x 3,14"],
+    "correctAnswer": "C = r x 2 x 3,14"
+  },
+  {
+    "question": "Hình tròn có bán kính r. Công thức tính diện tích hình tròn là:",
+    "options": ["S = r x r x 3,14", "S = r x 2 x 3,14", "S = d x 3,14", "S = d x d x 3,14"],
+    "correctAnswer": "S = r x r x 3,14"
+  },
+  {
+    "question": "Một hình tròn có bán kính 5cm. Chu vi của hình tròn đó là:",
+    "options": ["31,4 cm", "15,7 cm", "78,5 cm", "10 cm"],
+    "correctAnswer": "31,4 cm"
+  },
+  {
+    "question": "Một hình tròn có đường kính 10dm. Diện tích của hình tròn đó là:",
+    "options": ["78,5 dm²", "31,4 dm²", "314 dm²", "100 dm²"],
+    "correctAnswer": "78,5 dm²"
+  },
+  {
+    "question": "Một bánh xe hình tròn có bán kính 0,25m. Chu vi của bánh xe đó là:",
+    "options": ["1,57 m", "0,785 m", "0,5 m", "1 m"],
+    "correctAnswer": "1,57 m"
+  },
+  {
+    "question": "Một hình tam giác có diện tích là 300 cm² và chiều cao là 20cm. Độ dài đáy của tam giác đó là:",
+    "options": ["30 cm", "15 cm", "60 cm", "10 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Một hình thang có đáy lớn 24m, đáy bé bằng 2/3 đáy lớn, chiều cao 10m. Diện tích hình thang đó là:",
+    "options": ["200 m²", "160 m²", "400 m²", "320 m²"],
+    "correctAnswer": "200 m²"
+  },
+  {
+    "question": "Một mặt bàn hình tròn có chu vi là 4,71m. Bán kính của mặt bàn đó là:",
+    "options": ["0,75 m", "1,5 m", "7,5 m", "15 m"],
+    "correctAnswer": "0,75 m"
+  },
+  {
+    "question": "Một sân vận động hình chữ nhật có chiều dài 120m, chiều rộng 90m. Diện tích sân vận động đó là bao nhiêu héc-ta?",
+    "options": ["1,08 ha", "10,8 ha", "108 ha", "10800 ha"],
+    "correctAnswer": "1,08 ha"
+  },
+  {
+    "question": "Một hình tam giác có cạnh đáy 2,5dm và chiều cao 1,2dm. Diện tích hình tam giác đó là:",
+    "options": ["1,5 dm²", "3 dm²", "15 dm²", "30 dm²"],
+    "correctAnswer": "1,5 dm²"
+  },
+  {
+    "question": "Một hình thang có diện tích 1,2 m², tổng độ dài hai đáy là 3m. Chiều cao của hình thang đó là:",
+    "options": ["0,8 m", "0,4 m", "1,6 m", "1,8 m"],
+    "correctAnswer": "0,8 m"
+  },
+  {
+    "question": "Diện tích của một hình tròn là 28,26 cm². Bán kính của hình tròn đó là:",
+    "options": ["3 cm", "9 cm", "6 cm", "4,5 cm"],
+    "correctAnswer": "3 cm"
+  },
+  {
+    "question": "Một hình tam giác có đáy là 15cm. Nếu kéo dài đáy thêm 4cm thì diện tích tăng thêm 18 cm². Chiều cao của tam giác là:",
+    "options": ["9 cm", "4,5 cm", "12 cm", "18 cm"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "Một hình thang có đáy bé 12cm, đáy lớn 18cm. Khi kéo dài đáy lớn thêm 5cm thì diện tích tăng thêm 20 cm². Chiều cao hình thang là:",
+    "options": ["8 cm", "4 cm", "10 cm", "16 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một cái sân hình tròn có đường kính 20m. Người ta trồng hoa trên một mảnh đất hình vuông ở chính giữa sân có cạnh 10m. Diện tích phần còn lại của sân là:",
+    "options": ["214 m²", "314 m²", "100 m²", "414 m²"],
+    "correctAnswer": "214 m²"
+  },
+  {
+    "question": "Trong tam giác vuông, hai cạnh góc vuông có thể được xem là:",
+    "options": ["Đáy và chiều cao", "Hai cạnh bên", "Cạnh huyền", "Không có vai trò gì"],
+    "correctAnswer": "Đáy và chiều cao"
+  },
+  {
+    "question": "Một hình thang có đáy lớn hơn đáy bé 6cm, trung bình cộng hai đáy là 15cm. Chiều cao là 8cm. Diện tích hình thang là:",
+    "options": ["120 cm²", "240 cm²", "96 cm²", "144 cm²"],
+    "correctAnswer": "120 cm²"
+  },
+  {
+    "question": "Nếu bán kính của một hình tròn tăng lên 2 lần thì chu vi của nó tăng lên:",
+    "options": ["2 lần", "4 lần", "6,28 lần", "Không đổi"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Nếu bán kính của một hình tròn tăng lên 2 lần thì diện tích của nó tăng lên:",
+    "options": ["4 lần", "2 lần", "8 lần", "6,28 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Một hình tam giác có diện tích bằng diện tích một hình vuông cạnh 6cm. Biết chiều cao tam giác là 8cm. Đáy của tam giác là:",
+    "options": ["9 cm", "4,5 cm", "12 cm", "18 cm"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "Một hình thang có đáy bé bằng 3/5 đáy lớn. Hiệu hai đáy là 12m. Chiều cao bằng đáy bé. Diện tích hình thang là:",
+    "options": ["432 m²", "216 m²", "360 m²", "540 m²"],
+    "correctAnswer": "432 m²"
+  },
+  {
+    "question": "Diện tích của nửa hình tròn có đường kính 12cm là:",
+    "options": ["56,52 cm²", "113,04 cm²", "28,26 cm²", "18,84 cm²"],
+    "correctAnswer": "56,52 cm²"
+  },
+  {
+    "question": "Một cái ao hình tam giác có tổng độ dài đáy và chiều cao là 45m. Chiều cao bằng 2/3 độ dài đáy. Diện tích cái ao là:",
+    "options": ["243 m²", "486 m²", "135 m²", "270 m²"],
+    "correctAnswer": "243 m²"
+  },
+  {
+    "question": "Một hình thang có diện tích 150 cm², chiều cao 10cm. Biết đáy lớn hơn đáy bé 4cm. Độ dài đáy lớn là:",
+    "options": ["17 cm", "13 cm", "30 cm", "15 cm"],
+    "correctAnswer": "17 cm"
+  },
+  {
+    "question": "Chu vi của một hình tròn là 25,12 cm. Diện tích của hình tròn đó là:",
+    "options": ["50,24 cm²", "200,96 cm²", "12,56 cm²", "100,48 cm²"],
+    "correctAnswer": "50,24 cm²"
+  },
+  {
+    "question": "Một hình tam giác có diện tích là 24 cm². Giữ nguyên chiều cao và tăng độ dài đáy lên gấp đôi thì diện tích mới là:",
+    "options": ["48 cm²", "12 cm²", "72 cm²", "24 cm²"],
+    "correctAnswer": "48 cm²"
+  },
+  {
+    "question": "Một hình thang có diện tích 100 cm². Nếu tăng chiều cao lên 2 lần và giữ nguyên hai đáy thì diện tích mới là:",
+    "options": ["200 cm²", "50 cm²", "100 cm²", "400 cm²"],
+    "correctAnswer": "200 cm²"
+  },
+  {
+    "question": "Một hình tròn có diện tích là 12,56 m². Chu vi của hình tròn đó là:",
+    "options": ["12,56 m", "6,28 m", "25,12 m", "2 m"],
+    "correctAnswer": "12,56 m"
+  },
+  {
+    "question": "Một cái sân hình chữ nhật có chiều dài 20m, chiều rộng 15m. Người ta đào một cái ao hình tròn ở giữa sân có bán kính 5m. Diện tích phần đất còn lại là:",
+    "options": ["221,5 m²", "300 m²", "78,5 m²", "262,8 m²"],
+    "correctAnswer": "221,5 m²"
+  },
+  {
+    "question": "Một hình tam giác có đáy 1,6m và chiều cao 0,8m. Diện tích của nó là:",
+    "options": ["0,64 m²", "1,28 m²", "6,4 m²", "12,8 m²"],
+    "correctAnswer": "0,64 m²"
+  },
+  {
+    "question": "Một hình thang có đáy lớn 1,5dm, đáy bé 0,8dm và chiều cao 0,5dm. Diện tích hình thang đó là:",
+    "options": ["0,575 dm²", "1,15 dm²", "5,75 dm²", "0,6 dm²"],
+    "correctAnswer": "0,575 dm²"
+  },
+  {
+    "question": "Một bánh xe đạp có đường kính 65cm. Nếu bánh xe lăn 100 vòng thì đi được quãng đường dài bao nhiêu mét?",
+    "options": ["204,1 m", "20,41 m", "2041 m", "6500 m"],
+    "correctAnswer": "204,1 m"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 5/8 m² và chiều cao 1/2 m. Độ dài đáy của tam giác đó là:",
+    "options": ["2,5 m", "5/4 m", "1,25 m", "Cả B và C đều đúng"],
+    "correctAnswer": "Cả B và C đều đúng"
+  },
+  {
+    "question": "Một hình thang có trung bình cộng hai đáy là 12,5cm và diện tích là 125 cm². Chiều cao của hình thang là:",
+    "options": ["10 cm", "20 cm", "5 cm", "15 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Chu vi của một hình tròn gấp đôi chu vi của một hình tròn khác. Tỉ số diện tích của hai hình tròn đó là:",
+    "options": ["4", "2", "1/2", "1/4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một hình tam giác có chiều cao bằng 3/4 cạnh đáy. Biết chiều cao hơn cạnh đáy 5cm. Diện tích tam giác đó là:",
+    "options": ["150 cm²", "300 cm²", "75 cm²", "100 cm²"],
+    "correctAnswer": "150 cm²"
+  },
+  {
+    "question": "Một hình thang vuông có đáy bé bằng chiều cao và bằng nửa đáy lớn. Diện tích hình thang là 24 m². Chiều cao hình thang là:",
+    "options": ["4 m", "6 m", "8 m", "3 m"],
+    "correctAnswer": "4 m"
+  },
+  {
+    "question": "Một cái giếng hình tròn có miệng giếng rộng 1,6m. Thành giếng rộng 0,2m. Diện tích thành giếng là:",
+    "options": ["1,1304 m²", "2,0096 m²", "3,14 m²", "0,8792 m²"],
+    "correctAnswer": "1,1304 m²"
+  },
+  {
+    "question": "Một hình tam giác có đáy tăng 20%, chiều cao giảm 20%. Diện tích tam giác đó thay đổi như thế nào?",
+    "options": ["Giảm 4%", "Tăng 4%", "Không đổi", "Giảm 10%"],
+    "correctAnswer": "Giảm 4%"
+  },
+  {
+    "question": "Một hình thang có tổng hai đáy không đổi. Nếu chiều cao tăng lên 3 lần thì diện tích hình thang:",
+    "options": ["Tăng lên 3 lần", "Tăng lên 9 lần", "Giảm đi 3 lần", "Không đổi"],
+    "correctAnswer": "Tăng lên 3 lần"
+  },
+  {
+    "question": "Nếu đường kính một hình tròn giảm đi 2 lần thì diện tích của nó giảm đi:",
+    "options": ["4 lần", "2 lần", "8 lần", "6 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 120 cm². Chiều cao 15cm. Cạnh đáy tương ứng là:",
+    "options": ["16 cm", "8 cm", "32 cm", "24 cm"],
+    "correctAnswer": "16 cm"
+  },
+  {
+    "question": "Một hình thang có đáy lớn 20dm, đáy bé 15dm, chiều cao 10dm. Diện tích hình thang đó là:",
+    "options": ["175 dm²", "350 dm²", "300 dm²", "17,5 dm²"],
+    "correctAnswer": "175 dm²"
+  },
+  {
+    "question": "Chu vi của một hình tròn là 18,84 cm. Bán kính của hình tròn đó là:",
+    "options": ["3 cm", "6 cm", "9 cm", "2 cm"],
+    "correctAnswer": "3 cm"
+  },
+  {
+    "question": "Một hình tam giác có đáy 25m. Nếu giảm đáy đi 5m thì diện tích giảm đi 30 m². Diện tích ban đầu của tam giác là:",
+    "options": ["150 m²", "120 m²", "180 m²", "100 m²"],
+    "correctAnswer": "150 m²"
+  },
+  {
+    "question": "Một hình thang có đáy bé bằng 1/2 đáy lớn, chiều cao bằng đáy bé. Tổng độ dài hai đáy là 36cm. Diện tích hình thang là:",
+    "options": ["216 cm²", "144 cm²", "432 cm²", "108 cm²"],
+    "correctAnswer": "216 cm²"
+  },
+  {
+    "question": "Diện tích của một hình tròn bằng diện tích của một hình vuông có cạnh 17,7 cm. Chu vi của hình tròn đó là:",
+    "options": ["Khoảng 62,8 cm", "Khoảng 31,4 cm", "Khoảng 10 cm", "Khoảng 20 cm"],
+    "correctAnswer": "Khoảng 62,8 cm"
+  },
+  {
+    "question": "Một hình tam giác có ba cạnh là 6cm, 8cm, 10cm. Đây là tam giác gì?",
+    "options": ["Tam giác vuông", "Tam giác cân", "Tam giác đều", "Tam giác tù"],
+    "correctAnswer": "Tam giác vuông"
+  },
+  {
+    "question": "Diện tích của tam giác có ba cạnh 6cm, 8cm, 10cm là:",
+    "options": ["24 cm²", "48 cm²", "30 cm²", "40 cm²"],
+    "correctAnswer": "24 cm²"
+  },
+  {
+    "question": "Một hình thang có diện tích 0,56 m² và chiều cao 0,8 m. Trung bình cộng hai đáy là:",
+    "options": ["0,7 m", "1,4 m", "0,35 m", "7 m"],
+    "correctAnswer": "0,7 m"
+  },
+  {
+    "question": "Một bánh xe lăn 10 vòng được 21,98m. Đường kính của bánh xe là:",
+    "options": ["0,7 m", "7 m", "0,35 m", "3,5 m"],
+    "correctAnswer": "0,7 m"
+  },
+  {
+    "question": "Một hình tam giác có đáy là 0,5m và chiều cao là 0,4m. Diện tích tam giác đó là bao nhiêu đề-xi-mét vuông?",
+    "options": ["10 dm²", "1 dm²", "0,1 dm²", "100 dm²"],
+    "correctAnswer": "10 dm²"
+  },
+  {
+    "question": "Một cái sân hình thang có đáy lớn 30m, đáy bé 20m, chiều cao bằng 4/5 đáy lớn. Để lát sân, người ta dùng gạch hình vuông cạnh 50cm. Cần bao nhiêu viên gạch?",
+    "options": ["2400 viên", "1200 viên", "600 viên", "4800 viên"],
+    "correctAnswer": "2400 viên"
+  },
+  {
+    "question": "Một cái ao hình tròn có chu vi 50,24m. Người ta làm một con đường rộng 1m bao quanh ao. Diện tích con đường là:",
+    "options": ["53,38 m²", "25,12 m²", "200,96 m²", "150,72 m²"],
+    "correctAnswer": "53,38 m²"
+  },
+  {
+    "question": "Cho tam giác ABC. Trên cạnh BC lấy điểm M sao cho BM = 2MC. So sánh diện tích tam giác ABM và diện tích tam giác AMC.",
+    "options": ["S(ABM) = 2 * S(AMC)", "S(ABM) = 1/2 * S(AMC)", "S(ABM) = S(AMC)", "Không so sánh được"],
+    "correctAnswer": "S(ABM) = 2 * S(AMC)"
+  },
+  {
+    "question": "Một hình thang có đáy lớn gấp 3 lần đáy bé. Chiều cao 10cm. Diện tích 120 cm². Độ dài đáy bé là:",
+    "options": ["6 cm", "18 cm", "12 cm", "24 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Nếu chu vi một hình tròn tăng lên 10% thì diện tích của nó tăng lên:",
+    "options": ["21%", "10%", "20%", "100%"],
+    "correctAnswer": "21%"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 150 cm². Nếu tăng chiều cao thêm 5cm thì diện tích tăng thêm 25 cm². Chiều cao ban đầu của tam giác là:",
+    "options": ["30 cm", "10 cm", "25 cm", "15 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Một hình thang có đáy lớn 18cm, đáy bé 12cm. Chiều cao bằng 2/3 tổng hai đáy. Diện tích hình thang là:",
+    "options": ["300 cm²", "150 cm²", "600 cm²", "200 cm²"],
+    "correctAnswer": "300 cm²"
+  },
+  {
+    "question": "Một cái mâm hình tròn có bán kính 20cm. Diện tích cái mâm là:",
+    "options": ["1256 cm²", "125,6 cm²", "62,8 cm²", "400 cm²"],
+    "correctAnswer": "1256 cm²"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 54 cm², cạnh đáy 12cm. Chiều cao tương ứng là:",
+    "options": ["9 cm", "4,5 cm", "18 cm", "27 cm"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "Một hình thang có diện tích 90 cm², chiều cao 6cm. Trung bình cộng hai đáy là:",
+    "options": ["15 cm", "30 cm", "7,5 cm", "12 cm"],
+    "correctAnswer": "15 cm"
+  },
+  {
+    "question": "Một hình tròn có diện tích 78,5 dm². Đường kính của hình tròn đó là:",
+    "options": ["10 dm", "5 dm", "20 dm", "25 dm"],
+    "correctAnswer": "10 dm"
+  },
+  {
+    "question": "Một miếng đất hình tam giác vuông có tổng hai cạnh góc vuông là 35m. Cạnh góc vuông này bằng 3/4 cạnh góc vuông kia. Diện tích miếng đất là:",
+    "options": ["150 m²", "300 m²", "75 m²", "175 m²"],
+    "correctAnswer": "150 m²"
+  },
+  {
+    "question": "Một hình thang có đáy bé bằng chiều cao, đáy lớn gấp đôi đáy bé. Diện tích là 54 cm². Chiều cao của hình thang là:",
+    "options": ["6 cm", "4 cm", "9 cm", "12 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Một cái đĩa hình tròn có chu vi 37,68 cm. Diện tích cái đĩa là:",
+    "options": ["113,04 cm²", "56,52 cm²", "226,08 cm²", "37,68 cm²"],
+    "correctAnswer": "113,04 cm²"
+  },
+  {
+    "question": "Một hình tam giác có đáy là 24cm. Chiều cao bằng 75% độ dài đáy. Diện tích hình tam giác là:",
+    "options": ["216 cm²", "432 cm²", "180 cm²", "288 cm²"],
+    "correctAnswer": "216 cm²"
+  },
+  {
+    "question": "Một hình thang có đáy lớn 2,4m, đáy bé 1,6m, chiều cao 1m. Diện tích hình thang đó là:",
+    "options": ["2 m²", "4 m²", "1 m²", "3 m²"],
+    "correctAnswer": "2 m²"
+  },
+  {
+    "question": "Một bánh xe lăn trên mặt đất 1000 vòng được quãng đường dài 1884m. Bán kính của bánh xe là:",
+    "options": ["0,3 m", "0,6 m", "3 m", "6 m"],
+    "correctAnswer": "0,3 m"
+  },
+  {
+    "question": "Một hình tam giác có diện tích không đổi. Nếu đáy của nó tăng lên 2 lần thì chiều cao tương ứng sẽ:",
+    "options": ["Giảm đi 2 lần", "Tăng lên 2 lần", "Không đổi", "Giảm đi 4 lần"],
+    "correctAnswer": "Giảm đi 2 lần"
+  },
+  {
+    "question": "Diện tích hình thang bằng diện tích hình chữ nhật có chiều dài 15cm, chiều rộng 8cm. Biết chiều cao hình thang là 10cm. Tổng hai đáy hình thang là:",
+    "options": ["24 cm", "12 cm", "120 cm", "20 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Diện tích hình tròn lớn gấp 9 lần diện tích hình tròn bé. Hỏi chu vi hình tròn lớn gấp mấy lần chu vi hình tròn bé?",
+    "options": ["3 lần", "9 lần", "6 lần", "4,5 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Một hình tam giác có cạnh đáy 1,2dm. Chiều cao bằng 2/3 cạnh đáy. Diện tích tam giác đó là:",
+    "options": ["0,48 dm²", "48 cm²", "Cả A và B đều đúng", "9,6 dm²"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một hình thang có đáy bé 0,8m, đáy lớn 1,2m, chiều cao 0,5m. Diện tích hình thang đó là:",
+    "options": ["0,5 m²", "1 m²", "2 m²", "0,48 m²"],
+    "correctAnswer": "0,5 m²"
+  },
+  {
+    "question": "Một cái nong hình tròn có bán kính 40cm. Chu vi của cái nong đó là:",
+    "options": ["251,2 cm", "125,6 cm", "5024 cm", "25,12 cm"],
+    "correctAnswer": "251,2 cm"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 4,5 dm², chiều cao 15cm. Cạnh đáy của tam giác là:",
+    "options": ["60 cm", "6 cm", "30 cm", "3 cm"],
+    "correctAnswer": "60 cm"
+  },
+  {
+    "question": "Một hình thang có diện tích 2,4 m², chiều cao 1,2 m, đáy bé 1,5 m. Đáy lớn của hình thang là:",
+    "options": ["2,5 m", "4 m", "2 m", "3 m"],
+    "correctAnswer": "2,5 m"
+  },
+  {
+    "question": "Một cái sân hình chữ nhật có chiều dài 24m, chiều rộng 18m. Người ta làm một bồn hoa hình tròn có đường kính 4m ở giữa sân. Diện tích phần sân còn lại là:",
+    "options": ["419,44 m²", "432 m²", "12,56 m²", "400 m²"],
+    "correctAnswer": "419,44 m²"
+  }
+]
+
