@@ -1,0 +1,438 @@
+[
+  {
+    "question": "Vectơ là một đoạn thẳng có:",
+    "options": ["Hướng", "Độ dài", "Giá", "Cả A và B"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hai vectơ được gọi là bằng nhau nếu chúng:",
+    "options": ["Cùng hướng và cùng độ dài", "Cùng phương và cùng độ dài", "Song song và cùng độ dài", "Cùng giá và cùng độ dài"],
+    "correctAnswer": "Cùng hướng và cùng độ dài"
+  },
+  {
+    "question": "Cho hình bình hành ABCD. Đẳng thức vectơ nào sau đây đúng?",
+    "options": ["vectơ AB = vectơ DC", "vectơ AB = vectơ CD", "vectơ AD = vectơ CB", "vectơ AC = vectơ BD"],
+    "correctAnswer": "vectơ AB = vectơ DC"
+  },
+  {
+    "question": "Cho 3 điểm A, B, C. Quy tắc ba điểm cho phép cộng vectơ là:",
+    "options": ["vectơ AB + vectơ BC = vectơ AC", "vectơ AB + vectơ AC = vectơ BC", "vectơ CA + vectơ AB = vectơ CB", "vectơ AA = 0"],
+    "correctAnswer": "vectơ AB + vectơ BC = vectơ AC"
+  },
+  {
+    "question": "Trong mặt phẳng tọa độ Oxy, cho vectơ u = (2; -3). Tọa độ của vectơ u là:",
+    "options": ["2i - 3j", "-2i + 3j", "2i + 3j", "3i - 2j"],
+    "correctAnswer": "2i - 3j"
+  },
+  {
+    "question": "Tích vô hướng của hai vectơ a và b được tính bằng công thức:",
+    "options": ["a.b = |a|.|b|.cos(a,b)", "a.b = |a|.|b|.sin(a,b)", "a.b = a₁b₂ + a₂b₁", "a.b = |a|.|b|"],
+    "correctAnswer": "a.b = |a|.|b|.cos(a,b)"
+  },
+  {
+    "question": "Vectơ-không là vectơ có:",
+    "options": ["Độ dài bằng 0", "Điểm đầu và điểm cuối trùng nhau", "Cả A và B", "Không có hướng"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho 3 điểm A, B, C. Quy tắc trừ vectơ là:",
+    "options": ["vectơ AB - vectơ AC = vectơ CB", "vectơ AB - vectơ CB = vectơ AC", "vectơ BA - vectơ BC = vectơ AC", "vectơ CA - vectơ CB = vectơ AB"],
+    "correctAnswer": "vectơ AB - vectơ AC = vectơ CB"
+  },
+  {
+    "question": "Cho vectơ a và số thực k. Vectơ ka có độ dài là:",
+    "options": ["|k|.|a|", "k.|a|", "|k|.a", "k.a"],
+    "correctAnswer": "|k|.|a|"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(x₁, y₁) và B(x₂, y₂). Tọa độ của vectơ AB là:",
+    "options": ["(x₂-x₁, y₂-y₁)", "(x₁+x₂, y₁+y₂)", "(x₁-x₂, y₁-y₂)", "(x₁x₂, y₁y₂)"],
+    "correctAnswer": "(x₂-x₁, y₂-y₁)"
+  },
+  {
+    "question": "Hai vectơ a và b vuông góc với nhau khi và chỉ khi:",
+    "options": ["a.b = 0", "a.b = 1", "a.b = -1", "a và b cùng phương"],
+    "correctAnswer": "a.b = 0"
+  },
+  {
+    "question": "Cho tam giác ABC. Gọi M là trung điểm của BC. Đẳng thức nào sau đây đúng?",
+    "options": ["vectơ AB + vectơ AC = 2 vectơ AM", "vectơ AB + vectơ AC = vectơ AM", "vectơ MB + vectơ MC = 0", "vectơ AM = (1/2)vectơ BC"],
+    "correctAnswer": "vectơ AB + vectơ AC = 2 vectơ AM"
+  },
+  {
+    "question": "Cho vectơ a = (3; 4). Độ dài của vectơ a là:",
+    "options": ["5", "7", "√7", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho hai vectơ a=(1; 2) và b=(3; 4). Tọa độ của vectơ a+b là:",
+    "options": ["(4; 6)", "(2; 2)", "(-2; -2)", "(3; 8)"],
+    "correctAnswer": "(4; 6)"
+  },
+  {
+    "question": "Cho hai vectơ a=(2; 1) và b=(-1; 3). Tích vô hướng a.b là:",
+    "options": ["1", "5", "-1", "7"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Vectơ đối của vectơ AB là:",
+    "options": ["vectơ BA", "-vectơ AB", "Cả A và B", "vectơ AA"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC đều cạnh a. Độ dài của vectơ AB + vectơ AC là:",
+    "options": ["a√3", "2a", "a", "a/2"],
+    "correctAnswer": "a√3"
+  },
+  {
+    "question": "Cho vectơ a=(2; 5). Tọa độ của vectơ -3a là:",
+    "options": ["(-6; -15)", "(6; 15)", "(-6; 15)", "(6; -15)"],
+    "correctAnswer": "(-6; -15)"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1; 3) và B(4; 2). Tọa độ trung điểm I của đoạn AB là:",
+    "options": ["(5/2; 5/2)", "(3; -1)", "(5; 5)", "(3/2; -1/2)"],
+    "correctAnswer": "(5/2; 5/2)"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A có AB=3, AC=4. Tích vô hướng vectơ BA . vectơ BC là:",
+    "options": ["9", "16", "25", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Hai vectơ được gọi là cùng phương nếu:",
+    "options": ["Giá của chúng song song hoặc trùng nhau", "Chúng cùng hướng", "Chúng ngược hướng", "Chúng bằng nhau"],
+    "correctAnswer": "Giá của chúng song song hoặc trùng nhau"
+  },
+  {
+    "question": "Cho hình bình hành ABCD tâm O. Đẳng thức nào sau đây sai?",
+    "options": ["vectơ OA + vectơ OC = vectơ OB + vectơ OD", "vectơ AB + vectơ AD = vectơ AC", "vectơ DA + vectơ DC = vectơ DB", "vectơ BA + vectơ BC = vectơ BD"],
+    "correctAnswer": "vectơ OA + vectơ OC = vectơ OB + vectơ OD"
+  },
+  {
+    "question": "Cho vectơ a và điểm O. Có bao nhiêu điểm M sao cho vectơ OM = vectơ a?",
+    "options": ["Một và chỉ một", "Vô số", "Không có", "Hai"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1; 2), B(-1; 4), C(2; 2). Tọa độ trọng tâm G của tam giác ABC là:",
+    "options": ["(2/3; 8/3)", "(2; 8)", "(0; 6)", "(4/3; 4/3)"],
+    "correctAnswer": "(2/3; 8/3)"
+  },
+  {
+    "question": "Cho hai vectơ a và b khác vectơ-không. Nếu a.b = -|a|.|b| thì:",
+    "options": ["a và b ngược hướng", "a và b cùng hướng", "a và b vuông góc", "a = b"],
+    "correctAnswer": "a và b ngược hướng"
+  },
+  {
+    "question": "Độ dài của một vectơ được ký hiệu là:",
+    "options": ["|vectơ a|", "||vectơ a||", "Cả A và B", "vectơ a"],
+    "correctAnswer": "|vectơ a|"
+  },
+  {
+    "question": "Cho 4 điểm A, B, C, D. Đẳng thức nào sau đây đúng?",
+    "options": ["vectơ AB + vectơ BC + vectơ CD = vectơ AD", "vectơ AB + vectơ CD = vectơ AC + vectơ BD", "vectơ AB + vectơ BC = vectơ CA", "vectơ DA + vectơ AB = vectơ DB"],
+    "correctAnswer": "vectơ AB + vectơ BC + vectơ CD = vectơ AD"
+  },
+  {
+    "question": "Vectơ ka (k≠0) cùng hướng với vectơ a khi:",
+    "options": ["k > 0", "k < 0", "k = 1", "k = -1"],
+    "correctAnswer": "k > 0"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho vectơ u = 3i - 4j. Độ dài của vectơ u là:",
+    "options": ["5", "7", "√7", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho tam giác đều ABC cạnh a. Tích vô hướng vectơ AB . vectơ AC là:",
+    "options": ["a²/2", "a²", "-a²/2", "0"],
+    "correctAnswer": "a²/2"
+  },
+  {
+    "question": "Giá của vectơ là:",
+    "options": ["Đường thẳng đi qua điểm đầu và điểm cuối của vectơ", "Độ dài của vectơ", "Hướng của vectơ", "Điểm đầu của vectơ"],
+    "correctAnswer": "Đường thẳng đi qua điểm đầu và điểm cuối của vectơ"
+  },
+  {
+    "question": "Cho hình vuông ABCD cạnh a. Độ dài của vectơ AB + vectơ AD là:",
+    "options": ["a√2", "2a", "a", "0"],
+    "correctAnswer": "a√2"
+  },
+  {
+    "question": "Điều kiện cần và đủ để hai vectơ a và b cùng phương là:",
+    "options": ["Tồn tại số thực k sao cho a = kb", "a và b có cùng độ dài", "a và b có cùng giá", "a và b vuông góc"],
+    "correctAnswer": "Tồn tại số thực k sao cho a = kb"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(x; 2) và b=(1; -3). Hai vectơ này cùng phương khi:",
+    "options": ["x = -2/3", "x = 2/3", "x = -3/2", "x = 3/2"],
+    "correctAnswer": "x = -2/3"
+  },
+  {
+    "question": "Cho hai vectơ a và b. Bất đẳng thức nào sau đây đúng?",
+    "options": ["|a.b| ≤ |a|.|b|", "|a+b| ≤ |a|+|b|", "Cả A và B", "|a-b| ≥ |a|-|b|"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hai vectơ có cùng độ dài và ngược hướng được gọi là:",
+    "options": ["Hai vectơ đối nhau", "Hai vectơ bằng nhau", "Hai vectơ cùng phương", "Hai vectơ vuông góc"],
+    "correctAnswer": "Hai vectơ đối nhau"
+  },
+  {
+    "question": "Cho tam giác ABC và điểm M tùy ý. Đẳng thức nào đúng?",
+    "options": ["vectơ MA + vectơ MB + vectơ MC = 3 vectơ MG (G là trọng tâm)", "vectơ MA + vectơ MB = vectơ MC", "vectơ GA + vectơ GB + vectơ GC = 3", "vectơ AB + vectơ BC + vectơ CA = 0"],
+    "correctAnswer": "vectơ MA + vectơ MB + vectơ MC = 3 vectơ MG (G là trọng tâm)"
+  },
+  {
+    "question": "Cho vectơ a = (2; -1). Vectơ nào sau đây vuông góc với a?",
+    "options": ["b = (1; 2)", "c = (2; 1)", "d = (-2; 1)", "e = (4; -2)"],
+    "correctAnswer": "b = (1; 2)"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(2; 5), B(-1; 3). Tọa độ của vectơ BA là:",
+    "options": ["(3; 2)", "(-3; -2)", "(1; 8)", "(-1; 3/5)"],
+    "correctAnswer": "(3; 2)"
+  },
+  {
+    "question": "Cho tam giác ABC có A=60°, AB=5, AC=8. Tích vô hướng vectơ AB . vectơ AC là:",
+    "options": ["20", "40", "20√3", "20√2"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Cho vectơ AB khác vectơ-không. Có bao nhiêu điểm C sao cho vectơ AC = vectơ AB?",
+    "options": ["1", "0", "2", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho hình chữ nhật ABCD có AB=4, AD=3. Độ dài của vectơ AB + vectơ AD là:",
+    "options": ["5", "7", "√7", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho I là trung điểm của đoạn thẳng AB. Với điểm M bất kỳ, ta có:",
+    "options": ["vectơ MA + vectơ MB = 2 vectơ MI", "vectơ IA + vectơ IB = 0", "Cả A và B", "vectơ MI = (1/2)(vectơ MA - vectơ MB)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(1; 2), b=(-3; 1), c=(5; 3). Tọa độ của vectơ u = a + 2b - c là:",
+    "options": ["(-10; 1)", "(0; 1)", "(-10; -1)", "(0; -1)"],
+    "correctAnswer": "(-10; 1)"
+  },
+  {
+    "question": "Cho hai vectơ a và b. Công thức hình chiếu: a.b = a.b' với b' là:",
+    "options": ["Hình chiếu của b lên giá của a", "Hình chiếu của a lên giá của b", "Vectơ đơn vị", "Vectơ-không"],
+    "correctAnswer": "Hình chiếu của b lên giá của a"
+  },
+  {
+    "question": "Vectơ có điểm đầu là A, điểm cuối là B được ký hiệu là:",
+    "options": ["vectơ AB", "AB", "|AB|", "đoạn thẳng AB"],
+    "correctAnswer": "vectơ AB"
+  },
+  {
+    "question": "Quy tắc hình bình hành cho tổng hai vectơ là:",
+    "options": ["vectơ AB + vectơ AD = vectơ AC (ABCD là hình bình hành)", "vectơ AB + vectơ BC = vectơ AC", "vectơ OA + vectơ OB = vectơ OC", "vectơ AB = vectơ DC"],
+    "correctAnswer": "vectơ AB + vectơ AD = vectơ AC (ABCD là hình bình hành)"
+  },
+  {
+    "question": "Cho vectơ a=(x; y). Độ dài của vectơ a được tính bằng:",
+    "options": ["√(x²+y²)", "x²+y²", "|x|+|y|", "x+y"],
+    "correctAnswer": "√(x²+y²)"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(2; 4) và b=(1; 2). Kết luận nào đúng?",
+    "options": ["a và b cùng phương", "a và b vuông góc", "a và b bằng nhau", "a và b đối nhau"],
+    "correctAnswer": "a và b cùng phương"
+  },
+  {
+    "question": "Cho tam giác ABC vuông cân tại A có AB=a. Tích vô hướng vectơ AB . vectơ BC là:",
+    "options": ["-a²", "a²", "0", "a²√2"],
+    "correctAnswer": "-a²"
+  },
+  {
+    "question": "Cho 4 điểm bất kỳ A, B, C, D. Vectơ AB + vectơ CD bằng:",
+    "options": ["vectơ AD + vectơ CB", "vectơ AC + vectơ BD", "vectơ BC + vectơ DA", "vectơ 0"],
+    "correctAnswer": "vectơ AD + vectơ CB"
+  },
+  {
+    "question": "Cho tam giác ABC có trọng tâm G. Đẳng thức nào sau đây đúng?",
+    "options": ["vectơ GA + vectơ GB + vectơ GC = vectơ 0", "vectơ AG + vectơ BG + vectơ CG = vectơ 0", "vectơ OA + vectơ OB + vectơ OC = 0", "vectơ AB + vectơ AC = vectơ AG"],
+    "correctAnswer": "vectơ GA + vectơ GB + vectơ GC = vectơ 0"
+  },
+  {
+    "question": "Vectơ ka ngược hướng với vectơ a (a≠0) khi:",
+    "options": ["k < 0", "k > 0", "k = 0", "k = 1"],
+    "correctAnswer": "k < 0"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1;1), B(2;4), C(1;-2). Tọa độ điểm D để ABCD là hình bình hành là:",
+    "options": ["(0; -5)", "(2; 1)", "(0; 7)", "(-2; -1)"],
+    "correctAnswer": "(0; -5)"
+  },
+  {
+    "question": "Cho |a|=3, |b|=5, góc(a,b)=60°. Tích vô hướng a.b là:",
+    "options": ["7.5", "15", "15√3/2", "30"],
+    "correctAnswer": "7.5"
+  },
+  {
+    "question": "Hai vectơ khác vectơ-không được gọi là đối nhau khi:",
+    "options": ["Chúng ngược hướng và cùng độ dài", "Chúng cùng hướng và cùng độ dài", "Chúng cùng phương", "Chúng có giá vuông góc"],
+    "correctAnswer": "Chúng ngược hướng và cùng độ dài"
+  },
+  {
+    "question": "Cho tam giác ABC. Số vectơ khác vectơ-không có điểm đầu và điểm cuối là các đỉnh của tam giác là:",
+    "options": ["6", "3", "9", "2"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho vectơ a và b. |a+b| = |a|+|b| khi và chỉ khi:",
+    "options": ["a và b cùng hướng", "a và b ngược hướng", "a và b vuông góc", "a=b"],
+    "correctAnswer": "a và b cùng hướng"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(2; -4). Vectơ nào cùng phương với a?",
+    "options": ["b=(-1; 2)", "c=(2; 4)", "d=(4; 2)", "e=(1; 2)"],
+    "correctAnswer": "b=(-1; 2)"
+  },
+  {
+    "question": "Cho tam giác ABC. Tích vô hướng (vectơ AB - vectơ AC) . vectơ BC là:",
+    "options": ["vectơ CB . vectơ BC = -BC²", "0", "AC²", "AB²"],
+    "correctAnswer": "vectơ CB . vectơ BC = -BC²"
+  },
+  {
+    "question": "Vectơ đơn vị là vectơ có:",
+    "options": ["Độ dài bằng 1", "Hướng tùy ý", "Cả A và B", "Độ dài bằng 0"],
+    "correctAnswer": "Độ dài bằng 1"
+  },
+  {
+    "question": "Cho hình thoi ABCD cạnh a, góc BAD=60°. Độ dài của vectơ AB + vectơ AD là:",
+    "options": ["a√3", "2a", "a", "a√2"],
+    "correctAnswer": "a√3"
+  },
+  {
+    "question": "Cho G là trọng tâm tam giác ABC. Mệnh đề nào sai?",
+    "options": ["vectơ AG = (2/3)(vectơ AB + vectơ AC)", "vectơ AG = (1/3)(vectơ AB + vectơ AC)", "vectơ GA + vectơ GB + vectơ GC = 0", "vectơ OA + vectơ OB + vectơ OC = 3 vectơ OG"],
+    "correctAnswer": "vectơ AG = (2/3)(vectơ AB + vectơ AC)"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(m; 2) và b=(3; -6). Hai vectơ này vuông góc khi:",
+    "options": ["m = 4", "m = -4", "m = 1", "m = -1"],
+    "correctAnswer": "m = 4"
+  },
+  {
+    "question": "Cho tam giác ABC. M là điểm trên cạnh BC sao cho MB = 2MC. Khi đó:",
+    "options": ["vectơ AM = (1/3)vectơ AB + (2/3)vectơ AC", "vectơ AM = (2/3)vectơ AB + (1/3)vectơ AC", "vectơ AM = vectơ AB + vectơ AC", "vectơ AM = (1/2)(vectơ AB + vectơ AC)"],
+    "correctAnswer": "vectơ AM = (1/3)vectơ AB + (2/3)vectơ AC"
+  },
+  {
+    "question": "Cho hình chữ nhật ABCD có AB=8, AD=6. Tích vô hướng vectơ AB . vectơ BD là:",
+    "options": ["-64", "64", "0", "48"],
+    "correctAnswer": "-64"
+  },
+  {
+    "question": "Mệnh đề nào sau đây đúng?",
+    "options": ["Vectơ là một đại lượng vô hướng", "Hai vectơ bằng nhau nếu độ dài chúng bằng nhau", "Vectơ-không cùng hướng với mọi vectơ", "Hiệu của hai vectơ là một vectơ"],
+    "correctAnswer": "Vectơ-không cùng hướng với mọi vectơ"
+  },
+  {
+    "question": "Cho tam giác ABC đều cạnh a. Độ dài của vectơ AB - vectơ AC là:",
+    "options": ["a", "2a", "a√3", "0"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Cho a = k.b. Nếu k>0 thì a và b cùng hướng. Nếu k<0 thì a và b ngược hướng. Phát biểu này:",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi k=1", "Chỉ đúng khi k=-1"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1;3), B(3;1), C(5;5). Tọa độ điểm D để ACBD là hình bình hành là:",
+    "options": ["(7;3)", "(3;7)", "(-1;1)", "(3;-1)"],
+    "correctAnswer": "(7;3)"
+  },
+  {
+    "question": "Cho |a|=4, |b|=6, góc(a,b)=30°. Tích vô hướng a.b là:",
+    "options": ["12√3", "24", "12", "12√2"],
+    "correctAnswer": "12√3"
+  },
+  {
+    "question": "Vectơ có điểm đầu và điểm cuối trùng nhau gọi là:",
+    "options": ["Vectơ-không", "Vectơ đơn vị", "Vectơ bằng nhau", "Vectơ đối nhau"],
+    "correctAnswer": "Vectơ-không"
+  },
+  {
+    "question": "Cho 6 điểm A, B, C, D, E, F. Tổng vectơ AB + vectơ CD + vectơ EF bằng:",
+    "options": ["vectơ AD + vectơ CF + vectơ EB", "vectơ AF + vectơ CE + vectơ DB", "Cả A và B", "vectơ 0"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC. Điểm M thỏa mãn vectơ MA + vectơ MB + 2 vectơ MC = vectơ 0. M là:",
+    "options": ["Trung điểm của đoạn thẳng nối C và trung điểm của AB", "Trọng tâm tam giác ABC", "Đỉnh C", "Trung điểm AB"],
+    "correctAnswer": "Trung điểm của đoạn thẳng nối C và trung điểm của AB"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(1; -2) và b=(-2; 4). Kết luận nào đúng?",
+    "options": ["a và b ngược hướng", "a và b cùng hướng", "a và b vuông góc", "a và b không cùng phương"],
+    "correctAnswer": "a và b ngược hướng"
+  },
+  {
+    "question": "Cho tam giác ABC. Tích vô hướng (vectơ AB + vectơ BC) . vectơ AC là:",
+    "options": ["AC²", "AB²", "BC²", "0"],
+    "correctAnswer": "AC²"
+  },
+  {
+    "question": "Cho hình vuông ABCD tâm O cạnh a. Độ dài của vectơ OA - vectơ CB là:",
+    "options": ["a√2/2", "a√2", "a", "0"],
+    "correctAnswer": "a√2/2"
+  },
+  {
+    "question": "Cho tam giác ABC có M, N, P lần lượt là trung điểm của BC, CA, AB. Đẳng thức nào sai?",
+    "options": ["vectơ AP + vectơ AN = vectơ AM", "vectơ AP + vectơ BM + vectơ CN = vectơ 0", "vectơ MN + vectơ NP + vectơ PM = vectơ 0", "vectơ PB + vectơ MC = vectơ MP"],
+    "correctAnswer": "vectơ AP + vectơ AN = vectơ AM"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1;5), B(5;1), C(3;3). Tam giác ABC là:",
+    "options": ["Tam giác cân tại C", "Tam giác đều", "Tam giác vuông tại C", "Tam giác tù"],
+    "correctAnswer": "Tam giác cân tại C"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, AB=a, BC=2a. Tích vô hướng vectơ CA . vectơ CB là:",
+    "options": ["3a²", "a²", "2a²", "4a²"],
+    "correctAnswer": "3a²"
+  },
+  {
+    "question": "Cho tam giác ABC. Tập hợp các điểm M thỏa mãn |vectơ MA + vectơ MB| = |vectơ MA - vectơ MB| là:",
+    "options": ["Đường trung trực của đoạn thẳng AB", "Đường tròn đường kính AB", "Đường thẳng AB", "Điểm C"],
+    "correctAnswer": "Đường tròn đường kính AB"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(2;1), b=(3;-1), c=(-4;2). Tìm tọa độ vectơ u = 3a+2b-4c.",
+    "options": ["(28; -7)", "(6; -3)", "(16; -11)", "(28; 3)"],
+    "correctAnswer": "(28; -7)"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=2, AC=3, A=120°. Độ dài cạnh BC là:",
+    "options": ["√19", "√7", "19", "7"],
+    "correctAnswer": "√19"
+  },
+  {
+    "question": "Cho hình chữ nhật ABCD. Đẳng thức nào sau đây đúng?",
+    "options": ["|vectơ AB + vectơ AD| = |vectơ AB - vectơ AD|", "|vectơ AC| = |vectơ BD|", "Cả A và B", "vectơ AB = vectơ BC"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC. Gọi M, N là các điểm thỏa mãn vectơ AM = (1/3)vectơ AB, vectơ CN = 2 vectơ BC. Phân tích vectơ MN theo vectơ AB và AC.",
+    "options": ["(-2/3)vectơ AB + 3 vectơ AC", "(2/3)vectơ AB - 3 vectơ AC", "(-2/3)vectơ AB - 3 vectơ AC", "(2/3)vectơ AB + 3 vectơ AC)"],
+    "correctAnswer": "(-2/3)vectơ AB + 3 vectơ AC"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(2;1), B(0;3), C(4;3). Tìm tọa độ điểm I sao cho vectơ IA + 2 vectơ IB + 3 vectơ IC = vectơ 0.",
+    "options": ["(7/3; 8/3)", "(2; 3)", "(3; 2)", "(7/6; 8/6)"],
+    "correctAnswer": "(7/3; 8/3)"
+  },
+  {
+    "question": "Cho tam giác ABC có a=4, b=5, c=6. Cosin của góc nhỏ nhất trong tam giác là:",
+    "options": ["3/4", "9/16", "1/8", "1/2"],
+    "correctAnswer": "3/4"
+  }
+]
+
