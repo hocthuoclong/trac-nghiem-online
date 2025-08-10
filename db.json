@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Một số hình phẳng trong thực tiễn",
                   "file": "./data/math-6-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Tính đối xứng của hình phẳng trong tự nhiên",
+                  "file": "./data/math-6-chapter-5.json"
                 }
               ]
             },
