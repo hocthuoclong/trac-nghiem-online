@@ -30,6 +30,10 @@
                   "file": "./data/math-8-chapter-5.json"
                 }
               ]
+            },
+            "midterm-1": {
+              "name": "Ôn tập học kỳ 1",
+              "file": "./data/math-8-midterm-1.json"
             }
           }
         }
