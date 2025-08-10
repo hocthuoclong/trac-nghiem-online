@@ -1,8 +1,7 @@
 [
-  // --- Chương 1: Đa thức (40 câu) ---
   {
     "question": "Biểu thức nào sau đây là một đơn thức?",
-    "options": ["2x + y", "5(x+y)", "-3xy²z", "x² - 1"],
+    "options": ["-3xy²z", "2x + y", "5(x+y)", "x² - 1"],
     "correctAnswer": "-3xy²z"
   },
   {
@@ -12,7 +11,7 @@
   },
   {
     "question": "Bậc của đơn thức -5x³y⁴ là:",
-    "options": ["3", "4", "7", "12"],
+    "options": ["7", "3", "4", "12"],
     "correctAnswer": "7"
   },
   {
@@ -22,7 +21,7 @@
   },
   {
     "question": "Biểu thức nào sau đây là một đa thức?",
-    "options": ["5/x", "2x² - 3x + 1", "sqrt(x) + 2", "3xy/z"],
+    "options": ["2x² - 3x + 1", "5/x", "sqrt(x) + 2", "3xy/z"],
     "correctAnswer": "2x² - 3x + 1"
   },
   {
@@ -200,67 +199,590 @@
     "options": ["21", "5", "-4", "16"],
     "correctAnswer": "21"
   },
-  // --- Chương 2, 3, 4, 5 (đã được lược bỏ để giữ độ dài hợp lý) ---
-  // ... (160 câu hỏi của chương 2, 3, 4, 5) ...
-  // --- Chương 6: Phân thức đại số (40 câu) ---
   {
-    "question": "Điều kiện xác định của phân thức (x-1)/(x(x+2)) là:",
-    "options": ["x ≠ 0 và x ≠ -2", "x ≠ 0", "x ≠ -2", "x ≠ 1"],
-    "correctAnswer": "x ≠ 0 và x ≠ -2"
+    "question": "Tổng các góc của một tứ giác bằng:",
+    "options": ["360°", "180°", "540°", "720°"],
+    "correctAnswer": "360°"
   },
   {
-    "question": "Rút gọn (8xy²)/(12x²y) ta được:",
-    "options": ["2y / 3x", "2x / 3y", "2/3", "xy"],
-    "correctAnswer": "2y / 3x"
-  },
-  // ... (38 câu hỏi khác của chương 6) ...
-  // --- Chương 7: Phương trình bậc nhất và hàm số bậc nhất (40 câu) ---
-  {
-    "question": "Phương trình 2(x+1) = 2x + 2 có:",
-    "options": ["Vô số nghiệm", "Vô nghiệm", "Một nghiệm duy nhất", "Hai nghiệm"],
-    "correctAnswer": "Vô số nghiệm"
+    "question": "Hình thang là tứ giác có:",
+    "options": ["Hai cạnh đối song song", "Hai cạnh đối bằng nhau", "Bốn cạnh bằng nhau", "Bốn góc vuông"],
+    "correctAnswer": "Hai cạnh đối song song"
   },
   {
-    "question": "Hai xe khởi hành cùng lúc từ A và B cách nhau 180km và đi ngược chiều nhau. Vận tốc xe đi từ A là 40km/h, xe đi từ B là 50km/h. Hỏi sau bao lâu hai xe gặp nhau?",
-    "options": ["2 giờ", "1.5 giờ", "2.5 giờ", "3 giờ"],
-    "correctAnswer": "2 giờ"
-  },
-  // ... (38 câu hỏi khác của chương 7) ...
-  // --- Chương 8: Mở đầu về tính xác suất của biến cố (40 câu) ---
-  {
-    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm hai mặt là một số lẻ là:",
-    "options": ["9/36", "1/2", "18/36", "27/36"],
-    "correctAnswer": "9/36"
+    "question": "Trong hình thang cân, hai đường chéo:",
+    "options": ["Bằng nhau", "Vuông góc với nhau", "Là đường phân giác", "Song song với nhau"],
+    "correctAnswer": "Bằng nhau"
   },
   {
-    "question": "Một lớp có 40 học sinh, trong đó có 10 học sinh giỏi. Chọn ngẫu nhiên 1 học sinh. Xác suất không chọn được học sinh giỏi là:",
-    "options": ["30/40", "10/40", "1/4", "3/4"],
-    "correctAnswer": "Cả A và D đều đúng"
+    "question": "Hình bình hành là tứ giác có:",
+    "options": ["Các cặp cạnh đối song song", "Hai đường chéo bằng nhau", "Hai đường chéo vuông góc", "Bốn cạnh bằng nhau"],
+    "correctAnswer": "Các cặp cạnh đối song song"
   },
-  // ... (38 câu hỏi khác của chương 8) ...
-  // --- Chương 9: Tam giác đồng dạng (40 câu) ---
+  {
+    "question": "Dấu hiệu nào sau đây không phải để nhận biết hình bình hành?",
+    "options": ["Tứ giác có hai đường chéo bằng nhau", "Tứ giác có các cặp cạnh đối song song", "Tứ giác có các cặp cạnh đối bằng nhau", "Tứ giác có một cặp cạnh đối song song và bằng nhau"],
+    "correctAnswer": "Tứ giác có hai đường chéo bằng nhau"
+  },
+  {
+    "question": "Hình chữ nhật là hình bình hành có:",
+    "options": ["Một góc vuông", "Hai cạnh kề bằng nhau", "Hai đường chéo vuông góc", "Bốn cạnh bằng nhau"],
+    "correctAnswer": "Một góc vuông"
+  },
+  {
+    "question": "Trong hình chữ nhật, hai đường chéo:",
+    "options": ["Bằng nhau và cắt nhau tại trung điểm mỗi đường", "Vuông góc với nhau", "Không bằng nhau", "Là đường phân giác của các góc"],
+    "correctAnswer": "Bằng nhau và cắt nhau tại trung điểm mỗi đường"
+  },
+  {
+    "question": "Hình thoi là tứ giác có:",
+    "options": ["Bốn cạnh bằng nhau", "Bốn góc vuông", "Hai đường chéo bằng nhau", "Các cạnh đối song song"],
+    "correctAnswer": "Bốn cạnh bằng nhau"
+  },
+  {
+    "question": "Tính chất nào sau đây không phải của hình thoi?",
+    "options": ["Hai đường chéo bằng nhau", "Hai đường chéo vuông góc", "Hai đường chéo là phân giác của các góc", "Các cạnh đối song song"],
+    "correctAnswer": "Hai đường chéo bằng nhau"
+  },
+  {
+    "question": "Hình vuông là hình chữ nhật có:",
+    "options": ["Hai cạnh kề bằng nhau", "Hai đường chéo bằng nhau", "Một góc vuông", "Tất cả các đáp án trên"],
+    "correctAnswer": "Hai cạnh kề bằng nhau"
+  },
+  {
+    "question": "Hình vuông có mấy trục đối xứng?",
+    "options": ["4", "2", "1", "Vô số"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Đường trung bình của tam giác là đoạn thẳng nối:",
+    "options": ["Trung điểm hai cạnh của tam giác", "Đỉnh với trung điểm cạnh đối diện", "Hai đỉnh của tam giác", "Một đỉnh và một điểm trên cạnh đối diện"],
+    "correctAnswer": "Trung điểm hai cạnh của tam giác"
+  },
+  {
+    "question": "Đường trung bình của tam giác thì:",
+    "options": ["Song song với cạnh thứ ba và bằng nửa cạnh ấy", "Bằng cạnh thứ ba", "Vuông góc với cạnh thứ ba", "Bằng nửa chu vi tam giác"],
+    "correctAnswer": "Song song với cạnh thứ ba và bằng nửa cạnh ấy"
+  },
+  {
+    "question": "Đường trung bình của hình thang thì:",
+    "options": ["Song song với hai đáy và bằng nửa tổng hai đáy", "Song song với hai đáy và bằng nửa hiệu hai đáy", "Bằng tổng hai đáy", "Vuông góc với hai đáy"],
+    "correctAnswer": "Song song với hai đáy và bằng nửa tổng hai đáy"
+  },
+  {
+    "question": "Một hình thang có độ dài hai đáy là 6cm và 10cm. Độ dài đường trung bình của hình thang đó là:",
+    "options": ["8cm", "16cm", "4cm", "2cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Tứ giác ABCD có ∠A=60°, ∠B=90°, ∠C=120°. Số đo góc D là:",
+    "options": ["90°", "60°", "120°", "30°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Hình thang vuông là hình thang có:",
+    "options": ["Một góc vuông", "Hai góc vuông", "Hai cạnh bên bằng nhau", "Hai đường chéo bằng nhau"],
+    "correctAnswer": "Một góc vuông"
+  },
+  {
+    "question": "Trong hình bình hành ABCD, khẳng định nào sau đây sai?",
+    "options": ["AC = BD", "AB = CD", "AD = BC", "∠A + ∠B = 180°"],
+    "correctAnswer": "AC = BD"
+  },
+  {
+    "question": "Hình chữ nhật cũng là:",
+    "options": ["Hình bình hành và hình thang cân", "Hình thoi", "Hình vuông", "Tam giác cân"],
+    "correctAnswer": "Hình bình hành và hình thang cân"
+  },
+  {
+    "question": "Hình thoi có một góc vuông là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường và vuông góc với nhau là:",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Tứ giác nào vừa có tâm đối xứng, vừa có trục đối xứng?",
+    "options": ["Hình chữ nhật, hình thoi, hình vuông", "Hình bình hành", "Hình thang cân", "Tất cả các tứ giác"],
+    "correctAnswer": "Hình chữ nhật, hình thoi, hình vuông"
+  },
+  {
+    "question": "Trong tam giác ABC, M là trung điểm AB, N là trung điểm AC. Biết MN = 5cm. Độ dài BC là:",
+    "options": ["10cm", "2.5cm", "5cm", "15cm"],
+    "correctAnswer": "10cm"
+  },
+  {
+    "question": "Đoạn thẳng nối trung điểm hai đường chéo của hình thang thì:",
+    "options": ["Song song với hai đáy và bằng nửa hiệu hai đáy", "Song song với hai đáy và bằng nửa tổng hai đáy", "Vuông góc với hai đáy", "Bằng đường trung bình"],
+    "correctAnswer": "Song song với hai đáy và bằng nửa hiệu hai đáy"
+  },
+  {
+    "question": "Một hình thang có hai đáy 12cm và 20cm. Độ dài đoạn thẳng nối trung điểm hai đường chéo là:",
+    "options": ["4cm", "8cm", "16cm", "32cm"],
+    "correctAnswer": "4cm"
+  },
+  {
+    "question": "Tứ giác có các đỉnh là trung điểm các cạnh của một hình chữ nhật là:",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình bình hành"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Tứ giác có các đỉnh là trung điểm các cạnh của một hình thoi là:",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Khoảng cách giữa hai đường thẳng song song là:",
+    "options": ["Độ dài đoạn vuông góc chung", "Không đổi", "Thay đổi", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tập hợp các điểm cách đường thẳng d một khoảng bằng h không đổi là:",
+    "options": ["Hai đường thẳng song song với d và cách d một khoảng h", "Một đường thẳng song song với d", "Một đường tròn", "Một điểm"],
+    "correctAnswer": "Hai đường thẳng song song với d và cách d một khoảng h"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo bằng nhau là:",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Hình thang cân"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình bình hành có một đường chéo là phân giác của một góc là:",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang cân"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Hình nào sau đây có tâm đối xứng là giao điểm hai đường chéo?",
+    "options": ["Hình bình hành", "Hình thang cân", "Tứ giác bất kỳ", "Tam giác"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền có độ dài bằng:",
+    "options": ["Nửa cạnh huyền", "Cạnh huyền", "Đường cao tương ứng", "Một cạnh góc vuông"],
+    "correctAnswer": "Nửa cạnh huyền"
+  },
+  {
+    "question": "Một hình thang có đường trung bình dài 12cm và đáy lớn dài 15cm. Đáy nhỏ của hình thang là:",
+    "options": ["9cm", "13.5cm", "27cm", "3cm"],
+    "correctAnswer": "9cm"
+  },
+  {
+    "question": "Tứ giác có hai cặp góc đối bằng nhau là hình gì?",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình chữ nhật có hai đường chéo vuông góc là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Không là hình gì đặc biệt"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hình nào có 4 trục đối xứng?",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình tròn"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cho tam giác ABC. Gọi M, N, P lần lượt là trung điểm của AB, BC, CA. Tứ giác AMNP là hình gì?",
+    "options": ["Hình bình hành", "Hình chữ nhật", "Hình thoi", "Hình thang"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Một tứ giác lồi có thể có nhiều nhất bao nhiêu góc tù?",
+    "options": ["3", "1", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Nếu ΔABC ∼ ΔDEF theo tỉ số k thì:",
+    "options": ["AB/DE = BC/EF = AC/DF = k", "AB/DE = BC/EF = AC/DF = 1/k", "AB.DE = BC.EF = AC.DF", "AB+DE = BC+EF = AC+DF"],
+    "correctAnswer": "AB/DE = BC/EF = AC/DF = k"
+  },
+  {
+    "question": "Định lí Thales trong tam giác được phát biểu:",
+    "options": ["Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.", "Trong tam giác vuông, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông.", "Ba đường cao của một tam giác đồng quy tại một điểm.", "Tổng ba góc trong một tam giác bằng 180°."],
+    "correctAnswer": "Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ."
+  },
+  {
+    "question": "Trong ΔABC, có MN // BC (M∈AB, N∈AC). Hệ thức nào sau đây là đúng?",
+    "options": ["AM/AB = AN/AC", "AM/MB = AN/NC", "Cả A và B đều đúng", "Cả A và B đều sai"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Cho ΔABC, AD là đường phân giác của góc A (D∈BC). Ta có tỉ lệ thức:",
+    "options": ["DB/DC = AB/AC", "DB/AC = DC/AB", "AD/AB = AD/AC", "DB/DA = DC/DA"],
+    "correctAnswer": "DB/DC = AB/AC"
+  },
+  {
+    "question": "Nếu ΔABC ∼ ΔDEF thì tỉ số hai đường cao tương ứng AH và DK bằng:",
+    "options": ["AB/DE", "AH/DE", "BC/DK", "(AB/DE)²"],
+    "correctAnswer": "AB/DE"
+  },
+  {
+    "question": "Tỉ số diện tích của hai tam giác đồng dạng bằng:",
+    "options": ["Bình phương tỉ số đồng dạng", "Tỉ số đồng dạng", "Lập phương tỉ số đồng dạng", "Tỉ số chu vi"],
+    "correctAnswer": "Bình phương tỉ số đồng dạng"
+  },
+  {
+    "question": "Trường hợp đồng dạng Cạnh-Cạnh-Cạnh (c.c.c) phát biểu là:",
+    "options": ["Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng.", "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai cạnh và góc xen giữa của tam giác này tỉ lệ với hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó đồng dạng.", "Nếu ba góc của tam giác này bằng ba góc của tam giác kia thì hai tam giác đó đồng dạng."],
+    "correctAnswer": "Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng."
+  },
+  {
+    "question": "Trường hợp đồng dạng Góc-Góc (g.g) phát biểu là:",
+    "options": ["Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng.", "Nếu hai góc và một cạnh của tam giác này bằng hai góc và một cạnh của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba góc của tam giác này bằng ba góc của tam giác kia thì hai tam giác đó đồng dạng.", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Cho ΔABC có AB=4, BC=6, AC=8. Cho ΔDEF có DE=2, EF=3, DF=4. Khẳng định nào đúng?",
+    "options": ["ΔABC ∼ ΔDEF", "ΔABC = ΔDEF", "ΔABC không đồng dạng ΔDEF", "Không thể kết luận"],
+    "correctAnswer": "ΔABC ∼ ΔDEF"
+  },
+  {
+    "question": "Cho ΔABC có AB=6, AC=9. Trên cạnh AB, AC lần lượt lấy M, N sao cho AM=2, AN=3. Kết luận nào đúng?",
+    "options": ["MN // BC", "MN = BC", "MN ⊥ BC", "Không thể kết luận"],
+    "correctAnswer": "MN // BC"
+  },
+  {
+    "question": "ΔABC có ∠A = 50°, ∠B = 70°. ΔMNP có ∠M = 50°, ∠P = 60°. Hai tam giác này:",
+    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Là tam giác cân"],
+    "correctAnswer": "Đồng dạng"
+  },
+  {
+    "question": "Trong ΔABC vuông tại A, đường cao AH. Hệ thức nào sau đây đúng?",
+    "options": ["ΔHBA ∼ ΔABC", "ΔHAC ∼ ΔABC", "ΔHBA ∼ ΔHAC", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho ΔABC ∼ ΔMNP với tỉ số đồng dạng là 3. Nếu chu vi ΔABC là 18cm, chu vi ΔMNP là:",
+    "options": ["6cm", "54cm", "15cm", "21cm"],
+    "correctAnswer": "6cm"
+  },
+  {
+    "question": "Cho ΔABC ∼ ΔA'B'C' với tỉ số k=2/3. Tỉ số diện tích S_ABC / S_A'B'C' là:",
+    "options": ["4/9", "2/3", "9/4", "3/2"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Trong ΔABC, AD là phân giác góc A. Biết AB=6, AC=9, DB=4. Độ dài DC là:",
+    "options": ["6", "4.5", "5", "13.5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Định lí Thales đảo được phát biểu như thế nào?",
+    "options": ["Nếu một đường thẳng cắt hai cạnh của một tam giác và định ra trên hai cạnh này những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó song song với cạnh còn lại của tam giác.", "Nếu một đường thẳng song song với một cạnh của tam giác thì nó cắt hai cạnh còn lại.", "Nếu hai tam giác có các cạnh tương ứng tỉ lệ thì chúng đồng dạng.", "Nếu hai tam giác có hai góc tương ứng bằng nhau thì chúng đồng dạng."],
+    "correctAnswer": "Nếu một đường thẳng cắt hai cạnh của một tam giác và định ra trên hai cạnh này những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó song song với cạnh còn lại của tam giác."
+  },
+  {
+    "question": "Cho ΔABC, trên cạnh AB lấy điểm M sao cho AM = 1/3 AB. Đường thẳng qua M song song với BC cắt AC tại N. Tỉ số AN/AC là:",
+    "options": ["1/3", "1/2", "2/3", "3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Hai tam giác đều bất kỳ có đồng dạng với nhau không?",
+    "options": ["Có", "Không", "Chỉ khi chúng có cùng cạnh", "Không thể xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Cho ΔABC vuông tại A, đường cao AH. Biết BH=4cm, HC=9cm. Độ dài AH là:",
+    "options": ["6cm", "13cm", "5cm", "36cm"],
+    "correctAnswer": "6cm"
+  },
+  {
+    "question": "Nếu hai tam giác bằng nhau thì chúng có đồng dạng không?",
+    "options": ["Có, với tỉ số đồng dạng là 1", "Không", "Chỉ khi chúng là tam giác vuông", "Không thể xác định"],
+    "correctAnswer": "Có, với tỉ số đồng dạng là 1"
+  },
+  {
+    "question": "Cho ΔABC có AB=12, AC=15, BC=18. Trên AB lấy M sao cho AM=4, trên AC lấy N sao cho AN=5. Độ dài MN là:",
+    "options": ["6", "9", "12", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho ΔABC vuông tại A, AB=6, AC=8. Kẻ phân giác BD. Độ dài AD là:",
+    "options": ["3", "4", "5", "3.75"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tỉ số hai đường trung tuyến tương ứng của hai tam giác đồng dạng bằng:",
+    "options": ["Tỉ số đồng dạng", "Bình phương tỉ số đồng dạng", "1", "Không xác định"],
+    "correctAnswer": "Tỉ số đồng dạng"
+  },
+  {
+    "question": "ΔABC có AB=8, AC=10, BC=12. ΔMNP ∼ ΔABC và cạnh nhỏ nhất của ΔMNP là 4. Chu vi ΔMNP là:",
+    "options": ["15", "30", "12", "20"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Để đo chiều cao của một cái cây, người ta dùng một chiếc gương đặt trên mặt đất. Một người đứng cách gương 2m và nhìn thấy đỉnh cây trong gương. Biết người đó cao 1.6m và gương cách gốc cây 10m. Chiều cao của cây là:",
+    "options": ["8m", "12.5m", "11.6m", "5m"],
+    "correctAnswer": "8m"
+  },
+  {
+    "question": "Hai tam giác vuông cân có luôn đồng dạng không?",
+    "options": ["Có", "Không", "Chỉ khi chúng bằng nhau", "Không thể xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Trong ΔABC, M là trung điểm AB, N là trung điểm AC. Tỉ số diện tích ΔAMN và ΔABC là:",
+    "options": ["1/4", "1/2", "2", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). Một đường thẳng song song với hai đáy cắt AD tại M và BC tại N. Hệ thức nào đúng?",
+    "options": ["AM/MD = BN/NC", "AM/AD = BN/BC", "Cả A và B đều đúng", "Cả A và B đều sai"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tam giác có ba cạnh 2, 3, 4. Tam giác nào sau đây đồng dạng với nó?",
+    "options": ["4, 6, 8", "3, 4, 5", "5, 6, 7", "1, 1.5, 2.5"],
+    "correctAnswer": "4, 6, 8"
+  },
+  {
+    "question": "ΔABC có ∠A=40°, ∠B=60°. ΔDEF có ∠D=40°, ∠F=80°. Hai tam giác này có đồng dạng không?",
+    "options": ["Có", "Không", "Bằng nhau", "Không thể kết luận"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "ΔABC vuông tại A, AB=1, AC=2. ΔMNP vuông tại M, MN=2, MP=4. Tỉ số đồng dạng của ΔABC và ΔMNP là:",
+    "options": ["1/2", "2", "1/4", "4"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Cho ΔABC. Lấy D trên AB, E trên AC sao cho AD/AB = AE/AC. Khẳng định nào đúng?",
+    "options": ["DE // BC", "ΔADE ∼ ΔABC", "Cả A và B đều đúng", "Chưa thể kết luận"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tỉ số chu vi của hai tam giác đồng dạng là 3/4. Tỉ số diện tích của chúng là:",
+    "options": ["9/16", "3/4", "16/9", "4/3"],
+    "correctAnswer": "9/16"
+  },
+  {
+    "question": "Trong ΔABC vuông tại A, đường cao AH. Biết AB=3, AC=4. Độ dài AH là:",
+    "options": ["2.4", "5", "12", "7"],
+    "correctAnswer": "2.4"
+  },
+  {
+    "question": "Tính chất đường phân giác của tam giác áp dụng cho:",
+    "options": ["Phân giác trong và phân giác ngoài", "Chỉ phân giác trong", "Chỉ phân giác ngoài", "Chỉ tam giác cân"],
+    "correctAnswer": "Phân giác trong và phân giác ngoài"
+  },
+  {
+    "question": "ΔABC có AB = AC = 10, BC = 12. Độ dài đường phân giác BD là:",
+    "options": ["Không đủ dữ kiện để tính", "8", "9", "7.5"],
+    "correctAnswer": "Không đủ dữ kiện để tính"
+  },
+  {
+    "question": "Cho ΔABC và ΔA'B'C' có ∠A = ∠A' và AB/A'B' = AC/A'C'. Kết luận nào đúng?",
+    "options": ["ΔABC ∼ ΔA'B'C' (c.g.c)", "ΔABC = ΔA'B'C'", "Chưa đủ điều kiện để kết luận", "BC = B'C'"],
+    "correctAnswer": "ΔABC ∼ ΔA'B'C' (c.g.c)"
+  },
   {
     "question": "ΔABC có AB=9, BC=12, AC=15. Kẻ đường cao BH. Độ dài BH là:",
     "options": ["7.2", "9", "12", "15"],
     "correctAnswer": "7.2"
   },
   {
-    "question": "Cho tam giác ABC. Các đường cao AD, BE, CF cắt nhau tại H. ΔAEH và ΔBDH có:",
-    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Không thể kết luận"],
-    "correctAnswer": "Đồng dạng"
-  },
-  // ... (38 câu hỏi khác của chương 9) ...
-  // --- Chương 10: Một số hình khối trong thực tiễn (40 câu) ---
-  {
-    "question": "Một hình chóp có đáy là hình vuông cạnh a, một cạnh bên vuông góc với đáy và có độ dài a. Thể tích của nó là:",
-    "options": ["a³/3", "a³", "a²/3", "2a³/3"],
-    "correctAnswer": "a³/3"
+    "question": "Phương pháp nào sau đây không phải là phương pháp thu thập dữ liệu?",
+    "options": ["Làm thí nghiệm", "Quan sát", "Lập bảng hỏi", "Phỏng vấn"],
+    "correctAnswer": "Làm thí nghiệm"
   },
   {
-    "question": "Một hình chóp có đáy là hình vuông cạnh a, một cạnh bên vuông góc với đáy và có độ dài a. Hình chóp này có phải là hình chóp đều không?",
-    "options": ["Không", "Có", "Chỉ khi a=1", "Không thể xác định"],
-    "correctAnswer": "Không"
+    "question": "Dữ liệu về 'màu sắc yêu thích' của các bạn trong lớp là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Dữ liệu về 'chiều cao' của các bạn trong lớp là:",
+    "options": ["Dữ liệu định lượng", "Dữ liệu định tính", "Dữ liệu không phải là số", "Dữ liệu không sắp xếp được"],
+    "correctAnswer": "Dữ liệu định lượng"
+  },
+  {
+    "question": "Biểu đồ cột thường được dùng để:",
+    "options": ["So sánh các loại dữ liệu khác nhau", "Biểu diễn tỉ lệ phần trăm", "Thể hiện sự thay đổi theo thời gian", "Tìm mối liên hệ giữa hai biến"],
+    "correctAnswer": "So sánh các loại dữ liệu khác nhau"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn thích hợp để biểu diễn:",
+    "options": ["Cơ cấu, tỉ lệ các phần trong một tổng thể", "Sự tăng trưởng của một đại lượng", "Tần số của các giá trị", "So sánh độ lớn"],
+    "correctAnswer": "Cơ cấu, tỉ lệ các phần trong một tổng thể"
+  },
+  {
+    "question": "Một bảng thống kê cho thấy có 15 học sinh thích màu xanh trong tổng số 40 học sinh. Tần số tương đối của màu xanh là:",
+    "options": ["37.5%", "15%", "40%", "25%"],
+    "correctAnswer": "37.5%"
+  },
+  {
+    "question": "Để biểu diễn sự thay đổi nhiệt độ trong một tuần, loại biểu đồ nào là phù hợp nhất?",
+    "options": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột", "Bảng dữ liệu"],
+    "correctAnswer": "Biểu đồ đoạn thẳng"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, tổng các góc ở tâm của tất cả các hình quạt là:",
+    "options": ["360°", "180°", "100°", "Tùy vào dữ liệu"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Dữ liệu 'số con trong mỗi gia đình' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Dữ liệu 'cân nặng' của trẻ sơ sinh là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Để thu thập dữ liệu về ý kiến của khách hàng về một sản phẩm, phương pháp hiệu quả là:",
+    "options": ["Lập phiếu hỏi hoặc phỏng vấn", "Quan sát", "Đo đạc", "Tính toán"],
+    "correctAnswer": "Lập phiếu hỏi hoặc phỏng vấn"
+  },
+  {
+    "question": "Trong một biểu đồ cột, trục đứng thường biểu diễn:",
+    "options": ["Tần số hoặc số lượng", "Các loại đối tượng", "Thời gian", "Tỉ lệ phần trăm"],
+    "correctAnswer": "Tần số hoặc số lượng"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 90°. Tần số tương đối của A là:",
+    "options": ["25%", "90%", "50%", "1/4"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Bảng dữ liệu ban đầu chưa được xử lý được gọi là:",
+    "options": ["Số liệu thống kê ban đầu", "Bảng tần số", "Bảng tần số tương đối", "Biểu đồ"],
+    "correctAnswer": "Số liệu thống kê ban đầu"
+  },
+  {
+    "question": "Phân loại dữ liệu giúp chúng ta:",
+    "options": ["Dễ dàng so sánh, phân tích và lựa chọn biểu đồ phù hợp", "Làm cho dữ liệu phức tạp hơn", "Thay đổi giá trị của dữ liệu", "Loại bỏ các dữ liệu không cần thiết"],
+    "correctAnswer": "Dễ dàng so sánh, phân tích và lựa chọn biểu đồ phù hợp"
+  },
+  {
+    "question": "Biểu đồ cột kép được dùng để:",
+    "options": ["So sánh hai bộ dữ liệu tương ứng với nhau", "Biểu diễn một bộ dữ liệu duy nhất", "Thể hiện cơ cấu", "Thể hiện xu hướng"],
+    "correctAnswer": "So sánh hai bộ dữ liệu tương ứng với nhau"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu định tính?",
+    "options": ["Xếp loại học lực (Giỏi, Khá, Trung bình)", "Điểm thi môn Toán", "Số học sinh vắng trong một buổi", "Nhiệt độ phòng"],
+    "correctAnswer": "Xếp loại học lực (Giỏi, Khá, Trung bình)"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy đường biểu diễn đi lên. Điều này thể hiện xu hướng:",
+    "options": ["Tăng", "Giảm", "Không đổi", "Không xác định"],
+    "correctAnswer": "Tăng"
+  },
+  {
+    "question": "Trong một cuộc điều tra, có 200 người tham gia. Tần số tương đối của một lựa chọn là 15%. Số người đã chọn lựa chọn đó là:",
+    "options": ["30", "15", "20", "50"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Để thu thập dữ liệu về số lượng xe qua một ngã tư trong một giờ, phương pháp nào là phù hợp nhất?",
+    "options": ["Quan sát và đếm", "Phỏng vấn", "Lập phiếu hỏi", "Đọc tài liệu"],
+    "correctAnswer": "Quan sát và đếm"
+  },
+  {
+    "question": "Dữ liệu 'loại phương tiện giao thông' (ô tô, xe máy, xe đạp) là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu liên tục", "Số liệu rời rạc"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Biểu đồ cột có thể được vẽ theo:",
+    "options": ["Chiều thẳng đứng hoặc chiều nằm ngang", "Chỉ chiều thẳng đứng", "Chỉ chiều nằm ngang", "Hình tròn"],
+    "correctAnswer": "Chiều thẳng đứng hoặc chiều nằm ngang"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại trái cây trong một cửa hàng. Tổng các tỉ lệ phần trăm là:",
+    "options": ["100%", "360%", "1", "Tùy vào số loại trái cây"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Phân tích dữ liệu là quá trình:",
+    "options": ["Khám phá, nhận biết các quy luật và rút ra kết luận từ dữ liệu", "Thu thập dữ liệu", "Vẽ biểu đồ", "Lập bảng tần số"],
+    "correctAnswer": "Khám phá, nhận biết các quy luật và rút ra kết luận từ dữ liệu"
+  },
+  {
+    "question": "Dữ liệu 'số lỗi chính tả trong một bài văn' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy sản lượng lúa của một tỉnh qua các năm. Dựa vào biểu đồ, ta có thể nhận xét về:",
+    "options": ["Xu hướng tăng hay giảm của sản lượng", "Sản lượng của năm cao nhất", "Sản lượng của năm thấp nhất", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong một cuộc điều tra về môn thể thao yêu thích, có 50 người chọn bóng đá, 30 người chọn bóng chuyền, 20 người chọn cầu lông. Tần số tương đối của bóng đá là:",
+    "options": ["50%", "30%", "20%", "100%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Dữ liệu định lượng là dữ liệu:",
+    "options": ["Là các con số", "Không phải là số", "Là các loại, các nhóm", "Luôn là số nguyên"],
+    "correctAnswer": "Là các con số"
+  },
+  {
+    "question": "Một biểu đồ cột kép so sánh số học sinh nam và nữ của các lớp. Trục ngang biểu diễn các lớp. Trục đứng biểu diễn số học sinh. Mỗi lớp sẽ có:",
+    "options": ["Hai cột đứng cạnh nhau", "Một cột duy nhất", "Một điểm", "Một hình quạt"],
+    "correctAnswer": "Hai cột đứng cạnh nhau"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 1/3 diện tích. Góc ở tâm của hình quạt A là:",
+    "options": ["120°", "90°", "60°", "180°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Dữ liệu 'thời gian hoàn thành một vòng chạy' là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Mục đích chính của việc biểu diễn dữ liệu bằng biểu đồ là:",
+    "options": ["Giúp thông tin trở nên trực quan, dễ hiểu và dễ so sánh", "Làm cho dữ liệu trở nên phức tạp hơn", "Thay đổi giá trị của dữ liệu", "Chỉ để trang trí"],
+    "correctAnswer": "Giúp thông tin trở nên trực quan, dễ hiểu và dễ so sánh"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy doanh thu của một công ty giảm liên tục trong 3 quý cuối năm. Đây là một:",
+    "options": ["Phân tích, nhận xét từ biểu đồ", "Dữ liệu ban đầu", "Bảng tần số", "Biểu đồ cột"],
+    "correctAnswer": "Phân tích, nhận xét từ biểu đồ"
+  },
+  {
+    "question": "Để thu thập dữ liệu về 'loài cây phổ biến nhất' trong sân trường, phương pháp nào là phù hợp?",
+    "options": ["Quan sát, nhận dạng và đếm", "Phỏng vấn học sinh", "Lập phiếu hỏi", "Đo chiều cao cây"],
+    "correctAnswer": "Quan sát, nhận dạng và đếm"
+  },
+  {
+    "question": "Dữ liệu 'size giày' của các cầu thủ trong một đội bóng là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ cột cho thấy cột của lớp 8A cao hơn cột của lớp 8B. Điều này có nghĩa là:",
+    "options": ["Không thể kết luận nếu không có chú thích", "Sĩ số của lớp 8A lớn hơn lớp 8B", "Học sinh lớp 8A cao hơn học sinh lớp 8B", "Điểm trung bình lớp 8A cao hơn lớp 8B"],
+    "correctAnswer": "Không thể kết luận nếu không có chú thích"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn cơ cấu chi tiêu của một gia đình. Khoản chi cho 'Ăn uống' chiếm góc lớn nhất. Kết luận nào đúng?",
+    "options": ["Gia đình chi tiêu cho ăn uống nhiều nhất", "Gia đình chỉ chi tiêu cho ăn uống", "Các khoản chi khác đều bằng nhau", "Khoản chi cho ăn uống bằng 50%"],
+    "correctAnswer": "Gia đình chi tiêu cho ăn uống nhiều nhất"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu định lượng?",
+    "options": ["Số tuổi của các thành viên trong gia đình", "Nghề nghiệp của bố mẹ", "Môn học yêu thích", "Quê quán"],
+    "correctAnswer": "Số tuổi của các thành viên trong gia đình"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng có các điểm được nối với nhau. Các điểm này biểu diễn:",
+    "options": ["Giá trị của đại lượng tại các thời điểm hoặc vị trí khác nhau", "Các loại dữ liệu khác nhau", "Tỉ lệ phần trăm", "Không có ý nghĩa"],
+    "correctAnswer": "Giá trị của đại lượng tại các thời điểm hoặc vị trí khác nhau"
+  },
+  {
+    "question": "Trong một cuộc khảo sát, có 4 lựa chọn A, B, C, D. Tần số tương đối của A, B, C lần lượt là 20%, 35%, 15%. Tần số tương đối của D là:",
+    "options": ["30%", "20%", "10%", "40%"],
+    "correctAnswer": "30%"
   }
-  // ... (38 câu hỏi khác của chương 10) ...
 ]
 
