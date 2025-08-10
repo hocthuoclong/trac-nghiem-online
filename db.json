@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Phân số",
                   "file": "./data/math-6-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Số thập phân",
+                  "file": "./data/math-6-chapter-7.json"
                 }
               ]
             },
