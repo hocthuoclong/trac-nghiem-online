@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Trong một đường tròn, số đo của góc nội tiếp bằng:",
+    "options": ["Nửa số đo của cung bị chắn", "Số đo của cung bị chắn", "Hai lần số đo của cung bị chắn", "Số đo của góc ở tâm cùng chắn một cung"],
+    "correctAnswer": "Nửa số đo của cung bị chắn"
+  },
+  {
+    "question": "Tâm của đường tròn ngoại tiếp một tam giác là giao điểm của:",
+    "options": ["Ba đường trung trực", "Ba đường phân giác", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường trung trực"
+  },
+  {
+    "question": "Một tứ giác có tổng hai góc đối bằng 180° thì tứ giác đó:",
+    "options": ["Nội tiếp được một đường tròn", "Là hình bình hành", "Là hình thoi", "Ngoại tiếp được một đường tròn"],
+    "correctAnswer": "Nội tiếp được một đường tròn"
+  },
+  {
+    "question": "Đa giác đều là đa giác có:",
+    "options": ["Tất cả các cạnh bằng nhau và tất cả các góc bằng nhau", "Tất cả các cạnh bằng nhau", "Tất cả các góc bằng nhau", "Các cạnh đối song song"],
+    "correctAnswer": "Tất cả các cạnh bằng nhau và tất cả các góc bằng nhau"
+  },
+  {
+    "question": "Góc nội tiếp chắn nửa đường tròn là:",
+    "options": ["Góc vuông (90°)", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông (90°)"
+  },
+  {
+    "question": "Tâm của đường tròn nội tiếp một tam giác là giao điểm của:",
+    "options": ["Ba đường phân giác", "Ba đường trung trực", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường phân giác"
+  },
+  {
+    "question": "Trong một đường tròn, các góc nội tiếp cùng chắn một cung thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Khác nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số đo mỗi góc của một lục giác đều là:",
+    "options": ["120°", "108°", "90°", "60°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Cho tam giác ABC nội tiếp đường tròn (O). Nếu góc BAC = 50° thì số đo cung nhỏ BC là:",
+    "options": ["100°", "50°", "25°", "200°"],
+    "correctAnswer": "100°"
+  },
+  {
+    "question": "Tứ giác nào sau đây luôn nội tiếp được đường tròn?",
+    "options": ["Hình chữ nhật", "Hình bình hành", "Hình thoi", "Hình thang"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Góc tạo bởi tiếp tuyến và dây cung có số đo bằng:",
+    "options": ["Nửa số đo của cung bị chắn", "Số đo của cung bị chắn", "Hai lần số đo của cung bị chắn", "Số đo của góc ở tâm"],
+    "correctAnswer": "Nửa số đo của cung bị chắn"
+  },
+  {
+    "question": "Mọi đa giác đều đều:",
+    "options": ["Nội tiếp được một đường tròn và ngoại tiếp được một đường tròn", "Chỉ nội tiếp được đường tròn", "Chỉ ngoại tiếp được đường tròn", "Không nội tiếp và không ngoại tiếp"],
+    "correctAnswer": "Nội tiếp được một đường tròn và ngoại tiếp được một đường tròn"
+  },
+  {
+    "question": "Cho đường tròn (O) và dây AB. Góc AOB = 80°. Số đo góc nội tiếp ACB chắn cung nhỏ AB là:",
+    "options": ["40°", "80°", "160°", "20°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Tâm của đường tròn ngoại tiếp tam giác vuông nằm ở:",
+    "options": ["Trung điểm cạnh huyền", "Đỉnh góc vuông", "Trọng tâm", "Trực tâm"],
+    "correctAnswer": "Trung điểm cạnh huyền"
+  },
+  {
+    "question": "Trong một tứ giác nội tiếp, tổng hai góc đối diện bằng:",
+    "options": ["180°", "360°", "90°", "Không đổi"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Số đo mỗi góc của một ngũ giác đều là:",
+    "options": ["108°", "120°", "90°", "72°"],
+    "correctAnswer": "108°"
+  },
+  {
+    "question": "Góc có đỉnh nằm bên trong đường tròn có số đo bằng:",
+    "options": ["Nửa tổng số đo hai cung bị chắn", "Nửa hiệu số đo hai cung bị chắn", "Tổng số đo hai cung bị chắn", "Hiệu số đo hai cung bị chắn"],
+    "correctAnswer": "Nửa tổng số đo hai cung bị chắn"
+  },
+  {
+    "question": "Tam giác đều cạnh a nội tiếp đường tròn (O;R). Bán kính R bằng:",
+    "options": ["a√3/3", "a√3/2", "a/2", "a√3/6"],
+    "correctAnswer": "a√3/3"
+  },
+  {
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn. Nếu góc A = 75° thì góc C bằng:",
+    "options": ["105°", "75°", "15°", "285°"],
+    "correctAnswer": "105°"
+  },
+  {
+    "question": "Tâm của đường tròn nội tiếp và ngoại tiếp của một đa giác đều thì:",
+    "options": ["Trùng nhau", "Nằm trên một cạnh", "Nằm ngoài đa giác", "Luôn khác nhau"],
+    "correctAnswer": "Trùng nhau"
+  },
+  {
+    "question": "Góc có đỉnh nằm bên ngoài đường tròn có số đo bằng:",
+    "options": ["Nửa hiệu số đo hai cung bị chắn", "Nửa tổng số đo hai cung bị chắn", "Hiệu số đo hai cung bị chắn", "Tổng số đo hai cung bị chắn"],
+    "correctAnswer": "Nửa hiệu số đo hai cung bị chắn"
+  },
+  {
+    "question": "Tam giác đều cạnh a ngoại tiếp đường tròn (O;r). Bán kính r bằng:",
+    "options": ["a√3/6", "a√3/3", "a/2", "a√3/2"],
+    "correctAnswer": "a√3/6"
+  },
+  {
+    "question": "Hình thang cân có một góc bằng 60° thì có nội tiếp được đường tròn không?",
+    "options": ["Có", "Không", "Chỉ khi là hình chữ nhật", "Chỉ khi là hình vuông"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số đo mỗi góc ở tâm của một đa giác đều n cạnh là:",
+    "options": ["360°/n", "180°(n-2)/n", "n*180°", "360°"],
+    "correctAnswer": "360°/n"
+  },
+  {
+    "question": "Cho đường tròn (O) và hai điểm A, B trên đường tròn. Tiếp tuyến tại A và B cắt nhau tại M. Nếu số đo cung AB là 100° thì góc AMB bằng:",
+    "options": ["80°", "100°", "40°", "50°"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Bán kính đường tròn ngoại tiếp một tam giác có các cạnh 6, 8, 10 là:",
+    "options": ["5", "10", "4", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tứ giác ABCD có góc A = 90°, góc C = 90°. Tứ giác này:",
+    "options": ["Nội tiếp được đường tròn", "Không nội tiếp được đường tròn", "Là hình chữ nhật", "Là hình vuông"],
+    "correctAnswer": "Nội tiếp được đường tròn"
+  },
+  {
+    "question": "Một hình vuông nội tiếp đường tròn bán kính R. Cạnh của hình vuông là:",
+    "options": ["R√2", "2R", "R", "R/2"],
+    "correctAnswer": "R√2"
+  },
+  {
+    "question": "Trong một đường tròn, hai góc nội tiếp chắn hai cung bằng nhau thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không bằng nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tâm đường tròn ngoại tiếp tam giác tù nằm ở:",
+    "options": ["Bên ngoài tam giác", "Bên trong tam giác", "Trên một cạnh của tam giác", "Tại một đỉnh"],
+    "correctAnswer": "Bên ngoài tam giác"
+  },
+  {
+    "question": "Hình thoi có nội tiếp được đường tròn không?",
+    "options": ["Chỉ khi nó là hình vuông", "Luôn luôn", "Không bao giờ", "Chỉ khi có 1 góc 60°"],
+    "correctAnswer": "Chỉ khi nó là hình vuông"
+  },
+  {
+    "question": "Độ dài đường tròn ngoại tiếp một lục giác đều cạnh a là:",
+    "options": ["2πa", "πa", "πa²", "a"],
+    "correctAnswer": "2πa"
+  },
+  {
+    "question": "Cho đường tròn (O) và dây AB. Từ điểm C trên cung lớn AB, kẻ CH ⊥ AB. Góc ACH bằng:",
+    "options": ["Góc ABC", "Góc BAC", "Góc ACB", "Nửa góc AOB"],
+    "correctAnswer": "Góc ABC"
+  },
+  {
+    "question": "Bán kính đường tròn nội tiếp một tam giác có các cạnh 3, 4, 5 là:",
+    "options": ["1", "2", "1.5", "2.5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một tứ giác nội tiếp có các cạnh liên tiếp là 3, 4, 5, 6. Tích hai đường chéo bằng (Định lý Ptolemy):",
+    "options": ["39", "3*5+4*6", "Cả A và B", "Không tính được"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Số đo mỗi góc của một bát giác đều (8 cạnh) là:",
+    "options": ["135°", "120°", "140°", "108°"],
+    "correctAnswer": "135°"
+  },
+  {
+    "question": "Góc ở tâm là góc có đỉnh:",
+    "options": ["Trùng với tâm đường tròn", "Nằm trên đường tròn", "Nằm trong đường tròn", "Nằm ngoài đường tròn"],
+    "correctAnswer": "Trùng với tâm đường tròn"
+  },
+  {
+    "question": "Một tam giác có thể có mấy đường tròn bàng tiếp?",
+    "options": ["3", "1", "2", "Vô số"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tứ giác ABCD nội tiếp. Góc ngoài tại đỉnh C bằng:",
+    "options": ["Góc A", "Góc B", "Góc D", "Góc C"],
+    "correctAnswer": "Góc A"
+  },
+  {
+    "question": "Diện tích hình tròn nội tiếp hình vuông cạnh a là:",
+    "options": ["πa²/4", "πa²", "πa²/2", "2πa²"],
+    "correctAnswer": "πa²/4"
+  },
+  {
+    "question": "Cho đường tròn (O) và điểm M nằm ngoài đường tròn. Cát tuyến MAB và MCD. Hệ thức nào đúng?",
+    "options": ["MA.MB = MC.MD", "MA.MC = MB.MD", "MA+MB = MC+MD", "MA/MC = MD/MB"],
+    "correctAnswer": "MA.MB = MC.MD"
+  },
+  {
+    "question": "Tâm đường tròn ngoại tiếp tam giác đều nằm ở:",
+    "options": ["Trọng tâm", "Trực tâm", "Giao điểm 3 đường phân giác", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Tứ giác có hai đỉnh kề nhau cùng nhìn một cạnh chứa hai đỉnh còn lại dưới một góc α thì:",
+    "options": ["Nội tiếp được đường tròn", "Là hình thang cân", "Là hình bình hành", "Không nội tiếp"],
+    "correctAnswer": "Nội tiếp được đường tròn"
+  },
+  {
+    "question": "Một đa giác đều có tổng số đo các góc là 1080°. Đa giác đó có bao nhiêu cạnh?",
+    "options": ["8", "7", "9", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số đo góc nội tiếp bằng nửa số đo góc ở tâm khi nào?",
+    "options": ["Khi chúng cùng chắn một cung", "Luôn luôn", "Không bao giờ", "Khi chúng bằng nhau"],
+    "correctAnswer": "Khi chúng cùng chắn một cung"
+  },
+  {
+    "question": "Bán kính đường tròn ngoại tiếp tam giác có cạnh a và góc đối diện A là:",
+    "options": ["R = a/(2sinA)", "R = 2a/sinA", "R = a.sinA", "R = a.cosA"],
+    "correctAnswer": "R = a/(2sinA)"
+  },
+  {
+    "question": "Hình thang nào sau đây luôn nội tiếp được đường tròn?",
+    "options": ["Hình thang cân", "Hình thang vuông", "Hình thang bất kỳ", "Không có"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Một đa giác đều n cạnh có bao nhiêu trục đối xứng?",
+    "options": ["n", "2n", "1", "2"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Cho đường tròn (O) và dây AB không đi qua tâm. M là điểm trên cung lớn AB. So sánh góc AMB và góc AOB.",
+    "options": ["Góc AMB = 1/2 Góc AOB", "Góc AMB = Góc AOB", "Góc AMB = 2 Góc AOB", "Góc AMB + Góc AOB = 180°"],
+    "correctAnswer": "Góc AMB = 1/2 Góc AOB"
+  },
+  {
+    "question": "Bán kính đường tròn nội tiếp tam giác có diện tích S và nửa chu vi p là:",
+    "options": ["r = S/p", "r = p/S", "r = Sp", "r = 4S/p"],
+    "correctAnswer": "r = S/p"
+  },
+  {
+    "question": "Cho tứ giác ABCD nội tiếp. AB và CD cắt nhau tại E. Mệnh đề nào đúng?",
+    "options": ["Tam giác EAD đồng dạng với tam giác ECB", "EA.EB = EC.ED", "Góc EAD = Góc ECB", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Một lục giác đều cạnh a ngoại tiếp một đường tròn. Bán kính đường tròn đó là:",
+    "options": ["a√3/2", "a", "a/2", "a√3"],
+    "correctAnswer": "a√3/2"
+  },
+  {
+    "question": "Góc tạo bởi tiếp tuyến và dây cung tại tiếp điểm có số đo:",
+    "options": ["Bằng góc nội tiếp cùng chắn cung đó", "Bằng góc ở tâm cùng chắn cung đó", "Bằng 90°", "Bằng 180°"],
+    "correctAnswer": "Bằng góc nội tiếp cùng chắn cung đó"
+  },
+  {
+    "question": "Một tam giác có độ dài 3 cạnh là 5, 12, 13. Bán kính đường tròn ngoại tiếp là:",
+    "options": ["6.5", "5", "12", "13"],
+    "correctAnswer": "6.5"
+  },
+  {
+    "question": "Tứ giác ABCD có góc ABC + góc ADC = 170°. Tứ giác này:",
+    "options": ["Không nội tiếp được đường tròn", "Nội tiếp được đường tròn", "Là hình thang", "Là hình bình hành"],
+    "correctAnswer": "Không nội tiếp được đường tròn"
+  },
+  {
+    "question": "Đa giác đều có 12 cạnh. Số đo mỗi góc trong là:",
+    "options": ["150°", "120°", "135°", "144°"],
+    "correctAnswer": "150°"
+  },
+  {
+    "question": "Cho đường tròn (O;R) và dây AB=R. Góc ở tâm AOB bằng:",
+    "options": ["60°", "90°", "120°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Tâm đường tròn bàng tiếp của tam giác nằm ở:",
+    "options": ["Bên ngoài tam giác", "Bên trong tam giác", "Trên một cạnh", "Tại một đỉnh"],
+    "correctAnswer": "Bên ngoài tam giác"
+  },
+  {
+    "question": "Trong một đường tròn, nếu hai cung bằng nhau thì:",
+    "options": ["Hai dây căng hai cung đó bằng nhau", "Hai góc nội tiếp chắn hai cung đó bằng nhau", "Cả A và B", "Hai dây đó song song"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hình vuông cạnh a ngoại tiếp một đường tròn. Bán kính đường tròn đó là:",
+    "options": ["a/2", "a", "a√2/2", "a√2"],
+    "correctAnswer": "a/2"
+  },
+  {
+    "question": "Cho đường tròn (O) và hai tiếp tuyến tại A và B cắt nhau tại M. Nếu góc AMB = 60° thì góc AOB bằng:",
+    "options": ["120°", "60°", "90°", "180°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Một tam giác có 3 góc là 30°, 60°, 90°. Tâm đường tròn ngoại tiếp nằm ở đâu?",
+    "options": ["Trung điểm cạnh huyền", "Đỉnh góc 30°", "Đỉnh góc 60°", "Đỉnh góc 90°"],
+    "correctAnswer": "Trung điểm cạnh huyền"
+  },
+  {
+    "question": "Tứ giác ABCD nội tiếp đường tròn đường kính AC. Khi đó:",
+    "options": ["Góc B và góc D là góc vuông", "Góc A và góc C là góc vuông", "ABCD là hình chữ nhật", "ABCD là hình thang cân"],
+    "correctAnswer": "Góc B và góc D là góc vuông"
+  },
+  {
+    "question": "Đa giác đều có góc ở tâm bằng 36°. Số cạnh của đa giác đó là:",
+    "options": ["10", "8", "9", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Cho đường tròn (O) và điểm M nằm trong đường tròn. Hai dây AB và CD qua M. Hệ thức nào đúng?",
+    "options": ["MA.MB = MC.MD", "MA.MC = MB.MD", "MA+MB = MC+MD", "AC = BD"],
+    "correctAnswer": "MA.MB = MC.MD"
+  },
+  {
+    "question": "Một tam giác có 3 cạnh là 7, 24, 25. Bán kính đường tròn nội tiếp là:",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tứ giác nào sau đây không phải lúc nào cũng nội tiếp được đường tròn?",
+    "options": ["Hình bình hành", "Hình vuông", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Độ dài của đường tròn ngoại tiếp tam giác đều cạnh a là:",
+    "options": ["2πa√3/3", "πa", "πa√3", "a"],
+    "correctAnswer": "2πa√3/3"
+  },
+  {
+    "question": "Số đo góc nội tiếp chắn cung 120° là:",
+    "options": ["60°", "120°", "240°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Tam giác ABC nội tiếp đường tròn (O). Nếu A, O, B thẳng hàng thì tam giác ABC:",
+    "options": ["Vuông tại C", "Vuông tại A", "Vuông tại B", "Đều"],
+    "correctAnswer": "Vuông tại C"
+  },
+  {
+    "question": "Cho tứ giác ABCD nội tiếp, có góc DAB = 80°, góc ABC = 110°. Số đo góc BCD và CDA lần lượt là:",
+    "options": ["100° và 70°", "80° và 110°", "70° và 100°", "110° và 80°"],
+    "correctAnswer": "100° và 70°"
+  },
+  {
+    "question": "Diện tích của một đa giác đều n cạnh, bán kính đường tròn ngoại tiếp R là:",
+    "options": ["(1/2)nR²sin(360°/n)", "nR²sin(180°/n)", "n R²", "πR²"],
+    "correctAnswer": "(1/2)nR²sin(360°/n)"
+  },
+  {
+    "question": "Cho đường tròn (O) và dây AB. Góc tạo bởi tiếp tuyến tại A và dây AB là 50°. Số đo cung nhỏ AB là:",
+    "options": ["100°", "50°", "25°", "200°"],
+    "correctAnswer": "100°"
+  },
+  {
+    "question": "Tâm đường tròn ngoại tiếp tam giác nhọn nằm ở:",
+    "options": ["Bên trong tam giác", "Bên ngoài tam giác", "Trên một cạnh", "Tại một đỉnh"],
+    "correctAnswer": "Bên trong tam giác"
+  },
+  {
+    "question": "Tứ giác ABCD có hai đường chéo cắt nhau tại I và góc AIB = 90°. Tứ giác này có nội tiếp được không?",
+    "options": ["Chưa đủ điều kiện", "Có", "Không", "Chỉ khi là hình thoi"],
+    "correctAnswer": "Chưa đủ điều kiện"
+  },
+  {
+    "question": "Một đa giác đều có mỗi góc trong bằng 144°. Đa giác đó có bao nhiêu cạnh?",
+    "options": ["10", "9", "8", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hai tiếp tuyến của một đường tròn tại hai đầu mút của một đường kính thì:",
+    "options": ["Song song với nhau", "Cắt nhau", "Vuông góc với nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Một tam giác có 3 cạnh là 2, 3, 4. Tam giác này có thể nội tiếp đường tròn không?",
+    "options": ["Có", "Không", "Chỉ khi là tam giác vuông", "Chỉ khi là tam giác đều"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Tứ giác ABCD nội tiếp đường tròn. Phát biểu nào sau đây sai?",
+    "options": ["Góc A + Góc B = 180°", "Góc A + Góc C = 180°", "Góc B + Góc D = 180°", "Góc ngoài tại A bằng góc C"],
+    "correctAnswer": "Góc A + Góc B = 180°"
+  },
+  {
+    "question": "Độ dài của đường tròn nội tiếp hình vuông cạnh a là:",
+    "options": ["πa", "2πa", "πa/2", "πa²"],
+    "correctAnswer": "πa"
+  },
+  {
+    "question": "Cho đường tròn (O), hai dây AB và CD cắt nhau tại I. Nếu cung AC = 40°, cung BD = 60° thì góc AIC bằng:",
+    "options": ["50°", "100°", "20°", "10°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Tâm đường tròn nội tiếp tam giác cách đều:",
+    "options": ["Ba cạnh của tam giác", "Ba đỉnh của tam giác", "Ba trung điểm của ba cạnh", "Ba chân đường cao"],
+    "correctAnswer": "Ba cạnh của tam giác"
+  },
+  {
+    "question": "Một hình thang nội tiếp được đường tròn thì đó là:",
+    "options": ["Hình thang cân", "Hình thang vuông", "Hình thang bất kỳ", "Hình bình hành"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Tỉ số giữa chu vi của một đa giác đều n cạnh và đường kính của đường tròn ngoại tiếp nó khi n→∞ là:",
+    "options": ["π", "2", "1", "∞"],
+    "correctAnswer": "π"
+  },
+  {
+    "question": "Cho đường tròn (O) và điểm M nằm ngoài đường tròn. Cát tuyến MAB và tiếp tuyến MT. Hệ thức nào đúng?",
+    "options": ["MT² = MA.MB", "MT = MA.MB", "MT² = MA+MB", "MT = MA+MB"],
+    "correctAnswer": "MT² = MA.MB"
+  },
+  {
+    "question": "Một tam giác có 3 cạnh là 8, 15, 17. Bán kính đường tròn ngoại tiếp là:",
+    "options": ["8.5", "17", "7.5", "4"],
+    "correctAnswer": "8.5"
+  },
+  {
+    "question": "Tứ giác ABCD có góc A = 60°, B = 100°, C = 120°. Để tứ giác nội tiếp thì góc D phải bằng:",
+    "options": ["80°", "60°", "100°", "Không thể nội tiếp"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Diện tích của một đa giác đều n cạnh, bán kính đường tròn nội tiếp r là:",
+    "options": ["nr²tan(180°/n)", "npr", "πr²", "(1/2)n R²sin(360°/n)"],
+    "correctAnswer": "nr²tan(180°/n)"
+  },
+  {
+    "question": "Cho đường tròn (O) và hai dây AB, CD song song với nhau. Nếu cung AC = 30° thì cung BD bằng:",
+    "options": ["30°", "60°", "90°", "Không xác định"],
+    "correctAnswer": "30°"
+  },
+  {
+    "question": "Tâm đường tròn ngoại tiếp tam giác cách đều:",
+    "options": ["Ba đỉnh của tam giác", "Ba cạnh của tam giác", "Ba trung điểm của ba cạnh", "Ba chân đường cao"],
+    "correctAnswer": "Ba đỉnh của tam giác"
+  },
+  {
+    "question": "Tứ giác có 4 góc bằng nhau thì đó là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Một đa giác đều có 20 cạnh. Số đo góc ở tâm chắn một cạnh là:",
+    "options": ["18°", "20°", "36°", "9°"],
+    "correctAnswer": "18°"
+  }
+]
+
