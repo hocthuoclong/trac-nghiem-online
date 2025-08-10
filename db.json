@@ -28,6 +28,10 @@
                 {
                   "name": "Chương 5: Tính đối xứng của hình phẳng trong tự nhiên",
                   "file": "./data/math-6-chapter-5.json"
+                },
+                {
+                  "name": "Chương 6: Phân số",
+                  "file": "./data/math-6-chapter-6.json"
                 }
               ]
             },
