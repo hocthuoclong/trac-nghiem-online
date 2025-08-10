@@ -1,0 +1,458 @@
+[
+  {
+    "question": "Quy tắc cộng được sử dụng khi một công việc có thể được thực hiện theo:",
+    "options": ["Nhiều phương án riêng rẽ", "Nhiều công đoạn liên tiếp", "Một cách duy nhất", "Hai công đoạn phụ thuộc"],
+    "correctAnswer": "Nhiều phương án riêng rẽ"
+  },
+  {
+    "question": "Một công việc được hoàn thành bởi hai công đoạn liên tiếp. Công đoạn 1 có m cách, công đoạn 2 có n cách. Số cách hoàn thành công việc là:",
+    "options": ["m x n", "m + n", "m - n", "m / n"],
+    "correctAnswer": "m x n"
+  },
+  {
+    "question": "Hoán vị của n phần tử, Pₙ, được tính bằng công thức:",
+    "options": ["n!", "n", "n²", "C(n, k)"],
+    "correctAnswer": "n!"
+  },
+  {
+    "question": "Chỉnh hợp chập k của n phần tử, Aₙᵏ, được tính bằng công thức:",
+    "options": ["n! / (n-k)!", "n! / (k!(n-k)!)", "n!", "k!"],
+    "correctAnswer": "n! / (n-k)!"
+  },
+  {
+    "question": "Tổ hợp chập k của n phần tử, Cₙᵏ, được tính bằng công thức:",
+    "options": ["n! / (k!(n-k)!)", "n! / (n-k)!", "n! / k!", "n-k"],
+    "correctAnswer": "n! / (k!(n-k)!])"
+  },
+  {
+    "question": "Trong khai triển nhị thức Newton (a+b)ⁿ, số hạng tổng quát thứ k+1 là:",
+    "options": ["Cₙᵏ aⁿ⁻ᵏ bᵏ", "Cₙᵏ aᵏ bⁿ⁻ᵏ", "Aₙᵏ aⁿ⁻ᵏ bᵏ", "Pₙ aⁿ⁻ᵏ bᵏ"],
+    "correctAnswer": "Cₙᵏ aⁿ⁻ᵏ bᵏ"
+  },
+  {
+    "question": "Có 3 áo và 4 quần khác nhau. Số cách chọn một bộ quần áo là:",
+    "options": ["12", "7", "3", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Từ thành phố A đến B có 3 con đường, từ B đến C có 5 con đường. Số cách đi từ A đến C qua B là:",
+    "options": ["15", "8", "3", "5"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Có bao nhiêu cách xếp 4 học sinh vào một hàng dọc?",
+    "options": ["24", "4", "16", "10"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, có thể lập được bao nhiêu số tự nhiên có 2 chữ số khác nhau?",
+    "options": ["12", "16", "6", "8"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Một lớp có 10 học sinh. Có bao nhiêu cách chọn 3 học sinh để làm ban cán sự lớp?",
+    "options": ["120", "720", "1000", "30"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Trong khai triển (x+1)⁴, hệ số của x² là:",
+    "options": ["6", "4", "1", "3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một quán ăn có 5 món chính, 4 món phụ và 3 loại đồ uống. Số cách chọn một bữa ăn gồm 1 món chính, 1 món phụ, 1 đồ uống là:",
+    "options": ["60", "12", "20", "15"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Giá trị của P₄ là:",
+    "options": ["24", "12", "4", "1"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Giá trị của A₅² là:",
+    "options": ["20", "10", "25", "120"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Giá trị của C₅³ là:",
+    "options": ["10", "20", "60", "15"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Trong khai triển (a-b)⁵, số hạng chứa a²b³ có hệ số là:",
+    "options": ["-10", "10", "-20", "20"],
+    "correctAnswer": "-10"
+  },
+  {
+    "question": "Một đội bóng có 11 cầu thủ. Có bao nhiêu cách chọn 1 đội trưởng và 1 đội phó?",
+    "options": ["110", "55", "121", "22"],
+    "correctAnswer": "110"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, 5, 6, có thể lập được bao nhiêu số tự nhiên chẵn có 3 chữ số khác nhau?",
+    "options": ["60", "120", "36", "18"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Trong một mặt phẳng, cho 6 điểm phân biệt không có 3 điểm nào thẳng hàng. Số tam giác có thể tạo thành là:",
+    "options": ["20", "120", "18", "15"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Số hạng không chứa x trong khai triển (x + 1/x)⁶ là:",
+    "options": ["20", "15", "6", "1"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Một người có 5 áo sơ mi và 3 cà vạt. Người đó có thể chọn một áo sơ mi hoặc một cà vạt. Số cách chọn là:",
+    "options": ["8", "15", "5", "3"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số 0! có giá trị bằng:",
+    "options": ["1", "0", "Không xác định", "Vô cùng"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Mệnh đề nào sau đây đúng?",
+    "options": ["Cₙᵏ = Cₙⁿ⁻ᵏ", "Aₙᵏ = Cₙᵏ", "Pₙ = Cₙⁿ", "Cₙᵏ = Aₙᵏ / Pₙ"],
+    "correctAnswer": "Cₙᵏ = Cₙⁿ⁻ᵏ"
+  },
+  {
+    "question": "Tổng các hệ số trong khai triển (x+y)ⁿ là:",
+    "options": ["2ⁿ", "n!", "n²", "1"],
+    "correctAnswer": "2ⁿ"
+  },
+  {
+    "question": "Có bao nhiêu số tự nhiên có 4 chữ số khác nhau được lập từ các chữ số 0, 1, 2, 3, 4?",
+    "options": ["96", "120", "24", "100"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh và 4 bi đỏ. Số cách lấy ra 3 bi trong đó có 2 bi xanh và 1 bi đỏ là:",
+    "options": ["40", "10", "4", "84"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Tìm hệ số của x⁵ trong khai triển (2x - 1)⁸.",
+    "options": ["-1792", "1792", "C(8,5)*2⁵", "-C(8,5)*2⁵"],
+    "correctAnswer": "Cả B và D"
+  },
+  {
+    "question": "Từ một nhóm 10 người, cần chọn ra một ban đại diện gồm 3 người. Số cách chọn là:",
+    "options": ["C(10,3)", "A(10,3)", "P(10)", "10³"],
+    "correctAnswer": "C(10,3)"
+  },
+  {
+    "question": "Số đường chéo của một đa giác lồi có 10 cạnh là:",
+    "options": ["35", "45", "90", "10"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Trong khai triển (1+x)ⁿ, hệ số của số hạng thứ 3 và thứ 4 bằng nhau. Tìm n.",
+    "options": ["n=4", "n=3", "n=5", "n=2"],
+    "correctAnswer": "n=4"
+  },
+  {
+    "question": "Một lớp học có 40 học sinh. Cô giáo muốn chọn 1 bạn để lau bảng. Có bao nhiêu cách chọn?",
+    "options": ["40", "1", "40!", "C(40,1)"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Giải phương trình Pₓ = 720.",
+    "options": ["x = 6", "x = 5", "x = 7", "x = 72"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Giải phương trình Aₓ² = 30.",
+    "options": ["x = 6", "x = 5", "x = 4", "x = 7"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Giải phương trình Cₓ³ = 20.",
+    "options": ["x = 6", "x = 5", "x = 4", "x = 20"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Trong khai triển (x - 2y)¹⁰, số hạng tổng quát là:",
+    "options": ["C(10,k)x¹⁰⁻ᵏ(-2y)ᵏ", "C(10,k)x¹⁰⁻ᵏ(2y)ᵏ", "C(10,k)xᵏ(-2y)¹⁰⁻ᵏ", "-C(10,k)x¹⁰⁻ᵏ(2y)ᵏ"],
+    "correctAnswer": "C(10,k)x¹⁰⁻ᵏ(-2y)ᵏ"
+  },
+  {
+    "question": "Có bao nhiêu cách sắp xếp 5 người vào một bàn tròn?",
+    "options": ["24", "120", "5", "4"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, 5, có thể lập được bao nhiêu số tự nhiên có 5 chữ số khác nhau?",
+    "options": ["120", "25", "625", "5"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Một đội văn nghệ có 8 nam và 6 nữ. Số cách chọn một đôi song ca nam-nữ là:",
+    "options": ["48", "14", "28", "C(14,2)"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Tìm số hạng đứng giữa trong khai triển (x+y)⁶.",
+    "options": ["20x³y³", "15x⁴y²", "6x⁵y", "15x²y⁴"],
+    "correctAnswer": "20x³y³"
+  },
+  {
+    "question": "Số cách chọn 2 học sinh từ một nhóm 10 học sinh là:",
+    "options": ["45", "90", "20", "100"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Từ các chữ số 0, 1, 2, 3, 4, 5, có thể lập được bao nhiêu số tự nhiên có 3 chữ số khác nhau và chia hết cho 5?",
+    "options": ["36", "40", "20", "16"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "Tổng C(n,0) + C(n,1) + ... + C(n,n) bằng:",
+    "options": ["2ⁿ", "n!", "n²", "0"],
+    "correctAnswer": "2ⁿ"
+  },
+  {
+    "question": "Quy tắc nhân áp dụng cho một công việc gồm:",
+    "options": ["Nhiều giai đoạn liên tiếp", "Nhiều phương án lựa chọn", "Một giai đoạn duy nhất", "Các phương án xung khắc"],
+    "correctAnswer": "Nhiều giai đoạn liên tiếp"
+  },
+  {
+    "question": "Số cách xếp 3 nam và 3 nữ vào một hàng dọc sao cho nam nữ xen kẽ là:",
+    "options": ["72", "36", "144", "6"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Một hộp có 10 bi xanh, 8 bi đỏ. Số cách lấy ra 5 bi trong đó có 3 bi xanh và 2 bi đỏ là:",
+    "options": ["3360", "C(10,3) + C(8,2)", "A(10,3) * A(8,2)", "120*28"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Tìm hệ số của x⁷ trong khai triển (3-x)⁹.",
+    "options": ["-972", "972", "C(9,7)*3²", "-C(9,2)*3²"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Số cách chọn một ban cán sự gồm 1 lớp trưởng, 1 lớp phó, 3 ủy viên từ một lớp 30 người là:",
+    "options": ["C(30,1) * C(29,1) * C(28,3)", "A(30,5)", "C(30,5)", "30*29*28*27*26"],
+    "correctAnswer": "C(30,1) * C(29,1) * C(28,3)"
+  },
+  {
+    "question": "Từ các chữ số 0, 1, 2, 3, có thể lập được bao nhiêu số tự nhiên có 4 chữ số khác nhau?",
+    "options": ["18", "24", "12", "6"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Trong khai triển (x + 2/x²)¹², tìm số hạng không chứa x.",
+    "options": ["C(12,4) * 2⁴", "495 * 16", "7920", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một người đi từ A đến D phải qua B và C. Có 4 đường từ A đến B, 2 đường từ B đến C, 3 đường từ C đến D. Số cách đi từ A đến D là:",
+    "options": ["24", "9", "12", "20"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Giá trị của C(n,n) là:",
+    "options": ["1", "n", "0", "n!"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giá trị của A(n,1) là:",
+    "options": ["n", "1", "n!", "n-1"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Giá trị của C(n,0) + C(n,1) là:",
+    "options": ["n+1", "n", "1", "2"],
+    "correctAnswer": "n+1"
+  },
+  {
+    "question": "Trong khai triển (a+b)ⁿ, tổng số mũ của a và b trong mỗi số hạng là:",
+    "options": ["n", "k", "n-k", "n+1"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Có bao nhiêu cách chọn 3 quyển sách khác nhau từ 7 quyển sách khác nhau?",
+    "options": ["35", "210", "7³", "3*7"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, có thể lập được bao nhiêu số tự nhiên có 3 chữ số (không nhất thiết khác nhau)?",
+    "options": ["27", "9", "6", "3"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "Tìm hệ số của x³y² trong khai triển (x+3y)⁵.",
+    "options": ["90", "10", "30", "270"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số cách xếp 6 người (có An và Bình) vào một hàng sao cho An và Bình đứng cạnh nhau là:",
+    "options": ["240", "120", "720", "2"],
+    "correctAnswer": "240"
+  },
+  {
+    "question": "Một tổ có 10 người. Cần chọn ra 1 tổ trưởng, 1 tổ phó, 1 thư ký. Số cách chọn là:",
+    "options": ["720", "120", "1000", "30"],
+    "correctAnswer": "720"
+  },
+  {
+    "question": "Biết hệ số của x² trong khai triển (1+3x)ⁿ là 90. Tìm n.",
+    "options": ["n=5", "n=6", "n=4", "n=10"],
+    "correctAnswer": "n=5"
+  },
+  {
+    "question": "Một biển số xe có dạng 2 chữ cái và 3 chữ số. Có bao nhiêu biển số xe có thể tạo ra (26 chữ cái, 10 chữ số)?",
+    "options": ["676000", "26² * 10³", "Cả A và B", "26*25*10*9*8"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của P(n)/A(n,k) là:",
+    "options": ["(n-k)!", "k!", "C(n,k)", "1"],
+    "correctAnswer": "(n-k)!"
+  },
+  {
+    "question": "Giá trị của C(n,k) + C(n,k+1) là:",
+    "options": ["C(n+1, k+1)", "C(n, k+2)", "C(n+1, k)", "A(n+1, k+1)"],
+    "correctAnswer": "C(n+1, k+1)"
+  },
+  {
+    "question": "Tổng C(2n,0) + C(2n,2) + ... + C(2n,2n) bằng:",
+    "options": ["2<sup>2n-1</sup>", "2<sup>2n</sup>", "2<sup>n</sup>", "0"],
+    "correctAnswer": "2<sup>2n-1</sup>"
+  },
+  {
+    "question": "Có bao nhiêu cách đi từ A đến C trong hình vẽ, chỉ đi sang phải hoặc đi lên?",
+    "options": ["C(m+n, m)", "m*n", "m+n", "P(m+n)"],
+    "correctAnswer": "C(m+n, m)"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, 5, 6, có thể lập được bao nhiêu số tự nhiên có 4 chữ số khác nhau và lớn hơn 4000?",
+    "options": ["180", "360", "120", "240"],
+    "correctAnswer": "180"
+  },
+  {
+    "question": "Một hộp có 4 bi đỏ, 5 bi xanh, 6 bi vàng. Số cách lấy ra 4 bi trong đó không có bi nào màu xanh là:",
+    "options": ["210", "C(10,4)", "Cả A và B", "C(15,4) - C(5,4)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tìm số hạng chứa x³ trong khai triển (x² + 2/x)⁹.",
+    "options": ["C(9,5) * 2⁵ x³", "Không có", "C(9,4) * 2⁴ x³", "C(9,6) * 2⁶ x³"],
+    "correctAnswer": "Không có"
+  },
+  {
+    "question": "Một nhóm có 10 nam và 6 nữ. Số cách chọn 3 người sao cho có ít nhất 1 nữ là:",
+    "options": ["440", "C(16,3) - C(10,3)", "Cả A và B", "C(6,1)C(10,2)+C(6,2)C(10,1)+C(6,3)"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Số tam giác có thể tạo thành từ 10 điểm phân biệt, trong đó có 4 điểm thẳng hàng là:",
+    "options": ["116", "120", "C(10,3) - C(4,3)", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Trong khai triển (1-2x)¹², hệ số của x⁷ là:",
+    "options": ["-C(12,7) * 2⁷", "-101376", "Cả A và B", "C(12,7) * 2⁷"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Có 5 tem thư khác nhau và 6 bì thư khác nhau. Số cách chọn 3 tem thư và dán vào 3 bì thư (mỗi bì 1 tem) là:",
+    "options": ["1200", "C(5,3) * P(3)", "A(6,3) * C(5,3)", "C(5,3) * A(6,3)"],
+    "correctAnswer": "C(5,3) * A(6,3)"
+  },
+  {
+    "question": "Giá trị của A(n,n) là:",
+    "options": ["n!", "P(n)", "Cả A và B", "1"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của C(n,1) là:",
+    "options": ["n", "1", "n-1", "n!"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Khai triển (x-y)⁴ có bao nhiêu số hạng?",
+    "options": ["5", "4", "6", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số cách chia 10 người thành hai nhóm, một nhóm 7 người và một nhóm 3 người là:",
+    "options": ["120", "C(10,7)", "Cả A và B", "C(10,3) * C(7,7)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, 5, có thể lập được bao nhiêu số tự nhiên có 3 chữ số khác nhau và chia hết cho 3?",
+    "options": ["24", "12", "18", "30"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Tìm hệ số lớn nhất trong khai triển (1+x)¹⁰.",
+    "options": ["C(10,5)", "252", "Cả A và B", "C(10,6)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một giải đấu có 10 đội tham gia, thi đấu vòng tròn một lượt. Số trận đấu của giải là:",
+    "options": ["45", "90", "100", "10!"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Số cách xếp 4 quyển sách Toán và 3 quyển sách Lý lên một kệ sách dài sao cho các quyển sách cùng môn đứng cạnh nhau là:",
+    "options": ["288", "2! * 4! * 3!", "Cả A và B", "7!"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho S = C(n,0) - C(n,1) + C(n,2) - ... + (-1)ⁿC(n,n). Giá trị của S là:",
+    "options": ["0", "1", "2ⁿ", "-1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Có bao nhiêu cách chọn một bông hoa từ 5 bông hồng vàng và 3 bông hồng đỏ?",
+    "options": ["8", "15", "5", "3"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Giá trị của n thỏa mãn A(n,2) - C(n+1, n-1) = 5 là:",
+    "options": ["n=5", "n=4", "n=3", "n=6"],
+    "correctAnswer": "n=5"
+  },
+  {
+    "question": "Số hạng không chứa x trong khai triển (x³ - 1/x²)¹⁰ là:",
+    "options": ["-120", "120", "C(10,6)", "-C(10,4)"],
+    "correctAnswer": "-120"
+  },
+  {
+    "question": "Có bao nhiêu số tự nhiên có 5 chữ số mà các chữ số đều lẻ và khác nhau?",
+    "options": ["120", "5!", "Cả A và B", "5⁵"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 12 bi, trong đó có 5 bi xanh. Lấy ngẫu nhiên 4 bi. Số cách lấy được ít nhất 1 bi xanh là:",
+    "options": ["460", "C(12,4) - C(7,4)", "Cả A và B", "495-35"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Tìm n biết C(n,1) + C(n,2) + C(n,3) = (7/2)n.",
+    "options": ["n=4", "n=5", "n=3", "n=6"],
+    "correctAnswer": "n=4"
+  },
+  {
+    "question": "Số cách chia 12 món quà giống nhau cho 3 người sao cho ai cũng có quà là:",
+    "options": ["55", "C(11,2)", "Cả A và B", "C(12,3)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Từ một cỗ bài 52 lá, có bao nhiêu cách rút ra 4 lá sao cho có đủ 4 chất (cơ, rô, chuồn, bích)?",
+    "options": ["13⁴", "C(13,1)⁴", "Cả A và B", "C(52,4)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tổng các hệ số của các số hạng có bậc lẻ trong khai triển (x+y)ⁿ là:",
+    "options": ["2ⁿ⁻¹", "2ⁿ", "0", "2ⁿ⁺¹"],
+    "correctAnswer": "2ⁿ⁻¹"
+  }
+]
+
