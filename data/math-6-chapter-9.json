@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu số?",
+    "options": ["Chiều cao của các bạn trong lớp", "Tên các bạn trong tổ", "Màu sắc yêu thích", "Nơi sinh của các bạn"],
+    "correctAnswer": "Chiều cao của các bạn trong lớp"
+  },
+  {
+    "question": "Để thu thập dữ liệu về các loại cây trong sân trường, em nên dùng phương pháp nào?",
+    "options": ["Quan sát, đếm", "Lập phiếu hỏi", "Phỏng vấn", "Làm thí nghiệm"],
+    "correctAnswer": "Quan sát, đếm"
+  },
+  {
+    "question": "Bảng thống kê dùng để làm gì?",
+    "options": ["Ghi chép dữ liệu một cách có hệ thống", "Vẽ biểu đồ", "Tính toán", "So sánh"],
+    "correctAnswer": "Ghi chép dữ liệu một cách có hệ thống"
+  },
+  {
+    "question": "Biểu đồ tranh sử dụng gì để biểu diễn dữ liệu?",
+    "options": ["Biểu tượng hoặc hình ảnh", "Các cột hình chữ nhật", "Các đoạn thẳng", "Các hình quạt"],
+    "correctAnswer": "Biểu tượng hoặc hình ảnh"
+  },
+  {
+    "question": "Trong biểu đồ cột, yếu tố nào thể hiện độ lớn của dữ liệu?",
+    "options": ["Chiều cao của cột", "Chiều rộng của cột", "Màu sắc của cột", "Tên của cột"],
+    "correctAnswer": "Chiều cao của cột"
+  },
+  {
+    "question": "Biểu đồ cột kép được dùng để làm gì?",
+    "options": ["So sánh hai bộ dữ liệu cùng loại", "Biểu diễn một bộ dữ liệu", "Biểu diễn sự thay đổi theo thời gian", "Biểu diễn tỉ lệ phần trăm"],
+    "correctAnswer": "So sánh hai bộ dữ liệu cùng loại"
+  },
+  {
+    "question": "Khi gieo một con súc sắc 6 mặt, kết quả có thể xảy ra là:",
+    "options": ["Xuất hiện mặt 1, 2, 3, 4, 5, hoặc 6 chấm", "Chỉ xuất hiện mặt 6 chấm", "Xuất hiện mặt 7 chấm", "Không có kết quả nào"],
+    "correctAnswer": "Xuất hiện mặt 1, 2, 3, 4, 5, hoặc 6 chấm"
+  },
+  {
+    "question": "Trong một hộp có 3 quả bóng: xanh, đỏ, vàng. Lấy ngẫu nhiên một quả. Biến cố 'Lấy được quả bóng màu tím' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Tung một đồng xu. Biến cố 'Xuất hiện mặt sấp hoặc mặt ngửa' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Xác suất thực nghiệm của một sự kiện được tính bằng công thức:",
+    "options": ["Số lần sự kiện xảy ra / Tổng số lần thực hiện", "Tổng số lần thực hiện / Số lần sự kiện xảy ra", "Số lần sự kiện xảy ra", "Tổng số lần thực hiện"],
+    "correctAnswer": "Số lần sự kiện xảy ra / Tổng số lần thực hiện"
+  },
+  {
+    "question": "Bạn An tung một đồng xu 20 lần, có 12 lần xuất hiện mặt ngửa. Xác suất thực nghiệm của sự kiện 'xuất hiện mặt ngửa' là:",
+    "options": ["12/20", "8/20", "20/12", "1/2"],
+    "correctAnswer": "12/20"
+  },
+  {
+    "question": "Dữ liệu 'Sở thích của các bạn lớp 6A' là loại dữ liệu gì?",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Trong một biểu đồ tranh, mỗi biểu tượng 🚗 đại diện cho 10 chiếc ô tô. Nếu có 5 biểu tượng 🚗 thì số ô tô là:",
+    "options": ["50", "10", "5", "15"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Biểu đồ cột có trục ngang ghi tên các lớp, trục đứng ghi số học sinh. Cột của lớp 6A cao hơn cột của lớp 6B. Điều này có nghĩa là:",
+    "options": ["Sĩ số lớp 6A nhiều hơn lớp 6B", "Học sinh lớp 6A cao hơn học sinh lớp 6B", "Điểm trung bình lớp 6A cao hơn", "Lớp 6A có nhiều bàn ghế hơn"],
+    "correctAnswer": "Sĩ số lớp 6A nhiều hơn lớp 6B"
+  },
+  {
+    "question": "Gieo một con súc sắc. Sự kiện 'gieo được mặt có số chấm là số lẻ' có thể xảy ra không?",
+    "options": ["Có", "Không", "Chắc chắn xảy ra", "Không thể xảy ra"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một bạn quay vòng quay may mắn 100 lần, kim chỉ vào ô 'Phần thưởng' 15 lần. Xác suất thực nghiệm của sự kiện 'Trúng phần thưởng' là:",
+    "options": ["15/100", "85/100", "15", "0.85"],
+    "correctAnswer": "15/100"
+  },
+  {
+    "question": "Dữ liệu 'Cân nặng của trẻ sơ sinh' là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Trong biểu đồ cột kép so sánh số học sinh nam và nữ của các lớp, ta có thể biết được điều gì?",
+    "options": ["Lớp nào có nhiều nam hơn nữ", "Tổng số học sinh của mỗi lớp", "Lớp nào có sĩ số đông nhất", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Tung một đồng xu. Có mấy kết quả có thể xảy ra?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một hộp có 10 quả bóng xanh. Lấy ngẫu nhiên một quả. Biến cố 'lấy được quả bóng màu xanh' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Một xạ thủ bắn 20 mũi tên, có 18 mũi trúng hồng tâm. Xác suất thực nghiệm của sự kiện 'bắn trúng hồng tâm' là:",
+    "options": ["18/20", "2/20", "9/10", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Dữ liệu nào sau đây không phải là số liệu?",
+    "options": ["Địa chỉ nhà của các bạn trong lớp", "Số tuổi của các bạn", "Chiều cao của các bạn", "Cân nặng của các bạn"],
+    "correctAnswer": "Địa chỉ nhà của các bạn trong lớp"
+  },
+  {
+    "question": "Một biểu đồ tranh thống kê số cây trồng được của các lớp, với mỗi 🌳 = 5 cây. Lớp 6A trồng được 6 biểu tượng 🌳. Vậy lớp 6A trồng được:",
+    "options": ["30 cây", "11 cây", "5 cây", "6 cây"],
+    "correctAnswer": "30 cây"
+  },
+  {
+    "question": "Biểu đồ cột thích hợp để so sánh dữ liệu nào sau đây?",
+    "options": ["Doanh thu của 4 cửa hàng trong một tháng", "Tỉ lệ các loại trái cây trong một giỏ", "Sự thay đổi nhiệt độ trong ngày", "Thành phần không khí"],
+    "correctAnswer": "Doanh thu của 4 cửa hàng trong một tháng"
+  },
+  {
+    "question": "Trong một hộp có 5 bi đỏ và 3 bi xanh. Lấy ngẫu nhiên một bi. Biến cố nào sau đây không thể xảy ra?",
+    "options": ["Lấy được bi vàng", "Lấy được bi đỏ", "Lấy được bi xanh", "Lấy được một viên bi"],
+    "correctAnswer": "Lấy được bi vàng"
+  },
+  {
+    "question": "Khi số lần thực hiện thí nghiệm tăng lên, xác suất thực nghiệm của một sự kiện có xu hướng:",
+    "options": ["Ngày càng gần với xác suất lí thuyết của nó", "Ngày càng xa xác suất lí thuyết", "Luôn bằng 0.5", "Không thay đổi"],
+    "correctAnswer": "Ngày càng gần với xác suất lí thuyết của nó"
+  },
+  {
+    "question": "Dữ liệu 'Số lượng học sinh trong các lớp của một trường' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không đáng tin cậy"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Biểu đồ cột kép so sánh số huy chương vàng và bạc của 3 đoàn thể thao. Nhìn vào biểu đồ ta không thể biết được:",
+    "options": ["Tổng số huy chương của cả 3 đoàn", "Đoàn nào có nhiều huy chương vàng hơn bạc", "Đoàn nào có nhiều huy chương vàng nhất", "Đoàn nào có ít huy chương bạc nhất"],
+    "correctAnswer": "Tổng số huy chương của cả 3 đoàn"
+  },
+  {
+    "question": "Rút một thẻ từ bộ bài 52 lá. Sự kiện 'Rút được lá bài màu đỏ' có thể xảy ra không?",
+    "options": ["Có", "Không", "Chắc chắn xảy ra", "Không thể xảy ra"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một nhà máy sản xuất 500 bóng đèn, kiểm tra thấy có 10 bóng bị lỗi. Xác suất thực nghiệm của sự kiện 'chọn được một bóng tốt' là:",
+    "options": ["490/500", "10/500", "1/50", "49/50"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Để biết tỉ lệ học sinh nam và nữ trong trường, ta nên dùng phương pháp thu thập dữ liệu nào?",
+    "options": ["Thu thập từ danh sách có sẵn của nhà trường", "Phỏng vấn từng học sinh", "Quan sát", "Làm thí nghiệm"],
+    "correctAnswer": "Thu thập từ danh sách có sẵn của nhà trường"
+  },
+  {
+    "question": "Trong biểu đồ tranh, phần quan trọng nhất để hiểu biểu đồ là:",
+    "options": ["Chú thích (mỗi biểu tượng ứng với bao nhiêu đối tượng)", "Tiêu đề biểu đồ", "Số lượng biểu tượng", "Màu sắc biểu tượng"],
+    "correctAnswer": "Chú thích (mỗi biểu tượng ứng với bao nhiêu đối tượng)"
+  },
+  {
+    "question": "Biểu đồ cột nào thể hiện dữ liệu tốt hơn?",
+    "options": ["Biểu đồ có các cột được ghi số liệu rõ ràng trên đỉnh", "Biểu đồ có các cột nhiều màu sắc", "Biểu đồ có các cột rất rộng", "Biểu đồ không có trục số"],
+    "correctAnswer": "Biểu đồ có các cột được ghi số liệu rõ ràng trên đỉnh"
+  },
+  {
+    "question": "Gieo một con súc sắc. Sự kiện 'Số chấm xuất hiện là một số nhỏ hơn 1' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Một người gieo đồng xu 30 lần, được 18 lần mặt sấp. Xác suất thực nghiệm của sự kiện 'xuất hiện mặt ngửa' là:",
+    "options": ["12/30", "18/30", "2/5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Dữ liệu 'thời gian hoàn thành bài thi' của các thí sinh là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Không phải dữ liệu"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Biểu đồ cột kép so sánh lượng mưa trung bình của Hà Nội và TP.HCM qua các tháng. Ta có thể so sánh được:",
+    "options": ["Tháng nào Hà Nội mưa nhiều hơn TP.HCM", "Tổng lượng mưa cả năm của mỗi thành phố", "Lượng mưa chính xác vào một ngày bất kỳ", "Nguyên nhân gây mưa"],
+    "correctAnswer": "Tháng nào Hà Nội mưa nhiều hơn TP.HCM"
+  },
+  {
+    "question": "Trong một hộp có bi xanh và bi đỏ. Lấy ra một viên bi. Biến cố 'lấy được bi xanh' là:",
+    "options": ["Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố không thể", "Không phải biến cố"],
+    "correctAnswer": "Biến cố ngẫu nhiên"
+  },
+  {
+    "question": "Một công ty sản xuất pin kiểm tra 2000 viên pin và thấy 10 viên hết hạn sử dụng. Xác suất thực nghiệm của sự kiện 'lấy được viên pin tốt' là:",
+    "options": ["1990/2000", "10/2000", "199/200", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Để thu thập dữ liệu về ý kiến của phụ huynh về chất lượng bữa ăn bán trú, nhà trường nên:",
+    "options": ["Gửi phiếu khảo sát cho phụ huynh", "Quan sát học sinh ăn", "Phỏng vấn đầu bếp", "Đo cân nặng của học sinh"],
+    "correctAnswer": "Gửi phiếu khảo sát cho phụ huynh"
+  },
+  {
+    "question": "Biểu đồ tranh biểu diễn số lượng hoa trong vườn. Nếu có 4 bông hoa hồng, 6 bông hoa cúc, 5 bông hoa lan và mỗi biểu tượng 🌸 = 2 bông, thì cần vẽ bao nhiêu biểu tượng 🌸 cho hoa cúc?",
+    "options": ["3", "6", "2", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng học sinh tham gia các câu lạc bộ: Toán (30), Anh (40), Thể thao (50). Câu lạc bộ nào có ít học sinh tham gia nhất?",
+    "options": ["Toán", "Anh", "Thể thao", "Không xác định"],
+    "correctAnswer": "Toán"
+  },
+  {
+    "question": "Gieo một con súc sắc. Có bao nhiêu kết quả có thể xảy ra mà số chấm là số chẵn?",
+    "options": ["3", "2", "4", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một người quay vòng quay 50 lần, kim dừng ở ô màu đỏ 10 lần, ô màu xanh 25 lần, ô màu vàng 15 lần. Xác suất thực nghiệm kim dừng ở ô màu xanh là:",
+    "options": ["25/50", "1/2", "50%", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Dữ liệu 'loại quả yêu thích' có thể được sắp xếp theo thứ tự không?",
+    "options": ["Không", "Có, theo thứ tự bảng chữ cái", "Có, theo số người yêu thích", "Có, theo màu sắc"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Biểu đồ cột kép cho thấy điểm kiểm tra của An và Bình. Cột của An cao 8, cột của Bình cao 9. Nhận xét nào đúng?",
+    "options": ["Bình có điểm cao hơn An", "An có điểm cao hơn Bình", "Hai bạn bằng điểm", "Không so sánh được"],
+    "correctAnswer": "Bình có điểm cao hơn An"
+  },
+  {
+    "question": "Trong một túi có 5 kẹo chanh và 5 kẹo dâu. Lấy ngẫu nhiên một cái. Sự kiện 'lấy được kẹo chanh' và 'lấy được kẹo dâu' có khả năng xảy ra:",
+    "options": ["Như nhau", "Chanh cao hơn", "Dâu cao hơn", "Không xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Một người kiểm tra 40 sản phẩm và thấy tất cả đều tốt. Người đó kết luận rằng lô hàng 1000 sản phẩm không có sản phẩm lỗi. Kết luận này:",
+    "options": ["Có thể không chính xác vì cỡ mẫu nhỏ", "Chắc chắn đúng", "Chắc chắn sai", "Không có ý nghĩa"],
+    "correctAnswer": "Có thể không chính xác vì cỡ mẫu nhỏ"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là hợp lí?",
+    "options": ["Danh sách điểm Toán của lớp 6A: 8; 9; 7; 10; 6", "Danh sách chiều cao (cm) của học sinh lớp 1: 150; 160; 155", "Danh sách nhiệt độ (độ C) trong ngày ở Nam Cực: 25; 30; 32", "Danh sách số con của 5 gia đình: 2; 3; 2.5; 1; 4"],
+    "correctAnswer": "Danh sách điểm Toán của lớp 6A: 8; 9; 7; 10; 6"
+  },
+  {
+    "question": "Biểu đồ tranh biểu diễn số con vật trong nông trại. Có 4 biểu tượng bò, 10 biểu tượng gà, 5 biểu tượng lợn. Mỗi biểu tượng ứng với 5 con. Nông trại có bao nhiêu con gà?",
+    "options": ["50", "10", "40", "25"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng sách đọc trong một năm của 4 bạn: An (12), Bình (15), Cường (10), Dũng (15). Bạn nào đọc sách nhiều nhất?",
+    "options": ["Bình và Dũng", "An", "Bình", "Dũng"],
+    "correctAnswer": "Bình và Dũng"
+  },
+  {
+    "question": "Gieo một con súc sắc. Có bao nhiêu kết quả có thể xảy ra mà số chấm là một số nguyên tố?",
+    "options": ["3", "4", "2", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một người ghi lại màu của 50 chiếc xe đi qua cổng trường. Kết quả có 20 xe màu đen. Xác suất thực nghiệm của sự kiện 'một chiếc xe đi qua có màu đen' là:",
+    "options": ["20/50", "2/5", "40%", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Dữ liệu 'số tầng của các tòa nhà trong một khu đô thị' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Không phải dữ liệu"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Biểu đồ cột kép so sánh số lượng TV bán được của hai siêu thị A và B trong 3 tháng. Tháng 1, A > B. Tháng 2, A < B. Tháng 3, A = B. Nhận xét nào sai?",
+    "options": ["Tổng số TV bán được trong 3 tháng của A luôn lớn hơn B", "Tháng 1, siêu thị A bán tốt hơn", "Tháng 2, siêu thị B bán tốt hơn", "Tháng 3, hai siêu thị bán bằng nhau"],
+    "correctAnswer": "Tổng số TV bán được trong 3 tháng của A luôn lớn hơn B"
+  },
+  {
+    "question": "Trong một hộp kín có 10 quả bóng giống hệt nhau, chỉ khác màu. Lấy ra một quả. Đây là một:",
+    "options": ["Phép thử ngẫu nhiên", "Biến cố chắc chắn", "Biến cố không thể", "Thí nghiệm khoa học"],
+    "correctAnswer": "Phép thử ngẫu nhiên"
+  },
+  {
+    "question": "Một người gieo xúc xắc 100 lần, có 15 lần ra mặt 6 chấm. Xác suất thực nghiệm của sự kiện 'ra mặt 6 chấm' là:",
+    "options": ["0,15", "15", "1/6", "85/100"],
+    "correctAnswer": "0,15"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là không hợp lí?",
+    "options": ["Một học sinh lớp 6 cao 2 mét", "Một quả bưởi nặng 1,5 kg", "Nhiệt độ ngoài trời hôm nay là 35°C", "Lớp 6A có 40 học sinh"],
+    "correctAnswer": "Một học sinh lớp 6 cao 2 mét"
+  },
+  {
+    "question": "Trong một biểu đồ tranh, nếu một nửa biểu tượng được vẽ, nó có nghĩa là gì?",
+    "options": ["Biểu diễn một nửa số lượng mà cả biểu tượng đại diện", "Biểu tượng bị vẽ lỗi", "Không có ý nghĩa", "Biểu diễn số lượng bằng 0"],
+    "correctAnswer": "Biểu diễn một nửa số lượng mà cả biểu tượng đại diện"
+  },
+  {
+    "question": "Biểu đồ cột có thể biểu diễn dữ liệu âm không?",
+    "options": ["Có, bằng cách vẽ cột xuống phía dưới trục ngang", "Không, chỉ biểu diễn số dương", "Chỉ khi tất cả các giá trị đều âm", "Không thể"],
+    "correctAnswer": "Có, bằng cách vẽ cột xuống phía dưới trục ngang"
+  },
+  {
+    "question": "Gieo một con súc sắc. Sự kiện 'số chấm xuất hiện là một số tự nhiên' có xác suất bằng:",
+    "options": ["1", "0", "1/6", "6"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một tỉ lệ nảy mầm của một loại hạt là 90%. Gieo 1000 hạt. Số hạt có khả năng nảy mầm là khoảng:",
+    "options": ["900", "100", "1000", "90"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Dữ liệu 'Tên các quốc gia trong khu vực Đông Nam Á' là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Biểu đồ cột kép so sánh dân số nam và nữ của một thành phố qua các năm. Nếu trong một năm, cột nam và cột nữ cao bằng nhau, điều đó có nghĩa là:",
+    "options": ["Dân số nam và nữ của thành phố trong năm đó bằng nhau", "Thành phố không phát triển", "Tỉ lệ sinh bằng tỉ lệ tử", "Không có ý nghĩa"],
+    "correctAnswer": "Dân số nam và nữ của thành phố trong năm đó bằng nhau"
+  },
+  {
+    "question": "Rút một lá bài từ bộ bài Tây. Sự kiện 'Rút được lá Joker' là:",
+    "options": ["Biến cố không thể (nếu bộ bài không có Joker)", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể (nếu bộ bài không có Joker)"
+  },
+  {
+    "question": "Một người tung đồng xu 50 lần, có 24 lần mặt sấp. Xác suất thực nghiệm của sự kiện 'xuất hiện mặt sấp' là:",
+    "options": ["24/50", "26/50", "12/25", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Để biết được xu hướng tăng trưởng chiều cao của một bạn học sinh từ lớp 1 đến lớp 5, ta nên dùng biểu đồ nào?",
+    "options": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột", "Biểu đồ tranh"],
+    "correctAnswer": "Biểu đồ đoạn thẳng"
+  },
+  {
+    "question": "Trong biểu đồ tranh, để biểu diễn số lượng 25, nếu mỗi biểu tượng ứng với 10, ta cần vẽ:",
+    "options": ["2 biểu tượng và một nửa biểu tượng", "2 biểu tượng", "3 biểu tượng", "5 biểu tượng"],
+    "correctAnswer": "2 biểu tượng và một nửa biểu tượng"
+  },
+  {
+    "question": "Biểu đồ cột có các cột cách đều nhau không?",
+    "options": ["Có, để đảm bảo tính trực quan và dễ so sánh", "Không, tùy ý người vẽ", "Chỉ cách đều khi dữ liệu bằng nhau", "Không cần thiết"],
+    "correctAnswer": "Có, để đảm bảo tính trực quan và dễ so sánh"
+  },
+  {
+    "question": "Gieo một con súc sắc. Sự kiện 'số chấm xuất hiện là một số chia hết cho 7' có xác suất bằng:",
+    "options": ["0", "1", "1/6", "1/7"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một người quan sát 100 người qua đường, thấy có 60 người đeo khẩu trang. Xác suất thực nghiệm của sự kiện 'một người qua đường đeo khẩu trang' là:",
+    "options": ["0,6", "60", "6/10", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Dữ liệu 'Nhiệt độ hàng ngày tại Hà Nội' là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Không phải dữ liệu"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Biểu đồ cột kép so sánh số học sinh giỏi và khá của lớp 6A. Nếu cột 'Giỏi' cao hơn cột 'Khá', điều đó có nghĩa là:",
+    "options": ["Số học sinh giỏi nhiều hơn số học sinh khá", "Lớp 6A là lớp chuyên", "Học sinh giỏi học tốt hơn học sinh khá", "Điểm của học sinh giỏi cao hơn"],
+    "correctAnswer": "Số học sinh giỏi nhiều hơn số học sinh khá"
+  },
+  {
+    "question": "Trong một hộp có 1 bi xanh, 1 bi đỏ, 1 bi vàng. Lấy đồng thời 2 bi. Có bao nhiêu kết quả có thể xảy ra?",
+    "options": ["3", "2", "1", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một người tung một con súc sắc 60 lần, kết quả như sau: mặt 1 chấm (10 lần), 2 chấm (12 lần), 3 chấm (8 lần), 4 chấm (11 lần), 5 chấm (9 lần), 6 chấm (10 lần). Xác suất thực nghiệm của sự kiện 'xuất hiện mặt có số chấm chẵn' là:",
+    "options": ["33/60", "27/60", "1/2", "30/60"],
+    "correctAnswer": "33/60"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là hợp lí nhất cho cân nặng (kg) của một học sinh lớp 6?",
+    "options": ["45", "10", "100", "4.5"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Biểu đồ tranh biểu diễn số xe bán được. Cửa hàng A có 5 🚗, cửa hàng B có 3 🚗. Mỗi 🚗 là 20 xe. Cửa hàng A bán nhiều hơn cửa hàng B bao nhiêu xe?",
+    "options": ["40", "2", "20", "60"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy chiều cao của 4 bạn: An (150cm), Bình (155cm), Chi (148cm), Dũng (155cm). Bạn nào thấp nhất?",
+    "options": ["Chi", "An", "Bình", "Dũng"],
+    "correctAnswer": "Chi"
+  },
+  {
+    "question": "Gieo một con súc sắc. Sự kiện 'số chấm xuất hiện là một số không phải số nguyên tố' có bao nhiêu kết quả thuận lợi?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một người bán vé số bán được 200 vé, trong đó có 2 vé trúng thưởng. Xác suất thực nghiệm để một người mua vé từ người đó và trúng thưởng là:",
+    "options": ["2/200", "1/100", "0.01", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Dữ liệu 'số ngày nắng trong các tháng của năm' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Không phải dữ liệu"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Biểu đồ cột kép so sánh chi phí sản xuất và doanh thu của một công ty. Nếu cột doanh thu cao hơn cột chi phí thì công ty đó:",
+    "options": ["Có lãi", "Bị lỗ", "Hòa vốn", "Không xác định được"],
+    "correctAnswer": "Có lãi"
+  },
+  {
+    "question": "Trong một hộp có 10 quả bóng được đánh số từ 1 đến 10. Lấy ngẫu nhiên một quả. Sự kiện 'lấy được quả bóng có số lớn hơn 10' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Một người gieo một con súc sắc 120 lần, mặt 1 chấm xuất hiện 18 lần. Xác suất thực nghiệm của sự kiện 'xuất hiện mặt 1 chấm' là:",
+    "options": ["18/120", "3/20", "0.15", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  }
+]
+
