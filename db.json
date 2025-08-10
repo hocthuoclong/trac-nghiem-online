@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Phân thức đại số",
                   "file": "./data/math-8-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Phương trình bậc nhất và hàm số bậc nhất",
+                  "file": "./data/math-8-chapter-7.json"
                 }
               ]
             },
