@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Phân số a/b được gọi là tối giản nếu UCLN(|a|, |b|) bằng:",
+    "options": ["1", "0", "a", "b"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hai phân số a/b và c/d được gọi là bằng nhau nếu:",
+    "options": ["a.d = b.c", "a.c = b.d", "a+d = b+c", "a-d = b-c"],
+    "correctAnswer": "a.d = b.c"
+  },
+  {
+    "question": "Rút gọn phân số 12/18 về dạng tối giản ta được:",
+    "options": ["2/3", "6/9", "4/6", "1/2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Quy đồng mẫu số hai phân số 1/3 và 1/4 ta được:",
+    "options": ["4/12 và 3/12", "1/12 và 1/12", "3/12 và 4/12", "2/12 và 3/12"],
+    "correctAnswer": "4/12 và 3/12"
+  },
+  {
+    "question": "So sánh hai phân số 2/5 và 3/5.",
+    "options": ["2/5 < 3/5", "2/5 > 3/5", "2/5 = 3/5", "Không so sánh được"],
+    "correctAnswer": "2/5 < 3/5"
+  },
+  {
+    "question": "So sánh hai phân số 3/4 và 4/5.",
+    "options": ["3/4 < 4/5", "3/4 > 4/5", "3/4 = 4/5", "Không so sánh được"],
+    "correctAnswer": "3/4 < 4/5"
+  },
+  {
+    "question": "Hỗn số 2 1/3 được viết dưới dạng phân số là:",
+    "options": ["7/3", "2/3", "5/3", "3/7"],
+    "correctAnswer": "7/3"
+  },
+  {
+    "question": "Viết phân số 11/4 dưới dạng hỗn số.",
+    "options": ["2 3/4", "3 1/4", "2 1/4", "1 7/4"],
+    "correctAnswer": "2 3/4"
+  },
+  {
+    "question": "Kết quả của phép cộng 1/5 + 3/5 là:",
+    "options": ["4/5", "4/10", "3/25", "3/10"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Kết quả của phép trừ 7/9 - 2/9 là:",
+    "options": ["5/9", "5", "9/5", "5/18"],
+    "correctAnswer": "5/9"
+  },
+  {
+    "question": "Kết quả của phép cộng 1/2 + 1/3 là:",
+    "options": ["5/6", "2/5", "1/6", "1/5"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Kết quả của phép trừ 3/4 - 1/2 là:",
+    "options": ["1/4", "2/2", "1/2", "2/4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Kết quả của phép nhân (2/3) . (4/5) là:",
+    "options": ["8/15", "6/8", "8/8", "6/15"],
+    "correctAnswer": "8/15"
+  },
+  {
+    "question": "Kết quả của phép chia (1/2) : (3/4) là:",
+    "options": ["2/3", "3/8", "4/6", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tìm 2/3 của 18.",
+    "options": ["12", "27", "6", "36"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tìm một số biết 3/4 của nó bằng 12.",
+    "options": ["16", "9", "15", "20"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Phân số nào sau đây bằng phân số 3/4?",
+    "options": ["9/12", "6/9", "12/15", "3/8"],
+    "correctAnswer": "9/12"
+  },
+  {
+    "question": "Để so sánh hai phân số không cùng mẫu, ta làm gì trước tiên?",
+    "options": ["Quy đồng mẫu số", "Rút gọn phân số", "Nhân chéo", "Cộng hai phân số"],
+    "correctAnswer": "Quy đồng mẫu số"
+  },
+  {
+    "question": "Hỗn số là một số gồm:",
+    "options": ["Phần nguyên và phần phân số", "Chỉ phần nguyên", "Chỉ phần phân số", "Hai phân số"],
+    "correctAnswer": "Phần nguyên và phần phân số"
+  },
+  {
+    "question": "Kết quả của phép tính 1 + 1/2 là:",
+    "options": ["3/2", "1 1/2", "1.5", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính 2 - 3/4 là:",
+    "options": ["5/4", "1 1/4", "1.25", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Số nghịch đảo của 5/8 là:",
+    "options": ["8/5", "-5/8", "1", "0"],
+    "correctAnswer": "8/5"
+  },
+  {
+    "question": "Muốn chia một phân số cho một phân số khác, ta lấy phân số thứ nhất nhân với:",
+    "options": ["Phân số nghịch đảo của phân số thứ hai", "Phân số thứ hai", "Số đối của phân số thứ hai", "1"],
+    "correctAnswer": "Phân số nghịch đảo của phân số thứ hai"
+  },
+  {
+    "question": "Một lớp học có 40 học sinh, trong đó 3/5 là học sinh nữ. Lớp học đó có bao nhiêu học sinh nam?",
+    "options": ["16", "24", "15", "25"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Một quả dưa hấu nặng 3kg. Bạn An đã ăn 1/4 quả dưa. Hỏi bạn An đã ăn bao nhiêu kg dưa hấu?",
+    "options": ["0.75 kg", "1.25 kg", "3/4 kg", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Rút gọn phân số 34/51.",
+    "options": ["2/3", "17/25.5", "3/4", "1/2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Mẫu số chung nhỏ nhất của 1/6 và 1/9 là:",
+    "options": ["18", "54", "36", "3"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Trong các phân số 1/2, 2/3, 3/4, 4/5, phân số nào lớn nhất?",
+    "options": ["4/5", "1/2", "2/3", "3/4"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Viết 3.25 dưới dạng hỗn số.",
+    "options": ["3 1/4", "3 25/100", "Cả A và B đều đúng", "3 2/5"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 2 1/2 + 1 1/4 là:",
+    "options": ["3 3/4", "15/4", "3.75", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính 5/2 * 3/10 là:",
+    "options": ["3/4", "15/20", "0.75", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính 4 : 1/2 là:",
+    "options": ["8", "2", "1/8", "4/2"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "25% của 200 là:",
+    "options": ["50", "25", "100", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Tìm một số biết 20% của nó bằng 10.",
+    "options": ["50", "2", "200", "100"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 5/7 = .../21",
+    "options": ["15", "10", "20", "14"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Phân số nào sau đây là phân số thập phân?",
+    "options": ["7/100", "3/5", "1/200", "4/15"],
+    "correctAnswer": "7/100"
+  },
+  {
+    "question": "So sánh -3/5 và -4/5.",
+    "options": ["-3/5 > -4/5", "-3/5 < -4/5", "-3/5 = -4/5", "Không so sánh được"],
+    "correctAnswer": "-3/5 > -4/5"
+  },
+  {
+    "question": "Phân số 15/8 được viết dưới dạng hỗn số là:",
+    "options": ["1 7/8", "2 1/8", "1 5/8", "8 1/5"],
+    "correctAnswer": "1 7/8"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 - (-1/4) là:",
+    "options": ["3/4", "1/4", "-1/4", "-3/4"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Kết quả của phép tính (-3/5) . (5/-3) là:",
+    "options": ["1", "-1", "0", "15/15"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một mảnh vườn hình chữ nhật có chiều dài 20m, chiều rộng bằng 3/4 chiều dài. Diện tích mảnh vườn là:",
+    "options": ["300 m²", "15 m²", "70 m²", "280 m²"],
+    "correctAnswer": "300 m²"
+  },
+  {
+    "question": "Sau khi giảm giá 20%, một chiếc áo có giá 160.000 đồng. Giá ban đầu của chiếc áo là:",
+    "options": ["200.000 đồng", "192.000 đồng", "128.000 đồng", "180.000 đồng"],
+    "correctAnswer": "200.000 đồng"
+  },
+  {
+    "question": "Trong các phân số sau, phân số nào không bằng các phân số còn lại: 2/3, 4/6, 8/12, 12/16?",
+    "options": ["12/16", "2/3", "4/6", "8/12"],
+    "correctAnswer": "12/16"
+  },
+  {
+    "question": "So sánh hai phân số bằng cách so sánh với 1: 15/14 và 16/17.",
+    "options": ["15/14 > 16/17", "15/14 < 16/17", "15/14 = 16/17", "Không so sánh được"],
+    "correctAnswer": "15/14 > 16/17"
+  },
+  {
+    "question": "Kết quả của phép tính 3 1/4 - 1 1/2 là:",
+    "options": ["1 3/4", "2 1/4", "7/4", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tính: (1/2 + 1/3) * 6/5",
+    "options": ["1", "5/6", "6/5", "25/36"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 1/2 : 1/3 - 1/4",
+    "options": ["5/4", "1/4", "3/2", "1"],
+    "correctAnswer": "5/4"
+  },
+  {
+    "question": "Tìm x, biết 2/3 * x = 1/5.",
+    "options": ["x = 3/10", "x = 10/3", "x = 2/15", "x = 15/2"],
+    "correctAnswer": "x = 3/10"
+  },
+  {
+    "question": "Tìm x, biết x : 1/4 = 8.",
+    "options": ["x = 2", "x = 32", "x = 1/2", "x = 1/32"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Một thùng dầu chứa 60 lít. Lần đầu người ta lấy đi 2/5 số dầu. Lần thứ hai lấy đi 50% số dầu còn lại. Trong thùng còn lại bao nhiêu lít dầu?",
+    "options": ["18 lít", "24 lít", "36 lít", "12 lít"],
+    "correctAnswer": "18 lít"
+  },
+  {
+    "question": "Một số tăng thêm 25% thì được số mới. Để được số cũ, số mới phải giảm đi bao nhiêu phần trăm?",
+    "options": ["20%", "25%", "15%", "30%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Phân số nghịch đảo của -3/7 là:",
+    "options": ["-7/3", "7/3", "3/7", "1"],
+    "correctAnswer": "-7/3"
+  },
+  {
+    "question": "So sánh -1/2 và -1/3.",
+    "options": ["-1/2 < -1/3", "-1/2 > -1/3", "-1/2 = -1/3", "Không so sánh được"],
+    "correctAnswer": "-1/2 < -1/3"
+  },
+  {
+    "question": "Hỗn số -3 2/5 được viết dưới dạng phân số là:",
+    "options": ["-17/5", "-13/5", "17/5", "13/5"],
+    "correctAnswer": "-17/5"
+  },
+  {
+    "question": "Kết quả của phép tính (-2/3) + 1/6 là:",
+    "options": ["-1/2", "-3/6", "1/2", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính (-4/5) - (-1/2) là:",
+    "options": ["-3/10", "-13/10", "3/10", "-1/10"],
+    "correctAnswer": "-3/10"
+  },
+  {
+    "question": "Kết quả của phép tính (-1/4)² là:",
+    "options": ["1/16", "-1/16", "1/8", "-1/8"],
+    "correctAnswer": "1/16"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 : 2 là:",
+    "options": ["1/4", "1", "4", "2/2"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "3/4 của một giờ là bao nhiêu phút?",
+    "options": ["45 phút", "30 phút", "15 phút", "50 phút"],
+    "correctAnswer": "45 phút"
+  },
+  {
+    "question": "Bạn Lan đọc một quyển sách trong 3 ngày. Ngày đầu đọc 1/3 số trang. Ngày thứ hai đọc 2/5 số trang còn lại. Ngày thứ ba đọc nốt 60 trang. Quyển sách có bao nhiêu trang?",
+    "options": ["150 trang", "120 trang", "180 trang", "200 trang"],
+    "correctAnswer": "150 trang"
+  },
+  {
+    "question": "Rút gọn phân số 1212/1313.",
+    "options": ["12/13", "101/101", "1/1", "1212/1313"],
+    "correctAnswer": "12/13"
+  },
+  {
+    "question": "Mẫu số chung của các phân số 1/2, 1/3, 1/5 là:",
+    "options": ["30", "10", "15", "60"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Sắp xếp các phân số sau theo thứ tự tăng dần: 1/2, 3/4, 5/8.",
+    "options": ["1/2, 5/8, 3/4", "3/4, 5/8, 1/2", "1/2, 3/4, 5/8", "5/8, 1/2, 3/4"],
+    "correctAnswer": "1/2, 5/8, 3/4"
+  },
+  {
+    "question": "Viết phân số -23/5 dưới dạng hỗn số.",
+    "options": ["-4 3/5", "-3 8/5", "-5 2/5", "Không viết được"],
+    "correctAnswer": "-4 3/5"
+  },
+  {
+    "question": "Tính: 1/2 + 1/4 + 1/8",
+    "options": ["7/8", "3/14", "1", "3/8"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Tính: 1 - 1/2 - 1/4",
+    "options": ["1/4", "1/2", "0", "3/4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Tính: (1/2) * (2/3) * (3/4)",
+    "options": ["1/4", "6/24", "1/2", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: (1/2) : (1/3) : (1/4)",
+    "options": ["6", "1/24", "3/2", "2/3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tìm x, biết x - 1/5 = 2/3.",
+    "options": ["13/15", "-7/15", "1/15", "3/8"],
+    "correctAnswer": "13/15"
+  },
+  {
+    "question": "Một vòi nước chảy vào bể. Giờ đầu chảy được 1/3 bể. Giờ thứ hai chảy được 2/5 bể. Hỏi bể còn lại mấy phần chưa có nước?",
+    "options": ["4/15", "11/15", "1/15", "2/15"],
+    "correctAnswer": "4/15"
+  },
+  {
+    "question": "Một người bán 1 rổ cam. Lần đầu bán 1/2 số cam và 1 quả. Lần hai bán 1/2 số cam còn lại và 1 quả. Lần ba bán 1/2 số cam còn lại sau lần hai và 1 quả thì vừa hết. Rổ cam có bao nhiêu quả?",
+    "options": ["14 quả", "10 quả", "12 quả", "15 quả"],
+    "correctAnswer": "14 quả"
+  },
+  {
+    "question": "Phân số có mẫu bằng 10 và lớn hơn 2/5, nhỏ hơn 3/5 là:",
+    "options": ["Không có phân số nào", "5/10", "4/10", "6/10"],
+    "correctAnswer": "5/10"
+  },
+  {
+    "question": "So sánh A = (2024/2025) và B = (2025/2026).",
+    "options": ["A < B", "A > B", "A = B", "Không so sánh được"],
+    "correctAnswer": "A < B"
+  },
+  {
+    "question": "Kết quả của phép tính 2 1/3 * 3 1/2 là:",
+    "options": ["49/6", "6 1/6", "7 1/6", "8 1/6"],
+    "correctAnswer": "49/6"
+  },
+  {
+    "question": "Tìm x, biết 1/3 : x = -2/3.",
+    "options": ["-1/2", "1/2", "-2/9", "2/9"],
+    "correctAnswer": "-1/2"
+  },
+  {
+    "question": "Giá trị của biểu thức A = (1 - 1/2)(1 - 1/3)(1 - 1/4)...(1 - 1/100) là:",
+    "options": ["1/100", "99/100", "1/2", "1/50"],
+    "correctAnswer": "1/100"
+  },
+  {
+    "question": "Một người đi xe đạp trong 3 giờ. Giờ đầu đi được 1/3 quãng đường. Giờ thứ hai đi được 1/4 quãng đường. Giờ thứ ba đi được 10km. Quãng đường dài bao nhiêu km?",
+    "options": ["24 km", "20 km", "30 km", "36 km"],
+    "correctAnswer": "24 km"
+  },
+  {
+    "question": "Tìm một số, biết rằng nếu lấy số đó cộng với 1/2 rồi nhân với 3/4 thì được kết quả là 9/8.",
+    "options": ["1", "1/2", "2", "3/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Phân số có tử là 2, lớn hơn 1/5 và nhỏ hơn 1/4 là:",
+    "options": ["2/9", "2/10", "2/8", "2/7"],
+    "correctAnswer": "2/9"
+  },
+  {
+    "question": "So sánh 2023/2024 + 2024/2025 và 2.",
+    "options": ["Nhỏ hơn 2", "Lớn hơn 2", "Bằng 2", "Không so sánh được"],
+    "correctAnswer": "Nhỏ hơn 2"
+  },
+  {
+    "question": "Kết quả của phép tính 1/1.2 + 1/2.3 + 1/3.4 + ... + 1/99.100 là:",
+    "options": ["99/100", "1/100", "1", "100/99"],
+    "correctAnswer": "99/100"
+  },
+  {
+    "question": "Tìm x, biết (x + 1/3) + (x + 1/9) + (x + 1/27) = 1.",
+    "options": ["14/81", "1/3", "13/27", "Không có x"],
+    "correctAnswer": "14/81"
+  },
+  {
+    "question": "Một tấm vải dài 20m. Sau khi cắt bán 4/5 tấm vải thì tấm vải còn lại dài:",
+    "options": ["4m", "16m", "5m", "10m"],
+    "correctAnswer": "4m"
+  },
+  {
+    "question": "Một cửa hàng có 50kg đường. Buổi sáng bán 10kg. Buổi chiều bán 3/8 số đường còn lại. Cửa hàng còn lại bao nhiêu kg đường?",
+    "options": ["25kg", "15kg", "40kg", "30kg"],
+    "correctAnswer": "25kg"
+  },
+  {
+    "question": "Tìm phân số có mẫu bằng 7, biết rằng khi cộng tử với 16 và nhân mẫu với 5 thì giá trị phân số không đổi.",
+    "options": ["4/7", "2/7", "3/7", "5/7"],
+    "correctAnswer": "4/7"
+  }
+]
+
