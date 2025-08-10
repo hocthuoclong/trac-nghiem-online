@@ -1,3 +1,6 @@
+Chào bạn, chắc chắn rồi\! Dưới đây là nội dung của tệp `db.json` sau khi đã cập nhật chương mới nhất của lớp 11.
+
+```json
 {
   "grades": {
     "11": {
@@ -20,6 +23,10 @@
                 {
                   "name": "Chương 3: Các số đặc trưng đo xu thế trung tâm",
                   "file": "./data/math-11-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Quan hệ song song trong không gian",
+                  "file": "./data/math-11-chapter-4.json"
                 }
               ]
             }
@@ -84,3 +91,4 @@
     }
   }
 }
+```
