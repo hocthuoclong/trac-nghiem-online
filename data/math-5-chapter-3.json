@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Ki-lô-mét vuông là diện tích của một hình vuông có cạnh dài:",
+    "options": ["1 km", "10 km", "100 km", "1000 m"],
+    "correctAnswer": "1 km"
+  },
+  {
+    "question": "Viết tắt của ki-lô-mét vuông là:",
+    "options": ["km²", "km", "km2", "k-m-v"],
+    "correctAnswer": "km²"
+  },
+  {
+    "question": "1 km² bằng bao nhiêu héc-ta (ha)?",
+    "options": ["100 ha", "10 ha", "1000 ha", "1 ha"],
+    "correctAnswer": "100 ha"
+  },
+  {
+    "question": "Héc-ta (ha) còn được gọi là:",
+    "options": ["Héc-tô-mét vuông (hm²)", "Đề-ca-mét vuông (dam²)", "Mét vuông (m²)", "Ki-lô-mét vuông (km²)"],
+    "correctAnswer": "Héc-tô-mét vuông (hm²)"
+  },
+  {
+    "question": "1 ha bằng bao nhiêu mét vuông (m²)?",
+    "options": ["10 000 m²", "100 m²", "1000 m²", "1 000 000 m²"],
+    "correctAnswer": "10 000 m²"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 4 km² = ... ha",
+    "options": ["400", "40", "4000", "4"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 20 ha = ... m²",
+    "options": ["200 000", "20 000", "2 000", "2 000 000"],
+    "correctAnswer": "200 000"
+  },
+  {
+    "question": "Trong bảng đơn vị đo diện tích, hai đơn vị liền kề nhau hơn kém nhau bao nhiêu lần?",
+    "options": ["100 lần", "10 lần", "1000 lần", "2 lần"],
+    "correctAnswer": "100 lần"
+  },
+  {
+    "question": "1 m² bằng bao nhiêu đề-ca-mét vuông (dam²)?",
+    "options": ["1/100 dam²", "100 dam²", "1/10 dam²", "10 dam²"],
+    "correctAnswer": "1/100 dam²"
+  },
+  {
+    "question": "1 dm² bằng bao nhiêu cm²?",
+    "options": ["100 cm²", "10 cm²", "1/10 cm²", "1/100 cm²"],
+    "correctAnswer": "100 cm²"
+  },
+  {
+    "question": "Viết 5 m² 8 dm² dưới dạng số thập phân với đơn vị là m².",
+    "options": ["5,08 m²", "5,8 m²", "5,008 m²", "58 m²"],
+    "correctAnswer": "5,08 m²"
+  },
+  {
+    "question": "Viết 12 cm² 5 mm² dưới dạng số thập phân với đơn vị là cm².",
+    "options": ["12,05 cm²", "12,5 cm²", "1,25 cm²", "125 cm²"],
+    "correctAnswer": "12,05 cm²"
+  },
+  {
+    "question": "Một khu rừng hình chữ nhật có chiều dài 5km, chiều rộng 2km. Diện tích khu rừng đó là:",
+    "options": ["10 km²", "1000 ha", "Cả A và B đều đúng", "14 km"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một cánh đồng có diện tích 50 000 m². Cánh đồng đó rộng bao nhiêu héc-ta?",
+    "options": ["5 ha", "50 ha", "0,5 ha", "500 ha"],
+    "correctAnswer": "5 ha"
+  },
+  {
+    "question": "So sánh: 2m² 9dm² ... 2,9m²",
+    "options": ["<", ">", "=", "Không so sánh được"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "So sánh: 8dm² 5cm² ... 8,05dm²",
+    "options": ["=", "<", ">", "Không so sánh được"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Một căn phòng hình chữ nhật có chiều dài 6m, chiều rộng 4,5m. Diện tích căn phòng là:",
+    "options": ["27 m²", "21 m", "24 m²", "270 m²"],
+    "correctAnswer": "27 m²"
+  },
+  {
+    "question": "Một thửa ruộng hình thang có đáy lớn 120m, đáy bé 80m, chiều cao 50m. Diện tích thửa ruộng đó là bao nhiêu héc-ta?",
+    "options": ["0,5 ha", "5 ha", "5000 ha", "50 ha"],
+    "correctAnswer": "0,5 ha"
+  },
+  {
+    "question": "Đổi 4,5 ha ra m².",
+    "options": ["45 000 m²", "4 500 m²", "450 m²", "4 500 000 m²"],
+    "correctAnswer": "45 000 m²"
+  },
+  {
+    "question": "Đổi 2500 m² ra ha.",
+    "options": ["0,25 ha", "2,5 ha", "25 ha", "0,025 ha"],
+    "correctAnswer": "0,25 ha"
+  },
+  {
+    "question": "Đơn vị đo diện tích lớn hơn mét vuông là:",
+    "options": ["dam², hm², km²", "dm², cm², mm²", "ha, a", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Đơn vị đo diện tích bé hơn mét vuông là:",
+    "options": ["dm², cm², mm²", "dam², hm², km²", "ha", "km"],
+    "correctAnswer": "dm², cm², mm²"
+  },
+  {
+    "question": "1/2 ha bằng bao nhiêu m²?",
+    "options": ["5000 m²", "500 m²", "2000 m²", "50 m²"],
+    "correctAnswer": "5000 m²"
+  },
+  {
+    "question": "1/10 km² bằng bao nhiêu ha?",
+    "options": ["10 ha", "1 ha", "100 ha", "0,1 ha"],
+    "correctAnswer": "10 ha"
+  },
+  {
+    "question": "Một sân vận động có diện tích 2ha. Nếu biểu diễn trên bản đồ tỉ lệ 1:10000 thì diện tích trên bản đồ là bao nhiêu cm²?",
+    "options": ["20 cm²", "2 cm²", "200 cm²", "0,2 cm²"],
+    "correctAnswer": "20 cm²"
+  },
+  {
+    "question": "Viết 72dm² dưới dạng số thập phân với đơn vị là m².",
+    "options": ["0,72 m²", "7,2 m²", "0,072 m²", "720 m²"],
+    "correctAnswer": "0,72 m²"
+  },
+  {
+    "question": "Viết 15cm² dưới dạng số thập phân với đơn vị là dm².",
+    "options": ["0,15 dm²", "1,5 dm²", "0,015 dm²", "150 dm²"],
+    "correctAnswer": "0,15 dm²"
+  },
+  {
+    "question": "Một người thợ cần 30 phút để sơn 2m² tường. Để sơn một bức tường rộng 5m, cao 4m, người đó cần bao nhiêu thời gian?",
+    "options": ["10 giờ", "5 giờ", "600 giờ", "300 giờ"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có chu vi 120m, chiều rộng bằng 2/3 chiều dài. Diện tích mảnh đất đó là:",
+    "options": ["864 m²", "600 m²", "900 m²", "1200 m²"],
+    "correctAnswer": "864 m²"
+  },
+  {
+    "question": "Diện tích của một hình vuông là 64cm². Chu vi của hình vuông đó là:",
+    "options": ["32cm", "8cm", "64cm", "16cm"],
+    "correctAnswer": "32cm"
+  },
+  {
+    "question": "Số thập phân 12,345 có thể viết thành hỗn số nào?",
+    "options": ["12 345/1000", "12 34/100", "12 3/10", "Không viết được"],
+    "correctAnswer": "12 345/1000"
+  },
+  {
+    "question": "So sánh: 34,5 dm² ... 34 dm² 5 cm²",
+    "options": [">", "<", "=", "Không so sánh được"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Viết 3,5 tấn dưới dạng số đo có đơn vị là tạ và kg.",
+    "options": ["35 tạ hoặc 3500 kg", "3 tạ 50 kg", "350 tạ hoặc 350 kg", "3 tạ 500 kg"],
+    "correctAnswer": "35 tạ hoặc 3500 kg"
+  },
+  {
+    "question": "Một trang trại có diện tích 2,5 ha. Trong đó 1/5 diện tích trồng cây ăn quả, còn lại là ao cá. Diện tích ao cá là:",
+    "options": ["20 000 m²", "5 000 m²", "2 ha", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một căn phòng hình vuông có cạnh 4m. Người ta lát nền bằng các viên gạch hình vuông cạnh 40cm. Cần bao nhiêu viên gạch để lát kín nền?",
+    "options": ["100 viên", "10 viên", "1000 viên", "40 viên"],
+    "correctAnswer": "100 viên"
+  },
+  {
+    "question": "Số 'Hai mươi lăm phẩy không trăm linh bảy' được viết là:",
+    "options": ["25,007", "25,07", "25,7", "25007"],
+    "correctAnswer": "25,007"
+  },
+  {
+    "question": "Trong các số 3,45; 3,54; 4,35; 4,53, số nào lớn nhất?",
+    "options": ["4,53", "3,45", "3,54", "4,35"],
+    "correctAnswer": "4,53"
+  },
+  {
+    "question": "Viết 6 tấn 7kg dưới dạng số thập phân với đơn vị là tấn.",
+    "options": ["6,007 tấn", "6,07 tấn", "6,7 tấn", "6007 tấn"],
+    "correctAnswer": "6,007 tấn"
+  },
+  {
+    "question": "Làm tròn số 123,456 đến hàng chục.",
+    "options": ["120", "123", "123,5", "100"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Kết quả của phép tính 12,3 + 4,56 là:",
+    "options": ["16,86", "16,96", "5,79", "57,9"],
+    "correctAnswer": "16,86"
+  },
+  {
+    "question": "Kết quả của phép tính 100 x 0,01 là:",
+    "options": ["1", "10", "0,1", "1000"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép chia 36 : 0,5 là:",
+    "options": ["72", "18", "36,5", "35,5"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Một người mua 12 quyển vở hết 60 000 đồng. Hỏi mua 20 quyển vở như thế hết bao nhiêu tiền?",
+    "options": ["100 000 đồng", "120 000 đồng", "80 000 đồng", "90 000 đồng"],
+    "correctAnswer": "100 000 đồng"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 2/5 m và chiều rộng 1/4 m. Diện tích hình chữ nhật đó là:",
+    "options": ["1/10 m²", "3/9 m²", "1/20 m²", "2/20 m²"],
+    "correctAnswer": "1/10 m²"
+  },
+  {
+    "question": "Số 0,025 được viết dưới dạng phân số thập phân là:",
+    "options": ["25/1000", "25/100", "25/10", "2/5"],
+    "correctAnswer": "25/1000"
+  },
+  {
+    "question": "Tìm số tự nhiên y, biết 12,34 < y < 13,01",
+    "options": ["y = 13", "y = 12", "y = 14", "Không có y"],
+    "correctAnswer": "y = 13"
+  },
+  {
+    "question": "Viết 1234m dưới dạng số thập phân với đơn vị là km.",
+    "options": ["1,234 km", "12,34 km", "0,1234 km", "123,4 km"],
+    "correctAnswer": "1,234 km"
+  },
+  {
+    "question": "Làm tròn số 9876 đến hàng cao nhất của nó.",
+    "options": ["10000", "9000", "9900", "9800"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Tìm 10% của 250.",
+    "options": ["25", "2,5", "2500", "50"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có chiều rộng 20m, chiều dài bằng 150% chiều rộng. Diện tích mảnh đất đó là:",
+    "options": ["600 m²", "30 m²", "50 m²", "500 m²"],
+    "correctAnswer": "600 m²"
+  },
+  {
+    "question": "Số 3,14 được đọc là:",
+    "options": ["Ba phẩy mười bốn", "Ba phẩy một trăm", "Ba phẩy một bốn", "Ba đơn vị, mười bốn phần trăm"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 12,5 x 4 - 50 : 2 là:",
+    "options": ["25", "50", "0", "75"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Viết 5g dưới dạng số thập phân với đơn vị là kg.",
+    "options": ["0,005 kg", "0,05 kg", "0,5 kg", "500 kg"],
+    "correctAnswer": "0,005 kg"
+  },
+  {
+    "question": "Làm tròn số 0,045 đến hàng phần trăm.",
+    "options": ["0,05", "0,04", "0,1", "0"],
+    "correctAnswer": "0,05"
+  },
+  {
+    "question": "Một người đi bộ 1km hết 15 phút. Để đi được 4km, người đó cần:",
+    "options": ["1 giờ", "60 phút", "Cả A và B đều đúng", "45 phút"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tìm một số, biết 1/3 của nó là 1,2.",
+    "options": ["3,6", "0,4", "4", "36"],
+    "correctAnswer": "3,6"
+  },
+  {
+    "question": "Số 0,123 có bằng 0,1230 không?",
+    "options": ["Có", "Không", "Lớn hơn", "Nhỏ hơn"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Kết quả của phép tính 12,3 + 4,5 + 7,7 + 5,5 là:",
+    "options": ["30", "29", "31", "28"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Kết quả của phép tính 2,5 x 12,5 x 0,8 x 4 là:",
+    "options": ["100", "10", "1000", "50"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Kết quả của phép chia 1 cho 0,01 là:",
+    "options": ["100", "10", "0,01", "1"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Làm tròn số 12 345 đến hàng trăm.",
+    "options": ["12 300", "12 400", "12 000", "13 000"],
+    "correctAnswer": "12 300"
+  },
+  {
+    "question": "Tỉ số của 30 phút và 2 giờ là:",
+    "options": ["1/4", "30/2", "15", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một cái áo giá 300.000 đồng, giảm giá 30%. Người mua phải trả:",
+    "options": ["210.000 đồng", "90.000 đồng", "270.000 đồng", "330.000 đồng"],
+    "correctAnswer": "210.000 đồng"
+  },
+  {
+    "question": "Số 1,2 được viết dưới dạng tỉ số phần trăm là:",
+    "options": ["120%", "12%", "1,2%", "1200%"],
+    "correctAnswer": "120%"
+  },
+  {
+    "question": "Số 25,040 có chữ số 4 thuộc hàng nào?",
+    "options": ["Hàng phần trăm", "Hàng phần mười", "Hàng phần nghìn", "Hàng chục"],
+    "correctAnswer": "Hàng phần trăm"
+  },
+  {
+    "question": "Viết hỗn số 12 5/1000 thành số thập phân.",
+    "options": ["12,005", "12,05", "12,5", "12005"],
+    "correctAnswer": "12,005"
+  },
+  {
+    "question": "Tìm y, biết 100 - y = 25,5.",
+    "options": ["y = 74,5", "y = 125,5", "y = 75,5", "y = 84,5"],
+    "correctAnswer": "y = 74,5"
+  },
+  {
+    "question": "Kết quả của phép tính 1,5 x 1,5 là:",
+    "options": ["2,25", "22,5", "0,225", "3"],
+    "correctAnswer": "2,25"
+  },
+  {
+    "question": "Kết quả của phép chia 0,81 : 0,9 là:",
+    "options": ["0,9", "9", "0,09", "8,1"],
+    "correctAnswer": "0,9"
+  },
+  {
+    "question": "Làm tròn số 0,999 đến hàng phần mười.",
+    "options": ["1,0", "0,9", "0,99", "1"],
+    "correctAnswer": "1,0"
+  },
+  {
+    "question": "Một hình vuông có chu vi 10m. Diện tích hình vuông đó là:",
+    "options": ["6,25 m²", "100 m²", "2,5 m²", "40 m²"],
+    "correctAnswer": "6,25 m²"
+  },
+  {
+    "question": "Tỉ số phần trăm của 0,4 và 2 là:",
+    "options": ["20%", "40%", "50%", "2%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Một người bán 120 quả trứng, trong đó số trứng gà bằng 2/3 số trứng vịt. Số trứng gà là:",
+    "options": ["48 quả", "72 quả", "40 quả", "80 quả"],
+    "correctAnswer": "48 quả"
+  },
+  {
+    "question": "Viết 5dm dưới dạng số thập phân với đơn vị là mét.",
+    "options": ["0,5m", "5,0m", "0,05m", "50m"],
+    "correctAnswer": "0,5m"
+  },
+  {
+    "question": "Viết 25g dưới dạng số thập phân với đơn vị là kg.",
+    "options": ["0,025kg", "0,25kg", "2,5kg", "250kg"],
+    "correctAnswer": "0,025kg"
+  },
+  {
+    "question": "Viết 500m² dưới dạng số thập phân với đơn vị là ha.",
+    "options": ["0,05 ha", "0,5 ha", "5 ha", "50 ha"],
+    "correctAnswer": "0,05 ha"
+  },
+  {
+    "question": "Làm tròn số 3,14159 đến hàng phần nghìn.",
+    "options": ["3,142", "3,141", "3,14", "3,1"],
+    "correctAnswer": "3,142"
+  },
+  {
+    "question": "Tìm x, biết x : 0,2 = 1,2.",
+    "options": ["x = 0,24", "x = 6", "x = 2,4", "x = 12"],
+    "correctAnswer": "x = 0,24"
+  },
+  {
+    "question": "Mua 1 tá bút chì hết 24 000 đồng. Mua 5 cái bút chì như thế hết bao nhiêu tiền?",
+    "options": ["10 000 đồng", "12 000 đồng", "2 000 đồng", "5 000 đồng"],
+    "correctAnswer": "10 000 đồng"
+  },
+  {
+    "question": "Một hình tam giác có diện tích 25,5 cm² và độ dài đáy 8,5 cm. Chiều cao của tam giác là:",
+    "options": ["6 cm", "3 cm", "12 cm", "5 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Số 0,001 được viết dưới dạng phân số thập phân là:",
+    "options": ["1/1000", "1/100", "1/10", "10/1000"],
+    "correctAnswer": "1/1000"
+  },
+  {
+    "question": "So sánh 5,01 và 5,001.",
+    "options": ["5,01 > 5,001", "5,01 < 5,001", "5,01 = 5,001", "Không so sánh được"],
+    "correctAnswer": "5,01 > 5,001"
+  },
+  {
+    "question": "Kết quả của phép tính 123,45 - 67,8 là:",
+    "options": ["55,65", "56,65", "65,65", "55,55"],
+    "correctAnswer": "55,65"
+  },
+  {
+    "question": "Kết quả của phép tính 1,5 x 1,5 x 1,5 là:",
+    "options": ["3,375", "2,25", "4,5", "33,75"],
+    "correctAnswer": "3,375"
+  },
+  {
+    "question": "Kết quả của phép chia 10 : 8 là:",
+    "options": ["1,25", "1,5", "1,2", "0,8"],
+    "correctAnswer": "1,25"
+  },
+  {
+    "question": "Làm tròn số 0,005 đến hàng phần trăm.",
+    "options": ["0,01", "0,00", "0,1", "0"],
+    "correctAnswer": "0,01"
+  },
+  {
+    "question": "Tỉ số phần trăm của 1,2 và 2,4 là:",
+    "options": ["50%", "200%", "120%", "240%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Sau khi bán đi 25kg gạo, người bán hàng còn lại 75kg gạo. Tỉ số phần trăm số gạo đã bán so với số gạo ban đầu là:",
+    "options": ["25%", "33,3%", "75%", "50%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Tìm một số, biết 2,5% của nó là 2.",
+    "options": ["80", "8", "0,05", "5"],
+    "correctAnswer": "80"
+  }
+]
+
