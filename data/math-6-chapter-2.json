@@ -1,0 +1,433 @@
+[
+  {
+    "question": "Nếu số tự nhiên a chia hết cho số tự nhiên b (b≠0), ta kí hiệu là:",
+    "options": ["a ⋮ b", "b ⋮ a", "a ∈ b", "b ∈ a"],
+    "correctAnswer": "a ⋮ b"
+  },
+  {
+    "question": "Trong phép chia a cho b (b≠0), nếu a là bội của b thì:",
+    "options": ["a chia hết cho b", "b là ước của a", "Phép chia a cho b có số dư bằng 0", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho hai số 18 và 3. Khẳng định nào sau đây là đúng?",
+    "options": ["18 là bội của 3", "3 là ước của 18", "18 chia hết cho 3", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Nếu a ⋮ m và b ⋮ m thì:",
+    "options": ["(a + b) ⋮ m", "(a - b) ⋮ m", "Cả A và B đều đúng", "a . b không chia hết cho m"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Số nào sau đây chia hết cho 2?",
+    "options": ["128", "245", "337", "1029"],
+    "correctAnswer": "128"
+  },
+  {
+    "question": "Số nào sau đây không chia hết cho 5?",
+    "options": ["342", "150", "275", "1000"],
+    "correctAnswer": "342"
+  },
+  {
+    "question": "Một số chia hết cho 9 thì:",
+    "options": ["Tổng các chữ số của nó chia hết cho 9", "Chữ số tận cùng của nó là 9", "Tổng các chữ số của nó chia hết cho 3", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Số 1a5 chia hết cho 3. Chữ số a có thể là:",
+    "options": ["0; 3; 6; 9", "1; 4; 7", "2; 5; 8", "3; 6; 9"],
+    "correctAnswer": "0; 3; 6; 9"
+  },
+  {
+    "question": "Số nào sau đây vừa chia hết cho 2, vừa chia hết cho 5?",
+    "options": ["270", "125", "342", "554"],
+    "correctAnswer": "270"
+  },
+  {
+    "question": "Số nguyên tố là số tự nhiên lớn hơn 1 và:",
+    "options": ["Chỉ có hai ước là 1 và chính nó", "Có nhiều hơn hai ước", "Là số lẻ", "Là số chẵn"],
+    "correctAnswer": "Chỉ có hai ước là 1 và chính nó"
+  },
+  {
+    "question": "Số nào sau đây là số nguyên tố?",
+    "options": ["17", "9", "15", "1"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "Hợp số là số tự nhiên lớn hơn 1 và:",
+    "options": ["Có nhiều hơn hai ước", "Chỉ có hai ước", "Là số chẵn", "Là số lẻ"],
+    "correctAnswer": "Có nhiều hơn hai ước"
+  },
+  {
+    "question": "Phân tích số 60 ra thừa số nguyên tố, ta được:",
+    "options": ["2² . 3 . 5", "2 . 3 . 10", "4 . 3 . 5", "6 . 10"],
+    "correctAnswer": "2² . 3 . 5"
+  },
+  {
+    "question": "Ước chung của 12 và 18 là:",
+    "options": ["{1; 2; 3; 6}", "{1; 2; 3; 4; 6}", "{1; 2; 3; 6; 9}", "{1; 2; 3}"],
+    "correctAnswer": "{1; 2; 3; 6}"
+  },
+  {
+    "question": "Ước chung lớn nhất (UCLN) của 24 và 36 là:",
+    "options": ["12", "6", "24", "72"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Hai số nguyên tố cùng nhau là hai số có UCLN bằng:",
+    "options": ["1", "0", "Chính nó", "Không có UCLN"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Bội chung của 4 và 6 là:",
+    "options": ["{0; 12; 24; 36; ...}", "{0; 4; 6; 8; 12; ...}", "{12; 24; 36}", "{0; 24; 48; ...}"],
+    "correctAnswer": "{0; 12; 24; 36; ...}"
+  },
+  {
+    "question": "Bội chung nhỏ nhất (BCNN) của 8 và 10 là:",
+    "options": ["40", "80", "2", "10"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Tìm UCLN(18, 30, 42).",
+    "options": ["6", "2", "3", "18"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tìm BCNN(10, 12, 15).",
+    "options": ["60", "120", "30", "1"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Tập hợp các ước của 20 là:",
+    "options": ["{1, 2, 4, 5, 10, 20}", "{1, 2, 4, 5, 10}", "{0, 1, 2, 4, 5, 10, 20}", "{2, 4, 5, 10, 20}"],
+    "correctAnswer": "{1, 2, 4, 5, 10, 20}"
+  },
+  {
+    "question": "Tập hợp các bội nhỏ hơn 30 của 7 là:",
+    "options": ["{0, 7, 14, 21, 28}", "{7, 14, 21, 28}", "{0, 7, 14, 21}", "{1, 7, 14, 21, 28}"],
+    "correctAnswer": "{0, 7, 14, 21, 28}"
+  },
+  {
+    "question": "Số 23* chia hết cho cả 2 và 5. Chữ số * là:",
+    "options": ["0", "2", "5", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 4*7 chia hết cho 3. Tổng các chữ số * có thể là:",
+    "options": ["1+4+7=12", "1, 4, 7", "12", "15"],
+    "correctAnswer": "1, 4, 7"
+  },
+  {
+    "question": "Số nào sau đây là hợp số?",
+    "options": ["21", "23", "29", "2"],
+    "correctAnswer": "21"
+  },
+  {
+    "question": "Số nguyên tố nhỏ nhất là:",
+    "options": ["2", "0", "1", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phân tích số 120 ra thừa số nguyên tố.",
+    "options": ["2³ . 3 . 5", "2² . 3 . 10", "8 . 3 . 5", "12 . 10"],
+    "correctAnswer": "2³ . 3 . 5"
+  },
+  {
+    "question": "Để tìm UCLN của hai hay nhiều số, ta thực hiện các bước nào?",
+    "options": ["Phân tích các số ra thừa số nguyên tố, chọn các thừa số chung, lập tích với số mũ nhỏ nhất.", "Phân tích các số ra thừa số nguyên tố, chọn các thừa số chung và riêng, lập tích với số mũ lớn nhất.", "Nhân các số lại với nhau.", "Tìm ước của số nhỏ nhất."],
+    "correctAnswer": "Phân tích các số ra thừa số nguyên tố, chọn các thừa số chung, lập tích với số mũ nhỏ nhất."
+  },
+  {
+    "question": "Để tìm BCNN của hai hay nhiều số, ta thực hiện các bước nào?",
+    "options": ["Phân tích các số ra thừa số nguyên tố, chọn các thừa số chung và riêng, lập tích với số mũ lớn nhất.", "Phân tích các số ra thừa số nguyên tố, chọn các thừa số chung, lập tích với số mũ nhỏ nhất.", "Nhân các số lại với nhau.", "Tìm bội của số lớn nhất."],
+    "correctAnswer": "Phân tích các số ra thừa số nguyên tố, chọn các thừa số chung và riêng, lập tích với số mũ lớn nhất."
+  },
+  {
+    "question": "Một đội y tế có 24 bác sĩ và 108 y tá. Có thể chia đội y tế đó thành nhiều nhất bao nhiêu tổ để số bác sĩ và y tá được chia đều vào các tổ?",
+    "options": ["12", "6", "24", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Học sinh khối 6 khi xếp hàng 10, hàng 12, hàng 15 đều vừa đủ. Biết số học sinh trong khoảng từ 350 đến 400. Số học sinh khối 6 là:",
+    "options": ["360", "300", "380", "400"],
+    "correctAnswer": "360"
+  },
+  {
+    "question": "Nếu a ⋮ x và b ⋮ x thì x được gọi là gì của a và b?",
+    "options": ["Ước chung", "Bội chung", "Thừa số chung", "Số chia chung"],
+    "correctAnswer": "Ước chung"
+  },
+  {
+    "question": "Nếu x ⋮ a và x ⋮ b thì x được gọi là gì của a và b?",
+    "options": ["Bội chung", "Ước chung", "Thừa số chung", "Số bị chia chung"],
+    "correctAnswer": "Bội chung"
+  },
+  {
+    "question": "Số 1 có phải là số nguyên tố không?",
+    "options": ["Không", "Có", "Vừa là số nguyên tố vừa là hợp số", "Không phải số tự nhiên"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Số nào sau đây chia hết cho 3 nhưng không chia hết cho 9?",
+    "options": ["123", "189", "270", "333"],
+    "correctAnswer": "123"
+  },
+  {
+    "question": "Thay * bằng chữ số nào để số 7*2 chia hết cho 9?",
+    "options": ["9", "0", "1", "2"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Cho a = 2³ . 3² và b = 2 . 3³. UCLN(a, b) là:",
+    "options": ["2 . 3² = 18", "2³ . 3³ = 216", "2 . 3 = 6", "1"],
+    "correctAnswer": "2 . 3² = 18"
+  },
+  {
+    "question": "Cho a = 2³ . 3² và b = 2 . 3³. BCNN(a, b) là:",
+    "options": ["2³ . 3³ = 216", "2 . 3² = 18", "2⁴ . 3⁵", "1"],
+    "correctAnswer": "2³ . 3³ = 216"
+  },
+  {
+    "question": "Tích của UCLN(a,b) và BCNN(a,b) bằng:",
+    "options": ["a . b", "a + b", "a - b", "a : b"],
+    "correctAnswer": "a . b"
+  },
+  {
+    "question": "Một số sách nếu xếp thành từng bó 10 quyển, 12 quyển hoặc 15 quyển đều vừa đủ. Biết số sách trong khoảng từ 100 đến 150. Số sách đó là:",
+    "options": ["120", "100", "150", "130"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Số 0 có phải là bội của mọi số tự nhiên khác 0 không?",
+    "options": ["Có", "Không", "Chỉ là bội của 1", "Chỉ là bội của chính nó"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số 1 là ước của:",
+    "options": ["Mọi số tự nhiên", "Chỉ số lẻ", "Chỉ số chẵn", "Chỉ chính nó"],
+    "correctAnswer": "Mọi số tự nhiên"
+  },
+  {
+    "question": "Số 1a7b chia hết cho 2, 5 và 9. Số đó là:",
+    "options": ["1170", "1570", "1870", "1970"],
+    "correctAnswer": "1170"
+  },
+  {
+    "question": "Số nguyên tố chẵn duy nhất là:",
+    "options": ["2", "0", "4", "Không có"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Các số nguyên tố nhỏ hơn 10 là:",
+    "options": ["2, 3, 5, 7", "1, 2, 3, 5, 7", "3, 5, 7, 9", "2, 3, 5, 7, 9"],
+    "correctAnswer": "2, 3, 5, 7"
+  },
+  {
+    "question": "Ước chung lớn nhất của hai số tự nhiên liên tiếp là:",
+    "options": ["1", "2", "Số lớn hơn", "Số nhỏ hơn"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Bội chung nhỏ nhất của hai số nguyên tố cùng nhau là:",
+    "options": ["Tích của hai số đó", "1", "Tổng của hai số đó", "Số lớn hơn"],
+    "correctAnswer": "Tích của hai số đó"
+  },
+  {
+    "question": "Một lớp học có 28 nam và 24 nữ. Hỏi có thể chia lớp thành nhiều nhất bao nhiêu nhóm sao cho số nam và nữ ở mỗi nhóm bằng nhau?",
+    "options": ["4", "2", "6", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hai bạn An và Bình cùng học một trường nhưng ở hai lớp khác nhau. An cứ 10 ngày lại trực nhật, Bình cứ 12 ngày lại trực nhật. Lần đầu cả hai bạn cùng trực nhật vào một ngày. Hỏi sau ít nhất bao nhiêu ngày thì hai bạn lại cùng trực nhật?",
+    "options": ["60 ngày", "120 ngày", "30 ngày", "2 ngày"],
+    "correctAnswer": "60 ngày"
+  },
+  {
+    "question": "Nếu a không chia hết cho 2 và b không chia hết cho 2 thì a+b:",
+    "options": ["Chia hết cho 2", "Không chia hết cho 2", "Có thể chia hết hoặc không", "Bằng 0"],
+    "correctAnswer": "Chia hết cho 2"
+  },
+  {
+    "question": "Số 12345 có chia hết cho 3 không?",
+    "options": ["Có, vì 1+2+3+4+5=15 chia hết cho 3", "Không, vì tận cùng là 5", "Không, vì là số lẻ", "Có, vì là số lớn"],
+    "correctAnswer": "Có, vì 1+2+3+4+5=15 chia hết cho 3"
+  },
+  {
+    "question": "Số 2025 có chia hết cho 9 không?",
+    "options": ["Có, vì 2+0+2+5=9 chia hết cho 9", "Không, vì là số lẻ", "Có, vì tận cùng là 5", "Không, vì không chia hết cho 2"],
+    "correctAnswer": "Có, vì 2+0+2+5=9 chia hết cho 9"
+  },
+  {
+    "question": "Số nào sau đây chỉ có 2 ước?",
+    "options": ["13", "12", "14", "15"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Phân tích số 90 ra thừa số nguyên tố:",
+    "options": ["2 . 3² . 5", "9 . 10", "2 . 5 . 9", "3 . 30"],
+    "correctAnswer": "2 . 3² . 5"
+  },
+  {
+    "question": "UCLN(1, 100) là:",
+    "options": ["1", "100", "0", "Không có"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "BCNN(1, 50) là:",
+    "options": ["50", "1", "0", "Không có"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một mảnh vườn hình chữ nhật có chiều dài 105m, chiều rộng 60m. Người ta muốn trồng cây xung quanh vườn sao cho mỗi góc vườn có một cây và khoảng cách giữa hai cây liên tiếp bằng nhau. Khoảng cách lớn nhất giữa hai cây là:",
+    "options": ["15m", "5m", "10m", "30m"],
+    "correctAnswer": "15m"
+  },
+  {
+    "question": "Một số chia cho 7 dư 3, chia cho 14 dư 10, chia cho 21 dư 17. Tìm số đó biết nó là số nhỏ nhất có 3 chữ số.",
+    "options": ["Không có số nào", "122", "118", "164"],
+    "correctAnswer": "122"
+  },
+  {
+    "question": "Nếu a ⋮ c và b ⋮ c thì (ka + lb) có chia hết cho c không (k, l ∈ N)?",
+    "options": ["Có", "Không", "Chỉ khi k=l", "Chỉ khi a=b"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số 10101 có chia hết cho 3 không?",
+    "options": ["Có", "Không", "Chỉ chia hết cho 1", "Là số nguyên tố"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số 2 là số nguyên tố duy nhất mà là số:",
+    "options": ["Chẵn", "Lẻ", "Âm", "Vô tỉ"],
+    "correctAnswer": "Chẵn"
+  },
+  {
+    "question": "Ước nguyên tố của 50 là:",
+    "options": ["2 và 5", "2, 5, 10", "1, 2, 5", "50"],
+    "correctAnswer": "2 và 5"
+  },
+  {
+    "question": "UCLN(40, 60) là:",
+    "options": ["20", "10", "120", "40"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "BCNN(12, 16, 48) là:",
+    "options": ["48", "96", "192", "4"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Một đơn vị bộ đội khi xếp hàng 20, 25, 30 đều dư 15 người. Biết số bộ đội khoảng từ 500 đến 800. Số bộ đội là:",
+    "options": ["615", "585", "600", "715"],
+    "correctAnswer": "615"
+  },
+  {
+    "question": "Nếu tổng a+b chia hết cho m và a chia hết cho m thì:",
+    "options": ["b chia hết cho m", "b không chia hết cho m", "b có thể chia hết hoặc không", "b là ước của m"],
+    "correctAnswer": "b chia hết cho m"
+  },
+  {
+    "question": "Số 5a2b chia hết cho 2, 5, 3 và 9. Các chữ số a, b là:",
+    "options": ["a=1, b=0", "a=2, b=0", "a=0, b=5", "a=6, b=0"],
+    "correctAnswer": "a=2, b=0"
+  },
+  {
+    "question": "Hai số nào sau đây là hai số nguyên tố cùng nhau?",
+    "options": ["9 và 10", "6 và 9", "8 và 12", "10 và 15"],
+    "correctAnswer": "9 và 10"
+  },
+  {
+    "question": "Số 111 được phân tích ra thừa số nguyên tố là:",
+    "options": ["3 . 37", "1 . 111", "Là số nguyên tố", "11 . 10 + 1"],
+    "correctAnswer": "3 . 37"
+  },
+  {
+    "question": "Tìm hai số tự nhiên a, b biết a+b=42 và UCLN(a,b)=6.",
+    "options": ["(6, 36) hoặc (18, 24)", "(12, 30)", "(6, 36)", "(18, 24)"],
+    "correctAnswer": "(6, 36) hoặc (18, 24)"
+  },
+  {
+    "question": "Tìm hai số tự nhiên a, b biết a.b=720 và BCNN(a,b)=120.",
+    "options": ["UCLN(a,b)=6", "UCLN(a,b)=12", "UCLN(a,b)=72", "Không tìm được"],
+    "correctAnswer": "UCLN(a,b)=6"
+  },
+  {
+    "question": "Một số tự nhiên khi chia cho 4, 5, 6 đều dư 1. Biết số đó chia hết cho 7 và nhỏ hơn 400. Số đó là:",
+    "options": ["301", "61", "121", "181"],
+    "correctAnswer": "301"
+  },
+  {
+    "question": "Tích của 4 số tự nhiên liên tiếp luôn chia hết cho:",
+    "options": ["24", "4", "6", "8"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Số 123123 có chia hết cho 7 không?",
+    "options": ["Có", "Không", "Chỉ chia hết cho 3", "Chỉ chia hết cho 123"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số 2 có phải là ước nguyên tố của 1024 không?",
+    "options": ["Có", "Không", "1024 là số nguyên tố", "Ước là 10"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Để phân số (n+3)/(n+1) là số tự nhiên thì n có thể là:",
+    "options": ["1", "0", "Cả A và B đều đúng", "Không có n"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "UCLN(12, 1) là:",
+    "options": ["1", "12", "0", "Không có"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "BCNN(15, 1) là:",
+    "options": ["15", "1", "0", "Không có"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Một giá sách có hai ngăn. Số sách ngăn A bằng 2/3 số sách ngăn B. Nếu chuyển 3 quyển từ B sang A thì số sách hai ngăn bằng nhau. Số sách ngăn A ban đầu là:",
+    "options": ["6 quyển", "12 quyển", "9 quyển", "15 quyển"],
+    "correctAnswer": "6 quyển"
+  },
+  {
+    "question": "Số 1000...0 (20 chữ số 0) có chia hết cho 3 không?",
+    "options": ["Không", "Có", "Chỉ chia hết cho 2 và 5", "Không xác định"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Số 11...1 (9 chữ số 1) có chia hết cho 9 không?",
+    "options": ["Có", "Không", "Chỉ chia hết cho 3", "Là số nguyên tố"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số 0 là:",
+    "options": ["Hợp số", "Số nguyên tố", "Không là số nguyên tố cũng không là hợp số", "Số tự nhiên"],
+    "correctAnswer": "Không là số nguyên tố cũng không là hợp số"
+  },
+  {
+    "question": "Số các ước của số a = 2³ . 5² là:",
+    "options": ["12", "6", "8", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tìm số tự nhiên n biết 1+2+...+n = 55.",
+    "options": ["n = 10", "n = 11", "n = 9", "n = 5"],
+    "correctAnswer": "n = 10"
+  },
+  {
+    "question": "Một đội công nhân sửa một đoạn đường. Tuần đầu sửa được 2/5 đoạn đường. Tuần thứ hai sửa được 1/3 đoạn đường. Đoạn đường còn lại dài 80m. Hỏi đoạn đường dài bao nhiêu mét?",
+    "options": ["300m", "150m", "240m", "400m"],
+    "correctAnswer": "300m"
+  },
+  {
+    "question": "Số 12a3b chia hết cho 45. Các chữ số a, b là:",
+    "options": ["a=8, b=0 hoặc a=3, b=5", "a=0, b=5", "a=4, b=0", "a=8, b=5"],
+    "correctAnswer": "a=8, b=0 hoặc a=3, b=5"
+  }
+]
+
