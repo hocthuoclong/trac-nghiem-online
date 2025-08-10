@@ -1,0 +1,473 @@
+[
+  {
+    "question": "Hình chóp tam giác đều có đáy là hình gì?",
+    "options": ["Tam giác đều", "Tam giác cân", "Tam giác vuông", "Tam giác bất kỳ"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Các mặt bên của hình chóp tam giác đều là hình gì?",
+    "options": ["Các tam giác cân bằng nhau", "Các tam giác đều", "Các tam giác vuông", "Các tam giác bất kỳ"],
+    "correctAnswer": "Các tam giác cân bằng nhau"
+  },
+  {
+    "question": "Trong hình chóp tam giác đều, chân đường cao hạ từ đỉnh xuống mặt đáy trùng với điểm nào của đáy?",
+    "options": ["Tâm của đường tròn ngoại tiếp tam giác đáy", "Một đỉnh của tam giác đáy", "Trung điểm một cạnh đáy", "Trọng tâm của tam giác đáy"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Hình chóp tứ giác đều có đáy là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Các mặt bên của hình chóp tứ giác đều là hình gì?",
+    "options": ["Các tam giác cân bằng nhau", "Các tam giác đều", "Các tam giác vuông", "Các hình thang cân"],
+    "correctAnswer": "Các tam giác cân bằng nhau"
+  },
+  {
+    "question": "Đường cao của một mặt bên kẻ từ đỉnh của hình chóp được gọi là gì?",
+    "options": ["Trung đoạn", "Đường cao của hình chóp", "Cạnh bên", "Đường trung tuyến"],
+    "correctAnswer": "Trung đoạn"
+  },
+  {
+    "question": "Diện tích xung quanh của hình chóp đều được tính bằng công thức nào? (p: nửa chu vi đáy, d: trung đoạn)",
+    "options": ["Sxq = p.d", "Sxq = p.h", "Sxq = 2p.d", "Sxq = Chu vi đáy * chiều cao"],
+    "correctAnswer": "Sxq = p.d"
+  },
+  {
+    "question": "Diện tích toàn phần của hình chóp được tính bằng công thức nào?",
+    "options": ["Stp = Sxq + Sđáy", "Stp = Sxq", "Stp = Sđáy", "Stp = Sxq - Sđáy"],
+    "correctAnswer": "Stp = Sxq + Sđáy"
+  },
+  {
+    "question": "Thể tích của hình chóp được tính bằng công thức nào? (Sđáy: diện tích đáy, h: chiều cao)",
+    "options": ["V = (1/3) * Sđáy * h", "V = Sđáy * h", "V = 3 * Sđáy * h", "V = (1/2) * Sđáy * h"],
+    "correctAnswer": "V = (1/3) * Sđáy * h"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có cạnh đáy bằng 6cm và trung đoạn bằng 5cm. Diện tích xung quanh của hình chóp là:",
+    "options": ["45 cm²", "90 cm²", "30 cm²", "15 cm²"],
+    "correctAnswer": "45 cm²"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy bằng 8cm và trung đoạn bằng 10cm. Diện tích xung quanh của hình chóp là:",
+    "options": ["160 cm²", "80 cm²", "320 cm²", "40 cm²"],
+    "correctAnswer": "160 cm²"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có diện tích đáy là 20 cm² và chiều cao là 9 cm. Thể tích của hình chóp là:",
+    "options": ["60 cm³", "180 cm³", "30 cm³", "29 cm³"],
+    "correctAnswer": "60 cm³"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có diện tích đáy là 36 cm² và chiều cao là 10 cm. Thể tích của hình chóp là:",
+    "options": ["120 cm³", "360 cm³", "60 cm³", "180 cm³"],
+    "correctAnswer": "120 cm³"
+  },
+  {
+    "question": "Số mặt của hình chóp tam giác đều là:",
+    "options": ["4", "3", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số cạnh của hình chóp tứ giác đều là:",
+    "options": ["8", "5", "4", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số đỉnh của hình chóp tam giác đều là:",
+    "options": ["4", "3", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong hình chóp tứ giác đều S.ABCD, các cạnh bên là:",
+    "options": ["SA, SB, SC, SD", "AB, BC, CD, DA", "AC, BD", "SO (O là tâm đáy)"],
+    "correctAnswer": "SA, SB, SC, SD"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có chu vi đáy là 12cm, trung đoạn là 4cm. Diện tích xung quanh là:",
+    "options": ["24 cm²", "48 cm²", "16 cm²", "12 cm²"],
+    "correctAnswer": "24 cm²"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 10cm. Diện tích đáy của nó là:",
+    "options": ["100 cm²", "40 cm²", "20 cm²", "50 cm²"],
+    "correctAnswer": "100 cm²"
+  },
+  {
+    "question": "Một kim tự tháp ở Ai Cập có dạng hình chóp tứ giác đều với cạnh đáy dài 230m và chiều cao 147m. Thể tích của kim tự tháp đó là khoảng:",
+    "options": ["2.592.100 m³", "7.776.300 m³", "33.810 m³", "52.900 m³"],
+    "correctAnswer": "2.592.100 m³"
+  },
+  {
+    "question": "Cho hình chóp tam giác đều S.ABC. Tam giác ABC là tam giác gì?",
+    "options": ["Tam giác đều", "Tam giác cân tại A", "Tam giác vuông tại B", "Tam giác bất kỳ"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Cho hình chóp tứ giác đều S.ABCD. Mặt bên SAB là hình gì?",
+    "options": ["Tam giác cân tại S", "Tam giác đều", "Tam giác vuông tại A", "Hình thang"],
+    "correctAnswer": "Tam giác cân tại S"
+  },
+  {
+    "question": "Một hình chóp có đáy là ngũ giác thì có bao nhiêu mặt bên?",
+    "options": ["5", "4", "6", "10"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một hình chóp có 10 cạnh thì đáy của nó là hình gì?",
+    "options": ["Ngũ giác", "Tứ giác", "Lục giác", "Tam giác"],
+    "correctAnswer": "Ngũ giác"
+  },
+  {
+    "question": "Một hình chóp có 7 đỉnh thì đáy của nó là hình gì?",
+    "options": ["Lục giác", "Ngũ giác", "Thất giác", "Bát giác"],
+    "correctAnswer": "Lục giác"
+  },
+  {
+    "question": "Cho hình chóp tứ giác đều có cạnh đáy bằng a và chiều cao bằng h. Độ dài trung đoạn d được tính bởi công thức nào?",
+    "options": ["d = √(h² + (a/2)²)", "d = √(h² + a²)", "d = h + a/2", "d = h² + (a/2)²"],
+    "correctAnswer": "d = √(h² + (a/2)²)"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 6cm, chiều cao 4cm. Độ dài trung đoạn là:",
+    "options": ["5 cm", "√20 cm", "√25 cm", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 6cm và trung đoạn 5cm. Diện tích toàn phần của nó là:",
+    "options": ["96 cm²", "60 cm²", "36 cm²", "156 cm²"],
+    "correctAnswer": "96 cm²"
+  },
+  {
+    "question": "Một hình chóp có thể tích 40 cm³ và diện tích đáy 20 cm². Chiều cao của hình chóp là:",
+    "options": ["6 cm", "2 cm", "2/3 cm", "120 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Nếu tăng chiều cao của hình chóp lên 2 lần và giữ nguyên diện tích đáy thì thể tích của nó:",
+    "options": ["Tăng lên 2 lần", "Tăng lên 4 lần", "Không đổi", "Giảm đi 2 lần"],
+    "correctAnswer": "Tăng lên 2 lần"
+  },
+  {
+    "question": "Nếu tăng cạnh đáy của hình chóp tứ giác đều lên 2 lần và giữ nguyên chiều cao thì thể tích của nó:",
+    "options": ["Tăng lên 4 lần", "Tăng lên 2 lần", "Tăng lên 8 lần", "Không đổi"],
+    "correctAnswer": "Tăng lên 4 lần"
+  },
+  {
+    "question": "Mái của một cái chòi có dạng hình chóp tứ giác đều với cạnh đáy 4m và chiều cao 1.5m. Độ dài trung đoạn của mái chòi là:",
+    "options": ["2.5 m", "2 m", "√8.25 m", "3.5 m"],
+    "correctAnswer": "2.5 m"
+  },
+  {
+    "question": "Mái của một cái chòi có dạng hình chóp tứ giác đều với cạnh đáy 4m và trung đoạn 2.5m. Diện tích vật liệu cần để lợp mái là:",
+    "options": ["20 m²", "40 m²", "16 m²", "10 m²"],
+    "correctAnswer": "20 m²"
+  },
+  {
+    "question": "Hình chóp tam giác đều S.ABC có cạnh đáy a, đường cao của tam giác đáy là:",
+    "options": ["a√3 / 2", "a/2", "a√3", "a"],
+    "correctAnswer": "a√3 / 2"
+  },
+  {
+    "question": "Hình chóp tam giác đều S.ABC có cạnh đáy a. Diện tích đáy là:",
+    "options": ["a²√3 / 4", "a² / 2", "a²√3", "a²"],
+    "correctAnswer": "a²√3 / 4"
+  },
+  {
+    "question": "Một lều trại hình chóp tứ giác đều có cạnh đáy 3m và cạnh bên 2.5m. Chiều cao của mặt bên (trung đoạn) là:",
+    "options": ["2 m", "1.5 m", "√4 m", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một lều trại hình chóp tứ giác đều có cạnh đáy 3m và trung đoạn 2m. Diện tích vải bạt xung quanh lều là:",
+    "options": ["12 m²", "24 m²", "9 m²", "6 m²"],
+    "correctAnswer": "12 m²"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình lục giác đều thì có bao nhiêu cạnh?",
+    "options": ["12", "7", "6", "18"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Một hình chóp có 8 mặt. Đáy của nó là hình gì?",
+    "options": ["Thất giác", "Lục giác", "Bát giác", "Ngũ giác"],
+    "correctAnswer": "Thất giác"
+  },
+  {
+    "question": "Trong hình chóp đều, các cạnh bên có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ ở hình chóp tam giác đều", "Chỉ ở hình chóp tứ giác đều"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng a. Độ dài trung đoạn là:",
+    "options": ["a√3 / 2", "a/2", "a", "a√2 / 2"],
+    "correctAnswer": "a√3 / 2"
+  },
+  {
+    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng a. Diện tích toàn phần là:",
+    "options": ["a²(1 + √3)", "a²", "a²√3", "4a²"],
+    "correctAnswer": "a²(1 + √3)"
+  },
+  {
+    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng a. Chiều cao của hình chóp là:",
+    "options": ["a√2 / 2", "a", "a/2", "a√3 / 2"],
+    "correctAnswer": "a√2 / 2"
+  },
+  {
+    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng 6cm. Thể tích của hình chóp là:",
+    "options": ["36√2 cm³", "72 cm³", "108 cm³", "36 cm³"],
+    "correctAnswer": "36√2 cm³"
+  },
+  {
+    "question": "Một khối rubik hình chóp tam giác đều được gọi là Pyraminx. Nó có bao nhiêu mặt?",
+    "options": ["4", "3", "5", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Nếu một hình chóp đều có diện tích xung quanh bằng diện tích đáy thì:",
+    "options": ["p.d = Sđáy", "p = d", "Sxq = Stp", "V = 0"],
+    "correctAnswer": "p.d = Sđáy"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có thể tích 200 cm³ và chiều cao 6 cm. Cạnh đáy của hình chóp là:",
+    "options": ["10 cm", "100 cm", "√50 cm", "20 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Đường cao của hình chóp đều là:",
+    "options": ["Đoạn thẳng nối đỉnh với tâm của đáy", "Đoạn thẳng nối đỉnh với trung điểm một cạnh đáy", "Cạnh bên", "Trung đoạn"],
+    "correctAnswer": "Đoạn thẳng nối đỉnh với tâm của đáy"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình chữ nhật. Nó có phải là hình chóp đều không?",
+    "options": ["Không, trừ khi đó là hình vuông", "Có", "Luôn luôn không", "Chỉ khi chiều cao bằng cạnh đáy"],
+    "correctAnswer": "Không, trừ khi đó là hình vuông"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có cạnh đáy 4cm và chiều cao 5cm. Thể tích của nó là:",
+    "options": ["20√3 / 3 cm³", "40√3 / 3 cm³", "20 cm³", "60 cm³"],
+    "correctAnswer": "20√3 / 3 cm³"
+  },
+  {
+    "question": "Một hình chóp có 2n cạnh. Đáy của nó là hình gì?",
+    "options": ["n-giác", "2n-giác", "(n-1)-giác", "(n+1)-giác"],
+    "correctAnswer": "n-giác"
+  },
+  {
+    "question": "Một hình chóp có n+1 đỉnh. Đáy của nó là hình gì?",
+    "options": ["n-giác", "(n+1)-giác", "(n-1)-giác", "2n-giác"],
+    "correctAnswer": "n-giác"
+  },
+  {
+    "question": "Một hình chóp có n+1 mặt. Đáy của nó là hình gì?",
+    "options": ["n-giác", "(n+1)-giác", "(n-1)-giác", "2n-giác"],
+    "correctAnswer": "n-giác"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có trung đoạn bằng 13cm, cạnh đáy bằng 10cm. Chiều cao của hình chóp là:",
+    "options": ["12 cm", "√194 cm", "√144 cm", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có trung đoạn 13cm, cạnh đáy 10cm. Diện tích toàn phần là:",
+    "options": ["360 cm²", "260 cm²", "100 cm²", "160 cm²"],
+    "correctAnswer": "360 cm²"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có trung đoạn 13cm, cạnh đáy 10cm. Thể tích là:",
+    "options": ["400 cm³", "1200 cm³", "1300 cm³", "360 cm³"],
+    "correctAnswer": "400 cm³"
+  },
+  {
+    "question": "Trong hình chóp đều, góc giữa cạnh bên và mặt đáy là góc tạo bởi:",
+    "options": ["Cạnh bên và hình chiếu của nó trên mặt đáy", "Cạnh bên và cạnh đáy", "Cạnh bên và trung đoạn", "Cạnh bên và chiều cao"],
+    "correctAnswer": "Cạnh bên và hình chiếu của nó trên mặt đáy"
+  },
+  {
+    "question": "Trong hình chóp đều, góc giữa mặt bên và mặt đáy là góc tạo bởi:",
+    "options": ["Trung đoạn và đoạn thẳng nối tâm đáy với trung điểm cạnh đáy tương ứng", "Cạnh bên và cạnh đáy", "Chiều cao và cạnh bên", "Trung đoạn và cạnh bên"],
+    "correctAnswer": "Trung đoạn và đoạn thẳng nối tâm đáy với trung điểm cạnh đáy tương ứng"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có chiều cao h, cạnh đáy a. Cạnh bên của nó là:",
+    "options": ["√(h² + (a√2/2)²)", "√(h² + a²)", "√(h² + (a/2)²)", "h + a"],
+    "correctAnswer": "√(h² + (a√2/2)²)"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có chiều cao 3cm, cạnh đáy 8cm. Cạnh bên của nó là:",
+    "options": ["√41 cm", "5 cm", "√73 cm", "7 cm"],
+    "correctAnswer": "√41 cm"
+  },
+  {
+    "question": "Một hình chóp có đáy là tam giác vuông. Nó có thể là hình chóp đều không?",
+    "options": ["Không", "Có", "Chỉ khi là tam giác vuông cân", "Tùy chiều cao"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Gấp một tấm bìa hình vuông có cạnh 20cm theo các đường chéo, ta có thể tạo thành mặt xung quanh của hình chóp nào?",
+    "options": ["Hình chóp tứ giác đều có tất cả các cạnh bằng 10√2", "Không thể tạo thành hình chóp", "Hình chóp tam giác đều", "Hình chóp có đáy là hình thoi"],
+    "correctAnswer": "Không thể tạo thành hình chóp"
+  },
+  {
+    "question": "Một hình chóp có diện tích xung quanh 60, diện tích toàn phần 85. Diện tích đáy là:",
+    "options": ["25", "145", "1.41", "Không xác định"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Nếu cắt một hình chóp đều bằng một mặt phẳng song song với đáy, thiết diện thu được là một hình:",
+    "options": ["Đa giác đều đồng dạng với đáy", "Hình tròn", "Hình tam giác", "Hình bất kỳ"],
+    "correctAnswer": "Đa giác đều đồng dạng với đáy"
+  },
+  {
+    "question": "Hình chóp cụt đều là phần hình chóp nằm giữa:",
+    "options": ["Mặt đáy và một mặt phẳng song song với đáy", "Hai mặt phẳng song song bất kỳ", "Đỉnh và một mặt phẳng", "Hai mặt bên"],
+    "correctAnswer": "Mặt đáy và một mặt phẳng song song với đáy"
+  },
+  {
+    "question": "Hai đáy của hình chóp cụt đều là:",
+    "options": ["Hai đa giác đều đồng dạng", "Hai hình tròn", "Hai hình vuông bằng nhau", "Hai tam giác bằng nhau"],
+    "correctAnswer": "Hai đa giác đều đồng dạng"
+  },
+  {
+    "question": "Các mặt bên của hình chóp cụt đều là hình gì?",
+    "options": ["Hình thang cân", "Hình chữ nhật", "Hình bình hành", "Tam giác cân"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có cạnh đáy 12cm, trung đoạn 10cm. Diện tích xung quanh là:",
+    "options": ["180 cm²", "120 cm²", "60 cm²", "360 cm²"],
+    "correctAnswer": "180 cm²"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có chu vi đáy 20cm, trung đoạn 8cm. Diện tích xung quanh là:",
+    "options": ["80 cm²", "160 cm²", "40 cm²", "100 cm²"],
+    "correctAnswer": "80 cm²"
+  },
+  {
+    "question": "Một hình chóp có thể tích V, chiều cao h. Diện tích đáy Sđáy là:",
+    "options": ["3V/h", "V/h", "V.h/3", "3V.h"],
+    "correctAnswer": "3V/h"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 12cm, chiều cao 8cm. Thể tích là:",
+    "options": ["384 cm³", "1152 cm³", "96 cm³", "144 cm³"],
+    "correctAnswer": "384 cm³"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình thoi. Nó có phải là hình chóp đều không?",
+    "options": ["Không, trừ khi đó là hình vuông", "Có", "Không bao giờ", "Chỉ khi các cạnh bên bằng nhau"],
+    "correctAnswer": "Không, trừ khi đó là hình vuông"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có diện tích xung quanh là 64 cm² và chu vi đáy là 16 cm. Trung đoạn của hình chóp là:",
+    "options": ["8 cm", "4 cm", "16 cm", "2 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có diện tích xung quanh 60 cm² và trung đoạn 5 cm. Cạnh đáy của hình chóp là:",
+    "options": ["8 cm", "12 cm", "4 cm", "24 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có thể tích 64 cm³ và diện tích đáy 16 cm². Chiều cao của hình chóp là:",
+    "options": ["12 cm", "4 cm", "16/3 cm", "6 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Nếu tất cả các mặt của hình chóp tam giác là tam giác đều, nó được gọi là:",
+    "options": ["Tứ diện đều", "Hình chóp tam giác đều", "Kim tự tháp", "Lăng trụ"],
+    "correctAnswer": "Tứ diện đều"
+  },
+  {
+    "question": "Một tứ diện đều có bao nhiêu cạnh bằng nhau?",
+    "options": ["6", "4", "3", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình bình hành. Nó có thể là hình chóp đều không?",
+    "options": ["Không, trừ khi là hình vuông", "Có", "Chỉ khi là hình chữ nhật", "Chỉ khi là hình thoi"],
+    "correctAnswer": "Không, trừ khi là hình vuông"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 14cm, trung đoạn 25cm. Diện tích xung quanh là:",
+    "options": ["700 cm²", "350 cm²", "1400 cm²", "196 cm²"],
+    "correctAnswer": "700 cm²"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 14cm, trung đoạn 25cm. Chiều cao của hình chóp là:",
+    "options": ["24 cm", "√674 cm", "7 cm", "25 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có cạnh đáy 14cm, chiều cao 24cm. Thể tích của nó là:",
+    "options": ["1568 cm³", "4704 cm³", "196 cm³", "336 cm³"],
+    "correctAnswer": "1568 cm³"
+  },
+  {
+    "question": "Một hình chóp có 100 đỉnh. Đáy của nó là hình gì?",
+    "options": ["99-giác", "100-giác", "101-giác", "200-giác"],
+    "correctAnswer": "99-giác"
+  },
+  {
+    "question": "Một hình chóp có 100 mặt. Đáy của nó là hình gì?",
+    "options": ["99-giác", "100-giác", "101-giác", "50-giác"],
+    "correctAnswer": "99-giác"
+  },
+  {
+    "question": "Một hình chóp có 100 cạnh. Đáy của nó là hình gì?",
+    "options": ["50-giác", "100-giác", "99-giác", "49-giác"],
+    "correctAnswer": "50-giác"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có diện tích đáy 81 cm². Chu vi đáy của nó là:",
+    "options": ["36 cm", "9 cm", "81 cm", "18 cm"],
+    "correctAnswer": "36 cm"
+  },
+  {
+    "question": "Một hình chóp tam giác đều có chu vi đáy 30cm, diện tích xung quanh 150 cm². Trung đoạn của nó là:",
+    "options": ["10 cm", "5 cm", "15 cm", "20 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình chóp có thể tích V. Nếu tăng gấp đôi chiều cao và giảm một nửa diện tích đáy thì thể tích mới là:",
+    "options": ["V", "2V", "V/2", "4V"],
+    "correctAnswer": "V"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình thang cân. Nó có phải là hình chóp đều không?",
+    "options": ["Không", "Có", "Chỉ khi các cạnh bên bằng nhau", "Chỉ khi đáy là hình thang cân có 2 góc vuông"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có chiều cao bằng nửa cạnh đáy. Gọi cạnh đáy là 2a. Chiều cao là:",
+    "options": ["a", "2a", "a/2", "4a"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có chiều cao bằng nửa cạnh đáy. Gọi cạnh đáy là 2a. Trung đoạn của nó là:",
+    "options": ["a√2", "a", "2a", "a√3"],
+    "correctAnswer": "a√2"
+  },
+  {
+    "question": "Một hình chóp tứ giác đều có chiều cao bằng nửa cạnh đáy. Gọi cạnh đáy là 2a. Cạnh bên của nó là:",
+    "options": ["a√3", "a√2", "2a", "a"],
+    "correctAnswer": "a√3"
+  },
+  {
+    "question": "Một hình chóp có đáy là tam giác đều cạnh a. Các mặt bên là các tam giác vuông cân tại đỉnh chóp. Chiều cao của chóp là:",
+    "options": ["Không tồn tại hình chóp như vậy", "a/2", "a√3/2", "a√2/2"],
+    "correctAnswer": "Không tồn tại hình chóp như vậy"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình vuông cạnh a, một cạnh bên vuông góc với đáy và có độ dài a. Thể tích của nó là:",
+    "options": ["a³/3", "a³", "a²/3", "2a³/3"],
+    "correctAnswer": "a³/3"
+  },
+  {
+    "question": "Một hình chóp có đáy là hình vuông cạnh a, một cạnh bên vuông góc với đáy và có độ dài a. Hình chóp này có phải là hình chóp đều không?",
+    "options": ["Không", "Có", "Chỉ khi a=1", "Không thể xác định"],
+    "correctAnswer": "Không"
+  }
+]
+
