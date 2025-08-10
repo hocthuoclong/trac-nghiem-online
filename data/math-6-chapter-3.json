@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Tập hợp các số nguyên được kí hiệu là:",
+    "options": ["Z", "N", "N*", "Q"],
+    "correctAnswer": "Z"
+  },
+  {
+    "question": "Số đối của 5 là:",
+    "options": ["-5", "5", "1/5", "0"],
+    "correctAnswer": "-5"
+  },
+  {
+    "question": "Số đối của -8 là:",
+    "options": ["8", "-8", "1/8", "0"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Trên trục số, điểm biểu diễn số -3 nằm ở đâu so với điểm 0?",
+    "options": ["Bên trái điểm 0", "Bên phải điểm 0", "Trùng với điểm 0", "Phía trên điểm 0"],
+    "correctAnswer": "Bên trái điểm 0"
+  },
+  {
+    "question": "Kết quả của phép tính (+15) + (+20) là:",
+    "options": ["35", "5", "-5", "-35"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Kết quả của phép tính (-10) + (-25) là:",
+    "options": ["-35", "15", "-15", "35"],
+    "correctAnswer": "-35"
+  },
+  {
+    "question": "Kết quả của phép tính (+18) + (-12) là:",
+    "options": ["6", "30", "-6", "-30"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Kết quả của phép tính (-20) + (+15) là:",
+    "options": ["-5", "35", "5", "-35"],
+    "correctAnswer": "-5"
+  },
+  {
+    "question": "Kết quả của phép tính 7 - 10 là:",
+    "options": ["-3", "3", "17", "-17"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Kết quả của phép tính (-5) - 8 là:",
+    "options": ["-13", "3", "-3", "13"],
+    "correctAnswer": "-13"
+  },
+  {
+    "question": "Khi bỏ dấu ngoặc có dấu '-' đằng trước, ta phải:",
+    "options": ["Đổi dấu tất cả các số hạng trong ngoặc", "Giữ nguyên dấu tất cả các số hạng trong ngoặc", "Chỉ đổi dấu số hạng đầu tiên", "Bỏ đi số hạng đầu tiên"],
+    "correctAnswer": "Đổi dấu tất cả các số hạng trong ngoặc"
+  },
+  {
+    "question": "Kết quả của phép tính 15 - (20 - 5) là:",
+    "options": ["0", "10", "-10", "30"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Kết quả của phép tính -( -8 + 3) là:",
+    "options": ["5", "-5", "11", "-11"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép nhân (+5) . (+4) là:",
+    "options": ["20", "-20", "9", "1"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Kết quả của phép nhân (-6) . (-3) là:",
+    "options": ["18", "-18", "-9", "9"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Kết quả của phép nhân (+7) . (-2) là:",
+    "options": ["-14", "14", "5", "9"],
+    "correctAnswer": "-14"
+  },
+  {
+    "question": "Kết quả của phép chia (-24) : (+6) là:",
+    "options": ["-4", "4", "18", "-18"],
+    "correctAnswer": "-4"
+  },
+  {
+    "question": "Kết quả của phép chia (-30) : (-5) là:",
+    "options": ["6", "-6", "25", "-25"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tập hợp các ước của 6 trong Z là:",
+    "options": ["{±1; ±2; ±3; ±6}", "{1; 2; 3; 6}", "{0; ±1; ±2; ±3; ±6}", "{-1; -2; -3; -6}"],
+    "correctAnswer": "{±1; ±2; ±3; ±6}"
+  },
+  {
+    "question": "Tập hợp các bội của 4 là:",
+    "options": ["{...; -8; -4; 0; 4; 8; ...}", "{0; 4; 8; 12; ...}", "{4; 8; 12; ...}", "{...; -12; -8; -4}"],
+    "correctAnswer": "{...; -8; -4; 0; 4; 8; ...}"
+  },
+  {
+    "question": "Số 0 là:",
+    "options": ["Số nguyên không âm cũng không dương", "Số nguyên dương", "Số nguyên âm", "Số tự nhiên"],
+    "correctAnswer": "Số nguyên không âm cũng không dương"
+  },
+  {
+    "question": "Giá trị tuyệt đối của -15 là:",
+    "options": ["15", "-15", "0", "1/15"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "So sánh -100 và -99.",
+    "options": ["-100 < -99", "-100 > -99", "-100 = -99", "Không so sánh được"],
+    "correctAnswer": "-100 < -99"
+  },
+  {
+    "question": "Tổng của hai số nguyên đối nhau bằng:",
+    "options": ["0", "1", "-1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tìm x, biết x - 10 = -5.",
+    "options": ["x = 5", "x = -15", "x = 15", "x = -5"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Rút gọn biểu thức a - (b - c).",
+    "options": ["a - b + c", "a - b - c", "a + b - c", "a + b + c"],
+    "correctAnswer": "a - b + c"
+  },
+  {
+    "question": "Tính giá trị biểu thức 12 - (15 - 8)",
+    "options": ["5", "19", "-11", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tích của một số chẵn các số nguyên âm là một số:",
+    "options": ["Nguyên dương", "Nguyên âm", "Bằng 0", "Không xác định"],
+    "correctAnswer": "Nguyên dương"
+  },
+  {
+    "question": "Tích của một số lẻ các số nguyên âm là một số:",
+    "options": ["Nguyên âm", "Nguyên dương", "Bằng 0", "Không xác định"],
+    "correctAnswer": "Nguyên âm"
+  },
+  {
+    "question": "Kết quả của phép tính (-2)⁵ là:",
+    "options": ["-32", "32", "-10", "10"],
+    "correctAnswer": "-32"
+  },
+  {
+    "question": "Tìm x, biết 3x = -18.",
+    "options": ["x = -6", "x = 6", "x = -15", "x = 21"],
+    "correctAnswer": "x = -6"
+  },
+  {
+    "question": "Số -12 có bao nhiêu ước nguyên?",
+    "options": ["12", "6", "10", "8"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Số nào sau đây là bội của -7?",
+    "options": ["-21", "15", "-17", "7/1"],
+    "correctAnswer": "-21"
+  },
+  {
+    "question": "Nhiệt độ ở Sa Pa buổi sáng là -2°C, đến trưa nhiệt độ tăng thêm 5°C. Nhiệt độ buổi trưa là:",
+    "options": ["3°C", "-7°C", "7°C", "-3°C"],
+    "correctAnswer": "3°C"
+  },
+  {
+    "question": "So sánh |-5| và |3|.",
+    "options": ["|-5| > |3|", "|-5| < |3|", "|-5| = |3|", "Không so sánh được"],
+    "correctAnswer": "|-5| > |3|"
+  },
+  {
+    "question": "Tìm x, biết |x| = 4.",
+    "options": ["x = 4 hoặc x = -4", "x = 4", "x = -4", "Không có x"],
+    "correctAnswer": "x = 4 hoặc x = -4"
+  },
+  {
+    "question": "Tổng của tất cả các số nguyên x thỏa mãn -3 < x ≤ 3 là:",
+    "options": ["3", "0", "6", "-2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Kết quả của phép tính (-100) + 70 là:",
+    "options": ["-30", "170", "30", "-170"],
+    "correctAnswer": "-30"
+  },
+  {
+    "question": "Rút gọn biểu thức (a + b) - (a - b).",
+    "options": ["2b", "2a", "0", "a² - b²"],
+    "correctAnswer": "2b"
+  },
+  {
+    "question": "Kết quả của phép tính - (12 + 21 - 36) là:",
+    "options": ["3", "-3", "69", "-69"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Kết quả của phép nhân (-1) . (-2) . (-3) là:",
+    "options": ["-6", "6", "5", "-5"],
+    "correctAnswer": "-6"
+  },
+  {
+    "question": "Nếu x . y = 0 thì:",
+    "options": ["x = 0 hoặc y = 0", "x = 0 và y = 0", "x = 0", "y = 0"],
+    "correctAnswer": "x = 0 hoặc y = 0"
+  },
+  {
+    "question": "Tìm x, biết -4x = 20.",
+    "options": ["x = -5", "x = 5", "x = 24", "x = 16"],
+    "correctAnswer": "x = -5"
+  },
+  {
+    "question": "Số nào sau đây là ước của -15?",
+    "options": ["-3", "10", "30", "-45"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Số nào sau đây không phải là bội của 9?",
+    "options": ["19", "-18", "27", "0"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Tập hợp Z bao gồm:",
+    "options": ["Số nguyên âm, số 0 và số nguyên dương", "Số tự nhiên và số nguyên âm", "Số 0 và số nguyên dương", "Số 0 và số nguyên âm"],
+    "correctAnswer": "Số nguyên âm, số 0 và số nguyên dương"
+  },
+  {
+    "question": "Số liền sau của -1 là:",
+    "options": ["0", "-2", "1", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số liền trước của -99 là:",
+    "options": ["-100", "-98", "98", "100"],
+    "correctAnswer": "-100"
+  },
+  {
+    "question": "Kết quả của phép tính 25 + (-8) + (-25) + (-2) là:",
+    "options": ["-10", "0", "10", "50"],
+    "correctAnswer": "-10"
+  },
+  {
+    "question": "Tìm x, biết 15 - (x + 7) = -2.",
+    "options": ["x = 10", "x = 6", "x = 20", "x = -10"],
+    "correctAnswer": "x = 10"
+  },
+  {
+    "question": "Giá trị của biểu thức ( -125) . 8 là:",
+    "options": ["-1000", "1000", "-117", "-133"],
+    "correctAnswer": "-1000"
+  },
+  {
+    "question": "Kết quả của phép tính (-3)² là:",
+    "options": ["9", "-9", "6", "-6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tìm x, biết x . (-7) = 0.",
+    "options": ["x = 0", "x = -7", "x = 7", "Không có x"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Ước chung của -8 và 12 là:",
+    "options": ["{±1; ±2; ±4}", "{1; 2; 4}", "{-1; -2; -4}", "{±1; ±2; ±3; ±4}"],
+    "correctAnswer": "{±1; ±2; ±4}"
+  },
+  {
+    "question": "Tìm x ∈ Z, biết x là bội của 5 và -12 < x ≤ 5.",
+    "options": ["{-10; -5; 0; 5}", "{-10; -5; 0}", "{5}", "{-10; -5}"],
+    "correctAnswer": "{-10; -5; 0; 5}"
+  },
+  {
+    "question": "Một chiếc tàu ngầm đang ở độ sâu -150m so với mực nước biển. Sau đó tàu nổi lên 80m. Độ sâu mới của tàu là:",
+    "options": ["-70m", "-230m", "70m", "230m"],
+    "correctAnswer": "-70m"
+  },
+  {
+    "question": "Số nguyên lớn nhất không vượt quá -1 là:",
+    "options": ["-1", "0", "-2", "Không có"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Tổng của số nguyên âm lớn nhất và số nguyên dương nhỏ nhất là:",
+    "options": ["0", "1", "-1", "2"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Kết quả của phép tính 1 - 2 + 3 - 4 + ... + 99 - 100 là:",
+    "options": ["-50", "50", "0", "-100"],
+    "correctAnswer": "-50"
+  },
+  {
+    "question": "Tìm x, biết -(x - 5) + 10 = 7.",
+    "options": ["x = 8", "x = 2", "x = -2", "x = -8"],
+    "correctAnswer": "x = 8"
+  },
+  {
+    "question": "Tích của 20 số nguyên khác 0, trong đó có đúng 10 số âm là một số:",
+    "options": ["Nguyên dương", "Nguyên âm", "Bằng 0", "Không xác định"],
+    "correctAnswer": "Nguyên dương"
+  },
+  {
+    "question": "Kết quả của phép tính (-1)¹⁰¹ là:",
+    "options": ["-1", "1", "101", "-101"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Tìm x, biết x² = 25.",
+    "options": ["x = 5 hoặc x = -5", "x = 5", "x = -5", "x = 12.5"],
+    "correctAnswer": "x = 5 hoặc x = -5"
+  },
+  {
+    "question": "Số nào sau đây chia hết cho -3?",
+    "options": ["-27", "10", "-13", "28"],
+    "correctAnswer": "-27"
+  },
+  {
+    "question": "Tìm tất cả các ước của -4.",
+    "options": ["{±1; ±2; ±4}", "{1; 2; 4}", "{-1; -2; -4}", "{1; 2; 4; 8}"],
+    "correctAnswer": "{±1; ±2; ±4}"
+  },
+  {
+    "question": "Nếu a chia hết cho b và b chia hết cho c thì:",
+    "options": ["a chia hết cho c", "c chia hết cho a", "a = c", "a và c là hai số nguyên tố cùng nhau"],
+    "correctAnswer": "a chia hết cho c"
+  },
+  {
+    "question": "Số nguyên x thỏa mãn |x| < 3 là:",
+    "options": ["{-2; -1; 0; 1; 2}", "{-3; -2; -1; 0; 1; 2; 3}", "{0; 1; 2}", "{1; 2}"],
+    "correctAnswer": "{-2; -1; 0; 1; 2}"
+  },
+  {
+    "question": "Kết quả của phép tính (-13) + (-28) là:",
+    "options": ["-41", "15", "-15", "41"],
+    "correctAnswer": "-41"
+  },
+  {
+    "question": "Tìm x, biết 2 - x = 10.",
+    "options": ["x = -8", "x = 8", "x = 12", "x = -12"],
+    "correctAnswer": "x = -8"
+  },
+  {
+    "question": "Tính giá trị biểu thức: 10 - [12 - (-9 - 1)]",
+    "options": ["-12", "12", "8", "-8"],
+    "correctAnswer": "-12"
+  },
+  {
+    "question": "Kết quả của phép nhân (-25) . 4 là:",
+    "options": ["-100", "100", "-21", "29"],
+    "correctAnswer": "-100"
+  },
+  {
+    "question": "Tìm x, biết -12(x - 5) + 7(3 - x) = 5.",
+    "options": ["x = 4", "x = -4", "x = 5", "x = -5"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Nếu x là một ước của -6 thì x không thể là:",
+    "options": ["4", "2", "-3", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số 0 có phải là ước của số nguyên a bất kỳ không?",
+    "options": ["Không", "Có", "Chỉ là ước của 0", "Chỉ là ước của 1"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Tìm x ∈ Z, biết (x+1) là ước của 5.",
+    "options": ["{0; -2; 4; -6}", "{0; 4}", "{-2; -6}", "{1; 5}"],
+    "correctAnswer": "{0; -2; 4; -6}"
+  },
+  {
+    "question": "Một tài khoản ngân hàng có 2.000.000 đồng. Sau khi rút 500.000 đồng, rồi lại nạp vào 300.000 đồng. Số tiền trong tài khoản là:",
+    "options": ["1.800.000 đồng", "2.200.000 đồng", "2.800.000 đồng", "1.200.000 đồng"],
+    "correctAnswer": "1.800.000 đồng"
+  },
+  {
+    "question": "Số nguyên âm nhỏ nhất có hai chữ số là:",
+    "options": ["-99", "-10", "-98", "-11"],
+    "correctAnswer": "-99"
+  },
+  {
+    "question": "Kết quả của phép tính (-2) + (-2) + (-2) + (-2) là:",
+    "options": ["-8", "8", "16", "-16"],
+    "correctAnswer": "-8"
+  },
+  {
+    "question": "Tìm x, biết x - (-12) = 3.",
+    "options": ["x = -9", "x = 9", "x = 15", "x = -15"],
+    "correctAnswer": "x = -9"
+  },
+  {
+    "question": "Rút gọn biểu thức a - (a - b + c).",
+    "options": ["b - c", "-b + c", "2a - b + c", "b + c"],
+    "correctAnswer": "b - c"
+  },
+  {
+    "question": "Kết quả của phép tính (-2) . (-2) . (-2) . (-2) là:",
+    "options": ["16", "-16", "8", "-8"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Tìm x, biết x(x+2) = 0.",
+    "options": ["x=0 hoặc x=-2", "x=0", "x=-2", "x=2"],
+    "correctAnswer": "x=0 hoặc x=-2"
+  },
+  {
+    "question": "Nếu a chia hết cho c và b không chia hết cho c thì a+b:",
+    "options": ["Không chia hết cho c", "Chia hết cho c", "Có thể chia hết hoặc không", "Bằng 0"],
+    "correctAnswer": "Không chia hết cho c"
+  },
+  {
+    "question": "Số nào là bội chung của 3 và -5?",
+    "options": ["-30", "10", "-20", "25"],
+    "correctAnswer": "-30"
+  },
+  {
+    "question": "Tìm x ∈ Z, biết -3 < |x| < 5.",
+    "options": ["{±4}", "{-4; -3; -2; -1; 0; 1; 2; 3; 4}", "{0; 1; 2; 3; 4}", "Không có x"],
+    "correctAnswer": "{±4}"
+  },
+  {
+    "question": "Hiệu của số nguyên âm lớn nhất có 3 chữ số và số nguyên âm nhỏ nhất có 2 chữ số là:",
+    "options": ["-1", "-199", "1", "199"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Tìm x, biết 10 - 2x = 4.",
+    "options": ["x = 3", "x = -3", "x = 7", "x = -7"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Giá trị của biểu thức 25 - (30 + 25) là:",
+    "options": ["-30", "30", "20", "-20"],
+    "correctAnswer": "-30"
+  },
+  {
+    "question": "Tích của hai số nguyên cùng dấu là một số:",
+    "options": ["Nguyên dương", "Nguyên âm", "Bằng 0", "Không xác định"],
+    "correctAnswer": "Nguyên dương"
+  },
+  {
+    "question": "Tích của hai số nguyên khác dấu là một số:",
+    "options": ["Nguyên âm", "Nguyên dương", "Bằng 0", "Không xác định"],
+    "correctAnswer": "Nguyên âm"
+  },
+  {
+    "question": "Kết quả của phép tính (-2)⁴ : (-2)² là:",
+    "options": ["4", "-4", "2", "-2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tìm x, biết 2x + 1 là ước của 12.",
+    "options": ["{0; 1; -1; -2; ...}", "{0, 1, -2, -1, 5, -6}", "{0, 1, -1, -2, 2, -3, 5, -6}", "Không có x nguyên"],
+    "correctAnswer": "{0, 1, -1, -2, 2, -3, 5, -6}"
+  },
+  {
+    "question": "Số 0 chia cho số nguyên a khác 0 được kết quả là:",
+    "options": ["0", "a", "1", "Không chia được"],
+    "correctAnswer": "0"
+  }
+]
+
