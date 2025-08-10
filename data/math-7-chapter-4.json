@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Tổng ba góc của một tam giác bằng:",
+    "options": ["180°", "90°", "360°", "100°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Trong một tam giác vuông, tổng hai góc nhọn bằng:",
+    "options": ["90°", "180°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Góc ngoài của một tam giác là góc:",
+    "options": ["Kề bù với một góc trong của tam giác", "Bằng một góc trong của tam giác", "Lớn hơn 180°", "Bằng tổng ba góc trong"],
+    "correctAnswer": "Kề bù với một góc trong của tam giác"
+  },
+  {
+    "question": "Số đo góc ngoài tại một đỉnh của tam giác bằng:",
+    "options": ["Tổng hai góc trong không kề với nó", "Góc trong kề với nó", "180°", "90°"],
+    "correctAnswer": "Tổng hai góc trong không kề với nó"
+  },
+  {
+    "question": "Nếu ΔABC = ΔMNP thì:",
+    "options": ["AB = MN, BC = NP, AC = MP", "AB = MP, BC = MN, AC = NP", "AB = NP, BC = MP, AC = MN", "Các cạnh không nhất thiết bằng nhau"],
+    "correctAnswer": "AB = MN, BC = NP, AC = MP"
+  },
+  {
+    "question": "Phát biểu trường hợp bằng nhau thứ nhất (cạnh - cạnh - cạnh):",
+    "options": ["Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba góc của tam giác này bằng ba góc của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng.", "Nếu một cạnh và hai góc kề bằng nhau."],
+    "correctAnswer": "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau."
+  },
+  {
+    "question": "Phát biểu trường hợp bằng nhau thứ hai (cạnh - góc - cạnh):",
+    "options": ["Nếu hai cạnh và góc xen giữa của tam giác này bằng hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai góc và cạnh xen giữa của tam giác này bằng hai góc và cạnh xen giữa của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai cạnh và một góc bất kỳ bằng nhau."],
+    "correctAnswer": "Nếu hai cạnh và góc xen giữa của tam giác này bằng hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó bằng nhau."
+  },
+  {
+    "question": "Phát biểu trường hợp bằng nhau thứ ba (góc - cạnh - góc):",
+    "options": ["Nếu một cạnh và hai góc kề của tam giác này bằng một cạnh và hai góc kề của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu hai cạnh và góc xen giữa của tam giác này bằng hai cạnh và góc xen giữa của tam giác kia thì hai tam giác đó bằng nhau.", "Nếu ba góc bằng nhau.", "Nếu một cạnh và một góc bằng nhau."],
+    "correctAnswer": "Nếu một cạnh và hai góc kề của tam giác này bằng một cạnh và hai góc kề của tam giác kia thì hai tam giác đó bằng nhau."
+  },
+  {
+    "question": "Hai tam giác vuông bằng nhau theo trường hợp cạnh huyền - góc nhọn nếu:",
+    "options": ["Cạnh huyền và một góc nhọn của tam giác vuông này bằng cạnh huyền và một góc nhọn của tam giác vuông kia.", "Hai cạnh góc vuông bằng nhau.", "Cạnh huyền bằng nhau.", "Một góc nhọn bằng nhau."],
+    "correctAnswer": "Cạnh huyền và một góc nhọn của tam giác vuông này bằng cạnh huyền và một góc nhọn của tam giác vuông kia."
+  },
+  {
+    "question": "Tam giác cân là tam giác có:",
+    "options": ["Hai cạnh bằng nhau", "Ba cạnh bằng nhau", "Hai góc bằng nhau", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Trong một tam giác cân, hai góc nào bằng nhau?",
+    "options": ["Hai góc ở đáy", "Hai góc ở đỉnh", "Tất cả các góc", "Không có góc nào bằng nhau"],
+    "correctAnswer": "Hai góc ở đáy"
+  },
+  {
+    "question": "Đường trung trực của một đoạn thẳng là:",
+    "options": ["Đường thẳng vuông góc với đoạn thẳng tại trung điểm của nó.", "Đường thẳng đi qua trung điểm của đoạn thẳng.", "Đường thẳng vuông góc với đoạn thẳng.", "Tia phân giác của góc tạo bởi đoạn thẳng."],
+    "correctAnswer": "Đường thẳng vuông góc với đoạn thẳng tại trung điểm của nó."
+  },
+  {
+    "question": "Một điểm nằm trên đường trung trực của một đoạn thẳng thì:",
+    "options": ["Cách đều hai đầu mút của đoạn thẳng đó.", "Nằm giữa hai đầu mút của đoạn thẳng.", "Tạo thành một tam giác vuông.", "Không có tính chất gì đặc biệt."],
+    "correctAnswer": "Cách đều hai đầu mút của đoạn thẳng đó."
+  },
+  {
+    "question": "Tam giác ABC có ∠A = 70°, ∠B = 50°. Số đo góc C là:",
+    "options": ["60°", "120°", "70°", "50°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Cho ΔABC = ΔDEF. Biết AB = 5cm, AC = 6cm, EF = 8cm. Chu vi của ΔDEF là:",
+    "options": ["19cm", "11cm", "14cm", "24cm"],
+    "correctAnswer": "19cm"
+  },
+  {
+    "question": "ΔABC và ΔMNP có AB=MN, BC=NP, AC=MP. Kí hiệu nào sau đây đúng?",
+    "options": ["ΔABC = ΔMNP", "ΔABC = ΔNMP", "ΔABC = ΔPMN", "ΔABC = ΔMPN"],
+    "correctAnswer": "ΔABC = ΔMNP"
+  },
+  {
+    "question": "Cho ΔPQR và ΔXYZ có PQ=XY, ∠Q=∠Y, QR=YZ. Hai tam giác này bằng nhau theo trường hợp nào?",
+    "options": ["c.g.c", "g.c.g", "c.c.c", "Cạnh huyền - góc nhọn"],
+    "correctAnswer": "c.g.c"
+  },
+  {
+    "question": "Cho ΔABC và ΔDEF có ∠A=∠D, AB=DE, ∠B=∠E. Hai tam giác này bằng nhau theo trường hợp nào?",
+    "options": ["g.c.g", "c.g.c", "c.c.c", "Cạnh huyền - cạnh góc vuông"],
+    "correctAnswer": "g.c.g"
+  },
+  {
+    "question": "Hai tam giác vuông ABC (vuông tại A) và DEF (vuông tại D) có BC=EF, AB=DE. Chúng bằng nhau theo trường hợp:",
+    "options": ["Cạnh huyền - cạnh góc vuông", "c.g.c", "g.c.g", "c.c.c"],
+    "correctAnswer": "Cạnh huyền - cạnh góc vuông"
+  },
+  {
+    "question": "Một tam giác cân có một góc ở đỉnh bằng 40°. Số đo mỗi góc ở đáy là:",
+    "options": ["70°", "40°", "140°", "100°"],
+    "correctAnswer": "70°"
+  },
+  {
+    "question": "Một tam giác cân có một góc ở đáy bằng 50°. Số đo góc ở đỉnh là:",
+    "options": ["80°", "50°", "130°", "40°"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Tam giác nào là tam giác vuông cân?",
+    "options": ["Tam giác có một góc 90° và hai cạnh góc vuông bằng nhau", "Tam giác có hai góc 45°", "Tam giác vuông có hai cạnh bằng nhau", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho đoạn thẳng AB. Tập hợp các điểm M sao cho MA = MB là:",
+    "options": ["Đường trung trực của đoạn thẳng AB", "Đường tròn tâm A, bán kính AB", "Đường thẳng song song với AB", "Một điểm duy nhất"],
+    "correctAnswer": "Đường trung trực của đoạn thẳng AB"
+  },
+  {
+    "question": "Tam giác đều là tam giác:",
+    "options": ["Có ba cạnh bằng nhau", "Có ba góc bằng nhau và bằng 60°", "Cân tại ba đỉnh", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Góc ngoài tại đỉnh C của ΔABC có số đo bằng 100°. Biết ∠A = 60°. Số đo góc B là:",
+    "options": ["40°", "80°", "100°", "60°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Nếu ΔABC = ΔXYZ và ∠X = 50°, ∠Y = 70°, thì các góc của ΔABC là:",
+    "options": ["∠A=50°, ∠B=70°, ∠C=60°", "∠A=70°, ∠B=50°, ∠C=60°", "∠A=50°, ∠B=60°, ∠C=70°", "Không xác định được"],
+    "correctAnswer": "∠A=50°, ∠B=70°, ∠C=60°"
+  },
+  {
+    "question": "Để hai tam giác ΔABC và ΔMNP bằng nhau theo trường hợp c.c.c, cần có AB=MN, BC=NP và:",
+    "options": ["AC = MP", "∠A = ∠M", "∠B = ∠N", "AC = MN"],
+    "correctAnswer": "AC = MP"
+  },
+  {
+    "question": "Để ΔABC và ΔDEF bằng nhau theo trường hợp c.g.c với AB=DE, BC=EF, cần thêm điều kiện:",
+    "options": ["∠B = ∠E", "∠A = ∠D", "∠C = ∠F", "AC = DF"],
+    "correctAnswer": "∠B = ∠E"
+  },
+  {
+    "question": "Để ΔPQR và ΔXYZ bằng nhau theo trường hợp g.c.g với ∠Q=∠Y, QR=YZ, cần thêm điều kiện:",
+    "options": ["∠R = ∠Z", "∠P = ∠X", "PQ = XY", "PR = XZ"],
+    "correctAnswer": "∠R = ∠Z"
+  },
+  {
+    "question": "Trường hợp bằng nhau cạnh huyền - cạnh góc vuông áp dụng cho:",
+    "options": ["Chỉ tam giác vuông", "Mọi tam giác", "Chỉ tam giác cân", "Chỉ tam giác đều"],
+    "correctAnswer": "Chỉ tam giác vuông"
+  },
+  {
+    "question": "Nếu một tam giác có hai góc bằng nhau thì đó là:",
+    "options": ["Tam giác cân", "Tam giác đều", "Tam giác vuông", "Tam giác tù"],
+    "correctAnswer": "Tam giác cân"
+  },
+  {
+    "question": "Trong tam giác cân, đường trung trực ứng với cạnh đáy đồng thời là:",
+    "options": ["Đường phân giác, đường trung tuyến, đường cao", "Chỉ đường phân giác", "Chỉ đường trung tuyến", "Chỉ đường cao"],
+    "correctAnswer": "Đường phân giác, đường trung tuyến, đường cao"
+  },
+  {
+    "question": "Một tam giác có ba góc bằng nhau là tam giác gì?",
+    "options": ["Tam giác đều", "Tam giác cân", "Tam giác vuông", "Không tồn tại"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A có ∠B = 30°. Số đo góc C là:",
+    "options": ["60°", "30°", "90°", "150°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Cho ΔABC = ΔPQR. Nếu A tương ứng với P, B tương ứng với Q thì C tương ứng với:",
+    "options": ["R", "P", "Q", "Không xác định"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Cho tam giác MNP có MN=MP và ∠N=45°. Tam giác MNP là tam giác gì?",
+    "options": ["Vuông cân tại M", "Vuông tại N", "Đều", "Cân tại P"],
+    "correctAnswer": "Vuông cân tại M"
+  },
+  {
+    "question": "Cho ΔABC và ΔA'B'C' có AB=A'B', AC=A'C', BC=B'C'. Phát biểu nào sau đây đúng?",
+    "options": ["ΔABC = ΔA'B'C'", "∠A = ∠A'", "∠B = ∠B'", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho hai tam giác bằng nhau, cạnh tương ứng với cạnh 5cm là:",
+    "options": ["Cạnh có độ dài 5cm", "Cạnh bất kỳ", "Cạnh lớn nhất", "Cạnh nhỏ nhất"],
+    "correctAnswer": "Cạnh có độ dài 5cm"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A, M là trung điểm của BC. Khẳng định nào đúng?",
+    "options": ["AM = BM = CM", "AM = 1/2 BC", "ΔABM cân tại M", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Nếu một tam giác cân có một góc bằng 60° thì đó là:",
+    "options": ["Tam giác đều", "Tam giác vuông", "Tam giác tù", "Không thể kết luận"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Cho đoạn thẳng CD. Đường thẳng d là trung trực của CD nếu:",
+    "options": ["d ⊥ CD tại trung điểm I của CD", "d cắt CD", "d // CD", "d đi qua C và D"],
+    "correctAnswer": "d ⊥ CD tại trung điểm I của CD"
+  },
+  {
+    "question": "Trong một tam giác, đối diện với cạnh lớn hơn là:",
+    "options": ["Góc lớn hơn", "Góc nhỏ hơn", "Góc vuông", "Cạnh bằng nó"],
+    "correctAnswer": "Góc lớn hơn"
+  },
+  {
+    "question": "Trong ΔABC, nếu AB > AC thì:",
+    "options": ["∠C > ∠B", "∠C < ∠B", "∠C = ∠B", "∠A là góc lớn nhất"],
+    "correctAnswer": "∠C > ∠B"
+  },
+  {
+    "question": "Cho ΔABC = ΔMNP. Biết chu vi ΔABC là 25cm. Chu vi ΔMNP là:",
+    "options": ["25cm", "50cm", "12.5cm", "Không xác định"],
+    "correctAnswer": "25cm"
+  },
+  {
+    "question": "Hai tam giác vuông bằng nhau nếu:",
+    "options": ["Hai cạnh góc vuông của tam giác này bằng hai cạnh góc vuông của tam giác kia", "Một cạnh góc vuông và góc nhọn kề cạnh ấy của tam giác này bằng một cạnh góc vuông và góc nhọn kề cạnh ấy của tam giác kia", "Cạnh huyền và một góc nhọn của tam giác này bằng cạnh huyền và một góc nhọn của tam giác kia", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Tam giác ABC có AB=AC, M là trung điểm BC. Khẳng định nào sau đây sai?",
+    "options": ["AM = BC", "AM ⊥ BC", "AM là tia phân giác góc A", "ΔABM = ΔACM"],
+    "correctAnswer": "AM = BC"
+  },
+  {
+    "question": "Cho điểm M nằm trên trung trực của đoạn thẳng AB. Nếu MA = 5cm thì MB bằng:",
+    "options": ["5cm", "10cm", "2.5cm", "Không xác định"],
+    "correctAnswer": "5cm"
+  },
+  {
+    "question": "Một tam giác không thể có:",
+    "options": ["Hai góc tù", "Một góc tù và hai góc nhọn", "Ba góc nhọn", "Một góc vuông và hai góc nhọn"],
+    "correctAnswer": "Hai góc tù"
+  },
+  {
+    "question": "Cho ΔABC có ∠A = 90°, ∠B = 50°. So sánh các cạnh của tam giác.",
+    "options": ["AC > AB > BC", "BC > AC > AB", "BC > AB > AC", "AC > BC > AB"],
+    "correctAnswer": "BC > AC > AB"
+  },
+  {
+    "question": "Cho ΔABC = ΔDEF. Góc tương ứng với góc B là:",
+    "options": ["Góc E", "Góc D", "Góc F", "Không có"],
+    "correctAnswer": "Góc E"
+  },
+  {
+    "question": "Để chứng minh ΔABC = ΔMNP theo trường hợp g.c.g, ta cần chứng minh:",
+    "options": ["∠A=∠M, AB=MN, ∠B=∠N", "∠A=∠M, ∠B=∠N, ∠C=∠P", "AB=MN, BC=NP, AC=MP", "AB=MN, ∠B=∠N, BC=NP"],
+    "correctAnswer": "∠A=∠M, AB=MN, ∠B=∠N"
+  },
+  {
+    "question": "Tam giác vuông tại A có AB = 3, AC = 4. Cạnh huyền BC bằng:",
+    "options": ["5", "7", "1", "√7"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Trong tam giác cân, đường cao ứng với cạnh đáy cũng là:",
+    "options": ["Đường trung tuyến", "Đường phân giác", "Đường trung trực", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho tam giác ABC cân tại A. Kẻ AH ⊥ BC (H ∈ BC). Phát biểu nào sai?",
+    "options": ["HB = HA", "HB = HC", "∠BAH = ∠CAH", "AH là đường trung trực của BC"],
+    "correctAnswer": "HB = HA"
+  },
+  {
+    "question": "Mỗi góc của tam giác đều bằng:",
+    "options": ["60°", "90°", "180°", "45°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Tam giác ABC có ∠A = 100°, ∠B = 40°. Tam giác này là tam giác gì?",
+    "options": ["Cân tại B", "Cân tại A", "Cân tại C", "Đều"],
+    "correctAnswer": "Cân tại B"
+  },
+  {
+    "question": "Cho ΔABC có AB=5, BC=5, AC=5. Kí hiệu nào đúng?",
+    "options": ["ΔABC là tam giác đều", "ΔABC là tam giác cân", "Cả A và B đều đúng", "ΔABC là tam giác vuông"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Nếu ΔABC và ΔMNP có AB=MN, BC=NP thì cần thêm điều kiện gì để hai tam giác bằng nhau theo trường hợp c.g.c?",
+    "options": ["∠B = ∠N", "AC = MP", "∠A = ∠M", "∠C = ∠P"],
+    "correctAnswer": "∠B = ∠N"
+  },
+  {
+    "question": "Tam giác vuông có hai cạnh góc vuông là 5cm và 12cm. Cạnh huyền là:",
+    "options": ["13cm", "17cm", "7cm", "√119 cm"],
+    "correctAnswer": "13cm"
+  },
+  {
+    "question": "Cho tam giác ABC cân tại A, góc A = 80°. Góc ngoài tại đỉnh B bằng:",
+    "options": ["130°", "50°", "100°", "80°"],
+    "correctAnswer": "130°"
+  },
+  {
+    "question": "Vẽ đường trung trực của đoạn thẳng AB bằng thước và compa, ta cần vẽ ít nhất mấy cung tròn?",
+    "options": ["2", "1", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong tam giác ABC, có ∠A + ∠B = 110°. Số đo góc C là:",
+    "options": ["70°", "110°", "250°", "90°"],
+    "correctAnswer": "70°"
+  },
+  {
+    "question": "Cho ΔABC = ΔDEF. Nếu AB=3x-1, DE=8 thì x bằng:",
+    "options": ["3", "8/3", "7/3", "9"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=AC. Trên tia đối của tia CB lấy điểm D. So sánh AB và AD.",
+    "options": ["AB < AD", "AB > AD", "AB = AD", "Không so sánh được"],
+    "correctAnswer": "AB < AD"
+  },
+  {
+    "question": "Cho tam giác MNP vuông tại M. Biết MN=6, NP=10. Độ dài MP là:",
+    "options": ["8", "16", "4", "√136"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tam giác ABC cân tại A có đường cao AH. Biết AH=4, BC=6. Độ dài cạnh bên AB là:",
+    "options": ["5", "10", "7", "√7"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một tam giác có thể có 2 đường trung trực trùng nhau không?",
+    "options": ["Không", "Có, ở tam giác đều", "Có, ở tam giác cân", "Có, ở tam giác vuông"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Trong tam giác ABC, góc B là góc tù. Cạnh nào lớn nhất?",
+    "options": ["AC", "AB", "BC", "Không xác định"],
+    "correctAnswer": "AC"
+  },
+  {
+    "question": "Cho ΔABC và ΔMNP có AB=MN, AC=MP, ∠A=∠M. Phát biểu nào đúng?",
+    "options": ["ΔABC = ΔMNP", "BC = NP", "∠B = ∠N", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong tam giác vuông, cạnh đối diện với góc vuông là:",
+    "options": ["Cạnh huyền", "Cạnh góc vuông", "Cạnh lớn nhất", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một tam giác cân có góc ở đỉnh là 100°. Mỗi góc ở đáy là:",
+    "options": ["40°", "80°", "100°", "50°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Điểm cách đều ba đỉnh của một tam giác là giao điểm của:",
+    "options": ["Ba đường trung trực", "Ba đường phân giác", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường trung trực"
+  },
+  {
+    "question": "Tam giác ABC có góc ngoài tại đỉnh A là 120°, góc B = 50°. Số đo góc C là:",
+    "options": ["70°", "60°", "50°", "120°"],
+    "correctAnswer": "70°"
+  },
+  {
+    "question": "Cho ΔABC = ΔXYZ. Biết BC + AC = 10 cm và YZ - XZ = 2 cm. Độ dài BC và AC là:",
+    "options": ["BC = 6cm, AC = 4cm", "BC = 4cm, AC = 6cm", "BC = 7cm, AC = 3cm", "BC = 8cm, AC = 2cm"],
+    "correctAnswer": "BC = 6cm, AC = 4cm"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A. Kẻ đường cao AH. Số cặp tam giác bằng nhau trong hình là:",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tam giác vuông cân có cạnh huyền bằng 10cm. Độ dài mỗi cạnh góc vuông là:",
+    "options": ["5√2 cm", "5 cm", "10√2 cm", "√10 cm"],
+    "correctAnswer": "5√2 cm"
+  },
+  {
+    "question": "Trong tam giác đều, mỗi góc ngoài có số đo là:",
+    "options": ["120°", "60°", "180°", "90°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Cho tam giác ABC, đường trung trực của AB và AC cắt nhau tại O. Điểm O có tính chất gì?",
+    "options": ["OA = OB = OC", "O là tâm đường tròn ngoại tiếp ΔABC", "O cách đều ba đỉnh của tam giác", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Tam giác ABC có BC là cạnh lớn nhất. Khẳng định nào đúng?",
+    "options": ["Góc A là góc lớn nhất", "Góc A là góc tù", "Góc A là góc vuông", "Không thể kết luận"],
+    "correctAnswer": "Góc A là góc lớn nhất"
+  },
+  {
+    "question": "Cho ΔABC và ΔMNP. Để chứng minh chúng bằng nhau theo trường hợp cạnh-cạnh-cạnh, ta cần đo mấy yếu tố?",
+    "options": ["3 yếu tố về cạnh", "3 yếu tố về góc", "2 cạnh và 1 góc", "1 cạnh và 2 góc"],
+    "correctAnswer": "3 yếu tố về cạnh"
+  },
+  {
+    "question": "Trong tam giác vuông, cạnh kề với góc nhọn α là:",
+    "options": ["Cạnh góc vuông", "Cạnh huyền", "Cạnh đối", "Không xác định"],
+    "correctAnswer": "Cạnh góc vuông"
+  },
+  {
+    "question": "Cho tam giác ABC cân tại A. Trên cạnh AB và AC lần lượt lấy điểm D và E sao cho AD = AE. Tứ giác BDEC là hình gì?",
+    "options": ["Hình thang cân", "Hình bình hành", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Một tam giác có thể có 2 đường phân giác trùng nhau không?",
+    "options": ["Không", "Có, ở tam giác đều", "Có, ở tam giác cân", "Có, ở tam giác vuông"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Tổng các góc ngoài của một tam giác (tại mỗi đỉnh lấy một góc) là:",
+    "options": ["360°", "180°", "720°", "540°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Cho ΔABC = ΔDEF. Biết ∠A = 30°, ∠E = 70°. Số đo góc F là:",
+    "options": ["80°", "30°", "70°", "100°"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Cho tam giác ABC có góc B = góc C. Tia phân giác của góc B cắt AC tại D. Biết góc BDC = 75°. Số đo góc A là:",
+    "options": ["50°", "75°", "30°", "60°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Tam giác ABC có AB = 4, BC = 5. Độ dài cạnh AC có thể là:",
+    "options": ["3", "1", "9", "Không thể là số nào trong các số trên"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tam giác đều có mấy đường trung trực?",
+    "options": ["3", "1", "2", "Vô số"],
+    "correctAnswer": "3"
+  }
+]
+
