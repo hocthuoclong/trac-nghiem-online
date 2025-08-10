@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Số nguyên",
                   "file": "./data/math-6-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Một số hình phẳng trong thực tiễn",
+                  "file": "./data/math-6-chapter-4.json"
                 }
               ]
             },
