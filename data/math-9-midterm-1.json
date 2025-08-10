@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Hệ phương trình {x+y=5; x-y=1} có nghiệm là:",
+    "options": ["(3; 2)", "(2; 3)", "(4; 1)", "(1; 4)"],
+    "correctAnswer": "(3; 2)"
+  },
+  {
+    "question": "Nghiệm của phương trình 2x - 8 = 0 là:",
+    "options": ["x = 4", "x = -4", "x = 8", "x = 2"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Biểu thức √(x-5) có nghĩa khi:",
+    "options": ["x ≥ 5", "x > 5", "x ≤ 5", "x < 5"],
+    "correctAnswer": "x ≥ 5"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, sin(B) bằng:",
+    "options": ["AC/BC", "AB/BC", "AC/AB", "AB/AC"],
+    "correctAnswer": "AC/BC"
+  },
+  {
+    "question": "Cho đường tròn (O; 5cm) và một điểm A sao cho OA = 5cm. Vị trí của điểm A là:",
+    "options": ["A nằm trên đường tròn", "A nằm trong đường tròn", "A nằm ngoài đường tròn", "A là tâm đường tròn"],
+    "correctAnswer": "A nằm trên đường tròn"
+  },
+  {
+    "question": "Cặp số (2; 1) là nghiệm của phương trình nào?",
+    "options": ["2x - y = 3", "x + y = 2", "x - 2y = 1", "3x + y = 5"],
+    "correctAnswer": "2x - y = 3"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình 3x < 9 là:",
+    "options": ["x < 3", "x > 3", "x ≤ 3", "x ≥ 3"],
+    "correctAnswer": "x < 3"
+  },
+  {
+    "question": "Kết quả của phép tính √25 là:",
+    "options": ["5", "±5", "12.5", "625"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Giá trị của cos(45°) là:",
+    "options": ["√2/2", "1/2", "√3/2", "1"],
+    "correctAnswer": "√2/2"
+  },
+  {
+    "question": "Trong một đường tròn, đường kính vuông góc với một dây thì:",
+    "options": ["Đi qua trung điểm của dây đó", "Song song với dây đó", "Bằng dây đó", "Không đi qua trung điểm"],
+    "correctAnswer": "Đi qua trung điểm của dây đó"
+  },
+  {
+    "question": "Hệ phương trình {2x+y=4; x-y=-1} có nghiệm là:",
+    "options": ["(1; 2)", "(2; 1)", "(3; -2)", "(-1; 6)"],
+    "correctAnswer": "(1; 2)"
+  },
+  {
+    "question": "Phương trình |x-2| = 1 có tập nghiệm là:",
+    "options": ["{1; 3}", "{1}", "{3}", "{-1; 3}"],
+    "correctAnswer": "{1; 3}"
+  },
+  {
+    "question": "Rút gọn biểu thức √( (√5 - 3)² ) ta được:",
+    "options": ["3 - √5", "√5 - 3", "2", "-2"],
+    "correctAnswer": "3 - √5"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có AB=6, AC=8. Cạnh huyền BC bằng:",
+    "options": ["10", "14", "√28", "50"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Đường thẳng và đường tròn tiếp xúc nhau khi chúng có:",
+    "options": ["1 điểm chung", "2 điểm chung", "0 điểm chung", "Vô số điểm chung"],
+    "correctAnswer": "1 điểm chung"
+  },
+  {
+    "question": "Tổng của hai số là 15, hiệu của chúng là 5. Tích của hai số đó là:",
+    "options": ["50", "100", "20", "75"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Bất phương trình -2x ≥ 6 tương đương với:",
+    "options": ["x ≤ -3", "x ≥ -3", "x ≤ 3", "x ≥ 3"],
+    "correctAnswer": "x ≤ -3"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 2/√2 là:",
+    "options": ["√2", "2", "1", "4"],
+    "correctAnswer": "√2"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có B=60°, AB=5. Cạnh BC bằng:",
+    "options": ["10", "5√3", "10√3", "5/2"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) cắt nhau khi:",
+    "options": ["|R - r| < OO' < R + r", "OO' > R + r", "OO' < |R - r|", "OO' = R + r"],
+    "correctAnswer": "|R - r| < OO' < R + r"
+  },
+  {
+    "question": "Hệ phương trình {x+y=3; 2x+2y=6} có bao nhiêu nghiệm?",
+    "options": ["Vô số nghiệm", "Một nghiệm duy nhất", "Vô nghiệm", "Hai nghiệm"],
+    "correctAnswer": "Vô số nghiệm"
+  },
+  {
+    "question": "Điều kiện xác định của phương trình 1/(x-2) = 3 là:",
+    "options": ["x ≠ 2", "x > 2", "x < 2", "x ∈ R"],
+    "correctAnswer": "x ≠ 2"
+  },
+  {
+    "question": "Kết quả của phép tính √4 ⋅ √9 là:",
+    "options": ["6", "√13", "36", "18"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Giá trị của tan(60°) là:",
+    "options": ["√3", "1/√3", "1/2", "√3/2"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Cho đường tròn (O; 10cm) và dây AB = 12cm. Khoảng cách từ O đến dây AB là:",
+    "options": ["8 cm", "6 cm", "10 cm", "√136 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có chiều dài hơn chiều rộng 4m và chu vi là 40m. Chiều dài và chiều rộng của mảnh đất là:",
+    "options": ["12m và 8m", "14m và 6m", "10m và 10m", "11m và 9m"],
+    "correctAnswer": "12m và 8m"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình 2(x+1) > 4 là:",
+    "options": ["x > 1", "x > 2", "x < 1", "x < 2"],
+    "correctAnswer": "x > 1"
+  },
+  {
+    "question": "Rút gọn biểu thức 3√2 + √8 - √50.",
+    "options": ["0", "√2", "-√2", "10√2"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Biết BH=4, HC=9. Độ dài AH là:",
+    "options": ["6", "36", "13", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Đường thẳng d tiếp xúc với đường tròn (O;R) tại A. Mệnh đề nào đúng?",
+    "options": ["d ⊥ OA tại A", "d // OA", "d(O,d) > R", "d(O,d) < R"],
+    "correctAnswer": "d ⊥ OA tại A"
+  },
+  {
+    "question": "Hệ phương trình {x-2y=1; -2x+4y=5} có nghiệm là:",
+    "options": ["Vô nghiệm", "Vô số nghiệm", "(3; 1)", "(1; 0)"],
+    "correctAnswer": "Vô nghiệm"
+  },
+  {
+    "question": "Phương trình 0x = 3 có tập nghiệm là:",
+    "options": ["∅", "R", "{0}", "{3}"],
+    "correctAnswer": "∅"
+  },
+  {
+    "question": "Căn bậc ba của -64 là:",
+    "options": ["-4", "4", "±4", "Không có"],
+    "correctAnswer": "-4"
+  },
+  {
+    "question": "Cho góc nhọn α. Biết tan(α) = 4/3. Giá trị của sin(α) là:",
+    "options": ["4/5", "3/5", "3/4", "5/4"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Tâm của đường tròn ngoại tiếp tam giác vuông nằm ở đâu?",
+    "options": ["Trung điểm cạnh huyền", "Đỉnh góc vuông", "Trọng tâm", "Trực tâm"],
+    "correctAnswer": "Trung điểm cạnh huyền"
+  },
+  {
+    "question": "Đường thẳng y = 2x + m và y = (m-1)x + 1 song song khi:",
+    "options": ["m = 3", "m ≠ 3", "m = 1", "m = 2"],
+    "correctAnswer": "m = 3"
+  },
+  {
+    "question": "Bất phương trình 5 - x ≤ 0 có tập nghiệm là:",
+    "options": ["[5; +∞)", "(-∞; 5]", "(5; +∞)", "(-∞; 5)"],
+    "correctAnswer": "[5; +∞)"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-125) là:",
+    "options": ["-5", "5", "±5", "25"],
+    "correctAnswer": "-5"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=a, AC=a. Góc B bằng:",
+    "options": ["45°", "30°", "60°", "90°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Hai đường tròn (O; 8cm) và (O'; 6cm) có OO' = 14cm. Vị trí tương đối của chúng là:",
+    "options": ["Tiếp xúc ngoài", "Cắt nhau", "Tiếp xúc trong", "Ngoài nhau"],
+    "correctAnswer": "Tiếp xúc ngoài"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {3x-y=5; x+2y=4} là:",
+    "options": ["(2; 1)", "(1; -2)", "(3; 4)", "(0; -5)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Phương trình (x-5)² = (5-x)² có tập nghiệm là:",
+    "options": ["R", "∅", "{5}", "{-5}"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Biểu thức √(4a²) với a ≥ 0 có kết quả là:",
+    "options": ["2a", "-2a", "2|a|", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Giá trị của biểu thức sin²(40°) + cos²(40°) là:",
+    "options": ["1", "0", "sin(80°)", "cos(80°)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Đường tròn là hình có bao nhiêu trục đối xứng?",
+    "options": ["Vô số", "1", "2", "4"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Một xe tải đi từ A đến B với vận tốc 50 km/h. Lúc về, xe đi với vận tốc 40 km/h. Tổng thời gian cả đi và về là 9 giờ. Quãng đường AB dài:",
+    "options": ["200 km", "180 km", "225 km", "450 km"],
+    "correctAnswer": "200 km"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình -x/3 > 1 là:",
+    "options": ["x < -3", "x > -3", "x < 3", "x > 3"],
+    "correctAnswer": "x < -3"
+  },
+  {
+    "question": "Đưa thừa số vào trong dấu căn của biểu thức 3√3.",
+    "options": ["√27", "√9", "√18", "√6"],
+    "correctAnswer": "√27"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có BC=10, B=30°. Cạnh AC bằng:",
+    "options": ["5", "5√3", "10√3", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Hai đường tròn (O; 10cm) và (O'; 3cm) có OO' = 6cm. Vị trí tương đối của chúng là:",
+    "options": ["Đựng nhau", "Cắt nhau", "Tiếp xúc trong", "Ngoài nhau"],
+    "correctAnswer": "Đựng nhau"
+  },
+  {
+    "question": "Hệ phương trình {x+y=S; xy=P} có nghiệm khi:",
+    "options": ["S² - 4P ≥ 0", "S² - 4P < 0", "S² + 4P ≥ 0", "S² + 4P < 0"],
+    "correctAnswer": "S² - 4P ≥ 0"
+  },
+  {
+    "question": "Phương trình 2x - 1 = 2x + 3 có bao nhiêu nghiệm?",
+    "options": ["0", "1", "2", "Vô số"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Rút gọn biểu thức √(11 - 6√2).",
+    "options": ["3 - √2", "√2 - 3", "√11 - √6", "√6 - √11"],
+    "correctAnswer": "3 - √2"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Biết AB=9, AC=12. Độ dài AH là:",
+    "options": ["7.2", "36/5", "Cả A và B", "15"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Từ một điểm A nằm ngoài đường tròn (O), kẻ hai tiếp tuyến AB, AC. Mệnh đề nào sau đây đúng?",
+    "options": ["AB = AC", "Góc OAB = Góc OAC", "OA là trung trực của BC", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {x/2 - y/3 = 1; x+y=5} là:",
+    "options": ["(4; 1)", "(2; 3)", "(6; -1)", "(0; 5)"],
+    "correctAnswer": "(4; 1)"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình 0x < 0 là:",
+    "options": ["∅", "R", "{0}", "x<0"],
+    "correctAnswer": "∅"
+  },
+  {
+    "question": "Kết quả của phép tính ³√2 ⋅ ³√4 là:",
+    "options": ["2", "³√8", "Cả A và B", "³√6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tan(α) = 1. Giá trị của biểu thức (sinα + cosα)/(sinα - cosα) là:",
+    "options": ["Không xác định", "1", "0", "2"],
+    "correctAnswer": "Không xác định"
+  },
+  {
+    "question": "Đường tròn nội tiếp một tam giác đều cạnh a có bán kính là:",
+    "options": ["a√3/6", "a√3/3", "a/2", "a√3/4"],
+    "correctAnswer": "a√3/6"
+  },
+  {
+    "question": "Đường thẳng y = 2x + 1 và y = 2x - 3 có vị trí tương đối là:",
+    "options": ["Song song", "Cắt nhau", "Trùng nhau", "Vuông góc"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Phương trình 3x - m = 2 có nghiệm x=1. Giá trị của m là:",
+    "options": ["1", "3", "2", "5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 1/(√5 - 2) là:",
+    "options": ["√5 + 2", "√5 - 2", "1", "9"],
+    "correctAnswer": "√5 + 2"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có BC=a, AC=b. Khi đó b bằng:",
+    "options": ["a.sin(B)", "a.cos(C)", "c.tan(B)", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Hai đường tròn (O; 5cm) và (O'; 2cm) có OO' = 3cm. Vị trí tương đối của chúng là:",
+    "options": ["Tiếp xúc trong", "Cắt nhau", "Đựng nhau", "Tiếp xúc ngoài"],
+    "correctAnswer": "Tiếp xúc trong"
+  },
+  {
+    "question": "Hệ phương trình {x+y=4; 2x-y=2} có nghiệm là:",
+    "options": ["(2; 2)", "(3; 1)", "(1; 3)", "(0; 4)"],
+    "correctAnswer": "(2; 2)"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình 2x + 1 > 2x - 1 là:",
+    "options": ["R", "∅", "x > -1", "x < 1"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Biểu thức √(x-1) + √(2-x) có nghĩa khi:",
+    "options": ["1 ≤ x ≤ 2", "x ≥ 1", "x ≤ 2", "x > 1 và x < 2"],
+    "correctAnswer": "1 ≤ x ≤ 2"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, AB=5, BC=13. Giá trị của sin(C) là:",
+    "options": ["5/13", "12/13", "5/12", "12/5"],
+    "correctAnswer": "5/13"
+  },
+  {
+    "question": "Đường tròn ngoại tiếp một hình vuông cạnh a có bán kính là:",
+    "options": ["a√2/2", "a/2", "a√2", "a"],
+    "correctAnswer": "a√2/2"
+  },
+  {
+    "question": "Một số có hai chữ số. Tổng hai chữ số bằng 12. Nếu đổi chỗ hai chữ số thì số mới bé hơn số cũ 18 đơn vị. Số ban đầu là:",
+    "options": ["75", "57", "84", "48"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Phương trình (m-2)x = m-2 có vô số nghiệm khi:",
+    "options": ["m = 2", "m ≠ 2", "m bất kỳ", "Không có m"],
+    "correctAnswer": "m = 2"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-216) là:",
+    "options": ["-6", "6", "±6", "-16"],
+    "correctAnswer": "-6"
+  },
+  {
+    "question": "Giá trị của biểu thức tan(30°)cot(30°) là:",
+    "options": ["1", "0", "3", "1/3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) ở ngoài nhau khi:",
+    "options": ["OO' > R + r", "OO' < |R - r|", "OO' = R + r", "|R-r| < OO' < R+r"],
+    "correctAnswer": "OO' > R + r"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {x=1; y=2x-1} là:",
+    "options": ["(1; 1)", "(1; 2)", "(2; 1)", "(0; -1)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Bất phương trình 3(x-1) < 3x - 5 có tập nghiệm là:",
+    "options": ["∅", "R", "x > -2", "x < -2"],
+    "correctAnswer": "∅"
+  },
+  {
+    "question": "Rút gọn biểu thức √(a²/b) với a<0, b>0.",
+    "options": ["-a√b/b", "a√b/b", "|a|√b/b", "Cả B và C"],
+    "correctAnswer": "-a√b/b"
+  },
+  {
+    "question": "Một con sông rộng 150m. Một chiếc thuyền muốn qua sông theo hướng vuông góc với bờ nhưng bị dòng nước đẩy xiên một góc 30°. Quãng đường thuyền phải đi là:",
+    "options": ["100√3 m", "300 m", "150√2 m", "75 m"],
+    "correctAnswer": "100√3 m"
+  },
+  {
+    "question": "Tâm của đường tròn nội tiếp tam giác là giao điểm của:",
+    "options": ["Ba đường phân giác", "Ba đường trung trực", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường phân giác"
+  },
+  {
+    "question": "Hệ phương trình {2x-y=1; -4x+2y=-3} có bao nhiêu nghiệm?",
+    "options": ["Vô nghiệm", "Một nghiệm duy nhất", "Vô số nghiệm", "Hai nghiệm"],
+    "correctAnswer": "Vô nghiệm"
+  },
+  {
+    "question": "Phương trình 2x + 1 = 0 là phương trình:",
+    "options": ["Bậc nhất một ẩn", "Bậc hai một ẩn", "Bậc nhất hai ẩn", "Không phải phương trình"],
+    "correctAnswer": "Bậc nhất một ẩn"
+  },
+  {
+    "question": "Kết quả của phép tính √(1-√2)² là:",
+    "options": ["√2 - 1", "1 - √2", "1", "-1"],
+    "correctAnswer": "√2 - 1"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có tan(B) = 3/4 và AB = 8. Cạnh AC bằng:",
+    "options": ["6", "10", "8", "32/3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Đường tròn có thể có bao nhiêu tiếp tuyến chung với một đường thẳng?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tìm hai số có tổng bằng 25 và hiệu bằng 7.",
+    "options": ["16 và 9", "15 và 10", "17 và 8", "18 và 7"],
+    "correctAnswer": "16 và 9"
+  },
+  {
+    "question": "Bất phương trình |x| < 2 có tập nghiệm là:",
+    "options": ["(-2; 2)", "[-2; 2]", "(-∞; -2) ∪ (2; +∞)", "R"],
+    "correctAnswer": "(-2; 2)"
+  },
+  {
+    "question": "So sánh 5 và 2√6.",
+    "options": ["5 > 2√6", "5 < 2√6", "5 = 2√6", "Không so sánh được"],
+    "correctAnswer": "5 > 2√6"
+  },
+  {
+    "question": "Một tam giác vuông có cạnh huyền bằng 10 và một góc nhọn bằng 60°. Cạnh góc vuông kề với góc đó là:",
+    "options": ["5", "5√3", "10√3", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho đường tròn (O;R) và dây AB. Nếu số đo cung AB là 90° thì khoảng cách từ O đến AB là:",
+    "options": ["R√2/2", "R/2", "R√3/2", "R"],
+    "correctAnswer": "R√2/2"
+  }
+]
+
