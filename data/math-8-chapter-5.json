@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Phương pháp nào sau đây không phải là phương pháp thu thập dữ liệu?",
+    "options": ["Làm thí nghiệm", "Quan sát", "Lập bảng hỏi", "Phỏng vấn"],
+    "correctAnswer": "Làm thí nghiệm"
+  },
+  {
+    "question": "Dữ liệu về 'màu sắc yêu thích' của các bạn trong lớp là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Dữ liệu về 'chiều cao' của các bạn trong lớp là:",
+    "options": ["Dữ liệu định lượng", "Dữ liệu định tính", "Dữ liệu không phải là số", "Dữ liệu không sắp xếp được"],
+    "correctAnswer": "Dữ liệu định lượng"
+  },
+  {
+    "question": "Biểu đồ cột thường được dùng để:",
+    "options": ["So sánh các loại dữ liệu khác nhau", "Biểu diễn tỉ lệ phần trăm", "Thể hiện sự thay đổi theo thời gian", "Tìm mối liên hệ giữa hai biến"],
+    "correctAnswer": "So sánh các loại dữ liệu khác nhau"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn thích hợp để biểu diễn:",
+    "options": ["Cơ cấu, tỉ lệ các phần trong một tổng thể", "Sự tăng trưởng của một đại lượng", "Tần số của các giá trị", "So sánh độ lớn"],
+    "correctAnswer": "Cơ cấu, tỉ lệ các phần trong một tổng thể"
+  },
+  {
+    "question": "Một bảng thống kê cho thấy có 15 học sinh thích màu xanh trong tổng số 40 học sinh. Tần số tương đối của màu xanh là:",
+    "options": ["37.5%", "15%", "40%", "25%"],
+    "correctAnswer": "37.5%"
+  },
+  {
+    "question": "Để biểu diễn sự thay đổi nhiệt độ trong một tuần, loại biểu đồ nào là phù hợp nhất?",
+    "options": ["Biểu đồ đoạn thẳng", "Biểu đồ hình quạt tròn", "Biểu đồ cột", "Bảng dữ liệu"],
+    "correctAnswer": "Biểu đồ đoạn thẳng"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, tổng các góc ở tâm của tất cả các hình quạt là:",
+    "options": ["360°", "180°", "100°", "Tùy vào dữ liệu"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Dữ liệu 'số con trong mỗi gia đình' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Dữ liệu 'cân nặng' của trẻ sơ sinh là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Để thu thập dữ liệu về ý kiến của khách hàng về một sản phẩm, phương pháp hiệu quả là:",
+    "options": ["Lập phiếu hỏi hoặc phỏng vấn", "Quan sát", "Đo đạc", "Tính toán"],
+    "correctAnswer": "Lập phiếu hỏi hoặc phỏng vấn"
+  },
+  {
+    "question": "Trong một biểu đồ cột, trục đứng thường biểu diễn:",
+    "options": ["Tần số hoặc số lượng", "Các loại đối tượng", "Thời gian", "Tỉ lệ phần trăm"],
+    "correctAnswer": "Tần số hoặc số lượng"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 90°. Tần số tương đối của A là:",
+    "options": ["25%", "90%", "50%", "1/4"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Bảng dữ liệu ban đầu chưa được xử lý được gọi là:",
+    "options": ["Số liệu thống kê ban đầu", "Bảng tần số", "Bảng tần số tương đối", "Biểu đồ"],
+    "correctAnswer": "Số liệu thống kê ban đầu"
+  },
+  {
+    "question": "Phân loại dữ liệu giúp chúng ta:",
+    "options": ["Dễ dàng so sánh, phân tích và lựa chọn biểu đồ phù hợp", "Làm cho dữ liệu phức tạp hơn", "Thay đổi giá trị của dữ liệu", "Loại bỏ các dữ liệu không cần thiết"],
+    "correctAnswer": "Dễ dàng so sánh, phân tích và lựa chọn biểu đồ phù hợp"
+  },
+  {
+    "question": "Biểu đồ cột kép được dùng để:",
+    "options": ["So sánh hai bộ dữ liệu tương ứng với nhau", "Biểu diễn một bộ dữ liệu duy nhất", "Thể hiện cơ cấu", "Thể hiện xu hướng"],
+    "correctAnswer": "So sánh hai bộ dữ liệu tương ứng với nhau"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu định tính?",
+    "options": ["Xếp loại học lực (Giỏi, Khá, Trung bình)", "Điểm thi môn Toán", "Số học sinh vắng trong một buổi", "Nhiệt độ phòng"],
+    "correctAnswer": "Xếp loại học lực (Giỏi, Khá, Trung bình)"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy đường biểu diễn đi lên. Điều này thể hiện xu hướng:",
+    "options": ["Tăng", "Giảm", "Không đổi", "Không xác định"],
+    "correctAnswer": "Tăng"
+  },
+  {
+    "question": "Trong một cuộc điều tra, có 200 người tham gia. Tần số tương đối của một lựa chọn là 15%. Số người đã chọn lựa chọn đó là:",
+    "options": ["30", "15", "20", "50"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Để thu thập dữ liệu về số lượng xe qua một ngã tư trong một giờ, phương pháp nào là phù hợp nhất?",
+    "options": ["Quan sát và đếm", "Phỏng vấn", "Lập phiếu hỏi", "Đọc tài liệu"],
+    "correctAnswer": "Quan sát và đếm"
+  },
+  {
+    "question": "Dữ liệu 'loại phương tiện giao thông' (ô tô, xe máy, xe đạp) là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu liên tục", "Số liệu rời rạc"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Biểu đồ cột có thể được vẽ theo:",
+    "options": ["Chiều thẳng đứng hoặc chiều nằm ngang", "Chỉ chiều thẳng đứng", "Chỉ chiều nằm ngang", "Hình tròn"],
+    "correctAnswer": "Chiều thẳng đứng hoặc chiều nằm ngang"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại trái cây trong một cửa hàng. Tổng các tỉ lệ phần trăm là:",
+    "options": ["100%", "360%", "1", "Tùy vào số loại trái cây"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Phân tích dữ liệu là quá trình:",
+    "options": ["Khám phá, nhận biết các quy luật và rút ra kết luận từ dữ liệu", "Thu thập dữ liệu", "Vẽ biểu đồ", "Lập bảng tần số"],
+    "correctAnswer": "Khám phá, nhận biết các quy luật và rút ra kết luận từ dữ liệu"
+  },
+  {
+    "question": "Dữ liệu 'số lỗi chính tả trong một bài văn' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy sản lượng lúa của một tỉnh qua các năm. Dựa vào biểu đồ, ta có thể nhận xét về:",
+    "options": ["Xu hướng tăng hay giảm của sản lượng", "Sản lượng của năm cao nhất", "Sản lượng của năm thấp nhất", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong một cuộc điều tra về môn thể thao yêu thích, có 50 người chọn bóng đá, 30 người chọn bóng chuyền, 20 người chọn cầu lông. Tần số tương đối của bóng đá là:",
+    "options": ["50%", "30%", "20%", "100%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Dữ liệu định lượng là dữ liệu:",
+    "options": ["Là các con số", "Không phải là số", "Là các loại, các nhóm", "Luôn là số nguyên"],
+    "correctAnswer": "Là các con số"
+  },
+  {
+    "question": "Một biểu đồ cột kép so sánh số học sinh nam và nữ của các lớp. Trục ngang biểu diễn các lớp. Trục đứng biểu diễn số học sinh. Mỗi lớp sẽ có:",
+    "options": ["Hai cột đứng cạnh nhau", "Một cột duy nhất", "Một điểm", "Một hình quạt"],
+    "correctAnswer": "Hai cột đứng cạnh nhau"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 1/3 diện tích. Góc ở tâm của hình quạt A là:",
+    "options": ["120°", "90°", "60°", "180°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Dữ liệu 'thời gian hoàn thành một vòng chạy' là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Mục đích chính của việc biểu diễn dữ liệu bằng biểu đồ là:",
+    "options": ["Giúp thông tin trở nên trực quan, dễ hiểu và dễ so sánh", "Làm cho dữ liệu trở nên phức tạp hơn", "Thay đổi giá trị của dữ liệu", "Chỉ để trang trí"],
+    "correctAnswer": "Giúp thông tin trở nên trực quan, dễ hiểu và dễ so sánh"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy doanh thu của một công ty giảm liên tục trong 3 quý cuối năm. Đây là một:",
+    "options": ["Phân tích, nhận xét từ biểu đồ", "Dữ liệu ban đầu", "Bảng tần số", "Biểu đồ cột"],
+    "correctAnswer": "Phân tích, nhận xét từ biểu đồ"
+  },
+  {
+    "question": "Để thu thập dữ liệu về 'loài cây phổ biến nhất' trong sân trường, phương pháp nào là phù hợp?",
+    "options": ["Quan sát, nhận dạng và đếm", "Phỏng vấn học sinh", "Lập phiếu hỏi", "Đo chiều cao cây"],
+    "correctAnswer": "Quan sát, nhận dạng và đếm"
+  },
+  {
+    "question": "Dữ liệu 'size giày' của các cầu thủ trong một đội bóng là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ cột cho thấy cột của lớp 8A cao hơn cột của lớp 8B. Điều này có nghĩa là:",
+    "options": ["Sĩ số của lớp 8A lớn hơn lớp 8B", "Học sinh lớp 8A cao hơn học sinh lớp 8B", "Điểm trung bình lớp 8A cao hơn lớp 8B", "Không thể kết luận nếu không có chú thích"],
+    "correctAnswer": "Không thể kết luận nếu không có chú thích"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn cơ cấu chi tiêu của một gia đình. Khoản chi cho 'Ăn uống' chiếm góc lớn nhất. Kết luận nào đúng?",
+    "options": ["Gia đình chi tiêu cho ăn uống nhiều nhất", "Gia đình chỉ chi tiêu cho ăn uống", "Các khoản chi khác đều bằng nhau", "Khoản chi cho ăn uống bằng 50%"],
+    "correctAnswer": "Gia đình chi tiêu cho ăn uống nhiều nhất"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu định lượng?",
+    "options": ["Số tuổi của các thành viên trong gia đình", "Nghề nghiệp của bố mẹ", "Môn học yêu thích", "Quê quán"],
+    "correctAnswer": "Số tuổi của các thành viên trong gia đình"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng có các điểm được nối với nhau. Các điểm này biểu diễn:",
+    "options": ["Giá trị của đại lượng tại các thời điểm hoặc vị trí khác nhau", "Các loại dữ liệu khác nhau", "Tỉ lệ phần trăm", "Không có ý nghĩa"],
+    "correctAnswer": "Giá trị của đại lượng tại các thời điểm hoặc vị trí khác nhau"
+  },
+  {
+    "question": "Trong một cuộc khảo sát, có 4 lựa chọn A, B, C, D. Tần số tương đối của A, B, C lần lượt là 20%, 35%, 15%. Tần số tương đối của D là:",
+    "options": ["30%", "20%", "10%", "40%"],
+    "correctAnswer": "30%"
+  },
+  {
+    "question": "Dữ liệu 'quốc tịch' của các du khách là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Khi đọc một biểu đồ, điều quan trọng đầu tiên cần chú ý là:",
+    "options": ["Tiêu đề và chú thích của các trục", "Màu sắc của biểu đồ", "Kích thước của biểu đồ", "Loại biểu đồ"],
+    "correctAnswer": "Tiêu đề và chú thích của các trục"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 45°. Tần số tương đối của A là:",
+    "options": ["12.5%", "45%", "90%", "22.5%"],
+    "correctAnswer": "12.5%"
+  },
+  {
+    "question": "Dữ liệu 'số trang của một quyển sách' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ cột kép so sánh lượng mưa trung bình của Hà Nội và TP.HCM qua các tháng. Dựa vào biểu đồ, ta không thể kết luận được điều gì?",
+    "options": ["Lượng mưa chính xác vào một ngày cụ thể", "Tháng có lượng mưa cao nhất ở mỗi thành phố", "So sánh lượng mưa giữa hai thành phố trong cùng một tháng", "Xu hướng mưa trong năm của mỗi thành phố"],
+    "correctAnswer": "Lượng mưa chính xác vào một ngày cụ thể"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy dân số của một thành phố tăng đều qua các năm. Đây là một ví dụ về phân tích dữ liệu để:",
+    "options": ["Dự báo xu hướng", "Tìm giá trị lớn nhất", "So sánh các thành phần", "Tìm mốt"],
+    "correctAnswer": "Dự báo xu hướng"
+  },
+  {
+    "question": "Để thu thập dữ liệu về cân nặng của các bạn trong lớp, phương pháp nào là phù hợp?",
+    "options": ["Đo đạc bằng cân", "Phỏng vấn", "Lập phiếu hỏi", "Quan sát"],
+    "correctAnswer": "Đo đạc bằng cân"
+  },
+  {
+    "question": "Dữ liệu 'điểm số' từ 0 đến 10 là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không có thứ tự"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Biểu đồ cột có thể dùng để biểu diễn dữ liệu định tính không?",
+    "options": ["Có", "Không", "Chỉ khi có ít loại", "Chỉ khi có nhiều loại"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ học sinh các khối 6, 7, 8, 9. Nếu số học sinh khối 6 và 7 bằng nhau thì:",
+    "options": ["Hai hình quạt biểu diễn khối 6 và 7 có góc ở tâm bằng nhau", "Hai khối có cùng 100 học sinh", "Tổng số học sinh là 200", "Không thể kết luận"],
+    "correctAnswer": "Hai hình quạt biểu diễn khối 6 và 7 có góc ở tâm bằng nhau"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là số liệu liên tục?",
+    "options": ["Nhiệt độ cơ thể", "Số học sinh trong lớp", "Số lần tung đồng xu", "Số mặt của súc sắc"],
+    "correctAnswer": "Nhiệt độ cơ thể"
+  },
+  {
+    "question": "Khi phân tích một biểu đồ, ta cần:",
+    "options": ["Đọc các thông tin trên biểu đồ, so sánh và rút ra nhận xét", "Chỉ nhìn vào hình dạng chung", "Chỉ đọc tiêu đề", "Đo kích thước các thành phần"],
+    "correctAnswer": "Đọc các thông tin trên biểu đồ, so sánh và rút ra nhận xét"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy giá vàng tăng mạnh trong tháng 3 rồi giảm nhẹ trong tháng 4. Đây là một:",
+    "options": ["Nhận xét về xu hướng", "Dữ liệu thô", "Bảng tần số", "Biểu đồ hình quạt"],
+    "correctAnswer": "Nhận xét về xu hướng"
+  },
+  {
+    "question": "Để thu thập dữ liệu về 'mức độ hài lòng' của khách hàng, ta nên dùng thang đo nào?",
+    "options": ["Rất hài lòng, Hài lòng, Bình thường, Không hài lòng", "Có, Không", "Đo bằng thước", "Đếm số người"],
+    "correctAnswer": "Rất hài lòng, Hài lòng, Bình thường, Không hài lòng"
+  },
+  {
+    "question": "Dữ liệu 'số giờ ngủ mỗi đêm' là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Một biểu đồ cột có trục ngang là các quốc gia, trục đứng là dân số. Cột của Trung Quốc cao nhất. Kết luận nào đúng?",
+    "options": ["Trung Quốc có dân số đông nhất trong các quốc gia được biểu diễn", "Trung Quốc là nước lớn nhất", "Tất cả các nước khác có dân số bằng nhau", "Dân số Trung Quốc là 1.4 tỷ người"],
+    "correctAnswer": "Trung Quốc có dân số đông nhất trong các quốc gia được biểu diễn"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 270°. Tần số tương đối của A là:",
+    "options": ["75%", "270%", "3/4", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Dữ liệu nào sau đây không phải là số liệu?",
+    "options": ["Tên các bạn trong lớp", "Tuổi của các bạn", "Chiều cao của các bạn", "Cân nặng của các bạn"],
+    "correctAnswer": "Tên các bạn trong lớp"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng có các điểm dữ liệu không thẳng hàng. Điều này cho thấy:",
+    "options": ["Tốc độ thay đổi không đều", "Dữ liệu bị sai", "Biểu đồ vẽ sai", "Không có xu hướng"],
+    "correctAnswer": "Tốc độ thay đổi không đều"
+  },
+  {
+    "question": "Trong một cuộc điều tra, 80% trong số 500 người được hỏi trả lời 'Có'. Số người trả lời 'Có' là:",
+    "options": ["400", "80", "500", "100"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Dữ liệu 'nhóm máu' (A, B, AB, O) là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Một biểu đồ cột kép so sánh doanh thu năm 2022 và 2023 của một công ty. Nếu cột 2023 cao hơn cột 2022, điều đó có nghĩa là:",
+    "options": ["Doanh thu năm 2023 cao hơn năm 2022", "Công ty làm ăn có lãi", "Giá sản phẩm tăng", "Số lượng nhân viên tăng"],
+    "correctAnswer": "Doanh thu năm 2023 cao hơn năm 2022"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại sách trong thư viện. Tổng số sách là 2000 quyển. Nếu hình quạt 'Truyện tranh' chiếm 45°, số sách truyện tranh là:",
+    "options": ["250", "200", "450", "100"],
+    "correctAnswer": "250"
+  },
+  {
+    "question": "Dữ liệu 'số lần một học sinh đi học muộn trong một tháng' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy số ca bệnh giảm dần từ tháng 1 đến tháng 6. Nhận xét nào là hợp lý?",
+    "options": ["Tình hình dịch bệnh đang được kiểm soát tốt", "Thời tiết đang ấm lên", "Người dân đã tiêm vắc-xin", "Tất cả các nhận xét trên đều có thể hợp lý"],
+    "correctAnswer": "Tất cả các nhận xét trên đều có thể hợp lý"
+  },
+  {
+    "question": "Trong một cuộc khảo sát, 30% chọn A, 50% chọn B. Tỉ lệ người không chọn A cũng không chọn B là (biết chỉ có 3 lựa chọn A, B, C):",
+    "options": ["20%", "80%", "0%", "Không xác định"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Dữ liệu 'loại hình nhà ở' (chung cư, nhà riêng, biệt thự) là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Một biểu đồ cột có các cột biểu diễn điểm số của các học sinh. Cột cao nhất ứng với điểm 8. Điều này có nghĩa là:",
+    "options": ["Điểm 8 là mốt của mẫu số liệu", "Điểm cao nhất là 8", "Điểm trung bình là 8", "Không có ai được điểm 10"],
+    "correctAnswer": "Điểm 8 là mốt của mẫu số liệu"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 18°. Tần số tương đối của A là:",
+    "options": ["5%", "18%", "10%", "20%"],
+    "correctAnswer": "5%"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là số liệu rời rạc?",
+    "options": ["Số người trong một gia đình", "Chiều dài một con sông", "Cân nặng của một người", "Vận tốc của một chiếc xe"],
+    "correctAnswer": "Số người trong một gia đình"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy giá cổ phiếu của một công ty biến động liên tục. Để ra quyết định đầu tư, nhà đầu tư cần:",
+    "options": ["Phân tích xu hướng dài hạn và các yếu tố ảnh hưởng", "Chỉ nhìn vào điểm cao nhất", "Chỉ nhìn vào điểm thấp nhất", "Bán ra ngay lập tức"],
+    "correctAnswer": "Phân tích xu hướng dài hạn và các yếu tố ảnh hưởng"
+  },
+  {
+    "question": "Trong một cuộc điều tra, 150 người được hỏi. Tần số của một lựa chọn là 60. Tần số tương đối là:",
+    "options": ["40%", "60%", "150%", "2.5%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Dữ liệu 'thời gian xem TV mỗi ngày' là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Một biểu đồ cột kép so sánh số lượng nam và nữ tham gia các câu lạc bộ. Nếu tại CLB Cờ vua, cột nam cao hơn cột nữ, ta kết luận:",
+    "options": ["Số nam tham gia CLB Cờ vua nhiều hơn số nữ", "Nam chơi cờ giỏi hơn nữ", "Nữ không thích chơi cờ", "CLB Cờ vua chỉ dành cho nam"],
+    "correctAnswer": "Số nam tham gia CLB Cờ vua nhiều hơn số nữ"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn kết quả bầu cử. Ứng viên A chiếm 216°. Tỉ lệ phiếu bầu của ứng viên A là:",
+    "options": ["60%", "216%", "50%", "75%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là dữ liệu định tính?",
+    "options": ["Thương hiệu điện thoại", "Giá tiền điện thoại", "Dung lượng pin", "Kích thước màn hình"],
+    "correctAnswer": "Thương hiệu điện thoại"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy số lượng khách du lịch đến một thành phố đạt đỉnh vào tháng 7. Điều này có thể là do:",
+    "options": ["Tháng 7 là mùa du lịch hè", "Tháng 7 có thời tiết đẹp", "Học sinh được nghỉ hè", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong một cuộc khảo sát 300 người, có 120 người chọn 'Đồng ý'. Tần số tương đối của lựa chọn 'Đồng ý' là:",
+    "options": ["40%", "120%", "300%", "0.4%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Dữ liệu 'số trận thắng của một đội bóng trong một mùa giải' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải là số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Một biểu đồ cột có các cột biểu diễn doanh thu của các tháng. Tháng có cột cao nhất là:",
+    "options": ["Tháng có doanh thu cao nhất", "Tháng cuối cùng", "Tháng đầu tiên", "Tháng có lãi nhất"],
+    "correctAnswer": "Tháng có doanh thu cao nhất"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có hình quạt A chiếm 1/5 diện tích. Góc ở tâm của hình quạt A là:",
+    "options": ["72°", "36°", "90°", "60°"],
+    "correctAnswer": "72°"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là số liệu liên tục?",
+    "options": ["Lượng mưa hàng tháng", "Số ngày mưa trong tháng", "Số cơn bão trong năm", "Số học sinh nghỉ học"],
+    "correctAnswer": "Lượng mưa hàng tháng"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy giá xăng có xu hướng tăng. Người tiêu dùng nên làm gì?",
+    "options": ["Cân nhắc các phương tiện tiết kiệm nhiên liệu hơn", "Mua thật nhiều xăng tích trữ", "Không làm gì cả", "Chỉ đi bộ"],
+    "correctAnswer": "Cân nhắc các phương tiện tiết kiệm nhiên liệu hơn"
+  },
+  {
+    "question": "Một mẫu số liệu có 80 giá trị. Một giá trị có tần số tương đối là 12.5%. Tần số của giá trị đó là:",
+    "options": ["10", "12.5", "8", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Dữ liệu 'xếp hạng các bài hát' là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Một biểu đồ cột kép so sánh điểm trung bình môn Toán và Văn của các lớp. Nếu ở lớp 8A, cột Toán cao hơn cột Văn, ta kết luận:",
+    "options": ["Điểm trung bình môn Toán của lớp 8A cao hơn môn Văn", "Học sinh 8A học giỏi Toán hơn Văn", "Môn Toán khó hơn môn Văn", "Tất cả học sinh 8A đều có điểm Toán cao hơn Văn"],
+    "correctAnswer": "Điểm trung bình môn Toán của lớp 8A cao hơn môn Văn"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ đất trồng các loại cây. Cây lúa chiếm 180°. Tỉ lệ đất trồng lúa là:",
+    "options": ["50%", "180%", "1/2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Dữ liệu nào sau đây là số liệu rời rạc?",
+    "options": ["Số xe ô tô bán được mỗi ngày", "Vận tốc trung bình của ô tô", "Chiều dài của ô tô", "Lượng xăng tiêu thụ của ô tô"],
+    "correctAnswer": "Số xe ô tô bán được mỗi ngày"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy số lượng người dùng Internet tăng nhanh. Điều này cho thấy:",
+    "options": ["Sự phát triển của công nghệ và Internet", "Mọi người đều có máy tính", "Giá cước Internet rẻ", "Tất cả các đáp án trên"],
+    "correctAnswer": "Sự phát triển của công nghệ và Internet"
+  },
+  {
+    "question": "Trong một cuộc điều tra, 25% trong số 120 người được hỏi là nữ. Số người nữ là:",
+    "options": ["30", "25", "12", "40"],
+    "correctAnswer": "30"
+  }
+]
+
