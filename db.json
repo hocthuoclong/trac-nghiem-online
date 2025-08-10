@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Quan hệ song song trong không gian",
                   "file": "./data/math-11-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Giới hạn. Hàm số liên tục",
+                  "file": "./data/math-11-chapter-5.json"
                 }
               ]
             }
