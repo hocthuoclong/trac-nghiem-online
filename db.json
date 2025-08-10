@@ -12,6 +12,10 @@
                 {
                   "name": "Chương 1: Tập hợp các số tự nhiên",
                   "file": "./data/math-6-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Tính chia hết trong tập hợp các số tự nhiên",
+                  "file": "./data/math-6-chapter-2.json"
                 }
               ]
             },
