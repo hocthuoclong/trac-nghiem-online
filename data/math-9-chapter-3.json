@@ -1,0 +1,498 @@
+[
+  {
+    "question": "Căn bậc hai số học của 9 là:",
+    "options": ["3", "-3", "±3", "81"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Biểu thức √(x-2) có nghĩa khi:",
+    "options": ["x ≥ 2", "x > 2", "x ≤ 2", "x < 2"],
+    "correctAnswer": "x ≥ 2"
+  },
+  {
+    "question": "Kết quả của phép tính √16 là:",
+    "options": ["4", "±4", "8", "256"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Khai phương tích √49.√25 bằng:",
+    "options": ["35", "12", "70", "245"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Rút gọn biểu thức √( (√3 - 2)² ) ta được:",
+    "options": ["2 - √3", "√3 - 2", "1", "-1"],
+    "correctAnswer": "2 - √3"
+  },
+  {
+    "question": "Căn bậc ba của -27 là:",
+    "options": ["-3", "3", "±3", "Không có"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Đưa thừa số ra ngoài dấu căn của biểu thức √50 ta được:",
+    "options": ["5√2", "2√5", "25√2", "10"],
+    "correctAnswer": "5√2"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 1/√3 là:",
+    "options": ["√3/3", "√3", "3", "1/3"],
+    "correctAnswer": "√3/3"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-8) là:",
+    "options": ["-2", "2", "±2", "-4"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Biểu thức √(9a²) với a < 0 có kết quả là:",
+    "options": ["-3a", "3a", "3|a|", "9a"],
+    "correctAnswer": "-3a"
+  },
+  {
+    "question": "So sánh 3 và √8.",
+    "options": ["3 > √8", "3 < √8", "3 = √8", "Không so sánh được"],
+    "correctAnswer": "3 > √8"
+  },
+  {
+    "question": "Biểu thức 1/√(x-1) có nghĩa khi:",
+    "options": ["x > 1", "x ≥ 1", "x ≠ 1", "x < 1"],
+    "correctAnswer": "x > 1"
+  },
+  {
+    "question": "Kết quả của phép tính √1.44 là:",
+    "options": ["1.2", "12", "0.12", "±1.2"],
+    "correctAnswer": "1.2"
+  },
+  {
+    "question": "Khai phương thương √(16/81) bằng:",
+    "options": ["4/9", "±4/9", "2/9", "4/3"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Rút gọn biểu thức 2√3 + √27.",
+    "options": ["5√3", "2√30", "√33", "3√30"],
+    "correctAnswer": "5√3"
+  },
+  {
+    "question": "Căn bậc ba của 64 là:",
+    "options": ["4", "-4", "±4", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Đưa thừa số vào trong dấu căn của biểu thức 2√5 ta được:",
+    "options": ["√20", "√10", "√50", "√100"],
+    "correctAnswer": "√20"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 2/(√5 - 1) là:",
+    "options": ["(√5 + 1)/2", "2(√5 + 1)", "√5 + 1", "(√5 - 1)/2"],
+    "correctAnswer": "(√5 + 1)/2"
+  },
+  {
+    "question": "Kết quả của phép tính ³√125 là:",
+    "options": ["5", "-5", "±5", "25"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Biểu thức √(x-2)² có giá trị bằng:",
+    "options": ["|x-2|", "x-2", "2-x", "±(x-2)"],
+    "correctAnswer": "|x-2|"
+  },
+  {
+    "question": "Số nào sau đây có căn bậc hai số học là 0.5?",
+    "options": ["0.25", "2.5", "0.5", "5"],
+    "correctAnswer": "0.25"
+  },
+  {
+    "question": "Biểu thức √(4-2x) có nghĩa khi:",
+    "options": ["x ≤ 2", "x ≥ 2", "x < 2", "x > 2"],
+    "correctAnswer": "x ≤ 2"
+  },
+  {
+    "question": "Kết quả của phép tính (√12 - √3)√3 là:",
+    "options": ["3", "√9", "√27", "9"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Rút gọn biểu thức √(a⁴b²) với b ≥ 0.",
+    "options": ["a²b", "|a²b|", "a²|b|", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "So sánh 2√3 và 3√2.",
+    "options": ["2√3 < 3√2", "2√3 > 3√2", "2√3 = 3√2", "Không so sánh được"],
+    "correctAnswer": "2√3 < 3√2"
+  },
+  {
+    "question": "Căn bậc ba của một số a được ký hiệu là:",
+    "options": ["³√a", "√a", "a³", "a¹/³"],
+    "correctAnswer": "³√a"
+  },
+  {
+    "question": "Đưa thừa số ra ngoài dấu căn của biểu thức √72.",
+    "options": ["6√2", "3√8", "2√18", "36√2"],
+    "correctAnswer": "6√2"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 3/(2√3) là:",
+    "options": ["√3/2", "3√3/2", "2√3/3", "√3"],
+    "correctAnswer": "√3/2"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-0.001) là:",
+    "options": ["-0.1", "0.1", "-0.01", "0.01"],
+    "correctAnswer": "-0.1"
+  },
+  {
+    "question": "Biểu thức √(1 - 2x + x²) với x > 1 có kết quả là:",
+    "options": ["x - 1", "1 - x", "|x-1|", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Phương trình √x = 3 có nghiệm là:",
+    "options": ["x = 9", "x = ±3", "x = √3", "Vô nghiệm"],
+    "correctAnswer": "x = 9"
+  },
+  {
+    "question": "Biểu thức √(x² + 1) có nghĩa khi:",
+    "options": ["Với mọi x", "x ≥ 0", "x ≠ 0", "x ≥ -1"],
+    "correctAnswer": "Với mọi x"
+  },
+  {
+    "question": "Kết quả của phép tính √2 ⋅ √8 là:",
+    "options": ["4", "√10", "16", "2√2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Rút gọn biểu thức √18 - √8.",
+    "options": ["√2", "√10", "3√2 - 2√2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Số nào không có căn bậc hai?",
+    "options": ["-4", "0", "4", "0.25"],
+    "correctAnswer": "-4"
+  },
+  {
+    "question": "Phương trình ³√x = -2 có nghiệm là:",
+    "options": ["x = -8", "x = 8", "x = ±8", "Vô nghiệm"],
+    "correctAnswer": "x = -8"
+  },
+  {
+    "question": "Đưa thừa số vào trong dấu căn của biểu thức -3√2.",
+    "options": ["-√18", "√18", "√(-18)", "√12"],
+    "correctAnswer": "-√18"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 1/(√2 + √3) là:",
+    "options": ["√3 - √2", "-(√2 + √3)", "√2 - √3", "1"],
+    "correctAnswer": "√3 - √2"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(27/64) là:",
+    "options": ["3/4", "±3/4", "9/16", "3/8"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Biểu thức √(x-1)√(x-2) có nghĩa khi:",
+    "options": ["x ≥ 2", "x ≥ 1", "1 ≤ x ≤ 2", "x > 2"],
+    "correctAnswer": "x ≥ 2"
+  },
+  {
+    "question": "Phương trình x² = 5 có nghiệm là:",
+    "options": ["x = ±√5", "x = √5", "x = 5", "x = 25"],
+    "correctAnswer": "x = ±√5"
+  },
+  {
+    "question": "Biểu thức √(x)/√(x-3) có nghĩa khi:",
+    "options": ["x > 3", "x ≥ 0 và x ≠ 3", "x ≥ 3", "x > 0 và x ≠ 3"],
+    "correctAnswer": "x > 3"
+  },
+  {
+    "question": "Kết quả của phép tính √(1.6) ⋅ √(2.5) là:",
+    "options": ["2", "4", "√4.1", "2.05"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Rút gọn biểu thức (√12 + √75) / √3.",
+    "options": ["7", "√29", "√87/3", "2+5"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Căn bậc hai của một số a không âm là x sao cho:",
+    "options": ["x² = a", "x = √a", "x = a²", "x = a/2"],
+    "correctAnswer": "x² = a"
+  },
+  {
+    "question": "Phương trình ³√(x-1) = 2 có nghiệm là:",
+    "options": ["x = 9", "x = 7", "x = 3", "x = 5"],
+    "correctAnswer": "x = 9"
+  },
+  {
+    "question": "Đưa thừa số ra ngoài dấu căn của biểu thức √(28x²) với x ≤ 0.",
+    "options": ["-2x√7", "2x√7", "2|x|√7", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 6/(√7 - 1) là:",
+    "options": ["√7 + 1", "6(√7 + 1)", "(√7 + 1)/6", "√6"],
+    "correctAnswer": "√7 + 1"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-1) + ³√8 + ³√(-27) là:",
+    "options": ["-2", "0", "4", "-4"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Biểu thức √(x²(x-1)) có nghĩa khi:",
+    "options": ["x ≥ 1 hoặc x = 0", "x ≥ 1", "x ≥ 0", "x > 1"],
+    "correctAnswer": "x ≥ 1 hoặc x = 0"
+  },
+  {
+    "question": "Phương trình √x = -1 có bao nhiêu nghiệm?",
+    "options": ["0", "1", "2", "Vô số"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Biểu thức 1/√(2-x) có nghĩa khi:",
+    "options": ["x < 2", "x ≤ 2", "x > 2", "x ≠ 2"],
+    "correctAnswer": "x < 2"
+  },
+  {
+    "question": "Kết quả của phép tính √(√81) là:",
+    "options": ["3", "9", "±3", "±9"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Rút gọn biểu thức √(7 - 4√3).",
+    "options": ["2 - √3", "√3 - 2", "√7 - 2√3", "1"],
+    "correctAnswer": "2 - √3"
+  },
+  {
+    "question": "Căn bậc hai số học của 0.36 là:",
+    "options": ["0.6", "0.06", "±0.6", "0.18"],
+    "correctAnswer": "0.6"
+  },
+  {
+    "question": "Phương trình ³√x = 0 có nghiệm là:",
+    "options": ["x = 0", "x = 1", "Vô nghiệm", "Vô số nghiệm"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Đưa thừa số vào trong dấu căn của biểu thức x√2 với x < 0.",
+    "options": ["-√2x²", "√2x²", "√(-2x²)", "Không đưa được"],
+    "correctAnswer": "-√2x²"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 1/(2 - √3) là:",
+    "options": ["2 + √3", "2 - √3", "1", "4"],
+    "correctAnswer": "2 + √3"
+  },
+  {
+    "question": "Kết quả của phép tính ³√54 / ³√2 là:",
+    "options": ["3", "√27", "27", "³√27"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Biểu thức √(x-2)/(x-3) có nghĩa khi:",
+    "options": ["x ≥ 2 và x ≠ 3", "x > 3", "x ≥ 2", "Cả A và B"],
+    "correctAnswer": "x > 3"
+  },
+  {
+    "question": "Phương trình √(x-1) = 2 có nghiệm là:",
+    "options": ["x = 5", "x = 3", "x = 4", "x = 1"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Biểu thức √(x² - 2x + 1) có nghĩa khi:",
+    "options": ["Với mọi x", "x ≥ 1", "x ≤ 1", "x ≠ 1"],
+    "correctAnswer": "Với mọi x"
+  },
+  {
+    "question": "Kết quả của phép tính √50 / √2 là:",
+    "options": ["5", "25", "√25", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Rút gọn biểu thức 3√2 - 4√18 + 2√32.",
+    "options": ["-√2", "√2", "3√2 - 12√2 + 8√2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Số nào sau đây là số vô tỉ?",
+    "options": ["√2", "√4", "0", "-5"],
+    "correctAnswer": "√2"
+  },
+  {
+    "question": "Phương trình ³√x + 1 = 0 có nghiệm là:",
+    "options": ["x = -1", "x = 1", "x = 0", "Vô nghiệm"],
+    "correctAnswer": "x = -1"
+  },
+  {
+    "question": "Đưa thừa số ra ngoài dấu căn của biểu thức √(-16x) có nghĩa khi:",
+    "options": ["x ≤ 0", "x ≥ 0", "x < 0", "x > 0"],
+    "correctAnswer": "x ≤ 0"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 1/(√x - √y) là:",
+    "options": ["(√x + √y)/(x-y)", "(√x - √y)/(x-y)", "√x + √y", "x-y"],
+    "correctAnswer": "(√x + √y)/(x-y)"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-64) * ³√1000 là:",
+    "options": ["-40", "40", "-400", "400"],
+    "correctAnswer": "-40"
+  },
+  {
+    "question": "Biểu thức √(x² + 2x + 1) với x < -1 có kết quả là:",
+    "options": ["-x - 1", "x + 1", "|x+1|", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Phương trình √(x²) = 3 có nghiệm là:",
+    "options": ["x = ±3", "x = 3", "x = -3", "x = 9"],
+    "correctAnswer": "x = ±3"
+  },
+  {
+    "question": "Biểu thức √(x-1) + √(1-x) có nghĩa khi:",
+    "options": ["x = 1", "x > 1", "x < 1", "Vô nghiệm"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Kết quả của phép tính (√20 - 3√5 + √45)√5 là:",
+    "options": ["10", "20", "5", "15"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Rút gọn biểu thức √(9 + 4√5).",
+    "options": ["√5 + 2", "2 - √5", "√5 - 2", "3 + 2√5"],
+    "correctAnswer": "√5 + 2"
+  },
+  {
+    "question": "Căn bậc hai số học của 16/25 là:",
+    "options": ["4/5", "±4/5", "8/12.5", "2/5"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Phương trình ³√(2x-1) = ³√7 có nghiệm là:",
+    "options": ["x = 4", "x = 3", "x = 8", "x = 1"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Đưa thừa số vào trong dấu căn của biểu thức a√(-1/a) với a < 0.",
+    "options": ["-√(-a)", "√(-a)", "√a", "-√a"],
+    "correctAnswer": "-√(-a)"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 4/(3-√5) là:",
+    "options": ["3 + √5", "4(3+√5)", "(3+√5)/4", "3-√5"],
+    "correctAnswer": "3 + √5"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-0.216) là:",
+    "options": ["-0.6", "0.6", "-0.06", "0.06"],
+    "correctAnswer": "-0.6"
+  },
+  {
+    "question": "Biểu thức √(x-1)² + √(x-3)² với 1 < x < 3 có kết quả là:",
+    "options": ["2", "2x-4", "4-2x", "-2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phương trình √(x-2) = x-4 có nghiệm là:",
+    "options": ["x = 6", "x = 3", "x = 6 và x = 3", "Vô nghiệm"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Biểu thức √(x²-6x+9) có nghĩa khi:",
+    "options": ["Với mọi x", "x ≥ 3", "x ≤ 3", "x ≠ 3"],
+    "correctAnswer": "Với mọi x"
+  },
+  {
+    "question": "Kết quả của phép tính √(3-√5) ⋅ √(3+√5) là:",
+    "options": ["2", "4", "√4", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Rút gọn biểu thức 1/(√2+1) + 1/(√3+√2) + ... + 1/(√100+√99).",
+    "options": ["9", "10", "11", "√100 - 1"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Số nào có căn bậc hai là ±0.2?",
+    "options": ["0.04", "0.4", "0.2", "4"],
+    "correctAnswer": "0.04"
+  },
+  {
+    "question": "Phương trình ³√(x) = 1/2 có nghiệm là:",
+    "options": ["x = 1/8", "x = 1/4", "x = 1/6", "x = 8"],
+    "correctAnswer": "x = 1/8"
+  },
+  {
+    "question": "Đưa thừa số ra ngoài dấu căn của biểu thức √(48y⁴).",
+    "options": ["4y²√3", "4|y²|√3", "Cả A và B", "16y²√3"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức 1/(1+√2+√3) là:",
+    "options": ["(2+√2-√6)/4", "(2-√2+√6)/4", "1-√2-√3", "1"],
+    "correctAnswer": "(2+√2-√6)/4"
+  },
+  {
+    "question": "Kết quả của phép tính ³√16 ⋅ ³√4 là:",
+    "options": ["4", "³√64", "Cả A và B", "8"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức √(x²(x+1)²) có kết quả là:",
+    "options": ["|x(x+1)|", "x(x+1)", "-x(x+1)", "x²(x+1)²"],
+    "correctAnswer": "|x(x+1)|"
+  },
+  {
+    "question": "Phương trình √(x) = x có nghiệm là:",
+    "options": ["x=0 và x=1", "x=1", "x=0", "Vô nghiệm"],
+    "correctAnswer": "x=0 và x=1"
+  },
+  {
+    "question": "Biểu thức √(x-2) + 1/√(5-x) có nghĩa khi:",
+    "options": ["2 ≤ x < 5", "2 < x < 5", "x ≥ 2", "x < 5"],
+    "correctAnswer": "2 ≤ x < 5"
+  },
+  {
+    "question": "Kết quả của phép tính √(√2 - 1)² + √(√2 - 2)² là:",
+    "options": ["1", "2√2 - 3", "3 - 2√2", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Rút gọn biểu thức x + 3 + √(x²-6x+9) với x ≤ 3.",
+    "options": ["6", "2x", "2x+6", "0"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Căn bậc hai của 10 là:",
+    "options": ["±√10", "√10", "5", "100"],
+    "correctAnswer": "±√10"
+  },
+  {
+    "question": "Phương trình ³√(x³) = -5 có nghiệm là:",
+    "options": ["x = -5", "x = 5", "x = ±5", "Vô nghiệm"],
+    "correctAnswer": "x = -5"
+  },
+  {
+    "question": "Đưa thừa số vào trong dấu căn của biểu thức (1/2)√8.",
+    "options": ["√2", "√(1/4)*8", "Cả A và B", "√4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trục căn thức ở mẫu của biểu thức (a-b)/(√a-√b) là:",
+    "options": ["√a + √b", "√a - √b", "a-b", "1"],
+    "correctAnswer": "√a + √b"
+  },
+  {
+    "question": "Kết quả của phép tính ³√(-2) ⋅ ³√(-4) là:",
+    "options": ["2", "³√8", "Cả A và B", "-2"],
+    "correctAnswer": "Cả A và B"
+  }
+]
+
