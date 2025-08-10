@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Hình tam giác đều có đặc điểm gì?",
+    "options": ["Ba cạnh bằng nhau và ba góc bằng nhau", "Ba cạnh bằng nhau", "Ba góc bằng nhau", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Mỗi góc trong của một tam giác đều có số đo là:",
+    "options": ["60°", "90°", "180°", "45°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Hình vuông có đặc điểm nào sau đây?",
+    "options": ["4 cạnh bằng nhau, 4 góc vuông", "2 đường chéo bằng nhau và vuông góc", "Có 4 trục đối xứng", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Hình lục giác đều là hình có:",
+    "options": ["6 cạnh bằng nhau và 6 góc bằng nhau", "6 cạnh bằng nhau", "6 góc bằng nhau", "6 đường chéo chính bằng nhau"],
+    "correctAnswer": "6 cạnh bằng nhau và 6 góc bằng nhau"
+  },
+  {
+    "question": "Mỗi góc trong của một lục giác đều có số đo là:",
+    "options": ["120°", "60°", "108°", "180°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Hình chữ nhật có tính chất nào sau đây?",
+    "options": ["Hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Bốn góc không bằng nhau"],
+    "correctAnswer": "Hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường"
+  },
+  {
+    "question": "Hình thoi có tính chất nào sau đây?",
+    "options": ["Hai đường chéo vuông góc với nhau", "Bốn góc bằng nhau", "Hai đường chéo bằng nhau", "Các cạnh đối không song song"],
+    "correctAnswer": "Hai đường chéo vuông góc với nhau"
+  },
+  {
+    "question": "Hình bình hành có đặc điểm nào?",
+    "options": ["Các cạnh đối song song và bằng nhau", "Bốn cạnh bằng nhau", "Bốn góc vuông", "Hai đường chéo vuông góc"],
+    "correctAnswer": "Các cạnh đối song song và bằng nhau"
+  },
+  {
+    "question": "Hình thang cân là hình thang có:",
+    "options": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên song song", "Hai cạnh đáy bằng nhau", "Bốn góc vuông"],
+    "correctAnswer": "Hai góc kề một đáy bằng nhau"
+  },
+  {
+    "question": "Trong hình thang cân, hai đường chéo:",
+    "options": ["Bằng nhau", "Vuông góc với nhau", "Song song với nhau", "Không bằng nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Chu vi của tam giác đều có cạnh 5cm là:",
+    "options": ["15cm", "10cm", "25cm", "125cm"],
+    "correctAnswer": "15cm"
+  },
+  {
+    "question": "Diện tích của hình vuông có cạnh 6cm là:",
+    "options": ["36 cm²", "24 cm²", "12 cm²", "60 cm²"],
+    "correctAnswer": "36 cm²"
+  },
+  {
+    "question": "Chu vi của hình chữ nhật có chiều dài 8cm và chiều rộng 5cm là:",
+    "options": ["26cm", "13cm", "40cm", "40cm²"],
+    "correctAnswer": "26cm"
+  },
+  {
+    "question": "Diện tích của hình chữ nhật có chiều dài 10cm và chiều rộng 7cm là:",
+    "options": ["70 cm²", "34 cm", "17 cm²", "70 cm"],
+    "correctAnswer": "70 cm²"
+  },
+  {
+    "question": "Diện tích của hình thoi có độ dài hai đường chéo là 6cm và 8cm là:",
+    "options": ["24 cm²", "48 cm²", "14 cm²", "28 cm²"],
+    "correctAnswer": "24 cm²"
+  },
+  {
+    "question": "Diện tích của hình bình hành có cạnh đáy 12cm và chiều cao tương ứng 5cm là:",
+    "options": ["60 cm²", "30 cm²", "17 cm²", "34 cm²"],
+    "correctAnswer": "60 cm²"
+  },
+  {
+    "question": "Diện tích của hình thang có hai đáy là 7cm, 9cm và chiều cao 4cm là:",
+    "options": ["32 cm²", "64 cm²", "20 cm²", "16 cm²"],
+    "correctAnswer": "32 cm²"
+  },
+  {
+    "question": "Một tam giác đều có chu vi 24cm. Độ dài cạnh của nó là:",
+    "options": ["8cm", "6cm", "4cm", "12cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Hình vuông có bao nhiêu trục đối xứng?",
+    "options": ["4", "2", "1", "Vô số"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hình lục giác đều được ghép bởi bao nhiêu tam giác đều có cùng cạnh?",
+    "options": ["6", "4", "5", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Hình nào sau đây không phải là hình bình hành?",
+    "options": ["Hình thang cân", "Hình chữ nhật", "Hình thoi", "Hình vuông"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Trong các hình sau, hình nào có hai đường chéo bằng nhau?",
+    "options": ["Hình chữ nhật, hình vuông, hình thang cân", "Hình thoi, hình bình hành", "Chỉ hình vuông", "Chỉ hình chữ nhật"],
+    "correctAnswer": "Hình chữ nhật, hình vuông, hình thang cân"
+  },
+  {
+    "question": "Chu vi của hình thoi có cạnh 7cm là:",
+    "options": ["28cm", "14cm", "49cm", "21cm"],
+    "correctAnswer": "28cm"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 48 cm² và chiều rộng 6cm. Chiều dài của nó là:",
+    "options": ["8cm", "12cm", "24cm", "42cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Một hình thang có diện tích 50 cm², chiều cao 5cm. Tổng độ dài hai đáy của nó là:",
+    "options": ["20cm", "10cm", "25cm", "100cm"],
+    "correctAnswer": "20cm"
+  },
+  {
+    "question": "Tam giác đều có mấy trục đối xứng?",
+    "options": ["3", "1", "0", "Vô số"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong hình vuông, hai đường chéo có tính chất:",
+    "options": ["Bằng nhau, vuông góc, cắt nhau tại trung điểm mỗi đường", "Bằng nhau nhưng không vuông góc", "Vuông góc nhưng không bằng nhau", "Không có tính chất đặc biệt"],
+    "correctAnswer": "Bằng nhau, vuông góc, cắt nhau tại trung điểm mỗi đường"
+  },
+  {
+    "question": "Hình lục giác đều có mấy trục đối xứng?",
+    "options": ["6", "3", "12", "Vô số"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Trong hình bình hành, hai góc đối thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không bằng nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Hình chữ nhật có một cạnh 5cm, một cạnh 12cm. Chu vi của nó là:",
+    "options": ["34cm", "17cm", "60cm", "60cm²"],
+    "correctAnswer": "34cm"
+  },
+  {
+    "question": "Một hình thoi có chu vi 20cm. Độ dài cạnh của nó là:",
+    "options": ["5cm", "10cm", "4cm", "20cm"],
+    "correctAnswer": "5cm"
+  },
+  {
+    "question": "Một hình bình hành có chu vi 30cm, một cạnh dài 9cm. Cạnh kề với nó dài:",
+    "options": ["6cm", "21cm", "15cm", "12cm"],
+    "correctAnswer": "6cm"
+  },
+  {
+    "question": "Một hình thang cân có hai cạnh bên bằng nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi là hình chữ nhật", "Chỉ đúng khi đáy nhỏ bằng cạnh bên"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Chu vi của một lục giác đều có cạnh 4cm là:",
+    "options": ["24cm", "12cm", "16cm", "20cm"],
+    "correctAnswer": "24cm"
+  },
+  {
+    "question": "Một sân chơi hình vuông có chu vi 100m. Diện tích sân chơi là:",
+    "options": ["625 m²", "1000 m²", "2500 m²", "400 m²"],
+    "correctAnswer": "625 m²"
+  },
+  {
+    "question": "Hình nào sau đây có các cặp cạnh đối song song?",
+    "options": ["Hình bình hành, hình chữ nhật, hình thoi, hình vuông", "Hình thang cân", "Tam giác", "Lục giác đều"],
+    "correctAnswer": "Hình bình hành, hình chữ nhật, hình thoi, hình vuông"
+  },
+  {
+    "question": "Trong hình thoi, hai đường chéo là:",
+    "options": ["Đường phân giác của các góc", "Bằng nhau", "Không vuông góc", "Cắt nhau ngoài hình"],
+    "correctAnswer": "Đường phân giác của các góc"
+  },
+  {
+    "question": "Một hình thang có đáy lớn 15cm, đáy nhỏ 9cm, chiều cao bằng trung bình cộng hai đáy. Diện tích hình thang là:",
+    "options": ["144 cm²", "120 cm²", "72 cm²", "288 cm²"],
+    "correctAnswer": "144 cm²"
+  },
+  {
+    "question": "Hình nào có tâm đối xứng là giao điểm hai đường chéo?",
+    "options": ["Hình bình hành, hình chữ nhật, hình thoi, hình vuông", "Hình thang cân", "Tam giác đều", "Lục giác đều"],
+    "correctAnswer": "Hình bình hành, hình chữ nhật, hình thoi, hình vuông"
+  },
+  {
+    "question": "Hình chữ nhật là một trường hợp đặc biệt của:",
+    "options": ["Hình bình hành và hình thang cân", "Chỉ hình bình hành", "Chỉ hình thang cân", "Hình thoi"],
+    "correctAnswer": "Hình bình hành và hình thang cân"
+  },
+  {
+    "question": "Một mảnh vườn hình thoi có độ dài hai đường chéo là 16m và 12m. Chu vi mảnh vườn là:",
+    "options": ["40m", "28m", "56m", "96m"],
+    "correctAnswer": "40m"
+  },
+  {
+    "question": "Một cái sân hình chữ nhật có diện tích 120m². Biết chiều dài là 15m. Cần bao nhiêu viên gạch hình vuông cạnh 50cm để lát kín sân?",
+    "options": ["480 viên", "240 viên", "300 viên", "600 viên"],
+    "correctAnswer": "480 viên"
+  },
+  {
+    "question": "Hình bình hành có hai cạnh kề bằng nhau là hình gì?",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Hình thang"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình thoi có một góc vuông là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Trong hình thang cân, hai cạnh bên:",
+    "options": ["Bằng nhau", "Song song", "Không bằng nhau", "Vuông góc"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một tam giác đều có diện tích 4√3 cm². Cạnh của tam giác đó là:",
+    "options": ["4cm", "2cm", "8cm", "16cm"],
+    "correctAnswer": "4cm"
+  },
+  {
+    "question": "Chu vi hình vuông có đường chéo dài 8√2 cm là:",
+    "options": ["32cm", "8cm", "16cm", "64cm"],
+    "correctAnswer": "32cm"
+  },
+  {
+    "question": "Diện tích hình lục giác đều có cạnh 6cm là:",
+    "options": ["54√3 cm²", "36√3 cm²", "108√3 cm²", "216 cm²"],
+    "correctAnswer": "54√3 cm²"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 28cm. Nếu giảm chiều dài 2cm và tăng chiều rộng 2cm thì nó trở thành hình vuông. Diện tích hình chữ nhật ban đầu là:",
+    "options": ["48 cm²", "49 cm²", "45 cm²", "40 cm²"],
+    "correctAnswer": "45 cm²"
+  },
+  {
+    "question": "Một hình thoi có cạnh 13cm, một đường chéo 10cm. Diện tích hình thoi đó là:",
+    "options": ["120 cm²", "60 cm²", "130 cm²", "240 cm²"],
+    "correctAnswer": "120 cm²"
+  },
+  {
+    "question": "Một hình bình hành có hai cạnh kề là 5cm và 8cm. Chu vi của nó là:",
+    "options": ["26cm", "13cm", "40cm", "32cm"],
+    "correctAnswer": "26cm"
+  },
+  {
+    "question": "Một hình thang cân có đáy nhỏ 6cm, cạnh bên 5cm, chiều cao 4cm. Diện tích hình thang là:",
+    "options": ["40 cm²", "32 cm²", "48 cm²", "22 cm²"],
+    "correctAnswer": "40 cm²"
+  },
+  {
+    "question": "Hình nào có tất cả các cạnh bằng nhau?",
+    "options": ["Tam giác đều, hình thoi, hình vuông", "Chỉ hình vuông", "Chỉ hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Tam giác đều, hình thoi, hình vuông"
+  },
+  {
+    "question": "Hình nào có tất cả các góc bằng nhau?",
+    "options": ["Tam giác đều, hình vuông, hình chữ nhật, lục giác đều", "Chỉ hình vuông", "Chỉ hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Tam giác đều, hình vuông, hình chữ nhật, lục giác đều"
+  },
+  {
+    "question": "Một mảnh đất hình thang có tổng hai đáy là 45m. Nếu tăng đáy lớn thêm 5m thì diện tích tăng thêm 20m². Chiều cao mảnh đất là:",
+    "options": ["8m", "4m", "10m", "5m"],
+    "correctAnswer": "8m"
+  },
+  {
+    "question": "Chu vi của một hình bình hành bằng 40cm. Cạnh lớn hơn cạnh bé 4cm. Độ dài cạnh lớn là:",
+    "options": ["12cm", "8cm", "16cm", "22cm"],
+    "correctAnswer": "12cm"
+  },
+  {
+    "question": "Hình chữ nhật ABCD có AB=8cm, BC=6cm. O là giao điểm hai đường chéo. Độ dài đoạn AO là:",
+    "options": ["5cm", "10cm", "4cm", "3cm"],
+    "correctAnswer": "5cm"
+  },
+  {
+    "question": "Hình thoi có hai đường chéo vuông góc với nhau tại trung điểm của mỗi đường. Đây là:",
+    "options": ["Tính chất", "Định nghĩa", "Dấu hiệu nhận biết", "Tiên đề"],
+    "correctAnswer": "Tính chất"
+  },
+  {
+    "question": "Một hình thang có diện tích 100 cm², hiệu hai đáy là 8cm, chiều cao là 10cm. Độ dài đáy lớn là:",
+    "options": ["14cm", "6cm", "20cm", "12cm"],
+    "correctAnswer": "14cm"
+  },
+  {
+    "question": "Tam giác đều có cạnh a. Chiều cao của nó là:",
+    "options": ["(a√3)/2", "a/2", "a√2", "a"],
+    "correctAnswer": "(a√3)/2"
+  },
+  {
+    "question": "Một cái sân hình vuông được lát bởi các viên gạch hình vuông nhỏ. Nếu cạnh sân gấp 3 lần cạnh viên gạch thì cần bao nhiêu viên gạch?",
+    "options": ["9", "3", "6", "12"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Hình lục giác đều có thể được chia thành các hình nào sau đây?",
+    "options": ["6 tam giác đều", "2 hình thang cân", "Cả A và B đều đúng", "3 hình thoi"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là hình gì?",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Hình thang"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là hình gì?",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thang", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Chu vi của một hình thoi bằng chu vi của một hình vuông có cạnh 10cm. Cạnh của hình thoi là:",
+    "options": ["10cm", "40cm", "20cm", "5cm"],
+    "correctAnswer": "10cm"
+  },
+  {
+    "question": "Diện tích hình bình hành ABCD có AB=6, AD=4 và chiều cao AH xuống CD là 3 là:",
+    "options": ["18", "12", "24", "20"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Một hình thang có đáy nhỏ bằng chiều cao và bằng nửa đáy lớn. Nếu đáy nhỏ là 6cm thì diện tích hình thang là:",
+    "options": ["54 cm²", "36 cm²", "108 cm²", "72 cm²"],
+    "correctAnswer": "54 cm²"
+  },
+  {
+    "question": "Một tam giác đều và một hình vuông có cùng chu vi. Nếu cạnh tam giác là 4cm thì cạnh hình vuông là:",
+    "options": ["3cm", "4cm", "12cm", "6cm"],
+    "correctAnswer": "3cm"
+  },
+  {
+    "question": "Một hình vuông có diện tích 81 cm². Đường chéo của hình vuông đó là:",
+    "options": ["9√2 cm", "9 cm", "18 cm", "81 cm"],
+    "correctAnswer": "9√2 cm"
+  },
+  {
+    "question": "Trong lục giác đều ABCDEF, các đường chéo chính AD, BE, CF:",
+    "options": ["Đồng quy và bằng nhau", "Không bằng nhau", "Song song với nhau", "Vuông góc với nhau"],
+    "correctAnswer": "Đồng quy và bằng nhau"
+  },
+  {
+    "question": "Hình chữ nhật có một đường chéo là phân giác của một góc là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Không thể"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hình thoi có hai đường chéo bằng nhau là:",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Không thể"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Trong hình bình hành ABCD, O là giao điểm hai đường chéo. Khẳng định nào sai?",
+    "options": ["AO = BO", "AO = OC", "BO = OD", "ΔOAB = ΔOCD"],
+    "correctAnswer": "AO = BO"
+  },
+  {
+    "question": "Hình thang cân có một góc vuông là hình gì?",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thang vuông", "Không thể"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Chu vi của một hình thang cân có cạnh bên 5cm và hai đáy 6cm, 12cm là:",
+    "options": ["28cm", "23cm", "32cm", "18cm"],
+    "correctAnswer": "28cm"
+  },
+  {
+    "question": "Diện tích của một tam giác đều cạnh 2cm là:",
+    "options": ["√3 cm²", "2√3 cm²", "4√3 cm²", "1 cm²"],
+    "correctAnswer": "√3 cm²"
+  },
+  {
+    "question": "Một hình vuông có chu vi 20m. Diện tích của nó là:",
+    "options": ["25 m²", "20 m²", "100 m²", "400 m²"],
+    "correctAnswer": "25 m²"
+  },
+  {
+    "question": "Một hình lục giác đều có chu vi 30cm. Độ dài cạnh của nó là:",
+    "options": ["5cm", "6cm", "3cm", "10cm"],
+    "correctAnswer": "5cm"
+  },
+  {
+    "question": "Hình chữ nhật và hình bình hành có cùng đáy và cùng chiều cao thì diện tích của chúng:",
+    "options": ["Bằng nhau", "Diện tích hình chữ nhật lớn hơn", "Diện tích hình bình hành lớn hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một hình thoi có diện tích 40 cm² và một đường chéo dài 10cm. Đường chéo còn lại dài:",
+    "options": ["8cm", "4cm", "20cm", "5cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Một hình thang có đáy lớn gấp đôi đáy nhỏ. Chiều cao bằng đáy nhỏ. Nếu đáy nhỏ là a thì diện tích là:",
+    "options": ["3a²/2", "2a²", "a²", "3a²"],
+    "correctAnswer": "3a²/2"
+  },
+  {
+    "question": "Hình nào có số trục đối xứng bằng số cạnh?",
+    "options": ["Hình vuông, Lục giác đều", "Tam giác đều", "Hình thoi", "Tất cả các đáp án trên"],
+    "correctAnswer": "Hình vuông, Lục giác đều"
+  },
+  {
+    "question": "Trong các hình: tam giác đều, hình vuông, hình chữ nhật, hình thoi, hình bình hành, hình thang cân, hình nào không có tâm đối xứng?",
+    "options": ["Tam giác đều, Hình thang cân", "Hình bình hành", "Hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Tam giác đều, Hình thang cân"
+  },
+  {
+    "question": "Một cái khung ảnh hình chữ nhật có kích thước 20cm x 30cm. Diện tích của khung ảnh là:",
+    "options": ["600 cm²", "100 cm", "50 cm²", "60 cm²"],
+    "correctAnswer": "600 cm²"
+  },
+  {
+    "question": "Một viên gạch lát nền hình vuông có cạnh 40cm. Diện tích của nó là:",
+    "options": ["1600 cm²", "160 cm²", "80 cm²", "400 cm²"],
+    "correctAnswer": "1600 cm²"
+  },
+  {
+    "question": "Một cái ao hình thang có trung bình cộng hai đáy là 25m và chiều cao là 12m. Diện tích cái ao là:",
+    "options": ["300 m²", "150 m²", "600 m²", "37 m²"],
+    "correctAnswer": "300 m²"
+  },
+  {
+    "question": "Một hình bình hành có diện tích 72 cm² và cạnh đáy 9cm. Chiều cao tương ứng là:",
+    "options": ["8cm", "9cm", "6cm", "12cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Hai đường chéo của hình chữ nhật thì:",
+    "options": ["Bằng nhau", "Vuông góc", "Là phân giác các góc", "Không có tính chất gì đặc biệt"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một hình thoi có các góc bằng 60° và 120°. Nếu cạnh của nó là a thì đường chéo ngắn có độ dài là:",
+    "options": ["a", "a√3", "2a", "a/2"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Một hình thang cân có một góc ở đáy bằng 60°. Góc kề với cạnh bên ở đáy còn lại là:",
+    "options": ["120°", "60°", "90°", "Không xác định"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Tứ giác có 4 cạnh bằng nhau và 4 góc bằng nhau là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  }
+]
+
