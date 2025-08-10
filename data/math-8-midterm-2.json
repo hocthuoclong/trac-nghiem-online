@@ -1,5 +1,4 @@
 [
-  // --- Chương 6: Phân thức đại số ---
   {
     "question": "Biểu thức nào sau đây là một phân thức đại số?",
     "options": ["(x² + 1) / (x - 2)", "x² - 3x + 5", "sqrt(x) / 2", "5 / 0"],
@@ -9,11 +8,6 @@
     "question": "Điều kiện xác định của phân thức (3x + 1) / (x - 5) là gì?",
     "options": ["x ≠ 5", "x ≠ -5", "x ≠ 1/3", "x ≠ -1/3"],
     "correctAnswer": "x ≠ 5"
-  },
-  {
-    "question": "Với điều kiện nào của x thì giá trị của phân thức (x - 1) / (x + 1) được xác định?",
-    "options": ["x ≠ -1", "x ≠ 1", "x = -1", "x = 1"],
-    "correctAnswer": "x ≠ -1"
   },
   {
     "question": "Phân thức (x² - 4) / (x + 2) bằng phân thức nào sau đây?",
@@ -34,11 +28,6 @@
     "question": "Sử dụng quy tắc đổi dấu, phân thức (A) / (-B) bằng với phân thức nào?",
     "options": ["(-A) / B", "A / B", "(-A) / (-B)", "- (A / -B)"],
     "correctAnswer": "(-A) / B"
-  },
-  {
-    "question": "Mẫu thức chung của hai phân thức 1/(2x) và 1/(3y) là:",
-    "options": ["6xy", "5xy", "2x + 3y", "xy"],
-    "correctAnswer": "6xy"
   },
   {
     "question": "Mẫu thức chung của hai phân thức 1/(x-1) và 1/(x+1) là:",
@@ -81,11 +70,6 @@
     "correctAnswer": "y/x"
   },
   {
-    "question": "Kết quả của phép nhân (x-1)/y * y²/(x-1)² là:",
-    "options": ["y / (x-1)", "(x-1) / y", "y", "1/(x-1)"],
-    "correctAnswer": "y / (x-1)"
-  },
-  {
     "question": "Phân thức nghịch đảo của phân thức (x+3)/(y-2) là:",
     "options": ["(y-2)/(x+3)", "(x+3)/(2-y)", "-(x+3)/(y-2)", "1"],
     "correctAnswer": "(y-2)/(x+3)"
@@ -101,19 +85,9 @@
     "correctAnswer": "x + 3"
   },
   {
-    "question": "Điều kiện xác định của phân thức 1/(x²-1) là:",
-    "options": ["x ≠ 1 và x ≠ -1", "x ≠ 1", "x ≠ -1", "x ≠ 0"],
-    "correctAnswer": "x ≠ 1 và x ≠ -1"
-  },
-  {
     "question": "Giá trị của phân thức (x+2)/(x-1) tại x = 2 là:",
     "options": ["4", "0", "2", "Không xác định"],
     "correctAnswer": "4"
-  },
-  {
-    "question": "Rút gọn phân thức (x²+2x+1)/(x+1) ta được:",
-    "options": ["x + 1", "x - 1", "1", "x"],
-    "correctAnswer": "x + 1"
   },
   {
     "question": "Mẫu thức chung đơn giản nhất của 1/(x²-4) và 1/(x+2) là:",
@@ -121,34 +95,9 @@
     "correctAnswer": "x² - 4"
   },
   {
-    "question": "Kết quả của phép tính (x/(x+y)) + (y/(x+y)) là:",
-    "options": ["1", "x+y", "xy", "x/y"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Kết quả của phép tính (2x-1)/(x-y) - (x+y-1)/(x-y) là:",
-    "options": ["(x-y)/(x-y)", "1", "x-y", "Cả A và B đều đúng"],
-    "correctAnswer": "Cả A và B đều đúng"
-  },
-  {
-    "question": "Kết quả của phép tính (x+1)/x * x²/(x+1) là:",
-    "options": ["x", "1", "x²", "x+1"],
-    "correctAnswer": "x"
-  },
-  {
-    "question": "Kết quả của phép tính (a/b) : (a/b) với a, b ≠ 0 là:",
-    "options": ["1", "a²/b²", "0", "a+b"],
-    "correctAnswer": "1"
-  },
-  {
     "question": "Biểu thức C = (1 - 1/x) : (1 + 1/x). Rút gọn C ta được:",
     "options": ["(x-1)/(x+1)", "(x+1)/(x-1)", "x-1", "x+1"],
     "correctAnswer": "(x-1)/(x+1)"
-  },
-  {
-    "question": "Điều kiện của x để giá trị phân thức (x+5)/(x²-25) được xác định là:",
-    "options": ["x ≠ 5 và x ≠ -5", "x ≠ 5", "x ≠ -5", "x = 5"],
-    "correctAnswer": "x ≠ 5 và x ≠ -5"
   },
   {
     "question": "Phân thức (2(x-y))/(y-x) sau khi rút gọn là:",
@@ -156,19 +105,9 @@
     "correctAnswer": "-2"
   },
   {
-    "question": "Mẫu thức chung của ba phân thức 1/x, 1/y, 1/z là:",
-    "options": ["xyz", "x+y+z", "xy+yz+zx", "1"],
-    "correctAnswer": "xyz"
-  },
-  {
     "question": "Thực hiện phép tính 1/x - 1/(x+1) ta được:",
     "options": ["1/(x(x+1))", "-1/(x(x+1))", "x/(x+1)", "(x-1)/x"],
     "correctAnswer": "1/(x(x+1))"
-  },
-  {
-    "question": "Thực hiện phép tính (x+2)/3 + (x-2)/3 ta được:",
-    "options": ["2x/3", "4/3", "2x", "x"],
-    "correctAnswer": "2x/3"
   },
   {
     "question": "Thực hiện phép nhân (x²-1)/(x) * (x²)/(x+1) ta được:",
@@ -181,44 +120,14 @@
     "correctAnswer": "100"
   },
   {
-    "question": "Phân thức nào không phải là phân thức đối của (x-2)/(x+2)?",
-    "options": ["(x-2)/-(x+2)", "(2-x)/(x+2)", "-(x-2)/(x+2)", "(x+2)/(x-2)"],
-    "correctAnswer": "(x+2)/(x-2)"
-  },
-  {
-    "question": "Kết quả của phép chia (4x²y) / (2xy) là:",
-    "options": ["2x", "2y", "2", "2xy"],
-    "correctAnswer": "2x"
-  },
-  {
     "question": "Rút gọn biểu thức (1/x + 1/y) * (xy) ta được:",
     "options": ["y + x", "1", "2", "xy"],
     "correctAnswer": "y + x"
   },
   {
-    "question": "Điều kiện xác định của phân thức (x²+y²)/(xy) là:",
-    "options": ["x ≠ 0 và y ≠ 0", "x ≠ 0", "y ≠ 0", "x, y bất kỳ"],
-    "correctAnswer": "x ≠ 0 và y ≠ 0"
-  },
-  {
     "question": "Phân thức (x³+1)/(x+1) rút gọn thành:",
     "options": ["x² - x + 1", "x² + 1", "x² - 1", "x² + x + 1"],
     "correctAnswer": "x² - x + 1"
-  },
-  {
-    "question": "Mẫu thức chung của 1/(x-y) và 1/(y-x) là:",
-    "options": ["x - y", "y - x", "(x-y)(y-x)", "Cả A và B đều đúng"],
-    "correctAnswer": "Cả A và B đều đúng"
-  },
-  {
-    "question": "Kết quả của (x/(x-y)) - (y/(x-y)) là:",
-    "options": ["1", "(x-y)/(x-y)", "x-y", "Cả A và B đều đúng"],
-    "correctAnswer": "Cả A và B đều đúng"
-  },
-  {
-    "question": "Kết quả của (x+1)² / (x+1) là:",
-    "options": ["x + 1", "(x+1)²", "1", "x"],
-    "correctAnswer": "x + 1"
   },
   {
     "question": "Phép tính (x/2) * (4/x²) có kết quả là:",
@@ -231,24 +140,9 @@
     "correctAnswer": "y/x"
   },
   {
-    "question": "Tìm x, biết (x+1)/2 = 3. Giá trị của x là:",
-    "options": ["5", "6", "2", "4"],
-    "correctAnswer": "5"
-  },
-  {
-    "question": "Rút gọn A = (x²-y²)/(x+y) ta được:",
-    "options": ["x - y", "x + y", "x² + y²", "1"],
-    "correctAnswer": "x - y"
-  },
-  {
     "question": "Điều kiện xác định của phân thức 1/(x² + 1) là:",
     "options": ["Mọi x thuộc R", "x ≠ 1", "x ≠ -1", "x ≠ 0"],
     "correctAnswer": "Mọi x thuộc R"
-  },
-  {
-    "question": "Kết quả của phép tính (2/(x-1)) - (2/(x+1)) là:",
-    "options": ["4 / (x² - 1)", "0", "-4 / (x² - 1)", "2x / (x² - 1)"],
-    "correctAnswer": "4 / (x² - 1)"
   },
   {
     "question": "Phân thức (3x+3)/(3x) rút gọn là:",
@@ -256,44 +150,14 @@
     "correctAnswer": "(x+1)/x"
   },
   {
-    "question": "Mẫu thức chung của 1/x, 1/x², 1/x³ là:",
-    "options": ["x³", "x⁶", "x", "3x"],
-    "correctAnswer": "x³"
-  },
-  {
-    "question": "Kết quả của (x+y) + (x-y) / 2 là:",
-    "options": ["(3x+y)/2", "x", "3x/2", "x+y"],
-    "correctAnswer": "(3x+y)/2"
-  },
-  {
-    "question": "Kết quả của (x²y) * (1/xy) là:",
-    "options": ["x", "y", "xy", "1"],
-    "correctAnswer": "x"
-  },
-  {
     "question": "Kết quả của (1/x) : (1/x²) là:",
     "options": ["x", "1/x", "x²", "1"],
     "correctAnswer": "x"
   },
   {
-    "question": "Giá trị của phân thức (2a-b)/(a+b) với a=1, b=1 là:",
-    "options": ["1/2", "1", "2", "0"],
-    "correctAnswer": "1/2"
-  },
-  {
     "question": "Phân thức (x-5)/(5-x) bằng:",
     "options": ["-1", "1", "x-5", "5-x"],
     "correctAnswer": "-1"
-  },
-  {
-    "question": "Điều kiện xác định của (x-1)/(x(x+2)) là:",
-    "options": ["x ≠ 0 và x ≠ -2", "x ≠ 0", "x ≠ -2", "x ≠ 1"],
-    "correctAnswer": "x ≠ 0 và x ≠ -2"
-  },
-  {
-    "question": "Rút gọn (8xy²)/(12x²y) ta được:",
-    "options": ["2y / 3x", "2x / 3y", "2/3", "xy"],
-    "correctAnswer": "2y / 3x"
   },
   {
     "question": "Mẫu thức chung của 1/(x+1) và 1/(x+1)² là:",
@@ -311,54 +175,9 @@
     "correctAnswer": "(x²-y²)/(xy)"
   },
   {
-    "question": "Kết quả của (x+1)/y * y/(x+1) là:",
-    "options": ["1", "x+1", "y", "0"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Kết quả của (x³-1)/(x-1) là:",
-    "options": ["x² + x + 1", "x² - 1", "x+1", "x-1"],
-    "correctAnswer": "x² + x + 1"
-  },
-  {
-    "question": "Biểu thức nào không phải là phân thức đại số?",
-    "options": ["(x+1)/sqrt(y)", "3x", "(x-y)/(x+y)", "7"],
-    "correctAnswer": "(x+1)/sqrt(y)"
-  },
-  {
     "question": "Giá trị của phân thức (x-3)/(x+4) bằng 0 khi:",
     "options": ["x = 3", "x = -4", "x = 0", "x = -3"],
     "correctAnswer": "x = 3"
-  },
-  {
-    "question": "Phân thức (x²+4x+4)/(x+2) rút gọn là:",
-    "options": ["x + 2", "x - 2", "x+4", "1"],
-    "correctAnswer": "x + 2"
-  },
-  {
-    "question": "Quy đồng mẫu thức của 1/(x-2) và 1/(x²-4) ta được:",
-    "options": ["(x+2)/(x²-4) và 1/(x²-4)", "1/(x²-4) và 1/(x²-4)", "x+2 và 1", "Không quy đồng được"],
-    "correctAnswer": "(x+2)/(x²-4) và 1/(x²-4)"
-  },
-  {
-    "question": "Phép tính (a/c) + (b/c) có kết quả là:",
-    "options": ["(a+b)/c", "ab/c", "ab/c²", "a+b"],
-    "correctAnswer": "(a+b)/c"
-  },
-  {
-    "question": "Phép tính (x+5)/y - 5/y có kết quả là:",
-    "options": ["x/y", "x", "y", "5"],
-    "correctAnswer": "x/y"
-  },
-  {
-    "question": "Phép tính (x/3) * (6/x) có kết quả là:",
-    "options": ["2", "x²/18", "18/x²", "6"],
-    "correctAnswer": "2"
-  },
-  {
-    "question": "Phép tính (2/x) : (4/x²) có kết quả là:",
-    "options": ["x/2", "2/x", "8/x³", "x³/8"],
-    "correctAnswer": "x/2"
   },
   {
     "question": "Rút gọn biểu thức (x/y + 1) / (x/y - 1) ta được:",
@@ -366,39 +185,9 @@
     "correctAnswer": "(x+y)/(x-y)"
   },
   {
-    "question": "Điều kiện xác định của phân thức (x-y)/(x²-y²) là:",
-    "options": ["x ≠ y và x ≠ -y", "x ≠ y", "x ≠ -y", "x, y bất kỳ"],
-    "correctAnswer": "x ≠ y và x ≠ -y"
-  },
-  {
-    "question": "Giá trị của phân thức (x²+y²)/(x-y) tại x=2, y=1 là:",
-    "options": ["5", "3", "4", "1"],
-    "correctAnswer": "5"
-  },
-  {
-    "question": "Rút gọn phân thức (5x-5y)/(x-y) ta được:",
-    "options": ["5", "5(x-y)", "1", "x-y"],
-    "correctAnswer": "5"
-  },
-  {
-    "question": "Mẫu thức chung của 1/(x²y) và 1/(xy³) là:",
-    "options": ["x²y³", "xy", "x³y⁴", "x+y"],
-    "correctAnswer": "x²y³"
-  },
-  {
-    "question": "Kết quả của 2x + 3/y là:",
-    "options": ["(2xy+3)/y", "5x/y", "5xy", "(2x+3)/y"],
-    "correctAnswer": "(2xy+3)/y"
-  },
-  {
     "question": "Kết quả của (x²/(x-1)) - (1/(x-1)) là:",
     "options": ["x + 1", "x - 1", "1", "x"],
     "correctAnswer": "x + 1"
-  },
-  {
-    "question": "Kết quả của (x-2)/(x) * (x²)/(x-2) là:",
-    "options": ["x", "x²", "x-2", "1"],
-    "correctAnswer": "x"
   },
   {
     "question": "Phân thức nghịch đảo của 5 là:",
@@ -406,61 +195,10 @@
     "correctAnswer": "1/5"
   },
   {
-    "question": "Kết quả của (1-1/x) * x là:",
-    "options": ["x - 1", "1", "0", "x"],
-    "correctAnswer": "x - 1"
-  },
-  {
-    "question": "Điều kiện xác định của 1/(x²-2x+1) là:",
-    "options": ["x ≠ 1", "x ≠ -1", "x ≠ 0", "x ≠ 2"],
-    "correctAnswer": "x ≠ 1"
-  },
-  {
-    "question": "Phân thức (x³-8)/(x-2) sau khi rút gọn là:",
-    "options": ["x² + 2x + 4", "x² - 2x + 4", "x² - 4", "x² + 4"],
-    "correctAnswer": "x² + 2x + 4"
-  },
-  {
-    "question": "Mẫu thức chung của 1/(x-1), 1/(x+1), 1/(x²-1) là:",
-    "options": ["x² - 1", "(x-1)(x+1)(x²-1)", "x-1", "x+1"],
-    "correctAnswer": "x² - 1"
-  },
-  {
-    "question": "Kết quả của (x/(x+1)) + (1/(x+1)) là:",
-    "options": ["1", "x+1", "x", "1/(x+1)"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Kết quả của (2x/5) - (x/5) là:",
-    "options": ["x/5", "1/5", "x", "5"],
-    "correctAnswer": "x/5"
-  },
-  {
-    "question": "Kết quả của (x/y) * (y/x) với x, y ≠ 0 là:",
-    "options": ["1", "0", "xy", "x²/y²"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Kết quả của (5x) : (1/x) là:",
-    "options": ["5x²", "5", "5/x", "x/5"],
-    "correctAnswer": "5x²"
-  },
-  {
-    "question": "Giá trị của phân thức (x+y)/(x-y) tại x=1, y=-1 là:",
-    "options": ["0", "1", "Không xác định", "-1"],
-    "correctAnswer": "0"
-  },
-  {
     "question": "Rút gọn biểu thức A = (x³-x)/(x²+x) ta được:",
     "options": ["x - 1", "x + 1", "x", "1"],
     "correctAnswer": "x - 1"
   },
-  {
-    "question": "Thực hiện phép tính (1/x) + (2/x) + (3/x) ta được:",
-    "options": ["6/x", "6/x³", "6", "1/x"],
-    "correctAnswer": "6/x"
-  },
-  // --- Chương 7: Phương trình bậc nhất và hàm số bậc nhất ---
   {
     "question": "Phương trình nào sau đây là phương trình bậc nhất một ẩn?",
     "options": ["2x - 3 = 0", "x² + 5x = 0", "0x + 5 = 0", "3/x - 2 = 0"],
@@ -472,24 +210,9 @@
     "correctAnswer": "x = 2"
   },
   {
-    "question": "Phương trình x + 7 = 7 có tập nghiệm là:",
-    "options": ["S = {0}", "S = {7}", "S = {-7}", "S = Ø"],
-    "correctAnswer": "S = {0}"
-  },
-  {
     "question": "Hai phương trình được gọi là tương đương khi:",
     "options": ["Chúng có cùng tập nghiệm", "Chúng có cùng dạng", "Chúng có cùng bậc", "Chúng có cùng số hạng"],
     "correctAnswer": "Chúng có cùng tập nghiệm"
-  },
-  {
-    "question": "Phương trình 2x = -4 tương đương với phương trình nào?",
-    "options": ["x + 2 = 0", "x - 2 = 0", "2x + 4 = 4", "x = 2"],
-    "correctAnswer": "x + 2 = 0"
-  },
-  {
-    "question": "Giải phương trình 4x + 20 = 0, ta được nghiệm là:",
-    "options": ["x = -5", "x = 5", "x = -4", "x = 4"],
-    "correctAnswer": "x = -5"
   },
   {
     "question": "Phương trình ax + b = 0 (a ≠ 0) có nghiệm duy nhất là:",
@@ -497,24 +220,9 @@
     "correctAnswer": "x = -b/a"
   },
   {
-    "question": "Tổng hai nghiệm của phương trình (x-1)(x+2)=0 là:",
-    "options": ["-1", "1", "-2", "2"],
-    "correctAnswer": "-1"
-  },
-  {
-    "question": "Một hình chữ nhật có chiều dài hơn chiều rộng 5m. Nếu chu vi là 50m, chiều rộng của hình chữ nhật là bao nhiêu?",
-    "options": ["10m", "15m", "20m", "5m"],
-    "correctAnswer": "10m"
-  },
-  {
     "question": "Tổng của hai số là 100. Số này gấp 4 lần số kia. Hai số đó là:",
     "options": ["80 và 20", "70 và 30", "60 và 40", "75 và 25"],
     "correctAnswer": "80 và 20"
-  },
-  {
-    "question": "Nếu y là một hàm số của x, kí hiệu là:",
-    "options": ["y = f(x)", "x = f(y)", "y = x", "f(x)"],
-    "correctAnswer": "y = f(x)"
   },
   {
     "question": "Cho hàm số y = f(x) = 2x + 3. Giá trị của f(-1) là:",
@@ -527,19 +235,9 @@
     "correctAnswer": "(1; 1)"
   },
   {
-    "question": "Trong mặt phẳng tọa độ Oxy, trục hoành là trục:",
-    "options": ["Ox", "Oy", "Cả hai", "Không có"],
-    "correctAnswer": "Ox"
-  },
-  {
     "question": "Hàm số nào sau đây là hàm số bậc nhất?",
     "options": ["y = 5x - 1", "y = x² + 2", "y = 3/x", "y = 7"],
     "correctAnswer": "y = 5x - 1"
-  },
-  {
-    "question": "Hàm số y = (m-2)x + 3 là hàm số bậc nhất khi:",
-    "options": ["m ≠ 2", "m = 2", "m > 2", "m < 2"],
-    "correctAnswer": "m ≠ 2"
   },
   {
     "question": "Đồ thị của hàm số y = ax + b (a ≠ 0) là một:",
@@ -572,11 +270,6 @@
     "correctAnswer": "100 km"
   },
   {
-    "question": "Cho hàm số y = f(x) = 5 - 2x. Khẳng định nào sau đây đúng?",
-    "options": ["f(2) = 1", "f(1) = 4", "f(0) = 0", "f(-1) = 3"],
-    "correctAnswer": "f(2) = 1"
-  },
-  {
     "question": "Điểm M(-2; 6) có thuộc đồ thị hàm số y = -3x không?",
     "options": ["Có", "Không", "Không xác định được", "Thuộc trục Ox"],
     "correctAnswer": "Có"
@@ -597,24 +290,9 @@
     "correctAnswer": "-2"
   },
   {
-    "question": "Đường thẳng y = 3x + 1 và y = (m+1)x - 2 cắt nhau khi:",
-    "options": ["m ≠ 2", "m = 2", "m = 3", "m ≠ 3"],
-    "correctAnswer": "m ≠ 2"
-  },
-  {
-    "question": "Năm nay, mẹ hơn con 25 tuổi. Hỏi sau 10 năm nữa, mẹ hơn con bao nhiêu tuổi?",
-    "options": ["25 tuổi", "35 tuổi", "15 tuổi", "Không xác định"],
-    "correctAnswer": "25 tuổi"
-  },
-  {
     "question": "Phương trình (x-3)(2x+5) = 0 có các nghiệm là:",
     "options": ["x = 3; x = -5/2", "x = -3; x = 5/2", "x = 3; x = 5/2", "x = -3; x = -5/2"],
     "correctAnswer": "x = 3; x = -5/2"
-  },
-  {
-    "question": "Tập xác định của hàm số y = 2x + 1 là:",
-    "options": ["R", "x > 0", "x < 0", "x ≠ 0"],
-    "correctAnswer": "R"
   },
   {
     "question": "Đồ thị hàm số y = -2x + 4 cắt trục hoành tại điểm có hoành độ là:",
@@ -642,16 +320,6 @@
     "correctAnswer": "x = 1"
   },
   {
-    "question": "Một cửa hàng bán một sản phẩm với giá 150.000 đồng. Nếu bán với giá đó thì lãi 25% so với giá gốc. Hỏi giá gốc của sản phẩm là bao nhiêu?",
-    "options": ["120.000 đồng", "125.000 đồng", "112.500 đồng", "100.000 đồng"],
-    "correctAnswer": "120.000 đồng"
-  },
-  {
-    "question": "Cho hàm số y = f(x). Nếu f(x1) > f(x2) khi x1 > x2 thì hàm số đó là:",
-    "options": ["Hàm số nghịch biến", "Hàm số đồng biến", "Hàm số hằng", "Không xác định"],
-    "correctAnswer": "Hàm số nghịch biến"
-  },
-  {
     "question": "Điểm nào sau đây không thuộc đồ thị hàm số y = 2x - 5?",
     "options": ["(3; 2)", "(2; -1)", "(0; -5)", "(4; 3)"],
     "correctAnswer": "(3; 2)"
@@ -667,11 +335,6 @@
     "correctAnswer": "a = 2, b = 1"
   },
   {
-    "question": "Hệ số góc của đường thẳng y = 5 là:",
-    "options": ["0", "5", "1", "Không xác định"],
-    "correctAnswer": "0"
-  },
-  {
     "question": "Đường thẳng y = -x + 2 và y = x - 2 có vị trí tương đối là:",
     "options": ["Cắt nhau và không vuông góc", "Song song", "Trùng nhau", "Vuông góc"],
     "correctAnswer": "Vuông góc"
@@ -680,16 +343,6 @@
     "question": "Phương trình |x| = 3 có bao nhiêu nghiệm?",
     "options": ["2", "1", "0", "Vô số"],
     "correctAnswer": "2"
-  },
-  {
-    "question": "Tìm một số biết rằng một nửa của nó cộng với một phần ba của nó bằng 35.",
-    "options": ["42", "60", "30", "50"],
-    "correctAnswer": "42"
-  },
-  {
-    "question": "Cho hàm số y = f(x). Tập hợp tất cả các điểm (x; f(x)) trên mặt phẳng tọa độ được gọi là:",
-    "options": ["Đồ thị của hàm số", "Tập xác định", "Tập giá trị", "Hàm số"],
-    "correctAnswer": "Đồ thị của hàm số"
   },
   {
     "question": "Đồ thị hàm số y = -1/2 x + 1 đi qua điểm:",
@@ -707,24 +360,9 @@
     "correctAnswer": "y = 2x + 5"
   },
   {
-    "question": "Góc tạo bởi đường thẳng y = -√3x + 1 và trục Ox là:",
-    "options": ["120°", "60°", "30°", "150°"],
-    "correctAnswer": "120°"
-  },
-  {
     "question": "Phương trình (x+2)/3 = (x-1)/2 có nghiệm là:",
     "options": ["x = 7", "x = 1", "x = -7", "x = -1"],
     "correctAnswer": "x = 7"
-  },
-  {
-    "question": "Một lớp học có 45 học sinh. Số học sinh nam bằng 2/3 số học sinh nữ. Hỏi lớp có bao nhiêu học sinh nam?",
-    "options": ["18", "27", "15", "30"],
-    "correctAnswer": "18"
-  },
-  {
-    "question": "Cho hàm số y = f(x) = x³. Tính f(2) - f(-2).",
-    "options": ["16", "0", "8", "-16"],
-    "correctAnswer": "16"
   },
   {
     "question": "Đồ thị của hàm số y = -4 là đường thẳng:",
@@ -732,24 +370,9 @@
     "correctAnswer": "Song song với trục hoành"
   },
   {
-    "question": "Hàm số y = (a-3)x + 2 là hàm số bậc nhất khi:",
-    "options": ["a ≠ 3", "a = 3", "a > 3", "a < 3"],
-    "correctAnswer": "a ≠ 3"
-  },
-  {
     "question": "Đường thẳng y = 5x - 3 cắt trục tung tại điểm:",
     "options": ["(0; -3)", "(-3; 0)", "(0; 5)", "(5; 0)"],
     "correctAnswer": "(0; -3)"
-  },
-  {
-    "question": "Hệ số góc của đường thẳng song song với trục Ox là:",
-    "options": ["0", "1", "-1", "Không xác định"],
-    "correctAnswer": "0"
-  },
-  {
-    "question": "Đường thẳng y = 2x + 1 và y = x + 2 cắt nhau tại điểm có tọa độ là:",
-    "options": ["(1; 3)", "(3; 1)", "(0; 1)", "(2; 0)"],
-    "correctAnswer": "(1; 3)"
   },
   {
     "question": "Phương trình 2(x+1) = 2x + 2 có:",
@@ -757,29 +380,9 @@
     "correctAnswer": "Vô số nghiệm"
   },
   {
-    "question": "Hai xe khởi hành cùng lúc từ A và B cách nhau 180km và đi ngược chiều nhau. Vận tốc xe đi từ A là 40km/h, xe đi từ B là 50km/h. Hỏi sau bao lâu hai xe gặp nhau?",
-    "options": ["2 giờ", "1.5 giờ", "2.5 giờ", "3 giờ"],
-    "correctAnswer": "2 giờ"
-  },
-  {
-    "question": "Cho hàm số y = |x|. Giá trị của y khi x = -5 là:",
-    "options": ["5", "-5", "0", "Không xác định"],
-    "correctAnswer": "5"
-  },
-  {
     "question": "Tọa độ giao điểm của đồ thị hàm số y = x - 4 với trục hoành là:",
     "options": ["(4; 0)", "(0; -4)", "(-4; 0)", "(0; 4)"],
     "correctAnswer": "(4; 0)"
-  },
-  {
-    "question": "Hàm số y = (1/2)x - 3 đồng biến hay nghịch biến?",
-    "options": ["Đồng biến", "Nghịch biến", "Không đổi", "Không xác định"],
-    "correctAnswer": "Đồng biến"
-  },
-  {
-    "question": "Đường thẳng y = -3x + 2 trùng với đường thẳng nào?",
-    "options": ["y = 2 - 3x", "y = -3x - 2", "y = 3x + 2", "Không có"],
-    "correctAnswer": "y = 2 - 3x"
   },
   {
     "question": "Tung độ gốc của đường thẳng y = 7x - 9 là:",
@@ -787,131 +390,10 @@
     "correctAnswer": "-9"
   },
   {
-    "question": "Đường thẳng y = (m-1)x + 2 và y = 3x - 1 vuông góc với nhau khi:",
-    "options": ["Không có giá trị m", "m = -2", "m = 4", "m = 1/3"],
-    "correctAnswer": "Không có giá trị m"
-  },
-  {
-    "question": "Phương trình 3x - 6 = x + 2 có nghiệm là:",
-    "options": ["x = 4", "x = 2", "x = -2", "x = -4"],
-    "correctAnswer": "x = 4"
-  },
-  {
-    "question": "Một mảnh vườn hình chữ nhật có chu vi 80m. Nếu giảm chiều dài 5m và tăng chiều rộng 5m thì được một hình vuông. Diện tích ban đầu của mảnh vườn là:",
-    "options": ["375 m²", "400 m²", "391 m²", "350 m²"],
-    "correctAnswer": "375 m²"
-  },
-  {
-    "question": "Cho hàm số y = f(x) = 1/x. Tập xác định của hàm số là:",
-    "options": ["x ≠ 0", "Mọi x", "x > 0", "x < 0"],
-    "correctAnswer": "x ≠ 0"
-  },
-  {
-    "question": "Đồ thị hàm số y = 2x đi qua gốc tọa độ không?",
-    "options": ["Có", "Không", "Chỉ khi x>0", "Chỉ khi x<0"],
-    "correctAnswer": "Có"
-  },
-  {
-    "question": "Hàm số y = (m²-2m+2)x + 5 là hàm số:",
-    "options": ["Luôn đồng biến", "Luôn nghịch biến", "Hàm hằng", "Tùy vào m"],
-    "correctAnswer": "Luôn đồng biến"
-  },
-  {
-    "question": "Đường thẳng y = x + m - 2 đi qua điểm (1; 3) khi:",
-    "options": ["m = 4", "m = 2", "m = 0", "m = -4"],
-    "correctAnswer": "m = 4"
-  },
-  {
-    "question": "Hệ số góc của đường thẳng vuông góc với đường thẳng y = -1/3 x + 2 là:",
-    "options": ["3", "-3", "1/3", "-1/3"],
-    "correctAnswer": "3"
-  },
-  {
-    "question": "Đường thẳng y = -2x + 4 tạo với trục Ox một góc:",
-    "options": ["Tù", "Nhọn", "Vuông", "Bẹt"],
-    "correctAnswer": "Tù"
-  },
-  {
     "question": "Phương trình 0x = 5 có tập nghiệm là:",
     "options": ["S = Ø", "S = {0}", "S = {5}", "S = R"],
     "correctAnswer": "S = Ø"
   },
-  {
-    "question": "Hiệu của hai số là 12. Tỉ số của chúng là 1/3. Tìm số lớn.",
-    "options": ["18", "6", "24", "15"],
-    "correctAnswer": "18"
-  },
-  {
-    "question": "Cho hàm số y = f(x) = 2. Giá trị của f(100) là:",
-    "options": ["2", "100", "200", "0"],
-    "correctAnswer": "2"
-  },
-  {
-    "question": "Đồ thị hàm số y = ax + b (a≠0) cắt trục hoành tại điểm có hoành độ là:",
-    "options": ["-b/a", "b/a", "b", "a"],
-    "correctAnswer": "-b/a"
-  },
-  {
-    "question": "Hàm số y = (5-m)x + 1 đồng biến khi:",
-    "options": ["m < 5", "m > 5", "m = 5", "m ≠ 5"],
-    "correctAnswer": "m < 5"
-  },
-  {
-    "question": "Đường thẳng y = 4x - 2 và y = 4x - 2 có vị trí tương đối là:",
-    "options": ["Trùng nhau", "Song song", "Cắt nhau", "Vuông góc"],
-    "correctAnswer": "Trùng nhau"
-  },
-  {
-    "question": "Hệ số góc của đường thẳng đi qua hai điểm A(1; 2) và B(3; 6) là:",
-    "options": ["2", "1/2", "-2", "4"],
-    "correctAnswer": "2"
-  },
-  {
-    "question": "Để đường thẳng y = (m-1)x + 3 song song với đường thẳng y = 2x - 1 thì:",
-    "options": ["m = 3", "m ≠ 3", "m = 2", "m = -1"],
-    "correctAnswer": "m = 3"
-  },
-  {
-    "question": "Phương trình 5(x-1) = 5x - 5 có tập nghiệm là:",
-    "options": ["S = R", "S = Ø", "S = {1}", "S = {0}"],
-    "correctAnswer": "S = R"
-  },
-  {
-    "question": "Một người đi từ A đến B hết 4 giờ. Nếu tăng vận tốc thêm 5km/h thì người đó đi hết 3 giờ. Tính quãng đường AB.",
-    "options": ["60 km", "75 km", "50 km", "80 km"],
-    "correctAnswer": "60 km"
-  },
-  {
-    "question": "Cho hàm số y = f(x). Nếu với mọi x thuộc tập xác định, f(-x) = f(x) thì hàm số đó là:",
-    "options": ["Hàm số chẵn", "Hàm số lẻ", "Hàm số không đổi", "Hàm số bậc nhất"],
-    "correctAnswer": "Hàm số chẵn"
-  },
-  {
-    "question": "Đồ thị hàm số y = 3x - 6 cắt trục tung tại điểm có tung độ là:",
-    "options": ["-6", "6", "3", "2"],
-    "correctAnswer": "-6"
-  },
-  {
-    "question": "Hàm số y = -2024x + 2025 là hàm số:",
-    "options": ["Nghịch biến", "Đồng biến", "Không đổi", "Không xác định"],
-    "correctAnswer": "Nghịch biến"
-  },
-  {
-    "question": "Đường thẳng y = (m+2)x và y = 3x + 1 trùng nhau khi:",
-    "options": ["Không có giá trị m", "m = 1", "m = -1", "m = 3"],
-    "correctAnswer": "Không có giá trị m"
-  },
-  {
-    "question": "Tung độ gốc của đường thẳng đi qua A(0; 4) và song song với đường thẳng y = 2x là:",
-    "options": ["4", "0", "2", "-2"],
-    "correctAnswer": "4"
-  },
-  {
-    "question": "Ba đường thẳng y = x+2, y = 2x+1 và y = (m+1)x đồng quy khi:",
-    "options": ["m = 2", "m = 1", "m = 0", "m = -1"],
-    "correctAnswer": "m = 2"
-  },
-  // --- Chương 8: Mở đầu về tính xác suất của biến cố ---
   {
     "question": "Khi gieo một con súc sắc 6 mặt, tập hợp tất cả các kết quả có thể xảy ra là:",
     "options": ["{1; 2; 3; 4; 5; 6}", "{1; 2; 3; 4; 5}", "{0; 1; 2; 3; 4; 5; 6}", "{Sấp, Ngửa}"],
@@ -1018,11 +500,6 @@
     "correctAnswer": "Không thể"
   },
   {
-    "question": "Một túi chứa 10 viên bi cùng kích thước, trong đó có 1 viên màu trắng và 9 viên màu đen. Lấy ngẫu nhiên 1 viên. So sánh xác suất lấy được bi trắng và bi đen.",
-    "options": ["P(trắng) < P(đen)", "P(trắng) > P(đen)", "P(trắng) = P(đen)", "Không so sánh được"],
-    "correctAnswer": "P(trắng) < P(đen)"
-  },
-  {
     "question": "Dự báo thời tiết cho biết xác suất có mưa ngày mai là 70%. Vậy xác suất không có mưa là:",
     "options": ["30%", "70%", "0%", "100%"],
     "correctAnswer": "30%"
@@ -1038,26 +515,6 @@
     "correctAnswer": "4/20"
   },
   {
-    "question": "Tung một đồng xu 50 lần, thấy có 23 lần mặt ngửa. Xác suất thực nghiệm của biến cố 'xuất hiện mặt sấp' là:",
-    "options": ["27/50", "23/50", "1/2", "50/27"],
-    "correctAnswer": "27/50"
-  },
-  {
-    "question": "Gieo một con súc sắc 120 lần, kết quả được ghi lại trong bảng. Nếu số lần xuất hiện mặt 6 chấm là 20, xác suất thực nghiệm của biến cố 'xuất hiện mặt 6 chấm' là:",
-    "options": ["20/120", "1/6", "120/20", "20"],
-    "correctAnswer": "20/120"
-  },
-  {
-    "question": "Một công ty xổ số phát hành 1 triệu vé, trong đó có 1 vé trúng độc đắc. Xác suất để bạn mua 1 vé và trúng độc đắc là:",
-    "options": ["1/1.000.000", "1", "0", "Rất cao"],
-    "correctAnswer": "1/1.000.000"
-  },
-  {
-    "question": "Gieo hai con súc sắc. Biến cố 'tổng số chấm hai mặt bằng 2' có bao nhiêu kết quả thuận lợi?",
-    "options": ["1", "2", "0", "3"],
-    "correctAnswer": "1"
-  },
-  {
     "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm hai mặt bằng 13 là:",
     "options": ["0", "1/36", "1/6", "1"],
     "correctAnswer": "0"
@@ -1068,19 +525,9 @@
     "correctAnswer": "4/52"
   },
   {
-    "question": "Một nhóm có 6 bạn nam và 4 bạn nữ. Chọn ngẫu nhiên 2 bạn. Số kết quả có thể xảy ra là:",
-    "options": ["45", "10", "2", "24"],
-    "correctAnswer": "45"
-  },
-  {
     "question": "Trong một trò chơi, bạn thắng nếu gieo được mặt súc sắc có số chấm lớn hơn 4. Xác suất bạn thắng là:",
     "options": ["2/6", "4/6", "1/6", "3/6"],
     "correctAnswer": "2/6"
-  },
-  {
-    "question": "Một chiếc hộp chứa 5 quả bóng trắng, 3 quả bóng đen. Lấy đồng thời 2 quả. Biến cố 'lấy được 2 quả cùng màu' có bao nhiêu kết quả thuận lợi?",
-    "options": ["13", "8", "15", "2"],
-    "correctAnswer": "13"
   },
   {
     "question": "Xác suất của một biến cố A luôn thỏa mãn:",
@@ -1088,24 +535,9 @@
     "correctAnswer": "0 ≤ P(A) ≤ 1"
   },
   {
-    "question": "Tung một đồng xu 10 lần, có 5 lần sấp, 5 lần ngửa. Lần tung thứ 11, xác suất ra mặt sấp là:",
-    "options": ["1/2", "5/10", "6/11", "Không xác định"],
-    "correctAnswer": "1/2"
-  },
-  {
     "question": "Một nhà máy kiểm tra 200 sản phẩm và thấy có 10 sản phẩm lỗi. Dự đoán trong 1000 sản phẩm tiếp theo, số sản phẩm lỗi là khoảng:",
     "options": ["50", "10", "20", "100"],
     "correctAnswer": "50"
-  },
-  {
-    "question": "Gieo một con súc sắc cân đối. Biến cố 'gieo được mặt có số chấm là một số chính phương' có bao nhiêu kết quả thuận lợi?",
-    "options": ["2", "1", "3", "4"],
-    "correctAnswer": "2"
-  },
-  {
-    "question": "Một tổ có 10 học sinh. Chọn ngẫu nhiên 1 bạn để làm tổ trưởng. Xác suất để bạn An được chọn là:",
-    "options": ["1/10", "1", "0", "10"],
-    "correctAnswer": "1/10"
   },
   {
     "question": "Trong các số 1, 2, 3, ..., 15. Chọn ngẫu nhiên một số. Xác suất để số được chọn chia hết cho cả 2 và 3 là:",
@@ -1128,11 +560,6 @@
     "correctAnswer": "1"
   },
   {
-    "question": "Một cuộc khảo sát 500 người cho thấy 300 người thích xem phim. Xác suất thực nghiệm một người được chọn ngẫu nhiên thích xem phim là:",
-    "options": ["300/500", "200/500", "3/5", "Cả A và C đều đúng"],
-    "correctAnswer": "Cả A và C đều đúng"
-  },
-  {
     "question": "Nếu xác suất của biến cố A là P(A), thì xác suất của biến cố đối 'không xảy ra A' là:",
     "options": ["1 - P(A)", "P(A)", "1 + P(A)", "1/P(A)"],
     "correctAnswer": "1 - P(A)"
@@ -1141,11 +568,6 @@
     "question": "Gieo hai con súc sắc. Biến cố 'tổng số chấm hai mặt là 7' có bao nhiêu kết quả thuận lợi?",
     "options": ["6", "5", "7", "8"],
     "correctAnswer": "6"
-  },
-  {
-    "question": "Rút một lá bài từ bộ bài 52 lá. Xác suất rút được lá màu đỏ là:",
-    "options": ["26/52", "13/52", "2/52", "1/2"],
-    "correctAnswer": "Cả A và D đều đúng"
   },
   {
     "question": "Trong một tuần có 7 ngày. Chọn ngẫu nhiên một ngày. Xác suất để ngày đó là cuối tuần (Thứ Bảy hoặc Chủ Nhật) là:",
@@ -1158,31 +580,6 @@
     "correctAnswer": "8"
   },
   {
-    "question": "Gieo một con súc sắc. Biến cố A: 'Mặt có số chấm là số lẻ'. Biến cố B: 'Mặt có số chấm là số chẵn'. Hai biến cố A và B là:",
-    "options": ["Biến cố đối nhau", "Biến cố đồng nhất", "Biến cố không liên quan", "Biến cố chắc chắn"],
-    "correctAnswer": "Biến cố đối nhau"
-  },
-  {
-    "question": "Một hộp có 3 bi xanh, 4 bi đỏ, 5 bi vàng. Lấy ngẫu nhiên 1 bi. Xác suất để không lấy được bi đỏ là:",
-    "options": ["8/12", "4/12", "1", "0"],
-    "correctAnswer": "8/12"
-  },
-  {
-    "question": "Tung đồng xu 100 lần, có 45 lần sấp. Xác suất thực nghiệm ra mặt ngửa là:",
-    "options": ["55/100", "45/100", "1/2", "1"],
-    "correctAnswer": "55/100"
-  },
-  {
-    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm hai mặt là một số lẻ là:",
-    "options": ["9/36", "1/2", "18/36", "27/36"],
-    "correctAnswer": "9/36"
-  },
-  {
-    "question": "Một lớp có 40 học sinh, trong đó có 10 học sinh giỏi. Chọn ngẫu nhiên 1 học sinh. Xác suất không chọn được học sinh giỏi là:",
-    "options": ["30/40", "10/40", "1/4", "3/4"],
-    "correctAnswer": "Cả A và D đều đúng"
-  },
-  {
     "question": "Một bài thi trắc nghiệm có 4 đáp án A, B, C, D và chỉ có 1 đáp án đúng. Nếu chọn bừa, xác suất chọn đúng là:",
     "options": ["1/4", "1/3", "1/2", "1"],
     "correctAnswer": "1/4"
@@ -1192,187 +589,6 @@
     "options": ["4/6", "3/6", "2/6", "1/6"],
     "correctAnswer": "4/6"
   },
-  {
-    "question": "Một người có chùm chìa khóa 5 chiếc, trong đó chỉ có 1 chiếc mở được cửa. Người đó thử ngẫu nhiên từng chìa. Xác suất để mở được cửa ngay lần thử đầu tiên là:",
-    "options": ["1/5", "1/4", "1/3", "1"],
-    "correctAnswer": "1/5"
-  },
-  {
-    "question": "Trong 10 sản phẩm có 2 phế phẩm. Lấy ngẫu nhiên 1 sản phẩm. Xác suất lấy được chính phẩm là:",
-    "options": ["8/10", "2/10", "1", "0"],
-    "correctAnswer": "8/10"
-  },
-  {
-    "question": "Tung 3 đồng xu. Số kết quả có thể xảy ra là:",
-    "options": ["8", "6", "4", "3"],
-    "correctAnswer": "8"
-  },
-  {
-    "question": "Tung 3 đồng xu. Xác suất để được cả 3 mặt đều sấp là:",
-    "options": ["1/8", "3/8", "1/2", "1"],
-    "correctAnswer": "1/8"
-  },
-  {
-    "question": "Gieo hai con súc sắc. Xác suất để hai mặt có số chấm giống nhau là:",
-    "options": ["6/36", "1/36", "2/36", "12/36"],
-    "correctAnswer": "6/36"
-  },
-  {
-    "question": "Một hộp có 7 bi xanh và 3 bi đỏ. Lấy ngẫu nhiên 1 bi. Để xác suất lấy được bi xanh và bi đỏ bằng nhau, ta cần thêm vào hộp:",
-    "options": ["4 bi đỏ", "4 bi xanh", "2 bi đỏ", "2 bi xanh"],
-    "correctAnswer": "4 bi đỏ"
-  },
-  {
-    "question": "Một đội bóng có xác suất thắng trận là 0.6, xác suất hòa là 0.3. Vậy xác suất thua trận là:",
-    "options": ["0.1", "0.4", "0.7", "0"],
-    "correctAnswer": "0.1"
-  },
-  {
-    "question": "Gieo súc sắc 300 lần, mặt 1 chấm xuất hiện 50 lần. Xác suất thực nghiệm của biến cố 'xuất hiện mặt 1 chấm' là:",
-    "options": ["1/6", "50/300", "1/5", "Cả A và B đều đúng"],
-    "correctAnswer": "Cả A và B đều đúng"
-  },
-  {
-    "question": "Trong một lô hàng có 90% sản phẩm đạt chuẩn. Lấy ngẫu nhiên một sản phẩm. Xác suất lấy phải sản phẩm không đạt chuẩn là:",
-    "options": ["0.1", "0.9", "1", "0"],
-    "correctAnswer": "0.1"
-  },
-  {
-    "question": "Rút một lá bài từ bộ bài 52 lá. Xác suất rút được lá J, Q hoặc K là:",
-    "options": ["12/52", "3/52", "4/52", "1/4"],
-    "correctAnswer": "12/52"
-  },
-  {
-    "question": "Một vòng quay có 3 màu: Xanh, Đỏ, Vàng. Diện tích màu Xanh chiếm 50%, màu Đỏ 30%. Vậy diện tích màu Vàng chiếm:",
-    "options": ["20%", "50%", "30%", "80%"],
-    "correctAnswer": "20%"
-  },
-  {
-    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm lớn hơn 10 là:",
-    "options": ["3/36", "4/36", "2/36", "1/36"],
-    "correctAnswer": "3/36"
-  },
-  {
-    "question": "Một hộp có 12 bóng đèn, trong đó có 3 bóng hỏng. Lấy ngẫu nhiên 1 bóng. Xác suất lấy được bóng tốt là:",
-    "options": ["9/12", "3/12", "1/4", "3/4"],
-    "correctAnswer": "Cả A và D đều đúng"
-  },
-  {
-    "question": "Tỉ lệ nảy mầm của một loại hạt giống là 95%. Gieo một hạt. Xác suất hạt đó không nảy mầm là:",
-    "options": ["5%", "95%", "100%", "0%"],
-    "correctAnswer": "5%"
-  },
-  {
-    "question": "Tung một đồng xu và gieo một con súc sắc. Số kết quả có thể xảy ra là:",
-    "options": ["12", "8", "6", "2"],
-    "correctAnswer": "12"
-  },
-  {
-    "question": "Tung một đồng xu và gieo một con súc sắc. Xác suất để được mặt sấp và mặt 6 chấm là:",
-    "options": ["1/12", "1/8", "1/6", "1/2"],
-    "correctAnswer": "1/12"
-  },
-  {
-    "question": "Một lớp có 30 học sinh. Cô giáo muốn chọn 2 bạn để trực nhật. Số cách chọn là:",
-    "options": ["435", "30", "2", "60"],
-    "correctAnswer": "435"
-  },
-  {
-    "question": "Trong một chiếc nón có 3 quả bóng ghi số 1, 2, 3. Lấy ngẫu nhiên 2 quả. Biến cố 'tổng hai số ghi trên bóng là số chẵn' có bao nhiêu kết quả thuận lợi?",
-    "options": ["1", "2", "3", "0"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Xác suất không thể là một số:",
-    "options": ["Lớn hơn 1", "Bằng 0", "Bằng 1", "Nằm giữa 0 và 1"],
-    "correctAnswer": "Lớn hơn 1"
-  },
-  {
-    "question": "Gieo một con súc sắc 600 lần. Số lần xuất hiện mặt 5 chấm có khả năng cao nhất là khoảng:",
-    "options": ["100", "600", "50", "120"],
-    "correctAnswer": "100"
-  },
-  {
-    "question": "Một vé số có 5 chữ số. Xác suất để một vé có các chữ số đều giống nhau là:",
-    "options": ["10/100000", "1/100000", "5/100000", "9/100000"],
-    "correctAnswer": "10/100000"
-  },
-  {
-    "question": "Rút một lá bài từ bộ bài 52 lá. Biến cố 'rút được lá Cơ' có bao nhiêu kết quả thuận lợi?",
-    "options": ["13", "4", "1", "26"],
-    "correctAnswer": "13"
-  },
-  {
-    "question": "Một hộp có 5 bi trắng, 5 bi đen. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi trắng là:",
-    "options": ["1/2", "1/5", "1/10", "1"],
-    "correctAnswer": "1/2"
-  },
-  {
-    "question": "Gieo hai con súc sắc. Biến cố 'tổng số chấm là một số nguyên tố' có bao nhiêu kết quả thuận lợi?",
-    "options": ["15", "12", "14", "16"],
-    "correctAnswer": "15"
-  },
-  {
-    "question": "Xác suất thực nghiệm được dùng để:",
-    "options": ["Ước lượng xác suất lí thuyết", "Thay thế hoàn toàn xác suất lí thuyết", "Chỉ mang tính tham khảo", "Không có ứng dụng"],
-    "correctAnswer": "Ước lượng xác suất lí thuyết"
-  },
-  {
-    "question": "Một mã khóa có 2 kí tự, kí tự đầu là một chữ cái (trong 26 chữ), kí tự sau là một chữ số (từ 0-9). Số mã khóa có thể tạo ra là:",
-    "options": ["260", "36", "26", "10"],
-    "correctAnswer": "260"
-  },
-  {
-    "question": "Trong 20 tấm thẻ đánh số từ 1 đến 20, chọn 1 thẻ. Xác suất thẻ được chọn có số không chia hết cho 2 và 3 là:",
-    "options": ["6/20", "10/20", "13/20", "7/20"],
-    "correctAnswer": "6/20"
-  },
-  {
-    "question": "Một hộp có 10 quả bóng. Nếu xác suất lấy được bóng đỏ là 2/5 thì trong hộp có bao nhiêu quả bóng đỏ?",
-    "options": ["4", "2", "5", "8"],
-    "correctAnswer": "4"
-  },
-  {
-    "question": "Tung một đồng xu cho đến khi được mặt sấp thì dừng. Phép thử này có thể có bao nhiêu kết quả?",
-    "options": ["Vô số", "2", "1", "10"],
-    "correctAnswer": "Vô số"
-  },
-  {
-    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là bội của 2 hoặc 3 là:",
-    "options": ["4/6", "5/6", "3/6", "2/6"],
-    "correctAnswer": "4/6"
-  },
-  {
-    "question": "Một tổ có 5 nam và 3 nữ. Chọn ngẫu nhiên 1 bạn. Xác suất chọn được nam là:",
-    "options": ["5/8", "3/8", "5/3", "3/5"],
-    "correctAnswer": "5/8"
-  },
-  {
-    "question": "Tung hai đồng xu. Xác suất để được đúng một mặt ngửa là:",
-    "options": ["2/4", "1/4", "3/4", "1/2"],
-    "correctAnswer": "Cả A và D đều đúng"
-  },
-  {
-    "question": "Trong một hộp có 3 loại bi: xanh, đỏ, vàng. Biết P(xanh) = 1/3, P(đỏ) = 1/2. Vậy P(vàng) là:",
-    "options": ["1/6", "1/5", "1/3", "1/2"],
-    "correctAnswer": "1/6"
-  },
-  {
-    "question": "Gieo hai con súc sắc. Xác suất để hiệu số chấm hai mặt bằng 0 là:",
-    "options": ["6/36", "1/36", "0", "1"],
-    "correctAnswer": "6/36"
-  },
-  {
-    "question": "Rút một lá bài từ bộ bài 52 lá. Xác suất không rút được lá Át là:",
-    "options": ["48/52", "4/52", "12/13", "Cả A và C đều đúng"],
-    "correctAnswer": "Cả A và C đều đúng"
-  },
-  {
-    "question": "Một bánh xe có 10 cung bằng nhau. Sơn 2 cung màu đỏ, 3 cung màu xanh và 5 cung màu vàng. Quay bánh xe. Xác suất để mũi tên chỉ vào cung không phải màu vàng là:",
-    "options": ["5/10", "1/2", "2/10", "Cả A và B đều đúng"],
-    "correctAnswer": "Cả A và B đều đúng"
-  },
-  // --- Chương 9: Tam giác đồng dạng ---
   {
     "question": "Nếu tam giác ABC đồng dạng với tam giác DEF theo tỉ số k, thì tam giác DEF đồng dạng với tam giác ABC theo tỉ số nào?",
     "options": ["1/k", "k", "k²", "1"],
@@ -1392,11 +608,6 @@
     "question": "Phát biểu nào sau đây là nội dung của trường hợp đồng dạng thứ nhất (cạnh - cạnh - cạnh)?",
     "options": ["Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng", "Nếu ba góc của tam giác này bằng ba góc của tam giác kia thì hai tam giác đó đồng dạng", "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó đồng dạng", "Nếu một cạnh và hai góc kề của tam giác này bằng một cạnh và hai góc kề của tam giác kia thì hai tam giác đó đồng dạng"],
     "correctAnswer": "Nếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng"
-  },
-  {
-    "question": "Cho ΔABC có AB=4, BC=6, AC=8. Cho ΔDEF có DE=2, EF=3, DF=4. Khẳng định nào đúng?",
-    "options": ["ΔABC ∼ ΔDEF", "ΔABC = ΔDEF", "ΔABC không đồng dạng ΔDEF", "Không thể kết luận"],
-    "correctAnswer": "ΔABC ∼ ΔDEF"
   },
   {
     "question": "Phát biểu nào sau đây là nội dung của trường hợp đồng dạng thứ hai (cạnh - góc - cạnh)?",
@@ -1454,11 +665,6 @@
     "correctAnswer": "90 cm²"
   },
   {
-    "question": "Cho ΔABC có AB = 6, AC = 9. Trên cạnh AB, AC lần lượt lấy M, N sao cho AM = 2, AN = 3. Kết luận nào đúng?",
-    "options": ["MN // BC", "MN = BC", "MN ⊥ BC", "Không thể kết luận"],
-    "correctAnswer": "MN // BC"
-  },
-  {
     "question": "Trong ΔABC, đường phân giác AD (D ∈ BC). Tỉ lệ thức nào sau đây đúng?",
     "options": ["DB/DC = AB/AC", "DB/AB = DC/AC", "AD/BC = AB/AC", "Cả A và B đều đúng"],
     "correctAnswer": "Cả A và B đều đúng"
@@ -1484,11 +690,6 @@
     "correctAnswer": "5 km"
   },
   {
-    "question": "Cho ΔABC ∼ ΔDEF với tỉ số k. Phát biểu nào sau đây sai?",
-    "options": ["Tỉ số hai đường cao tương ứng bằng k²", "Tỉ số hai chu vi bằng k", "Tỉ số hai đường trung tuyến tương ứng bằng k", "Tỉ số hai đường phân giác tương ứng bằng k"],
-    "correctAnswer": "Tỉ số hai đường cao tương ứng bằng k²"
-  },
-  {
     "question": "ΔABC có ∠A = 90°, AB = 5, AC = 12. Độ dài cạnh BC là:",
     "options": ["13", "17", "7", "√119"],
     "correctAnswer": "13"
@@ -1499,29 +700,9 @@
     "correctAnswer": "6"
   },
   {
-    "question": "Nếu hai tam giác vuông có hai cặp cạnh góc vuông tương ứng tỉ lệ thì chúng:",
-    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Là tam giác cân"],
-    "correctAnswer": "Đồng dạng"
-  },
-  {
-    "question": "Một bức ảnh hình chữ nhật có kích thước 10cm x 15cm. Sau khi phóng to, nó có chiều rộng là 20cm. Chiều dài mới là:",
-    "options": ["30cm", "25cm", "35cm", "40cm"],
-    "correctAnswer": "30cm"
-  },
-  {
     "question": "Tất cả các hình vuông đều:",
     "options": ["Đồng dạng với nhau", "Bằng nhau", "Có cùng chu vi", "Có cùng diện tích"],
     "correctAnswer": "Đồng dạng với nhau"
-  },
-  {
-    "question": "Cho ΔXYZ ∼ ΔGHK theo tỉ số 2/3. Tỉ số diện tích của ΔXYZ và ΔGHK là:",
-    "options": ["4/9", "2/3", "9/4", "3/2"],
-    "correctAnswer": "4/9"
-  },
-  {
-    "question": "Tam giác MNP có MN=10, MP=12, NP=15. Tam giác M'N'P' có M'N'=15, M'P'=18, N'P'=22.5. Hai tam giác này có đồng dạng không?",
-    "options": ["Có, theo trường hợp c.c.c", "Không", "Có, theo trường hợp c.g.c", "Có, theo trường hợp g.g"],
-    "correctAnswer": "Có, theo trường hợp c.c.c"
   },
   {
     "question": "Trong ΔABC, DE // BC (D∈AB, E∈AC). Hệ thức nào sau đây đúng?",
@@ -1529,49 +710,9 @@
     "correctAnswer": "Cả hai đều đúng"
   },
   {
-    "question": "Một tam giác có ba cạnh là 5, 12, 13. Chiều cao ứng với cạnh huyền là:",
-    "options": ["60/13", "5", "12", "13"],
-    "correctAnswer": "60/13"
-  },
-  {
-    "question": "Trong tam giác vuông, bình phương cạnh huyền bằng:",
-    "options": ["Tổng bình phương hai cạnh góc vuông", "Hiệu bình phương hai cạnh góc vuông", "Tích hai cạnh góc vuông", "Tổng hai cạnh góc vuông"],
-    "correctAnswer": "Tổng bình phương hai cạnh góc vuông"
-  },
-  {
-    "question": "ΔABC vuông tại A, AB=9, AC=12. ΔDEF vuông tại D, DE=3, DF=4. Khẳng định nào đúng?",
-    "options": ["ΔABC ∼ ΔDEF", "ΔABC = ΔDEF", "Không đồng dạng", "ΔDEF ∼ ΔBCA"],
-    "correctAnswer": "ΔABC ∼ ΔDEF"
-  },
-  {
-    "question": "Mô hình một tòa nhà cao 20cm. Nếu tỉ lệ của mô hình là 1:500, chiều cao thật của tòa nhà là:",
-    "options": ["100 m", "10 m", "1000 m", "1 km"],
-    "correctAnswer": "100 m"
-  },
-  {
-    "question": "Hai hình tròn bất kỳ thì:",
-    "options": ["Luôn đồng dạng", "Luôn bằng nhau", "Không đồng dạng", "Có cùng bán kính"],
-    "correctAnswer": "Luôn đồng dạng"
-  },
-  {
-    "question": "ΔABC có ∠A = 50°, ∠B = 70°. ΔMNP có ∠M = 50°, ∠P = 60°. Hai tam giác này:",
-    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Là tam giác cân"],
-    "correctAnswer": "Đồng dạng"
-  },
-  {
-    "question": "Tỉ số chu vi của hai tam giác đồng dạng bằng 2/5. Tỉ số diện tích của chúng là:",
-    "options": ["4/25", "2/5", "25/4", "5/2"],
-    "correctAnswer": "4/25"
-  },
-  {
     "question": "Định lí Pythagore đảo được phát biểu là:",
     "options": ["Nếu một tam giác có bình phương một cạnh bằng tổng bình phương hai cạnh kia thì đó là tam giác vuông", "Trong tam giác vuông, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông", "Tất cả các tam giác đều có ba cạnh thỏa mãn a²+b²=c²", "Tam giác vuông là tam giác có một góc 90°"],
     "correctAnswer": "Nếu một tam giác có bình phương một cạnh bằng tổng bình phương hai cạnh kia thì đó là tam giác vuông"
-  },
-  {
-    "question": "Tam giác có ba cạnh 7, 8, 10. Đây có phải là tam giác vuông không?",
-    "options": ["Không", "Có", "Là tam giác cân", "Là tam giác đều"],
-    "correctAnswer": "Không"
   },
   {
     "question": "ΔABC vuông tại A, đường cao AH. Biết BH=2, BC=8. Độ dài AB là:",
@@ -1589,16 +730,6 @@
     "correctAnswer": "Tỉ số hai cạnh tương ứng của chúng bằng nhau"
   },
   {
-    "question": "Một tấm bản đồ Việt Nam là một hình đồng dạng của lãnh thổ Việt Nam. Đúng hay sai?",
-    "options": ["Đúng", "Sai", "Tùy tỉ lệ", "Chỉ đúng với bản đồ giấy"],
-    "correctAnswer": "Đúng"
-  },
-  {
-    "question": "ΔABC có AB=8, AC=10, BC=12. ΔMNP ∼ ΔABC và cạnh nhỏ nhất của ΔMNP là 4. Chu vi ΔMNP là:",
-    "options": ["15", "30", "12", "20"],
-    "correctAnswer": "15"
-  },
-  {
     "question": "Cho tam giác ABC và M, N lần lượt là trung điểm của AB, AC. Kết luận nào sau đây đúng?",
     "options": ["ΔAMN ∼ ΔABC", "MN là đường trung bình", "MN = 1/2 BC", "Tất cả các đáp án trên"],
     "correctAnswer": "Tất cả các đáp án trên"
@@ -1609,59 +740,9 @@
     "correctAnswer": "8m"
   },
   {
-    "question": "Tam giác vuông có cạnh huyền là 15, một cạnh góc vuông là 9. Cạnh góc vuông còn lại là:",
-    "options": ["12", "√306", "6", "24"],
-    "correctAnswer": "12"
-  },
-  {
-    "question": "Trong ΔABC vuông tại A, đường cao AH. Hệ thức AB.AC = AH.BC được suy ra từ:",
-    "options": ["Công thức tính diện tích tam giác", "Định lí Pythagore", "Định lí Thales", "Tam giác đồng dạng"],
-    "correctAnswer": "Công thức tính diện tích tam giác"
-  },
-  {
-    "question": "Hai tam giác vuông cân thì:",
-    "options": ["Luôn đồng dạng", "Luôn bằng nhau", "Không đồng dạng", "Không thể kết luận"],
-    "correctAnswer": "Luôn đồng dạng"
-  },
-  {
-    "question": "Một ngôi nhà trên bản vẽ có chiều rộng 5cm. Nếu tỉ lệ bản vẽ là 1:200 thì chiều rộng thật của ngôi nhà là:",
-    "options": ["10 m", "100 cm", "1000 cm", "Cả A và C đều đúng"],
-    "correctAnswer": "Cả A và C đều đúng"
-  },
-  {
-    "question": "Tỉ số đồng dạng của hai hình bằng nhau là:",
-    "options": ["1", "0", "2", "Tùy hình"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Cho ΔABC ∼ ΔDEF. Nếu ∠A = 40°, ∠E = 80°, thì ∠C bằng:",
-    "options": ["60°", "40°", "80°", "100°"],
-    "correctAnswer": "60°"
-  },
-  {
-    "question": "ΔABC có AB=3, BC=4, AC=5. ΔDEF có DE=6, EF=8, DF=10. Tỉ số diện tích của ΔABC và ΔDEF là:",
-    "options": ["1/4", "1/2", "2", "4"],
-    "correctAnswer": "1/4"
-  },
-  {
-    "question": "Cho ΔABC có AB=12, AC=15, BC=18. Trên AB lấy M sao cho AM=4, trên AC lấy N sao cho AN=5. Độ dài MN là:",
-    "options": ["6", "9", "12", "5"],
-    "correctAnswer": "6"
-  },
-  {
-    "question": "Bộ ba nào sau đây là độ dài ba cạnh của một tam giác vuông?",
-    "options": ["8, 15, 17", "7, 24, 26", "6, 7, 8", "9, 12, 16"],
-    "correctAnswer": "8, 15, 17"
-  },
-  {
     "question": "Trong tam giác vuông, đường trung tuyến ứng với cạnh huyền thì bằng:",
     "options": ["Nửa cạnh huyền", "Cạnh huyền", "Đường cao ứng với cạnh huyền", "Một cạnh góc vuông"],
     "correctAnswer": "Nửa cạnh huyền"
-  },
-  {
-    "question": "ΔABC vuông tại A, AB=3, AC=4. ΔMNP vuông tại M, MN=6, MP=8. Tỉ số đồng dạng của ΔABC và ΔMNP là:",
-    "options": ["1/2", "2", "3/4", "4/3"],
-    "correctAnswer": "1/2"
   },
   {
     "question": "Phóng to một bức ảnh lên gấp đôi (về chiều dài và chiều rộng). Diện tích bức ảnh mới gấp mấy lần ảnh cũ?",
@@ -1669,24 +750,9 @@
     "correctAnswer": "4 lần"
   },
   {
-    "question": "Hai hình ngũ giác đều có là hình đồng dạng không?",
-    "options": ["Có", "Không", "Chỉ khi chúng bằng nhau", "Không thể xác định"],
-    "correctAnswer": "Có"
-  },
-  {
     "question": "Nếu ΔABC ∼ ΔHIK thì hệ thức nào sau đây đúng?",
     "options": ["AB/HI = BC/IK = AC/HK", "∠A = ∠H, ∠B = ∠I, ∠C = ∠K", "Cả A và B đều đúng", "Cả A và B đều sai"],
     "correctAnswer": "Cả A và B đều đúng"
-  },
-  {
-    "question": "Cho ΔABC có ∠B = ∠C. Kẻ đường cao AH. ΔAHB và ΔAHC có:",
-    "options": ["Bằng nhau", "Đồng dạng nhưng không bằng nhau", "Không đồng dạng", "Là tam giác vuông"],
-    "correctAnswer": "Bằng nhau"
-  },
-  {
-    "question": "ΔABC có AB=5, AC=10, ∠A=60°. ΔXYZ có XY=10, XZ=20, ∠X=60°. Hai tam giác này:",
-    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Không thể kết luận"],
-    "correctAnswer": "Đồng dạng"
   },
   {
     "question": "Một hình thoi có độ dài hai đường chéo là 6cm và 8cm. Cạnh của hình thoi đó là:",
@@ -1704,136 +770,20 @@
     "correctAnswer": "Tất cả các đáp án trên"
   },
   {
-    "question": "Một con kiến đi trên một bản đồ tỉ lệ 1:500. Nếu nó đi được 10cm trên bản đồ, nó đã đi được bao nhiêu mét trong thực tế?",
-    "options": ["50 m", "5 m", "500 m", "5000 m"],
-    "correctAnswer": "50 m"
+    "question": "Tỉ số đồng dạng của hai hình bằng nhau là:",
+    "options": ["1", "0", "2", "Tùy hình"],
+    "correctAnswer": "1"
   },
   {
-    "question": "Hai hình đồng dạng có thể có diện tích bằng nhau không?",
-    "options": ["Có, khi chúng bằng nhau", "Không bao giờ", "Chỉ khi chúng là hình tròn", "Chỉ khi chúng là hình vuông"],
-    "correctAnswer": "Có, khi chúng bằng nhau"
-  },
-  {
-    "question": "ΔABC ∼ ΔMNP. Biết AB=4, MN=6. Tỉ số đường cao kẻ từ C và P là:",
-    "options": ["2/3", "3/2", "4/9", "9/4"],
-    "correctAnswer": "2/3"
-  },
-  {
-    "question": "Cho tam giác ABC, một đường thẳng song song với BC cắt AB, AC tại M, N. Kết luận nào sau đây đúng?",
-    "options": ["ΔAMN ∼ ΔABC", "AM/MB = AN/NC", "AM/AB = AN/AC", "Tất cả các đáp án trên"],
-    "correctAnswer": "Tất cả các đáp án trên"
-  },
-  {
-    "question": "Tam giác có ba cạnh 2, 3, 4. Tam giác nào sau đây đồng dạng với nó?",
-    "options": ["4, 6, 8", "3, 4, 5", "5, 6, 7", "1, 1.5, 2.5"],
-    "correctAnswer": "4, 6, 8"
-  },
-  {
-    "question": "Một màn hình TV có đường chéo 32 inch. Nếu tỉ lệ chiều rộng và chiều cao là 16:9, chiều rộng của TV là (làm tròn đến 1 chữ số thập phân):",
-    "options": ["27.9 inch", "15.7 inch", "32 inch", "18.4 inch"],
-    "correctAnswer": "27.9 inch"
+    "question": "Bộ ba nào sau đây là độ dài ba cạnh của một tam giác vuông?",
+    "options": ["8, 15, 17", "7, 24, 26", "6, 7, 8", "9, 12, 16"],
+    "correctAnswer": "8, 15, 17"
   },
   {
     "question": "ΔABC vuông tại A, đường cao AH. Biết AB=6, AC=8. Độ dài AH là:",
     "options": ["4.8", "5", "6", "8"],
     "correctAnswer": "4.8"
   },
-  {
-    "question": "Tam giác vuông có một góc nhọn bằng 30°. Tam giác vuông khác có một góc nhọn bằng 60°. Hai tam giác đó:",
-    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Không thể kết luận"],
-    "correctAnswer": "Đồng dạng"
-  },
-  {
-    "question": "Một mô hình ô tô dài 10cm. Ô tô thật dài 4m. Tỉ lệ của mô hình là:",
-    "options": ["1:40", "1:4", "1:400", "10:4"],
-    "correctAnswer": "1:40"
-  },
-  {
-    "question": "Tỉ số diện tích hai hình vuông là 1/9. Tỉ số chu vi của chúng là:",
-    "options": ["1/3", "1/9", "1/81", "1"],
-    "correctAnswer": "1/3"
-  },
-  {
-    "question": "Nếu ΔABC ∼ ΔMNP và ∠B = 30°, ∠C = 70°, thì ∠M bằng:",
-    "options": ["80°", "30°", "70°", "100°"],
-    "correctAnswer": "80°"
-  },
-  {
-    "question": "Cho ΔABC có AB=2, AC=3, ∠A=50°. Cho ΔMNP có MN=4, MP=6, ∠M=50°. Tỉ số đồng dạng của ΔABC và ΔMNP là:",
-    "options": ["1/2", "2", "2/3", "3/2"],
-    "correctAnswer": "1/2"
-  },
-  {
-    "question": "ΔABC có ∠A=40°, ∠B=60°. ΔDEF có ∠D=40°, ∠F=80°. Hai tam giác này có đồng dạng không?",
-    "options": ["Có", "Không", "Bằng nhau", "Không thể kết luận"],
-    "correctAnswer": "Có"
-  },
-  {
-    "question": "Một hình chữ nhật có cạnh 6 và 8. Đường chéo của nó là:",
-    "options": ["10", "14", "2", "√28"],
-    "correctAnswer": "10"
-  },
-  {
-    "question": "Trong ΔABC vuông tại A, AB=1, AC=2. Tan(B) bằng:",
-    "options": ["2", "1/2", "√5/2", "√5"],
-    "correctAnswer": "2"
-  },
-  {
-    "question": "ΔABC vuông tại A. Biết sin(B) = 3/5. Tỉ số AC/BC là:",
-    "options": ["3/5", "4/5", "3/4", "5/3"],
-    "correctAnswer": "3/5"
-  },
-  {
-    "question": "Một cái cây bị gãy ngang thân, ngọn cây chạm đất cách gốc 8m. Phần thân bị gãy tạo với mặt đất một góc 30°. Chiều cao ban đầu của cây là (làm tròn):",
-    "options": ["Không đủ dữ kiện", "13.9 m", "12.6 m", "15.1 m"],
-    "correctAnswer": "Không đủ dữ kiện"
-  },
-  {
-    "question": "Tất cả các hình lục giác đều thì:",
-    "options": ["Đồng dạng với nhau", "Bằng nhau", "Không đồng dạng", "Có cùng số đo góc"],
-    "correctAnswer": "Đồng dạng với nhau"
-  },
-  {
-    "question": "Tỉ số chu vi hai tam giác đồng dạng là 3. Tỉ số diện tích của chúng là:",
-    "options": ["9", "3", "1/3", "1/9"],
-    "correctAnswer": "9"
-  },
-  {
-    "question": "ΔABC có AB=9, BC=12, AC=15. Kẻ đường cao BH. Độ dài BH là:",
-    "options": ["7.2", "9", "12", "15"],
-    "correctAnswer": "7.2"
-  },
-  {
-    "question": "Cho tam giác ABC. Các đường cao AD, BE, CF cắt nhau tại H. ΔAEH và ΔBDH có:",
-    "options": ["Đồng dạng", "Bằng nhau", "Không đồng dạng", "Không thể kết luận"],
-    "correctAnswer": "Đồng dạng"
-  },
-  {
-    "question": "ΔABC có AB = AC = 10, BC = 12. Độ dài đường cao AH là:",
-    "options": ["8", "10", "6", "√136"],
-    "correctAnswer": "8"
-  },
-  {
-    "question": "Trong tam giác vuông có một góc 45°, tam giác đó là:",
-    "options": ["Tam giác vuông cân", "Tam giác đều", "Tam giác thường", "Không tồn tại"],
-    "correctAnswer": "Tam giác vuông cân"
-  },
-  {
-    "question": "ΔABC vuông tại A, đường cao AH. Biết BH=3, CH=12. Độ dài AC là:",
-    "options": ["6√5", "6", "15", "3√5"],
-    "correctAnswer": "6√5"
-  },
-  {
-    "question": "Một tấm áp phích hình chữ nhật được thu nhỏ theo tỉ lệ 1/5 để in vào sách. Tấm áp phích trong sách là một hình đồng dạng với tấm áp phích thật. Đúng hay sai?",
-    "options": ["Đúng", "Sai", "Tùy kích thước", "Chỉ đúng khi là hình vuông"],
-    "correctAnswer": "Đúng"
-  },
-  {
-    "question": "Hai hình thoi có cùng một góc nhọn thì:",
-    "options": ["Đồng dạng với nhau", "Bằng nhau", "Không đồng dạng", "Không thể kết luận"],
-    "correctAnswer": "Đồng dạng với nhau"
-  },
-  // --- Chương 10: Một số hình khối trong thực tiễn ---
   {
     "question": "Hình chóp tam giác đều có đáy là hình gì?",
     "options": ["Tam giác đều", "Tam giác cân", "Tam giác vuông", "Tam giác bất kỳ"],
@@ -1915,11 +865,6 @@
     "correctAnswer": "4"
   },
   {
-    "question": "Trong hình chóp tứ giác đều S.ABCD, các cạnh bên là:",
-    "options": ["SA, SB, SC, SD", "AB, BC, CD, DA", "AC, BD", "SO (O là tâm đáy)"],
-    "correctAnswer": "SA, SB, SC, SD"
-  },
-  {
     "question": "Một hình chóp tam giác đều có chu vi đáy là 12cm, trung đoạn là 4cm. Diện tích xung quanh là:",
     "options": ["24 cm²", "48 cm²", "16 cm²", "12 cm²"],
     "correctAnswer": "24 cm²"
@@ -1930,24 +875,9 @@
     "correctAnswer": "100 cm²"
   },
   {
-    "question": "Một kim tự tháp ở Ai Cập có dạng hình chóp tứ giác đều với cạnh đáy dài 230m và chiều cao 147m. Thể tích của kim tự tháp đó là khoảng:",
-    "options": ["2.592.100 m³", "7.776.300 m³", "33.810 m³", "52.900 m³"],
-    "correctAnswer": "2.592.100 m³"
-  },
-  {
-    "question": "Cho hình chóp tam giác đều S.ABC. Tam giác ABC là tam giác gì?",
-    "options": ["Tam giác đều", "Tam giác cân tại A", "Tam giác vuông tại B", "Tam giác bất kỳ"],
-    "correctAnswer": "Tam giác đều"
-  },
-  {
     "question": "Cho hình chóp tứ giác đều S.ABCD. Mặt bên SAB là hình gì?",
     "options": ["Tam giác cân tại S", "Tam giác đều", "Tam giác vuông tại A", "Hình thang"],
     "correctAnswer": "Tam giác cân tại S"
-  },
-  {
-    "question": "Một hình chóp có đáy là ngũ giác thì có bao nhiêu mặt bên?",
-    "options": ["5", "4", "6", "10"],
-    "correctAnswer": "5"
   },
   {
     "question": "Một hình chóp có 10 cạnh thì đáy của nó là hình gì?",
@@ -1980,29 +910,9 @@
     "correctAnswer": "6 cm"
   },
   {
-    "question": "Nếu tăng chiều cao của hình chóp lên 2 lần và giữ nguyên diện tích đáy thì thể tích của nó:",
-    "options": ["Tăng lên 2 lần", "Tăng lên 4 lần", "Không đổi", "Giảm đi 2 lần"],
-    "correctAnswer": "Tăng lên 2 lần"
-  },
-  {
     "question": "Nếu tăng cạnh đáy của hình chóp tứ giác đều lên 2 lần và giữ nguyên chiều cao thì thể tích của nó:",
     "options": ["Tăng lên 4 lần", "Tăng lên 2 lần", "Tăng lên 8 lần", "Không đổi"],
     "correctAnswer": "Tăng lên 4 lần"
-  },
-  {
-    "question": "Mái của một cái chòi có dạng hình chóp tứ giác đều với cạnh đáy 4m và chiều cao 1.5m. Độ dài trung đoạn của mái chòi là:",
-    "options": ["2.5 m", "2 m", "√8.25 m", "3.5 m"],
-    "correctAnswer": "2.5 m"
-  },
-  {
-    "question": "Mái của một cái chòi có dạng hình chóp tứ giác đều với cạnh đáy 4m và trung đoạn 2.5m. Diện tích vật liệu cần để lợp mái là:",
-    "options": ["20 m²", "40 m²", "16 m²", "10 m²"],
-    "correctAnswer": "20 m²"
-  },
-  {
-    "question": "Hình chóp tam giác đều S.ABC có cạnh đáy a, đường cao của tam giác đáy là:",
-    "options": ["a√3 / 2", "a/2", "a√3", "a"],
-    "correctAnswer": "a√3 / 2"
   },
   {
     "question": "Hình chóp tam giác đều S.ABC có cạnh đáy a. Diện tích đáy là:",
@@ -2015,19 +925,9 @@
     "correctAnswer": "Cả A và C đều đúng"
   },
   {
-    "question": "Một lều trại hình chóp tứ giác đều có cạnh đáy 3m và trung đoạn 2m. Diện tích vải bạt xung quanh lều là:",
-    "options": ["12 m²", "24 m²", "9 m²", "6 m²"],
-    "correctAnswer": "12 m²"
-  },
-  {
     "question": "Một hình chóp có đáy là hình lục giác đều thì có bao nhiêu cạnh?",
     "options": ["12", "7", "6", "18"],
     "correctAnswer": "12"
-  },
-  {
-    "question": "Một hình chóp có 8 mặt. Đáy của nó là hình gì?",
-    "options": ["Thất giác", "Lục giác", "Bát giác", "Ngũ giác"],
-    "correctAnswer": "Thất giác"
   },
   {
     "question": "Trong hình chóp đều, các cạnh bên có bằng nhau không?",
@@ -2035,34 +935,14 @@
     "correctAnswer": "Có"
   },
   {
-    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng a. Độ dài trung đoạn là:",
-    "options": ["a√3 / 2", "a/2", "a", "a√2 / 2"],
-    "correctAnswer": "a√3 / 2"
-  },
-  {
-    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng a. Diện tích toàn phần là:",
-    "options": ["a²(1 + √3)", "a²", "a²√3", "4a²"],
-    "correctAnswer": "a²(1 + √3)"
-  },
-  {
     "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng a. Chiều cao của hình chóp là:",
     "options": ["a√2 / 2", "a", "a/2", "a√3 / 2"],
     "correctAnswer": "a√2 / 2"
   },
   {
-    "question": "Cho hình chóp tứ giác đều có tất cả các cạnh đều bằng 6cm. Thể tích của hình chóp là:",
-    "options": ["36√2 cm³", "72 cm³", "108 cm³", "36 cm³"],
-    "correctAnswer": "36√2 cm³"
-  },
-  {
     "question": "Một khối rubik hình chóp tam giác đều được gọi là Pyraminx. Nó có bao nhiêu mặt?",
     "options": ["4", "3", "5", "8"],
     "correctAnswer": "4"
-  },
-  {
-    "question": "Nếu một hình chóp đều có diện tích xung quanh bằng diện tích đáy thì:",
-    "options": ["p.d = Sđáy", "p = d", "Sxq = Stp", "V = 0"],
-    "correctAnswer": "p.d = Sđáy"
   },
   {
     "question": "Một hình chóp tứ giác đều có thể tích 200 cm³ và chiều cao 6 cm. Cạnh đáy của hình chóp là:",
@@ -2075,28 +955,8 @@
     "correctAnswer": "Đoạn thẳng nối đỉnh với tâm của đáy"
   },
   {
-    "question": "Một hình chóp có đáy là hình chữ nhật. Nó có phải là hình chóp đều không?",
-    "options": ["Không, trừ khi đó là hình vuông", "Có", "Luôn luôn không", "Chỉ khi chiều cao bằng cạnh đáy"],
-    "correctAnswer": "Không, trừ khi đó là hình vuông"
-  },
-  {
-    "question": "Một hình chóp tam giác đều có cạnh đáy 4cm và chiều cao 5cm. Thể tích của nó là:",
-    "options": ["20√3 / 3 cm³", "40√3 / 3 cm³", "20 cm³", "60 cm³"],
-    "correctAnswer": "20√3 / 3 cm³"
-  },
-  {
     "question": "Một hình chóp có 2n cạnh. Đáy của nó là hình gì?",
     "options": ["n-giác", "2n-giác", "(n-1)-giác", "(n+1)-giác"],
-    "correctAnswer": "n-giác"
-  },
-  {
-    "question": "Một hình chóp có n+1 đỉnh. Đáy của nó là hình gì?",
-    "options": ["n-giác", "(n+1)-giác", "(n-1)-giác", "2n-giác"],
-    "correctAnswer": "n-giác"
-  },
-  {
-    "question": "Một hình chóp có n+1 mặt. Đáy của nó là hình gì?",
-    "options": ["n-giác", "(n+1)-giác", "(n-1)-giác", "2n-giác"],
     "correctAnswer": "n-giác"
   },
   {
@@ -2105,204 +965,13 @@
     "correctAnswer": "Cả A và C đều đúng"
   },
   {
-    "question": "Một hình chóp tứ giác đều có trung đoạn 13cm, cạnh đáy 10cm. Diện tích toàn phần là:",
-    "options": ["360 cm²", "260 cm²", "100 cm²", "160 cm²"],
-    "correctAnswer": "360 cm²"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có trung đoạn 13cm, cạnh đáy 10cm. Thể tích là:",
-    "options": ["400 cm³", "1200 cm³", "1300 cm³", "360 cm³"],
-    "correctAnswer": "400 cm³"
-  },
-  {
-    "question": "Trong hình chóp đều, góc giữa cạnh bên và mặt đáy là góc tạo bởi:",
-    "options": ["Cạnh bên và hình chiếu của nó trên mặt đáy", "Cạnh bên và cạnh đáy", "Cạnh bên và trung đoạn", "Cạnh bên và chiều cao"],
-    "correctAnswer": "Cạnh bên và hình chiếu của nó trên mặt đáy"
-  },
-  {
-    "question": "Trong hình chóp đều, góc giữa mặt bên và mặt đáy là góc tạo bởi:",
-    "options": ["Trung đoạn và đoạn thẳng nối tâm đáy với trung điểm cạnh đáy tương ứng", "Cạnh bên và cạnh đáy", "Chiều cao và cạnh bên", "Trung đoạn và cạnh bên"],
-    "correctAnswer": "Trung đoạn và đoạn thẳng nối tâm đáy với trung điểm cạnh đáy tương ứng"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có chiều cao h, cạnh đáy a. Cạnh bên của nó là:",
-    "options": ["√(h² + (a√2/2)²)", "√(h² + a²)", "√(h² + (a/2)²)", "h + a"],
-    "correctAnswer": "√(h² + (a√2/2)²)"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có chiều cao 3cm, cạnh đáy 8cm. Cạnh bên của nó là:",
-    "options": ["√41 cm", "5 cm", "√73 cm", "7 cm"],
-    "correctAnswer": "√41 cm"
-  },
-  {
-    "question": "Một hình chóp có đáy là tam giác vuông. Nó có thể là hình chóp đều không?",
-    "options": ["Không", "Có", "Chỉ khi là tam giác vuông cân", "Tùy chiều cao"],
-    "correctAnswer": "Không"
-  },
-  {
-    "question": "Gấp một tấm bìa hình vuông có cạnh 20cm theo các đường chéo, ta có thể tạo thành mặt xung quanh của hình chóp nào?",
-    "options": ["Không thể tạo thành hình chóp", "Hình chóp tứ giác đều có tất cả các cạnh bằng 10√2", "Hình chóp tam giác đều", "Hình chóp có đáy là hình thoi"],
-    "correctAnswer": "Không thể tạo thành hình chóp"
-  },
-  {
-    "question": "Một hình chóp có diện tích xung quanh 60, diện tích toàn phần 85. Diện tích đáy là:",
-    "options": ["25", "145", "1.41", "Không xác định"],
-    "correctAnswer": "25"
-  },
-  {
     "question": "Nếu cắt một hình chóp đều bằng một mặt phẳng song song với đáy, thiết diện thu được là một hình:",
     "options": ["Đa giác đều đồng dạng với đáy", "Hình tròn", "Hình tam giác", "Hình bất kỳ"],
     "correctAnswer": "Đa giác đều đồng dạng với đáy"
   },
   {
-    "question": "Hình chóp cụt đều là phần hình chóp nằm giữa:",
-    "options": ["Mặt đáy và một mặt phẳng song song với đáy", "Hai mặt phẳng song song bất kỳ", "Đỉnh và một mặt phẳng", "Hai mặt bên"],
-    "correctAnswer": "Mặt đáy và một mặt phẳng song song với đáy"
-  },
-  {
-    "question": "Hai đáy của hình chóp cụt đều là:",
-    "options": ["Hai đa giác đều đồng dạng", "Hai hình tròn", "Hai hình vuông bằng nhau", "Hai tam giác bằng nhau"],
-    "correctAnswer": "Hai đa giác đều đồng dạng"
-  },
-  {
     "question": "Các mặt bên của hình chóp cụt đều là hình gì?",
     "options": ["Hình thang cân", "Hình chữ nhật", "Hình bình hành", "Tam giác cân"],
     "correctAnswer": "Hình thang cân"
-  },
-  {
-    "question": "Một hình chóp tam giác đều có cạnh đáy 12cm, trung đoạn 10cm. Diện tích xung quanh là:",
-    "options": ["180 cm²", "120 cm²", "60 cm²", "360 cm²"],
-    "correctAnswer": "180 cm²"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có chu vi đáy 20cm, trung đoạn 8cm. Diện tích xung quanh là:",
-    "options": ["80 cm²", "160 cm²", "40 cm²", "100 cm²"],
-    "correctAnswer": "80 cm²"
-  },
-  {
-    "question": "Một hình chóp có thể tích V, chiều cao h. Diện tích đáy Sđáy là:",
-    "options": ["3V/h", "V/h", "V.h/3", "3V.h"],
-    "correctAnswer": "3V/h"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có cạnh đáy 12cm, chiều cao 8cm. Thể tích là:",
-    "options": ["384 cm³", "1152 cm³", "96 cm³", "144 cm³"],
-    "correctAnswer": "384 cm³"
-  },
-  {
-    "question": "Một hình chóp có đáy là hình thoi. Nó có phải là hình chóp đều không?",
-    "options": ["Không, trừ khi đó là hình vuông", "Có", "Không bao giờ", "Chỉ khi các cạnh bên bằng nhau"],
-    "correctAnswer": "Không, trừ khi đó là hình vuông"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có diện tích xung quanh là 64 cm² và chu vi đáy là 16 cm. Trung đoạn của hình chóp là:",
-    "options": ["8 cm", "4 cm", "16 cm", "2 cm"],
-    "correctAnswer": "8 cm"
-  },
-  {
-    "question": "Một hình chóp tam giác đều có diện tích xung quanh 60 cm² và trung đoạn 5 cm. Cạnh đáy của hình chóp là:",
-    "options": ["8 cm", "12 cm", "4 cm", "24 cm"],
-    "correctAnswer": "8 cm"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có thể tích 64 cm³ và diện tích đáy 16 cm². Chiều cao của hình chóp là:",
-    "options": ["12 cm", "4 cm", "16/3 cm", "6 cm"],
-    "correctAnswer": "12 cm"
-  },
-  {
-    "question": "Nếu tất cả các mặt của hình chóp tam giác là tam giác đều, nó được gọi là:",
-    "options": ["Tứ diện đều", "Hình chóp tam giác đều", "Kim tự tháp", "Lăng trụ"],
-    "correctAnswer": "Tứ diện đều"
-  },
-  {
-    "question": "Một tứ diện đều có bao nhiêu cạnh bằng nhau?",
-    "options": ["6", "4", "3", "12"],
-    "correctAnswer": "6"
-  },
-  {
-    "question": "Một hình chóp có đáy là hình bình hành. Nó có thể là hình chóp đều không?",
-    "options": ["Không, trừ khi là hình vuông", "Có", "Chỉ khi là hình chữ nhật", "Chỉ khi là hình thoi"],
-    "correctAnswer": "Không, trừ khi là hình vuông"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có cạnh đáy 14cm, trung đoạn 25cm. Diện tích xung quanh là:",
-    "options": ["700 cm²", "350 cm²", "1400 cm²", "196 cm²"],
-    "correctAnswer": "700 cm²"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có cạnh đáy 14cm, trung đoạn 25cm. Chiều cao của hình chóp là:",
-    "options": ["24 cm", "√674 cm", "7 cm", "25 cm"],
-    "correctAnswer": "24 cm"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có cạnh đáy 14cm, chiều cao 24cm. Thể tích của nó là:",
-    "options": ["1568 cm³", "4704 cm³", "196 cm³", "336 cm³"],
-    "correctAnswer": "1568 cm³"
-  },
-  {
-    "question": "Một hình chóp có 100 đỉnh. Đáy của nó là hình gì?",
-    "options": ["99-giác", "100-giác", "101-giác", "200-giác"],
-    "correctAnswer": "99-giác"
-  },
-  {
-    "question": "Một hình chóp có 100 mặt. Đáy của nó là hình gì?",
-    "options": ["99-giác", "100-giác", "101-giác", "50-giác"],
-    "correctAnswer": "99-giác"
-  },
-  {
-    "question": "Một hình chóp có 100 cạnh. Đáy của nó là hình gì?",
-    "options": ["50-giác", "100-giác", "99-giác", "49-giác"],
-    "correctAnswer": "50-giác"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có diện tích đáy 81 cm². Chu vi đáy của nó là:",
-    "options": ["36 cm", "9 cm", "81 cm", "18 cm"],
-    "correctAnswer": "36 cm"
-  },
-  {
-    "question": "Một hình chóp tam giác đều có chu vi đáy 30cm, diện tích xung quanh 150 cm². Trung đoạn của nó là:",
-    "options": ["10 cm", "5 cm", "15 cm", "20 cm"],
-    "correctAnswer": "10 cm"
-  },
-  {
-    "question": "Một hình chóp có thể tích V. Nếu tăng gấp đôi chiều cao và giảm một nửa diện tích đáy thì thể tích mới là:",
-    "options": ["V", "2V", "V/2", "4V"],
-    "correctAnswer": "V"
-  },
-  {
-    "question": "Một hình chóp có đáy là hình thang cân. Nó có phải là hình chóp đều không?",
-    "options": ["Không", "Có", "Chỉ khi các cạnh bên bằng nhau", "Chỉ khi đáy là hình thang cân có 2 góc vuông"],
-    "correctAnswer": "Không"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có chiều cao bằng nửa cạnh đáy. Gọi cạnh đáy là 2a. Chiều cao là:",
-    "options": ["a", "2a", "a/2", "4a"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có chiều cao bằng nửa cạnh đáy. Gọi cạnh đáy là 2a. Trung đoạn của nó là:",
-    "options": ["a√2", "a", "2a", "a√3"],
-    "correctAnswer": "a√2"
-  },
-  {
-    "question": "Một hình chóp tứ giác đều có chiều cao bằng nửa cạnh đáy. Gọi cạnh đáy là 2a. Cạnh bên của nó là:",
-    "options": ["a√3", "a√2", "2a", "a"],
-    "correctAnswer": "a√3"
-  },
-  {
-    "question": "Một hình chóp có đáy là tam giác đều cạnh a. Các mặt bên là các tam giác vuông cân tại đỉnh chóp. Chiều cao của chóp là:",
-    "options": ["Không tồn tại hình chóp như vậy", "a/2", "a√3/2", "a√2/2"],
-    "correctAnswer": "Không tồn tại hình chóp như vậy"
-  },
-  {
-    "question": "Một hình chóp có đáy là hình vuông cạnh a, một cạnh bên vuông góc với đáy và có độ dài a. Thể tích của nó là:",
-    "options": ["a³/3", "a³", "a²/3", "2a³/3"],
-    "correctAnswer": "a³/3"
-  },
-  {
-    "question": "Một hình chóp có đáy là hình vuông cạnh a, một cạnh bên vuông góc với đáy và có độ dài a. Hình chóp này có phải là hình chóp đều không?",
-    "options": ["Không", "Có", "Chỉ khi a=1", "Không thể xác định"],
-    "correctAnswer": "Không"
   }
 ]
-
