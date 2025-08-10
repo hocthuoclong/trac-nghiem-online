@@ -44,6 +44,10 @@
                 {
                   "name": "Chương 9: Tam giác đồng dạng",
                   "file": "./data/math-8-chapter-9.json"
+                },
+                {
+                  "name": "Chương 10: Một số hình khối trong thực tiễn",
+                  "file": "./data/math-8-chapter-10.json"
                 }
               ]
             },
