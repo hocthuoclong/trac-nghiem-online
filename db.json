@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Hàm số y = ax² và Phương trình bậc hai một ẩn",
                   "file": "./data/math-9-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Tần số và tần số tương đối",
+                  "file": "./data/math-9-chapter-7.json"
                 }
               ]
             },
