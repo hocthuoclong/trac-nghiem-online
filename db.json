@@ -36,6 +36,10 @@
                 {
                   "name": "Chương 7: Phương trình bậc nhất và hàm số bậc nhất",
                   "file": "./data/math-8-chapter-7.json"
+                },
+                {
+                  "name": "Chương 8: Mở đầu về tính xác suất của biến cố",
+                  "file": "./data/math-8-chapter-8.json"
                 }
               ]
             },
