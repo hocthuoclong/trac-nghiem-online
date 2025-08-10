@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Số nào sau đây là số hữu tỉ?",
+    "options": ["-5", "3/4", "0.25", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Số hữu tỉ là số được viết dưới dạng a/b với:",
+    "options": ["a, b ∈ Z, b ≠ 0", "a, b ∈ N, b ≠ 0", "a ∈ N, b ∈ Z, b ≠ 0", "a, b ∈ Z, b = 0"],
+    "correctAnswer": "a, b ∈ Z, b ≠ 0"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 3/2 là:",
+    "options": ["2", "4/2", "1", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 5/7 - 2/7 là:",
+    "options": ["3/7", "3", "7/3", "3/14"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Kết quả của phép tính (1/3) * (2/5) là:",
+    "options": ["2/15", "3/8", "2/8", "1/15"],
+    "correctAnswer": "2/15"
+  },
+  {
+    "question": "Kết quả của phép tính (4/5) : (2/3) là:",
+    "options": ["6/5", "8/15", "5/6", "15/8"],
+    "correctAnswer": "6/5"
+  },
+  {
+    "question": "Số đối của 3/5 là:",
+    "options": ["-3/5", "5/3", "-5/3", "3/-5"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "So sánh hai số hữu tỉ -2/3 và -4/5",
+    "options": ["-2/3 > -4/5", "-2/3 < -4/5", "-2/3 = -4/5", "Không so sánh được"],
+    "correctAnswer": "-2/3 > -4/5"
+  },
+  {
+    "question": "Kết quả của (2/3)² là:",
+    "options": ["4/9", "2/9", "4/6", "4/3"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Kết quả của (-1/2)³ là:",
+    "options": ["-1/8", "1/8", "-1/6", "1/6"],
+    "correctAnswer": "-1/8"
+  },
+  {
+    "question": "Giá trị của x trong biểu thức x + 1/4 = 5/4 là:",
+    "options": ["x = 1", "x = 6/4", "x = 3/2", "x = 4"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Áp dụng quy tắc chuyển vế, tìm x biết x - 2/3 = 1/3",
+    "options": ["x = 1", "x = -1/3", "x = 1/3", "x = 3"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Thứ tự thực hiện phép tính đúng là:",
+    "options": ["Lũy thừa → Nhân và chia → Cộng và trừ", "Cộng và trừ → Nhân và chia → Lũy thừa", "Nhân và chia → Lũy thừa → Cộng và trừ", "Lũy thừa → Cộng và trừ → Nhân và chia"],
+    "correctAnswer": "Lũy thừa → Nhân và chia → Cộng và trừ"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 1/3 * 3/4 là:",
+    "options": ["3/4", "5/8", "5/6", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Số nghịch đảo của -7 là:",
+    "options": ["-1/7", "7", "1/7", "Không có"],
+    "correctAnswer": "-1/7"
+  },
+  {
+    "question": "Tập hợp các số hữu tỉ được kí hiệu là:",
+    "options": ["Q", "N", "Z", "R"],
+    "correctAnswer": "Q"
+  },
+  {
+    "question": "Số 0 có phải là số hữu tỉ không?",
+    "options": ["Có, vì 0 = 0/1", "Không", "Là số tự nhiên", "Là số nguyên"],
+    "correctAnswer": "Có, vì 0 = 0/1"
+  },
+  {
+    "question": "Kết quả của phép tính 2 - 1/3 là:",
+    "options": ["5/3", "1/3", "2/3", "6"],
+    "correctAnswer": "5/3"
+  },
+  {
+    "question": "Kết quả của phép tính (-2/5) + (-3/5) là:",
+    "options": ["-1", "-5/5", "1", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 5 * (1/10) là:",
+    "options": ["1/2", "5/10", "2", "50"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính (3/4) : 6 là:",
+    "options": ["1/8", "18/4", "3/24", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Giá trị tuyệt đối của -3/4 là:",
+    "options": ["3/4", "-3/4", "4/3", "-4/3"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "So sánh 0.5 và 1/3",
+    "options": ["0.5 > 1/3", "0.5 < 1/3", "0.5 = 1/3", "Không so sánh được"],
+    "correctAnswer": "0.5 > 1/3"
+  },
+  {
+    "question": "Kết quả của (x²)³ là:",
+    "options": ["x⁶", "x⁵", "x⁸", "2x³"],
+    "correctAnswer": "x⁶"
+  },
+  {
+    "question": "Kết quả của (5³)⁴ là:",
+    "options": ["5¹²", "5⁷", "5⁶⁴", "15⁴"],
+    "correctAnswer": "5¹²"
+  },
+  {
+    "question": "Tìm x biết 2x = 1/2",
+    "options": ["x = 1/4", "x = 1", "x = 4", "x = 2"],
+    "correctAnswer": "x = 1/4"
+  },
+  {
+    "question": "Tìm x biết x : (1/3) = 2",
+    "options": ["x = 2/3", "x = 6", "x = 3/2", "x = 5"],
+    "correctAnswer": "x = 2/3"
+  },
+  {
+    "question": "Kết quả của phép tính 5 - (1/2 + 1/3) là:",
+    "options": ["25/6", "5/6", "29/6", "4"],
+    "correctAnswer": "25/6"
+  },
+  {
+    "question": "Kết quả của (1/2)² + (1/2)³ là:",
+    "options": ["3/8", "1/4", "1/8", "2/5"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Số nào không phải là số hữu tỉ?",
+    "options": ["√2", "-3", "0", "5/2"],
+    "correctAnswer": "√2"
+  },
+  {
+    "question": "Điểm biểu diễn số hữu tỉ -3/2 nằm ở đâu trên trục số?",
+    "options": ["Giữa -2 và -1", "Giữa -1 và 0", "Giữa 1 và 2", "Tại điểm -3"],
+    "correctAnswer": "Giữa -2 và -1"
+  },
+  {
+    "question": "Kết quả của phép tính 1/4 - 1/2 là:",
+    "options": ["-1/4", "1/4", "1/2", "-1/2"],
+    "correctAnswer": "-1/4"
+  },
+  {
+    "question": "Tính chất nào cho phép viết a(b+c) = ab + ac?",
+    "options": ["Tính chất phân phối", "Tính chất giao hoán", "Tính chất kết hợp", "Tính chất cộng với 0"],
+    "correctAnswer": "Tính chất phân phối"
+  },
+  {
+    "question": "Kết quả của (-2/3) * (-9/4) là:",
+    "options": ["3/2", "-3/2", "18/12", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Kết quả của 1 : (2/3) là:",
+    "options": ["3/2", "2/3", "1", "3"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Nếu |x| = 1/2 thì x bằng:",
+    "options": ["1/2 hoặc -1/2", "1/2", "-1/2", "Không có giá trị x"],
+    "correctAnswer": "1/2 hoặc -1/2"
+  },
+  {
+    "question": "Kết quả của (10⁵) / (10²) là:",
+    "options": ["10³", "10⁷", "10²·⁵", "1³"],
+    "correctAnswer": "10³"
+  },
+  {
+    "question": "Kết quả của (2/3)⁰ là:",
+    "options": ["1", "0", "2/3", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm x biết (2/3)x = 4/9",
+    "options": ["x = 2/3", "x = 8/27", "x = 3/2", "x = 1"],
+    "correctAnswer": "x = 2/3"
+  },
+  {
+    "question": "Giá trị của biểu thức A = 2/3 + 5/6 : 5 - 1/18 * (-3)² là:",
+    "options": ["1/3", "1", "0", "2/3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Phân số nào biểu diễn số hữu tỉ -0.75?",
+    "options": ["-3/4", "-75/10", "3/-4", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính -1.5 + 2.5 là:",
+    "options": ["1", "-1", "4", "-4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính (-3/4) - (1/2) là:",
+    "options": ["-5/4", "-1/4", "-2/4", "-1"],
+    "correctAnswer": "-5/4"
+  },
+  {
+    "question": "Kết quả của phép tính 0.2 * (-5) là:",
+    "options": ["-1", "1", "-10", "10"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Kết quả của phép tính (-10) : (-2.5) là:",
+    "options": ["4", "-4", "25", "-25"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "So sánh -5 và -21/4",
+    "options": ["-5 > -21/4", "-5 < -21/4", "-5 = -21/4", "Không so sánh được"],
+    "correctAnswer": "-5 > -21/4"
+  },
+  {
+    "question": "Kết quả của (x*y)ⁿ là:",
+    "options": ["xⁿ * yⁿ", "(xy)ⁿ", "x*yⁿ", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của (2*5)³ là:",
+    "options": ["1000", "10³", "2³ * 5³", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Tìm x biết 3/4 - x = 1/2",
+    "options": ["x = 1/4", "x = 5/4", "x = -1/4", "x = 1"],
+    "correctAnswer": "x = 1/4"
+  },
+  {
+    "question": "Kết quả của phép tính 2/5 + 3/5 * (10/9) là:",
+    "options": ["16/15", "1", "2/3", "5/9"],
+    "correctAnswer": "16/15"
+  },
+  {
+    "question": "Số 2 1/3 viết dưới dạng phân số là:",
+    "options": ["7/3", "2/3", "6/3", "5/3"],
+    "correctAnswer": "7/3"
+  },
+  {
+    "question": "Tổng của hai số đối nhau bằng:",
+    "options": ["0", "1", "-1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + (-1/2) + 3/4 là:",
+    "options": ["3/4", "0", "1", "1/4"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Tích của hai số nghịch đảo của nhau bằng:",
+    "options": ["1", "0", "-1", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính (5/6) * (6/5) * (-2/3) là:",
+    "options": ["-2/3", "1", "0", "2/3"],
+    "correctAnswer": "-2/3"
+  },
+  {
+    "question": "Nếu x < 0 thì |x| bằng:",
+    "options": ["-x", "x", "0", "Không xác định"],
+    "correctAnswer": "-x"
+  },
+  {
+    "question": "Kết quả của 3⁴ * 3² là:",
+    "options": ["3⁶", "3⁸", "9⁶", "9⁸"],
+    "correctAnswer": "3⁶"
+  },
+  {
+    "question": "Kết quả của ((-2)³)², là:",
+    "options": ["64", "-64", "(-2)⁵", "(-2)⁶"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Tìm x biết x² = 1/9",
+    "options": ["x = 1/3 hoặc x = -1/3", "x = 1/3", "x = -1/3", "x = 1/81"],
+    "correctAnswer": "x = 1/3 hoặc x = -1/3"
+  },
+  {
+    "question": "Kết quả của phép tính (1/3 - 1/2) * 6 là:",
+    "options": ["-1", "1", "-1/6", "1/6"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Số nào là số hữu tỉ âm?",
+    "options": ["-2/3", "5/-7", "-(-4/5)", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Số nào là số hữu tỉ dương?",
+    "options": ["5/8", "-3/-4", "0.2", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính -1/4 + 0.25 là:",
+    "options": ["0", "0.5", "-0.5", "1/2"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Kết quả của phép tính 3/2 - 1.5 là:",
+    "options": ["0", "1", "3", "1.5"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Kết quả của phép tính (-0.5) * (-2/3) là:",
+    "options": ["1/3", "-1/3", "1", "-1"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Kết quả của phép tính 0.8 : (4/5) là:",
+    "options": ["1", "0.64", "1.6", "4/25"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Nếu x.y = 1 thì y được gọi là gì của x?",
+    "options": ["Số nghịch đảo", "Số đối", "Số bằng", "Số nguyên"],
+    "correctAnswer": "Số nghịch đảo"
+  },
+  {
+    "question": "Kết quả của ((1/2)²)⁵ là:",
+    "options": ["(1/2)¹⁰", "(1/2)⁷", "1/20", "1/32"],
+    "correctAnswer": "(1/2)¹⁰"
+  },
+  {
+    "question": "Kết quả của (x/y)ⁿ là:",
+    "options": ["xⁿ / yⁿ", "(x/y)ⁿ", "xⁿ/y", "x/yⁿ"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tìm x, biết 2/5 + x = 1",
+    "options": ["x = 3/5", "x = -3/5", "x = 7/5", "x = 1"],
+    "correctAnswer": "x = 3/5"
+  },
+  {
+    "question": "Giá trị của biểu thức 1 - [1/4 - (2/3 - 1)²] là:",
+    "options": ["11/36", "25/36", "1", "0"],
+    "correctAnswer": "11/36"
+  },
+  {
+    "question": "Số -2 có thể được viết dưới dạng phân số nào?",
+    "options": ["-2/1", "-4/2", "2/-1", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong các số sau, số nào lớn nhất: -1; -3/2; 0; 1/2?",
+    "options": ["1/2", "0", "-1", "-3/2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Kết quả của phép tính (1/2 + 1/3) : (1/2 - 1/3) là:",
+    "options": ["5", "1/6", "5/6", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 * 3/4 + 1/2 * 1/4 là:",
+    "options": ["1/2", "3/8", "1/8", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Số 0 có số đối không?",
+    "options": ["Có, là chính nó", "Không", "Có, là 1", "Có, là -1"],
+    "correctAnswer": "Có, là chính nó"
+  },
+  {
+    "question": "Số 0 có số nghịch đảo không?",
+    "options": ["Không", "Có, là chính nó", "Có, là 1", "Có, là -1"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Kết quả của (2/3)⁵ * (3/2)⁴ là:",
+    "options": ["2/3", "1", "3/2", "(2/3)⁹"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Kết quả của (-1)¹⁰⁰ là:",
+    "options": ["1", "-1", "100", "-100"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của (-1)⁹⁹ là:",
+    "options": ["-1", "1", "99", "-99"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Tìm x, biết 2ˣ = 16",
+    "options": ["x = 4", "x = 8", "x = 14", "x = 2"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Tìm x, biết 1/2 * x + 3/4 = 5/4",
+    "options": ["x = 1", "x = 1/2", "x = 2", "x = 4/5"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Giá trị của biểu thức | -1/2 | + 3/2 là:",
+    "options": ["2", "1", "4/2", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Số nào vừa là số hữu tỉ, vừa là số tự nhiên?",
+    "options": ["5", "3/2", "-4", "0.5"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép tính 0.75 - 1/4 là:",
+    "options": ["0.5", "1", "0.25", "1/2"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 : 0.5 - 1 là:",
+    "options": ["0", "1", "-0.5", "2"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Kết quả của phép tính (2/5) * (-1.25) là:",
+    "options": ["-1/2", "-0.5", "-2.5/5", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong các phân số sau, phân số nào biểu diễn cùng một số hữu tỉ với phân số -2/5?",
+    "options": ["4/-10", "-4/10", "-6/15", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của (2⁷) / (2³) là:",
+    "options": ["2⁴", "2¹⁰", "1⁴", "2²¹"],
+    "correctAnswer": "2⁴"
+  },
+  {
+    "question": "Kết quả của (x³) * (x⁴) * x là:",
+    "options": ["x⁸", "x⁷", "x¹²", "3x⁸"],
+    "correctAnswer": "x⁸"
+  },
+  {
+    "question": "Tìm x, biết (x - 1/2)² = 0",
+    "options": ["x = 1/2", "x = -1/2", "x = 1/4", "x = 0"],
+    "correctAnswer": "x = 1/2"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 - (1/3 + 1/4) là:",
+    "options": ["-1/12", "1/12", "5/12", "7/12"],
+    "correctAnswer": "-1/12"
+  }
+]
+
