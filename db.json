@@ -16,6 +16,10 @@
                 {
                   "name": "Chương 2: Hằng đẳng thức và ứng dụng",
                   "file": "./data/math-8-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Tứ giác",
+                  "file": "./data/math-8-chapter-3.json"
                 }
               ]
             }
