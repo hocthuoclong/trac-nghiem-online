@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Hành động tung một đồng xu được gọi là:",
+    "options": ["Phép thử ngẫu nhiên", "Biến cố", "Không gian mẫu", "Kết quả"],
+    "correctAnswer": "Phép thử ngẫu nhiên"
+  },
+  {
+    "question": "Tập hợp tất cả các kết quả có thể xảy ra của một phép thử được gọi là:",
+    "options": ["Không gian mẫu", "Biến cố", "Xác suất", "Tần số"],
+    "correctAnswer": "Không gian mẫu"
+  },
+  {
+    "question": "Gieo một con súc sắc 6 mặt. Không gian mẫu của phép thử là:",
+    "options": ["{1, 2, 3, 4, 5, 6}", "{1, 2, 3, 4, 5}", "{S, N}", "{Chẵn, Lẻ}"],
+    "correctAnswer": "{1, 2, 3, 4, 5, 6}"
+  },
+  {
+    "question": "Một tập con của không gian mẫu được gọi là:",
+    "options": ["Biến cố", "Phép thử", "Kết quả", "Xác suất"],
+    "correctAnswer": "Biến cố"
+  },
+  {
+    "question": "Gieo một đồng xu. Biến cố 'mặt ngửa xuất hiện' có bao nhiêu kết quả thuận lợi?",
+    "options": ["1", "2", "0", "1/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Xác suất của biến cố A, ký hiệu P(A), được tính theo công thức:",
+    "options": ["Số kết quả thuận lợi cho A / Tổng số kết quả có thể", "Số kết quả thuận lợi cho A", "Tổng số kết quả có thể", "1 - Số kết quả thuận lợi"],
+    "correctAnswer": "Số kết quả thuận lợi cho A / Tổng số kết quả có thể"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh và 2 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh là:",
+    "options": ["3/5", "2/5", "1/3", "1/2"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Xác suất của biến cố chắc chắn là:",
+    "options": ["1", "0", "100", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Xác suất của biến cố không thể là:",
+    "options": ["0", "1", "-1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tung hai đồng xu. Số phần tử của không gian mẫu là:",
+    "options": ["4", "2", "1", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là 7 là:",
+    "options": ["0", "1/6", "1", "7/6"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một túi chứa các quả bóng được đánh số 1, 2, 3, 4, 5. Lấy ngẫu nhiên một quả. Xác suất lấy được quả bóng ghi số chẵn là:",
+    "options": ["2/5", "3/5", "1/2", "1/5"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Trong một hộp có 10 bút, trong đó có 4 bút màu đỏ. Xác suất để lấy ngẫu nhiên 1 bút không phải màu đỏ là:",
+    "options": ["3/5", "6/10", "Cả A và B", "4/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để được hai mặt sấp là:",
+    "options": ["1/4", "1/2", "3/4", "1"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một vòng quay may mắn có 8 ô bằng nhau, đánh số từ 1 đến 8. Xác suất để kim chỉ vào một số nguyên tố là:",
+    "options": ["1/2", "4/8", "Cả A và B", "3/8"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Số phần tử của không gian mẫu là:",
+    "options": ["36", "12", "6", "2"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "Một lớp có 25 nữ và 15 nam. Chọn ngẫu nhiên một bạn. Xác suất chọn được một bạn nữ là:",
+    "options": ["5/8", "25/40", "Cả A và B", "15/40"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Rút một lá bài từ bộ bài 52 lá. Xác suất rút được lá màu đỏ là:",
+    "options": ["1/2", "26/52", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 20 viên bi, trong đó có 5 viên bi xanh. Xác suất để lấy ngẫu nhiên 1 viên bi không phải màu xanh là:",
+    "options": ["3/4", "15/20", "Cả A và B", "5/20"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Nếu P(A) là xác suất của biến cố A thì:",
+    "options": ["0 ≤ P(A) ≤ 1", "P(A) ≥ 0", "P(A) ≤ 1", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'mặt có số chấm chia hết cho 2' là:",
+    "options": ["{2, 4, 6}", "{1, 3, 5}", "{2, 3, 5}", "{1, 2, 3, 4, 5, 6}"],
+    "correctAnswer": "{2, 4, 6}"
+  },
+  {
+    "question": "Một túi có 10 quả táo, trong đó có 3 quả bị hỏng. Lấy ngẫu nhiên 1 quả. Xác suất lấy được quả táo tốt là:",
+    "options": ["7/10", "3/10", "1", "0"],
+    "correctAnswer": "7/10"
+  },
+  {
+    "question": "Tung hai đồng xu. Biến cố 'có ít nhất một mặt ngửa' có bao nhiêu kết quả thuận lợi?",
+    "options": ["3", "1", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm bằng 5 là:",
+    "options": ["1/9", "4/36", "Cả A và B", "5/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 30 thẻ đánh số từ 1 đến 30. Rút ngẫu nhiên một thẻ. Xác suất để thẻ rút được ghi số chia hết cho 5 là:",
+    "options": ["1/5", "6/30", "Cả A và B", "5/30"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một tổ có 6 nam và 4 nữ. Chọn ngẫu nhiên 1 người. Xác suất chọn được nam là:",
+    "options": ["3/5", "6/10", "Cả A và B", "4/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá 7 là:",
+    "options": ["1/13", "4/52", "Cả A và B", "1/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 15 bóng đèn, trong đó có 5 bóng hỏng. Lấy ngẫu nhiên 1 bóng. Xác suất lấy được bóng tốt là:",
+    "options": ["2/3", "10/15", "Cả A và B", "5/15"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt có số chấm nhỏ hơn 3 là:",
+    "options": ["1/3", "2/6", "Cả A và B", "3/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để hai mặt khác nhau là:",
+    "options": ["1/2", "2/4", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi trắng, 5 bi đen. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi đen là:",
+    "options": ["1/3", "5/15", "Cả A và B", "10/15"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để hai mặt có số chấm giống nhau là:",
+    "options": ["1/6", "6/36", "Cả A và B", "1/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một lớp có 45 học sinh. Chọn ngẫu nhiên 1 bạn làm lớp trưởng. Xác suất để bạn An được chọn là:",
+    "options": ["1/45", "1", "0", "45"],
+    "correctAnswer": "1/45"
+  },
+  {
+    "question": "Một hộp có 50 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, ..., 50. Rút ngẫu nhiên một thẻ. Xác suất để thẻ rút được ghi số là bội của 10 là:",
+    "options": ["1/10", "5/50", "Cả A và B", "10/50"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một túi có 3 quả cam và 2 quả táo. Lấy ngẫu nhiên 2 quả. Số phần tử của không gian mẫu là:",
+    "options": ["10", "C(5,2)", "Cả A và B", "5"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một túi có 3 quả cam và 2 quả táo. Lấy ngẫu nhiên 2 quả. Xác suất để lấy được 2 quả cam là:",
+    "options": ["3/10", "C(3,2)/10", "Cả A và B", "1/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt có số chấm là một số chính phương là:",
+    "options": ["1/3", "2/6", "Cả A và B", "1/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong một hộp bút có 2 bút xanh, 3 bút đỏ, 5 bút đen. Lấy ngẫu nhiên 1 bút. Xác suất lấy được bút không phải màu đen là:",
+    "options": ["1/2", "5/10", "Cả A và B", "5/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung ba đồng xu. Xác suất để có đúng một mặt sấp là:",
+    "options": ["3/8", "1/2", "1/4", "1/8"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 90 sản phẩm tốt. Lấy ngẫu nhiên 1 sản phẩm. Xác suất lấy được phế phẩm là:",
+    "options": ["1/10", "10/100", "Cả A và B", "9/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm bằng 1 là:",
+    "options": ["0", "1/36", "1", "2/36"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một tổ có 8 học sinh. Chọn ngẫu nhiên 2 học sinh. Số cách chọn là:",
+    "options": ["28", "C(8,2)", "Cả A và B", "56"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 25 viên bi. Lấy ngẫu nhiên 1 viên. Số kết quả có thể xảy ra là:",
+    "options": ["25", "1", "50", "100"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá Rô là:",
+    "options": ["1/4", "13/52", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 4 bi đỏ và 6 bi xanh. Lấy ngẫu nhiên 2 bi. Xác suất để 2 bi đều màu đỏ là:",
+    "options": ["2/15", "C(4,2)/C(10,2)", "6/45", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'mặt có số chấm lớn hơn 6' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Một biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Một hộp có 10 phiếu, trong đó có 1 phiếu trúng. Bạn An rút 1 phiếu. Xác suất An trúng là:",
+    "options": ["1/10", "1", "0", "9/10"],
+    "correctAnswer": "1/10"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để có ít nhất một mặt sấp là:",
+    "options": ["3/4", "1 - 1/4", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 13 là:",
+    "options": ["0", "1/36", "1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một lớp có 35 học sinh. Chọn ngẫu nhiên 5 học sinh. Số phần tử của không gian mẫu là:",
+    "options": ["C(35,5)", "A(35,5)", "35⁵", "35*5"],
+    "correctAnswer": "C(35,5)"
+  },
+  {
+    "question": "Một hộp có 8 bi trắng, 2 bi đen. Lấy ngẫu nhiên 2 bi. Xác suất để có ít nhất 1 bi trắng là:",
+    "options": ["44/45", "1 - C(2,2)/C(10,2)", "1 - 1/45", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá không phải là Át là:",
+    "options": ["12/13", "48/52", "Cả A và B", "1 - 1/13"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh, 4 bi đỏ. Lấy ngẫu nhiên 3 bi. Xác suất để 3 bi đều màu xanh là:",
+    "options": ["5/42", "C(5,3)/C(9,3)", "10/84", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt có số chấm là một số chia cho 3 dư 1 là:",
+    "options": ["1/3", "2/6", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung ba đồng xu. Xác suất để ba mặt giống nhau là:",
+    "options": ["1/4", "2/8", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có n bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi đỏ là 2/5. Số bi đỏ là:",
+    "options": ["4", "2", "5", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là 6 là:",
+    "options": ["1/9", "4/36", "Cả A và B", "1/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một tổ có 4 nam và 6 nữ. Chọn ngẫu nhiên 3 người. Xác suất để có cả nam và nữ là:",
+    "options": ["23/30", "1 - (C(4,3)+C(6,3))/C(10,3)", "96/120", "Không phải các đáp án trên"],
+    "correctAnswer": "1 - (C(4,3)+C(6,3))/C(10,3)"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá hình người (J, Q, K) là:",
+    "options": ["3/13", "12/52", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 10 phế phẩm. Lấy ngẫu nhiên 1 sản phẩm. Xác suất lấy được phế phẩm là:",
+    "options": ["1/10", "10%", "Cả A và B", "9/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'mặt có số chấm nhỏ hơn 7' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Một biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Một hộp có 2 bi đỏ, 8 bi xanh. Lấy ngẫu nhiên 2 bi. Xác suất để 2 bi đều màu xanh là:",
+    "options": ["28/45", "C(8,2)/C(10,2)", "Cả A và B", "56/90"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung hai đồng xu. Biến cố 'có đúng một mặt sấp' có bao nhiêu kết quả thuận lợi?",
+    "options": ["2", "1", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 10 là:",
+    "options": ["1/12", "3/36", "Cả A và B", "1/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 30 thẻ đánh số từ 1 đến 30. Rút ngẫu nhiên một thẻ. Xác suất để thẻ rút được ghi số là số chính phương là:",
+    "options": ["1/6", "5/30", "Cả A và B", "1/5"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một tổ có 12 học sinh. Chọn ngẫu nhiên 3 học sinh. Số phần tử của không gian mẫu là:",
+    "options": ["220", "C(12,3)", "Cả A và B", "1320"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá Bích là:",
+    "options": ["1/4", "13/52", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 5 bi trắng và 3 bi đen. Lấy ngẫu nhiên 3 bi. Xác suất để có ít nhất 1 bi trắng là:",
+    "options": ["55/56", "1 - C(3,3)/C(8,3)", "1 - 1/56", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt có số chấm là một ước của 6 là:",
+    "options": ["2/3", "4/6", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung ba đồng xu. Xác suất để số mặt sấp nhiều hơn số mặt ngửa là:",
+    "options": ["1/2", "4/8", "Cả A và B", "3/8"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 2 bi đỏ và 3 bi xanh. Lấy ngẫu nhiên 1 bi. Xác suất để bi đó không đỏ cũng không xanh là:",
+    "options": ["1/2", "5/10", "Cả A và B", "1 - 5/10"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để hai mặt có số chấm khác nhau là:",
+    "options": ["5/6", "1 - 1/6", "30/36", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một tổ có 5 nam và 3 nữ. Chọn ngẫu nhiên 3 người. Xác suất để có đúng 1 nam là:",
+    "options": ["15/56", "C(5,1)C(3,2)/C(8,3)", "5*3/56", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá 10 hoặc lá Rô là:",
+    "options": ["4/13", "16/52", "Cả A và B", "17/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 10 phế phẩm. Lấy ngẫu nhiên 2 sản phẩm. Xác suất để cả hai đều là phế phẩm là:",
+    "options": ["1/110", "C(10,2)/C(100,2)", "45/4950", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố A: 'mặt có số chấm chẵn'. Biến cố B: 'mặt có số chấm lẻ'. A và B là hai biến cố:",
+    "options": ["Đối nhau", "Xung khắc", "Cả A và B", "Độc lập"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 2 bi đỏ, 3 bi xanh. Lấy ngẫu nhiên 2 bi. Xác suất để 2 bi khác màu là:",
+    "options": ["3/5", "6/10", "Cả A và B", "1 - 4/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung hai đồng xu. Biến cố 'có đúng một mặt ngửa' có xác suất là:",
+    "options": ["1/2", "2/4", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 8 là:",
+    "options": ["5/36", "1/6", "4/36", "6/36"],
+    "correctAnswer": "5/36"
+  },
+  {
+    "question": "Một hộp có 30 thẻ đánh số từ 1 đến 30. Rút ngẫu nhiên một thẻ. Xác suất để thẻ rút được ghi số không chia hết cho 3 là:",
+    "options": ["2/3", "20/30", "Cả A và B", "1 - 1/3"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một tổ có 15 học sinh. Chọn ngẫu nhiên 1 học sinh. Số kết quả có thể xảy ra là:",
+    "options": ["15", "1", "30", "15!"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá Át hoặc lá Cơ là:",
+    "options": ["4/13", "16/52", "Cả A và B", "17/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 5 bi trắng và 3 bi đen. Lấy ngẫu nhiên 4 bi. Xác suất để có đúng 2 bi trắng và 2 bi đen là:",
+    "options": ["3/7", "C(5,2)C(3,2)/C(8,4)", "30/70", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt có số chấm là một số không phải số nguyên tố là:",
+    "options": ["1/2", "3/6", "Cả A và B", "1/3"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung ba đồng xu. Xác suất để số mặt ngửa ít hơn số mặt sấp là:",
+    "options": ["1/2", "4/8", "Cả A và B", "3/8"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 6 bi xanh. Lấy ngẫu nhiên 2 bi. Xác suất để có ít nhất 1 bi xanh là:",
+    "options": ["13/15", "1 - C(4,2)/C(10,2)", "1 - 6/45", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là một số chia hết cho 3 là:",
+    "options": ["5/9", "20/36", "Cả A và B", "1 - 16/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một tổ có 5 nam và 3 nữ. Chọn ngẫu nhiên 4 người. Xác suất để có số nam bằng số nữ là:",
+    "options": ["3/7", "C(5,2)C(3,2)/C(8,4)", "30/70", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá 2, 3, 4 hoặc 5 là:",
+    "options": ["4/13", "16/52", "Cả A và B", "1/13"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 10 phế phẩm. Lấy ngẫu nhiên 3 sản phẩm. Xác suất để cả 3 đều là phế phẩm là:",
+    "options": ["1/1155", "C(10,3)/C(100,3)", "120/161700", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  }
+]
+
