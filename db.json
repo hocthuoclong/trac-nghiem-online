@@ -54,6 +54,10 @@
             "midterm-1": {
               "name": "Ôn tập học kỳ 1",
               "file": "./data/math-8-midterm-1.json"
+            },
+            "midterm-2": {
+              "name": "Ôn tập học kỳ 2",
+              "file": "./data/math-8-midterm-2.json"
             }
           }
         }
