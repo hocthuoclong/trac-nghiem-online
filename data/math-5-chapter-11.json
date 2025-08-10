@@ -1,0 +1,758 @@
+[
+  {
+    "question": "Thu thập số liệu thống kê là gì?",
+    "options": ["Là việc thu thập thông tin về một vấn đề quan tâm.", "Là việc vẽ biểu đồ.", "Là việc sắp xếp số liệu.", "Là việc tính toán các số liệu."],
+    "correctAnswer": "Là việc thu thập thông tin về một vấn đề quan tâm."
+  },
+  {
+    "question": "Phân loại số liệu thống kê là gì?",
+    "options": ["Là việc sắp xếp số liệu theo các tiêu chí nhất định.", "Là việc thu thập thông tin.", "Là việc vẽ biểu đồ.", "Là việc tính toán các số liệu."],
+    "correctAnswer": "Là việc sắp xếp số liệu theo các tiêu chí nhất định."
+  },
+  {
+    "question": "Một bảng thống kê các loại trái cây yêu thích của học sinh là ví dụ về:",
+    "options": ["Số liệu thống kê.", "Biểu đồ.", "Phân loại.", "Xác suất."],
+    "correctAnswer": "Số liệu thống kê."
+  },
+  {
+    "question": "Có bao nhiêu học sinh thích ăn táo trong bảng sau? <br/>Táo: 15 bạn, Cam: 10 bạn, Chuối: 20 bạn",
+    "options": ["15 bạn", "10 bạn", "20 bạn", "45 bạn"],
+    "correctAnswer": "15 bạn"
+  },
+  {
+    "question": "Trong bảng trên, tổng số học sinh đã được khảo sát là bao nhiêu?",
+    "options": ["45 bạn", "15 bạn", "20 bạn", "10 bạn"],
+    "correctAnswer": "45 bạn"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn dùng để làm gì?",
+    "options": ["Biểu diễn tỉ lệ của từng phần so với tổng thể.", "Biểu diễn sự thay đổi của một số liệu theo thời gian.", "Biểu diễn số lượng cụ thể.", "Biểu diễn sự liên quan giữa hai đại lượng."],
+    "correctAnswer": "Biểu diễn tỉ lệ của từng phần so với tổng thể."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn được chia thành 4 phần, mỗi phần có diện tích bằng nhau. Tỉ lệ của mỗi phần là:",
+    "options": ["25%", "50%", "75%", "100%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Trên một biểu đồ hình quạt tròn, phần màu đỏ chiếm 50%, phần màu xanh chiếm 25%, phần còn lại là màu vàng. Phần màu vàng chiếm bao nhiêu phần trăm?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Một lớp học có 40 học sinh, trong đó 10 học sinh thích đọc sách. Phần trăm học sinh thích đọc sách là:",
+    "options": ["25%", "10%", "40%", "100%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Tổng tỉ lệ phần trăm của tất cả các phần trong một biểu đồ hình quạt tròn luôn bằng bao nhiêu?",
+    "options": ["100%", "50%", "75%", "10%"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Khi tung một đồng xu, kết quả có thể xảy ra là:",
+    "options": ["Mặt sấp hoặc mặt ngửa.", "Chỉ có mặt sấp.", "Chỉ có mặt ngửa.", "Không có kết quả nào."],
+    "correctAnswer": "Mặt sấp hoặc mặt ngửa."
+  },
+  {
+    "question": "Một hộp có 5 quả bóng xanh và 5 quả bóng đỏ. Tỉ số của số lần rút được quả bóng xanh so với tổng số lần rút là:",
+    "options": ["1/2", "1/5", "1/10", "5/5"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong một phép thử, gieo một con xúc xắc 6 mặt, số các kết quả có thể xảy ra là:",
+    "options": ["6", "1", "2", "3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một sự kiện chắc chắn xảy ra có tỉ số là:",
+    "options": ["1", "0", "0,5", "100%"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một sự kiện không thể xảy ra có tỉ số là:",
+    "options": ["0", "1", "0,5", "100%"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện còn được gọi là gì?",
+    "options": ["Xác suất thực nghiệm.", "Xác suất lí thuyết.", "Tần số.", "Tỉ lệ."],
+    "correctAnswer": "Xác suất thực nghiệm."
+  },
+  {
+    "question": "Khi tung một đồng xu 10 lần, có 6 lần xuất hiện mặt sấp. Tỉ số của số lần mặt sấp xuất hiện là:",
+    "options": ["6/10", "4/10", "10/6", "6"],
+    "correctAnswer": "6/10"
+  },
+  {
+    "question": "Trong một lớp học, có 15 bạn nữ và 20 bạn nam. Số liệu thống kê này là về:",
+    "options": ["Giới tính của học sinh.", "Sở thích của học sinh.", "Điểm số của học sinh.", "Chiều cao của học sinh."],
+    "correctAnswer": "Giới tính của học sinh."
+  },
+  {
+    "question": "Làm thế nào để thu thập dữ liệu về loại phim yêu thích của các bạn trong lớp?",
+    "options": ["Lập phiếu khảo sát.", "Quan sát các bạn.", "Hỏi giáo viên.", "Đoán mò."],
+    "correctAnswer": "Lập phiếu khảo sát."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn cho thấy 25% học sinh thích học Toán. Nếu lớp có 40 học sinh, số học sinh thích học Toán là:",
+    "options": ["10 học sinh", "25 học sinh", "4 học sinh", "2 học sinh"],
+    "correctAnswer": "10 học sinh"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có 3 phần. Phần thứ nhất chiếm 30%, phần thứ hai chiếm 40%. Phần thứ ba chiếm:",
+    "options": ["30%", "40%", "70%", "100%"],
+    "correctAnswer": "30%"
+  },
+  {
+    "question": "Một hộp có 10 quả bóng, gồm 3 xanh, 4 đỏ và 3 vàng. Tỉ số của số lần rút được quả bóng đỏ so với tổng số lần rút là:",
+    "options": ["4/10", "3/10", "1/10", "1/2"],
+    "correctAnswer": "4/10"
+  },
+  {
+    "question": "Gieo một con xúc xắc 6 mặt, xác suất để xuất hiện mặt 6 chấm là:",
+    "options": ["1/6", "6/6", "1/2", "0"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Trong một rổ có 10 quả táo. Tỉ số của số lần lấy được một quả táo so với tổng số lần lấy là:",
+    "options": ["1", "0", "1/10", "10/10"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Khi tung một đồng xu 20 lần, có 12 lần mặt sấp, 8 lần mặt ngửa. Tỉ số của số lần mặt ngửa xuất hiện là:",
+    "options": ["8/20", "12/20", "1/2", "20/8"],
+    "correctAnswer": "8/20"
+  },
+  {
+    "question": "Số liệu thống kê về điểm số các môn học của một học sinh trong một học kì có thể được thể hiện bằng loại biểu đồ nào?",
+    "options": ["Biểu đồ cột", "Biểu đồ hình quạt tròn", "Biểu đồ đoạn thẳng", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Mục đích của việc phân tích số liệu thống kê là gì?",
+    "options": ["Rút ra kết luận và nhận xét về vấn đề đang nghiên cứu.", "Vẽ biểu đồ cho đẹp.", "Làm cho số liệu trông phức tạp hơn.", "Đọc các con số một cách ngẫu nhiên."],
+    "correctAnswer": "Rút ra kết luận và nhận xét về vấn đề đang nghiên cứu."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ học sinh thích các môn thể thao. Phần bóng đá chiếm 40%, bơi lội chiếm 30%. Phần bóng chuyền chiếm bao nhiêu?",
+    "options": ["30%", "40%", "20%", "10%"],
+    "correctAnswer": "30%"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại sách trong thư viện. Sách khoa học chiếm 20%, sách văn học chiếm 50%. Tỉ lệ sách còn lại là gì?",
+    "options": ["Sách tham khảo chiếm 30%", "Sách thiếu nhi chiếm 20%", "Sách lịch sử chiếm 30%", "Sách truyện tranh chiếm 10%"],
+    "correctAnswer": "Sách tham khảo chiếm 30%"
+  },
+  {
+    "question": "Trong một trò chơi, gieo một con xúc xắc 6 mặt, kết quả xuất hiện mặt chẵn (2, 4, 6) là:",
+    "options": ["Một sự kiện ngẫu nhiên.", "Một sự kiện chắc chắn.", "Một sự kiện không thể xảy ra.", "Một sự kiện có thể xảy ra hoặc không."],
+    "correctAnswer": "Một sự kiện ngẫu nhiên."
+  },
+  {
+    "question": "Một túi có 5 viên bi xanh và 5 viên bi đỏ. Lấy ra một viên bi. Xác suất để lấy được viên bi màu xanh là:",
+    "options": ["1/2", "1/5", "1", "0"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong một hộp có 10 viên kẹo. Lấy ra một viên kẹo. Xác suất để lấy được một viên kẹo là:",
+    "options": ["1", "0", "1/10", "10"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt 100 lần, có 15 lần xuất hiện mặt 1 chấm. Tỉ số của số lần xuất hiện mặt 1 chấm là:",
+    "options": ["15/100", "1/6", "15", "100"],
+    "correctAnswer": "15/100"
+  },
+  {
+    "question": "Làm thế nào để ước lượng số lần một sự kiện xảy ra trong một số lần thử lớn?",
+    "options": ["Dựa vào xác suất thực nghiệm của các lần thử trước.", "Đoán mò.", "Luôn chọn số lớn nhất.", "Luôn chọn số nhỏ nhất."],
+    "correctAnswer": "Dựa vào xác suất thực nghiệm của các lần thử trước."
+  },
+  {
+    "question": "Một lớp học có 20 học sinh nam và 20 học sinh nữ. Tỉ số của số học sinh nam so với tổng số học sinh là:",
+    "options": ["1/2", "1/40", "20/20", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các thành phần trong một cái bánh. Bột mì chiếm 60%, đường chiếm 20%. Các thành phần khác chiếm:",
+    "options": ["20%", "40%", "80%", "10%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Khi tung một con xúc xắc 6 mặt, có bao nhiêu kết quả có thể xảy ra?",
+    "options": ["6", "1", "2", "3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Khi tung một đồng xu, xác suất xuất hiện mặt sấp là:",
+    "options": ["1/2", "1", "0", "100%"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Một hộp có 10 quả bóng, tất cả đều màu đỏ. Xác suất để lấy được một quả bóng màu đỏ là:",
+    "options": ["1", "0", "1/10", "10"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Nếu tỉ số của số lần lặp lại một sự kiện là 0,4. Tổng số lần thực hiện là 100 lần. Số lần sự kiện đó xảy ra là:",
+    "options": ["40 lần", "100 lần", "4 lần", "400 lần"],
+    "correctAnswer": "40 lần"
+  },
+  {
+    "question": "Một cửa hàng có 120 sản phẩm. Trong đó có 30 sản phẩm màu xanh. Tỉ lệ sản phẩm màu xanh là:",
+    "options": ["25%", "30%", "120%", "75%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Mục đích chính của biểu đồ hình quạt tròn là gì?",
+    "options": ["So sánh tỉ lệ các phần trong tổng thể.", "So sánh sự thay đổi theo thời gian.", "So sánh các số liệu không liên quan.", "Đếm số lượng."],
+    "correctAnswer": "So sánh tỉ lệ các phần trong tổng thể."
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt tròn, phần lớn nhất là phần chiếm tỉ lệ:",
+    "options": ["Cao nhất.", "Thấp nhất.", "Trung bình.", "Không xác định."],
+    "correctAnswer": "Cao nhất."
+  },
+  {
+    "question": "Một lớp học có 40 học sinh. Biểu đồ hình quạt tròn cho thấy 50% thích học Toán. 25% thích học Văn. Số học sinh thích học Văn là:",
+    "options": ["10 học sinh", "20 học sinh", "25 học sinh", "5 học sinh"],
+    "correctAnswer": "10 học sinh"
+  },
+  {
+    "question": "Nếu tung một đồng xu 100 lần, ta có thể dự đoán rằng mặt sấp sẽ xuất hiện khoảng bao nhiêu lần?",
+    "options": ["50 lần", "100 lần", "25 lần", "75 lần"],
+    "correctAnswer": "50 lần"
+  },
+  {
+    "question": "Một hộp có 20 viên bi, gồm 5 bi xanh, 5 bi đỏ, 10 bi vàng. Tỉ số của số lần rút được bi vàng là:",
+    "options": ["10/20", "5/20", "15/20", "1/20"],
+    "correctAnswer": "10/20"
+  },
+  {
+    "question": "Một sự kiện chắc chắn xảy ra có thể là:",
+    "options": ["Mặt trời mọc vào ngày mai.", "Rút được bi xanh từ hộp toàn bi đỏ.", "Gieo xúc xắc được mặt 7 chấm.", "Hôm nay là thứ hai."],
+    "correctAnswer": "Mặt trời mọc vào ngày mai."
+  },
+  {
+    "question": "Một sự kiện không thể xảy ra có thể là:",
+    "options": ["Rút được bi đỏ từ hộp toàn bi xanh.", "Gieo xúc xắc được mặt 6 chấm.", "Mặt trời lặn vào ngày mai.", "Hôm nay là thứ ba."],
+    "correctAnswer": "Rút được bi đỏ từ hộp toàn bi xanh."
+  },
+  {
+    "question": "Để sắp xếp số liệu về chiều cao của các học sinh, ta có thể:",
+    "options": ["Sắp xếp từ thấp đến cao.", "Sắp xếp từ cao đến thấp.", "Cả hai cách trên đều đúng.", "Không cần sắp xếp."],
+    "correctAnswer": "Cả hai cách trên đều đúng."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các phương tiện đi học của học sinh. Xe đạp chiếm 60%, xe buýt chiếm 30%. Đi bộ chiếm bao nhiêu?",
+    "options": ["10%", "60%", "30%", "90%"],
+    "correctAnswer": "10%"
+  },
+  {
+    "question": "Trong một phép thử, gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt có số chấm lẻ (1, 3, 5) là:",
+    "options": ["Một sự kiện ngẫu nhiên.", "Một sự kiện chắc chắn.", "Một sự kiện không thể xảy ra.", "Một sự kiện có xác suất bằng 1/2."],
+    "correctAnswer": "Một sự kiện ngẫu nhiên."
+  },
+  {
+    "question": "Một lớp học có 40 học sinh. Có 20 nam và 20 nữ. Tỉ số của số học sinh nữ so với tổng số học sinh là:",
+    "options": ["20/40", "1/20", "40/20", "20/20"],
+    "correctAnswer": "20/40"
+  },
+  {
+    "question": "Sắp xếp dữ liệu giúp chúng ta:",
+    "options": ["Dễ dàng phân tích và so sánh các số liệu.", "Làm cho dữ liệu khó hiểu hơn.", "Không có lợi ích gì.", "Tạo ra các con số ngẫu nhiên."],
+    "correctAnswer": "Dễ dàng phân tích và so sánh các số liệu."
+  },
+  {
+    "question": "Một cửa hàng có 500 khách hàng. Biểu đồ hình quạt tròn cho thấy 20% khách hàng mua giày. Số khách hàng mua giày là:",
+    "options": ["100 khách hàng", "20 khách hàng", "50 khách hàng", "200 khách hàng"],
+    "correctAnswer": "100 khách hàng"
+  },
+  {
+    "question": "Trong một phép thử, rút một quân bài từ bộ bài tú lơ khơ 52 lá. Tỉ số của số lần rút được quân át so với tổng số lần rút là:",
+    "options": ["4/52", "1/52", "1/4", "1"],
+    "correctAnswer": "4/52"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt 60 lần, có bao nhiêu lần có thể xuất hiện mặt 3 chấm?",
+    "options": ["Khoảng 10 lần.", "Khoảng 60 lần.", "Khoảng 3 lần.", "Khoảng 1 lần."],
+    "correctAnswer": "Khoảng 10 lần."
+  },
+  {
+    "question": "Một lớp học có 30 học sinh. 10 học sinh thích đọc truyện tranh, 15 học sinh thích đọc sách giáo khoa, 5 học sinh thích đọc truyện cổ tích. Sắp xếp số liệu theo sở thích đọc sách từ ít đến nhiều là:",
+    "options": ["Truyện cổ tích, truyện tranh, sách giáo khoa.", "Sách giáo khoa, truyện tranh, truyện cổ tích.", "Truyện tranh, truyện cổ tích, sách giáo khoa.", "Không sắp xếp được."],
+    "correctAnswer": "Truyện cổ tích, truyện tranh, sách giáo khoa."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có 2 phần, tỉ lệ lần lượt là 40% và 60%. Góc ở tâm của phần 40% là:",
+    "options": ["144 độ", "40 độ", "100 độ", "180 độ"],
+    "correctAnswer": "144 độ"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện luôn nằm trong khoảng:",
+    "options": ["Từ 0 đến 1.", "Từ 1 đến 100.", "Từ 0 đến 100.", "Từ 0 đến 10."],
+    "correctAnswer": "Từ 0 đến 1."
+  },
+  {
+    "question": "Một hộp có 10 viên bi, gồm 2 bi xanh, 3 bi đỏ, 5 bi vàng. Lấy ngẫu nhiên một bi. Xác suất để lấy được bi xanh là:",
+    "options": ["2/10", "3/10", "5/10", "1/10"],
+    "correctAnswer": "2/10"
+  },
+  {
+    "question": "Một phép thử, gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt có số chấm lớn hơn 6 là:",
+    "options": ["Sự kiện không thể xảy ra.", "Sự kiện chắc chắn xảy ra.", "Sự kiện ngẫu nhiên.", "Sự kiện có xác suất 1/6."],
+    "correctAnswer": "Sự kiện không thể xảy ra."
+  },
+  {
+    "question": "Lớp 5A có 20 học sinh giỏi, 10 học sinh khá, 5 học sinh trung bình. Tổng số học sinh của lớp là:",
+    "options": ["35 học sinh", "20 học sinh", "10 học sinh", "5 học sinh"],
+    "correctAnswer": "35 học sinh"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn dùng để biểu diễn dữ liệu gì?",
+    "options": ["Tỉ lệ phần trăm.", "Số lượng tuyệt đối.", "Thứ tự thời gian.", "Sự thay đổi liên tục."],
+    "correctAnswer": "Tỉ lệ phần trăm."
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện là 0,25. Tỉ lệ phần trăm của sự kiện đó là:",
+    "options": ["25%", "2,5%", "0,25%", "250%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Một cuộc khảo sát về loại kem yêu thích của 50 người, có 20 người thích kem vani, 15 người thích kem sô-cô-la, 15 người thích kem dâu. Tỉ lệ người thích kem vani là:",
+    "options": ["40%", "30%", "15%", "20%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Tỉ số của số lần mặt ngửa xuất hiện khi tung đồng xu là 0,5. Số lần mặt ngửa xuất hiện trong 200 lần tung là:",
+    "options": ["100 lần", "50 lần", "200 lần", "150 lần"],
+    "correctAnswer": "100 lần"
+  },
+  {
+    "question": "Một hộp có 100 viên bi, trong đó có 20 bi xanh. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi xanh là:",
+    "options": ["20/100", "20", "1/20", "20%"],
+    "correctAnswer": "20/100"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn ngân sách gia đình. Chi tiêu ăn uống chiếm 50%, tiền nhà chiếm 30%. Tiền tiết kiệm chiếm:",
+    "options": ["20%", "50%", "30%", "10%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Sự kiện 'Học sinh lớp 5 biết đọc' là một sự kiện:",
+    "options": ["Chắc chắn xảy ra.", "Không thể xảy ra.", "Ngẫu nhiên.", "Tùy thuộc vào thời gian."],
+    "correctAnswer": "Chắc chắn xảy ra."
+  },
+  {
+    "question": "Một cửa hàng có 1000 sản phẩm. 10% sản phẩm là đồ chơi. Số lượng đồ chơi là:",
+    "options": ["100 sản phẩm", "10 sản phẩm", "1000 sản phẩm", "90 sản phẩm"],
+    "correctAnswer": "100 sản phẩm"
+  },
+  {
+    "question": "Tỉ số của số lần một sự kiện xảy ra được tính bằng công thức nào?",
+    "options": ["Số lần sự kiện xảy ra / Tổng số lần thực hiện.", "Tổng số lần thực hiện / Số lần sự kiện xảy ra.", "Số lần sự kiện xảy ra - Tổng số lần thực hiện.", "Số lần sự kiện xảy ra + Tổng số lần thực hiện."],
+    "correctAnswer": "Số lần sự kiện xảy ra / Tổng số lần thực hiện."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn cho thấy 75% học sinh thích học ngoại ngữ. Số học sinh còn lại không thích học ngoại ngữ. Tỉ lệ học sinh không thích là:",
+    "options": ["25%", "75%", "100%", "50%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt, xác suất xuất hiện mặt có số chấm nhỏ hơn 7 là:",
+    "options": ["1", "0", "1/6", "1/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một hộp có 10 bi, gồm 6 bi đỏ và 4 bi xanh. Tỉ số của số lần rút được bi xanh so với tổng số lần rút là:",
+    "options": ["4/10", "6/10", "10/4", "1/10"],
+    "correctAnswer": "4/10"
+  },
+  {
+    "question": "Một lớp học có 35 học sinh. Biểu đồ hình quạt tròn cho thấy 20% học sinh thích môn Toán. Số học sinh thích môn Toán là:",
+    "options": ["7 học sinh", "20 học sinh", "35 học sinh", "2 học sinh"],
+    "correctAnswer": "7 học sinh"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện có thể được sử dụng để ước lượng gì?",
+    "options": ["Xác suất của sự kiện đó.", "Số lần sự kiện sẽ không xảy ra.", "Tổng số lần thực hiện.", "Thời gian xảy ra sự kiện."],
+    "correctAnswer": "Xác suất của sự kiện đó."
+  },
+  {
+    "question": "Một hộp có 100 quả bóng, trong đó 25 quả xanh, 35 quả đỏ, 40 quả vàng. Tỉ số của số lần rút được quả bóng xanh là:",
+    "options": ["0,25", "0,35", "0,4", "1"],
+    "correctAnswer": "0,25"
+  },
+  {
+    "question": "Một sự kiện không thể xảy ra có thể là:",
+    "options": ["Mặt trời mọc vào buổi chiều.", "Học sinh lớp 5 biết làm toán lớp 1.", "Gieo một con xúc xắc được 1 chấm.", "Hôm nay trời mưa."],
+    "correctAnswer": "Mặt trời mọc vào buổi chiều."
+  },
+  {
+    "question": "Mục đích của việc sắp xếp số liệu là gì?",
+    "options": ["Để dễ dàng so sánh và phân tích.", "Để số liệu đẹp mắt hơn.", "Để mọi người không hiểu được.", "Để làm số liệu phức tạp hơn."],
+    "correctAnswer": "Để dễ dàng so sánh và phân tích."
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn được chia thành các phần có diện tích tỉ lệ với:",
+    "options": ["Tỉ lệ phần trăm của các số liệu.", "Tổng số liệu.", "Số lượng các số liệu.", "Số liệu nhỏ nhất."],
+    "correctAnswer": "Tỉ lệ phần trăm của các số liệu."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có một phần chiếm 180 độ. Tỉ lệ phần trăm của phần đó là:",
+    "options": ["50%", "180%", "25%", "100%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Khi tung một đồng xu 1000 lần, mặt sấp xuất hiện 498 lần. Tỉ số của số lần mặt sấp là:",
+    "options": ["0,498", "0,502", "1", "49,8%"],
+    "correctAnswer": "0,498"
+  },
+  {
+    "question": "Một cửa hàng có 200 chiếc áo. 40 chiếc màu trắng, 60 chiếc màu đen, 100 chiếc màu khác. Tỉ lệ áo màu trắng là:",
+    "options": ["20%", "40%", "60%", "100%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Sự kiện 'Rút được một thẻ màu đỏ từ hộp có thẻ màu đỏ và màu xanh' là một sự kiện:",
+    "options": ["Ngẫu nhiên.", "Chắc chắn.", "Không thể xảy ra.", "Có tỉ số bằng 1."],
+    "correctAnswer": "Ngẫu nhiên."
+  },
+  {
+    "question": "Một hộp có 20 quả táo, 10 quả cam. Lấy ra một quả. Tỉ số của số lần lấy được quả táo là:",
+    "options": ["20/30", "10/30", "1/20", "1/10"],
+    "correctAnswer": "20/30"
+  },
+  {
+    "question": "Nếu tổng số lần thực hiện là 500 lần và tỉ số của một sự kiện là 0,1. Số lần sự kiện đó xảy ra là:",
+    "options": ["50 lần", "10 lần", "1 lần", "5 lần"],
+    "correctAnswer": "50 lần"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ chi tiêu hàng tháng. Ăn uống chiếm 40%, đi lại chiếm 10%. Chi phí khác chiếm:",
+    "options": ["50%", "40%", "10%", "30%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Sự kiện 'Gieo một con xúc xắc 6 mặt, mặt 1 chấm xuất hiện' là một sự kiện:",
+    "options": ["Có thể xảy ra.", "Không thể xảy ra.", "Chắc chắn xảy ra.", "Có tỉ số bằng 1."],
+    "correctAnswer": "Có thể xảy ra."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn sở thích đọc sách của học sinh. Truyện tranh chiếm 50%, sách khoa học chiếm 30%. Sách văn học chiếm:",
+    "options": ["20%", "50%", "30%", "80%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Tỉ số của số lần mặt ngửa xuất hiện khi tung đồng xu là 0,5. Nếu tổng số lần tung là 10 lần, số lần mặt ngửa xuất hiện là:",
+    "options": ["5 lần", "10 lần", "20 lần", "2,5 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Một hộp có 20 viên bi, 10 bi đỏ, 5 bi xanh, 5 bi vàng. Tỉ số của số lần rút được bi đỏ là:",
+    "options": ["10/20", "5/20", "5/10", "1/20"],
+    "correctAnswer": "10/20"
+  },
+  {
+    "question": "Một cuộc khảo sát về loại hoa yêu thích của 100 người. 40 người thích hoa hồng, 30 người thích hoa cúc, 30 người thích hoa sen. Tỉ lệ người thích hoa hồng là:",
+    "options": ["40%", "30%", "100%", "50%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Để sắp xếp số liệu về cân nặng của các bạn học sinh, ta có thể:",
+    "options": ["Sắp xếp từ nhẹ đến nặng.", "Sắp xếp từ nặng đến nhẹ.", "Cả hai cách trên đều đúng.", "Không cần sắp xếp."],
+    "correctAnswer": "Cả hai cách trên đều đúng."
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện so với tổng số lần thực hiện được biểu diễn dưới dạng nào?",
+    "options": ["Phân số, số thập phân hoặc phần trăm.", "Chỉ có phân số.", "Chỉ có số thập phân.", "Chỉ có phần trăm."],
+    "correctAnswer": "Phân số, số thập phân hoặc phần trăm."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có một phần chiếm 90 độ. Tỉ lệ phần trăm của phần đó là:",
+    "options": ["25%", "90%", "50%", "100%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Một cuộc khảo sát về màu sắc yêu thích của 20 học sinh. 5 bạn thích màu đỏ, 10 bạn thích màu xanh, 5 bạn thích màu vàng. Sắp xếp số liệu từ nhiều đến ít là:",
+    "options": ["Màu xanh, màu đỏ, màu vàng.", "Màu đỏ, màu xanh, màu vàng.", "Màu vàng, màu xanh, màu đỏ.", "Màu xanh, màu vàng, màu đỏ."],
+    "correctAnswer": "Màu xanh, màu đỏ, màu vàng."
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt có số chấm là số nguyên tố (2, 3, 5) là:",
+    "options": ["Một sự kiện ngẫu nhiên.", "Một sự kiện chắc chắn.", "Một sự kiện không thể xảy ra.", "Một sự kiện có tỉ số 1/3."],
+    "correctAnswer": "Một sự kiện ngẫu nhiên."
+  },
+  {
+    "question": "Một lớp học có 40 học sinh. 25% thích môn Văn. Số học sinh không thích môn Văn là:",
+    "options": ["30 học sinh", "10 học sinh", "25 học sinh", "20 học sinh"],
+    "correctAnswer": "30 học sinh"
+  },
+  {
+    "question": "Một hộp có 50 viên kẹo. Trong đó có 10 kẹo vị dâu. Tỉ lệ kẹo vị dâu là:",
+    "options": ["20%", "10%", "50%", "40%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn còn được gọi là gì?",
+    "options": ["Biểu đồ tròn.", "Biểu đồ cột.", "Biểu đồ thanh.", "Biểu đồ đường."],
+    "correctAnswer": "Biểu đồ tròn."
+  },
+  {
+    "question": "Một sự kiện chắc chắn xảy ra có tỉ lệ phần trăm là:",
+    "options": ["100%", "50%", "0%", "1%"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Nếu tung một đồng xu 10 lần, mặt ngửa xuất hiện 4 lần. Tỉ số của số lần mặt ngửa là:",
+    "options": ["4/10", "6/10", "10/4", "1/4"],
+    "correctAnswer": "4/10"
+  },
+  {
+    "question": "Một hộp có 10 viên bi, gồm 5 bi đỏ và 5 bi xanh. Lấy ra ngẫu nhiên một bi. Sự kiện 'Lấy được bi đỏ' có xác suất là:",
+    "options": ["1/2", "1/5", "1/10", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Một cuộc khảo sát về số anh chị em của học sinh. Dữ liệu này có thể được sắp xếp theo:",
+    "options": ["Số lượng anh chị em từ ít đến nhiều.", "Thứ tự bảng chữ cái.", "Màu sắc.", "Kích thước."],
+    "correctAnswer": "Số lượng anh chị em từ ít đến nhiều."
+  },
+  {
+    "question": "Tỉ số của số lần một sự kiện xảy ra có thể lớn hơn 1 không?",
+    "options": ["Không thể.", "Có thể.", "Tùy thuộc vào sự kiện.", "Chỉ khi số lần thực hiện nhỏ."],
+    "correctAnswer": "Không thể."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ học sinh thích các môn học. Phần Toán chiếm 45%, phần Văn chiếm 25%. Phần còn lại là Tiếng Anh. Tỉ lệ Tiếng Anh là:",
+    "options": ["30%", "25%", "45%", "100%"],
+    "correctAnswer": "30%"
+  },
+  {
+    "question": "Sự kiện 'Gieo một con xúc xắc 6 mặt, mặt 7 chấm xuất hiện' là một sự kiện:",
+    "options": ["Có xác suất bằng 0.", "Có xác suất bằng 1.", "Có xác suất bằng 1/6.", "Có xác suất bằng 1/2."],
+    "correctAnswer": "Có xác suất bằng 0."
+  },
+  {
+    "question": "Một hộp có 100 viên bi, 20 bi xanh, 80 bi đỏ. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi đỏ là:",
+    "options": ["80/100", "20/100", "100/80", "1/2"],
+    "correctAnswer": "80/100"
+  },
+  {
+    "question": "Một phép thử, tung một đồng xu 100 lần. Có 52 lần mặt sấp, 48 lần mặt ngửa. Tỉ số của số lần mặt sấp là:",
+    "options": ["52/100", "48/100", "100/52", "100/48"],
+    "correctAnswer": "52/100"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện luôn là một số:",
+    "options": ["Không âm.", "Âm.", "Lớn hơn 1.", "Nhỏ hơn 0."],
+    "correctAnswer": "Không âm."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các mùa yêu thích. Mùa xuân 25%, mùa hè 40%, mùa thu 20%. Mùa đông chiếm:",
+    "options": ["15%", "20%", "25%", "100%"],
+    "correctAnswer": "15%"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt có số chấm là 1 là:",
+    "options": ["Một sự kiện ngẫu nhiên.", "Một sự kiện chắc chắn.", "Một sự kiện không thể xảy ra.", "Một sự kiện có tỉ số bằng 1."],
+    "correctAnswer": "Một sự kiện ngẫu nhiên."
+  },
+  {
+    "question": "Một hộp có 10 viên bi, tất cả đều màu xanh. Lấy ra ngẫu nhiên một viên bi. Xác suất để lấy được bi đỏ là:",
+    "options": ["0", "1", "1/10", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một cuộc khảo sát về loại quả yêu thích của 50 học sinh. 20 bạn thích xoài, 15 bạn thích ổi, 15 bạn thích cam. Tỉ lệ học sinh thích xoài là:",
+    "options": ["40%", "20%", "30%", "10%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Nếu tung một đồng xu 200 lần, có bao nhiêu lần có thể xuất hiện mặt ngửa?",
+    "options": ["Khoảng 100 lần.", "Khoảng 200 lần.", "Khoảng 50 lần.", "Khoảng 75 lần."],
+    "correctAnswer": "Khoảng 100 lần."
+  },
+  {
+    "question": "Một hộp có 10 bi, 5 bi xanh, 5 bi đỏ. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi xanh là:",
+    "options": ["5/10", "5", "10", "1/5"],
+    "correctAnswer": "5/10"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện có giá trị lớn nhất là:",
+    "options": ["1", "100", "0,5", "Không có giới hạn."],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ học sinh đạt điểm giỏi, khá, trung bình. Giỏi chiếm 50%, khá chiếm 30%. Trung bình chiếm:",
+    "options": ["20%", "50%", "30%", "100%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Một sự kiện 'Hôm nay là chủ nhật' có xác suất là:",
+    "options": ["1/7", "1", "0", "1/2"],
+    "correctAnswer": "1/7"
+  },
+  {
+    "question": "Một hộp có 10 viên bi, 3 bi đỏ, 7 bi xanh. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi đỏ là:",
+    "options": ["3/10", "7/10", "10/3", "1/10"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Một cuộc khảo sát về số thành viên trong gia đình. Dữ liệu này có thể được sắp xếp theo:",
+    "options": ["Số thành viên từ ít đến nhiều.", "Tên gọi của thành viên.", "Số tuổi của thành viên.", "Chiều cao của thành viên."],
+    "correctAnswer": "Số thành viên từ ít đến nhiều."
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn thường được sử dụng khi:",
+    "options": ["Muốn so sánh các thành phần trong một tổng thể.", "Muốn so sánh sự thay đổi theo thời gian.", "Muốn so sánh số lượng tuyệt đối.", "Muốn so sánh các đối tượng không liên quan."],
+    "correctAnswer": "Muốn so sánh các thành phần trong một tổng thể."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại phim yêu thích. Hành động chiếm 35%, hài hước chiếm 25%. Phim khoa học viễn tưởng chiếm:",
+    "options": ["40%", "35%", "25%", "60%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt 5 chấm có tỉ số là:",
+    "options": ["1/6", "5/6", "1/5", "1"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Một hộp có 100 viên bi, 50 bi đỏ, 50 bi xanh. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi đỏ là:",
+    "options": ["50/100", "50", "100", "1/50"],
+    "correctAnswer": "50/100"
+  },
+  {
+    "question": "Một sự kiện 'Gieo một con xúc xắc 6 mặt, mặt có số chấm là 1, 2, 3, 4, 5, 6 xuất hiện' là:",
+    "options": ["Một sự kiện chắc chắn.", "Một sự kiện không thể xảy ra.", "Một sự kiện ngẫu nhiên.", "Một sự kiện có tỉ số 1/6."],
+    "correctAnswer": "Một sự kiện chắc chắn."
+  },
+  {
+    "question": "Một cuộc khảo sát về chiều cao của 10 học sinh. Sắp xếp số liệu từ thấp đến cao giúp:",
+    "options": ["Tìm ra học sinh cao nhất và thấp nhất một cách dễ dàng.", "Không có lợi ích gì.", "Làm cho số liệu trông khó hiểu hơn.", "Tạo ra một biểu đồ hình quạt tròn."],
+    "correctAnswer": "Tìm ra học sinh cao nhất và thấp nhất một cách dễ dàng."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại đồ uống yêu thích. Nước ngọt chiếm 50%, nước trái cây chiếm 30%. Sữa chiếm:",
+    "options": ["20%", "50%", "30%", "100%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Một hộp có 100 viên bi, 10 viên xanh, 90 viên đỏ. Tỉ số của số lần rút được bi xanh là:",
+    "options": ["10/100", "90/100", "10", "90"],
+    "correctAnswer": "10/100"
+  },
+  {
+    "question": "Một sự kiện 'Rút được một thẻ màu đỏ từ hộp toàn thẻ màu xanh' có tỉ số là:",
+    "options": ["0", "1", "0,5", "100%"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một lớp học có 25 học sinh. Trong đó có 5 học sinh tóc dài, 10 học sinh tóc ngắn và 10 học sinh tóc xoăn. Tỉ lệ học sinh tóc ngắn là:",
+    "options": ["40%", "20%", "10%", "50%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện có giá trị nhỏ nhất là:",
+    "options": ["0", "1", "-1", "0,5"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các mùa yêu thích. Mùa xuân 25%, mùa hè 40%, mùa thu 20%, mùa đông 15%. Phần nào lớn nhất?",
+    "options": ["Mùa hè.", "Mùa xuân.", "Mùa thu.", "Mùa đông."],
+    "correctAnswer": "Mùa hè."
+  },
+  {
+    "question": "Một hộp có 20 viên bi, gồm 10 bi xanh và 10 bi đỏ. Tỉ số của số lần rút được bi xanh so với tổng số lần rút là:",
+    "options": ["1/2", "1/10", "10/20", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một cuộc khảo sát về số con vật nuôi trong gia đình. Dữ liệu này có thể được sắp xếp theo:",
+    "options": ["Số con vật nuôi từ nhiều đến ít.", "Thứ tự bảng chữ cái.", "Màu sắc của vật nuôi.", "Kích thước của vật nuôi."],
+    "correctAnswer": "Số con vật nuôi từ nhiều đến ít."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại nhạc. Nhạc Pop chiếm 50%, nhạc Rock chiếm 30%. Nhạc cổ điển chiếm:",
+    "options": ["20%", "50%", "30%", "100%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt có số chấm là số chẵn (2, 4, 6) có tỉ số là:",
+    "options": ["3/6", "1/6", "1/2", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một hộp có 100 viên bi, tất cả đều màu đỏ. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi xanh là:",
+    "options": ["0", "1", "1/100", "100"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một cuộc khảo sát về loại đồ ăn sáng yêu thích của 20 học sinh. 10 bạn thích xôi, 5 bạn thích bánh mì, 5 bạn thích phở. Tỉ lệ học sinh thích xôi là:",
+    "options": ["50%", "25%", "10%", "5%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Nếu tung một đồng xu 50 lần, số lần mặt sấp xuất hiện là 25. Tỉ số của số lần mặt sấp là:",
+    "options": ["25/50", "0,5", "50%", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một hộp có 10 viên bi, 3 bi xanh, 3 bi đỏ, 4 bi vàng. Tỉ số của số lần rút được bi xanh là:",
+    "options": ["3/10", "4/10", "10/3", "1/10"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại cây ăn quả. Táo chiếm 30%, cam chiếm 20%. Xoài chiếm:",
+    "options": ["50%", "30%", "20%", "100%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Sự kiện 'Học sinh lớp 5 biết đọc và biết viết' là một sự kiện:",
+    "options": ["Chắc chắn xảy ra.", "Không thể xảy ra.", "Ngẫu nhiên.", "Tùy thuộc vào thời gian."],
+    "correctAnswer": "Chắc chắn xảy ra."
+  },
+  {
+    "question": "Một hộp có 10 viên bi, 5 bi xanh, 5 bi đỏ. Rút ngẫu nhiên một bi. Xác suất để lấy được bi đỏ là:",
+    "options": ["1/2", "1/5", "1/10", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Một cuộc khảo sát về số môn học yêu thích. Sắp xếp số liệu từ nhiều đến ít giúp:",
+    "options": ["Tìm ra môn học được yêu thích nhất.", "Làm cho số liệu khó hiểu hơn.", "Không có lợi ích gì.", "Tạo ra các con số ngẫu nhiên."],
+    "correctAnswer": "Tìm ra môn học được yêu thích nhất."
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn thường được dùng để thể hiện các số liệu liên quan đến:",
+    "options": ["Tỉ lệ và phần trăm.", "Sự thay đổi theo thời gian.", "Số lượng tuyệt đối.", "Thứ tự."],
+    "correctAnswer": "Tỉ lệ và phần trăm."
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có một phần chiếm 120 độ. Tỉ lệ phần trăm của phần đó là:",
+    "options": ["33,33%", "120%", "50%", "100%"],
+    "correctAnswer": "33,33%"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc 6 mặt, sự kiện xuất hiện mặt có số chấm là 1, 2, 3 có tỉ số là:",
+    "options": ["3/6", "1/6", "1/2", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một hộp có 10 viên bi, 5 bi xanh, 5 bi đỏ. Rút ngẫu nhiên một bi. Tỉ số của số lần rút được bi đỏ là:",
+    "options": ["5/10", "1/2", "0,5", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một cuộc khảo sát về loại hình giải trí yêu thích của 100 người. 50 người thích xem phim, 30 người thích nghe nhạc, 20 người thích đọc sách. Tỉ lệ người thích xem phim là:",
+    "options": ["50%", "30%", "20%", "100%"],
+    "correctAnswer": "50%"
+  },
+  {
+    "question": "Tỉ số của số lần lặp lại một sự kiện có thể bằng 0 khi:",
+    "options": ["Sự kiện đó không thể xảy ra.", "Sự kiện đó chắc chắn xảy ra.", "Sự kiện đó ngẫu nhiên.", "Không có trường hợp nào."],
+    "correctAnswer": "Sự kiện đó không thể xảy ra."
+  }
+]
+
