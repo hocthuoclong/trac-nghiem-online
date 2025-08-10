@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Trong tam giác ABC vuông tại A, sin(B) bằng:",
+    "options": ["AC/BC", "AB/BC", "AC/AB", "AB/AC"],
+    "correctAnswer": "AC/BC"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, cos(B) bằng:",
+    "options": ["AB/BC", "AC/BC", "AC/AB", "AB/AC"],
+    "correctAnswer": "AB/BC"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A. Hệ thức nào sau đây đúng?",
+    "options": ["sin²(B) + cos²(B) = 1", "sin(B) = cos(C)", "tan(B) = cot(C)", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Giá trị của sin(30°) là:",
+    "options": ["1/2", "√3/2", "√2/2", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=3, AC=4. Giá trị của tan(B) là:",
+    "options": ["4/3", "3/4", "3/5", "4/5"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Hệ thức nào sau đây sai?",
+    "options": ["AH² = AB.AC", "AB² = BH.BC", "AC² = CH.BC", "1/AH² = 1/AB² + 1/AC²"],
+    "correctAnswer": "AH² = AB.AC"
+  },
+  {
+    "question": "Một cột đèn cao 7m có bóng trên mặt đất dài 4m. Góc tạo bởi tia nắng và mặt đất xấp xỉ:",
+    "options": ["60°", "30°", "75°", "45°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Cho góc nhọn α. Biết sin(α) = 3/5. Giá trị của cos(α) là:",
+    "options": ["4/5", "3/5", "5/4", "5/3"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, AB = c, AC = b. Khi đó b bằng:",
+    "options": ["c.tan(B)", "c.cot(B)", "a.cos(B)", "a.sin(C)"],
+    "correctAnswer": "c.tan(B)"
+  },
+  {
+    "question": "Giá trị của cos(60°) bằng:",
+    "options": ["1/2", "√3/2", "√2/2", "0"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, tan(B) bằng:",
+    "options": ["Đối / Kề", "Kề / Huyền", "Đối / Huyền", "Kề / Đối"],
+    "correctAnswer": "Đối / Kề"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có AB=6, BC=10. Độ dài đường cao AH là:",
+    "options": ["4.8", "5", "6", "8"],
+    "correctAnswer": "4.8"
+  },
+  {
+    "question": "Một cái thang dài 5m, đặt dựa vào tường. Chân thang cách tường 3m. Góc tạo bởi thang và mặt đất là:",
+    "options": ["arccos(3/5)", "arcsin(3/5)", "arctan(5/3)", "53°"],
+    "correctAnswer": "arccos(3/5)"
+  },
+  {
+    "question": "Giá trị của tan(45°) là:",
+    "options": ["1", "0", "√3", "1/√3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có AC=5, C=30°. Cạnh BC bằng:",
+    "options": ["10", "5√3", "10/√3", "5/2"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hệ thức nào sau đây là đúng?",
+    "options": ["tan(α) = sin(α)/cos(α)", "cot(α) = cos(α)/sin(α)", "tan(α).cot(α) = 1", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có AB=5, AC=12. Cạnh huyền BC bằng:",
+    "options": ["13", "17", "√119", "7"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Giá trị của cot(30°) là:",
+    "options": ["√3", "1/√3", "1", "0"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Cho tam giác MNP vuông tại M, đường cao MH. Biết NH=5, HP=9. Độ dài MH là:",
+    "options": ["3√5", "45", "14", "4"],
+    "correctAnswer": "3√5"
+  },
+  {
+    "question": "Một máy bay đang bay ở độ cao 10km. Khi hạ cánh, đường bay tạo với mặt đất một góc 3°. Quãng đường máy bay bay từ lúc hạ cánh đến khi chạm đất là:",
+    "options": ["10/sin(3°)", "10*sin(3°)", "10/cos(3°)", "10*tan(3°)"],
+    "correctAnswer": "10/sin(3°)"
+  },
+  {
+    "question": "Cho góc nhọn α. sin(90°-α) bằng:",
+    "options": ["cos(α)", "sin(α)", "-cos(α)", "-sin(α)"],
+    "correctAnswer": "cos(α)"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có BC=10, B=60°. Cạnh AB bằng:",
+    "options": ["5", "5√3", "10√3", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Biết BH=4, HC=9. Cạnh AB bằng:",
+    "options": ["2√13", "6", "√52", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Giá trị của biểu thức sin²(20°) + sin²(70°) là:",
+    "options": ["1", "0", "2sin²(20°)", "2cos²(70°)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một con thuyền qua sông với vận tốc 5 km/h, dòng nước chảy với vận tốc 2 km/h. Thuyền qua sông theo hướng vuông góc với bờ. Vận tốc thực của thuyền là:",
+    "options": ["√29 km/h", "7 km/h", "3 km/h", "√21 km/h"],
+    "correctAnswer": "√29 km/h"
+  },
+  {
+    "question": "Cho tan(α) = 3/4. Giá trị của cot(α) là:",
+    "options": ["4/3", "3/4", "3/5", "4/5"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A, AB=1, AC=√3. Góc B bằng:",
+    "options": ["60°", "30°", "45°", "75°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, c = a.sin(C). Hệ thức này đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi C=45°", "Chỉ đúng khi tam giác cân"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Giá trị của biểu thức tan(10°)tan(80°) là:",
+    "options": ["1", "0", "tan(90°)", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một tòa nhà cao 50m. Tại một thời điểm, bóng của nó trên mặt đất dài 30m. Góc tạo bởi tia nắng và phương thẳng đứng của tòa nhà là:",
+    "options": ["arctan(3/5)", "arctan(5/3)", "arcsin(3/5)", "arccos(3/5)"],
+    "correctAnswer": "arctan(3/5)"
+  },
+  {
+    "question": "Cho cos(α) = 1/3. Giá trị của sin(α) là (α nhọn):",
+    "options": ["2√2/3", "√8/3", "Cả A và B", "2/3"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có BC=13, AB=5. Cạnh AC bằng:",
+    "options": ["12", "√194", "18", "8"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Hệ thức b² = a.b' trong tam giác vuông có nghĩa là:",
+    "options": ["Bình phương cạnh góc vuông bằng tích cạnh huyền và hình chiếu của nó trên cạnh huyền", "Bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông", "Bình phương đường cao bằng tích hai hình chiếu", "Tích hai cạnh góc vuông bằng tích cạnh huyền và đường cao"],
+    "correctAnswer": "Bình phương cạnh góc vuông bằng tích cạnh huyền và hình chiếu của nó trên cạnh huyền"
+  },
+  {
+    "question": "Giá trị của cos²(15°) - sin²(75°) là:",
+    "options": ["0", "1", "cos²(15°)", "-sin²(75°)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Để giải tam giác vuông, ta cần biết ít nhất:",
+    "options": ["Hai yếu tố, trong đó có ít nhất một yếu tố về cạnh", "Ba yếu tố", "Một cạnh và một góc nhọn", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, có B=30°, AB=10. Cạnh AC bằng:",
+    "options": ["10/√3", "10√3", "5", "20"],
+    "correctAnswer": "10/√3"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, đường cao AH. Biết AB=6, AC=8. Độ dài BH là:",
+    "options": ["3.6", "6.4", "4.8", "10"],
+    "correctAnswer": "3.6"
+  },
+  {
+    "question": "Cho góc nhọn α. Biểu thức sin(α) - cos(90°-α) bằng:",
+    "options": ["0", "1", "2sin(α)", "2cos(α)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một người đứng cách chân tháp 100m, nhìn thấy đỉnh tháp dưới một góc 30°. Chiều cao của tháp là:",
+    "options": ["100/√3 m", "100√3 m", "50 m", "200 m"],
+    "correctAnswer": "100/√3 m"
+  },
+  {
+    "question": "Cho tan(α) = 1. Góc nhọn α bằng:",
+    "options": ["45°", "30°", "60°", "90°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=a, AC=a. Cạnh huyền BC bằng:",
+    "options": ["a√2", "2a", "a", "a/2"],
+    "correctAnswer": "a√2"
+  },
+  {
+    "question": "Hệ thức h² = b'.c' trong tam giác vuông có nghĩa là:",
+    "options": ["Bình phương đường cao ứng với cạnh huyền bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền", "Bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông", "Tích hai cạnh góc vuông bằng tích cạnh huyền và đường cao", "Đường cao bằng trung bình cộng hai hình chiếu"],
+    "correctAnswer": "Bình phương đường cao ứng với cạnh huyền bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền"
+  },
+  {
+    "question": "Giá trị của biểu thức A = sin(60°) / cos(30°) là:",
+    "options": ["1", "√3", "1/2", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Từ đỉnh một ngọn hải đăng cao 80m so với mực nước biển, người ta nhìn thấy một con tàu dưới góc hạ 20°. Khoảng cách từ tàu đến chân hải đăng là:",
+    "options": ["80/tan(20°)", "80*tan(20°)", "80/sin(20°)", "80*cos(20°)"],
+    "correctAnswer": "80/tan(20°)"
+  },
+  {
+    "question": "Cho cot(α) = 2. Giá trị của tan(α) là:",
+    "options": ["1/2", "2", "-2", "-1/2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A, C=60°, AC=10. Cạnh AB bằng:",
+    "options": ["10√3", "10/√3", "20", "5"],
+    "correctAnswer": "10√3"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có BC=25, AC=20. Hình chiếu của AC trên BC là:",
+    "options": ["16", "9", "20", "25"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Biểu thức nào sau đây không phụ thuộc vào góc α?",
+    "options": ["sin²(α) + cos²(α)", "sin(α) + cos(α)", "tan(α)", "cot(α)"],
+    "correctAnswer": "sin²(α) + cos²(α)"
+  },
+  {
+    "question": "Một dòng sông rộng 200m. Một chiếc đò qua sông bị dòng nước đẩy xiên đi một góc 30°. Quãng đường chiếc đò đã đi là:",
+    "options": ["400m", "200/√3 m", "200√3 m", "100m"],
+    "correctAnswer": "400m"
+  },
+  {
+    "question": "Cho sin(α) = 1/4. Giá trị của cos(90°-α) là:",
+    "options": ["1/4", "3/4", "√15/4", "1"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=9, BC=15. sin(C) bằng:",
+    "options": ["3/5", "9/15", "Cả A và B", "4/5"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hệ thức bc = ah trong tam giác vuông có nghĩa là:",
+    "options": ["Tích hai cạnh góc vuông bằng tích cạnh huyền và đường cao tương ứng", "Tổng hai cạnh góc vuông bằng tổng cạnh huyền và đường cao", "Bình phương cạnh góc vuông bằng tích cạnh huyền và hình chiếu", "Bình phương đường cao bằng tích hai hình chiếu"],
+    "correctAnswer": "Tích hai cạnh góc vuông bằng tích cạnh huyền và đường cao tương ứng"
+  },
+  {
+    "question": "Giá trị của biểu thức cot(40°) - tan(50°) là:",
+    "options": ["0", "1", "2cot(40°)", "2tan(50°)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một cái cây bị gãy ngang thân, ngọn cây chạm đất cách gốc 8m. Phần thân còn lại cao 6m. Chiều cao ban đầu của cây là:",
+    "options": ["16m", "10m", "14m", "18m"],
+    "correctAnswer": "16m"
+  },
+  {
+    "question": "Cho cos(α) = 5/13. Giá trị của tan(α) là (α nhọn):",
+    "options": ["12/5", "5/12", "12/13", "13/12"],
+    "correctAnswer": "12/5"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A, đường cao AH. Biết AH=6, BH=4. Độ dài HC là:",
+    "options": ["9", "36", "24", "1.5"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, b = a.cos(C). Hệ thức này đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi tam giác cân", "Chỉ đúng khi C=60°"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Giá trị của biểu thức sin⁴(α) + cos⁴(α) + 2sin²(α)cos²(α) là:",
+    "options": ["1", "2", "sin²(α)", "cos²(α)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một con dốc dài 100m, nghiêng một góc 5° so với phương ngang. Độ cao của dốc là:",
+    "options": ["100*sin(5°)", "100*cos(5°)", "100*tan(5°)", "100/sin(5°)"],
+    "correctAnswer": "100*sin(5°)"
+  },
+  {
+    "question": "Cho tan(α) = √3. Góc nhọn α bằng:",
+    "options": ["60°", "30°", "45°", "0°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=a, B=45°. Cạnh AC bằng:",
+    "options": ["a", "a√2", "a/√2", "2a"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Tam giác có độ dài ba cạnh là 6, 8, 10 là tam giác gì?",
+    "options": ["Tam giác vuông", "Tam giác tù", "Tam giác nhọn", "Tam giác đều"],
+    "correctAnswer": "Tam giác vuông"
+  },
+  {
+    "question": "Giá trị của biểu thức sin²(1°) + sin²(2°) + ... + sin²(89°) là:",
+    "options": ["44.5", "89", "45", "1"],
+    "correctAnswer": "44.5"
+  },
+  {
+    "question": "Một người cao 1.7m đứng cách một cái cây 20m và nhìn thấy ngọn cây dưới góc 45°. Chiều cao của cây là:",
+    "options": ["21.7m", "20m", "18.3m", "20√2 m"],
+    "correctAnswer": "21.7m"
+  },
+  {
+    "question": "Cho cot(α) = 1/√3. Góc nhọn α bằng:",
+    "options": ["60°", "30°", "45°", "90°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có BC=2a, B=30°. Cạnh AC bằng:",
+    "options": ["a", "a√3", "2a√3", "a/2"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Biết AB=3, BC=5. Độ dài AH là:",
+    "options": ["2.4", "12/5", "Cả A và B", "4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho góc nhọn α. Biểu thức (sinα + cosα)² - 2sinαcosα bằng:",
+    "options": ["1", "0", "2", "sin²α - cos²α"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một máy bay cất cánh với góc nâng 15°. Để đạt độ cao 2000m, máy bay cần bay một quãng đường là:",
+    "options": ["2000/sin(15°)", "2000*sin(15°)", "2000/tan(15°)", "2000*cos(15°)"],
+    "correctAnswer": "2000/sin(15°)"
+  },
+  {
+    "question": "Cho sin(α) = 12/13. Giá trị của cot(α) là (α nhọn):",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correctAnswer": "5/12"
+  },
+  {
+    "question": "Tam giác ABC vuông tại A, AC=12, BC=15. Hình chiếu của AC trên BC là:",
+    "options": ["9.6", "144/15", "Cả A và B", "9"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, c = b.cot(B). Hệ thức này đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi B=45°", "Chỉ đúng khi tam giác đều"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Giá trị của biểu thức (1-cos²α)(1+cot²α) là (với sinα≠0):",
+    "options": ["1", "sin²α", "cos²α", "tan²α"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một dòng sông rộng 100m. Một người bơi từ A ở bờ này sang B ở bờ kia. Do nước chảy, người đó bị trôi đến C cách B 50m. Quãng đường người đó đã bơi là:",
+    "options": ["50√5 m", "150m", "100m", "50m"],
+    "correctAnswer": "50√5 m"
+  },
+  {
+    "question": "Cho cos(α) = 1/2. Góc nhọn α bằng:",
+    "options": ["60°", "30°", "45°", "90°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AC=a, C=45°. Cạnh AB bằng:",
+    "options": ["a", "a√2", "a/√2", "2a"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Tam giác có độ dài ba cạnh là 5, 6, 7. Đây là tam giác gì?",
+    "options": ["Tam giác nhọn", "Tam giác vuông", "Tam giác tù", "Không phải tam giác"],
+    "correctAnswer": "Tam giác nhọn"
+  },
+  {
+    "question": "Giá trị của biểu thức tan(25°) / cot(65°) là:",
+    "options": ["1", "0", "tan²(25°)", "cot²(65°)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một cái thang dài 4m. Cần đặt chân thang cách tường một khoảng bằng bao nhiêu để nó tạo với mặt đất một góc an toàn là 65°?",
+    "options": ["4*cos(65°)", "4*sin(65°)", "4/cos(65°)", "4*tan(65°)"],
+    "correctAnswer": "4*cos(65°)"
+  },
+  {
+    "question": "Cho sin(α) = cos(α). Góc nhọn α bằng:",
+    "options": ["45°", "30°", "60°", "0°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, có AB=6, AC=6. Cạnh BC bằng:",
+    "options": ["6√2", "12", "6", "√72"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Hệ thức nào sau đây chỉ đúng trong tam giác vuông?",
+    "options": ["Định lý Pytago", "Định lý sin", "Định lý cosin", "Công thức diện tích S=pr"],
+    "correctAnswer": "Định lý Pytago"
+  },
+  {
+    "question": "Giá trị của biểu thức 1 - sin²(α) là:",
+    "options": ["cos²(α)", "sin²(α)", "1", "0"],
+    "correctAnswer": "cos²(α)"
+  },
+  {
+    "question": "Một quả đồi có độ dốc 10°. Chân đồi cách đỉnh đồi 500m theo phương ngang. Chiều cao của quả đồi là:",
+    "options": ["500*tan(10°)", "500*sin(10°)", "500*cos(10°)", "500/tan(10°)"],
+    "correctAnswer": "500*tan(10°)"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, đường cao AH. Biết BH=2, CH=8. Độ dài AC là:",
+    "options": ["4√5", "√80", "Cả A và B", "10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Trong tam giác ABC vuông tại A, a = b/sin(B). Hệ thức này đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi B=45°", "Chỉ đúng khi tam giác đều"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Giá trị của biểu thức sin(35°) - cos(55°) là:",
+    "options": ["0", "1", "2sin(35°)", "2cos(55°)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một người quan sát đứng cách một tòa nhà 20m. Góc nâng từ mắt người đó đến đỉnh tòa nhà là 60°. Mắt người đó cách mặt đất 1.5m. Chiều cao của tòa nhà là:",
+    "options": ["20√3 + 1.5 m", "20√3 m", "21.5 m", "20 + 1.5 m"],
+    "correctAnswer": "20√3 + 1.5 m"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, AB=3, AC=4. sin(B) + cos(B) bằng:",
+    "options": ["7/5", "1", "5/7", "12/5"],
+    "correctAnswer": "7/5"
+  }
+]
+
