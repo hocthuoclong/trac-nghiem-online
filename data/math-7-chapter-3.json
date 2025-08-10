@@ -1,0 +1,433 @@
+[
+  {
+    "question": "Hai góc kề bù là hai góc có tổng số đo bằng:",
+    "options": ["180°", "90°", "360°", "100°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Hai góc đối đỉnh thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Kề nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tia phân giác của một góc là tia:",
+    "options": ["Nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau", "Nằm giữa hai cạnh của góc", "Tạo với hai cạnh của góc hai góc có tổng 180°", "Tạo với một cạnh của góc một góc vuông"],
+    "correctAnswer": "Nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau"
+  },
+  {
+    "question": "Nếu tia Oz là tia phân giác của góc xOy có số đo 80° thì số đo góc xOz là:",
+    "options": ["40°", "80°", "160°", "20°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a và b. Cặp góc so le trong là cặp góc:",
+    "options": ["Nằm ở hai phía khác nhau của c và nằm bên trong hai đường thẳng a, b", "Nằm cùng phía của c và nằm bên trong hai đường thẳng a, b", "Nằm ở hai phía khác nhau của c và một góc nằm ngoài, một góc nằm trong", "Nằm cùng phía của c và một góc nằm ngoài, một góc nằm trong"],
+    "correctAnswer": "Nằm ở hai phía khác nhau của c và nằm bên trong hai đường thẳng a, b"
+  },
+  {
+    "question": "Dấu hiệu nào sau đây cho biết hai đường thẳng a và b song song?",
+    "options": ["Một cặp góc so le trong bằng nhau", "Một cặp góc trong cùng phía bằng nhau", "Một cặp góc đồng vị bù nhau", "Một cặp góc kề bù bằng nhau"],
+    "correctAnswer": "Một cặp góc so le trong bằng nhau"
+  },
+  {
+    "question": "Nếu một đường thẳng cắt hai đường thẳng song song thì:",
+    "options": ["Hai góc đồng vị bằng nhau", "Hai góc so le trong bù nhau", "Hai góc trong cùng phía bằng nhau", "Tất cả các đáp án trên"],
+    "correctAnswer": "Hai góc đồng vị bằng nhau"
+  },
+  {
+    "question": "Phát biểu nào sau đây là nội dung của Tiên đề Euclid?",
+    "options": ["Qua một điểm ở ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó", "Qua một điểm ở ngoài một đường thẳng có vô số đường thẳng song song với đường thẳng đó", "Qua một điểm ở ngoài một đường thẳng không có đường thẳng nào song song với đường thẳng đó", "Hai đường thẳng song song là hai đường thẳng không có điểm chung"],
+    "correctAnswer": "Qua một điểm ở ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó"
+  },
+  {
+    "question": "Một định lí thường được phát biểu dưới dạng:",
+    "options": ["Nếu ... thì ...", "Hãy ...", "Tại sao ...?", "Khi nào ...?"],
+    "correctAnswer": "Nếu ... thì ..."
+  },
+  {
+    "question": "Trong một định lí, phần nằm sau chữ 'thì' được gọi là:",
+    "options": ["Kết luận", "Giả thiết", "Chứng minh", "Định nghĩa"],
+    "correctAnswer": "Kết luận"
+  },
+  {
+    "question": "Cho góc xOy = 100°. Góc đối đỉnh với góc xOy có số đo là:",
+    "options": ["100°", "80°", "260°", "Không xác định"],
+    "correctAnswer": "100°"
+  },
+  {
+    "question": "Cho góc A và góc B là hai góc kề bù. Nếu góc A = 60° thì góc B bằng:",
+    "options": ["120°", "60°", "30°", "90°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Nếu a ⊥ c và b ⊥ c thì:",
+    "options": ["a // b", "a ⊥ b", "a trùng b", "a cắt b"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Nếu a // b và c ⊥ a thì:",
+    "options": ["c ⊥ b", "c // b", "c trùng a", "c cắt b"],
+    "correctAnswer": "c ⊥ b"
+  },
+  {
+    "question": "Chứng minh một định lí là dùng lập luận để từ ... suy ra ...",
+    "options": ["Giả thiết, Kết luận", "Kết luận, Giả thiết", "Định nghĩa, Tính chất", "Tiên đề, Giả thiết"],
+    "correctAnswer": "Giả thiết, Kết luận"
+  },
+  {
+    "question": "Hai đường thẳng cắt nhau tạo thành mấy cặp góc đối đỉnh?",
+    "options": ["2", "1", "4", "8"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho tia Ot là tia phân giác của góc mOn. Biết góc mOt = 25°. Số đo góc mOn là:",
+    "options": ["50°", "25°", "12.5°", "75°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a, b và trong các góc tạo thành có một cặp góc đồng vị bằng nhau. Khi đó:",
+    "options": ["a // b", "a cắt b", "a ⊥ b", "a trùng b"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Cho a // b, đường thẳng c cắt a tại A, cắt b tại B. Một cặp góc trong cùng phía có tổng số đo bằng:",
+    "options": ["180°", "90°", "360°", "Bằng nhau"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Định lí 'Hai góc đối đỉnh thì bằng nhau' có giả thiết là:",
+    "options": ["Hai góc đó đối đỉnh", "Hai góc đó bằng nhau", "Hai góc đó có chung đỉnh", "Hai góc đó kề bù"],
+    "correctAnswer": "Hai góc đó đối đỉnh"
+  },
+  {
+    "question": "Góc tạo bởi hai tia đối nhau là:",
+    "options": ["Góc bẹt", "Góc vuông", "Góc nhọn", "Góc tù"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Cho hai góc kề nhau xOy và yOz. Nếu tia Oy nằm giữa hai tia Ox và Oz thì:",
+    "options": ["∠xOz = ∠xOy + ∠yOz", "∠xOy = ∠yOz", "∠xOz > ∠xOy", "∠xOz < ∠yOz"],
+    "correctAnswer": "∠xOz = ∠xOy + ∠yOz"
+  },
+  {
+    "question": "Hai đường thẳng song song là hai đường thẳng:",
+    "options": ["Không có điểm chung", "Có một điểm chung", "Có hai điểm chung", "Có vô số điểm chung"],
+    "correctAnswer": "Không có điểm chung"
+  },
+  {
+    "question": "Qua điểm A nằm ngoài đường thẳng d, ta vẽ được bao nhiêu đường thẳng song song với d?",
+    "options": ["1", "0", "2", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Nếu một định lí được chứng minh là đúng thì nó được gọi là:",
+    "options": ["Định lí", "Tiên đề", "Định nghĩa", "Hệ quả"],
+    "correctAnswer": "Định lí"
+  },
+  {
+    "question": "Cho hai góc đối đỉnh. Tia phân giác của hai góc đó là:",
+    "options": ["Hai tia đối nhau", "Hai tia trùng nhau", "Hai tia vuông góc", "Hai tia song song"],
+    "correctAnswer": "Hai tia đối nhau"
+  },
+  {
+    "question": "Cho góc bẹt xOy. Tia Oz là tia bất kì. Hai góc xOz và yOz là hai góc:",
+    "options": ["Kề bù", "Đối đỉnh", "Phụ nhau", "Bằng nhau"],
+    "correctAnswer": "Kề bù"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a và b. Nếu một cặp góc trong cùng phía bù nhau thì:",
+    "options": ["a // b", "a cắt b", "a ⊥ b", "Không kết luận được"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Cho a // b và b // c. Kết luận nào sau đây là đúng?",
+    "options": ["a // c", "a ⊥ c", "a cắt c", "a trùng c"],
+    "correctAnswer": "a // c"
+  },
+  {
+    "question": "Định lí đảo của một định lí là:",
+    "options": ["Mệnh đề có giả thiết là kết luận của định lí và kết luận là giả thiết của định lí đó", "Một định lí sai", "Một định lí luôn đúng", "Một tiên đề"],
+    "correctAnswer": "Mệnh đề có giả thiết là kết luận của định lí và kết luận là giả thiết của định lí đó"
+  },
+  {
+    "question": "Góc vuông là góc có số đo bằng:",
+    "options": ["90°", "180°", "0°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Hai góc phụ nhau là hai góc có tổng số đo bằng:",
+    "options": ["90°", "180°", "360°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Cho tia Om là tia phân giác của góc xOy. Biết góc xOm = 35°. Số đo góc yOm là:",
+    "options": ["35°", "70°", "17.5°", "55°"],
+    "correctAnswer": "35°"
+  },
+  {
+    "question": "Đường thẳng c cắt a, b tại A, B. Biết ∠aAB = 110° và ∠ABb = 70°. Vị trí của a và b là:",
+    "options": ["a // b", "a cắt b", "a ⊥ b", "Không xác định"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Cho a // b, c cắt a tại M và cắt b tại N. Biết ∠aMN = 60°. Số đo góc MNB (so le trong) là:",
+    "options": ["60°", "120°", "30°", "90°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Một điều được thừa nhận là đúng mà không cần chứng minh được gọi là:",
+    "options": ["Tiên đề", "Định lí", "Hệ quả", "Bổ đề"],
+    "correctAnswer": "Tiên đề"
+  },
+  {
+    "question": "Cho định lí: 'Nếu một đường thẳng vuông góc với một trong hai đường thẳng song song thì nó cũng vuông góc với đường thẳng kia'. Giả thiết của định lí là:",
+    "options": ["Một đường thẳng vuông góc với một trong hai đường thẳng song song", "Nó cũng vuông góc với đường thẳng kia", "Hai đường thẳng song song", "Một đường thẳng vuông góc"],
+    "correctAnswer": "Một đường thẳng vuông góc với một trong hai đường thẳng song song"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì chúng:",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Góc kề với góc 70° trong một cặp góc kề bù có số đo là:",
+    "options": ["110°", "70°", "20°", "290°"],
+    "correctAnswer": "110°"
+  },
+  {
+    "question": "Tia phân giác của góc bẹt tạo thành hai góc có số đo là:",
+    "options": ["90°", "180°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng song song a và b. Một cặp góc đồng vị có số đo là:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không liên quan"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Qua 3 điểm không thẳng hàng, ta vẽ được bao nhiêu đường thẳng?",
+    "options": ["3", "1", "2", "Vô số"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Định lí đảo của định lí 'Nếu hai đường thẳng song song thì hai góc so le trong bằng nhau' là:",
+    "options": ["Nếu hai góc so le trong bằng nhau thì hai đường thẳng đó song song", "Nếu hai đường thẳng không song song thì hai góc so le trong không bằng nhau", "Nếu hai góc so le trong không bằng nhau thì hai đường thẳng đó không song song", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Hai góc có chung một cạnh và mỗi cạnh còn lại nằm trên hai nửa mặt phẳng đối nhau có bờ là đường thẳng chứa cạnh chung. Đó là hai góc:",
+    "options": ["Kề nhau", "Đối đỉnh", "So le trong", "Đồng vị"],
+    "correctAnswer": "Kề nhau"
+  },
+  {
+    "question": "Cho góc xOy. Vẽ tia Oz là tia đối của tia Ox. Góc yOz và góc xOy là hai góc:",
+    "options": ["Kề bù", "Đối đỉnh", "Phụ nhau", "Bằng nhau"],
+    "correctAnswer": "Kề bù"
+  },
+  {
+    "question": "Đường thẳng xy cắt đường thẳng zt tại O. Góc xOz và góc yOt là hai góc:",
+    "options": ["Đối đỉnh", "Kề bù", "So le trong", "Đồng vị"],
+    "correctAnswer": "Đối đỉnh"
+  },
+  {
+    "question": "Cho góc AOB = 120°. Tia OC nằm giữa hai tia OA, OB sao cho góc AOC = 40°. Số đo góc BOC là:",
+    "options": ["80°", "160°", "40°", "120°"],
+    "correctAnswer": "80°"
+  },
+  {
+    "question": "Nếu ∠A và ∠B là hai góc trong cùng phía và ∠A + ∠B = 180° thì hai đường thẳng tạo ra chúng:",
+    "options": ["Song song", "Cắt nhau", "Vuông góc", "Trùng nhau"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Cho a // b. Một đường thẳng c cắt a và b. Nếu một góc tạo thành bởi c và a là 90° thì:",
+    "options": ["c ⊥ b", "Tất cả các góc còn lại đều là 90°", "c ⊥ a", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Chứng minh bằng phản chứng là:",
+    "options": ["Giả sử điều trái với kết luận và dùng lập luận để dẫn đến mâu thuẫn với giả thiết", "Giả sử giả thiết sai và chứng minh kết luận sai", "Vẽ hình và đo đạc", "Dùng một ví dụ cụ thể"],
+    "correctAnswer": "Giả sử điều trái với kết luận và dùng lập luận để dẫn đến mâu thuẫn với giả thiết"
+  },
+  {
+    "question": "Góc phụ với góc 50° là góc có số đo:",
+    "options": ["40°", "130°", "50°", "90°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Cho hai góc kề bù, một góc gấp đôi góc kia. Số đo hai góc đó là:",
+    "options": ["60° và 120°", "50° và 100°", "90° và 90°", "80° và 160°"],
+    "correctAnswer": "60° và 120°"
+  },
+  {
+    "question": "Cho góc xOy = 60°. Tia Oz là tia phân giác. Tia Ot là tia đối của tia Oz. Số đo góc xOt là:",
+    "options": ["150°", "30°", "120°", "90°"],
+    "correctAnswer": "150°"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a,b. Biết một cặp góc so le trong hơn kém nhau 40°. Để a//b thì số đo hai góc đó là:",
+    "options": ["Không có giá trị nào", "70° và 110°", "40° và 80°", "20° và 60°"],
+    "correctAnswer": "Không có giá trị nào"
+  },
+  {
+    "question": "Cho a//b, c cắt a,b. Một góc tạo bởi c và a là 75°. Số đo góc đồng vị với nó là:",
+    "options": ["75°", "105°", "15°", "90°"],
+    "correctAnswer": "75°"
+  },
+  {
+    "question": "Một định lí có thể có định lí đảo không?",
+    "options": ["Có, và định lí đảo có thể đúng hoặc sai", "Luôn có và luôn đúng", "Không bao giờ có", "Chỉ các định lí hình học mới có"],
+    "correctAnswer": "Có, và định lí đảo có thể đúng hoặc sai"
+  },
+  {
+    "question": "Đường trung trực của một đoạn thẳng là:",
+    "options": ["Đường thẳng vuông góc với đoạn thẳng tại trung điểm của nó", "Đường thẳng đi qua trung điểm đoạn thẳng", "Đường thẳng vuông góc với đoạn thẳng", "Đoạn thẳng vuông góc với đoạn thẳng"],
+    "correctAnswer": "Đường thẳng vuông góc với đoạn thẳng tại trung điểm của nó"
+  },
+  {
+    "question": "Hai góc mà mỗi cạnh của góc này là tia đối của một cạnh của góc kia được gọi là:",
+    "options": ["Hai góc đối đỉnh", "Hai góc kề bù", "Hai góc phụ nhau", "Hai góc so le trong"],
+    "correctAnswer": "Hai góc đối đỉnh"
+  },
+  {
+    "question": "Cho góc xOy. Vẽ tia phân giác Oz. Vẽ tia phân giác Ot của góc xOz. Nếu góc xOy = 120° thì góc tOy bằng:",
+    "options": ["90°", "30°", "60°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Đường thẳng c cắt a, b. Cặp góc đồng vị là cặp góc:",
+    "options": ["Nằm ở cùng một phía của c, và cùng ở phía trên (hoặc cùng ở phía dưới) so với a và b", "Nằm ở hai phía khác nhau của c", "Nằm bên trong hai đường thẳng a, b", "Nằm bên ngoài hai đường thẳng a, b"],
+    "correctAnswer": "Nằm ở cùng một phía của c, và cùng ở phía trên (hoặc cùng ở phía dưới) so với a và b"
+  },
+  {
+    "question": "Nếu hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì chúng:",
+    "options": ["Song song với nhau", "Cắt nhau", "Vuông góc với nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Phần nằm giữa chữ 'Nếu' và chữ 'thì' trong một định lí được gọi là:",
+    "options": ["Giả thiết", "Kết luận", "Chứng minh", "Tiên đề"],
+    "correctAnswer": "Giả thiết"
+  },
+  {
+    "question": "Cho góc AOB và góc BOC là hai góc kề bù. Biết góc AOB = 2 * góc BOC. Số đo góc AOB là:",
+    "options": ["120°", "60°", "90°", "100°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Tia phân giác của hai góc kề bù thì:",
+    "options": ["Vuông góc với nhau", "Song song với nhau", "Trùng nhau", "Tạo thành góc 45°"],
+    "correctAnswer": "Vuông góc với nhau"
+  },
+  {
+    "question": "Đường thẳng c cắt a, b. Biết một cặp góc so le trong bằng nhau và bằng 45°. Số đo một góc trong cùng phía với chúng là:",
+    "options": ["135°", "45°", "90°", "180°"],
+    "correctAnswer": "135°"
+  },
+  {
+    "question": "Cho a // b. Đường thẳng d cắt a tại A. Khi đó d có cắt b không?",
+    "options": ["Có, trừ khi d // a", "Luôn luôn cắt", "Không bao giờ cắt", "Không xác định được"],
+    "correctAnswer": "Có, trừ khi d // a"
+  },
+  {
+    "question": "Định lí 'Tổng ba góc của một tam giác bằng 180°' được suy ra từ:",
+    "options": ["Tiên đề Euclid về đường thẳng song song", "Định nghĩa tam giác", "Định lí Pytago", "Định lí Thales"],
+    "correctAnswer": "Tiên đề Euclid về đường thẳng song song"
+  },
+  {
+    "question": "Hai góc đối đỉnh có chung:",
+    "options": ["Đỉnh", "Một cạnh", "Số đo", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Cho góc xOy = 90°. Vẽ tia Oz nằm giữa sao cho góc xOz = 30°. Vẽ tia phân giác Ot của góc yOz. Số đo góc xOt là:",
+    "options": ["60°", "30°", "45°", "75°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Nếu đường thẳng c cắt hai đường thẳng a, b và a // b thì hai góc so le ngoài:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không có tính chất gì"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Qua một điểm có bao nhiêu đường thẳng đi qua?",
+    "options": ["Vô số", "1", "2", "0"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Định lí nào sau đây không có định lí đảo?",
+    "options": ["Tiên đề Euclid", "Định lí về tổng ba góc của một tam giác", "Định lí về hai góc đối đỉnh", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tiên đề Euclid"
+  },
+  {
+    "question": "Góc tù là góc có số đo:",
+    "options": ["Lớn hơn 90° và nhỏ hơn 180°", "Bằng 90°", "Nhỏ hơn 90°", "Bằng 180°"],
+    "correctAnswer": "Lớn hơn 90° và nhỏ hơn 180°"
+  },
+  {
+    "question": "Cho hai góc kề nhau có tổng bằng 150°. Tia phân giác của góc lớn hơn tạo với cạnh chung một góc 40°. Số đo hai góc đó là:",
+    "options": ["80° và 70°", "90° và 60°", "100° và 50°", "Không có cặp góc nào"],
+    "correctAnswer": "80° và 70°"
+  },
+  {
+    "question": "Đường thẳng c cắt a, b. Biết một cặp góc so le trong có tổng là 160°. Để a//b thì mỗi góc phải bằng:",
+    "options": ["Không thể song song", "80°", "160°", "90°"],
+    "correctAnswer": "Không thể song song"
+  },
+  {
+    "question": "Cho a ⊥ b và b // c. Kết luận nào đúng?",
+    "options": ["a ⊥ c", "a // c", "a // b", "b ⊥ c"],
+    "correctAnswer": "a ⊥ c"
+  },
+  {
+    "question": "Một phát biểu được suy ra trực tiếp từ một định lí được gọi là:",
+    "options": ["Hệ quả", "Bổ đề", "Tiên đề", "Định nghĩa"],
+    "correctAnswer": "Hệ quả"
+  },
+  {
+    "question": "Hai đường thẳng xx' và yy' cắt nhau tại O. Biết góc xOy = 45°. Số đo góc x'Oy' là:",
+    "options": ["45°", "135°", "90°", "40°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Hai đường thẳng xx' và yy' cắt nhau tại O. Biết góc xOy = 45°. Số đo góc x'Oy là:",
+    "options": ["135°", "45°", "90°", "130°"],
+    "correctAnswer": "135°"
+  },
+  {
+    "question": "Cho góc xOy = 110°. Vẽ tia Oz là tia phân giác. Số đo góc xOz là:",
+    "options": ["55°", "110°", "220°", "65°"],
+    "correctAnswer": "55°"
+  },
+  {
+    "question": "Nếu a//b và c//a thì:",
+    "options": ["b//c", "b⊥c", "b cắt c", "b trùng c"],
+    "correctAnswer": "b//c"
+  },
+  {
+    "question": "Trong định lí 'Hai đường thẳng phân biệt cùng vuông góc với một đường thẳng thứ ba thì chúng song song với nhau', kết luận là:",
+    "options": ["Chúng song song với nhau", "Hai đường thẳng phân biệt", "Cùng vuông góc với một đường thẳng thứ ba", "Hai đường thẳng phân biệt cùng vuông góc"],
+    "correctAnswer": "Chúng song song với nhau"
+  },
+  {
+    "question": "Góc nhọn là góc có số đo:",
+    "options": ["Lớn hơn 0° và nhỏ hơn 90°", "Bằng 90°", "Nhỏ hơn 180°", "Bằng 0°"],
+    "correctAnswer": "Lớn hơn 0° và nhỏ hơn 90°"
+  },
+  {
+    "question": "Cho hai góc kề bù AOB và BOC. OM là tia phân giác của góc AOB, ON là tia phân giác của góc BOC. Số đo góc MON là:",
+    "options": ["90°", "180°", "45°", "Phụ thuộc vào góc AOB"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Đường thẳng c cắt hai đường thẳng a, b. Biết một cặp góc trong cùng phía có số đo là 70° và 110°. Kết luận gì về a và b?",
+    "options": ["a // b", "a cắt b", "a ⊥ b", "a trùng b"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Phát biểu nào sau đây là một định lí?",
+    "options": ["Hai đường thẳng song song là hai đường thẳng không có điểm chung.", "Góc là hình gồm hai tia chung gốc.", "Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc so le trong bằng nhau.", "Tia phân giác của một góc là tia nằm giữa hai cạnh của góc."],
+    "correctAnswer": "Nếu một đường thẳng cắt hai đường thẳng song song thì hai góc so le trong bằng nhau."
+  }
+]
+
