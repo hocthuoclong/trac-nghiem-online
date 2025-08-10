@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Hình hộp chữ nhật có bao nhiêu mặt?",
+    "options": ["6", "4", "8", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Các mặt của hình hộp chữ nhật là hình gì?",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình bình hành", "Hình thang"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình lập phương là trường hợp đặc biệt của hình hộp chữ nhật có:",
+    "options": ["Tất cả các mặt là hình vuông", "Tất cả các cạnh bằng nhau", "Ba kích thước bằng nhau", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có bao nhiêu đỉnh?",
+    "options": ["8", "6", "12", "4"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một hình lập phương có bao nhiêu cạnh?",
+    "options": ["12", "6", "8", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Diện tích xung quanh của hình hộp chữ nhật được tính bằng công thức nào? (C: chu vi đáy, h: chiều cao)",
+    "options": ["Sxq = C . h", "Sxq = 2Ch", "Sxq = Sđáy * h", "Sxq = 2(ab+bc+ca)"],
+    "correctAnswer": "Sxq = C . h"
+  },
+  {
+    "question": "Thể tích của hình hộp chữ nhật có ba kích thước a, b, c là:",
+    "options": ["V = a.b.c", "V = a+b+c", "V = 2(ab+bc+ca)", "V = 6a²"],
+    "correctAnswer": "V = a.b.c"
+  },
+  {
+    "question": "Diện tích toàn phần của hình lập phương cạnh a là:",
+    "options": ["6a²", "4a²", "a³", "12a"],
+    "correctAnswer": "6a²"
+  },
+  {
+    "question": "Thể tích của hình lập phương cạnh a là:",
+    "options": ["a³", "6a²", "4a²", "a²"],
+    "correctAnswer": "a³"
+  },
+  {
+    "question": "Hình lăng trụ đứng tam giác có hai đáy là hình gì?",
+    "options": ["Hai tam giác bằng nhau", "Hai tam giác đều", "Hai tam giác vuông", "Hai hình chữ nhật"],
+    "correctAnswer": "Hai tam giác bằng nhau"
+  },
+  {
+    "question": "Các mặt bên của hình lăng trụ đứng là hình gì?",
+    "options": ["Hình chữ nhật", "Hình bình hành", "Hình thang", "Hình tam giác"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình lăng trụ đứng tứ giác có đáy là hình gì?",
+    "options": ["Tứ giác", "Hình thang", "Hình bình hành", "Hình chữ nhật"],
+    "correctAnswer": "Tứ giác"
+  },
+  {
+    "question": "Diện tích xung quanh của hình lăng trụ đứng được tính bằng công thức nào? (C: chu vi đáy, h: chiều cao)",
+    "options": ["Sxq = C . h", "Sxq = Sđáy * h", "Sxq = 2C.h", "Sxq = C + h"],
+    "correctAnswer": "Sxq = C . h"
+  },
+  {
+    "question": "Thể tích của hình lăng trụ đứng được tính bằng công thức nào? (Sđáy: diện tích đáy, h: chiều cao)",
+    "options": ["V = Sđáy . h", "V = (1/3)Sđáy . h", "V = Chu vi đáy * h", "V = Sxq + 2Sđáy"],
+    "correctAnswer": "V = Sđáy . h"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có chiều dài 5cm, chiều rộng 3cm, chiều cao 4cm. Thể tích của nó là:",
+    "options": ["60 cm³", "12 cm³", "94 cm³", "20 cm³"],
+    "correctAnswer": "60 cm³"
+  },
+  {
+    "question": "Một hình lập phương có cạnh 3cm. Diện tích toàn phần của nó là:",
+    "options": ["54 cm²", "36 cm²", "27 cm²", "9 cm²"],
+    "correctAnswer": "54 cm²"
+  },
+  {
+    "question": "Một hình lăng trụ đứng có đáy là tam giác vuông với hai cạnh góc vuông là 3cm và 4cm, chiều cao lăng trụ là 5cm. Thể tích của nó là:",
+    "options": ["30 cm³", "60 cm³", "12 cm³", "20 cm³"],
+    "correctAnswer": "30 cm³"
+  },
+  {
+    "question": "Trong hình hộp chữ nhật, hai đường chéo của một mặt có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ khi mặt đó là hình vuông", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Các cạnh bên của hình lăng trụ đứng có tính chất gì?",
+    "options": ["Song song và bằng nhau", "Vuông góc với nhau", "Cắt nhau tại một điểm", "Không có tính chất đặc biệt"],
+    "correctAnswer": "Song song và bằng nhau"
+  },
+  {
+    "question": "Một bể cá hình hộp chữ nhật có kích thước trong lòng bể là 80cm, 50cm, 60cm. Bể đang chứa 180 lít nước. Mực nước trong bể cao bao nhiêu?",
+    "options": ["45 cm", "40 cm", "30 cm", "50 cm"],
+    "correctAnswer": "45 cm"
+  },
+  {
+    "question": "Một viên gạch hình hộp chữ nhật có thể tích 1200 cm³. Nếu chiều dài 20cm, chiều rộng 10cm thì chiều cao là:",
+    "options": ["6 cm", "12 cm", "5 cm", "8 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Tổng diện tích các mặt của một hình lập phương là 96 cm². Cạnh của hình lập phương đó là:",
+    "options": ["4 cm", "16 cm", "6 cm", "8 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thang vuông có hai đáy là 3cm, 5cm và chiều cao đáy là 4cm. Chiều cao lăng trụ là 10cm. Thể tích lăng trụ là:",
+    "options": ["160 cm³", "80 cm³", "320 cm³", "120 cm³"],
+    "correctAnswer": "160 cm³"
+  },
+  {
+    "question": "Hình hộp chữ nhật có 3 kích thước là 3, 4, 5. Độ dài đường chéo của hình hộp đó là:",
+    "options": ["5√2", "√50", "12", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một hình lăng trụ đứng tam giác có bao nhiêu mặt?",
+    "options": ["5", "3", "6", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một hình lăng trụ đứng tứ giác có bao nhiêu đỉnh?",
+    "options": ["8", "6", "4", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một hình lăng trụ đứng tam giác có bao nhiêu cạnh?",
+    "options": ["9", "6", "5", "12"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một cái thùng hình lập phương chứa được 64 lít nước. Cạnh của thùng là:",
+    "options": ["4 dm", "8 dm", "6 dm", "16 dm"],
+    "correctAnswer": "4 dm"
+  },
+  {
+    "question": "Diện tích xung quanh của hình hộp chữ nhật có chiều dài 10, rộng 8, cao 5 là:",
+    "options": ["180", "36", "90", "280"],
+    "correctAnswer": "180"
+  },
+  {
+    "question": "Diện tích toàn phần của hình hộp chữ nhật có chiều dài 10, rộng 8, cao 5 là:",
+    "options": ["260", "180", "80", "400"],
+    "correctAnswer": "260"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác đều cạnh 4cm, chiều cao lăng trụ 10cm. Diện tích xung quanh là:",
+    "options": ["120 cm²", "40 cm²", "80 cm²", "160 cm²"],
+    "correctAnswer": "120 cm²"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác đều cạnh 4cm, chiều cao lăng trụ 10cm. Thể tích là:",
+    "options": ["40√3 cm³", "120 cm³", "40 cm³", "160 cm³"],
+    "correctAnswer": "40√3 cm³"
+  },
+  {
+    "question": "Hình hộp chữ nhật có phải là một lăng trụ đứng tứ giác không?",
+    "options": ["Có, là lăng trụ đứng có đáy là hình chữ nhật", "Không", "Chỉ khi nó là hình lập phương", "Không xác định"],
+    "correctAnswer": "Có, là lăng trụ đứng có đáy là hình chữ nhật"
+  },
+  {
+    "question": "Một cái hộp không nắp dạng hình lập phương có cạnh 20cm. Diện tích bìa cần để làm hộp là:",
+    "options": ["2000 cm²", "2400 cm²", "1600 cm²", "8000 cm²"],
+    "correctAnswer": "2000 cm²"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thoi có hai đường chéo 6cm và 8cm. Chiều cao lăng trụ là 12cm. Thể tích của lăng trụ là:",
+    "options": ["288 cm³", "144 cm³", "576 cm³", "72 cm³"],
+    "correctAnswer": "288 cm³"
+  },
+  {
+    "question": "Số mặt bên của một hình lăng trụ đứng tam giác là:",
+    "options": ["3", "2", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Các cạnh bên của hình lăng trụ đứng thì:",
+    "options": ["Vuông góc với mặt đáy", "Song song với mặt đáy", "Nằm trên mặt đáy", "Tạo với đáy một góc 45°"],
+    "correctAnswer": "Vuông góc với mặt đáy"
+  },
+  {
+    "question": "Một căn phòng dài 6m, rộng 4m, cao 3m. Người ta muốn sơn bốn bức tường và trần nhà. Diện tích cần sơn là (không tính cửa):",
+    "options": ["84 m²", "60 m²", "24 m²", "108 m²"],
+    "correctAnswer": "84 m²"
+  },
+  {
+    "question": "Thể tích của một hình lập phương là 125 cm³. Diện tích một mặt của nó là:",
+    "options": ["25 cm²", "5 cm²", "125 cm²", "150 cm²"],
+    "correctAnswer": "25 cm²"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là một lục giác đều cạnh a, chiều cao h. Diện tích xung quanh là:",
+    "options": ["6ah", "3ah", "a²h", "6a²h"],
+    "correctAnswer": "6ah"
+  },
+  {
+    "question": "Nếu tăng gấp đôi cả 3 kích thước của hình hộp chữ nhật thì thể tích của nó tăng lên:",
+    "options": ["8 lần", "2 lần", "4 lần", "6 lần"],
+    "correctAnswer": "8 lần"
+  },
+  {
+    "question": "Nếu tăng gấp đôi cạnh của một hình lập phương thì diện tích toàn phần của nó tăng lên:",
+    "options": ["4 lần", "2 lần", "8 lần", "6 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Một thanh sô-cô-la có dạng lăng trụ đứng tam giác đều với cạnh đáy 3cm và chiều dài 15cm. Thể tích của thanh sô-cô-la là:",
+    "options": ["(135√3)/4 cm³", "45 cm³", "135 cm³", "45√3 cm³"],
+    "correctAnswer": "(135√3)/4 cm³"
+  },
+  {
+    "question": "Hai đường chéo của hình hộp chữ nhật có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ ở hình lập phương", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một hình lăng trụ đứng có đáy là hình bình hành. Nó có phải là hình hộp không?",
+    "options": ["Có, nó là hình hộp xiên", "Có, nó là hình hộp chữ nhật", "Không", "Đúng, nó được gọi là hình hộp"],
+    "correctAnswer": "Đúng, nó được gọi là hình hộp"
+  },
+  {
+    "question": "Một cái lều có dạng lăng trụ đứng tam giác, đáy là tam giác cân có cạnh đáy 3m, chiều cao đáy 2m. Chiều dài lều là 4m. Thể tích không khí trong lều là:",
+    "options": ["12 m³", "24 m³", "6 m³", "8 m³"],
+    "correctAnswer": "12 m³"
+  },
+  {
+    "question": "Một viên xúc xắc hình lập phương có diện tích toàn phần là 600 mm². Thể tích của nó là:",
+    "options": ["1000 mm³", "100 mm³", "600 mm³", "125 mm³"],
+    "correctAnswer": "1000 mm³"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác vuông cân với cạnh góc vuông bằng a và chiều cao bằng a. Thể tích của nó là:",
+    "options": ["a³/2", "a³", "2a³", "a³/3"],
+    "correctAnswer": "a³/2"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có diện tích xung quanh là 100 và chiều cao là 5. Chu vi đáy của nó là:",
+    "options": ["20", "25", "500", "10"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Một lăng trụ đứng có thể tích là V, diện tích đáy là Sđáy. Chiều cao h của nó là:",
+    "options": ["V / Sđáy", "V * Sđáy", "3V / Sđáy", "Sđáy / V"],
+    "correctAnswer": "V / Sđáy"
+  },
+  {
+    "question": "Một bể bơi hình hộp chữ nhật dài 25m, rộng 10m, sâu 1.8m. Thể tích của bể là:",
+    "options": ["450 m³", "250 m³", "180 m³", "45 m³"],
+    "correctAnswer": "450 m³"
+  },
+  {
+    "question": "Một hình lập phương được tạo bởi 27 hình lập phương nhỏ. Người ta sơn tất cả các mặt của hình lập phương lớn. Có bao nhiêu hình lập phương nhỏ không được sơn mặt nào?",
+    "options": ["1", "8", "6", "27"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một hình lập phương được tạo bởi 27 hình lập phương nhỏ. Người ta sơn tất cả các mặt của hình lập phương lớn. Có bao nhiêu hình lập phương nhỏ được sơn đúng 1 mặt?",
+    "options": ["6", "8", "12", "1"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một hình lập phương được tạo bởi 27 hình lập phương nhỏ. Người ta sơn tất cả các mặt của hình lập phương lớn. Có bao nhiêu hình lập phương nhỏ được sơn đúng 2 mặt?",
+    "options": ["12", "8", "6", "24"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Một hình lập phương được tạo bởi 27 hình lập phương nhỏ. Người ta sơn tất cả các mặt của hình lập phương lớn. Có bao nhiêu hình lập phương nhỏ được sơn đúng 3 mặt?",
+    "options": ["8", "6", "12", "4"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thang cân với các cạnh đáy là 6cm, 10cm, cạnh bên của đáy là 5cm. Chiều cao lăng trụ là 10cm. Diện tích xung quanh là:",
+    "options": ["260 cm²", "160 cm²", "210 cm²", "320 cm²"],
+    "correctAnswer": "260 cm²"
+  },
+  {
+    "question": "Độ dài các cạnh của hình hộp chữ nhật xuất phát từ cùng một đỉnh được gọi là:",
+    "options": ["Ba kích thước của hình hộp chữ nhật", "Đường chéo", "Cạnh bên", "Chiều cao"],
+    "correctAnswer": "Ba kích thước của hình hộp chữ nhật"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có thể có bao nhiêu mặt là hình vuông?",
+    "options": ["0, 2, hoặc 6", "Chỉ 6", "Chỉ 2", "Chỉ 0"],
+    "correctAnswer": "0, 2, hoặc 6"
+  },
+  {
+    "question": "Thể tích của một hình lập phương là 27 cm³. Tổng diện tích các mặt của nó là:",
+    "options": ["54 cm²", "27 cm²", "36 cm²", "9 cm²"],
+    "correctAnswer": "54 cm²"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là một tam giác. Lăng trụ này có bao nhiêu mặt phẳng đối xứng?",
+    "options": ["Phụ thuộc vào dạng của tam giác đáy", "Luôn có 1", "Luôn có 3", "Không có"],
+    "correctAnswer": "Phụ thuộc vào dạng của tam giác đáy"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có thể tích 48, chiều dài 4, chiều rộng 3. Chiều cao là:",
+    "options": ["4", "12", "16", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một hình lập phương có diện tích một mặt là 16 cm². Thể tích của nó là:",
+    "options": ["64 cm³", "16 cm³", "96 cm³", "256 cm³"],
+    "correctAnswer": "64 cm³"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác vuông có hai cạnh góc vuông là a và b, chiều cao là h. Thể tích là:",
+    "options": ["(1/2)abh", "abh", "(1/3)abh", "2abh"],
+    "correctAnswer": "(1/2)abh"
+  },
+  {
+    "question": "Chiều cao của hình lăng trụ đứng là:",
+    "options": ["Độ dài cạnh bên", "Khoảng cách giữa hai đáy", "Cả A và B đều đúng", "Đường chéo của mặt bên"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một thùng chứa hình hộp chữ nhật có thể chứa tối đa 2400 lít nước. Nếu diện tích đáy là 2 m², chiều cao của thùng là:",
+    "options": ["1.2 m", "12 m", "2.4 m", "0.12 m"],
+    "correctAnswer": "1.2 m"
+  },
+  {
+    "question": "Một viên gạch có kích thước 20cm x 10cm x 5cm. Thể tích của 1000 viên gạch là:",
+    "options": ["1 m³", "10 m³", "100 m³", "0.1 m³"],
+    "correctAnswer": "1 m³"
+  },
+  {
+    "question": "Một hình lăng trụ đứng có đáy là hình vuông cạnh 5cm, chiều cao 10cm. Diện tích toàn phần là:",
+    "options": ["250 cm²", "200 cm²", "50 cm²", "300 cm²"],
+    "correctAnswer": "250 cm²"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có chiều dài gấp đôi chiều rộng, chiều cao gấp ba chiều rộng. Nếu chiều rộng là x, thể tích là:",
+    "options": ["6x³", "5x³", "6x", "x³ + 5x"],
+    "correctAnswer": "6x³"
+  },
+  {
+    "question": "Một hình lập phương có đường chéo của một mặt là 4√2 cm. Thể tích của nó là:",
+    "options": ["64 cm³", "16 cm³", "32 cm³", "128 cm³"],
+    "correctAnswer": "64 cm³"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thoi cạnh 5cm, chiều cao 8cm. Diện tích xung quanh là:",
+    "options": ["160 cm²", "40 cm²", "80 cm²", "200 cm²"],
+    "correctAnswer": "160 cm²"
+  },
+  {
+    "question": "Hai mặt phẳng song song trong hình hộp chữ nhật là:",
+    "options": ["Hai mặt đáy", "Hai mặt đối diện", "Cả A và B đều đúng", "Hai mặt kề nhau"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một hình lăng trụ đứng có 18 cạnh. Đáy của nó là hình gì?",
+    "options": ["Lục giác", "Tam giác", "Tứ giác", "Cửu giác"],
+    "correctAnswer": "Lục giác"
+  },
+  {
+    "question": "Một hình lăng trụ đứng có 8 mặt. Đáy của nó là hình gì?",
+    "options": ["Lục giác", "Bát giác", "Tứ giác", "Ngũ giác"],
+    "correctAnswer": "Lục giác"
+  },
+  {
+    "question": "Một hình lăng trụ đứng có 10 đỉnh. Đáy của nó là hình gì?",
+    "options": ["Ngũ giác", "Thập giác", "Tứ giác", "Lục giác"],
+    "correctAnswer": "Ngũ giác"
+  },
+  {
+    "question": "Một hộp sữa có dạng hình hộp chữ nhật với thể tích 1 lít. Nếu diện tích đáy là 125 cm² thì chiều cao hộp sữa là:",
+    "options": ["8 cm", "12.5 cm", "10 cm", "1.25 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Diện tích xung quanh của một hình lập phương là 100 cm². Cạnh của nó là:",
+    "options": ["5 cm", "10 cm", "25 cm", "√10 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác vuông cân tại A, AB=AC=a, chiều cao là 2a. Diện tích toàn phần là:",
+    "options": ["a²(1 + 4 + 2√2)", "a²(4 + 2√2)", "2a²(1+√2)", "4a²"],
+    "correctAnswer": "a²(1 + 4 + 2√2)"
+  },
+  {
+    "question": "Nếu các đường chéo của một hình hộp chữ nhật bằng nhau thì nó là:",
+    "options": ["Luôn đúng", "Hình lập phương", "Hình hộp có đáy là hình vuông", "Không thể kết luận"],
+    "correctAnswer": "Luôn đúng"
+  },
+  {
+    "question": "Một hồ bơi có dạng hình hộp chữ nhật, cần lát gạch cả đáy và bốn thành bể. Đây là bài toán tính:",
+    "options": ["Diện tích xung quanh cộng diện tích một đáy", "Diện tích toàn phần", "Diện tích xung quanh", "Thể tích"],
+    "correctAnswer": "Diện tích xung quanh cộng diện tích một đáy"
+  },
+  {
+    "question": "Một khối gỗ hình lập phương cạnh 10cm. Người ta cắt đi một khối gỗ hình lập phương cạnh 2cm ở một góc. Thể tích phần còn lại là:",
+    "options": ["992 cm³", "998 cm³", "800 cm³", "1008 cm³"],
+    "correctAnswer": "992 cm³"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình bình hành. Thể tích của nó được tính bằng:",
+    "options": ["(Chiều cao đáy * cạnh đáy tương ứng) * chiều cao lăng trụ", "Chu vi đáy * chiều cao lăng trụ", "Diện tích xung quanh + diện tích đáy", "Không tính được"],
+    "correctAnswer": "(Chiều cao đáy * cạnh đáy tương ứng) * chiều cao lăng trụ"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có tổng độ dài tất cả các cạnh là 48cm. Biết ba kích thước tỉ lệ với 1, 2, 3. Thể tích của hình hộp là:",
+    "options": ["48 cm³", "12 cm³", "24 cm³", "96 cm³"],
+    "correctAnswer": "48 cm³"
+  },
+  {
+    "question": "Một hình lập phương có thể tích bằng diện tích toàn phần của nó (về độ lớn). Cạnh của hình lập phương đó là:",
+    "options": ["6", "1", "36", "√6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác đều cạnh a, chiều cao h. Diện tích một mặt bên là:",
+    "options": ["ah", "a²", "h²", "(ah)/2"],
+    "correctAnswer": "ah"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có các mặt là hình gì?",
+    "options": ["6 hình chữ nhật", "4 hình chữ nhật và 2 hình vuông", "Tất cả đều có thể", "6 hình vuông"],
+    "correctAnswer": "Tất cả đều có thể"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình ngũ giác đều. Nó có bao nhiêu mặt phẳng đối xứng?",
+    "options": ["6", "5", "1", "10"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một cái bánh kem có dạng lăng trụ đứng tam giác. Để cắt bánh thành 2 phần có thể tích bằng nhau, ta nên cắt theo mặt phẳng nào?",
+    "options": ["Mặt phẳng đi qua một cạnh bên và trung tuyến của đáy", "Mặt phẳng song song với đáy", "Cả A và B đều được", "Không thể cắt được"],
+    "correctAnswer": "Cả A và B đều được"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có diện tích ba mặt cùng xuất phát từ một đỉnh là 10cm², 20cm², 32cm². Thể tích của hình hộp đó là:",
+    "options": ["80 cm³", "62 cm³", "6400 cm³", "40 cm³"],
+    "correctAnswer": "80 cm³"
+  },
+  {
+    "question": "Một hình lập phương có đường chéo bằng 6√3. Thể tích của nó là:",
+    "options": ["216", "18", "108", "36"],
+    "correctAnswer": "216"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thang cân ABCD (AB//CD) và chiều cao h. Diện tích xung quanh được tính bằng:",
+    "options": ["(AB+BC+CD+DA) * h", " (AB+CD) * h", "(AD+BC) * h", "Không tính được"],
+    "correctAnswer": "(AB+BC+CD+DA) * h"
+  }
+]
+
