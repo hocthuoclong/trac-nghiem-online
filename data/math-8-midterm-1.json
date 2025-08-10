@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Bậc của đơn thức 5x³y² là:",
+    "options": ["5", "3", "2", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Khai triển hằng đẳng thức (x - 3)² ta được:",
+    "options": ["x² - 6x + 9", "x² - 9", "x² + 6x + 9", "x² - 3x + 9"],
+    "correctAnswer": "x² - 6x + 9"
+  },
+  {
+    "question": "Tổng số đo các góc của một tứ giác lồi là:",
+    "options": ["360°", "180°", "540°", "720°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Nếu AD=3, DB=6 thì tỉ số AE/AC bằng:",
+    "options": ["1/3", "1/2", "2/3", "3"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Dữ liệu về 'môn học yêu thích' của học sinh là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Kết quả của phép tính (2x²y + 3x²y) là:",
+    "options": ["5x²y", "5x⁴y²", "6x²y", "6x⁴y²"],
+    "correctAnswer": "5x²y"
+  },
+  {
+    "question": "Kết quả của phép tính (x - 5)(x + 5) là:",
+    "options": ["x² - 25", "x² + 25", "25 - x²", "x² - 10"],
+    "correctAnswer": "x² - 25"
+  },
+  {
+    "question": "Hình thang cân là hình thang có:",
+    "options": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên song song", "Hai cạnh đối bằng nhau", "Bốn góc vuông"],
+    "correctAnswer": "Hai góc kề một đáy bằng nhau"
+  },
+  {
+    "question": "Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng:",
+    "options": ["Nửa cạnh ấy", "Cạnh ấy", "Hai lần cạnh ấy", "Một phần ba cạnh ấy"],
+    "correctAnswer": "Nửa cạnh ấy"
+  },
+  {
+    "question": "Biểu đồ hình quạt tròn thích hợp để biểu diễn:",
+    "options": ["Cơ cấu, tỉ lệ các phần trong một tổng thể", "Sự thay đổi theo thời gian", "So sánh độ lớn", "Tần số các giá trị"],
+    "correctAnswer": "Cơ cấu, tỉ lệ các phần trong một tổng thể"
+  },
+  {
+    "question": "Bậc của đa thức 3x⁴ - 2x³y² + y⁵ là:",
+    "options": ["5", "4", "3", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Phân tích đa thức x² - 4 thành nhân tử:",
+    "options": ["(x-2)(x+2)", "(x-2)²", "(x+2)²", "x(x-4)"],
+    "correctAnswer": "(x-2)(x+2)"
+  },
+  {
+    "question": "Tứ giác có các cạnh đối song song là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thang", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Cho tam giác ABC có AB=6, AC=9. Phân giác AD. Tỉ số DB/DC là:",
+    "options": ["2/3", "3/2", "6/9", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Dữ liệu 'số học sinh trong mỗi lớp' là:",
+    "options": ["Số liệu rời rạc", "Số liệu liên tục", "Dữ liệu định tính", "Dữ liệu không phải số"],
+    "correctAnswer": "Số liệu rời rạc"
+  },
+  {
+    "question": "Kết quả của phép nhân 3x(x² - 2y) là:",
+    "options": ["3x³ - 6xy", "3x² - 6xy", "3x³ - 2y", "3x³ - 6x"],
+    "correctAnswer": "3x³ - 6xy"
+  },
+  {
+    "question": "Khai triển (x + 1)³ ta được:",
+    "options": ["x³ + 3x² + 3x + 1", "x³ + 1", "x³ + 3x + 1", "x³ + 2x + 1"],
+    "correctAnswer": "x³ + 3x² + 3x + 1"
+  },
+  {
+    "question": "Hình chữ nhật là tứ giác có:",
+    "options": ["Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Hai cạnh kề bằng nhau"],
+    "correctAnswer": "Bốn góc vuông"
+  },
+  {
+    "question": "Cho tam giác ABC có M, N là trung điểm AB, AC. Biết MN = 4cm. Độ dài BC là:",
+    "options": ["8 cm", "4 cm", "2 cm", "16 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một lớp có 40 học sinh, trong đó có 16 học sinh nữ. Tần số tương đối của học sinh nữ là:",
+    "options": ["40%", "16%", "24%", "0.4%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Cho hai đa thức A = 2x+y, B = x-y. Kết quả A-B là:",
+    "options": ["x + 2y", "3x", "x - 2y", "3x + 2y"],
+    "correctAnswer": "x + 2y"
+  },
+  {
+    "question": "Phân tích đa thức 8 - x³ thành nhân tử:",
+    "options": ["(2-x)(4+2x+x²)", "(2-x)(4-2x+x²)", "(2+x)(4-2x+x²)", "(2-x)³"],
+    "correctAnswer": "(2-x)(4+2x+x²)"
+  },
+  {
+    "question": "Trong hình thoi, hai đường chéo:",
+    "options": ["Vuông góc với nhau", "Bằng nhau", "Không cắt nhau", "Song song"],
+    "correctAnswer": "Vuông góc với nhau"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC (D∈AB, E∈AC). Biết AD=2, AB=6, BC=9. Độ dài DE là:",
+    "options": ["3", "6", "18", "27"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Để biểu diễn sự thay đổi của giá cổ phiếu theo thời gian, nên dùng biểu đồ:",
+    "options": ["Đoạn thẳng", "Cột", "Hình quạt tròn", "Tranh"],
+    "correctAnswer": "Đoạn thẳng"
+  },
+  {
+    "question": "Kết quả của phép chia (8x³y - 4x²y²) : (2xy) là:",
+    "options": ["4x² - 2xy", "4x² - 2y", "4x - 2y", "4x²y - 2xy²"],
+    "correctAnswer": "4x² - 2xy"
+  },
+  {
+    "question": "Viết biểu thức 9x² - 6x + 1 dưới dạng bình phương của một hiệu.",
+    "options": ["(3x - 1)²", "(3x + 1)²", "(9x - 1)²", "(x - 3)²"],
+    "correctAnswer": "(3x - 1)²"
+  },
+  {
+    "question": "Hình vuông có mấy trục đối xứng?",
+    "options": ["4", "2", "1", "Vô số"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Đường trung bình của hình thang thì song song với hai đáy và bằng:",
+    "options": ["Nửa tổng hai đáy", "Nửa hiệu hai đáy", "Tổng hai đáy", "Hiệu hai đáy"],
+    "correctAnswer": "Nửa tổng hai đáy"
+  },
+  {
+    "question": "Dữ liệu 'cân nặng' của các học sinh là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Giá trị của đa thức P = x²y - 2x + 1 tại x=1, y=3 là:",
+    "options": ["2", "3", "1", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phân tích đa thức x² - 2xy + y² - z² thành nhân tử.",
+    "options": ["(x-y-z)(x-y+z)", "(x-y-z)²", "(x-y+z)²", "(x-y)²z²"],
+    "correctAnswer": "(x-y-z)(x-y+z)"
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình thang cân"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết AB=4, AC=8, BC=9. Độ dài DB là:",
+    "options": ["3", "6", "4.5", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn có góc ở tâm là 72°. Tần số tương đối của phần đó là:",
+    "options": ["20%", "72%", "36%", "10%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Bậc của đơn thức -1/2 x³y⁴z là:",
+    "options": ["8", "7", "6", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Giá trị của biểu thức 102² là:",
+    "options": ["10404", "(100+2)²", "10000+400+4", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường là:",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Cho tam giác ABC, DE // BC. Biết AD/DB = 1/2 và AC=12. Độ dài AE là:",
+    "options": ["4", "6", "8", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Để so sánh cơ cấu vốn của hai công ty, nên dùng biểu đồ:",
+    "options": ["Hai biểu đồ hình quạt tròn", "Biểu đồ cột kép", "Biểu đồ đoạn thẳng", "Bảng tần số"],
+    "correctAnswer": "Hai biểu đồ hình quạt tròn"
+  },
+  {
+    "question": "Kết quả của phép nhân (x+2)(x²-2x+4) là:",
+    "options": ["x³ + 8", "x³ - 8", "(x+2)³", "x³+4"],
+    "correctAnswer": "x³ + 8"
+  },
+  {
+    "question": "Phân tích đa thức 5x - 10y thành nhân tử.",
+    "options": ["5(x - 2y)", "5(x - y)", "10(x/2 - y)", "x(5 - 10y/x)"],
+    "correctAnswer": "5(x - 2y)"
+  },
+  {
+    "question": "Hình thoi có một góc bằng 60°. Tỉ số độ dài hai đường chéo là:",
+    "options": ["1/√3", "√3", "1/2", "2"],
+    "correctAnswer": "1/√3"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD) có E, F là trung điểm AD, BC. Nếu EF=10, AB=6 thì CD bằng:",
+    "options": ["14", "8", "4", "16"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Một mẫu số liệu có 25 giá trị. Một giá trị có tần số là 10. Tần số tương đối là:",
+    "options": ["40%", "10%", "25%", "2.5%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Đa thức P = 2x - 3 có bậc là:",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giá trị của biểu thức (x-y)(x²+xy+y²) tại x=2, y=1 là:",
+    "options": ["7", "8", "1", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo vuông góc là:",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Cả A và B"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Đường thẳng đi qua trung điểm hai cạnh bên của tam giác được gọi là:",
+    "options": ["Đường trung bình", "Đường trung tuyến", "Đường cao", "Đường phân giác"],
+    "correctAnswer": "Đường trung bình"
+  },
+  {
+    "question": "Dữ liệu 'xếp loại hạnh kiểm' là:",
+    "options": ["Dữ liệu định tính", "Dữ liệu định lượng", "Số liệu rời rạc", "Số liệu liên tục"],
+    "correctAnswer": "Dữ liệu định tính"
+  },
+  {
+    "question": "Thực hiện phép chia (x³-3x²+3x-1) : (x-1).",
+    "options": ["(x-1)²", "x²-2x+1", "Cả A và B", "x+1"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x² - 7x + 12 thành nhân tử.",
+    "options": ["(x-3)(x-4)", "(x-2)(x-5)", "(x+3)(x+4)", "(x-1)(x-6)"],
+    "correctAnswer": "(x-3)(x-4)"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo bằng nhau và vuông góc với nhau là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Không phải hình đặc biệt"],
+    "correctAnswer": "Không phải hình đặc biệt"
+  },
+  {
+    "question": "Cho tam giác ABC, M là trung điểm BC. N là điểm trên AC sao cho AN = 2NC. G là giao điểm của AM và BN. Tỉ số AG/AM là:",
+    "options": ["4/5", "2/3", "3/4", "1/2"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy số lượng học sinh giỏi của một trường tăng qua các năm. Đây là một xu hướng:",
+    "options": ["Tích cực", "Tiêu cực", "Không đổi", "Không xác định"],
+    "correctAnswer": "Tích cực"
+  },
+  {
+    "question": "Tổng các hệ số của đa thức (2x-1)³ sau khi khai triển là:",
+    "options": ["1", "8", "-1", "27"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giá trị của biểu thức 99² - 1 là:",
+    "options": ["9800", "98*100", "Cả A và B", "9999"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hình chữ nhật có một đường chéo là phân giác của một góc là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Không phải hình đặc biệt"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết AB/AC = 2/3. Tỉ số diện tích tam giác ABD và ACD là:",
+    "options": ["2/3", "3/2", "4/9", "9/4"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Một biểu đồ cột có cột A cao 10cm, cột B cao 5cm. Nếu 1cm ứng với 50 người thì số người ở A nhiều hơn B là:",
+    "options": ["250 người", "50 người", "500 người", "5 người"],
+    "correctAnswer": "250 người"
+  },
+  {
+    "question": "Kết quả của phép tính (x+y)² - (x-y)² là:",
+    "options": ["4xy", "0", "2x² + 2y²", "2x² - 2y²"],
+    "correctAnswer": "4xy"
+  },
+  {
+    "question": "Phân tích đa thức x³ + 3x² + 3x + 1 thành nhân tử.",
+    "options": ["(x+1)³", "(x-1)³", "x(x²+3x+3)+1", "Không phân tích được"],
+    "correctAnswer": "(x+1)³"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường và là đường phân giác của các góc là:",
+    "options": ["Hình thoi", "Hình vuông", "Cả A và B", "Hình chữ nhật"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC, M là trung điểm AB. Đường thẳng qua M song song với BC cắt AC tại N. Tứ giác BMNC là:",
+    "options": ["Hình thang", "Hình bình hành", "Hình thang cân", "Hình thang vuông"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Dữ liệu 'số giờ tự học trong tuần' của học sinh là:",
+    "options": ["Số liệu liên tục", "Số liệu rời rạc", "Dữ liệu định tính", "Dữ liệu không phải số"],
+    "correctAnswer": "Số liệu liên tục"
+  },
+  {
+    "question": "Đa thức x²-x-6 được phân tích thành:",
+    "options": ["(x-3)(x+2)", "(x+3)(x-2)", "(x-6)(x+1)", "(x+6)(x-1)"],
+    "correctAnswer": "(x-3)(x+2)"
+  },
+  {
+    "question": "Giá trị của biểu thức x³-3x²+3x-1 tại x=101 là:",
+    "options": ["1000000", "100³", "Cả A và B", "101³-1"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hình nào có 4 trục đối xứng và 1 tâm đối xứng?",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình tròn"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). M, N là trung điểm AD, BC. P, Q là trung điểm AC, BD. Nếu AB=4, CD=12 thì PQ bằng:",
+    "options": ["4", "8", "16", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một biểu đồ hình quạt tròn biểu diễn tỉ lệ các loại nước giải khát được bán. Nước cam chiếm 1/4. Góc ở tâm của hình quạt biểu diễn nước cam là:",
+    "options": ["90°", "45°", "180°", "25°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Kết quả của phép chia (x²y² + x³y - xy) : (xy) là:",
+    "options": ["xy + x² - 1", "xy + x - 1", "y + x - 1", "x²y + x³ - 1"],
+    "correctAnswer": "xy + x² - 1"
+  },
+  {
+    "question": "Phân tích đa thức 27x³ - y³ thành nhân tử.",
+    "options": ["(3x-y)(9x²+3xy+y²)", "(3x-y)(9x²-3xy+y²)", "(3x+y)(9x²-3xy+y²)", "(3x-y)³"],
+    "correctAnswer": "(3x-y)(9x²+3xy+y²)"
+  },
+  {
+    "question": "Tứ giác có các cạnh đối song song và bằng nhau là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Cho tam giác ABC, M là trung điểm BC. Kẻ MD//AC, ME//AB (D∈AB, E∈AC). Tứ giác ADME là:",
+    "options": ["Hình bình hành", "Hình chữ nhật", "Hình thoi", "Hình thang"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Dữ liệu thu thập từ việc 'đếm số xe đi qua một con đường' là:",
+    "options": ["Dữ liệu định lượng", "Dữ liệu định tính", "Số liệu liên tục", "Không phải dữ liệu"],
+    "correctAnswer": "Dữ liệu định lượng"
+  },
+  {
+    "question": "Bậc của đa thức P(x) = (x²-1)(x³+2x) là:",
+    "options": ["5", "6", "3", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Giá trị của biểu thức (a+b)² - 4ab là:",
+    "options": ["(a-b)²", "a²-b²", "(a+b)(a-b)", "a²+b²"],
+    "correctAnswer": "(a-b)²"
+  },
+  {
+    "question": "Hình chữ nhật có hai cạnh kề bằng nhau là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Hình thang"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cho tam giác ABC, phân giác AD. Biết AB=6, AC=10, BC=8. Độ dài BD là:",
+    "options": ["3", "5", "4", "8/3"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một biểu đồ đoạn thẳng cho thấy nhiệt độ giảm dần từ 6 giờ sáng đến 12 giờ trưa. Nhận xét này có hợp lý không?",
+    "options": ["Không hợp lý", "Hợp lý", "Chỉ hợp lý vào mùa đông", "Chỉ hợp lý vào mùa hè"],
+    "correctAnswer": "Không hợp lý"
+  },
+  {
+    "question": "Đa thức M thỏa mãn (x-y) - M = -(x+y) là:",
+    "options": ["2x", "2y", "0", "-2y"],
+    "correctAnswer": "2x"
+  },
+  {
+    "question": "Phân tích đa thức x⁴ - y⁴ thành nhân tử.",
+    "options": ["(x-y)(x+y)(x²+y²)", "(x²-y²)(x²+y²)", "Cả A và B", "(x-y)⁴"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tứ giác có 4 cạnh bằng nhau và 4 góc bằng nhau là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cho tam giác ABC, đường trung tuyến AM. Gọi D là trung điểm AM, E là giao điểm của BD và AC. Tỉ số AE/EC là:",
+    "options": ["1/2", "1/3", "2/3", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Dữ liệu 'điểm thi' của một lớp học là một ví dụ về:",
+    "options": ["Mẫu số liệu thống kê", "Dấu hiệu điều tra", "Tần số", "Biểu đồ"],
+    "correctAnswer": "Mẫu số liệu thống kê"
+  },
+  {
+    "question": "Giá trị của biểu thức x(x-2) - y(2-x) tại x=2024, y= -2024 là:",
+    "options": ["0", "2024", "4048", "1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Biểu thức (x+y)³ - (x-y)³ bằng:",
+    "options": ["2y³ + 6x²y", "2y³", "2x³", "2x³ + 6xy²"],
+    "correctAnswer": "2y³ + 6x²y"
+  },
+  {
+    "question": "Hình thang có hai đường chéo vuông góc và hai cạnh bên bằng nhau là:",
+    "options": ["Hình thang cân", "Hình thoi", "Hình vuông", "Không phải hình đặc biệt"],
+    "correctAnswer": "Không phải hình đặc biệt"
+  },
+  {
+    "question": "Cho tam giác ABC, I, K lần lượt là trung điểm của AB và AC. Biết chu vi tam giác AIK bằng 12cm. Chu vi tam giác ABC là:",
+    "options": ["24 cm", "18 cm", "36 cm", "6 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Một biểu đồ cột có chú thích đơn vị là 'triệu đồng'. Cột cao 5cm ứng với doanh thu là:",
+    "options": ["Không xác định được nếu không có tỉ lệ", "5 triệu đồng", "50 triệu đồng", "500 triệu đồng"],
+    "correctAnswer": "Không xác định được nếu không có tỉ lệ"
+  }
+]
+
