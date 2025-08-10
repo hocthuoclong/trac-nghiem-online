@@ -36,6 +36,10 @@
                 {
                   "name": "Chương 7: Số thập phân",
                   "file": "./data/math-6-chapter-7.json"
+                },
+                {
+                  "name": "Chương 8: Những hình học cơ bản",
+                  "file": "./data/math-6-chapter-8.json"
                 }
               ]
             },
