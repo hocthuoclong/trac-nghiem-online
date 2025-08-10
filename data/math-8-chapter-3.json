@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Tổng số đo bốn góc của một tứ giác bằng:",
+    "options": ["360°", "180°", "540°", "720°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Hình thang là tứ giác có:",
+    "options": ["Hai cạnh đối song song", "Hai cạnh đối bằng nhau", "Bốn cạnh bằng nhau", "Bốn góc bằng nhau"],
+    "correctAnswer": "Hai cạnh đối song song"
+  },
+  {
+    "question": "Hình thang cân là hình thang có:",
+    "options": ["Hai góc kề một đáy bằng nhau", "Hai cạnh bên bằng nhau", "Cả A và B", "Hai đường chéo bằng nhau"],
+    "correctAnswer": "Cả A, B và D"
+  },
+  {
+    "question": "Tứ giác có các cạnh đối song song là hình gì?",
+    "options": ["Hình bình hành", "Hình thang", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình chữ nhật là tứ giác có:",
+    "options": ["Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo vuông góc", "Các cạnh đối song song"],
+    "correctAnswer": "Bốn góc vuông"
+  },
+  {
+    "question": "Hình thoi là tứ giác có:",
+    "options": ["Bốn cạnh bằng nhau", "Bốn góc vuông", "Hai đường chéo bằng nhau", "Các cạnh đối song song"],
+    "correctAnswer": "Bốn cạnh bằng nhau"
+  },
+  {
+    "question": "Hình vuông là tứ giác có:",
+    "options": ["Bốn góc vuông và bốn cạnh bằng nhau", "Bốn góc vuông", "Bốn cạnh bằng nhau", "Hai đường chéo bằng nhau và vuông góc"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Cho tứ giác ABCD có góc A = 60°, B = 100°, C = 80°. Số đo góc D là:",
+    "options": ["120°", "60°", "100°", "80°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Trong hình thang cân, hai đường chéo:",
+    "options": ["Bằng nhau", "Vuông góc với nhau", "Cắt nhau tại trung điểm mỗi đường", "Song song với nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Dấu hiệu nhận biết hình bình hành là:",
+    "options": ["Các cạnh đối song song", "Các cạnh đối bằng nhau", "Hai đường chéo cắt nhau tại trung điểm mỗi đường", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong hình chữ nhật, hai đường chéo:",
+    "options": ["Bằng nhau và cắt nhau tại trung điểm mỗi đường", "Vuông góc với nhau", "Là đường phân giác của các góc", "Song song với nhau"],
+    "correctAnswer": "Bằng nhau và cắt nhau tại trung điểm mỗi đường"
+  },
+  {
+    "question": "Trong hình thoi, hai đường chéo:",
+    "options": ["Vuông góc với nhau và là đường phân giác của các góc", "Bằng nhau", "Cắt nhau tại một điểm bất kỳ", "Song song với nhau"],
+    "correctAnswer": "Vuông góc với nhau và là đường phân giác của các góc"
+  },
+  {
+    "question": "Hình nào vừa là hình chữ nhật, vừa là hình thoi?",
+    "options": ["Hình vuông", "Hình bình hành", "Hình thang cân", "Tứ giác"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tứ giác lồi là tứ giác mà:",
+    "options": ["Luôn nằm trong một nửa mặt phẳng có bờ là đường thẳng chứa bất kì cạnh nào của nó", "Có hai đường chéo cắt nhau", "Có hai cạnh đối song song", "Có tổng các góc bằng 360°"],
+    "correctAnswer": "Luôn nằm trong một nửa mặt phẳng có bờ là đường thẳng chứa bất kì cạnh nào của nó"
+  },
+  {
+    "question": "Hình thang có hai cạnh bên song song là hình gì?",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình thang cân"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo bằng nhau là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình thang cân"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo vuông góc là:",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Hình chữ nhật có hai đường chéo vuông góc là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Đường trung bình của hình thang thì:",
+    "options": ["Song song với hai đáy và bằng nửa tổng hai đáy", "Song song với hai đáy và bằng nửa hiệu hai đáy", "Nối trung điểm hai cạnh bên", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho hình thang ABCD (AB//CD). E, F lần lượt là trung điểm của AD và BC. Nếu AB=6, CD=10 thì EF bằng:",
+    "options": ["8", "16", "4", "2"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tứ giác có các cạnh đối bằng nhau là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thang", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong hình bình hành ABCD, góc A = 60°. Góc B bằng:",
+    "options": ["120°", "60°", "90°", "30°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Giao điểm hai đường chéo của hình thoi là:",
+    "options": ["Tâm đối xứng của hình thoi", "Trọng tâm", "Trực tâm", "Không có tính chất đặc biệt"],
+    "correctAnswer": "Tâm đối xứng của hình thoi"
+  },
+  {
+    "question": "Hình vuông có mấy trục đối xứng?",
+    "options": ["4", "2", "1", "Vô số"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho tứ giác ABCD. Tổng các góc ngoài tại 4 đỉnh là:",
+    "options": ["360°", "180°", "720°", "540°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Hình thang vuông là hình thang có:",
+    "options": ["Một góc vuông", "Hai góc vuông", "Ba góc vuông", "Bốn góc vuông"],
+    "correctAnswer": "Một góc vuông"
+  },
+  {
+    "question": "Trong hình bình hành, các góc đối thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không bằng nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Hình chữ nhật có một đường chéo là phân giác của một góc là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình bình hành", "Không phải hình đặc biệt"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hình thoi có hai đường chéo bằng nhau là:",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Đường thẳng đi qua trung điểm hai đáy của hình thang cân thì:",
+    "options": ["Là trục đối xứng của hình thang cân", "Vuông góc với hai đáy", "Cả A và B", "Song song với hai cạnh bên"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC. Gọi M, N lần lượt là trung điểm của AB, AC. Tứ giác BMNC là hình gì?",
+    "options": ["Hình thang", "Hình bình hành", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Tứ giác có hai cặp cạnh đối song song là:",
+    "options": ["Hình bình hành", "Hình thang", "Hình thang cân", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong hình chữ nhật ABCD, O là giao điểm hai đường chéo. Tam giác OAB là tam giác gì?",
+    "options": ["Tam giác cân", "Tam giác đều", "Tam giác vuông", "Tam giác vuông cân"],
+    "correctAnswer": "Tam giác cân"
+  },
+  {
+    "question": "Một hình thoi có độ dài hai đường chéo là 6cm và 8cm. Cạnh của hình thoi là:",
+    "options": ["5 cm", "10 cm", "7 cm", "14 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Hình vuông là một đa giác đều. Phát biểu này:",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi cạnh bằng 1", "Chỉ đúng khi có 4 cạnh"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Tứ giác có một cặp cạnh đối vừa song song vừa bằng nhau là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thang", "Hình chữ nhật"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình thang có hai đường chéo bằng nhau là:",
+    "options": ["Hình thang cân", "Hình bình hành", "Hình chữ nhật", "Hình thang vuông"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Trong hình bình hành, hai góc kề một cạnh thì:",
+    "options": ["Bù nhau", "Bằng nhau", "Phụ nhau", "Không có quan hệ"],
+    "correctAnswer": "Bù nhau"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường và vuông góc với nhau là:",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Cả A và B"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hình chữ nhật có mấy trục đối xứng?",
+    "options": ["2", "4", "1", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, trung tuyến AM. Tứ giác ABDC có D đối xứng với A qua M. Tứ giác ABDC là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Đoạn thẳng nối trung điểm hai đường chéo của hình thang thì:",
+    "options": ["Song song với hai đáy và bằng nửa hiệu hai đáy", "Song song với hai đáy và bằng nửa tổng hai đáy", "Vuông góc với hai đáy", "Bằng đường trung bình"],
+    "correctAnswer": "Song song với hai đáy và bằng nửa hiệu hai đáy"
+  },
+  {
+    "question": "Tứ giác có các góc đối bằng nhau là:",
+    "options": ["Hình bình hành", "Hình thang", "Hình thang cân", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình thoi có một góc vuông là:",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Cả A và B"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hình thoi có mấy trục đối xứng?",
+    "options": ["2", "4", "1", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho tam giác ABC. D, E, F lần lượt là trung điểm của AB, BC, CA. Tứ giác ADEF là hình gì?",
+    "options": ["Hình bình hành", "Hình chữ nhật", "Hình thoi", "Hình vuông"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình thang có một góc tù thì góc kề với nó trên cùng một cạnh bên là:",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Trong hình bình hành ABCD, AC cắt BD tại O. Mệnh đề nào sai?",
+    "options": ["OA = OB", "OA = OC", "OB = OD", "Tam giác OAB bằng tam giác OCD"],
+    "correctAnswer": "OA = OB"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 28cm, hai cạnh hơn kém nhau 2cm. Độ dài đường chéo là:",
+    "options": ["10 cm", "√100 cm", "Cả A và B", "√98 cm"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hình thoi có chu vi 20cm, một đường chéo 8cm. Độ dài đường chéo còn lại là:",
+    "options": ["6 cm", "10 cm", "4 cm", "12 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Hình nào sau đây có tâm đối xứng?",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thang vuông", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Cho tam giác ABC cân tại A, đường cao AH. Lấy I đối xứng với H qua AB, K đối xứng với H qua AC. Tứ giác AIHK là hình gì?",
+    "options": ["Hình thoi", "Hình bình hành", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Đường trung bình của tam giác thì:",
+    "options": ["Song song với cạnh thứ ba và bằng nửa cạnh ấy", "Song song với cạnh thứ ba", "Bằng nửa cạnh ấy", "Vuông góc với cạnh thứ ba"],
+    "correctAnswer": "Song song với cạnh thứ ba và bằng nửa cạnh ấy"
+  },
+  {
+    "question": "Tứ giác có một cặp cạnh đối song song và hai đường chéo bằng nhau là:",
+    "options": ["Hình thang cân", "Hình bình hành", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Trong hình chữ nhật, giao điểm hai đường chéo cách đều:",
+    "options": ["Bốn đỉnh", "Bốn cạnh", "Hai cạnh dài", "Hai cạnh ngắn"],
+    "correctAnswer": "Bốn đỉnh"
+  },
+  {
+    "question": "Một hình thoi có một góc bằng 60°. Tỉ số độ dài hai đường chéo là:",
+    "options": ["1/√3", "√3", "1/2", "2"],
+    "correctAnswer": "1/√3"
+  },
+  {
+    "question": "Hình vuông có tâm đối xứng là:",
+    "options": ["Giao điểm hai đường chéo", "Trung điểm một cạnh", "Một đỉnh", "Không có"],
+    "correctAnswer": "Giao điểm hai đường chéo"
+  },
+  {
+    "question": "Cho tứ giác ABCD có AB=CD và AD=BC. Tứ giác này là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình thang có hai cạnh đáy bằng nhau là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong hình bình hành ABCD, nếu vectơ AB = vectơ AD thì ABCD là:",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Không thể xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Tứ giác có các đường phân giác của các góc cắt nhau tạo thành một hình chữ nhật. Tứ giác đó là:",
+    "options": ["Hình bình hành", "Hình thang", "Hình thang cân", "Tứ giác có các góc đối bù nhau"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình chữ nhật có một cạnh bằng 5cm, đường chéo bằng 13cm. Diện tích hình chữ nhật là:",
+    "options": ["60 cm²", "65 cm²", "30 cm²", "78 cm²"],
+    "correctAnswer": "60 cm²"
+  },
+  {
+    "question": "Một hình thoi có cạnh bằng 10cm và một góc bằng 60°. Diện tích hình thoi là:",
+    "options": ["50√3 cm²", "100√3 cm²", "50 cm²", "100 cm²"],
+    "correctAnswer": "50√3 cm²"
+  },
+  {
+    "question": "Hình vuông có diện tích 36 cm². Độ dài đường chéo của nó là:",
+    "options": ["6√2 cm", "6 cm", "12 cm", "3√2 cm"],
+    "correctAnswer": "6√2 cm"
+  },
+  {
+    "question": "Cho tam giác ABC, D và E là trung điểm của AB và AC. Tỉ số diện tích của tam giác ADE và ABC là:",
+    "options": ["1/4", "1/2", "1/3", "2/3"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Hình thang cân có một góc bằng 45° và hai đáy là 26cm, 10cm. Chiều cao của hình thang là:",
+    "options": ["8 cm", "16 cm", "4 cm", "10 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là:",
+    "options": ["Hình bình hành", "Hình thang", "Hình thang cân", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình bình hành có một đường chéo là phân giác của một góc là:",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Cả A và B"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Hình chữ nhật có một đường chéo bằng cạnh là:",
+    "options": ["Không tồn tại", "Hình vuông", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Không tồn tại"
+  },
+  {
+    "question": "Tứ giác có 4 trục đối xứng là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A. D là trung điểm BC. E, F lần lượt là hình chiếu của D trên AB, AC. Tứ giác AEDF là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Trong hình thang, đoạn thẳng nối trung điểm hai cạnh bên được gọi là:",
+    "options": ["Đường trung bình", "Đường cao", "Đường chéo", "Cạnh bên"],
+    "correctAnswer": "Đường trung bình"
+  },
+  {
+    "question": "Tứ giác có hai cặp góc đối bằng nhau là:",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thang", "Tứ giác bất kỳ"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong hình chữ nhật ABCD, góc giữa hai đường chéo AC và BD là 60°. Nếu AC = 8cm thì AB bằng:",
+    "options": ["4 cm", "8 cm", "4√3 cm", "8√3 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Một hình thoi có diện tích bằng 24 cm² và một đường chéo bằng 6cm. Cạnh của hình thoi là:",
+    "options": ["5 cm", "8 cm", "10 cm", "3 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Hình nào sau đây không có tâm đối xứng?",
+    "options": ["Hình thang cân", "Hình bình hành", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Cho hình bình hành ABCD. Lấy E, F lần lượt là trung điểm của AB, CD. Tứ giác AECF là:",
+    "options": ["Hình bình hành", "Hình chữ nhật", "Hình thoi", "Hình thang"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong hình thang vuông ABCD (góc A=D=90°), có AB=AD=a, DC=2a. Góc B bằng:",
+    "options": ["135°", "120°", "90°", "45°"],
+    "correctAnswer": "135°"
+  },
+  {
+    "question": "Tứ giác có hai đường chéo bằng nhau và vuông góc với nhau là:",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Không phải hình đặc biệt"],
+    "correctAnswer": "Không phải hình đặc biệt"
+  },
+  {
+    "question": "Trong hình bình hành ABCD, AB=2AD. Gọi M, N là trung điểm của AB, CD. Tứ giác AMND là:",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Hình bình hành"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 48 cm² và một cạnh 6cm. Đường chéo của nó là:",
+    "options": ["10 cm", "8 cm", "14 cm", "√84 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình thoi có cạnh bằng đường chéo. Hình thoi đó có một góc bằng:",
+    "options": ["60°", "90°", "120°", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Hình vuông là trường hợp đặc biệt của:",
+    "options": ["Hình chữ nhật", "Hình thoi", "Cả A và B", "Hình thang cân"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC, các đường trung tuyến BD, CE. Gọi M, N là trung điểm của BE, CD. Tứ giác BMNC là:",
+    "options": ["Hình thang", "Hình bình hành", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Hình thang có hai cạnh bên bằng nhau là:",
+    "options": ["Hình thang cân hoặc hình bình hành", "Chỉ hình thang cân", "Chỉ hình bình hành", "Không có"],
+    "correctAnswer": "Hình thang cân hoặc hình bình hành"
+  },
+  {
+    "question": "Tứ giác có các góc đối bù nhau là:",
+    "options": ["Tứ giác nội tiếp", "Hình bình hành", "Hình thoi", "Hình thang"],
+    "correctAnswer": "Tứ giác nội tiếp"
+  },
+  {
+    "question": "Trong hình chữ nhật, khoảng cách từ giao điểm hai đường chéo đến một cạnh là:",
+    "options": ["Nửa cạnh kề với nó", "Nửa cạnh đối diện với nó", "Bằng cạnh kề", "Bằng cạnh đối"],
+    "correctAnswer": "Nửa cạnh kề với nó"
+  },
+  {
+    "question": "Một hình thoi có chu vi 40cm. Tổng độ dài hai đường chéo là 28cm. Diện tích hình thoi là:",
+    "options": ["96 cm²", "140 cm²", "192 cm²", "48 cm²"],
+    "correctAnswer": "96 cm²"
+  },
+  {
+    "question": "Hình có 1 tâm đối xứng và 2 trục đối xứng là:",
+    "options": ["Hình chữ nhật và hình thoi", "Hình vuông", "Hình bình hành", "Hình thang cân"],
+    "correctAnswer": "Hình chữ nhật và hình thoi"
+  },
+  {
+    "question": "Cho tam giác ABC vuông cân tại A. Lấy điểm D trên cạnh BC. Kẻ DE ⊥ AB, DF ⊥ AC. Tứ giác AEDF là:",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  }
+]
+
