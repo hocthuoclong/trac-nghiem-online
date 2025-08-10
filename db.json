@@ -1,5 +1,36 @@
 {
   "grades": {
+    "7": {
+      "name": "Lớp 7",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Số hữu tỉ",
+                  "file": "./data/math-7-chapter-1.json"
+                }
+              ]
+            },
+            "midterm-1": {
+              "name": "Ôn tập học kỳ 1",
+              "file": "./data/math-7-midterm-1.json"
+            },
+            "midterm-2": {
+              "name": "Ôn tập học kỳ 2",
+              "file": "./data/math-7-midterm-2.json"
+            },
+            "final": {
+              "name": "Ôn tập cuối năm",
+              "file": "./data/math-7-final.json"
+            }
+          }
+        }
+      }
+    },
     "8": {
       "name": "Lớp 8",
       "subjects": {
