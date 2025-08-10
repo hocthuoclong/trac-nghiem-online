@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Thể tích của một hình là:",
+    "options": ["Số đo phần không gian mà hình đó chiếm.", "Số đo bề mặt của hình đó.", "Số đo đường bao quanh của hình đó.", "Trọng lượng của hình đó."],
+    "correctAnswer": "Số đo phần không gian mà hình đó chiếm."
+  },
+  {
+    "question": "Hình hộp chữ nhật A có thể tích lớn hơn hình hộp chữ nhật B. Điều đó có nghĩa là:",
+    "options": ["Hình A chiếm nhiều không gian hơn hình B.", "Hình A nặng hơn hình B.", "Hình A cao hơn hình B.", "Hình A dài hơn hình B."],
+    "correctAnswer": "Hình A chiếm nhiều không gian hơn hình B."
+  },
+  {
+    "question": "Xăng-ti-mét khối là thể tích của một hình lập phương có cạnh dài:",
+    "options": ["1 cm", "10 cm", "1 dm", "1 m"],
+    "correctAnswer": "1 cm"
+  },
+  {
+    "question": "Xăng-ti-mét khối được viết tắt là:",
+    "options": ["cm³", "cm2", "cm", "xmt"],
+    "correctAnswer": "cm³"
+  },
+  {
+    "question": "Đề-xi-mét khối là thể tích của một hình lập phương có cạnh dài:",
+    "options": ["1 dm", "10 dm", "1 cm", "1 m"],
+    "correctAnswer": "1 dm"
+  },
+  {
+    "question": "Đề-xi-mét khối được viết tắt là:",
+    "options": ["dm³", "dm2", "dm", "đxmt"],
+    "correctAnswer": "dm³"
+  },
+  {
+    "question": "1 dm³ bằng bao nhiêu cm³?",
+    "options": ["1000 cm³", "100 cm³", "10 cm³", "1 cm³"],
+    "correctAnswer": "1000 cm³"
+  },
+  {
+    "question": "Mét khối là thể tích của một hình lập phương có cạnh dài:",
+    "options": ["1 m", "10 m", "100 m", "1 dm"],
+    "correctAnswer": "1 m"
+  },
+  {
+    "question": "Mét khối được viết tắt là:",
+    "options": ["m³", "m2", "m", "mk"],
+    "correctAnswer": "m³"
+  },
+  {
+    "question": "1 m³ bằng bao nhiêu dm³?",
+    "options": ["1000 dm³", "100 dm³", "10 dm³", "1 dm³"],
+    "correctAnswer": "1000 dm³"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 5 dm³ = ... cm³",
+    "options": ["5000", "500", "50", "5"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 2,5 m³ = ... dm³",
+    "options": ["2500", "250", "25", "25000"],
+    "correctAnswer": "2500"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 4000 cm³ = ... dm³",
+    "options": ["4", "40", "400", "0,4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một lít nước tương đương với thể tích:",
+    "options": ["1 dm³", "1 cm³", "1 m³", "10 dm³"],
+    "correctAnswer": "1 dm³"
+  },
+  {
+    "question": "Một bể nước hình hộp chữ nhật có thể tích là 1,5 m³. Bể đó chứa được bao nhiêu lít nước?",
+    "options": ["1500 lít", "150 lít", "15 lít", "15000 lít"],
+    "correctAnswer": "1500 lít"
+  },
+  {
+    "question": "So sánh: 12 dm³ và 1200 cm³",
+    "options": [">", "<", "=", "Không so sánh được"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "So sánh: 0,5 m³ và 500 dm³",
+    "options": ["=", ">", "<", "Không so sánh được"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Viết số đo 5 m³ 25 dm³ dưới dạng số thập phân với đơn vị là m³.",
+    "options": ["5,025 m³", "5,25 m³", "5,0025 m³", "52,5 m³"],
+    "correctAnswer": "5,025 m³"
+  },
+  {
+    "question": "Viết số đo 8 dm³ 4 cm³ dưới dạng số thập phân với đơn vị là dm³.",
+    "options": ["8,004 dm³", "8,04 dm³", "8,4 dm³", "8004 dm³"],
+    "correctAnswer": "8,004 dm³"
+  },
+  {
+    "question": "Một hình lập phương có cạnh 3cm. Thể tích của nó là:",
+    "options": ["27 cm³", "9 cm³", "18 cm³", "54 cm³"],
+    "correctAnswer": "27 cm³"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có chiều dài 5cm, chiều rộng 4cm, chiều cao 3cm. Thể tích của nó là:",
+    "options": ["60 cm³", "12 cm³", "94 cm²", "20 cm³"],
+    "correctAnswer": "60 cm³"
+  },
+  {
+    "question": "Trong bảng đơn vị đo thể tích, hai đơn vị liền kề nhau hơn kém nhau bao nhiêu lần?",
+    "options": ["1000 lần", "100 lần", "10 lần", "3 lần"],
+    "correctAnswer": "1000 lần"
+  },
+  {
+    "question": "1 m³ bằng bao nhiêu cm³?",
+    "options": ["1 000 000 cm³", "1000 cm³", "10 000 cm³", "100 000 cm³"],
+    "correctAnswer": "1 000 000 cm³"
+  },
+  {
+    "question": "Phân số 1/2 dm³ bằng bao nhiêu cm³?",
+    "options": ["500 cm³", "50 cm³", "5 cm³", "200 cm³"],
+    "correctAnswer": "500 cm³"
+  },
+  {
+    "question": "Một bể cá hình lập phương có cạnh 0,5m. Thể tích của bể cá đó là:",
+    "options": ["0,125 m³", "1,25 m³", "12,5 m³", "125 m³"],
+    "correctAnswer": "0,125 m³"
+  },
+  {
+    "question": "Đọc số đo: 12,005 m³",
+    "options": ["Mười hai phẩy không không năm mét khối", "Mười hai phẩy năm mét khối", "Mười hai nghìn không trăm linh năm mét khối", "Mười hai mét khối năm đề-xi-mét khối"],
+    "correctAnswer": "Mười hai phẩy không không năm mét khối"
+  },
+  {
+    "question": "Viết số: 'Bốn phần mười mét khối'",
+    "options": ["0,4 m³", "4/10 m³", "Cả A và B đều đúng", "4,10 m³"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "So sánh: 3,1 m³ và 310 dm³",
+    "options": [">", "<", "=", "Không so sánh được"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Một viên gạch có thể tích 1200 cm³. Một đống gạch có 1000 viên. Thể tích của đống gạch đó là bao nhiêu mét khối?",
+    "options": ["1,2 m³", "12 m³", "120 m³", "0,12 m³"],
+    "correctAnswer": "1,2 m³"
+  },
+  {
+    "question": "Một cái thùng hình hộp chữ nhật có chiều dài 1,2m, chiều rộng 0,8m và chiều cao 0,5m. Thể tích của thùng là:",
+    "options": ["0,48 m³", "4,8 m³", "48 m³", "0,048 m³"],
+    "correctAnswer": "0,48 m³"
+  },
+  {
+    "question": "Đổi 15 000 cm³ ra dm³.",
+    "options": ["15 dm³", "1,5 dm³", "150 dm³", "0,15 dm³"],
+    "correctAnswer": "15 dm³"
+  },
+  {
+    "question": "Đổi 0,02 m³ ra cm³.",
+    "options": ["20 000 cm³", "2000 cm³", "200 cm³", "20 cm³"],
+    "correctAnswer": "20 000 cm³"
+  },
+  {
+    "question": "Một bể nước có thể tích 2m³. Người ta đổ vào bể 1500 lít nước. Hỏi cần đổ thêm bao nhiêu lít nước nữa thì đầy bể?",
+    "options": ["500 lít", "1500 lít", "2000 lít", "1000 lít"],
+    "correctAnswer": "500 lít"
+  },
+  {
+    "question": "Một hình lập phương có diện tích toàn phần là 54 cm². Thể tích của hình lập phương đó là:",
+    "options": ["27 cm³", "9 cm³", "81 cm³", "18 cm³"],
+    "correctAnswer": "27 cm³"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có thể tích 120 cm³, chiều dài 6cm, chiều rộng 5cm. Chiều cao của hình hộp là:",
+    "options": ["4 cm", "30 cm", "20 cm", "10 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Số 2050 cm³ được viết dưới dạng số đo dm³ là:",
+    "options": ["2,05 dm³", "2,5 dm³", "20,5 dm³", "205 dm³"],
+    "correctAnswer": "2,05 dm³"
+  },
+  {
+    "question": "Số 12 m³ 50 dm³ được viết dưới dạng số thập phân là:",
+    "options": ["12,05 m³", "12,5 m³", "12,005 m³", "1250 m³"],
+    "correctAnswer": "12,05 m³"
+  },
+  {
+    "question": "So sánh: 1/4 m³ và 250 dm³",
+    "options": ["=", ">", "<", "Không so sánh được"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Một khối kim loại hình lập phương cạnh 0,2m. Mỗi đề-xi-mét khối kim loại đó nặng 10kg. Khối kim loại đó nặng:",
+    "options": ["80 kg", "8 kg", "0,8 kg", "800 kg"],
+    "correctAnswer": "80 kg"
+  },
+  {
+    "question": "Một cái bể hình hộp chữ nhật có kích thước trong lòng bể là: dài 2m, rộng 1,5m, cao 1m. Mức nước trong bể cao bằng 4/5 chiều cao của bể. Trong bể có bao nhiêu lít nước?",
+    "options": ["2400 lít", "3000 lít", "2000 lít", "1500 lít"],
+    "correctAnswer": "2400 lít"
+  },
+  {
+    "question": "Đơn vị liền sau của m³ là:",
+    "options": ["dm³", "km³", "cm³", "dam³"],
+    "correctAnswer": "dm³"
+  },
+  {
+    "question": "Đơn vị liền trước của dm³ là:",
+    "options": ["m³", "cm³", "mm³", "km³"],
+    "correctAnswer": "m³"
+  },
+  {
+    "question": "1 cm³ bằng bao nhiêu dm³?",
+    "options": ["0,001 dm³", "0,01 dm³", "0,1 dm³", "1000 dm³"],
+    "correctAnswer": "0,001 dm³"
+  },
+  {
+    "question": "Một khối gỗ hình lập phương có cạnh 10cm. Người ta sơn tất cả các mặt của khối gỗ, sau đó cưa thành 1000 khối gỗ nhỏ có cạnh 1cm. Có bao nhiêu khối gỗ nhỏ không được sơn mặt nào?",
+    "options": ["512", "1000", "8", "0"],
+    "correctAnswer": "512"
+  },
+  {
+    "question": "Một cái thùng không nắp dạng hình hộp chữ nhật có chiều dài 1,5m, chiều rộng 0,6m và chiều cao 0,8m. Diện tích tôn để làm thùng đó là (không tính mép hàn):",
+    "options": ["4,26 m²", "3,36 m²", "0,9 m²", "5,16 m²"],
+    "correctAnswer": "4,26 m²"
+  },
+  {
+    "question": "Viết 12345 cm³ dưới dạng số đo có đơn vị m³.",
+    "options": ["0,012345 m³", "0,12345 m³", "1,2345 m³", "12,345 m³"],
+    "correctAnswer": "0,012345 m³"
+  },
+  {
+    "question": "Số 0,05 m³ đọc là:",
+    "options": ["Năm phần trăm mét khối", "Không phẩy không năm mét khối", "Năm mươi đề-xi-mét khối", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "So sánh: 7 m³ 5 dm³ và 7,5 m³",
+    "options": ["<", ">", "=", "Không so sánh được"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Một bể nước chứa được 2160 lít nước, đáy bể là hình vuông có chu vi 4,8m. Chiều cao của bể là:",
+    "options": ["1,5 m", "1 m", "1,2 m", "2 m"],
+    "correctAnswer": "1,5 m"
+  },
+  {
+    "question": "Một hình lập phương có diện tích một mặt là 25 dm². Thể tích của hình lập phương đó là:",
+    "options": ["125 dm³", "25 dm³", "150 dm³", "5 dm³"],
+    "correctAnswer": "125 dm³"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có chiều cao 8cm, chiều dài hơn chiều rộng 4cm, chu vi đáy là 40cm. Thể tích của hình hộp là:",
+    "options": ["768 cm³", "1280 cm³", "640 cm³", "800 cm³"],
+    "correctAnswer": "768 cm³"
+  },
+  {
+    "question": "3/4 m³ bằng bao nhiêu lít?",
+    "options": ["750 lít", "75 lít", "7500 lít", "0,75 lít"],
+    "correctAnswer": "750 lít"
+  },
+  {
+    "question": "Một bể kính nuôi cá dạng hình hộp chữ nhật có chiều dài 1m, chiều rộng 50cm, chiều cao 60cm. Lượng nước trong bể chiếm 3/4 thể tích bể. Hỏi trong bể có bao nhiêu lít nước?",
+    "options": ["225 lít", "300 lít", "150 lít", "250 lít"],
+    "correctAnswer": "225 lít"
+  },
+  {
+    "question": "Nếu cạnh của một hình lập phương tăng lên 3 lần thì thể tích của nó tăng lên:",
+    "options": ["27 lần", "9 lần", "3 lần", "6 lần"],
+    "correctAnswer": "27 lần"
+  },
+  {
+    "question": "Một khối đá có thể tích 0,5 m³. Mỗi dm³ đá nặng 2,5 kg. Khối đá đó nặng bao nhiêu tạ?",
+    "options": ["12,5 tạ", "1,25 tạ", "125 tạ", "1250 tạ"],
+    "correctAnswer": "12,5 tạ"
+  },
+  {
+    "question": "Viết 123 dm³ dưới dạng số đo có đơn vị m³.",
+    "options": ["0,123 m³", "1,23 m³", "12,3 m³", "0,0123 m³"],
+    "correctAnswer": "0,123 m³"
+  },
+  {
+    "question": "Số 5,005 dm³ bằng bao nhiêu cm³?",
+    "options": ["5005 cm³", "5050 cm³", "500,5 cm³", "5,005 cm³"],
+    "correctAnswer": "5005 cm³"
+  },
+  {
+    "question": "Một bể nước hình hộp chữ nhật có thể tích 1,8 m³. Đáy bể có chiều dài 1,5m, chiều rộng 0,8m. Chiều cao của bể là:",
+    "options": ["1,5 m", "1,2 m", "1 m", "2 m"],
+    "correctAnswer": "1,5 m"
+  },
+  {
+    "question": "Một hình lập phương có thể tích 1000 cm³. Cạnh của hình lập phương đó là:",
+    "options": ["10 cm", "100 cm", "1 cm", "1000 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có diện tích xung quanh 140 m², chiều cao 5m. Chu vi đáy của hình hộp là:",
+    "options": ["28 m", "14 m", "700 m", "35 m"],
+    "correctAnswer": "28 m"
+  },
+  {
+    "question": "Một thùng phi có thể tích 200 lít. Thể tích đó bằng bao nhiêu mét khối?",
+    "options": ["0,2 m³", "2 m³", "20 m³", "0,02 m³"],
+    "correctAnswer": "0,2 m³"
+  },
+  {
+    "question": "Nếu chiều dài và chiều rộng của hình hộp chữ nhật cùng tăng 2 lần, chiều cao giữ nguyên thì thể tích tăng:",
+    "options": ["4 lần", "2 lần", "8 lần", "6 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Một khối bê tông hình lập phương cạnh 2m. Thể tích của khối bê tông đó là:",
+    "options": ["8 m³", "4 m³", "6 m³", "12 m³"],
+    "correctAnswer": "8 m³"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thoi có diện tích 24 cm², chiều cao lăng trụ là 10cm. Thể tích lăng trụ là:",
+    "options": ["240 cm³", "120 cm³", "80 cm³", "34 cm³"],
+    "correctAnswer": "240 cm³"
+  },
+  {
+    "question": "Viết 2 m³ 5 cm³ dưới dạng số thập phân với đơn vị là m³.",
+    "options": ["2,000005 m³", "2,005 m³", "2,05 m³", "2,5 m³"],
+    "correctAnswer": "2,000005 m³"
+  },
+  {
+    "question": "Số 0,75 dm³ bằng bao nhiêu cm³?",
+    "options": ["750 cm³", "75 cm³", "7,5 cm³", "7500 cm³"],
+    "correctAnswer": "750 cm³"
+  },
+  {
+    "question": "Một cái hộp có thể tích 1 m³. Có thể xếp vào đó bao nhiêu hộp nhỏ thể tích 1 dm³?",
+    "options": ["1000 hộp", "100 hộp", "10 hộp", "1 hộp"],
+    "correctAnswer": "1000 hộp"
+  },
+  {
+    "question": "Một hình lập phương có diện tích toàn phần là 24 dm². Thể tích của nó là:",
+    "options": ["8 dm³", "4 dm³", "12 dm³", "6 dm³"],
+    "correctAnswer": "8 dm³"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có chiều dài 12cm, chiều rộng 10cm, chiều cao 8cm. Diện tích xung quanh là:",
+    "options": ["352 cm²", "176 cm²", "960 cm²", "120 cm²"],
+    "correctAnswer": "352 cm²"
+  },
+  {
+    "question": "Một bể nước hình hộp chữ nhật, đo trong lòng bể được chiều dài 2m, chiều rộng 1,2m, chiều cao 1,5m. Bể đang chứa 75% thể tích nước. Trong bể có bao nhiêu lít nước?",
+    "options": ["2700 lít", "3600 lít", "2000 lít", "1800 lít"],
+    "correctAnswer": "2700 lít"
+  },
+  {
+    "question": "1/5 m³ bằng bao nhiêu dm³?",
+    "options": ["200 dm³", "500 dm³", "20 dm³", "50 dm³"],
+    "correctAnswer": "200 dm³"
+  },
+  {
+    "question": "Một khối rubik có dạng hình lập phương cạnh 5,5 cm. Thể tích của khối rubik là:",
+    "options": ["166,375 cm³", "30,25 cm³", "121,5 cm³", "165 cm³"],
+    "correctAnswer": "166,375 cm³"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình thang vuông, chiều cao lăng trụ là 10cm. Đáy lớn 8cm, đáy bé 6cm, cạnh bên vuông góc với hai đáy dài 4cm. Thể tích lăng trụ là:",
+    "options": ["280 cm³", "140 cm³", "560 cm³", "320 cm³"],
+    "correctAnswer": "280 cm³"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có đáy là hình vuông cạnh 5cm, thể tích là 150 cm³. Chiều cao của hình hộp là:",
+    "options": ["6 cm", "5 cm", "10 cm", "12 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Một bể cá không có nước, người ta đổ vào 120 lít nước thì mực nước trong bể cao 0,2m. Biết chiều dài bể là 1m. Chiều rộng của bể là:",
+    "options": ["0,6 m", "6 m", "1,2 m", "0,5 m"],
+    "correctAnswer": "0,6 m"
+  },
+  {
+    "question": "Viết 12 050 cm³ dưới dạng số đo có đơn vị dm³.",
+    "options": ["12,05 dm³", "12,5 dm³", "1,205 dm³", "120,5 dm³"],
+    "correctAnswer": "12,05 dm³"
+  },
+  {
+    "question": "Số 0,002 m³ bằng bao nhiêu cm³?",
+    "options": ["2000 cm³", "200 cm³", "20 cm³", "2 cm³"],
+    "correctAnswer": "2000 cm³"
+  },
+  {
+    "question": "So sánh: 12345 cm³ và 12,3 dm³",
+    "options": [">", "<", "=", "Không so sánh được"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Một bể bơi có thể tích 450 m³. Người ta dùng một máy bơm có công suất 15 m³/giờ để bơm nước vào bể. Thời gian để bơm đầy bể là:",
+    "options": ["30 giờ", "15 giờ", "45 giờ", "20 giờ"],
+    "correctAnswer": "30 giờ"
+  },
+  {
+    "question": "Một hình lập phương có diện tích toàn phần gấp 6 lần diện tích một mặt. Điều này:",
+    "options": ["Luôn đúng", "Luôn sai", "Chỉ đúng khi cạnh là 1", "Chỉ đúng khi cạnh là 6"],
+    "correctAnswer": "Luôn đúng"
+  },
+  {
+    "question": "Một hình hộp chữ nhật có thể tích 1 m³. Nếu chiều dài là 2m, chiều rộng là 1m thì chiều cao là:",
+    "options": ["0,5 m", "1 m", "2 m", "5 m"],
+    "correctAnswer": "0,5 m"
+  },
+  {
+    "question": "Một thùng nước hình lập phương cạnh 1,2m. Thùng đang chứa đầy nước. Thể tích nước trong thùng là:",
+    "options": ["1,728 m³", "1728 lít", "Cả A và B đều đúng", "1440 lít"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là tam giác vuông có cạnh huyền 10cm, một cạnh góc vuông 6cm. Chiều cao lăng trụ là 12cm. Thể tích của lăng trụ là:",
+    "options": ["288 cm³", "576 cm³", "360 cm³", "720 cm³"],
+    "correctAnswer": "288 cm³"
+  },
+  {
+    "question": "Nếu các kích thước của một hình hộp chữ nhật đều giảm đi một nửa thì thể tích của nó giảm đi:",
+    "options": ["8 lần", "2 lần", "4 lần", "6 lần"],
+    "correctAnswer": "8 lần"
+  },
+  {
+    "question": "Một khối gỗ hình hộp chữ nhật có kích thước 1m x 0,8m x 0,5m. Người ta cắt khối gỗ đó thành các hình lập phương nhỏ cạnh 1dm. Số hình lập phương nhỏ cắt được là:",
+    "options": ["400", "40", "4000", "4"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Một bể nước hình hộp chữ nhật có chiều dài 2m, chiều rộng 1,5m. Mực nước trong bể đang cao 0,8m. Thể tích nước trong bể là:",
+    "options": ["2,4 m³", "3 m³", "1,2 m³", "240 lít"],
+    "correctAnswer": "2,4 m³"
+  },
+  {
+    "question": "Một hình lập phương có thể tích 64 dm³. Diện tích xung quanh của hình lập phương đó là:",
+    "options": ["64 dm²", "16 dm²", "96 dm²", "32 dm²"],
+    "correctAnswer": "64 dm²"
+  },
+  {
+    "question": "Một lăng trụ đứng có đáy là hình vuông cạnh a và chiều cao bằng cạnh đáy. Thể tích của lăng trụ đó là:",
+    "options": ["a³", "a²", "2a³", "4a²"],
+    "correctAnswer": "a³"
+  }
+]
+
