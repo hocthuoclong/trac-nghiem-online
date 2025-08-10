@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Hàm số, đồ thị và ứng dụng",
                   "file": "./data/math-10-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Phương pháp tọa độ trong mặt phẳng",
+                  "file": "./data/math-10-chapter-7.json"
                 }
               ]
             },
