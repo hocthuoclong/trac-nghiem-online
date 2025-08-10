@@ -1,0 +1,1013 @@
+[
+  {
+    "question": "1 thế kỉ bằng bao nhiêu năm?",
+    "options": ["10 năm", "100 năm", "1000 năm", "10000 năm"],
+    "correctAnswer": "100 năm"
+  },
+  {
+    "question": "Năm 2024 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XX", "Thế kỉ XXI", "Thế kỉ XXII", "Thế kỉ XIX"],
+    "correctAnswer": "Thế kỉ XXI"
+  },
+  {
+    "question": "1 giờ bằng bao nhiêu phút?",
+    "options": ["30 phút", "60 phút", "100 phút", "120 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "1 phút bằng bao nhiêu giây?",
+    "options": ["60 giây", "100 giây", "30 giây", "10 giây"],
+    "correctAnswer": "60 giây"
+  },
+  {
+    "question": "Đổi 2 năm 5 tháng ra tháng.",
+    "options": ["17 tháng", "29 tháng", "25 tháng", "30 tháng"],
+    "correctAnswer": "29 tháng"
+  },
+  {
+    "question": "Đổi 3 giờ 15 phút ra phút.",
+    "options": ["195 phút", "185 phút", "205 phút", "190 phút"],
+    "correctAnswer": "195 phút"
+  },
+  {
+    "question": "Đổi 1,5 giờ ra phút.",
+    "options": ["90 phút", "150 phút", "15 phút", "60 phút"],
+    "correctAnswer": "90 phút"
+  },
+  {
+    "question": "Đổi 45 giây ra phút.",
+    "options": ["0,45 phút", "0,75 phút", "4,5 phút", "7,5 phút"],
+    "correctAnswer": "0,75 phút"
+  },
+  {
+    "question": "Đổi 15 tháng ra năm và tháng.",
+    "options": ["1 năm 3 tháng", "1 năm 5 tháng", "1 năm 2 tháng", "1 năm 15 tháng"],
+    "correctAnswer": "1 năm 3 tháng"
+  },
+  {
+    "question": "Đổi 120 phút ra giờ.",
+    "options": ["2 giờ", "1 giờ", "3 giờ", "1,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Một năm có bao nhiêu tháng?",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tháng 2 của năm không nhuận có bao nhiêu ngày?",
+    "options": ["28", "29", "30", "31"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "Năm nhuận có bao nhiêu ngày?",
+    "options": ["365", "366", "364", "367"],
+    "correctAnswer": "366"
+  },
+  {
+    "question": "2 giờ 35 phút + 1 giờ 20 phút = ?",
+    "options": ["3 giờ 55 phút", "4 giờ 5 phút", "3 giờ 15 phút", "4 giờ 15 phút"],
+    "correctAnswer": "3 giờ 55 phút"
+  },
+  {
+    "question": "5 năm 7 tháng + 3 năm 8 tháng = ?",
+    "options": ["8 năm 15 tháng", "9 năm 3 tháng", "8 năm 3 tháng", "9 năm 1 tháng"],
+    "correctAnswer": "9 năm 3 tháng"
+  },
+  {
+    "question": "4 giờ 10 phút - 2 giờ 30 phút = ?",
+    "options": ["1 giờ 40 phút", "2 giờ 20 phút", "1 giờ 20 phút", "2 giờ 40 phút"],
+    "correctAnswer": "1 giờ 40 phút"
+  },
+  {
+    "question": "10 phút 25 giây - 5 phút 40 giây = ?",
+    "options": ["4 phút 45 giây", "5 phút 15 giây", "5 phút 45 giây", "4 phút 15 giây"],
+    "correctAnswer": "4 phút 45 giây"
+  },
+  {
+    "question": "3 giờ 20 phút x 3 = ?",
+    "options": ["9 giờ 60 phút", "10 giờ", "9 giờ 20 phút", "10 giờ 20 phút"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "10 phút 30 giây : 5 = ?",
+    "options": ["2 phút 6 giây", "2 phút 30 giây", "2 phút 3 giây", "2 phút 15 giây"],
+    "correctAnswer": "2 phút 6 giây"
+  },
+  {
+    "question": "Một người đi xe máy khởi hành lúc 7 giờ 30 phút. Người đó đi đến nơi lúc 9 giờ 15 phút. Hỏi người đó đi hết bao nhiêu thời gian?",
+    "options": ["1 giờ 45 phút", "2 giờ 15 phút", "1 giờ 30 phút", "2 giờ 30 phút"],
+    "correctAnswer": "1 giờ 45 phút"
+  },
+  {
+    "question": "Vận tốc là gì?",
+    "options": ["Quãng đường đi được trong một đơn vị thời gian.", "Thời gian đi hết một quãng đường.", "Quãng đường đi được.", "Thời gian đi được trong một đơn vị quãng đường."],
+    "correctAnswer": "Quãng đường đi được trong một đơn vị thời gian."
+  },
+  {
+    "question": "Công thức tính vận tốc là gì?",
+    "options": ["v = s x t", "v = s : t", "v = t : s", "v = s + t"],
+    "correctAnswer": "v = s : t"
+  },
+  {
+    "question": "Một ô tô đi được 120km trong 2 giờ. Vận tốc của ô tô là:",
+    "options": ["60 km/giờ", "122 km/giờ", "120 km/giờ", "240 km/giờ"],
+    "correctAnswer": "60 km/giờ"
+  },
+  {
+    "question": "Một người chạy bộ được 300m trong 1 phút. Vận tốc của người đó là:",
+    "options": ["300m/phút", "5m/giây", "300km/phút", "5km/phút"],
+    "correctAnswer": "300m/phút"
+  },
+  {
+    "question": "Công thức tính quãng đường là gì?",
+    "options": ["s = v x t", "s = v : t", "s = t : v", "s = v + t"],
+    "correctAnswer": "s = v x t"
+  },
+  {
+    "question": "Một xe đạp đi với vận tốc 15 km/giờ trong 3 giờ. Quãng đường xe đạp đi được là:",
+    "options": ["45 km", "18 km", "5 km", "15 km"],
+    "correctAnswer": "45 km"
+  },
+  {
+    "question": "Công thức tính thời gian là gì?",
+    "options": ["t = s : v", "t = s x v", "t = v : s", "t = s + v"],
+    "correctAnswer": "t = s : v"
+  },
+  {
+    "question": "Một người đi xe máy với vận tốc 40 km/giờ trên quãng đường dài 80km. Thời gian đi hết quãng đường là:",
+    "options": ["2 giờ", "120 giờ", "40 giờ", "80 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Một người đi bộ với vận tốc 5 km/giờ. Quãng đường dài 2,5km. Thời gian đi hết quãng đường là:",
+    "options": ["30 phút", "1 giờ", "2 giờ", "10 phút"],
+    "correctAnswer": "30 phút"
+  },
+  {
+    "question": "Một xe máy đi được 90km trong 1 giờ 30 phút. Vận tốc của xe máy là:",
+    "options": ["60 km/giờ", "90 km/giờ", "45 km/giờ", "30 km/giờ"],
+    "correctAnswer": "60 km/giờ"
+  },
+  {
+    "question": "Một ô tô đi từ A lúc 6 giờ 30 phút và đến B lúc 10 giờ 15 phút. Giữa đường ô tô nghỉ 30 phút. Thời gian đi không kể thời gian nghỉ là:",
+    "options": ["3 giờ 15 phút", "3 giờ 45 phút", "4 giờ 15 phút", "4 giờ 45 phút"],
+    "correctAnswer": "3 giờ 15 phút"
+  },
+  {
+    "question": "Một người đi bộ đi từ nhà lúc 7 giờ với vận tốc 5 km/giờ. Sau khi đi được 2 giờ, người đó đến công viên. Hỏi người đó đến công viên lúc mấy giờ?",
+    "options": ["9 giờ", "8 giờ", "9 giờ 30 phút", "10 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Một xe đạp đi với vận tốc 12 km/giờ. Người đó đi hết 18km. Thời gian đi là:",
+    "options": ["1,5 giờ", "2 giờ", "1 giờ 30 phút", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một người đi xe máy từ A đến B với vận tốc 40 km/giờ. Sau 1 giờ 15 phút, người đó đến B. Quãng đường AB dài:",
+    "options": ["50 km", "40 km", "55 km", "45 km"],
+    "correctAnswer": "50 km"
+  },
+  {
+    "question": "Một xe tải đi từ Hà Nội lúc 6 giờ sáng và đến Hải Phòng lúc 8 giờ sáng. Quãng đường Hà Nội - Hải Phòng dài 102km. Vận tốc của xe tải là:",
+    "options": ["51 km/giờ", "102 km/giờ", "204 km/giờ", "40 km/giờ"],
+    "correctAnswer": "51 km/giờ"
+  },
+  {
+    "question": "Đổi 5 ngày 12 giờ ra giờ.",
+    "options": ["132 giờ", "120 giờ", "60 giờ", "24 giờ"],
+    "correctAnswer": "132 giờ"
+  },
+  {
+    "question": "Đổi 3,5 năm ra tháng.",
+    "options": ["42 tháng", "36 tháng", "40 tháng", "30 tháng"],
+    "correctAnswer": "42 tháng"
+  },
+  {
+    "question": "Đổi 180 giây ra phút.",
+    "options": ["3 phút", "18 phút", "1,8 phút", "0,3 phút"],
+    "correctAnswer": "3 phút"
+  },
+  {
+    "question": "2 giờ 30 phút + 1 giờ 45 phút = ?",
+    "options": ["4 giờ 15 phút", "3 giờ 75 phút", "4 giờ 75 phút", "3 giờ 15 phút"],
+    "correctAnswer": "4 giờ 15 phút"
+  },
+  {
+    "question": "6 giờ 15 phút x 2 = ?",
+    "options": ["12 giờ 30 phút", "12 giờ 15 phút", "13 giờ", "11 giờ 30 phút"],
+    "correctAnswer": "12 giờ 30 phút"
+  },
+  {
+    "question": "Một xe lửa đi với vận tốc 60 km/giờ trong 30 phút. Quãng đường xe lửa đi được là:",
+    "options": ["30 km", "60 km", "180 km", "20 km"],
+    "correctAnswer": "30 km"
+  },
+  {
+    "question": "Một ô tô đi được 120km với vận tốc 60 km/giờ. Thời gian đi là:",
+    "options": ["2 giờ", "3 giờ", "1 giờ", "0,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 15km với vận tốc 10 km/giờ. Thời gian đi là:",
+    "options": ["1,5 giờ", "1 giờ", "1 giờ 30 phút", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một người đi bộ đi từ A lúc 6 giờ 30 phút và đến B lúc 8 giờ 15 phút. Dọc đường người đó nghỉ 15 phút. Thời gian người đó đi trên đường là:",
+    "options": ["1 giờ 30 phút", "1 giờ 45 phút", "1 giờ 15 phút", "2 giờ"],
+    "correctAnswer": "1 giờ 30 phút"
+  },
+  {
+    "question": "Vận tốc của một máy bay là 800 km/giờ. Quãng đường máy bay đi được trong 2 giờ 30 phút là:",
+    "options": ["2000 km", "1600 km", "2400 km", "800 km"],
+    "correctAnswer": "2000 km"
+  },
+  {
+    "question": "12 phút 18 giây : 3 = ?",
+    "options": ["4 phút 6 giây", "4 phút 18 giây", "4 phút 9 giây", "36 phút 54 giây"],
+    "correctAnswer": "4 phút 6 giây"
+  },
+  {
+    "question": "Một ô tô đi từ A đến B hết 2 giờ 30 phút với vận tốc 50 km/giờ. Quãng đường AB dài:",
+    "options": ["125 km", "100 km", "150 km", "175 km"],
+    "correctAnswer": "125 km"
+  },
+  {
+    "question": "Một xe máy đi từ C đến D dài 100km. Xe máy đi hết 2 giờ 30 phút. Vận tốc của xe máy là:",
+    "options": ["40 km/giờ", "50 km/giờ", "25 km/giờ", "60 km/giờ"],
+    "correctAnswer": "40 km/giờ"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 30km với vận tốc 15 km/giờ. Thời gian đi là:",
+    "options": ["2 giờ", "1 giờ", "3 giờ", "15 phút"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "2500 năm bằng bao nhiêu thế kỉ?",
+    "options": ["25 thế kỉ", "2,5 thế kỉ", "250 thế kỉ", "2500 thế kỉ"],
+    "correctAnswer": "25 thế kỉ"
+  },
+  {
+    "question": "4 giờ 20 phút + 3 giờ 50 phút = ?",
+    "options": ["8 giờ 10 phút", "7 giờ 70 phút", "7 giờ 10 phút", "8 giờ 70 phút"],
+    "correctAnswer": "8 giờ 10 phút"
+  },
+  {
+    "question": "5 năm 3 tháng x 4 = ?",
+    "options": ["20 năm 12 tháng", "21 năm", "20 năm 3 tháng", "21 năm 12 tháng"],
+    "correctAnswer": "21 năm"
+  },
+  {
+    "question": "Một xe máy đi với vận tốc 50 km/giờ. Quãng đường đi được trong 1 giờ 30 phút là:",
+    "options": ["75 km", "50 km", "60 km", "150 km"],
+    "correctAnswer": "75 km"
+  },
+  {
+    "question": "Một người đi bộ đi từ A lúc 7 giờ và đến B lúc 8 giờ 30 phút. Giữa đường nghỉ 15 phút. Thời gian đi là:",
+    "options": ["1 giờ 15 phút", "1 giờ 30 phút", "2 giờ", "1 giờ"],
+    "correctAnswer": "1 giờ 15 phút"
+  },
+  {
+    "question": "Thời gian đi từ nhà đến trường là 15 phút. Giờ tan học là 16 giờ 30 phút. Thời gian đến nhà là:",
+    "options": ["16 giờ 45 phút", "16 giờ 15 phút", "16 giờ", "17 giờ"],
+    "correctAnswer": "16 giờ 45 phút"
+  },
+  {
+    "question": "45 phút bằng bao nhiêu giờ?",
+    "options": ["0,45 giờ", "0,75 giờ", "4,5 giờ", "0,25 giờ"],
+    "correctAnswer": "0,75 giờ"
+  },
+  {
+    "question": "Một ô tô đi từ A lúc 7 giờ với vận tốc 60 km/giờ. Sau 2 giờ, ô tô đến B. Quãng đường AB dài:",
+    "options": ["120 km", "62 km", "30 km", "1200 km"],
+    "correctAnswer": "120 km"
+  },
+  {
+    "question": "Một tàu hỏa đi quãng đường 200km với vận tốc 50 km/giờ. Thời gian đi là:",
+    "options": ["4 giờ", "5 giờ", "250 giờ", "40 phút"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Một người đi xe đạp đi từ nhà lúc 8 giờ và đến trường lúc 8 giờ 20 phút. Quãng đường từ nhà đến trường là 6km. Vận tốc của người đó là:",
+    "options": ["18 km/giờ", "6 km/giờ", "15 km/giờ", "20 km/giờ"],
+    "correctAnswer": "18 km/giờ"
+  },
+  {
+    "question": "8 năm 4 tháng - 5 năm 9 tháng = ?",
+    "options": ["2 năm 7 tháng", "3 năm 5 tháng", "3 năm 7 tháng", "2 năm 5 tháng"],
+    "correctAnswer": "2 năm 7 tháng"
+  },
+  {
+    "question": "Một người đi xe đạp đi với vận tốc 15 km/giờ. Quãng đường đi được trong 45 phút là:",
+    "options": ["11,25 km", "15 km", "12,5 km", "75 km"],
+    "correctAnswer": "11,25 km"
+  },
+  {
+    "question": "Nếu quãng đường không đổi, vận tốc và thời gian là hai đại lượng:",
+    "options": ["Tỉ lệ thuận", "Tỉ lệ nghịch", "Không liên quan", "Bằng nhau"],
+    "correctAnswer": "Tỉ lệ nghịch"
+  },
+  {
+    "question": "Một ô tô đi với vận tốc 45 km/giờ. Cần bao nhiêu thời gian để đi hết quãng đường 90km?",
+    "options": ["2 giờ", "1,5 giờ", "2,5 giờ", "3 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Một người đi bộ đi được 4km trong 1 giờ. Vận tốc của người đó là:",
+    "options": ["4 km/giờ", "4 km/phút", "4 m/giây", "4 m/phút"],
+    "correctAnswer": "4 km/giờ"
+  },
+  {
+    "question": "Đổi 1/2 giờ ra phút.",
+    "options": ["30 phút", "50 phút", "12 phút", "15 phút"],
+    "correctAnswer": "30 phút"
+  },
+  {
+    "question": "3 giờ 15 phút + 45 phút = ?",
+    "options": ["4 giờ", "3 giờ 60 phút", "4 giờ 15 phút", "3 giờ 30 phút"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Một người đi xe máy đi quãng đường 120km trong 2 giờ 30 phút. Vận tốc của xe máy là:",
+    "options": ["48 km/giờ", "60 km/giờ", "40 km/giờ", "50 km/giờ"],
+    "correctAnswer": "48 km/giờ"
+  },
+  {
+    "question": "Vận tốc của một con cá heo là 72 km/giờ. Vận tốc đó bằng bao nhiêu m/giây?",
+    "options": ["20 m/giây", "72 m/giây", "720 m/giây", "2 m/giây"],
+    "correctAnswer": "20 m/giây"
+  },
+  {
+    "question": "Một ô tô đi với vận tốc 50 km/giờ. Thời gian đi hết quãng đường 150km là:",
+    "options": ["3 giờ", "2,5 giờ", "4 giờ", "3,5 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Đổi 3 ngày 8 giờ ra giờ.",
+    "options": ["80 giờ", "72 giờ", "38 giờ", "48 giờ"],
+    "correctAnswer": "80 giờ"
+  },
+  {
+    "question": "Một người đi xe đạp đi từ A đến B với vận tốc 12 km/giờ. Thời gian đi là 1 giờ 45 phút. Quãng đường AB dài:",
+    "options": ["21 km", "12 km", "15 km", "24 km"],
+    "correctAnswer": "21 km"
+  },
+  {
+    "question": "2 thế kỉ rưỡi bằng bao nhiêu năm?",
+    "options": ["250 năm", "2,5 năm", "25 năm", "205 năm"],
+    "correctAnswer": "250 năm"
+  },
+  {
+    "question": "12 năm 5 tháng - 8 năm 7 tháng = ?",
+    "options": ["3 năm 10 tháng", "4 năm 2 tháng", "4 năm 8 tháng", "3 năm 8 tháng"],
+    "correctAnswer": "3 năm 10 tháng"
+  },
+  {
+    "question": "Một xe máy đi từ A lúc 7 giờ 30 phút và đến B lúc 9 giờ. Quãng đường AB dài 60km. Vận tốc của xe máy là:",
+    "options": ["40 km/giờ", "60 km/giờ", "30 km/giờ", "50 km/giờ"],
+    "correctAnswer": "40 km/giờ"
+  },
+  {
+    "question": "Một người đi bộ với vận tốc 4 km/giờ. Quãng đường đi được trong 15 phút là:",
+    "options": ["1 km", "4 km", "1,5 km", "0,25 km"],
+    "correctAnswer": "1 km"
+  },
+  {
+    "question": "7 năm 6 tháng x 2 = ?",
+    "options": ["15 năm", "14 năm 12 tháng", "14 năm 6 tháng", "16 năm"],
+    "correctAnswer": "15 năm"
+  },
+  {
+    "question": "10 giờ 48 phút : 4 = ?",
+    "options": ["2 giờ 42 phút", "2 giờ 12 phút", "2 giờ 48 phút", "2 giờ 40 phút"],
+    "correctAnswer": "2 giờ 42 phút"
+  },
+  {
+    "question": "Vận tốc của một chiếc thuyền là 30 km/giờ. Quãng đường thuyền đi được trong 2 giờ 15 phút là:",
+    "options": ["67,5 km", "60 km", "30 km", "62,5 km"],
+    "correctAnswer": "67,5 km"
+  },
+  {
+    "question": "Một người đi từ A đến B với vận tốc 10 km/giờ. Thời gian đi là 1 giờ 30 phút. Quãng đường AB dài:",
+    "options": ["15 km", "10 km", "13 km", "18 km"],
+    "correctAnswer": "15 km"
+  },
+  {
+    "question": "Một xe máy đi quãng đường 80km với vận tốc 40 km/giờ. Thời gian đi là:",
+    "options": ["2 giờ", "1 giờ", "3 giờ", "4 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Đổi 1/4 giờ ra phút.",
+    "options": ["15 phút", "25 phút", "4 phút", "40 phút"],
+    "correctAnswer": "15 phút"
+  },
+  {
+    "question": "Một ô tô đi từ A lúc 7 giờ sáng và đến B lúc 9 giờ 30 phút. Quãng đường AB dài 150km. Vận tốc của ô tô là:",
+    "options": ["60 km/giờ", "150 km/giờ", "75 km/giờ", "50 km/giờ"],
+    "correctAnswer": "60 km/giờ"
+  },
+  {
+    "question": "Một con chim bay với vận tốc 60 km/giờ. Thời gian bay được quãng đường 15km là:",
+    "options": ["15 phút", "1/4 giờ", "Cả A và B đều đúng", "30 phút"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Đổi 2020 năm ra thế kỉ và năm.",
+    "options": ["20 thế kỉ 20 năm", "20 thế kỉ 2 năm", "202 thế kỉ", "20 thế kỉ 200 năm"],
+    "correctAnswer": "20 thế kỉ 20 năm"
+  },
+  {
+    "question": "Một xe đạp đi với vận tốc 15 km/giờ. Thời gian đi hết quãng đường 30km là:",
+    "options": ["2 giờ", "1 giờ", "0,5 giờ", "1,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "3 giờ 45 phút : 3 = ?",
+    "options": ["1 giờ 15 phút", "1 giờ 25 phút", "1 giờ 45 phút", "1 giờ 5 phút"],
+    "correctAnswer": "1 giờ 15 phút"
+  },
+  {
+    "question": "Một người đi xe máy khởi hành lúc 8 giờ 15 phút và đến nơi lúc 10 giờ 45 phút. Giữa đường nghỉ 30 phút. Vận tốc là 40 km/giờ. Quãng đường dài:",
+    "options": ["80 km", "100 km", "60 km", "90 km"],
+    "correctAnswer": "80 km"
+  },
+  {
+    "question": "Một xe lửa đi từ ga A lúc 6 giờ và đến ga B lúc 8 giờ 30 phút. Quãng đường dài 120km. Vận tốc của xe lửa là:",
+    "options": ["48 km/giờ", "60 km/giờ", "50 km/giờ", "55 km/giờ"],
+    "correctAnswer": "48 km/giờ"
+  },
+  {
+    "question": "Vận tốc của một chiếc thuyền buồm là 18 km/giờ. Quãng đường đi được trong 4 giờ là:",
+    "options": ["72 km", "22 km", "4,5 km", "64 km"],
+    "correctAnswer": "72 km"
+  },
+  {
+    "question": "Đổi 0,5 năm ra tháng.",
+    "options": ["6 tháng", "5 tháng", "1 tháng", "10 tháng"],
+    "correctAnswer": "6 tháng"
+  },
+  {
+    "question": "3 năm 4 tháng + 2 năm 10 tháng = ?",
+    "options": ["6 năm 2 tháng", "5 năm 14 tháng", "6 năm 4 tháng", "5 năm 2 tháng"],
+    "correctAnswer": "6 năm 2 tháng"
+  },
+  {
+    "question": "2 giờ 15 phút x 4 = ?",
+    "options": ["9 giờ", "8 giờ 60 phút", "10 giờ", "8 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Một người đi bộ với vận tốc 5 km/giờ. Thời gian để đi hết quãng đường 10km là:",
+    "options": ["2 giờ", "50 giờ", "5 giờ", "10 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Vận tốc của một con rùa là 15m/phút. Quãng đường đi được trong 10 phút là:",
+    "options": ["150m", "1500m", "1,5m", "10m"],
+    "correctAnswer": "150m"
+  },
+  {
+    "question": "Một người đi từ nhà lúc 6 giờ 45 phút. Quãng đường từ nhà đến cơ quan là 5km. Vận tốc là 10 km/giờ. Người đó đến cơ quan lúc:",
+    "options": ["7 giờ 15 phút", "7 giờ 30 phút", "7 giờ", "7 giờ 45 phút"],
+    "correctAnswer": "7 giờ 15 phút"
+  },
+  {
+    "question": "3,5 giờ = ... phút",
+    "options": ["210 phút", "350 phút", "240 phút", "180 phút"],
+    "correctAnswer": "210 phút"
+  },
+  {
+    "question": "3 giờ 15 phút - 1 giờ 40 phút = ?",
+    "options": ["1 giờ 35 phút", "1 giờ 75 phút", "2 giờ 25 phút", "2 giờ 35 phút"],
+    "correctAnswer": "1 giờ 35 phút"
+  },
+  {
+    "question": "Một chiếc thuyền đi ngược dòng với vận tốc 8 km/giờ. Quãng đường đi được trong 15 phút là:",
+    "options": ["2 km", "8 km", "4 km", "1 km"],
+    "correctAnswer": "2 km"
+  },
+  {
+    "question": "Đổi 15 năm 6 tháng ra tháng.",
+    "options": ["186 tháng", "156 tháng", "196 tháng", "150 tháng"],
+    "correctAnswer": "186 tháng"
+  },
+  {
+    "question": "Một người đi bộ đi quãng đường 5km với vận tốc 4 km/giờ. Thời gian đi là:",
+    "options": ["1,25 giờ", "1 giờ 15 phút", "Cả A và B đều đúng", "1,5 giờ"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một xe máy đi từ A đến B với vận tốc 40 km/giờ. Thời gian đi là 2 giờ 15 phút. Quãng đường AB dài:",
+    "options": ["90 km", "80 km", "100 km", "42 km"],
+    "correctAnswer": "90 km"
+  },
+  {
+    "question": "Một ô tô đi quãng đường 180km với vận tốc 60 km/giờ. Thời gian đi là:",
+    "options": ["3 giờ", "2,5 giờ", "2 giờ", "3,5 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "15 thế kỉ bằng bao nhiêu năm?",
+    "options": ["150 năm", "1500 năm", "15000 năm", "15 năm"],
+    "correctAnswer": "1500 năm"
+  },
+  {
+    "question": "Một người đi xe đạp đi từ nhà đến trường hết 20 phút. Vận tốc là 12 km/giờ. Quãng đường từ nhà đến trường là:",
+    "options": ["4 km", "2,4 km", "3 km", "40 km"],
+    "correctAnswer": "4 km"
+  },
+  {
+    "question": "5 phút 20 giây : 2 = ?",
+    "options": ["2 phút 40 giây", "2 phút 10 giây", "2 phút 20 giây", "2 phút 16 giây"],
+    "correctAnswer": "2 phút 40 giây"
+  },
+  {
+    "question": "Vận tốc của một chiếc ca nô là 20 km/giờ. Quãng đường đi được trong 45 phút là:",
+    "options": ["15 km", "20 km", "25 km", "30 km"],
+    "correctAnswer": "15 km"
+  },
+  {
+    "question": "Đổi 200 năm ra thế kỉ.",
+    "options": ["2 thế kỉ", "20 thế kỉ", "200 thế kỉ", "0,2 thế kỉ"],
+    "correctAnswer": "2 thế kỉ"
+  },
+  {
+    "question": "4 giờ 10 phút x 5 = ?",
+    "options": ["20 giờ 50 phút", "21 giờ 10 phút", "20 giờ 10 phút", "21 giờ 50 phút"],
+    "correctAnswer": "20 giờ 50 phút"
+  },
+  {
+    "question": "Một ô tô đi được 120km trong 2 giờ. Vận tốc của ô tô là:",
+    "options": ["60 km/giờ", "122 km/giờ", "240 km/giờ", "120 km/giờ"],
+    "correctAnswer": "60 km/giờ"
+  },
+  {
+    "question": "Quãng đường là 15km, vận tốc là 5 km/giờ. Thời gian là:",
+    "options": ["3 giờ", "5 giờ", "15 giờ", "10 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Một người đi bộ đi được 3km trong 30 phút. Vận tốc của người đó là:",
+    "options": ["6 km/giờ", "1 km/phút", "3 km/phút", "15 km/giờ"],
+    "correctAnswer": "6 km/giờ"
+  },
+  {
+    "question": "1 giờ 15 phút + 2 giờ 45 phút = ?",
+    "options": ["4 giờ", "3 giờ 60 phút", "3 giờ", "4 giờ 30 phút"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Một xe máy đi từ A đến B với vận tốc 30 km/giờ. Thời gian đi là 1 giờ 20 phút. Quãng đường AB dài:",
+    "options": ["40 km", "30 km", "45 km", "35 km"],
+    "correctAnswer": "40 km"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 20km trong 1 giờ 30 phút. Vận tốc trung bình của người đó là:",
+    "options": ["13,33 km/giờ", "20 km/giờ", "30 km/giờ", "15 km/giờ"],
+    "correctAnswer": "13,33 km/giờ"
+  },
+  {
+    "question": "15 giờ 25 phút : 5 = ?",
+    "options": ["3 giờ 5 phút", "3 giờ 25 phút", "3 giờ 15 phút", "3 giờ 50 phút"],
+    "correctAnswer": "3 giờ 5 phút"
+  },
+  {
+    "question": "Một ô tô đi với vận tốc 80 km/giờ. Quãng đường đi được trong 3 giờ là:",
+    "options": ["240 km", "83 km", "24 km", "800 km"],
+    "correctAnswer": "240 km"
+  },
+  {
+    "question": "Một người đi bộ đi từ nhà lúc 6 giờ 30 phút và đến trường lúc 7 giờ. Quãng đường 2km. Vận tốc của người đó là:",
+    "options": ["4 km/giờ", "2 km/giờ", "6 km/giờ", "8 km/giờ"],
+    "correctAnswer": "4 km/giờ"
+  },
+  {
+    "question": "Đổi 10800 giây ra giờ.",
+    "options": ["3 giờ", "10,8 giờ", "18 giờ", "180 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Một xe tải đi từ A lúc 8 giờ và đến B lúc 10 giờ 30 phút. Vận tốc là 40 km/giờ. Quãng đường AB dài:",
+    "options": ["100 km", "80 km", "120 km", "90 km"],
+    "correctAnswer": "100 km"
+  },
+  {
+    "question": "Vận tốc của một xe máy là 36 km/giờ. Vận tốc đó bằng bao nhiêu m/giây?",
+    "options": ["10 m/giây", "36 m/giây", "1 m/giây", "3,6 m/giây"],
+    "correctAnswer": "10 m/giây"
+  },
+  {
+    "question": "Một ô tô đi với vận tốc 54 km/giờ. Thời gian đi hết quãng đường 108km là:",
+    "options": ["2 giờ", "3 giờ", "1 giờ", "0,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 12km với vận tốc 15 km/giờ. Thời gian đi là:",
+    "options": ["48 phút", "1,25 giờ", "1 giờ 25 phút", "50 phút"],
+    "correctAnswer": "48 phút"
+  },
+  {
+    "question": "2,5 năm + 1 năm 6 tháng = ?",
+    "options": ["4 năm", "4 năm 6 tháng", "3 năm 11 tháng", "3 năm 6 tháng"],
+    "correctAnswer": "4 năm"
+  },
+  {
+    "question": "Một người đi bộ đi từ A đến B hết 2 giờ 45 phút. Vận tốc là 4 km/giờ. Quãng đường AB dài:",
+    "options": ["11 km", "10 km", "12 km", "8 km"],
+    "correctAnswer": "11 km"
+  },
+  {
+    "question": "Một con tàu đi được 120km trong 2 giờ 24 phút. Vận tốc của con tàu là:",
+    "options": ["50 km/giờ", "100 km/giờ", "60 km/giờ", "48 km/giờ"],
+    "correctAnswer": "50 km/giờ"
+  },
+  {
+    "question": "Đổi 15 phút ra giờ.",
+    "options": ["0,25 giờ", "0,15 giờ", "0,5 giờ", "1,5 giờ"],
+    "correctAnswer": "0,25 giờ"
+  },
+  {
+    "question": "6 phút 12 giây - 2 phút 30 giây = ?",
+    "options": ["3 phút 42 giây", "4 phút 18 giây", "3 phút 18 giây", "4 phút 42 giây"],
+    "correctAnswer": "3 phút 42 giây"
+  },
+  {
+    "question": "Vận tốc của một chiếc thuyền là 24 km/giờ. Quãng đường đi được trong 1 giờ 30 phút là:",
+    "options": ["36 km", "24 km", "48 km", "30 km"],
+    "correctAnswer": "36 km"
+  },
+  {
+    "question": "Một ô tô đi từ A đến B hết 2 giờ 30 phút. Lúc về ô tô đi nhanh hơn lúc đi 10 km/giờ và đi hết 2 giờ. Quãng đường AB dài:",
+    "options": ["100 km", "125 km", "150 km", "200 km"],
+    "correctAnswer": "100 km"
+  },
+  {
+    "question": "3 năm 8 tháng + 1 năm 5 tháng = ?",
+    "options": ["5 năm 1 tháng", "4 năm 13 tháng", "5 năm 3 tháng", "4 năm 1 tháng"],
+    "correctAnswer": "5 năm 1 tháng"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 45km với vận tốc 15 km/giờ. Thời gian đi là:",
+    "options": ["3 giờ", "2,5 giờ", "3,5 giờ", "4 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Một xe máy đi từ A đến B với vận tốc 40 km/giờ. Sau 2 giờ, xe máy đến B. Quãng đường AB dài:",
+    "options": ["80 km", "20 km", "42 km", "40 km"],
+    "correctAnswer": "80 km"
+  },
+  {
+    "question": "Vận tốc của một máy bay phản lực là 900 km/giờ. Quãng đường đi được trong 1 giờ 15 phút là:",
+    "options": ["1125 km", "900 km", "1200 km", "1100 km"],
+    "correctAnswer": "1125 km"
+  },
+  {
+    "question": "180 năm = ... thế kỉ ... năm",
+    "options": ["1 thế kỉ 80 năm", "18 thế kỉ", "18 thế kỉ 0 năm", "1,8 thế kỉ"],
+    "correctAnswer": "1 thế kỉ 80 năm"
+  },
+  {
+    "question": "Một con tàu đi từ A đến B hết 3 giờ 30 phút với vận tốc 50 km/giờ. Quãng đường AB dài:",
+    "options": ["175 km", "150 km", "200 km", "185 km"],
+    "correctAnswer": "175 km"
+  },
+  {
+    "question": "Một người đi xe máy đi từ nhà lúc 6 giờ 45 phút với vận tốc 40 km/giờ. Quãng đường đi được là 60km. Người đó đến nơi lúc:",
+    "options": ["8 giờ 15 phút", "8 giờ", "8 giờ 45 phút", "9 giờ"],
+    "correctAnswer": "8 giờ 15 phút"
+  },
+  {
+    "question": "45000 năm = ... thế kỉ",
+    "options": ["450 thế kỉ", "45 thế kỉ", "4500 thế kỉ", "4,5 thế kỉ"],
+    "correctAnswer": "450 thế kỉ"
+  },
+  {
+    "question": "2 giờ 15 phút + 1 giờ 50 phút = ?",
+    "options": ["4 giờ 5 phút", "3 giờ 65 phút", "3 giờ 5 phút", "4 giờ 15 phút"],
+    "correctAnswer": "4 giờ 5 phút"
+  },
+  {
+    "question": "Một xe đạp đi với vận tốc 15 km/giờ. Thời gian đi hết 20km là:",
+    "options": ["1 giờ 20 phút", "1 giờ 30 phút", "1 giờ", "2 giờ"],
+    "correctAnswer": "1 giờ 20 phút"
+  },
+  {
+    "question": "Đổi 0,5 giờ ra phút.",
+    "options": ["30 phút", "50 phút", "25 phút", "15 phút"],
+    "correctAnswer": "30 phút"
+  },
+  {
+    "question": "Một người đi bộ với vận tốc 6 km/giờ. Quãng đường đi được trong 20 phút là:",
+    "options": ["2 km", "6 km", "3 km", "4 km"],
+    "correctAnswer": "2 km"
+  },
+  {
+    "question": "1200 năm = ... thế kỉ",
+    "options": ["12 thế kỉ", "120 thế kỉ", "1,2 thế kỉ", "1200 thế kỉ"],
+    "correctAnswer": "12 thế kỉ"
+  },
+  {
+    "question": "Một ô tô đi được 200km với vận tốc 80 km/giờ. Thời gian đi là:",
+    "options": ["2,5 giờ", "2 giờ 30 phút", "Cả A và B đều đúng", "3 giờ"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "4 giờ 20 phút - 1 giờ 45 phút = ?",
+    "options": ["2 giờ 35 phút", "3 giờ 25 phút", "2 giờ 25 phút", "3 giờ 35 phút"],
+    "correctAnswer": "2 giờ 35 phút"
+  },
+  {
+    "question": "Một xe máy đi với vận tốc 50 km/giờ. Cần bao nhiêu thời gian để đi hết quãng đường 125km?",
+    "options": ["2,5 giờ", "2 giờ", "3 giờ", "3,5 giờ"],
+    "correctAnswer": "2,5 giờ"
+  },
+  {
+    "question": "Đổi 15 tháng ra năm và tháng.",
+    "options": ["1 năm 3 tháng", "1 năm 5 tháng", "1 năm 2 tháng", "1 năm 15 tháng"],
+    "correctAnswer": "1 năm 3 tháng"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 10km trong 40 phút. Vận tốc trung bình của người đó là:",
+    "options": ["15 km/giờ", "10 km/giờ", "20 km/giờ", "25 km/giờ"],
+    "correctAnswer": "15 km/giờ"
+  },
+  {
+    "question": "5 giờ 10 phút x 3 = ?",
+    "options": ["15 giờ 30 phút", "16 giờ 10 phút", "15 giờ 10 phút", "16 giờ 30 phút"],
+    "correctAnswer": "15 giờ 30 phút"
+  },
+  {
+    "question": "Một ô tô đi từ A đến B hết 2 giờ 15 phút với vận tốc 60 km/giờ. Quãng đường AB dài:",
+    "options": ["135 km", "120 km", "150 km", "180 km"],
+    "correctAnswer": "135 km"
+  },
+  {
+    "question": "Vận tốc của một người đi bộ là 5 km/giờ. Quãng đường đi được trong 12 phút là:",
+    "options": ["1 km", "5 km", "2 km", "1,2 km"],
+    "correctAnswer": "1 km"
+  },
+  {
+    "question": "3 giờ 20 phút : 4 = ?",
+    "options": ["50 phút", "40 phút", "1 giờ", "45 phút"],
+    "correctAnswer": "50 phút"
+  },
+  {
+    "question": "Một xe máy đi quãng đường 90km với vận tốc 45 km/giờ. Thời gian đi là:",
+    "options": ["2 giờ", "1,5 giờ", "3 giờ", "2,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Đổi 1,2 giờ ra phút.",
+    "options": ["72 phút", "120 phút", "12 phút", "7,2 phút"],
+    "correctAnswer": "72 phút"
+  },
+  {
+    "question": "Một ô tô đi từ A lúc 7 giờ và đến B lúc 9 giờ. Vận tốc là 50 km/giờ. Quãng đường AB dài:",
+    "options": ["100 km", "150 km", "25 km", "50 km"],
+    "correctAnswer": "100 km"
+  },
+  {
+    "question": "Một người đi xe đạp đi quãng đường 20km trong 1 giờ 15 phút. Vận tốc của người đó là:",
+    "options": ["16 km/giờ", "20 km/giờ", "15 km/giờ", "25 km/giờ"],
+    "correctAnswer": "16 km/giờ"
+  },
+  {
+    "question": "2 ngày 8 giờ + 1 ngày 16 giờ = ?",
+    "options": ["4 ngày", "3 ngày 24 giờ", "3 ngày 8 giờ", "4 ngày 8 giờ"],
+    "correctAnswer": "4 ngày"
+  },
+  {
+    "question": "Một ô tô đi từ A đến B hết 3 giờ 30 phút. Quãng đường dài 210km. Vận tốc của ô tô là:",
+    "options": ["60 km/giờ", "70 km/giờ", "50 km/giờ", "80 km/giờ"],
+    "correctAnswer": "60 km/giờ"
+  },
+  {
+    "question": "Đổi 120 phút ra giờ.",
+    "options": ["2 giờ", "1,2 giờ", "20 giờ", "12 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Vận tốc của một con tàu là 30 m/giây. Vận tốc đó bằng bao nhiêu km/giờ?",
+    "options": ["108 km/giờ", "30 km/giờ", "180 km/giờ", "36 km/giờ"],
+    "correctAnswer": "108 km/giờ"
+  },
+  {
+    "question": "Một người đi xe máy đi quãng đường 120km với vận tốc 60 km/giờ. Thời gian đi là:",
+    "options": ["2 giờ", "20 giờ", "1 giờ", "0,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "15 năm 6 tháng - 5 năm 9 tháng = ?",
+    "options": ["9 năm 9 tháng", "10 năm 3 tháng", "9 năm 3 tháng", "10 năm 9 tháng"],
+    "correctAnswer": "9 năm 9 tháng"
+  },
+  {
+    "question": "Đổi 15 phút ra giờ.",
+    "options": ["0,25 giờ", "0,15 giờ", "0,5 giờ", "15 giờ"],
+    "correctAnswer": "0,25 giờ"
+  },
+  {
+    "question": "Một chiếc xe buýt đi từ A lúc 8 giờ và đến B lúc 10 giờ 15 phút. Quãng đường dài 90km. Vận tốc của xe buýt là:",
+    "options": ["40 km/giờ", "45 km/giờ", "50 km/giờ", "60 km/giờ"],
+    "correctAnswer": "40 km/giờ"
+  },
+  {
+    "question": "3,5 thế kỉ = ... năm",
+    "options": ["350 năm", "3,5 năm", "35 năm", "3500 năm"],
+    "correctAnswer": "350 năm"
+  },
+  {
+    "question": "Vận tốc của một chiếc tàu thủy là 40 km/giờ. Quãng đường đi được trong 1 giờ 30 phút là:",
+    "options": ["60 km", "40 km", "50 km", "80 km"],
+    "correctAnswer": "60 km"
+  },
+  {
+    "question": "Một ô tô đi với vận tốc 75 km/giờ. Thời gian đi hết quãng đường 150km là:",
+    "options": ["2 giờ", "1,5 giờ", "3 giờ", "2,5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Đổi 1/2 phút ra giây.",
+    "options": ["30 giây", "50 giây", "15 giây", "20 giây"],
+    "correctAnswer": "30 giây"
+  },
+  {
+    "question": "2 giờ 10 phút x 3 = ?",
+    "options": ["6 giờ 30 phút", "6 giờ 10 phút", "7 giờ", "5 giờ 30 phút"],
+    "correctAnswer": "6 giờ 30 phút"
+  },
+  {
+    "question": "Một xe máy đi quãng đường 100km trong 2 giờ. Vận tốc của xe máy là:",
+    "options": ["50 km/giờ", "200 km/giờ", "100 km/giờ", "20 km/giờ"],
+    "correctAnswer": "50 km/giờ"
+  },
+  {
+    "question": "3 giờ 15 phút + 1 giờ 55 phút = ?",
+    "options": ["5 giờ 10 phút", "4 giờ 70 phút", "4 giờ 10 phút", "5 giờ 70 phút"],
+    "correctAnswer": "5 giờ 10 phút"
+  },
+  {
+    "question": "Một người đi xe đạp đi từ nhà lúc 7 giờ và đến trường lúc 7 giờ 30 phút. Quãng đường 8km. Vận tốc của người đó là:",
+    "options": ["16 km/giờ", "8 km/giờ", "12 km/giờ", "20 km/giờ"],
+    "correctAnswer": "16 km/giờ"
+  },
+  {
+    "question": "Đổi 2 năm 8 tháng ra tháng.",
+    "options": ["32 tháng", "28 tháng", "20 tháng", "36 tháng"],
+    "correctAnswer": "32 tháng"
+  },
+  {
+    "question": "Một ô tô đi từ A đến B với vận tốc 60 km/giờ. Thời gian đi là 1 giờ 45 phút. Quãng đường AB dài:",
+    "options": ["105 km", "60 km", "75 km", "120 km"],
+    "correctAnswer": "105 km"
+  },
+  {
+    "question": "Vận tốc của một chiếc tàu hỏa là 45 km/giờ. Thời gian đi được quãng đường 135km là:",
+    "options": ["3 giờ", "2,5 giờ", "4 giờ", "135 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Đổi 45 giây ra phút.",
+    "options": ["0,75 phút", "0,45 phút", "4,5 phút", "7,5 phút"],
+    "correctAnswer": "0,75 phút"
+  },
+  {
+    "question": "2 giờ 20 phút : 2 = ?",
+    "options": ["1 giờ 10 phút", "1 giờ 20 phút", "1 giờ 5 phút", "1 giờ 40 phút"],
+    "correctAnswer": "1 giờ 10 phút"
+  },
+  {
+    "question": "Một xe máy đi từ A lúc 7 giờ và đến B lúc 8 giờ 30 phút. Vận tốc là 40 km/giờ. Quãng đường AB dài:",
+    "options": ["60 km", "40 km", "80 km", "50 km"],
+    "correctAnswer": "60 km"
+  },
+  {
+    "question": "Vận tốc của một người đi bộ là 5 km/giờ. Thời gian đi hết quãng đường 2,5km là:",
+    "options": ["30 phút", "15 phút", "20 phút", "10 phút"],
+    "correctAnswer": "30 phút"
+  },
+  {
+    "question": "Một xe đạp đi từ nhà đến trường hết 15 phút. Quãng đường 3km. Vận tốc của người đó là:",
+    "options": ["12 km/giờ", "15 km/giờ", "20 km/giờ", "30 km/giờ"],
+    "correctAnswer": "12 km/giờ"
+  },
+  {
+    "question": "5 năm 2 tháng - 2 năm 8 tháng = ?",
+    "options": ["2 năm 6 tháng", "2 năm 8 tháng", "3 năm 6 tháng", "3 năm 4 tháng"],
+    "correctAnswer": "2 năm 6 tháng"
+  },
+  {
+    "question": "Một xe ô tô đi quãng đường 240km với vận tốc 80 km/giờ. Thời gian đi là:",
+    "options": ["3 giờ", "2 giờ", "4 giờ", "2,5 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Đổi 4,5 giờ ra phút.",
+    "options": ["270 phút", "450 phút", "4,5 phút", "240 phút"],
+    "correctAnswer": "270 phút"
+  },
+  {
+    "question": "Vận tốc của một chiếc máy bay là 800 km/giờ. Quãng đường bay được trong 15 phút là:",
+    "options": ["200 km", "800 km", "120 km", "15 km"],
+    "correctAnswer": "200 km"
+  },
+  {
+    "question": "Một người đi xe máy đi quãng đường 120km trong 2 giờ. Vận tốc của người đó là:",
+    "options": ["60 km/giờ", "120 km/giờ", "240 km/giờ", "40 km/giờ"],
+    "correctAnswer": "60 km/giờ"
+  },
+  {
+    "question": "3 giờ 15 phút x 2 = ?",
+    "options": ["6 giờ 30 phút", "6 giờ 15 phút", "7 giờ", "6 giờ"],
+    "correctAnswer": "6 giờ 30 phút"
+  },
+  {
+    "question": "Vận tốc của một chiếc thuyền là 20 km/giờ. Thời gian đi hết quãng đường 50km là:",
+    "options": ["2,5 giờ", "2 giờ", "3 giờ", "1,5 giờ"],
+    "correctAnswer": "2,5 giờ"
+  },
+  {
+    "question": "Một người đi bộ đi từ A đến B hết 2 giờ 30 phút với vận tốc 4 km/giờ. Quãng đường AB dài:",
+    "options": ["10 km", "8 km", "6 km", "12 km"],
+    "correctAnswer": "10 km"
+  },
+  {
+    "question": "Một xe máy đi từ A lúc 6 giờ 30 phút và đến B lúc 8 giờ. Vận tốc là 50 km/giờ. Quãng đường AB dài:",
+    "options": ["75 km", "50 km", "60 km", "100 km"],
+    "correctAnswer": "75 km"
+  },
+  {
+    "question": "15 phút = ... giờ",
+    "options": ["1/4 giờ", "1/2 giờ", "1/3 giờ", "1/5 giờ"],
+    "correctAnswer": "1/4 giờ"
+  },
+  {
+    "question": "Một xe đạp đi với vận tốc 10 km/giờ. Quãng đường đi được trong 30 phút là:",
+    "options": ["5 km", "10 km", "15 km", "20 km"],
+    "correctAnswer": "5 km"
+  },
+  {
+    "question": "Một con chim bay với vận tốc 60 km/giờ. Thời gian bay được quãng đường 30km là:",
+    "options": ["30 phút", "1 giờ", "0,5 giờ", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một người đi xe máy đi quãng đường 90km với vận tốc 60 km/giờ. Thời gian đi là:",
+    "options": ["1,5 giờ", "2 giờ", "1 giờ 30 phút", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Vận tốc của một chiếc ô tô là 40 km/giờ. Quãng đường đi được trong 1,5 giờ là:",
+    "options": ["60 km", "40 km", "50 km", "80 km"],
+    "correctAnswer": "60 km"
+  },
+  {
+    "question": "Đổi 20 năm 5 tháng ra tháng.",
+    "options": ["245 tháng", "205 tháng", "200 tháng", "25 tháng"],
+    "correctAnswer": "245 tháng"
+  },
+  {
+    "question": "Một người đi bộ với vận tốc 5 km/giờ. Thời gian đi hết quãng đường 15km là:",
+    "options": ["3 giờ", "5 giờ", "15 giờ", "10 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Đổi 15000 năm ra thế kỉ.",
+    "options": ["150 thế kỉ", "15 thế kỉ", "1500 thế kỉ", "1,5 thế kỉ"],
+    "correctAnswer": "150 thế kỉ"
+  },
+  {
+    "question": "Một xe máy đi quãng đường 120km với vận tốc 40 km/giờ. Thời gian đi là:",
+    "options": ["3 giờ", "2 giờ", "4 giờ", "1 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Vận tốc của một xe đạp là 12 km/giờ. Quãng đường đi được trong 1 giờ 15 phút là:",
+    "options": ["15 km", "12 km", "13 km", "14 km"],
+    "correctAnswer": "15 km"
+  },
+  {
+    "question": "10 giờ 30 phút : 2 = ?",
+    "options": ["5 giờ 15 phút", "5 giờ 30 phút", "5 giờ 10 phút", "5 giờ 5 phút"],
+    "correctAnswer": "5 giờ 15 phút"
+  },
+  {
+    "question": "Một người đi bộ đi từ A đến B hết 2 giờ. Quãng đường dài 8km. Vận tốc của người đó là:",
+    "options": ["4 km/giờ", "2 km/giờ", "8 km/giờ", "6 km/giờ"],
+    "correctAnswer": "4 km/giờ"
+  },
+  {
+    "question": "Đổi 1/5 giờ ra phút.",
+    "options": ["12 phút", "5 phút", "20 phút", "10 phút"],
+    "correctAnswer": "12 phút"
+  },
+  {
+    "question": "Vận tốc của một chiếc thuyền là 20 km/giờ. Quãng đường đi được trong 2 giờ là:",
+    "options": ["40 km", "20 km", "10 km", "30 km"],
+    "correctAnswer": "40 km"
+  }
+]
+
