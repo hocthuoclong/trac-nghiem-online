@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Biểu thức nào sau đây là biểu thức đại số?",
+    "options": ["2x + 3y", "5 + 3 - 1", "10 > 7", "20 = 4 * 5"],
+    "correctAnswer": "2x + 3y"
+  },
+  {
+    "question": "Trong biểu thức 5x² - 2y, 'x' và 'y' được gọi là gì?",
+    "options": ["Biến số", "Hằng số", "Hệ số", "Đơn thức"],
+    "correctAnswer": "Biến số"
+  },
+  {
+    "question": "Giá trị của biểu thức 2x + 5 tại x = 3 là:",
+    "options": ["11", "10", "13", "8"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Giá trị của biểu thức 3a² - b tại a = -1, b = 2 là:",
+    "options": ["1", " -1", "5", "-5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Biểu thức nào sau đây là đa thức một biến?",
+    "options": ["3x² - 5x + 1", "2xy + 3", "5/x", "√x + 2"],
+    "correctAnswer": "3x² - 5x + 1"
+  },
+  {
+    "question": "Trong đa thức P(x) = 7x³ - 4x² + 2x - 5, hệ số cao nhất là:",
+    "options": ["7", "-4", "2", "-5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Bậc của đa thức Q(y) = 2y⁴ - 3y⁵ + y - 7 là:",
+    "options": ["5", "4", "1", "7"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Hệ số tự do của đa thức A(t) = t² - 6t + 9 là:",
+    "options": ["9", "1", "-6", "0"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Cho P(x) = 2x² + x - 1 và Q(x) = x² - 3. Kết quả của P(x) + Q(x) là:",
+    "options": ["3x² + x - 4", "3x² + x + 2", "x² + x + 2", "3x² - 4"],
+    "correctAnswer": "3x² + x - 4"
+  },
+  {
+    "question": "Cho A(x) = 5x³ - 2x + 1 và B(x) = 5x³ - 3x + 1. Kết quả của A(x) - B(x) là:",
+    "options": ["x", "-x", "10x³ - 5x + 2", "0"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "Nghiệm của đa thức P(x) = 2x - 4 là:",
+    "options": ["x = 2", "x = -2", "x = 4", "x = -4"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Kết quả của phép nhân 3x * (2x² - 5) là:",
+    "options": ["6x³ - 15x", "6x² - 15", "6x³ - 5", "6x² - 15x"],
+    "correctAnswer": "6x³ - 15x"
+  },
+  {
+    "question": "Kết quả của phép nhân (x + 2)(x - 1) là:",
+    "options": ["x² + x - 2", "x² - x - 2", "x² + 2x - 2", "x² - 2"],
+    "correctAnswer": "x² + x - 2"
+  },
+  {
+    "question": "Kết quả của phép chia 15x⁴ cho 3x² là:",
+    "options": ["5x²", "5x⁶", "12x²", "5x"],
+    "correctAnswer": "5x²"
+  },
+  {
+    "question": "Kết quả của phép chia (8x³ - 4x²) cho 2x là:",
+    "options": ["4x² - 2x", "4x² - 2", "8x² - 4x", "4x - 2"],
+    "correctAnswer": "4x² - 2x"
+  },
+  {
+    "question": "Biểu thức đại số biểu thị chu vi hình chữ nhật có hai cạnh là a và b là:",
+    "options": ["2(a+b)", "ab", "a+b", "a² + b²"],
+    "correctAnswer": "2(a+b)"
+  },
+  {
+    "question": "Giá trị của biểu thức (x-y)/(x+y) tại x=5, y=3 là:",
+    "options": ["1/4", "2/8", "1", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Thu gọn đa thức P(x) = 3x² - x + 5 - 2x² + 3",
+    "options": ["x² - x + 8", "5x² - x + 8", "x² + 8", "x² - x + 2"],
+    "correctAnswer": "x² - x + 8"
+  },
+  {
+    "question": "Sắp xếp đa thức P(x) = 4x³ - 2x + 7 - x⁴ theo lũy thừa giảm dần của biến:",
+    "options": ["-x⁴ + 4x³ - 2x + 7", "7 - 2x + 4x³ - x⁴", "4x³ - x⁴ - 2x + 7", "-x⁴ - 2x + 4x³ + 7"],
+    "correctAnswer": "-x⁴ + 4x³ - 2x + 7"
+  },
+  {
+    "question": "Cho P(x) = x³ - 1. Giá trị của P(2) là:",
+    "options": ["7", "8", "1", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Cho M(x) = 3x² - 5. Kết quả của M(x) + M(x) là:",
+    "options": ["6x² - 10", "0", "9x⁴ - 25", "6x²"],
+    "correctAnswer": "6x² - 10"
+  },
+  {
+    "question": "Đa thức P(x) = x² + 1 có nghiệm không?",
+    "options": ["Không có nghiệm thực", "Có nghiệm x = -1", "Có nghiệm x = 1", "Có 2 nghiệm"],
+    "correctAnswer": "Không có nghiệm thực"
+  },
+  {
+    "question": "Kết quả của phép nhân -2x²(3x - 4x³ + 1) là:",
+    "options": ["-6x³ + 8x⁵ - 2x²", "-6x³ - 8x⁵ - 2x²", "-6x² + 8x⁵ - 2x²", "6x³ - 8x⁵ + 2x²"],
+    "correctAnswer": "-6x³ + 8x⁵ - 2x²"
+  },
+  {
+    "question": "Kết quả của phép nhân (2x - 3)(2x + 3) là:",
+    "options": ["4x² - 9", "4x² + 9", "4x² - 12x + 9", "2x² - 9"],
+    "correctAnswer": "4x² - 9"
+  },
+  {
+    "question": "Đa thức 12x³y² - 9x²y³ chia hết cho đơn thức nào?",
+    "options": ["3x²y²", "4xy", "9x³y³", "12x²y"],
+    "correctAnswer": "3x²y²"
+  },
+  {
+    "question": "Thực hiện phép chia (x² + 4x + 4) : (x + 2)",
+    "options": ["x + 2", "x - 2", "x + 4", "x"],
+    "correctAnswer": "x + 2"
+  },
+  {
+    "question": "Để đa thức 2x² - 3x + a chia hết cho x - 1 thì a bằng:",
+    "options": ["1", "-1", "5", "-5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Biểu thức 'Tổng của x và y' được viết là:",
+    "options": ["x + y", "xy", "x - y", "x/y"],
+    "correctAnswer": "x + y"
+  },
+  {
+    "question": "Giá trị của biểu thức x³ - 3x² + 3x - 1 tại x = 11 là:",
+    "options": ["1000", "1331", "100", "10"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Đa thức một biến là tổng của những:",
+    "options": ["Đơn thức của cùng một biến", "Đơn thức bất kỳ", "Biểu thức đại số", "Số thực"],
+    "correctAnswer": "Đơn thức của cùng một biến"
+  },
+  {
+    "question": "Cho P(x) = 2x - 6. x = 3 có phải là nghiệm của P(x) không?",
+    "options": ["Có", "Không", "Không xác định", "x=3 là bậc của đa thức"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Cho A(x) = x² + 5x + 6 và B(x) = x² + 3x + 2. Tìm đa thức C(x) = A(x) - B(x).",
+    "options": ["2x + 4", "2x² + 8x + 8", "2x - 4", "4"],
+    "correctAnswer": "2x + 4"
+  },
+  {
+    "question": "Nghiệm của đa thức (x-1)(x+2) là:",
+    "options": ["x=1 và x=-2", "x=-1 và x=2", "x=1", "x=-2"],
+    "correctAnswer": "x=1 và x=-2"
+  },
+  {
+    "question": "Kết quả của phép nhân (x² - 2x + 1)(x - 1) là:",
+    "options": ["x³ - 3x² + 3x - 1", "(x-1)³", "x³ - 1", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Đa thức 10x⁵ - 15x⁴ + 20x³ chia cho 5x³ được kết quả là:",
+    "options": ["2x² - 3x + 4", "2x² - 3x", "5x² - 10x + 15", "2x⁵ - 3x⁴ + 4x³"],
+    "correctAnswer": "2x² - 3x + 4"
+  },
+  {
+    "question": "Phép chia (x² - 5x + 6) cho (x - 2) có số dư là:",
+    "options": ["0", "1", "2", "-3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Biểu thức (x+y)² là một:",
+    "options": ["Biểu thức đại số", "Đa thức một biến", "Số", "Phương trình"],
+    "correctAnswer": "Biểu thức đại số"
+  },
+  {
+    "question": "Bậc của đa thức P(x) = 15 là:",
+    "options": ["0", "1", "15", "Không có bậc"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Đa thức không là đa thức:",
+    "options": ["Đa thức có bậc 0", "Đa thức có giá trị 0", "Không có", "Tất cả các đáp án trên"],
+    "correctAnswer": "Đa thức có giá trị 0"
+  },
+  {
+    "question": "Cho P(x) = ax + b. Nếu P(1) = 3 và P(-1) = 1 thì a và b là:",
+    "options": ["a=1, b=2", "a=2, b=1", "a=-1, b=4", "a=1, b=-2"],
+    "correctAnswer": "a=1, b=2"
+  },
+  {
+    "question": "Tổng các hệ số của đa thức P(x) = (2x - 3)² là:",
+    "options": ["1", "4", "9", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép nhân (x+y)(x-y) là:",
+    "options": ["x² - y²", "x² + y²", "x² - 2xy + y²", "x² + 2xy + y²"],
+    "correctAnswer": "x² - y²"
+  },
+  {
+    "question": "Thương của phép chia (x³ - 1) : (x - 1) là:",
+    "options": ["x² + x + 1", "x² - x + 1", "x² + 1", "x + 1"],
+    "correctAnswer": "x² + x + 1"
+  },
+  {
+    "question": "Đa thức x² + 2x + 2 có nghiệm nguyên không?",
+    "options": ["Không", "Có, x=-1", "Có, x=-2", "Có 2 nghiệm"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Giá trị của biểu thức A = 4x²y - 5 tại x=1/2, y=-1 là:",
+    "options": ["-6", "-4", "1", "-1"],
+    "correctAnswer": "-6"
+  },
+  {
+    "question": "Đa thức một biến P(x) = 2x - x³ + 3x⁴ + 5. Sắp xếp theo lũy thừa tăng dần:",
+    "options": ["5 + 2x - x³ + 3x⁴", "3x⁴ - x³ + 2x + 5", "2x + 3x⁴ - x³ + 5", "-x³ + 2x + 3x⁴ + 5"],
+    "correctAnswer": "5 + 2x - x³ + 3x⁴"
+  },
+  {
+    "question": "Cho P(x) = x² - 4x + 4. Giá trị nào sau đây là nghiệm của P(x)?",
+    "options": ["2", "-2", "4", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho P(x) + (x² - 2x) = 3x² + 5. Đa thức P(x) là:",
+    "options": ["2x² + 2x + 5", "4x² + 2x + 5", "2x² - 2x + 5", "4x² - 2x + 5"],
+    "correctAnswer": "2x² + 2x + 5"
+  },
+  {
+    "question": "Tích của hai đơn thức -2x³ và 5xy² là:",
+    "options": ["-10x⁴y²", "3x⁴y²", "-10x³y²", "10x⁴y²"],
+    "correctAnswer": "-10x⁴y²"
+  },
+  {
+    "question": "Kết quả của (x+2) * x - x * (x-3) là:",
+    "options": ["5x", "-x", "2x² - x", "x"],
+    "correctAnswer": "5x"
+  },
+  {
+    "question": "Phép chia (aⁿ : aᵐ) = aⁿ⁻ᵐ (a≠0) đúng khi:",
+    "options": ["n ≥ m", "n < m", "n = m", "mọi n, m"],
+    "correctAnswer": "n ≥ m"
+  },
+  {
+    "question": "Đa thức P(x) có bậc là 2, đa thức Q(x) có bậc là 3. Bậc của đa thức P(x) + Q(x) là:",
+    "options": ["3", "2", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Đa thức P(x) có bậc là 2, đa thức Q(x) có bậc là 3. Bậc của đa thức P(x) * Q(x) là:",
+    "options": ["5", "6", "3", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Biểu thức đại số nào biểu thị diện tích hình tam giác có đáy a và chiều cao h?",
+    "options": ["(a*h)/2", "a*h", "a+h", "2(a+h)"],
+    "correctAnswer": "(a*h)/2"
+  },
+  {
+    "question": "Hệ số của hạng tử có bậc cao nhất trong một đa thức được gọi là:",
+    "options": ["Hệ số cao nhất", "Hệ số tự do", "Hệ số chính", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Đa thức P(x) = x⁴ + 2x² + 3. Giá trị của P(-1) là:",
+    "options": ["6", "0", "4", "2"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho P(x) - Q(x) = x². Biết P(x) = 3x² - 1. Đa thức Q(x) là:",
+    "options": ["2x² - 1", "4x² - 1", "-2x² + 1", "x² - 1"],
+    "correctAnswer": "2x² - 1"
+  },
+  {
+    "question": "Đa thức x² - 7x + 12 có nghiệm là:",
+    "options": ["3 và 4", "3 và -4", "-3 và 4", "-3 và -4"],
+    "correctAnswer": "3 và 4"
+  },
+  {
+    "question": "Kết quả của phép nhân (x-1)(x²+x+1) là:",
+    "options": ["x³ - 1", "x³ + 1", "(x-1)³", "x³ - 2x² + 2x - 1"],
+    "correctAnswer": "x³ - 1"
+  },
+  {
+    "question": "Thương và dư của phép chia (2x² + 5x + 3) cho (x+1) là:",
+    "options": ["Thương 2x+3, dư 0", "Thương 2x+5, dư -2", "Thương 2x+7, dư -4", "Không chia hết"],
+    "correctAnswer": "Thương 2x+3, dư 0"
+  },
+  {
+    "question": "Một đa thức được gọi là đa thức không nếu:",
+    "options": ["Tất cả các hệ số của nó bằng 0", "Nó không có biến", "Bậc của nó bằng 0", "Hệ số tự do bằng 0"],
+    "correctAnswer": "Tất cả các hệ số của nó bằng 0"
+  },
+  {
+    "question": "Giá trị của biểu thức 2(x-1) - 3(x-2) tại x=0 là:",
+    "options": ["4", "-2", "6", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Đa thức P(x) = x²⁰²⁴ + x²⁰²⁵ + 1. Bậc của đa thức là:",
+    "options": ["2025", "2024", "1", "4049"],
+    "correctAnswer": "2025"
+  },
+  {
+    "question": "Cho P(x) = x² - 2x + m. Để P(1) = 5 thì m bằng:",
+    "options": ["6", "4", "5", "-6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tổng của hai đa thức A(x) = 2x-3 và B(x) = -5x+1 là:",
+    "options": ["-3x - 2", "7x - 4", "-3x + 2", "7x + 4"],
+    "correctAnswer": "-3x - 2"
+  },
+  {
+    "question": "Đa thức P(x) = x² - x có bao nhiêu nghiệm?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tìm bậc của tích (x² - 3)(x³ + 2x)",
+    "options": ["5", "6", "4", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép chia (6x⁵y² - 9x⁴y³ + 15x³y⁴) : (3x³y²) là:",
+    "options": ["2x² - 3xy + 5y²", "2x² - 3xy + 5", "2x² - 3x + 5y²", "6x² - 9xy + 15y²"],
+    "correctAnswer": "2x² - 3xy + 5y²"
+  },
+  {
+    "question": "Đa thức f(x) chia hết cho đa thức g(x) nếu số dư bằng:",
+    "options": ["0", "1", "Bậc của g(x)", "Bậc của f(x)"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Biểu thức 'Hiệu các bình phương của hai số a và b' là:",
+    "options": ["a² - b²", "(a-b)²", "a - b", "b² - a²"],
+    "correctAnswer": "a² - b²"
+  },
+  {
+    "question": "Đa thức P(x) = 5x³ - 4x² + 7x - 9. P(1) bằng:",
+    "options": ["-1", "1", "17", "-25"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Đa thức Q(x) = -x³ + 2x² - 5x + 1. Hệ số cao nhất và hệ số tự do lần lượt là:",
+    "options": ["-1 và 1", "1 và -1", "2 và 1", "-5 và 1"],
+    "correctAnswer": "-1 và 1"
+  },
+  {
+    "question": "Cho P(x) = 2x²-1, Q(x) = x+1. Đa thức H(x) = P(x) - 2Q(x) là:",
+    "options": ["2x² - 2x - 3", "2x² - 2x + 1", "2x² + 2x - 3", "2x² - 3"],
+    "correctAnswer": "2x² - 2x - 3"
+  },
+  {
+    "question": "Nghiệm của đa thức (2x+1)(x-3) là:",
+    "options": ["x=-1/2 và x=3", "x=1/2 và x=-3", "x=2 và x=3", "x=-1 và x=3"],
+    "correctAnswer": "x=-1/2 và x=3"
+  },
+  {
+    "question": "Kết quả của phép nhân x²(1 - 2x³) là:",
+    "options": ["x² - 2x⁵", "x² - 2x⁶", "x² - 2x", "x - 2x⁵"],
+    "correctAnswer": "x² - 2x⁵"
+  },
+  {
+    "question": "Thương của phép chia (x³ + 3x² + 3x + 1) cho (x+1) là:",
+    "options": ["x² + 2x + 1", "(x+1)²", "x+1", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Đa thức A = 2x³ - 4x² + 3x - 6. A chia hết cho đa thức nào sau đây?",
+    "options": ["x - 2", "x + 2", "2x² + 3", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Biểu thức nào không phải là đơn thức?",
+    "options": ["x + 1", "5", "2xy", "-3x²z"],
+    "correctAnswer": "x + 1"
+  },
+  {
+    "question": "Bậc của đa thức P(x) = x⁵ - x⁴ + 3x² - x⁵ + x⁴ - 2 là:",
+    "options": ["2", "5", "4", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đa thức P(x) = x² - 5x + 4 có nghiệm là:",
+    "options": ["1 và 4", "-1 và -4", "1 và -4", "-1 và 4"],
+    "correctAnswer": "1 và 4"
+  },
+  {
+    "question": "Cho P(x) + Q(x) = x² + 1 và P(x) - Q(x) = 2x - 1. Đa thức P(x) là:",
+    "options": ["(x²+2x)/2", "x² + x", "(x²-2x+2)/2", "x-1"],
+    "correctAnswer": "(x²+2x)/2"
+  },
+  {
+    "question": "Một đa thức bậc hai có thể có nhiều nhất bao nhiêu nghiệm?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Kết quả của phép nhân (a-b)(a²+ab+b²) là:",
+    "options": ["a³ - b³", "a³ + b³", "(a-b)³", "a² - b²"],
+    "correctAnswer": "a³ - b³"
+  },
+  {
+    "question": "Khi chia đa thức A cho đa thức B, bậc của số dư R(x) so với bậc của đa thức chia B(x) là:",
+    "options": ["Bậc của R(x) < Bậc của B(x)", "Bậc của R(x) > Bậc của B(x)", "Bậc của R(x) = Bậc của B(x)", "Bằng 0"],
+    "correctAnswer": "Bậc của R(x) < Bậc của B(x)"
+  }
+]
+
