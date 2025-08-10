@@ -12,6 +12,10 @@
                 {
                   "name": "Chương 1: Ôn tập và bổ sung",
                   "file": "./data/math-5-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Số thập phân",
+                  "file": "./data/math-5-chapter-2.json"
                 }
               ]
             },
