@@ -12,6 +12,10 @@
                 {
                   "name": "Chương 1: Hàm số lượng giác và phương trình lượng giác",
                   "file": "./data/math-11-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Dãy số. Cấp số cộng và cấp số nhân",
+                  "file": "./data/math-11-chapter-2.json"
                 }
               ]
             }
