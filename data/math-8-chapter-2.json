@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Khai triển biểu thức (x + 1)² ta được:",
+    "options": ["x² + 2x + 1", "x² + 1", "x² - 2x + 1", "x² + 2x - 1"],
+    "correctAnswer": "x² + 2x + 1"
+  },
+  {
+    "question": "Khai triển biểu thức (x - 2)² ta được:",
+    "options": ["x² - 4x + 4", "x² - 4", "x² + 4x + 4", "x² - 2x + 4"],
+    "correctAnswer": "x² - 4x + 4"
+  },
+  {
+    "question": "Kết quả của phép tính (x - 3)(x + 3) là:",
+    "options": ["x² - 9", "x² + 9", "9 - x²", "x² - 6"],
+    "correctAnswer": "x² - 9"
+  },
+  {
+    "question": "Khai triển biểu thức (x + 2)³ ta được:",
+    "options": ["x³ + 6x² + 12x + 8", "x³ + 8", "x³ + 6x + 8", "x³ + 3x² + 3x + 8"],
+    "correctAnswer": "x³ + 6x² + 12x + 8"
+  },
+  {
+    "question": "Khai triển biểu thức (y - 1)³ ta được:",
+    "options": ["y³ - 3y² + 3y - 1", "y³ - 1", "y³ - 3y - 1", "y³ + 3y² + 3y + 1"],
+    "correctAnswer": "y³ - 3y² + 3y - 1"
+  },
+  {
+    "question": "Biểu thức x³ + 1 được viết dưới dạng tích là:",
+    "options": ["(x + 1)(x² - x + 1)", "(x + 1)(x² + x + 1)", "(x - 1)(x² + x + 1)", "(x+1)³"],
+    "correctAnswer": "(x + 1)(x² - x + 1)"
+  },
+  {
+    "question": "Biểu thức a³ - 8 được viết dưới dạng tích là:",
+    "options": ["(a - 2)(a² + 2a + 4)", "(a - 2)(a² - 2a + 4)", "(a + 2)(a² - 2a + 4)", "(a-2)³"],
+    "correctAnswer": "(a - 2)(a² + 2a + 4)"
+  },
+  {
+    "question": "Phân tích đa thức 2x - 4 thành nhân tử ta được:",
+    "options": ["2(x - 2)", "2(x + 2)", "x(2 - 4/x)", "4(x/2 - 1)"],
+    "correctAnswer": "2(x - 2)"
+  },
+  {
+    "question": "Phân tích đa thức x² - 4y² thành nhân tử ta được:",
+    "options": ["(x - 2y)(x + 2y)", "(x - 4y)(x + 4y)", "(x - 2y)²", "(x + 2y)²"],
+    "correctAnswer": "(x - 2y)(x + 2y)"
+  },
+  {
+    "question": "Viết biểu thức x² + 4x + 4 dưới dạng bình phương của một tổng.",
+    "options": ["(x + 2)²", "(x + 4)²", "(x - 2)²", "(2x + 2)²"],
+    "correctAnswer": "(x + 2)²"
+  },
+  {
+    "question": "Giá trị của biểu thức 51² - 49² là:",
+    "options": ["200", "2", "100", "4"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Phân tích đa thức x³ - x thành nhân tử ta được:",
+    "options": ["x(x - 1)(x + 1)", "x(x² - 1)", "Cả A và B", "x(x-1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Kết quả của phép tính (2x + y)² là:",
+    "options": ["4x² + 4xy + y²", "4x² + y²", "2x² + 4xy + y²", "4x² + 2xy + y²"],
+    "correctAnswer": "4x² + 4xy + y²"
+  },
+  {
+    "question": "Phân tích đa thức 5x² - 5y² thành nhân tử.",
+    "options": ["5(x - y)(x + y)", "5(x - y)²", "5(x + y)²", "(5x - 5y)(5x + 5y)"],
+    "correctAnswer": "5(x - y)(x + y)"
+  },
+  {
+    "question": "Biểu thức (a - b)² bằng biểu thức nào sau đây?",
+    "options": ["(b - a)²", "a² - b²", "b² - a²", "-(a+b)²"],
+    "correctAnswer": "(b - a)²"
+  },
+  {
+    "question": "Tính nhanh giá trị của 101³.",
+    "options": ["1030301", "(100+1)³", "Cả A và B", "1000001"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x² - 6x + 9 thành nhân tử.",
+    "options": ["(x - 3)²", "(x + 3)²", "(x - 6)(x + 9)", "(x-3)(x+3)"],
+    "correctAnswer": "(x - 3)²"
+  },
+  {
+    "question": "Kết quả của phép tính (x - 2y)³ là:",
+    "options": ["x³ - 6x²y + 12xy² - 8y³", "x³ - 8y³", "x³ - 3x²y + 3xy² - 8y³", "x³ - 6xy + 8y³"],
+    "correctAnswer": "x³ - 6x²y + 12xy² - 8y³"
+  },
+  {
+    "question": "Phân tích đa thức x² - y² + 2x + 1 thành nhân tử.",
+    "options": ["(x + 1 - y)(x + 1 + y)", "(x+1)² - y²", "Cả A và B", "(x-y+1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của biểu thức x² + 2x + 1 tại x = 99 là:",
+    "options": ["10000", "100", "9801", "9999"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Hằng đẳng thức (A+B)² = A² + 2AB + B² được gọi là:",
+    "options": ["Bình phương của một tổng", "Tổng hai bình phương", "Bình phương của một hiệu", "Hiệu hai bình phương"],
+    "correctAnswer": "Bình phương của một tổng"
+  },
+  {
+    "question": "Phân tích đa thức 3x + 3y thành nhân tử.",
+    "options": ["3(x+y)", "3xy", "x(3+3y/x)", "y(3x/y+3)"],
+    "correctAnswer": "3(x+y)"
+  },
+  {
+    "question": "Biểu thức 27x³ + 1 được viết dưới dạng tích là:",
+    "options": ["(3x + 1)(9x² - 3x + 1)", "(3x + 1)(9x² + 3x + 1)", "(3x - 1)(9x² + 3x + 1)", "(3x+1)³"],
+    "correctAnswer": "(3x + 1)(9x² - 3x + 1)"
+  },
+  {
+    "question": "Viết biểu thức 4x² - 12xy + 9y² dưới dạng bình phương của một hiệu.",
+    "options": ["(2x - 3y)²", "(2x + 3y)²", "(4x - 9y)²", "(3y - 2x)²"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Phân tích đa thức xy + xz - 2y - 2z thành nhân tử.",
+    "options": ["(y+z)(x-2)", "(y-z)(x+2)", "(x+y)(z-2)", "(x-y)(z+2)"],
+    "correctAnswer": "(y+z)(x-2)"
+  },
+  {
+    "question": "Hằng đẳng thức A³ - B³ = (A-B)(A² + AB + B²) được gọi là:",
+    "options": ["Hiệu hai lập phương", "Lập phương của một hiệu", "Tổng hai lập phương", "Hiệu hai bình phương"],
+    "correctAnswer": "Hiệu hai lập phương"
+  },
+  {
+    "question": "Giá trị của biểu thức (x-1)(x²+x+1) tại x=10 là:",
+    "options": ["999", "1000", "1001", "99"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Phân tích đa thức x² - 5x + 6 thành nhân tử.",
+    "options": ["(x - 2)(x - 3)", "(x + 2)(x + 3)", "(x - 1)(x - 6)", "(x - 5)(x - 1)"],
+    "correctAnswer": "(x - 2)(x - 3)"
+  },
+  {
+    "question": "Kết quả của phép tính (3x - 1)² là:",
+    "options": ["9x² - 6x + 1", "9x² - 1", "9x² + 6x + 1", "3x² - 6x + 1"],
+    "correctAnswer": "9x² - 6x + 1"
+  },
+  {
+    "question": "Tìm x, biết x² - 25 = 0.",
+    "options": ["x = 5 hoặc x = -5", "x = 5", "x = -5", "x = 25"],
+    "correctAnswer": "x = 5 hoặc x = -5"
+  },
+  {
+    "question": "Hằng đẳng thức (A-B)³ = A³ - 3A²B + 3AB² - B³ được gọi là:",
+    "options": ["Lập phương của một hiệu", "Hiệu hai lập phương", "Bình phương của một hiệu", "Hiệu ba lập phương"],
+    "correctAnswer": "Lập phương của một hiệu"
+  },
+  {
+    "question": "Phân tích đa thức 4x² - (x+y)² thành nhân tử.",
+    "options": ["(x-y)(3x+y)", "(2x-x-y)(2x+x+y)", "Cả A và B", "(3x-y)(x+y)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của biểu thức 99³ + 3.99² + 3.99 + 1 là:",
+    "options": ["1000000", "100³", "Cả A và B", "999999"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x³ + 6x² + 12x + 8 thành nhân tử.",
+    "options": ["(x + 2)³", "(x + 8)³", "(x - 2)³", "(x+4)(x+2)"],
+    "correctAnswer": "(x + 2)³"
+  },
+  {
+    "question": "Kết quả của phép tính (x+y+z)² là:",
+    "options": ["x²+y²+z²+2xy+2yz+2zx", "x²+y²+z²", "x²+y²+z²+xy+yz+zx", "x+y+z"],
+    "correctAnswer": "x²+y²+z²+2xy+2yz+2zx"
+  },
+  {
+    "question": "Tìm giá trị nhỏ nhất của biểu thức A = x² - 4x + 5.",
+    "options": ["1", "5", "4", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Phân tích đa thức x⁴ - 1 thành nhân tử.",
+    "options": ["(x-1)(x+1)(x²+1)", "(x²-1)(x²+1)", "Cả A và B", "(x²-1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức 8 - 12y + 6y² - y³ là khai triển của:",
+    "options": ["(2 - y)³", "(y - 2)³", "8 - y³", "2³ - y³"],
+    "correctAnswer": "(2 - y)³"
+  },
+  {
+    "question": "Phân tích đa thức x² - 2xy + y² - 9 thành nhân tử.",
+    "options": ["(x - y - 3)(x - y + 3)", "(x-y)² - 3²", "Cả A và B", "(x-y-3)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tính nhanh giá trị của 20.2 * 19.8.",
+    "options": ["399.96", "(20+0.2)(20-0.2)", "20² - 0.2²", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Hằng đẳng thức A² - B² = (A-B)(A+B) được gọi là:",
+    "options": ["Hiệu hai bình phương", "Bình phương của một hiệu", "Tổng hai bình phương", "Hiệu hai lập phương"],
+    "correctAnswer": "Hiệu hai bình phương"
+  },
+  {
+    "question": "Phân tích đa thức x²y - xy² thành nhân tử.",
+    "options": ["xy(x - y)", "xy(y - x)", "x(xy - y²)", "y(x² - xy)"],
+    "correctAnswer": "xy(x - y)"
+  },
+  {
+    "question": "Biểu thức 64x³ - 27y³ được viết dưới dạng tích là:",
+    "options": ["(4x-3y)(16x²+12xy+9y²)", "(4x-3y)(16x²-12xy+9y²)", "(4x+3y)(16x²-12xy+9y²)", "(4x-3y)³"],
+    "correctAnswer": "(4x-3y)(16x²+12xy+9y²)"
+  },
+  {
+    "question": "Viết biểu thức 25 + 10x + x² dưới dạng bình phương của một tổng.",
+    "options": ["(5 + x)²", "(x + 5)²", "Cả A và B", "(5x+1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x(y-1) - y(1-y) thành nhân tử.",
+    "options": ["(y-1)(x+y)", "(y-1)(x-y)", "(1-y)(x+y)", "(1-y)(x-y)"],
+    "correctAnswer": "(y-1)(x+y)"
+  },
+  {
+    "question": "Hằng đẳng thức (A+B)³ = A³ + 3A²B + 3AB² + B³ được gọi là:",
+    "options": ["Lập phương của một tổng", "Tổng hai lập phương", "Bình phương của một tổng", "Tổng ba lập phương"],
+    "correctAnswer": "Lập phương của một tổng"
+  },
+  {
+    "question": "Giá trị của biểu thức (x+1)³ tại x=9 là:",
+    "options": ["1000", "729", "1331", "100"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Phân tích đa thức x² - 7x + 10 thành nhân tử.",
+    "options": ["(x - 2)(x - 5)", "(x + 2)(x + 5)", "(x - 1)(x - 10)", "(x - 7)(x - 3)"],
+    "correctAnswer": "(x - 2)(x - 5)"
+  },
+  {
+    "question": "Kết quả của phép tính (2a - b)² là:",
+    "options": ["4a² - 4ab + b²", "4a² - b²", "2a² - 4ab + b²", "4a² + 4ab + b²"],
+    "correctAnswer": "4a² - 4ab + b²"
+  },
+  {
+    "question": "Tìm x, biết (x-2)² = 0.",
+    "options": ["x = 2", "x = -2", "x = ±2", "x = 4"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Hằng đẳng thức A³ + B³ = (A+B)(A² - AB + B²) được gọi là:",
+    "options": ["Tổng hai lập phương", "Lập phương của một tổng", "Bình phương của một tổng", "Tổng hai bình phương"],
+    "correctAnswer": "Tổng hai lập phương"
+  },
+  {
+    "question": "Phân tích đa thức x³ - 4x² + 4x thành nhân tử.",
+    "options": ["x(x - 2)²", "x(x² - 4x + 4)", "Cả A và B", "x(x-2)(x+2)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của biểu thức 102 * 98 là:",
+    "options": ["9996", "100² - 2²", "Cả A và B", "10000"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x³ - 2x²y + xy² thành nhân tử.",
+    "options": ["x(x - y)²", "x(x² - 2xy + y²)", "Cả A và B", "y(x-y)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Kết quả của phép tính (x - 2y)(x + 2y) là:",
+    "options": ["x² - 4y²", "x² + 4y²", "x² - 2y²", "x² + 2y²"],
+    "correctAnswer": "x² - 4y²"
+  },
+  {
+    "question": "Tìm giá trị lớn nhất của biểu thức B = 5 - 4x² + 4x.",
+    "options": ["6", "5", "4", "1"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Phân tích đa thức x⁴ + 4 thành nhân tử.",
+    "options": ["(x² + 2x + 2)(x² - 2x + 2)", "(x² + 2)² - (2x)²", "Cả A và B", "(x²+2)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức (x-y)³ + (x+y)³ bằng:",
+    "options": ["2x³ + 6xy²", "2x³", "2y³", "2x³ - 6x²y"],
+    "correctAnswer": "2x³ + 6xy²"
+  },
+  {
+    "question": "Phân tích đa thức 2x² + 4x + 2 - 2y² thành nhân tử.",
+    "options": ["2(x + 1 - y)(x + 1 + y)", "2((x+1)² - y²)", "Cả A và B", "2(x-y+1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tính nhanh giá trị của 45² + 40² - 15² + 80*45.",
+    "options": ["8000", "(45+40)² - 15²", "85² - 15²", "Cả B và C"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Hằng đẳng thức (A-B)² = A² - 2AB + B² được gọi là:",
+    "options": ["Bình phương của một hiệu", "Hiệu hai bình phương", "Bình phương của một tổng", "Hiệu hai lập phương"],
+    "correctAnswer": "Bình phương của một hiệu"
+  },
+  {
+    "question": "Phân tích đa thức 10x(x-y) - 8y(y-x) thành nhân tử.",
+    "options": ["(x-y)(10x+8y)", "2(x-y)(5x+4y)", "Cả A và B", "(x-y)(10x-8y)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức x³ + 125 được viết dưới dạng tích là:",
+    "options": ["(x + 5)(x² - 5x + 25)", "(x + 5)(x² + 5x + 25)", "(x - 5)(x² + 5x + 25)", "(x+5)³"],
+    "correctAnswer": "(x + 5)(x² - 5x + 25)"
+  },
+  {
+    "question": "Viết biểu thức 9x² - 6x + 1 dưới dạng bình phương của một hiệu.",
+    "options": ["(3x - 1)²", "(1 - 3x)²", "Cả A và B", "(9x-1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x² - 2x - y² + 1 thành nhân tử.",
+    "options": ["(x - 1 - y)(x - 1 + y)", "(x-1)² - y²", "Cả A và B", "(x-y-1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của biểu thức 99³ - 3.99² + 3.99 - 1 là:",
+    "options": ["970299", "98³", "(99-1)³", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Phân tích đa thức x³ - 9x² + 27x - 27 thành nhân tử.",
+    "options": ["(x - 3)³", "(x - 9)³", "(x + 3)³", "(x-27)(x-1)"],
+    "correctAnswer": "(x - 3)³"
+  },
+  {
+    "question": "Kết quả của phép tính (a-b-c)² là:",
+    "options": ["a²+b²+c²-2ab+2bc-2ca", "a²+b²+c²-2ab-2bc-2ca", "a²+b²+c²+2ab+2bc+2ca", "a²-b²-c²"],
+    "correctAnswer": "a²+b²+c²-2ab+2bc-2ca"
+  },
+  {
+    "question": "Tìm giá trị nhỏ nhất của biểu thức A = 4x² + 4x + 11.",
+    "options": ["10", "11", "4", "0"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Phân tích đa thức x⁴ + x² + 1 thành nhân tử.",
+    "options": ["(x² + x + 1)(x² - x + 1)", "(x²+1)² - x²", "Cả A và B", "(x²+1)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức (a+b)³ - (a-b)³ bằng:",
+    "options": ["2b³ + 6a²b", "2b³", "2a³", "2a³ + 6ab²"],
+    "correctAnswer": "2b³ + 6a²b"
+  },
+  {
+    "question": "Phân tích đa thức x²(x-1) + 16(1-x) thành nhân tử.",
+    "options": ["(x-1)(x-4)(x+4)", "(x-1)(x²-16)", "Cả A và B", "(x-1)(x-4)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tính nhanh giá trị của 34² + 66² + 68*66.",
+    "options": ["10000", "(34+66)²", "100²", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Hằng đẳng thức (A+B+C)² bằng:",
+    "options": ["A²+B²+C²+2AB+2BC+2CA", "A²+B²+C²", "A³+B³+C³", "A²+B²+C²+3ABC"],
+    "correctAnswer": "A²+B²+C²+2AB+2BC+2CA"
+  },
+  {
+    "question": "Phân tích đa thức x² - 2xy + y² - z² thành nhân tử.",
+    "options": ["(x-y-z)(x-y+z)", "(x-y)² - z²", "Cả A và B", "(x-y-z)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức 125 + 75x + 15x² + x³ là khai triển của:",
+    "options": ["(5 + x)³", "(x + 5)³", "Cả A và B", "5³ + x³"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phân tích đa thức x³ + 27 thành nhân tử.",
+    "options": ["(x + 3)(x² - 3x + 9)", "(x + 3)(x² + 3x + 9)", "(x - 3)(x² + 3x + 9)", "(x+3)³"],
+    "correctAnswer": "(x + 3)(x² - 3x + 9)"
+  },
+  {
+    "question": "Kết quả của phép tính (x-1/3)² là:",
+    "options": ["x² - 2/3 x + 1/9", "x² + 2/3 x + 1/9", "x² - 1/9", "x² + 1/9"],
+    "correctAnswer": "x² - 2/3 x + 1/9"
+  },
+  {
+    "question": "Tìm x, biết x³ - 4x = 0.",
+    "options": ["x=0, x=2, x=-2", "x=0, x=4", "x=0, x=±2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Hằng đẳng thức (A-B)(A+B) = A² - B² được gọi là:",
+    "options": ["Hiệu hai bình phương", "Bình phương của một hiệu", "Tổng hai bình phương", "Hiệu hai lập phương"],
+    "correctAnswer": "Hiệu hai bình phương"
+  },
+  {
+    "question": "Phân tích đa thức 4x² - 4xy + y² thành nhân tử.",
+    "options": ["(2x - y)²", "(y - 2x)²", "Cả A và B", "(2x+y)²"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biểu thức (x-1)³ - (x+1)³ bằng:",
+    "options": ["-6x² - 2", "-2", "2x³", "-2x³"],
+    "correctAnswer": "-6x² - 2"
+  },
+  {
+    "question": "Phân tích đa thức x⁵ - x³ + x² - 1 thành nhân tử.",
+    "options": ["(x-1)(x+1)²(x²-x+1)", "(x³+1)(x²-1)", "Cả A và B", "(x-1)²(x+1)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Giá trị của biểu thức x² - y² tại x=87, y=13 là:",
+    "options": ["7400", "(87-13)(87+13)", "74 * 100", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Tìm giá trị lớn nhất của biểu thức C = -x² + 6x - 11.",
+    "options": ["-2", "-11", "-9", "6"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Phân tích đa thức x⁴ + y⁴ thành nhân tử.",
+    "options": ["(x²+y²)² - 2x²y²", "Không phân tích được", "(x²+y²-√2xy)(x²+y²+√2xy)", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Biểu thức 8x³ - 12x²y + 6xy² - y³ là khai triển của:",
+    "options": ["(2x - y)³", "(y - 2x)³", "8x³ - y³", "(2x)³ - y³"],
+    "correctAnswer": "(2x - y)³"
+  },
+  {
+    "question": "Phân tích đa thức a⁶ - b⁶ thành nhân tử.",
+    "options": ["(a-b)(a+b)(a²+ab+b²)(a²-ab+b²)", "(a³-b³)(a³+b³)", "(a²-b²)(a⁴+a²b²+b⁴)", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Tính nhanh giá trị của 1.6² + 1.4*3.2 + 1.4².",
+    "options": ["9", "(1.6+1.4)²", "3²", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  }
+]
+
