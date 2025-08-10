@@ -40,6 +40,10 @@
                 {
                   "name": "Chương 9: Diện tích và thể tích của một số hình khối",
                   "file": "./data/math-5-chapter-9.json"
+                },
+                {
+                  "name": "Chương 10: Số đo thời gian, vận tốc. Các bài toán liên quan đến chuyển động đều",
+                  "file": "./data/math-5-chapter-10.json"
                 }
               ]
             },
