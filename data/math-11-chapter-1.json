@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Đổi số đo góc 120° sang radian.",
+    "options": ["2π/3", "π/3", "3π/2", "π/2"],
+    "correctAnswer": "2π/3"
+  },
+  {
+    "question": "Trên đường tròn lượng giác, điểm biểu diễn cho góc -π/4 nằm ở góc phần tư thứ mấy?",
+    "options": ["IV", "I", "II", "III"],
+    "correctAnswer": "IV"
+  },
+  {
+    "question": "Giá trị của sin(π/6) là:",
+    "options": ["1/2", "√3/2", "√2/2", "0"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tập xác định của hàm số y = tan(x) là:",
+    "options": ["R \\ {π/2 + kπ, k ∈ Z}", "R", "R \\ {kπ, k ∈ Z}", "[-1; 1]"],
+    "correctAnswer": "R \\ {π/2 + kπ, k ∈ Z}"
+  },
+  {
+    "question": "Phương trình sin(x) = 1 có nghiệm là:",
+    "options": ["x = π/2 + k2π", "x = k2π", "x = π + k2π", "x = kπ"],
+    "correctAnswer": "x = π/2 + k2π"
+  },
+  {
+    "question": "Rút gọn biểu thức A = cos(a)cos(b) - sin(a)sin(b).",
+    "options": ["cos(a+b)", "cos(a-b)", "sin(a+b)", "sin(a-b)"],
+    "correctAnswer": "cos(a+b)"
+  },
+  {
+    "question": "Hàm số nào sau đây là hàm số chẵn?",
+    "options": ["y = cos(x)", "y = sin(x)", "y = tan(x)", "y = cot(x)"],
+    "correctAnswer": "y = cos(x)"
+  },
+  {
+    "question": "Nghiệm của phương trình cos(x) = -1/2 là:",
+    "options": ["x = ±2π/3 + k2π", "x = ±π/3 + k2π", "x = ±π/6 + k2π", "x = 2π/3 + k2π"],
+    "correctAnswer": "x = ±2π/3 + k2π"
+  },
+  {
+    "question": "Giá trị của tan(π/4) là:",
+    "options": ["1", "0", "-1", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Công thức nào sau đây đúng?",
+    "options": ["sin²(a) + cos²(a) = 1", "sin(a) + cos(a) = 1", "tan(a) . cot(a) = -1", "1 + cot²(a) = -1/sin²(a)"],
+    "correctAnswer": "sin²(a) + cos²(a) = 1"
+  },
+  {
+    "question": "Đổi số đo góc 3π/4 rad sang độ.",
+    "options": ["135°", "120°", "150°", "60°"],
+    "correctAnswer": "135°"
+  },
+  {
+    "question": "Tập giá trị của hàm số y = sin(x) là:",
+    "options": ["[-1; 1]", "R", "[0; 1]", "(-1; 1)"],
+    "correctAnswer": "[-1; 1]"
+  },
+  {
+    "question": "Phương trình tan(x) = √3 có nghiệm là:",
+    "options": ["x = π/3 + kπ", "x = π/6 + kπ", "x = π/3 + k2π", "x = π/6 + k2π"],
+    "correctAnswer": "x = π/3 + kπ"
+  },
+  {
+    "question": "Công thức biến đổi tổng thành tích nào sau đây là đúng?",
+    "options": ["cos(a) + cos(b) = 2cos((a+b)/2)cos((a-b)/2)", "sin(a) + sin(b) = 2cos((a+b)/2)sin((a-b)/2)", "cos(a) - cos(b) = 2sin((a+b)/2)sin((a-b)/2)", "sin(a) - sin(b) = -2cos((a+b)/2)sin((a-b)/2)"],
+    "correctAnswer": "cos(a) + cos(b) = 2cos((a+b)/2)cos((a-b)/2)"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = cos(x) là:",
+    "options": ["2π", "π", "π/2", "4π"],
+    "correctAnswer": "2π"
+  },
+  {
+    "question": "Giá trị của cos(2π/3) là:",
+    "options": ["-1/2", "1/2", "√3/2", "-√3/2"],
+    "correctAnswer": "-1/2"
+  },
+  {
+    "question": "Nghiệm của phương trình cot(x) = 1 là:",
+    "options": ["x = π/4 + kπ", "x = -π/4 + kπ", "x = π/4 + k2π", "x = kπ"],
+    "correctAnswer": "x = π/4 + kπ"
+  },
+  {
+    "question": "Công thức nhân đôi cho sin(2a) là:",
+    "options": ["2sin(a)cos(a)", "cos²(a) - sin²(a)", "1 - 2sin²(a)", "2cos²(a) - 1"],
+    "correctAnswer": "2sin(a)cos(a)"
+  },
+  {
+    "question": "Hàm số y = sin(x) đồng biến trên khoảng nào sau đây?",
+    "options": ["(-π/2; π/2)", "(π/2; 3π/2)", "(0; π)", "(π; 2π)"],
+    "correctAnswer": "(-π/2; π/2)"
+  },
+  {
+    "question": "Phương trình sin(x) = sin(π/3) có nghiệm là:",
+    "options": ["x=π/3+k2π hoặc x=2π/3+k2π", "x=π/3+k2π", "x=±π/3+k2π", "x=π/3+kπ"],
+    "correctAnswer": "x=π/3+k2π hoặc x=2π/3+k2π"
+  },
+  {
+    "question": "Biểu thức M = sin(x+y)cos(y) - cos(x+y)sin(y) được rút gọn thành:",
+    "options": ["sin(x)", "cos(x)", "sin(x+2y)", "cos(x+2y)"],
+    "correctAnswer": "sin(x)"
+  },
+  {
+    "question": "Tập xác định của hàm số y = cot(x) là:",
+    "options": ["R \\ {kπ, k ∈ Z}", "R", "R \\ {π/2 + kπ, k ∈ Z}", "(-∞; +∞)"],
+    "correctAnswer": "R \\ {kπ, k ∈ Z}"
+  },
+  {
+    "question": "Giá trị của sin(α + π) là:",
+    "options": ["-sin(α)", "sin(α)", "cos(α)", "-cos(α)"],
+    "correctAnswer": "-sin(α)"
+  },
+  {
+    "question": "Phương trình 2cos(x) - 1 = 0 có nghiệm là:",
+    "options": ["x = ±π/3 + k2π", "x = ±π/6 + k2π", "x = π/3 + k2π", "x = π/6 + k2π"],
+    "correctAnswer": "x = ±π/3 + k2π"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = tan(2x) là:",
+    "options": ["π/2", "π", "2π", "π/4"],
+    "correctAnswer": "π/2"
+  },
+  {
+    "question": "Công thức hạ bậc cho cos²(a) là:",
+    "options": ["(1 + cos(2a))/2", "(1 - cos(2a))/2", "(1 + sin(2a))/2", "(1 - sin(2a))/2"],
+    "correctAnswer": "(1 + cos(2a))/2"
+  },
+  {
+    "question": "Nghiệm của phương trình sin(2x) = 1 là:",
+    "options": ["x = π/4 + kπ", "x = π/2 + k2π", "x = π/4 + k2π", "x = π/2 + kπ"],
+    "correctAnswer": "x = π/4 + kπ"
+  },
+  {
+    "question": "Giá trị của cot(3π/4) là:",
+    "options": ["-1", "1", "0", "√3"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Hàm số y = cos(x) nghịch biến trên khoảng nào sau đây?",
+    "options": ["(0; π)", "(-π/2; π/2)", "(-π; 0)", "(π; 2π)"],
+    "correctAnswer": "(0; π)"
+  },
+  {
+    "question": "Phương trình cos(x) = cos(π/4) có nghiệm là:",
+    "options": ["x = ±π/4 + k2π", "x = π/4 + k2π", "x = π/4 + kπ", "x = 3π/4 + k2π"],
+    "correctAnswer": "x = ±π/4 + k2π"
+  },
+  {
+    "question": "Cho sin(a) = 3/5 và π/2 < a < π. Giá trị của cos(a) là:",
+    "options": ["-4/5", "4/5", "3/5", "-3/5"],
+    "correctAnswer": "-4/5"
+  },
+  {
+    "question": "Tập giá trị của hàm số y = 2cos(x) + 1 là:",
+    "options": ["[-1; 3]", "[-2; 2]", "[0; 3]", "[-1; 1]"],
+    "correctAnswer": "[-1; 3]"
+  },
+  {
+    "question": "Phương trình √3 tan(x) - 1 = 0 có nghiệm là:",
+    "options": ["x = π/6 + kπ", "x = π/3 + kπ", "x = π/6 + k2π", "x = π/3 + k2π"],
+    "correctAnswer": "x = π/6 + kπ"
+  },
+  {
+    "question": "Giá trị của biểu thức P = sin(30°)cos(60°) + cos(30°)sin(60°) là:",
+    "options": ["1", "0", "1/2", "√3/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một cung tròn có số đo 2 rad và bán kính 10 cm. Độ dài của cung tròn đó là:",
+    "options": ["20 cm", "10 cm", "5 cm", "2 rad"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "Phương trình sin(x) = 0 có nghiệm là:",
+    "options": ["x = kπ", "x = k2π", "x = π/2 + kπ", "x = π/2 + k2π"],
+    "correctAnswer": "x = kπ"
+  },
+  {
+    "question": "Khẳng định nào sau đây sai?",
+    "options": ["cos(-a) = -cos(a)", "sin(-a) = -sin(a)", "tan(-a) = -tan(a)", "cot(-a) = -cot(a)"],
+    "correctAnswer": "cos(-a) = -cos(a)"
+  },
+  {
+    "question": "Nghiệm của phương trình 2sin(x) + √2 = 0 là:",
+    "options": ["x=-π/4+k2π hoặc x=5π/4+k2π", "x=±π/4+k2π", "x=π/4+k2π hoặc x=3π/4+k2π", "x=-π/4+kπ"],
+    "correctAnswer": "x=-π/4+k2π hoặc x=5π/4+k2π"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = sin(x/2) là:",
+    "options": ["4π", "2π", "π", "π/2"],
+    "correctAnswer": "4π"
+  },
+  {
+    "question": "Giá trị của cos(α - π/2) là:",
+    "options": ["sin(α)", "-sin(α)", "cos(α)", "-cos(α)"],
+    "correctAnswer": "sin(α)"
+  },
+  {
+    "question": "Phương trình tan(x) = tan(π/5) có nghiệm là:",
+    "options": ["x = π/5 + kπ", "x = ±π/5 + kπ", "x = π/5 + k2π", "x = 4π/5 + k2π"],
+    "correctAnswer": "x = π/5 + kπ"
+  },
+  {
+    "question": "Tập xác định của hàm số y = 1/sin(x) là:",
+    "options": ["R \\ {kπ, k ∈ Z}", "R", "R \\ {π/2 + kπ, k ∈ Z}", "[-1; 1]"],
+    "correctAnswer": "R \\ {kπ, k ∈ Z}"
+  },
+  {
+    "question": "Giá trị của sin(15°) là:",
+    "options": ["(√6 - √2)/4", "(√6 + √2)/4", "(√3 - 1)/2", "(√3 + 1)/2"],
+    "correctAnswer": "(√6 - √2)/4"
+  },
+  {
+    "question": "Phương trình cos(2x) = 0 có nghiệm là:",
+    "options": ["x = π/4 + kπ/2", "x = π/2 + kπ", "x = kπ", "x = π/4 + kπ"],
+    "correctAnswer": "x = π/4 + kπ/2"
+  },
+  {
+    "question": "Hàm số nào sau đây là hàm số lẻ?",
+    "options": ["y = x.cos(x)", "y = x + sin(x)", "y = sin(x) + cos(x)", "y = |sin(x)|"],
+    "correctAnswer": "y = x + sin(x)"
+  },
+  {
+    "question": "Nghiệm của phương trình sin²(x) = 1/4 là:",
+    "options": ["x = ±π/6 + kπ", "x = ±π/3 + kπ", "x = ±π/6 + k2π", "x = ±π/3 + k2π"],
+    "correctAnswer": "x = ±π/6 + kπ"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 3 - 2sin(x) là:",
+    "options": ["5", "3", "1", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Phương trình sin(x) = cos(x) có nghiệm là:",
+    "options": ["x = π/4 + kπ", "x = π/4 + k2π", "x = -π/4 + kπ", "x = kπ"],
+    "correctAnswer": "x = π/4 + kπ"
+  },
+  {
+    "question": "Công thức nào sau đây sai?",
+    "options": ["cos(2a) = cos²(a) + sin²(a)", "cos(2a) = cos²(a) - sin²(a)", "cos(2a) = 2cos²(a) - 1", "cos(2a) = 1 - 2sin²(a)"],
+    "correctAnswer": "cos(2a) = cos²(a) + sin²(a)"
+  },
+  {
+    "question": "Giá trị của tan(α + π/4) nếu tan(α) = 1/2 là:",
+    "options": ["3", "-3", "1/3", "-1/3"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Điều kiện để phương trình a.sin(x) + b.cos(x) = c có nghiệm là:",
+    "options": ["a² + b² ≥ c²", "a² + b² ≤ c²", "a + b ≥ c", "a + b ≤ c"],
+    "correctAnswer": "a² + b² ≥ c²"
+  },
+  {
+    "question": "Nghiệm của phương trình cot(x + π/3) = -√3 là:",
+    "options": ["x = π/2 + kπ", "x = -π/2 + kπ", "x = π/6 + kπ", "x = -π/6 + kπ"],
+    "correctAnswer": "x = π/2 + kπ"
+  },
+  {
+    "question": "Tập xác định của hàm số y = √(1-sin(x)) là:",
+    "options": ["R", "[-1; 1]", "[0; +∞)", "k2π"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = sin⁴(x) + cos⁴(x) là:",
+    "options": ["1/2", "1", "0", "1/4"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Phương trình 2cos²(x) - 3cos(x) + 1 = 0 có nghiệm là:",
+    "options": ["x=k2π hoặc x=±π/3+k2π", "x=π/2+k2π hoặc x=±π/3+k2π", "x=kπ", "x=±π/3+kπ"],
+    "correctAnswer": "x=k2π hoặc x=±π/3+k2π"
+  },
+  {
+    "question": "Giá trị của cos(7π/6) là:",
+    "options": ["-√3/2", "√3/2", "-1/2", "1/2"],
+    "correctAnswer": "-√3/2"
+  },
+  {
+    "question": "Trên đường tròn lượng giác, có bao nhiêu điểm biểu diễn cho các nghiệm của phương trình sin(2x) = 0?",
+    "options": ["4", "2", "1", "Vô số"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hàm số y = tan(x) + cot(x) có tập xác định là:",
+    "options": ["R \\ {kπ/2, k ∈ Z}", "R", "R \\ {kπ, k ∈ Z}", "R \\ {π/2 + kπ, k ∈ Z}"],
+    "correctAnswer": "R \\ {kπ/2, k ∈ Z}"
+  },
+  {
+    "question": "Phương trình sin(x) + √3cos(x) = 2 có nghiệm là:",
+    "options": ["x = π/6 + k2π", "x = π/3 + k2π", "x = -π/6 + k2π", "Vô nghiệm"],
+    "correctAnswer": "x = π/6 + k2π"
+  },
+  {
+    "question": "Giá trị của sin(π/12) là:",
+    "options": ["(√6 - √2)/4", "(√6 + √2)/4", "√2/2", "1/2"],
+    "correctAnswer": "(√6 - √2)/4"
+  },
+  {
+    "question": "Nghiệm âm lớn nhất của phương trình cos(x) = 0 là:",
+    "options": ["-π/2", "-π", "-3π/2", "-2π"],
+    "correctAnswer": "-π/2"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = cot(πx) là:",
+    "options": ["1", "π", "2", "1/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho tan(a) = 2. Giá trị của biểu thức P = (sin(a) + cos(a))/(sin(a) - cos(a)) là:",
+    "options": ["3", "-3", "1/3", "-1/3"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương trình tan²(x) = 3 có nghiệm là:",
+    "options": ["x = ±π/3 + kπ", "x = ±π/6 + kπ", "x = π/3 + kπ", "x = π/6 + kπ"],
+    "correctAnswer": "x = ±π/3 + kπ"
+  },
+  {
+    "question": "Giá trị của cos(15°)cos(45°) - sin(15°)sin(45°) là:",
+    "options": ["1/2", "√3/2", "√2/2", "0"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tập giá trị của hàm số y = 1 - 2|sin(x)| là:",
+    "options": ["[-1; 1]", "[0; 1]", "[-1; 3]", "[1; 3]"],
+    "correctAnswer": "[-1; 1]"
+  },
+  {
+    "question": "Phương trình sin(3x) = sin(x) có bao nhiêu nghiệm thuộc [0, π]?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một bánh xe có 72 răng. Số đo góc mà bánh xe đã quay được khi di chuyển 10 răng là:",
+    "options": ["50°", "60°", "45°", "36°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Nghiệm dương nhỏ nhất của phương trình sin(x) + sin(2x) = 0 là:",
+    "options": ["2π/3", "π/3", "π", "π/2"],
+    "correctAnswer": "2π/3"
+  },
+  {
+    "question": "Giá trị của biểu thức sin(π/6) + cos(π/6) + tan(π/6) là:",
+    "options": ["(3+3√3)/6", "(1+√3)/2 + 1/√3", "1", "√3"],
+    "correctAnswer": "(1+√3)/2 + 1/√3"
+  },
+  {
+    "question": "Phương trình cos²(x) - sin²(x) = 1/2 có nghiệm là:",
+    "options": ["x = ±π/6 + kπ", "x = ±π/3 + kπ", "x = ±π/6 + k2π", "x = ±π/3 + k2π"],
+    "correctAnswer": "x = ±π/6 + kπ"
+  },
+  {
+    "question": "Tập xác định của hàm số y = tan(x - π/4) là:",
+    "options": ["R \\ {3π/4 + kπ, k ∈ Z}", "R \\ {π/4 + kπ, k ∈ Z}", "R", "R \\ {kπ, k ∈ Z}"],
+    "correctAnswer": "R \\ {3π/4 + kπ, k ∈ Z}"
+  },
+  {
+    "question": "Giá trị của sin(a)cos(b) + cos(a)sin(b) là:",
+    "options": ["sin(a+b)", "sin(a-b)", "cos(a+b)", "cos(a-b)"],
+    "correctAnswer": "sin(a+b)"
+  },
+  {
+    "question": "Phương trình sin(x) = -√3/2 có nghiệm là:",
+    "options": ["x=-π/3+k2π hoặc x=4π/3+k2π", "x=±π/3+k2π", "x=-π/6+k2π hoặc x=7π/6+k2π", "x=±π/6+k2π"],
+    "correctAnswer": "x=-π/3+k2π hoặc x=4π/3+k2π"
+  },
+  {
+    "question": "Hàm số y = x² + cos(x) là hàm số:",
+    "options": ["Chẵn", "Lẻ", "Không chẵn không lẻ", "Vừa chẵn vừa lẻ"],
+    "correctAnswer": "Chẵn"
+  },
+  {
+    "question": "Nghiệm của phương trình cot²(x) = 1 là:",
+    "options": ["x = π/4 + kπ/2", "x = ±π/4 + kπ", "x = π/4 + kπ", "x = kπ/2"],
+    "correctAnswer": "x = π/4 + kπ/2"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = sin(x) + cos(x) là:",
+    "options": ["√2", "1", "2", "√3"],
+    "correctAnswer": "√2"
+  },
+  {
+    "question": "Phương trình 1 + tan(x) = 0 có nghiệm là:",
+    "options": ["x = -π/4 + kπ", "x = π/4 + kπ", "x = 3π/4 + k2π", "x = kπ"],
+    "correctAnswer": "x = -π/4 + kπ"
+  },
+  {
+    "question": "Cho cos(a) = 1/3. Giá trị của cos(2a) là:",
+    "options": ["-7/9", "7/9", "2/3", "-2/3"],
+    "correctAnswer": "-7/9"
+  },
+  {
+    "question": "Tập xác định của hàm số y = 1/(cos(x) - 1) là:",
+    "options": ["R \\ {k2π, k ∈ Z}", "R", "R \\ {kπ, k ∈ Z}", "R \\ {π/2 + kπ, k ∈ Z}"],
+    "correctAnswer": "R \\ {k2π, k ∈ Z}"
+  },
+  {
+    "question": "Phương trình sin(x) - cos(2x) = 0 có một nghiệm là:",
+    "options": ["π/6", "π/3", "π/4", "π/2"],
+    "correctAnswer": "π/6"
+  },
+  {
+    "question": "Giá trị của sin(105°) là:",
+    "options": ["(√6 + √2)/4", "(√6 - √2)/4", "√3/2", "1/2"],
+    "correctAnswer": "(√6 + √2)/4"
+  },
+  {
+    "question": "Nghiệm của phương trình sin(x) = 1/2 trên [0, 2π] là:",
+    "options": ["π/6 và 5π/6", "π/6", "5π/6", "π/3 và 2π/3"],
+    "correctAnswer": "π/6 và 5π/6"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = cos(3x + π/4) là:",
+    "options": ["2π/3", "2π", "π/3", "3π/2"],
+    "correctAnswer": "2π/3"
+  },
+  {
+    "question": "Biểu thức (1-tan²a)/(1+tan²a) bằng:",
+    "options": ["cos(2a)", "sin(2a)", "tan(2a)", "cot(2a)"],
+    "correctAnswer": "cos(2a)"
+  },
+  {
+    "question": "Phương trình 3cot(x) - √3 = 0 có nghiệm là:",
+    "options": ["x = π/3 + kπ", "x = π/6 + kπ", "x = -π/3 + kπ", "x = -π/6 + kπ"],
+    "correctAnswer": "x = π/3 + kπ"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của hàm số y = 2 - 3cos²(x) là:",
+    "options": ["-1", "2", "3", "5"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Phương trình tan(x) + cot(x) = 2 có nghiệm là:",
+    "options": ["x = π/4 + kπ", "x = π/4 + k2π", "Vô nghiệm", "x = kπ"],
+    "correctAnswer": "x = π/4 + kπ"
+  }
+]
+
