@@ -1,10 +1,5 @@
 [
   {
-    "question": "Hình ảnh nào sau đây cho ta hình ảnh của một điểm?",
-    "options": ["Một hạt bụi", "Một dấu chấm nhỏ trên trang giấy", "Một ngôi sao trên bầu trời đêm", "Tất cả các đáp án trên"],
-    "correctAnswer": "Tất cả các đáp án trên"
-  },
-  {
     "question": "Qua hai điểm phân biệt A và B, ta vẽ được bao nhiêu đường thẳng?",
     "options": ["1", "2", "0", "Vô số"],
     "correctAnswer": "1"
@@ -13,11 +8,6 @@
     "question": "Ba điểm A, B, C được gọi là thẳng hàng khi nào?",
     "options": ["Chúng cùng thuộc một đường thẳng", "Chúng tạo thành một tam giác", "Chúng nằm trên một đường tròn", "Chúng cách đều nhau"],
     "correctAnswer": "Chúng cùng thuộc một đường thẳng"
-  },
-  {
-    "question": "Hai đường thẳng được gọi là cắt nhau khi chúng có:",
-    "options": ["Một điểm chung", "Không có điểm chung", "Hai điểm chung", "Vô số điểm chung"],
-    "correctAnswer": "Một điểm chung"
   },
   {
     "question": "Hai đường thẳng song song là hai đường thẳng:",
@@ -45,11 +35,6 @@
     "correctAnswer": "Điểm A, điểm B và tất cả các điểm nằm giữa A và B"
   },
   {
-    "question": "Trên tia Ox, lấy hai điểm A và B sao cho OA = 3cm, OB = 6cm. Khẳng định nào sau đây đúng?",
-    "options": ["Điểm A nằm giữa hai điểm O và B", "Điểm B nằm giữa hai điểm O và A", "Điểm O nằm giữa hai điểm A và B", "Ba điểm O, A, B không thẳng hàng"],
-    "correctAnswer": "Điểm A nằm giữa hai điểm O và B"
-  },
-  {
     "question": "Cho đoạn thẳng AB = 8cm. M là trung điểm của AB. Độ dài đoạn thẳng AM là:",
     "options": ["4cm", "8cm", "16cm", "2cm"],
     "correctAnswer": "4cm"
@@ -58,6 +43,61 @@
     "question": "Điểm M là trung điểm của đoạn thẳng CD khi:",
     "options": ["M nằm giữa C, D và MC = MD", "MC = MD", "M nằm giữa C, D", "MC + MD = CD"],
     "correctAnswer": "M nằm giữa C, D và MC = MD"
+  },
+  {
+    "question": "Góc là hình gồm:",
+    "options": ["Hai tia chung gốc", "Hai đường thẳng cắt nhau", "Một điểm và một đường thẳng", "Ba điểm không thẳng hàng"],
+    "correctAnswer": "Hai tia chung gốc"
+  },
+  {
+    "question": "Góc bẹt là góc có số đo bằng:",
+    "options": ["180°", "90°", "0°", "360°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Góc có số đo 90° được gọi là:",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc nhỏ hơn góc vuông được gọi là:",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc không"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc lớn hơn góc vuông nhưng nhỏ hơn góc bẹt được gọi là:",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc đầy"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Cho góc xOy = 60°. Cho góc mAn = 60°. Ta nói hai góc này:",
+    "options": ["Bằng nhau", "Kề nhau", "Bù nhau", "Phụ nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Nếu tia Oy nằm giữa hai tia Ox và Oz thì:",
+    "options": ["∠xOy + ∠yOz = ∠xOz", "∠xOy = ∠yOz", "∠xOz + ∠zOy = ∠xOy", "Hai góc đó đối đỉnh"],
+    "correctAnswer": "∠xOy + ∠yOz = ∠xOz"
+  },
+  {
+    "question": "Hai góc kề bù là hai góc có tổng số đo bằng:",
+    "options": ["180°", "90°", "360°", "Hai góc bằng nhau"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Hai góc phụ nhau là hai góc có tổng số đo bằng:",
+    "options": ["90°", "180°", "360°", "Hai góc bằng nhau"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Tia phân giác của một góc là tia:",
+    "options": ["Nằm giữa hai cạnh và tạo với hai cạnh ấy hai góc bằng nhau", "Nằm giữa hai cạnh", "Chia góc thành hai góc bất kỳ", "Vuông góc với một cạnh"],
+    "correctAnswer": "Nằm giữa hai cạnh và tạo với hai cạnh ấy hai góc bằng nhau"
+  },
+  {
+    "question": "Nếu tia Oz là tia phân giác của góc xOy = 100° thì góc xOz bằng:",
+    "options": ["50°", "100°", "200°", "25°"],
+    "correctAnswer": "50°"
   },
   {
     "question": "Cho 3 điểm A, B, C không thẳng hàng. Vẽ được bao nhiêu đường thẳng đi qua các cặp điểm?",
@@ -75,11 +115,6 @@
     "correctAnswer": "Đối nhau"
   },
   {
-    "question": "Nếu M là trung điểm của đoạn thẳng AB thì M cách đều A và B. Đúng hay sai?",
-    "options": ["Đúng", "Sai", "Chỉ đúng khi AB=2cm", "Chỉ đúng khi M nằm ngoài AB"],
-    "correctAnswer": "Đúng"
-  },
-  {
     "question": "Cho đoạn thẳng MN = 10cm. Điểm P nằm trên đoạn thẳng MN sao cho MP = 6cm. Độ dài đoạn thẳng PN là:",
     "options": ["4cm", "16cm", "6cm", "10cm"],
     "correctAnswer": "4cm"
@@ -95,44 +130,34 @@
     "correctAnswer": "6"
   },
   {
-    "question": "Một đoạn thẳng có thể có bao nhiêu trung điểm?",
-    "options": ["1", "0", "2", "Vô số"],
-    "correctAnswer": "1"
+    "question": "Góc có số đo 120° là:",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
   },
   {
-    "question": "Qua một điểm ta vẽ được bao nhiêu đường thẳng?",
-    "options": ["Vô số", "1", "2", "0"],
-    "correctAnswer": "Vô số"
+    "question": "Góc phụ với góc 40° có số đo là:",
+    "options": ["50°", "140°", "40°", "130°"],
+    "correctAnswer": "50°"
   },
   {
-    "question": "Hai tia có chung gốc được gọi là:",
-    "options": ["Hai tia chung gốc", "Hai tia đối nhau", "Hai tia trùng nhau", "Không có tên gọi đặc biệt"],
-    "correctAnswer": "Hai tia chung gốc"
+    "question": "Góc bù với góc 110° có số đo là:",
+    "options": ["70°", "110°", "250°", "90°"],
+    "correctAnswer": "70°"
   },
   {
-    "question": "Cho ba điểm A, B, C thẳng hàng. Biết AB = 3cm, BC = 5cm. Độ dài AC có thể là:",
-    "options": ["8cm hoặc 2cm", "Chỉ 8cm", "Chỉ 2cm", "15cm"],
-    "correctAnswer": "8cm hoặc 2cm"
+    "question": "Cho góc xOy = 70°. Vẽ tia Oz nằm giữa hai tia Ox, Oy sao cho góc xOz = 30°. Số đo góc yOz là:",
+    "options": ["40°", "100°", "70°", "30°"],
+    "correctAnswer": "40°"
   },
   {
-    "question": "Điểm I là trung điểm của đoạn thẳng MN khi MI + IN = MN và:",
-    "options": ["MI = IN", "MI > IN", "MI < IN", "I nằm ngoài MN"],
-    "correctAnswer": "MI = IN"
+    "question": "Hai góc đối đỉnh thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Kề nhau"],
+    "correctAnswer": "Bằng nhau"
   },
   {
     "question": "Cho 5 điểm trong đó không có ba điểm nào thẳng hàng. Số đường thẳng đi qua các cặp điểm là:",
     "options": ["10", "5", "15", "20"],
     "correctAnswer": "10"
-  },
-  {
-    "question": "Hai tia trùng nhau là hai tia:",
-    "options": ["Chung gốc và tia này nằm trên tia kia", "Chung gốc và là hai tia đối nhau", "Song song với nhau", "Không có điểm chung"],
-    "correctAnswer": "Chung gốc và tia này nằm trên tia kia"
-  },
-  {
-    "question": "Cho đoạn thẳng AB. M là một điểm bất kỳ. Nếu AM + MB = AB thì:",
-    "options": ["M nằm giữa A và B", "A nằm giữa M và B", "B nằm giữa M và A", "M là trung điểm AB"],
-    "correctAnswer": "M nằm giữa A và B"
   },
   {
     "question": "Cho đoạn thẳng PQ = 12cm. I là trung điểm của PQ. K là trung điểm của PI. Độ dài đoạn thẳng PK là:",
@@ -145,11 +170,6 @@
     "correctAnswer": "1"
   },
   {
-    "question": "Giao điểm của hai đường thẳng là:",
-    "options": ["Một điểm", "Một đường thẳng", "Một đoạn thẳng", "Một tia"],
-    "correctAnswer": "Một điểm"
-  },
-  {
     "question": "Trên tia Ox, có OA = 2cm, OB = 4cm. So sánh OA và AB.",
     "options": ["OA = AB", "OA > AB", "OA < AB", "Không so sánh được"],
     "correctAnswer": "OA = AB"
@@ -160,54 +180,29 @@
     "correctAnswer": "10cm"
   },
   {
-    "question": "Cho n điểm phân biệt (n ≥ 2), không có ba điểm nào thẳng hàng. Số đường thẳng vẽ được là:",
-    "options": ["n(n-1)/2", "n(n+1)/2", "n-1", "n"],
-    "correctAnswer": "n(n-1)/2"
+    "question": "Dụng cụ dùng để đo góc là:",
+    "options": ["Thước đo góc (thước đo độ)", "Compa", "Eke", "Thước thẳng"],
+    "correctAnswer": "Thước đo góc (thước đo độ)"
   },
   {
-    "question": "Tia phân biệt với tia đối của nó bởi:",
-    "options": ["Phần đường thẳng mà nó chứa", "Gốc", "Hướng", "Độ dài"],
-    "correctAnswer": "Phần đường thẳng mà nó chứa"
+    "question": "Cho hai góc kề bù xOy và yOz. Biết góc xOy = 50°. Số đo góc yOz là:",
+    "options": ["130°", "50°", "40°", "90°"],
+    "correctAnswer": "130°"
   },
   {
-    "question": "Nếu điểm I nằm giữa hai điểm K và L thì:",
-    "options": ["IK + IL = KL", "IK + KL = IL", "IL + LK = IK", "I, K, L tạo thành tam giác"],
-    "correctAnswer": "IK + IL = KL"
+    "question": "Tia Ot là tia phân giác của góc mOn nếu:",
+    "options": ["Tia Ot nằm giữa hai tia Om, On và ∠mOt = ∠nOt", "∠mOt = ∠nOt", "Tia Ot nằm giữa hai tia Om, On", "∠mOn = 2∠mOt"],
+    "correctAnswer": "Tia Ot nằm giữa hai tia Om, On và ∠mOt = ∠nOt"
   },
   {
-    "question": "Cho đoạn thẳng AB. Một điểm M nằm ngoài đường thẳng AB. Vẽ được bao nhiêu tam giác có đỉnh là 3 trong 4 điểm A, B, M và trung điểm I của AB?",
-    "options": ["3", "4", "2", "1"],
-    "correctAnswer": "3"
+    "question": "Cho hai đường thẳng xx' và yy' cắt nhau tại O. Biết góc xOy = 60°. Số đo góc x'Oy' là:",
+    "options": ["60°", "120°", "30°", "90°"],
+    "correctAnswer": "60°"
   },
   {
-    "question": "Hai đường thẳng phân biệt thì hoặc ... hoặc ...",
-    "options": ["cắt nhau, song song", "cắt nhau, trùng nhau", "song song, trùng nhau", "vuông góc, song song"],
-    "correctAnswer": "cắt nhau, song song"
-  },
-  {
-    "question": "Tia AB và tia BA là hai tia:",
-    "options": ["Đối nhau", "Trùng nhau", "Phân biệt", "Không xác định"],
-    "correctAnswer": "Đối nhau"
-  },
-  {
-    "question": "Cho đoạn thẳng AB = 6cm. Trên tia AB lấy điểm C sao cho AC = 2cm. Độ dài đoạn thẳng CB là:",
-    "options": ["4cm", "8cm", "3cm", "6cm"],
-    "correctAnswer": "4cm"
-  },
-  {
-    "question": "Cho đoạn thẳng AB = 6cm. Trên tia đối của tia AB lấy điểm C sao cho AC = 2cm. Độ dài đoạn thẳng CB là:",
-    "options": ["8cm", "4cm", "6cm", "2cm"],
-    "correctAnswer": "8cm"
-  },
-  {
-    "question": "Nếu M là trung điểm của đoạn thẳng PQ thì:",
-    "options": ["MP = MQ = PQ/2", "MP + MQ = PQ", "M nằm giữa P và Q", "Tất cả các đáp án trên"],
-    "correctAnswer": "Tất cả các đáp án trên"
-  },
-  {
-    "question": "Cho 10 điểm, trong đó có đúng 3 điểm thẳng hàng. Số đường thẳng vẽ được là:",
-    "options": ["43", "45", "44", "42"],
-    "correctAnswer": "43"
+    "question": "Cho 10 điểm phân biệt, không có 3 điểm nào thẳng hàng. Số đường thẳng vẽ được là:",
+    "options": ["45", "10", "90", "100"],
+    "correctAnswer": "45"
   },
   {
     "question": "Điểm A và điểm B nằm khác phía đối với đường thẳng d nếu:",
@@ -230,79 +225,29 @@
     "correctAnswer": "12cm"
   },
   {
-    "question": "Trong ba điểm thẳng hàng, có bao nhiêu điểm nằm giữa hai điểm còn lại?",
-    "options": ["Chỉ có một", "Hai", "Ba", "Không có"],
-    "correctAnswer": "Chỉ có một"
+    "question": "Đơn vị đo góc thường dùng là:",
+    "options": ["Độ (°)", "Mét (m)", "Xentimét (cm)", "Gam (g)"],
+    "correctAnswer": "Độ (°)"
   },
   {
-    "question": "Tia gốc O còn được gọi là:",
-    "options": ["Nửa đường thẳng gốc O", "Đoạn thẳng O", "Đường thẳng O", "Điểm O"],
-    "correctAnswer": "Nửa đường thẳng gốc O"
+    "question": "Góc có số đo từ 0° đến 180°. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đến 90°", "Chỉ đến 360°"],
+    "correctAnswer": "Đúng"
   },
   {
-    "question": "Cho ba điểm M, N, P thẳng hàng. Biết MN = 5cm, NP = 2cm. Độ dài MP là:",
-    "options": ["7cm hoặc 3cm", "Chỉ 7cm", "Chỉ 3cm", "10cm"],
-    "correctAnswer": "7cm hoặc 3cm"
+    "question": "Cho góc bẹt xOy. Vẽ tia Oz sao cho góc xOz = 60°. Số đo góc yOz là:",
+    "options": ["120°", "60°", "240°", "30°"],
+    "correctAnswer": "120°"
   },
   {
-    "question": "Một đoạn thẳng có độ dài 10cm. Trung điểm của nó chia đoạn thẳng thành hai đoạn có độ dài là:",
-    "options": ["5cm", "10cm", "20cm", "2.5cm"],
-    "correctAnswer": "5cm"
+    "question": "Hai góc có tổng số đo bằng 90° được gọi là hai góc:",
+    "options": ["Phụ nhau", "Bù nhau", "Kề nhau", "Đối đỉnh"],
+    "correctAnswer": "Phụ nhau"
   },
   {
-    "question": "Cho 20 điểm phân biệt. Nối từng cặp hai điểm ta được số đoạn thẳng là:",
-    "options": ["190", "200", "180", "210"],
-    "correctAnswer": "190"
-  },
-  {
-    "question": "Đường thẳng a và đường thẳng b cắt nhau tại O. Khẳng định nào đúng?",
-    "options": ["O là điểm chung duy nhất của a và b", "a và b song song", "a và b trùng nhau", "O thuộc a nhưng không thuộc b"],
-    "correctAnswer": "O là điểm chung duy nhất của a và b"
-  },
-  {
-    "question": "Cho tia Ox. Trên tia Ox lấy hai điểm M, N sao cho OM = a, ON = b. Nếu a < b thì:",
-    "options": ["M nằm giữa O và N", "N nằm giữa O và M", "O nằm giữa M và N", "M, N, O không thẳng hàng"],
-    "correctAnswer": "M nằm giữa O và N"
-  },
-  {
-    "question": "Đoạn thẳng MN là một phần của:",
-    "options": ["Đường thẳng MN", "Tia MN", "Tia NM", "Tất cả các đáp án trên"],
-    "correctAnswer": "Tất cả các đáp án trên"
-  },
-  {
-    "question": "Cho đoạn thẳng AB = 2a. M là trung điểm của AB. N là trung điểm của AM. Độ dài đoạn thẳng NB là:",
-    "options": ["3a/2", "a/2", "a", "2a"],
-    "correctAnswer": "3a/2"
-  },
-  {
-    "question": "Cho 6 điểm A, B, C, D, E, F trong đó A, B, C thẳng hàng. Số tam giác có đỉnh là 3 trong 6 điểm đó là:",
-    "options": ["19", "20", "18", "17"],
-    "correctAnswer": "19"
-  },
-  {
-    "question": "Hai đường thẳng có thể có bao nhiêu điểm chung?",
-    "options": ["0, 1 hoặc vô số", "Chỉ 1", "Chỉ 0", "Chỉ vô số"],
-    "correctAnswer": "0, 1 hoặc vô số"
-  },
-  {
-    "question": "Tia gốc A còn được viết là:",
-    "options": ["Nửa đường thẳng gốc A", "Đường thẳng A", "Đoạn thẳng A", "Điểm A"],
-    "correctAnswer": "Nửa đường thẳng gốc A"
-  },
-  {
-    "question": "Cho O nằm giữa A và B. Biết OA = 3cm, AB = 8cm. Độ dài OB là:",
-    "options": ["5cm", "11cm", "3cm", "8cm"],
-    "correctAnswer": "5cm"
-  },
-  {
-    "question": "Để đo độ dài đoạn thẳng, ta thường dùng:",
-    "options": ["Thước có vạch chia", "Compa", "Eke", "Thước đo góc"],
-    "correctAnswer": "Thước có vạch chia"
-  },
-  {
-    "question": "Điểm M được gọi là trung điểm của đoạn thẳng AB nếu:",
-    "options": ["MA = MB = AB/2", "MA = MB", "M nằm giữa A và B", "AM + MB = AB"],
-    "correctAnswer": "MA = MB = AB/2"
+    "question": "Cho góc AOB. Tia OC là tia phân giác của nó. Khẳng định nào sau đây sai?",
+    "options": ["∠AOC > ∠AOB", "∠AOC = ∠BOC", "∠AOB = 2∠BOC", "Tia OC nằm giữa hai tia OA, OB"],
+    "correctAnswer": "∠AOC > ∠AOB"
   },
   {
     "question": "Cho 100 điểm phân biệt, không có 3 điểm nào thẳng hàng. Số đường thẳng vẽ được là:",
@@ -320,11 +265,6 @@
     "correctAnswer": "MN = AM + AN"
   },
   {
-    "question": "Đoạn thẳng AB có độ dài không đổi. Đúng hay sai?",
-    "options": ["Đúng", "Sai", "Tùy thuộc vào vị trí", "Chỉ đúng trên giấy"],
-    "correctAnswer": "Đúng"
-  },
-  {
     "question": "Cho I là trung điểm của đoạn thẳng MN. Biết IN = 4cm. Độ dài đoạn thẳng MN là:",
     "options": ["8cm", "4cm", "2cm", "12cm"],
     "correctAnswer": "8cm"
@@ -335,19 +275,29 @@
     "correctAnswer": "N nằm giữa M và P"
   },
   {
-    "question": "Tia và đoạn thẳng khác nhau cơ bản ở điểm nào?",
-    "options": ["Tia bị giới hạn ở một phía, đoạn thẳng bị giới hạn ở cả hai phía", "Tia có độ dài vô hạn, đoạn thẳng có độ dài hữu hạn", "Cả A và B đều đúng", "Chúng không khác nhau"],
-    "correctAnswer": "Cả A và B đều đúng"
+    "question": "Góc 0° là góc tạo bởi hai tia:",
+    "options": ["Trùng nhau", "Đối nhau", "Vuông góc", "Song song"],
+    "correctAnswer": "Trùng nhau"
   },
   {
-    "question": "Trên một đường thẳng, có thể có bao nhiêu điểm nằm giữa hai điểm cho trước?",
-    "options": ["Vô số", "1", "2", "0"],
-    "correctAnswer": "Vô số"
+    "question": "Cho góc xOy = 130°. Vẽ tia Oz nằm trong góc xOy sao cho góc xOz = 50°. Tia Oz có phải là tia phân giác của góc xOy không?",
+    "options": ["Không", "Có", "Không xác định", "Là tia đối"],
+    "correctAnswer": "Không"
   },
   {
-    "question": "Cho đoạn thẳng AB. M là trung điểm AB, N là trung điểm MB. Biết AN = 9cm. Độ dài AB là:",
-    "options": ["12cm", "18cm", "9cm", "27cm"],
-    "correctAnswer": "12cm"
+    "question": "Hai góc kề nhau là hai góc có:",
+    "options": ["Một cạnh chung và hai cạnh còn lại nằm trên hai nửa mặt phẳng đối nhau có bờ là cạnh chung đó", "Chung đỉnh", "Tổng bằng 180°", "Tổng bằng 90°"],
+    "correctAnswer": "Một cạnh chung và hai cạnh còn lại nằm trên hai nửa mặt phẳng đối nhau có bờ là cạnh chung đó"
+  },
+  {
+    "question": "Cho góc AOB = 60°. Vẽ tia OC là tia đối của tia OA. Số đo góc BOC là:",
+    "options": ["120°", "60°", "180°", "90°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Mỗi góc (không phải góc bẹt) có mấy tia phân giác?",
+    "options": ["1", "2", "0", "Vô số"],
+    "correctAnswer": "1"
   },
   {
     "question": "Cho 4 đường thẳng cắt nhau tại một điểm. Số cặp tia đối nhau được tạo thành là:",
@@ -360,11 +310,6 @@
     "correctAnswer": "2"
   },
   {
-    "question": "Cho ba điểm A, B, C không thẳng hàng. M là điểm nằm giữa B và C. Tia AM cắt đoạn thẳng nào?",
-    "options": ["Không cắt đoạn thẳng nào trong các cạnh còn lại", "Cắt cạnh AB", "Cắt cạnh AC", "Cắt cả AB và AC"],
-    "correctAnswer": "Không cắt đoạn thẳng nào trong các cạnh còn lại"
-  },
-  {
     "question": "Cho đoạn thẳng AB = 10cm. Lấy điểm C trên AB sao cho AC = 6cm. Lấy điểm D trên tia đối của tia BA sao cho BD = 4cm. So sánh BC và CD.",
     "options": ["BC < CD", "BC > CD", "BC = CD", "Không so sánh được"],
     "correctAnswer": "BC < CD"
@@ -375,74 +320,118 @@
     "correctAnswer": "MA + MB = AB và MA = MB"
   },
   {
-    "question": "Cho 25 điểm, trong đó không có 3 điểm nào thẳng hàng. Hỏi có thể vẽ được bao nhiêu tam giác từ các điểm đó?",
-    "options": ["2300", "2500", "300", "2275"],
-    "correctAnswer": "2300"
+    "question": "Cho góc xOy = 90°. Vẽ tia Oz là tia phân giác của góc xOy. Số đo góc xOz là:",
+    "options": ["45°", "90°", "180°", "30°"],
+    "correctAnswer": "45°"
   },
   {
-    "question": "Hai đường thẳng song song có thể được biểu diễn bởi hình ảnh nào?",
-    "options": ["Hai cạnh đối của một hình chữ nhật", "Hai cạnh kề của một hình vuông", "Hai đường chéo của hình thoi", "Hai cạnh của một góc"],
-    "correctAnswer": "Hai cạnh đối của một hình chữ nhật"
+    "question": "Hai góc có tổng bằng 180° được gọi là:",
+    "options": ["Hai góc bù nhau", "Hai góc kề bù", "Hai góc phụ nhau", "Hai góc đối đỉnh"],
+    "correctAnswer": "Hai góc bù nhau"
   },
   {
-    "question": "Tia AB và tia AC trùng nhau khi:",
-    "options": ["Điểm B nằm giữa A và C", "Điểm C nằm giữa A và B", "Cả A và B đều đúng", "A nằm giữa B và C"],
-    "correctAnswer": "Cả A và B đều đúng"
+    "question": "Cho hai góc kề bù xOy và yOz. Gọi Om, On lần lượt là tia phân giác của chúng. Số đo góc mOn là:",
+    "options": ["90°", "180°", "45°", "Không xác định"],
+    "correctAnswer": "90°"
   },
   {
-    "question": "Cho M, N là hai điểm nằm trên tia Ox. Biết OM = 3cm, ON = 5cm. Khẳng định nào đúng?",
-    "options": ["MN = 2cm", "M nằm giữa O và N", "Cả A và B đều đúng", "N nằm giữa O và M"],
-    "correctAnswer": "Cả A và B đều đúng"
+    "question": "Trên cùng một nửa mặt phẳng bờ chứa tia Ox, vẽ hai tia Oy, Oz sao cho ∠xOy = 50°, ∠xOz = 100°. Khẳng định nào đúng?",
+    "options": ["Tia Oy nằm giữa hai tia Ox và Oz", "Tia Ox nằm giữa hai tia Oy và Oz", "Tia Oz nằm giữa hai tia Ox và Oy", "Oy là tia phân giác của góc xOz"],
+    "correctAnswer": "Cả A và D đều đúng"
   },
   {
-    "question": "Cho I là trung điểm của AB. M là một điểm không thuộc đường thẳng AB. Nếu MA = MB thì tam giác MAB là tam giác gì?",
-    "options": ["Cân tại M", "Đều", "Vuông tại M", "Không xác định"],
-    "correctAnswer": "Cân tại M"
-  },
-  {
-    "question": "Cho n đường thẳng cắt nhau tại một điểm. Số tia được tạo thành là:",
-    "options": ["2n", "n", "n(n-1)", "n²"],
-    "correctAnswer": "2n"
-  },
-  {
-    "question": "Một đường thẳng chứa bao nhiêu điểm?",
-    "options": ["Vô số", "1", "2", "100"],
-    "correctAnswer": "Vô số"
-  },
-  {
-    "question": "Cho ba điểm A, B, C thẳng hàng. Nếu AC + CB = AB thì điểm nào nằm giữa hai điểm còn lại?",
-    "options": ["C", "A", "B", "Không có"],
-    "correctAnswer": "C"
-  },
-  {
-    "question": "Độ dài đoạn thẳng có thể là số âm không?",
-    "options": ["Không", "Có", "Tùy trường hợp", "Chỉ khi đo dưới mực nước biển"],
-    "correctAnswer": "Không"
-  },
-  {
-    "question": "Cho đoạn thẳng AB = 12cm. M, N là hai điểm thuộc đoạn AB sao cho AM = 4cm, BN = 4cm. I là trung điểm của MN. Độ dài AI là:",
-    "options": ["6cm", "4cm", "8cm", "2cm"],
-    "correctAnswer": "6cm"
-  },
-  {
-    "question": "Cho 10 đường thẳng phân biệt. Số giao điểm nhiều nhất có thể có là:",
-    "options": ["45", "10", "90", "100"],
-    "correctAnswer": "45"
-  },
-  {
-    "question": "Hai tia được gọi là trùng nhau nếu chúng:",
-    "options": ["Chung gốc và có một điểm chung khác gốc", "Chung gốc", "Có hai điểm chung", "Song song"],
-    "correctAnswer": "Chung gốc và có một điểm chung khác gốc"
-  },
-  {
-    "question": "Trên đường thẳng a lấy 4 điểm phân biệt. Số đoạn thẳng được tạo thành là:",
-    "options": ["6", "4", "10", "3"],
+    "question": "Cho 4 tia chung gốc O. Số góc được tạo thành là:",
+    "options": ["6", "4", "8", "10"],
     "correctAnswer": "6"
+  },
+  {
+    "question": "Cho n tia chung gốc (không có hai tia nào đối nhau). Số góc được tạo thành là:",
+    "options": ["n(n-1)/2", "n(n+1)/2", "n-1", "2n"],
+    "correctAnswer": "n(n-1)/2"
   },
   {
     "question": "Nếu I là trung điểm của AB thì IA và IB là hai tia:",
     "options": ["Đối nhau", "Trùng nhau", "Song song", "Không có quan hệ"],
     "correctAnswer": "Đối nhau"
+  },
+  {
+    "question": "Cho góc AOB = 140°. Vẽ tia phân giác OC. Vẽ tia phân giác OM của góc AOC. Số đo góc MOC là:",
+    "options": ["35°", "70°", "105°", "40°"],
+    "correctAnswer": "35°"
+  },
+  {
+    "question": "Góc tù là góc có số đo:",
+    "options": ["Lớn hơn 90° và nhỏ hơn 180°", "Bằng 90°", "Nhỏ hơn 90°", "Bằng 180°"],
+    "correctAnswer": "Lớn hơn 90° và nhỏ hơn 180°"
+  },
+  {
+    "question": "Cho hai góc kề nhau có tổng bằng 150°. Tia phân giác của góc lớn hơn tạo với cạnh chung một góc 40°. Số đo hai góc đó là:",
+    "options": ["80° và 70°", "90° và 60°", "100° và 50°", "Không có cặp góc nào"],
+    "correctAnswer": "80° và 70°"
+  },
+  {
+    "question": "Hai góc đối đỉnh có chung:",
+    "options": ["Đỉnh", "Một cạnh", "Số đo", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Cho góc xOy = 90°. Vẽ tia Oz nằm giữa sao cho góc xOz = 30°. Vẽ tia phân giác Ot của góc yOz. Số đo góc xOt là:",
+    "options": ["60°", "30°", "45°", "75°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Góc nhọn là góc có số đo:",
+    "options": ["Lớn hơn 0° và nhỏ hơn 90°", "Bằng 90°", "Nhỏ hơn 180°", "Bằng 0°"],
+    "correctAnswer": "Lớn hơn 0° và nhỏ hơn 90°"
+  },
+  {
+    "question": "Hai đường thẳng xx' và yy' cắt nhau tại O. Biết góc xOy = 45°. Số đo góc x'Oy' là:",
+    "options": ["45°", "135°", "90°", "40°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Hai đường thẳng xx' và yy' cắt nhau tại O. Biết góc xOy = 45°. Số đo góc x'Oy là:",
+    "options": ["135°", "45°", "90°", "130°"],
+    "correctAnswer": "135°"
+  },
+  {
+    "question": "Cho góc xOy = 110°. Vẽ tia Oz là tia phân giác. Số đo góc xOz là:",
+    "options": ["55°", "110°", "220°", "65°"],
+    "correctAnswer": "55°"
+  },
+  {
+    "question": "Để vẽ một góc, ta cần vẽ:",
+    "options": ["Hai tia chung gốc", "Một đường thẳng", "Một đoạn thẳng", "Ba điểm"],
+    "correctAnswer": "Hai tia chung gốc"
+  },
+  {
+    "question": "Cho góc AOB và góc BOC là hai góc kề bù. Biết góc AOB = 2 * góc BOC. Số đo góc AOB là:",
+    "options": ["120°", "60°", "90°", "100°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Cho góc xOy. Vẽ tia Oz nằm giữa hai tia Ox, Oy. Số đo góc xOy bằng:",
+    "options": ["∠xOz + ∠zOy", "∠xOz - ∠zOy", "2∠xOz", "Không xác định"],
+    "correctAnswer": "∠xOz + ∠zOy"
+  },
+  {
+    "question": "Trên một nửa mặt phẳng, có thể vẽ được bao nhiêu tia gốc O tạo với tia Ox cho trước một góc 30°?",
+    "options": ["1", "2", "0", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trên cả mặt phẳng, có thể vẽ được bao nhiêu tia gốc O tạo với tia Ox cho trước một góc 30°?",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho góc AOB = 90°. Tia OC là tia đối của tia OB. Số đo góc AOC là:",
+    "options": ["90°", "180°", "270°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Hai góc kề nhau có cần phải có tổng bằng 180° không?",
+    "options": ["Không nhất thiết", "Luôn luôn", "Không bao giờ", "Chỉ khi chúng là góc vuông"],
+    "correctAnswer": "Không nhất thiết"
   }
 ]
-
