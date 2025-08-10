@@ -36,6 +36,10 @@
                 {
                   "name": "Chương 7: Tần số và tần số tương đối",
                   "file": "./data/math-9-chapter-7.json"
+                },
+                {
+                  "name": "Chương 8: Xác suất của biến cố",
+                  "file": "./data/math-9-chapter-8.json"
                 }
               ]
             },
