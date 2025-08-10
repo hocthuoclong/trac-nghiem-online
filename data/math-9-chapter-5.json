@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Tập hợp các điểm cách điểm O cố định một khoảng R > 0 không đổi được gọi là:",
+    "options": ["Đường tròn tâm O, bán kính R", "Hình tròn tâm O, bán kính R", "Đường thẳng", "Một điểm"],
+    "correctAnswer": "Đường tròn tâm O, bán kính R"
+  },
+  {
+    "question": "Trong một đường tròn, đường kính vuông góc với một dây thì:",
+    "options": ["Đi qua trung điểm của dây ấy", "Không đi qua trung điểm của dây ấy", "Song song với dây ấy", "Bằng dây ấy"],
+    "correctAnswer": "Đi qua trung điểm của dây ấy"
+  },
+  {
+    "question": "Cho đường tròn (O; R) và một điểm M. Nếu OM > R thì:",
+    "options": ["M nằm ngoài đường tròn", "M nằm trên đường tròn", "M nằm trong đường tròn", "M là tâm đường tròn"],
+    "correctAnswer": "M nằm ngoài đường tròn"
+  },
+  {
+    "question": "Đường thẳng và đường tròn có 3 điểm chung. Phát biểu này:",
+    "options": ["Sai", "Đúng", "Chỉ đúng khi R=1", "Chỉ đúng khi d=R"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Hai đường tròn tiếp xúc ngoài có bao nhiêu tiếp tuyến chung?",
+    "options": ["3", "1", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Công thức tính độ dài cung tròn n° của đường tròn bán kính R là:",
+    "options": ["l = (πRn)/180", "l = (πR²n)/360", "l = 2πR", "l = πR²"],
+    "correctAnswer": "l = (πRn)/180"
+  },
+  {
+    "question": "Công thức tính diện tích hình quạt tròn n° của đường tròn bán kính R là:",
+    "options": ["S = (πR²n)/360", "S = (πRn)/180", "S = lR/2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho đường tròn (O; 5cm) và dây AB = 8cm. Khoảng cách từ O đến dây AB là:",
+    "options": ["3 cm", "4 cm", "5 cm", "√41 cm"],
+    "correctAnswer": "3 cm"
+  },
+  {
+    "question": "Đường thẳng d tiếp xúc với đường tròn (O; R) tại A khi:",
+    "options": ["d vuông góc với OA tại A", "d song song với OA", "Khoảng cách từ O đến d lớn hơn R", "Khoảng cách từ O đến d nhỏ hơn R"],
+    "correctAnswer": "d vuông góc với OA tại A"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) cắt nhau khi:",
+    "options": ["R - r < OO' < R + r", "OO' > R + r", "OO' < R - r", "OO' = R + r"],
+    "correctAnswer": "R - r < OO' < R + r"
+  },
+  {
+    "question": "Trong một đường tròn, hai dây bằng nhau thì:",
+    "options": ["Cách đều tâm", "Không cách đều tâm", "Song song với nhau", "Vuông góc với nhau"],
+    "correctAnswer": "Cách đều tâm"
+  },
+  {
+    "question": "Số đo của nửa đường tròn là:",
+    "options": ["180°", "360°", "90°", "π"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Diện tích hình vành khuyên giới hạn bởi hai đường tròn đồng tâm (O; R) và (O; r) với R>r là:",
+    "options": ["S = π(R² - r²)", "S = π(R - r)²", "S = π(R² + r²)", "S = 2π(R - r)"],
+    "correctAnswer": "S = π(R² - r²)"
+  },
+  {
+    "question": "Đường thẳng và đường tròn không giao nhau khi khoảng cách d từ tâm đến đường thẳng:",
+    "options": ["d > R", "d < R", "d = R", "d = 0"],
+    "correctAnswer": "d > R"
+  },
+  {
+    "question": "Hai đường tròn đựng nhau khi:",
+    "options": ["OO' < R - r", "OO' > R + r", "OO' = R - r", "OO' = R + r"],
+    "correctAnswer": "OO' < R - r"
+  },
+  {
+    "question": "Cho đường tròn (O) và điểm A nằm ngoài đường tròn. Kẻ hai tiếp tuyến AB, AC. Mệnh đề nào sau đây sai?",
+    "options": ["AB = AC", "AO là tia phân giác của góc BAC", "AO vuông góc với BC", "Góc ABC là góc vuông"],
+    "correctAnswer": "Góc ABC là góc vuông"
+  },
+  {
+    "question": "Trong một đường tròn, dây lớn nhất là:",
+    "options": ["Đường kính", "Bán kính", "Dây cung bất kỳ", "Dây vuông góc bán kính"],
+    "correctAnswer": "Đường kính"
+  },
+  {
+    "question": "Đường tròn là hình có:",
+    "options": ["Vô số trục đối xứng", "Một trục đối xứng", "Hai trục đối xứng", "Không có trục đối xứng"],
+    "correctAnswer": "Vô số trục đối xứng"
+  },
+  {
+    "question": "Đường thẳng d cắt đường tròn (O; R) tại hai điểm phân biệt khi:",
+    "options": ["d < R", "d > R", "d = R", "d = 0"],
+    "correctAnswer": "d < R"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) tiếp xúc trong khi:",
+    "options": ["OO' = R - r (R>r)", "OO' = R + r", "OO' < R - r", "R-r < OO' < R+r"],
+    "correctAnswer": "OO' = R - r (R>r)"
+  },
+  {
+    "question": "Cho đường tròn (O; 6cm) và dây CD. Khoảng cách từ O đến CD là 3cm. Độ dài dây CD là:",
+    "options": ["6√3 cm", "6 cm", "3√3 cm", "12 cm"],
+    "correctAnswer": "6√3 cm"
+  },
+  {
+    "question": "Hai cung bằng nhau thì có:",
+    "options": ["Số đo bằng nhau", "Độ dài bằng nhau", "Cả A và B", "Dây căng cung bằng nhau"],
+    "correctAnswer": "Cả A, B và D"
+  },
+  {
+    "question": "Độ dài đường tròn bán kính R được tính bằng công thức:",
+    "options": ["C = 2πR", "C = πR²", "C = πR", "C = 4πR"],
+    "correctAnswer": "C = 2πR"
+  },
+  {
+    "question": "Tâm của đường tròn ngoại tiếp tam giác vuông nằm ở:",
+    "options": ["Trung điểm cạnh huyền", "Đỉnh góc vuông", "Trọng tâm tam giác", "Trực tâm tam giác"],
+    "correctAnswer": "Trung điểm cạnh huyền"
+  },
+  {
+    "question": "Hai đường tròn không giao nhau (ở ngoài nhau) có bao nhiêu tiếp tuyến chung?",
+    "options": ["4", "3", "2", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một đường tròn có thể đi qua bao nhiêu đỉnh của một hình chữ nhật?",
+    "options": ["4", "1", "2", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong hai dây của một đường tròn, dây nào lớn hơn thì:",
+    "options": ["Gần tâm hơn", "Xa tâm hơn", "Bằng nhau", "Song song với nhau"],
+    "correctAnswer": "Gần tâm hơn"
+  },
+  {
+    "question": "Số đo của cung nhỏ trong một đường tròn bằng:",
+    "options": ["Số đo của góc ở tâm chắn cung đó", "Nửa số đo góc ở tâm", "Hai lần số đo góc ở tâm", "Số đo góc nội tiếp"],
+    "correctAnswer": "Số đo của góc ở tâm chắn cung đó"
+  },
+  {
+    "question": "Diện tích hình tròn bán kính R được tính bằng công thức:",
+    "options": ["S = πR²", "S = 2πR", "S = πR", "S = 4/3 πR³"],
+    "correctAnswer": "S = πR²"
+  },
+  {
+    "question": "Đường thẳng và đường tròn có nhiều nhất bao nhiêu điểm chung?",
+    "options": ["2", "1", "Vô số", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hai đường tròn đồng tâm là hai đường tròn:",
+    "options": ["Có cùng tâm", "Có cùng bán kính", "Cắt nhau", "Tiếp xúc"],
+    "correctAnswer": "Có cùng tâm"
+  },
+  {
+    "question": "Cho đường tròn (O; 10cm). Một dây cung cách tâm 6cm có độ dài là:",
+    "options": ["16 cm", "8 cm", "12 cm", "2√34 cm"],
+    "correctAnswer": "16 cm"
+  },
+  {
+    "question": "Trong một đường tròn, các góc nội tiếp cùng chắn một cung thì:",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không bằng nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một hình quạt tròn có bán kính 6cm, số đo cung 60°. Diện tích hình quạt là:",
+    "options": ["6π cm²", "36π cm²", "12π cm²", "π cm²"],
+    "correctAnswer": "6π cm²"
+  },
+  {
+    "question": "Đường thẳng nối tâm của hai đường tròn cắt nhau là:",
+    "options": ["Đường trung trực của dây chung", "Song song với dây chung", "Trùng với dây chung", "Vuông góc với tiếp tuyến chung"],
+    "correctAnswer": "Đường trung trực của dây chung"
+  },
+  {
+    "question": "Đường tròn nội tiếp một tam giác là đường tròn:",
+    "options": ["Tiếp xúc với ba cạnh của tam giác", "Đi qua ba đỉnh của tam giác", "Có tâm là trọng tâm", "Có tâm là trực tâm"],
+    "correctAnswer": "Tiếp xúc với ba cạnh của tam giác"
+  },
+  {
+    "question": "Cho đường tròn (O) và dây AB. Kẻ OH ⊥ AB. Nếu AB = 12cm, OH = 8cm thì bán kính đường tròn là:",
+    "options": ["10 cm", "14 cm", "√20 cm", "20 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Trong một đường tròn, đường kính đi qua trung điểm của một dây không đi qua tâm thì:",
+    "options": ["Vuông góc với dây ấy", "Song song với dây ấy", "Trùng với dây ấy", "Tạo với dây ấy một góc 45°"],
+    "correctAnswer": "Vuông góc với dây ấy"
+  },
+  {
+    "question": "Độ dài cung 90° của đường tròn bán kính R là:",
+    "options": ["πR/2", "πR", "2πR", "πR/4"],
+    "correctAnswer": "πR/2"
+  },
+  {
+    "question": "Vị trí tương đối của đường thẳng và đường tròn phụ thuộc vào:",
+    "options": ["Khoảng cách từ tâm đến đường thẳng và bán kính", "Tọa độ tâm", "Độ dài bán kính", "Phương trình đường thẳng"],
+    "correctAnswer": "Khoảng cách từ tâm đến đường thẳng và bán kính"
+  },
+  {
+    "question": "Hai đường tròn (O; 5cm) và (O'; 3cm) có OO' = 8cm. Vị trí tương đối của chúng là:",
+    "options": ["Tiếp xúc ngoài", "Cắt nhau", "Tiếp xúc trong", "Đựng nhau"],
+    "correctAnswer": "Tiếp xúc ngoài"
+  },
+  {
+    "question": "Đường thẳng d là tiếp tuyến của (O;R) nếu:",
+    "options": ["d(O,d) = R", "d(O,d) < R", "d(O,d) > R", "d(O,d) = 0"],
+    "correctAnswer": "d(O,d) = R"
+  },
+  {
+    "question": "Trong một đường tròn, cung lớn hơn thì:",
+    "options": ["Căng dây lớn hơn", "Căng dây nhỏ hơn", "Có số đo lớn hơn", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Một bánh xe có đường kính 60cm. Khi bánh xe lăn được 10 vòng, quãng đường đi được là:",
+    "options": ["6π m", "600π cm", "Cả A và B", "3π m"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tâm của đường tròn nội tiếp tam giác là giao điểm của:",
+    "options": ["Ba đường phân giác", "Ba đường trung trực", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường phân giác"
+  },
+  {
+    "question": "Hai đường tròn (O; 9cm) và (O'; 4cm) có OO' = 3cm. Vị trí tương đối của chúng là:",
+    "options": ["Đựng nhau", "Tiếp xúc trong", "Cắt nhau", "Tiếp xúc ngoài"],
+    "correctAnswer": "Đựng nhau"
+  },
+  {
+    "question": "Cho đường tròn (O) và điểm M nằm trong đường tròn. Dây AB đi qua M có độ dài nhỏ nhất khi:",
+    "options": ["AB vuông góc với OM", "AB đi qua O", "M là trung điểm AB", "AB song song với một đường kính"],
+    "correctAnswer": "AB vuông góc với OM"
+  },
+  {
+    "question": "Số đo của cung bị chắn bởi một cạnh của tam giác đều nội tiếp đường tròn là:",
+    "options": ["120°", "60°", "90°", "180°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Diện tích hình tròn ngoại tiếp hình vuông cạnh a là:",
+    "options": ["πa²/2", "πa²", "2πa²", "πa²/4"],
+    "correctAnswer": "πa²/2"
+  },
+  {
+    "question": "Đường thẳng và đường tròn có 1 điểm chung được gọi là:",
+    "options": ["Tiếp tuyến", "Cát tuyến", "Đường kính", "Dây cung"],
+    "correctAnswer": "Tiếp tuyến"
+  },
+  {
+    "question": "Hai đường tròn cắt nhau có bao nhiêu tiếp tuyến chung?",
+    "options": ["2", "1", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho đường tròn (O; R) và dây AB = R√3. Số đo cung nhỏ AB là:",
+    "options": ["120°", "60°", "90°", "150°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Trong một đường tròn, hai cung bị chắn giữa hai dây song song thì:",
+    "options": ["Bằng nhau", "Không bằng nhau", "Bù nhau", "Phụ nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một hình vành khuyên có diện tích 75π và bán kính đường tròn lớn gấp đôi bán kính đường tròn nhỏ. Bán kính đường tròn lớn là:",
+    "options": ["10", "5", "15", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Đường thẳng d và đường tròn (O) không có điểm chung. Mệnh đề nào đúng?",
+    "options": ["d(O,d) > R", "d(O,d) < R", "d(O,d) = R", "d(O,d) = 0"],
+    "correctAnswer": "d(O,d) > R"
+  },
+  {
+    "question": "Hai đường tròn (O; 10cm) và (O'; 6cm) có OO' = 4cm. Vị trí tương đối của chúng là:",
+    "options": ["Tiếp xúc trong", "Cắt nhau", "Đựng nhau", "Tiếp xúc ngoài"],
+    "correctAnswer": "Tiếp xúc trong"
+  },
+  {
+    "question": "Từ một điểm A nằm ngoài (O), kẻ tiếp tuyến AB và cát tuyến ACD. Hệ thức nào đúng?",
+    "options": ["AB² = AC.AD", "AB² = AC.CD", "AB = AC + AD", "AB² = AD.CD"],
+    "correctAnswer": "AB² = AC.AD"
+  },
+  {
+    "question": "Trong một đường tròn, dây nào gần tâm hơn thì:",
+    "options": ["Lớn hơn", "Nhỏ hơn", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "Lớn hơn"
+  },
+  {
+    "question": "Số đo của toàn bộ đường tròn là:",
+    "options": ["360°", "180°", "2π rad", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho đường tròn (O;R). Độ dài cung tròn 120° là:",
+    "options": ["2πR/3", "πR/3", "πR/2", "πR"],
+    "correctAnswer": "2πR/3"
+  },
+  {
+    "question": "Đường thẳng d là cát tuyến của (O;R) nếu:",
+    "options": ["d(O,d) < R", "d(O,d) > R", "d(O,d) = R", "d(O,d) = 2R"],
+    "correctAnswer": "d(O,d) < R"
+  },
+  {
+    "question": "Hai đường tròn đồng tâm (O; R) và (O; r) với R>r. Vị trí tương đối của chúng là:",
+    "options": ["Đựng nhau", "Tiếp xúc trong", "Cắt nhau", "Ngoài nhau"],
+    "correctAnswer": "Đựng nhau"
+  },
+  {
+    "question": "Cho đường tròn (O; 5cm) và điểm A cách O một khoảng 13cm. Độ dài tiếp tuyến kẻ từ A đến đường tròn là:",
+    "options": ["12 cm", "18 cm", "8 cm", "√194 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Trong một đường tròn, đường kính là:",
+    "options": ["Dây cung lớn nhất", "Dây cung đi qua tâm", "Cả A và B", "Trục đối xứng"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hình quạt tròn có diện tích bằng diện tích hình tròn có cùng bán kính khi góc ở tâm là:",
+    "options": ["360°", "180°", "90°", "Không có"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Đường nối tâm của hai đường tròn tiếp xúc nhau thì:",
+    "options": ["Đi qua tiếp điểm", "Vuông góc với tiếp tuyến chung", "Cả A và B", "Song song với tiếp tuyến chung"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tâm của đường tròn bàng tiếp tam giác là giao điểm của:",
+    "options": ["Một đường phân giác trong và hai đường phân giác ngoài", "Ba đường phân giác trong", "Ba đường trung trực", "Ba đường cao"],
+    "correctAnswer": "Một đường phân giác trong và hai đường phân giác ngoài"
+  },
+  {
+    "question": "Cho đường tròn (O; R) và dây AB = R. Số đo cung nhỏ AB là:",
+    "options": ["60°", "90°", "120°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong một đường tròn, góc nội tiếp chắn nửa đường tròn là:",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Một đồng hồ có kim phút dài 10cm. Trong 15 phút, đầu kim phút đi được một quãng đường là:",
+    "options": ["5π cm", "10π cm", "15π cm", "2.5π cm"],
+    "correctAnswer": "5π cm"
+  },
+  {
+    "question": "Cho đường thẳng a và điểm O cách a một khoảng 3cm. Vẽ đường tròn (O; 5cm). Vị trí tương đối của a và (O) là:",
+    "options": ["Cắt nhau", "Tiếp xúc", "Không giao nhau", "Đi qua tâm"],
+    "correctAnswer": "Cắt nhau"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) có OO' = d. Nếu d > R+r thì chúng:",
+    "options": ["Ở ngoài nhau", "Cắt nhau", "Tiếp xúc ngoài", "Đựng nhau"],
+    "correctAnswer": "Ở ngoài nhau"
+  },
+  {
+    "question": "Một tam giác có độ dài 3 cạnh là 6, 8, 10. Bán kính đường tròn ngoại tiếp là:",
+    "options": ["5", "10", "4", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Cho đường tròn (O) và hai dây song song AB, CD. Khi đó:",
+    "options": ["Cung AC = Cung BD", "Cung AD = Cung BC", "Cả A và B", "AB = CD"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Diện tích hình tròn bán kính 2cm là:",
+    "options": ["4π cm²", "2π cm²", "8π cm²", "16π cm²"],
+    "correctAnswer": "4π cm²"
+  },
+  {
+    "question": "Đường thẳng và đường tròn có 2 điểm chung được gọi là:",
+    "options": ["Cát tuyến", "Tiếp tuyến", "Đường kính", "Dây cung"],
+    "correctAnswer": "Cát tuyến"
+  },
+  {
+    "question": "Hai đường tròn tiếp xúc trong có bao nhiêu tiếp tuyến chung?",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho đường tròn (O; 13cm) và dây AB cách tâm 5cm. Độ dài dây AB là:",
+    "options": ["24 cm", "12 cm", "18 cm", "26 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Trong một đường tròn, góc ở tâm có số đo:",
+    "options": ["Bằng số đo cung bị chắn", "Bằng nửa số đo cung bị chắn", "Gấp đôi số đo cung bị chắn", "Bằng 180°"],
+    "correctAnswer": "Bằng số đo cung bị chắn"
+  },
+  {
+    "question": "Một hình quạt tròn có bán kính R và độ dài cung là l. Diện tích hình quạt là:",
+    "options": ["S = lR/2", "S = lR", "S = 2lR", "S = l/R"],
+    "correctAnswer": "S = lR/2"
+  },
+  {
+    "question": "Tâm của đường tròn ngoại tiếp một tam giác là giao điểm của:",
+    "options": ["Ba đường trung trực", "Ba đường phân giác", "Ba đường cao", "Ba đường trung tuyến"],
+    "correctAnswer": "Ba đường trung trực"
+  },
+  {
+    "question": "Hai đường tròn (O; 7cm) và (O'; 2cm) có OO' = 10cm. Vị trí tương đối của chúng là:",
+    "options": ["Ngoài nhau", "Cắt nhau", "Tiếp xúc ngoài", "Đựng nhau"],
+    "correctAnswer": "Ngoài nhau"
+  },
+  {
+    "question": "Cho đường tròn (O; R) và một điểm M sao cho OM = R. Khi đó:",
+    "options": ["M nằm trên đường tròn", "M nằm trong đường tròn", "M nằm ngoài đường tròn", "M là tâm"],
+    "correctAnswer": "M nằm trên đường tròn"
+  },
+  {
+    "question": "Trong một đường tròn, hai dây cách đều tâm thì:",
+    "options": ["Bằng nhau", "Không bằng nhau", "Song song", "Vuông góc"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số đo cung lớn của một đường tròn bằng:",
+    "options": ["360° trừ đi số đo cung nhỏ", "Số đo cung nhỏ", "180°", "360°"],
+    "correctAnswer": "360° trừ đi số đo cung nhỏ"
+  },
+  {
+    "question": "Độ dài đường tròn có đường kính 10cm là:",
+    "options": ["10π cm", "5π cm", "20π cm", "25π cm"],
+    "correctAnswer": "10π cm"
+  },
+  {
+    "question": "Đường thẳng d và đường tròn (O) có 2 điểm chung A, B. Khi đó d được gọi là:",
+    "options": ["Cát tuyến", "Tiếp tuyến", "Đường kính", "Bán kính"],
+    "correctAnswer": "Cát tuyến"
+  },
+  {
+    "question": "Hai đường tròn đồng tâm (O; 5cm) và (O; 3cm). Vị trí tương đối của chúng là:",
+    "options": ["Đựng nhau", "Cắt nhau", "Tiếp xúc trong", "Ngoài nhau"],
+    "correctAnswer": "Đựng nhau"
+  },
+  {
+    "question": "Cho đường tròn (O) và một dây CD. Từ O kẻ OE ⊥ CD. Nếu CD = 16cm, OE = 6cm thì bán kính đường tròn là:",
+    "options": ["10 cm", "8 cm", "12 cm", "22 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Trong một đường tròn, góc nội tiếp có số đo:",
+    "options": ["Bằng nửa số đo của cung bị chắn", "Bằng số đo của cung bị chắn", "Gấp đôi số đo của cung bị chắn", "Bằng 90°"],
+    "correctAnswer": "Bằng nửa số đo của cung bị chắn"
+  },
+  {
+    "question": "Một hình tròn có diện tích 16π cm². Chu vi của hình tròn đó là:",
+    "options": ["8π cm", "4π cm", "16π cm", "32π cm"],
+    "correctAnswer": "8π cm"
+  },
+  {
+    "question": "Đường thẳng và đường tròn tiếp xúc nhau có mấy điểm chung?",
+    "options": ["1", "2", "0", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hai đường tròn (O; R) và (O'; r) có OO' = d. Nếu d < |R-r| thì chúng:",
+    "options": ["Đựng nhau", "Tiếp xúc trong", "Cắt nhau", "Ngoài nhau"],
+    "correctAnswer": "Đựng nhau"
+  }
+]
+
