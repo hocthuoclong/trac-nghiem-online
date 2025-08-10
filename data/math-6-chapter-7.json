@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Số thập phân 'Ba mươi hai phẩy năm mươi mốt' được viết là:",
+    "options": ["32,51", "302,51", "32,051", "3251"],
+    "correctAnswer": "32,51"
+  },
+  {
+    "question": "Trong số thập phân 123,456, chữ số 5 có giá trị là:",
+    "options": ["5/100", "5", "5/10", "5/1000"],
+    "correctAnswer": "5/100"
+  },
+  {
+    "question": "Phân số 27/100 được viết dưới dạng số thập phân là:",
+    "options": ["0,27", "2,7", "0,027", "27,0"],
+    "correctAnswer": "0,27"
+  },
+  {
+    "question": "So sánh hai số thập phân 12,34 và 12,4.",
+    "options": ["12,34 < 12,4", "12,34 > 12,4", "12,34 = 12,4", "Không so sánh được"],
+    "correctAnswer": "12,34 < 12,4"
+  },
+  {
+    "question": "Kết quả của phép cộng 25,8 + 7,5 là:",
+    "options": ["33,3", "32,3", "22,3", "33,13"],
+    "correctAnswer": "33,3"
+  },
+  {
+    "question": "Kết quả của phép trừ 15,2 - 8,6 là:",
+    "options": ["6,6", "7,6", "23,8", "6,4"],
+    "correctAnswer": "6,6"
+  },
+  {
+    "question": "Kết quả của phép nhân 2,5 . 4 là:",
+    "options": ["10", "1", "100", "8,20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Kết quả của phép chia 12,5 : 5 là:",
+    "options": ["2,5", "25", "0,25", "1,25"],
+    "correctAnswer": "2,5"
+  },
+  {
+    "question": "Làm tròn số 13,762 đến hàng phần mười ta được:",
+    "options": ["13,8", "13,7", "13,76", "14"],
+    "correctAnswer": "13,8"
+  },
+  {
+    "question": "Làm tròn số 8754 đến hàng trăm ta được:",
+    "options": ["8800", "8700", "8750", "9000"],
+    "correctAnswer": "8800"
+  },
+  {
+    "question": "Tỉ số của hai số 5 và 10 là:",
+    "options": ["1/2", "5/10", "0,5", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Tỉ số phần trăm của 3 và 4 là:",
+    "options": ["75%", "34%", "43%", "133%"],
+    "correctAnswer": "75%"
+  },
+  {
+    "question": "Tìm 25% của 80.",
+    "options": ["20", "25", "40", "50"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Tìm một số biết 50% của nó là 15.",
+    "options": ["30", "7,5", "50", "100"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Một lớp học có 40 học sinh, trong đó có 24 học sinh nữ. Tỉ số phần trăm của học sinh nữ so với cả lớp là:",
+    "options": ["60%", "40%", "24%", "50%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "question": "Số 0,009 đọc là:",
+    "options": ["Không phẩy không không chín", "Không phẩy không chín", "Không phẩy chín", "Chín phần nghìn"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Số thập phân gồm 'mười hai đơn vị, năm phần mười, tám phần nghìn' được viết là:",
+    "options": ["12,508", "12,58", "12,058", "12508"],
+    "correctAnswer": "12,508"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự tăng dần: 5,67; 5,76; 5,067; 5,607",
+    "options": ["5,067; 5,607; 5,67; 5,76", "5,76; 5,67; 5,607; 5,067", "5,067; 5,67; 5,607; 5,76", "5,67; 5,76; 5,067; 5,607"],
+    "correctAnswer": "5,067; 5,607; 5,67; 5,76"
+  },
+  {
+    "question": "Tìm x, biết x + 3,2 = 5.",
+    "options": ["x = 1,8", "x = 8,2", "x = 2,8", "x = 1,2"],
+    "correctAnswer": "x = 1,8"
+  },
+  {
+    "question": "Tìm x, biết 10 - x = 4,5.",
+    "options": ["x = 5,5", "x = 14,5", "x = 6,5", "x = -5,5"],
+    "correctAnswer": "x = 5,5"
+  },
+  {
+    "question": "Kết quả của phép nhân 1,25 . 0,8 là:",
+    "options": ["1", "10", "0,1", "100"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép chia 7,2 : 0,9 là:",
+    "options": ["8", "0,8", "80", "0,08"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Làm tròn số 28,49 đến hàng đơn vị.",
+    "options": ["28", "29", "28,5", "30"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "Ước lượng kết quả của phép tính 49,8 + 25,1.",
+    "options": ["Khoảng 75", "Khoảng 70", "Khoảng 80", "Khoảng 25"],
+    "correctAnswer": "Khoảng 75"
+  },
+  {
+    "question": "Tỉ số của 15 phút và 1 giờ là:",
+    "options": ["1/4", "15", "1/15", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một chiếc xe đạp có giá 2.000.000 đồng. Cửa hàng giảm giá 10%. Giá mới của chiếc xe là:",
+    "options": ["1.800.000 đồng", "200.000 đồng", "2.200.000 đồng", "1.900.000 đồng"],
+    "correctAnswer": "1.800.000 đồng"
+  },
+  {
+    "question": "Tìm một số biết 75% của nó là 300.",
+    "options": ["400", "225", "375", "500"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Chữ số 7 trong số 56,879 thuộc hàng nào?",
+    "options": ["Hàng phần trăm", "Hàng phần mười", "Hàng phần nghìn", "Hàng đơn vị"],
+    "correctAnswer": "Hàng phần trăm"
+  },
+  {
+    "question": "Số thập phân 0,5 bằng phân số nào sau đây?",
+    "options": ["1/2", "5/10", "50/100", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Kết quả của phép tính 12,34 + 5,67 - 2,34 là:",
+    "options": ["15,67", "10", "13,67", "18,01"],
+    "correctAnswer": "15,67"
+  },
+  {
+    "question": "Kết quả của phép tính 0,25 * 12 là:",
+    "options": ["3", "48", "30", "0,3"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Kết quả của phép chia 15 : 4 là:",
+    "options": ["3,75", "3,25", "3,5", "4,25"],
+    "correctAnswer": "3,75"
+  },
+  {
+    "question": "Làm tròn số 0,8152 đến hàng phần trăm.",
+    "options": ["0,82", "0,81", "0,8", "0,815"],
+    "correctAnswer": "0,82"
+  },
+  {
+    "question": "Ước lượng tích của 9,8 và 5,1.",
+    "options": ["Khoảng 50", "Khoảng 45", "Khoảng 55", "Khoảng 15"],
+    "correctAnswer": "Khoảng 50"
+  },
+  {
+    "question": "Tỉ số của 500g và 2kg là:",
+    "options": ["1/4", "500/2", "250", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "15% của 300 là:",
+    "options": ["45", "15", "30", "50"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Một mảnh đất có diện tích 500 m², trong đó diện tích trồng hoa chiếm 40%. Diện tích trồng hoa là:",
+    "options": ["200 m²", "40 m²", "250 m²", "100 m²"],
+    "correctAnswer": "200 m²"
+  },
+  {
+    "question": "Số lớn nhất trong các số 0,19; 0,9; 0,109; 0,099 là:",
+    "options": ["0,9", "0,19", "0,109", "0,099"],
+    "correctAnswer": "0,9"
+  },
+  {
+    "question": "Tìm x, biết 2,5 * x = 10.",
+    "options": ["x = 4", "x = 25", "x = 0,25", "x = 12,5"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Tìm x, biết x : 0,1 = 25.",
+    "options": ["x = 2,5", "x = 250", "x = 0,025", "x = 25"],
+    "correctAnswer": "x = 2,5"
+  },
+  {
+    "question": "Làm tròn số 123456 đến hàng nghìn.",
+    "options": ["123000", "124000", "120000", "123500"],
+    "correctAnswer": "123000"
+  },
+  {
+    "question": "Tỉ số phần trăm của 2 và 5 là:",
+    "options": ["40%", "25%", "52%", "2,5%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Giá một quyển sách tăng từ 20.000 đồng lên 25.000 đồng. Hỏi giá sách đã tăng bao nhiêu phần trăm?",
+    "options": ["25%", "20%", "5%", "50%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "question": "Tìm một số biết 120% của nó là 60.",
+    "options": ["50", "72", "180", "100"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số 12,035 có phần thập phân là:",
+    "options": ["035", "35", "12", "12035"],
+    "correctAnswer": "035"
+  },
+  {
+    "question": "Kết quả của phép tính 10,5 + 2,5 * 2 là:",
+    "options": ["15,5", "26", "13", "14,5"],
+    "correctAnswer": "15,5"
+  },
+  {
+    "question": "Kết quả của phép tính (10,5 + 2,5) * 2 là:",
+    "options": ["26", "15,5", "13", "25"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "Làm tròn số 9,98 đến hàng phần mười.",
+    "options": ["10,0", "9,9", "9,98", "10"],
+    "correctAnswer": "10,0"
+  },
+  {
+    "question": "Ước lượng kết quả của phép chia 98,7 : 9,9.",
+    "options": ["Khoảng 10", "Khoảng 9", "Khoảng 11", "Khoảng 100"],
+    "correctAnswer": "Khoảng 10"
+  },
+  {
+    "question": "Tỉ số của 2,5 và 10 là:",
+    "options": ["1/4", "2,5", "4", "25"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "10% của 1 giờ là bao nhiêu phút?",
+    "options": ["6 phút", "10 phút", "1 phút", "60 phút"],
+    "correctAnswer": "6 phút"
+  },
+  {
+    "question": "Một người gửi tiết kiệm 10.000.000 đồng với lãi suất 6% một năm. Sau một năm, người đó nhận được cả vốn lẫn lãi là bao nhiêu?",
+    "options": ["10.600.000 đồng", "600.000 đồng", "16.000.000 đồng", "10.060.000 đồng"],
+    "correctAnswer": "10.600.000 đồng"
+  },
+  {
+    "question": "Số thập phân nhỏ nhất có 2 chữ số khác nhau ở phần thập phân mà lớn hơn 0,5 là:",
+    "options": ["0,51", "0,50", "0,6", "0,52"],
+    "correctAnswer": "0,51"
+  },
+  {
+    "question": "Tìm x, biết 12,5 - 2x = 2,5.",
+    "options": ["x = 5", "x = 10", "x = 7,5", "x = 2,5"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Kết quả của phép tính 1,2 * 1,2 là:",
+    "options": ["1,44", "14,4", "0,144", "2,4"],
+    "correctAnswer": "1,44"
+  },
+  {
+    "question": "Kết quả của phép chia 1 : 8 là:",
+    "options": ["0,125", "1,25", "0,8", "8"],
+    "correctAnswer": "0,125"
+  },
+  {
+    "question": "Làm tròn số 345,678 đến hàng chục.",
+    "options": ["350", "340", "345", "346"],
+    "correctAnswer": "350"
+  },
+  {
+    "question": "Một chiếc bánh giá 50.000 đồng. Nếu mua 2 chiếc sẽ được giảm 15% trên tổng hóa đơn. Số tiền phải trả là:",
+    "options": ["85.000 đồng", "100.000 đồng", "70.000 đồng", "92.500 đồng"],
+    "correctAnswer": "85.000 đồng"
+  },
+  {
+    "question": "Tìm một số, biết rằng 2/5 của nó bằng 20.",
+    "options": ["50", "8", "40", "100"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số 123,45 được phân tích thành:",
+    "options": ["100 + 20 + 3 + 0,4 + 0,05", "1*100 + 2*10 + 3*1 + 4/10 + 5/100", "Cả A và B đều đúng", "123 + 45/100"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tìm số tự nhiên x, biết 5,4 < x < 6,1.",
+    "options": ["x = 6", "x = 5", "x = 5,5", "Không có x"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Kết quả của phép tính 3,5 + 4,5 - 2,5 + 1,5 là:",
+    "options": ["7", "6", "8", "7,5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Kết quả của phép tính 0,1 * 0,01 * 1000 là:",
+    "options": ["1", "10", "0,1", "100"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép chia 36 : 0,1 là:",
+    "options": ["360", "3,6", "0,36", "3600"],
+    "correctAnswer": "360"
+  },
+  {
+    "question": "Làm tròn số 789 đến hàng cao nhất của nó.",
+    "options": ["800", "700", "790", "1000"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Tỉ số của hai số a và b là 3/5. Tỉ số phần trăm của a và b là:",
+    "options": ["60%", "35%", "53%", "166%"],
+    "correctAnswer": "60%"
+  },
+  {
+    "question": "Một trường có 800 học sinh. Số học sinh nữ chiếm 52%. Số học sinh nam của trường là:",
+    "options": ["384", "416", "400", "480"],
+    "correctAnswer": "384"
+  },
+  {
+    "question": "Số 0,121212... được viết dưới dạng phân số tối giản là:",
+    "options": ["4/33", "12/100", "3/25", "12/99"],
+    "correctAnswer": "4/33"
+  },
+  {
+    "question": "Tìm x, biết x * 1,5 = 4,5.",
+    "options": ["x = 3", "x = 6", "x = 6,75", "x = 1,5"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Kết quả của phép tính 100 * 0,01 là:",
+    "options": ["1", "10", "0,1", "1000"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính 100 : 0,1 là:",
+    "options": ["1000", "10", "1", "0,01"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Làm tròn số 4,5 đến hàng đơn vị.",
+    "options": ["5", "4", "4,5", "Không làm tròn được"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Ước lượng kết quả của phép tính 20,3 * 4,9.",
+    "options": ["Khoảng 100", "Khoảng 80", "Khoảng 90", "Khoảng 110"],
+    "correctAnswer": "Khoảng 100"
+  },
+  {
+    "question": "Tỉ số của 30cm và 2m là:",
+    "options": ["3/20", "30/2", "15", "20/3"],
+    "correctAnswer": "3/20"
+  },
+  {
+    "question": "1% của 1 triệu đồng là:",
+    "options": ["10.000 đồng", "1.000 đồng", "100.000 đồng", "1 đồng"],
+    "correctAnswer": "10.000 đồng"
+  },
+  {
+    "question": "Năm nay dân số một xã là 10.000 người. Tỉ lệ tăng dân số là 2% mỗi năm. Hỏi năm sau dân số xã đó là bao nhiêu người?",
+    "options": ["10.200 người", "12.000 người", "10.020 người", "10.002 người"],
+    "correctAnswer": "10.200 người"
+  },
+  {
+    "question": "Số thập phân 5,007 có phần nguyên là:",
+    "options": ["5", "5007", "0", "7"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tìm hai số tự nhiên x, y biết 1,2 < x < y < 3,4.",
+    "options": ["x=2, y=3", "x=1, y=2", "x=1, y=3", "x=2, y=4"],
+    "correctAnswer": "x=2, y=3"
+  },
+  {
+    "question": "Kết quả của phép tính 1,2 + 1,3 + 1,4 + 1,5 + 1,6 là:",
+    "options": ["7", "6,9", "7,1", "7,5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Kết quả của phép tính 0,5 : 0,25 là:",
+    "options": ["2", "0,5", "0,125", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Kết quả của phép tính 12,3 : 100 là:",
+    "options": ["0,123", "1,23", "1230", "0,0123"],
+    "correctAnswer": "0,123"
+  },
+  {
+    "question": "Làm tròn số 1999 đến hàng nghìn.",
+    "options": ["2000", "1000", "1900", "1990"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Tỉ số của 20 giây và 2 phút là:",
+    "options": ["1/6", "20/2", "10", "6"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Một chiếc máy tính giá 15.000.000 đồng, đã bao gồm 10% thuế VAT. Số tiền thuế VAT là:",
+    "options": ["Khoảng 1.363.636 đồng", "1.500.000 đồng", "1.000.000 đồng", "1.650.000 đồng"],
+    "correctAnswer": "Khoảng 1.363.636 đồng"
+  },
+  {
+    "question": "Tìm một số biết rằng 1/5 của số đó bằng 1,2.",
+    "options": ["6", "0,24", "5", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số 3,14159... là một số:",
+    "options": ["Thập phân vô hạn không tuần hoàn", "Thập phân vô hạn tuần hoàn", "Thập phân hữu hạn", "Hữu tỉ"],
+    "correctAnswer": "Thập phân vô hạn không tuần hoàn"
+  },
+  {
+    "question": "Tìm x, biết x/10 = 2,5.",
+    "options": ["x = 25", "x = 0,25", "x = 4", "x = 10"],
+    "correctAnswer": "x = 25"
+  },
+  {
+    "question": "Kết quả của phép tính 1,5 * 2 + 3 là:",
+    "options": ["6", "9", "5,5", "7,5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Kết quả của phép tính 10 : (2,5 * 2) là:",
+    "options": ["2", "20", "5", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Làm tròn số 5,555 đến hàng đơn vị.",
+    "options": ["6", "5", "5,6", "5,5"],
+    "correctAnswer": "6"
+  }
+]
+
