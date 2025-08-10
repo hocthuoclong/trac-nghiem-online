@@ -12,6 +12,10 @@
                 {
                   "name": "Chương 1: Số hữu tỉ",
                   "file": "./data/math-7-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Số thực",
+                  "file": "./data/math-7-chapter-2.json"
                 }
               ]
             },
