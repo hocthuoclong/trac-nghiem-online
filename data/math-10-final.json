@@ -1,0 +1,403 @@
+[
+  {
+    "question": "Mệnh đề phủ định của mệnh đề 'Tất cả học sinh đều chăm học' là:",
+    "options": ["Tồn tại một học sinh không chăm học.", "Tất cả học sinh đều không chăm học.", "Tồn tại một học sinh chăm học.", "Không có học sinh nào chăm học."],
+    "correctAnswer": "Tồn tại một học sinh không chăm học."
+  },
+  {
+    "question": "Cặp số (1; -1) là nghiệm của bất phương trình nào sau đây?",
+    "options": ["x + y > 0", "2x - y < 2", "x + 2y < 0", "x - y > 3"],
+    "correctAnswer": "x + 2y < 0"
+  },
+  {
+    "question": "Trong tam giác ABC, định lý cosin cho cạnh a là:",
+    "options": ["a² = b² + c² - 2bc.cos(A)", "a² = b² + c² + 2bc.cos(A)", "a/sin(A) = 2R", "S = (1/2)bc.sin(A)"],
+    "correctAnswer": "a² = b² + c² - 2bc.cos(A)"
+  },
+  {
+    "question": "Cho hình bình hành ABCD tâm O. Đẳng thức vectơ nào sau đây sai?",
+    "options": ["vectơ OA + vectơ OB = vectơ OC + vectơ OD", "vectơ AB + vectơ AD = vectơ AC", "vectơ BA + vectơ BC = vectơ BD", "vectơ OA + vectơ OC = vectơ 0"],
+    "correctAnswer": "vectơ OA + vectơ OB = vectơ OC + vectơ OD"
+  },
+  {
+    "question": "Cho mẫu số liệu: 10, 8, 6, 4, 2. Số trung bình của mẫu là:",
+    "options": ["6", "8", "10", "4"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tập xác định của hàm số y = x² - 2x + 5 là:",
+    "options": ["R", "(-∞; 1]", "[1; +∞)", "[4; +∞)"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Đường thẳng d: x - 2y + 4 = 0 có một vectơ chỉ phương là:",
+    "options": ["u=(2; 1)", "u=(1; -2)", "u=(2; -1)", "u=(1; 2)"],
+    "correctAnswer": "u=(2; 1)"
+  },
+  {
+    "question": "Có bao nhiêu cách chọn 2 học sinh từ một nhóm có 10 học sinh?",
+    "options": ["45", "90", "20", "100"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt xuất hiện có số chấm là 6 là:",
+    "options": ["1/6", "1", "0", "6"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Cho A = {x ∈ N | x < 3} và B = {x ∈ Z | -1 ≤ x ≤ 1}. Tập hợp A ∪ B là:",
+    "options": ["{-1, 0, 1, 2}", "{-1, 0, 1}", "{0, 1, 2}", "{0, 1}"],
+    "correctAnswer": "{-1, 0, 1, 2}"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=2x+y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤2} là:",
+    "options": ["4", "2", "3", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho tam giác ABC có a=7, b=8, c=5. Góc A bằng:",
+    "options": ["60°", "45°", "90°", "120°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(1; 3) và b=(-2; 1). Tọa độ của vectơ 2a - b là:",
+    "options": ["(4; 5)", "(0; 7)", "(4; 7)", "(-1; 2)"],
+    "correctAnswer": "(4; 5)"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu: 1, 5, 2, 8, 7, 4, 3 là:",
+    "options": ["4", "5", "8", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Parabol y = x² - 2x + 1 có đỉnh là:",
+    "options": ["I(1; 0)", "I(-1; 4)", "I(1; 1)", "I(2; 1)"],
+    "correctAnswer": "I(1; 0)"
+  },
+  {
+    "question": "Phương trình đường tròn tâm I(3; 0) và bán kính R=2 là:",
+    "options": ["(x-3)² + y² = 4", "(x+3)² + y² = 4", "x² + (y-3)² = 4", "x²+y²-6x+5=0"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Có bao nhiêu số tự nhiên có 3 chữ số khác nhau được lập từ các chữ số 1, 2, 3, 4, 5?",
+    "options": ["60", "125", "120", "20"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh, 4 bi đỏ, 5 bi vàng. Lấy ngẫu nhiên 1 bi. Xác suất để bi đó không phải màu đỏ là:",
+    "options": ["2/3", "8/12", "Cả A và B", "4/12"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Mệnh đề 'Nếu một số chia hết cho 4 thì nó chia hết cho 2' có mệnh đề đảo là:",
+    "options": ["Nếu một số chia hết cho 2 thì nó chia hết cho 4", "Nếu một số không chia hết cho 4 thì nó không chia hết cho 2", "Nếu một số không chia hết cho 2 thì nó không chia hết cho 4", "Cả A và C"],
+    "correctAnswer": "Nếu một số chia hết cho 2 thì nó chia hết cho 4"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x + 2y < 2 là nửa mặt phẳng không chứa điểm nào sau đây?",
+    "options": ["(2; 1)", "(0; 0)", "(1; 0)", "(-1; 1)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Giá trị của sin(135°) là:",
+    "options": ["√2/2", "-√2/2", "1/2", "-1/2"],
+    "correctAnswer": "√2/2"
+  },
+  {
+    "question": "Cho hình vuông ABCD cạnh a. Độ dài của vectơ AB - AD là:",
+    "options": ["a√2", "a", "2a", "0"],
+    "correctAnswer": "a√2"
+  },
+  {
+    "question": "Khoảng biến thiên của mẫu số liệu: 100, 102, 105, 108, 110 là:",
+    "options": ["10", "100", "110", "5"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hàm số y = -x² + 2x đồng biến trên khoảng:",
+    "options": ["(-∞; 1)", "(1; +∞)", "(-∞; 2)", "(2; +∞)"],
+    "correctAnswer": "(-∞; 1)"
+  },
+  {
+    "question": "Đường thẳng d: {x=2+t; y=3-2t} có một vectơ pháp tuyến là:",
+    "options": ["n=(2; 1)", "n=(1; -2)", "n=(2; -1)", "n=(1; 2)"],
+    "correctAnswer": "n=(2; 1)"
+  },
+  {
+    "question": "Trong khai triển (a-b)⁶, hệ số của số hạng a⁴b² là:",
+    "options": ["15", "-15", "6", "20"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 11 là:",
+    "options": ["1/18", "2/36", "Cả A và B", "1/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho A = [1; 5] và B = (2; 6). A \\ B là:",
+    "options": ["[1; 2]", "[1; 2)", "(1; 2]", "(5; 6)"],
+    "correctAnswer": "[1; 2]"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=x+y trên miền nghiệm của hệ {x≥0; y≥0; 2x+y≥2; x+2y≥2} là:",
+    "options": ["4/3", "2", "1", "0"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Cho tam giác ABC có a=4, b=5, c=6. Bán kính đường tròn ngoại tiếp R là:",
+    "options": ["8/√7", "16/√7", "√7/8", "15/4"],
+    "correctAnswer": "8/√7"
+  },
+  {
+    "question": "Cho tam giác ABC đều cạnh a tâm O. Độ dài của vectơ OA là:",
+    "options": ["a√3/3", "a√3/2", "2a/3", "a"],
+    "correctAnswer": "a√3/3"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 2, 3, 4, 5, 6, 7. Khoảng tứ phân vị là:",
+    "options": ["4", "2", "6", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình x² - 4 ≤ 0 là:",
+    "options": ["[-2; 2]", "(-2; 2)", "(-∞; -2] ∪ [2; +∞)", "R"],
+    "correctAnswer": "[-2; 2]"
+  },
+  {
+    "question": "Phương trình đường tròn x² + y² + 2x - 8y + 8 = 0 có bán kính là:",
+    "options": ["3", "9", "√8", "√17"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Số cách xếp 6 người vào một bàn tròn 6 ghế là:",
+    "options": ["120", "720", "6", "5"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Một hộp có 10 bi trắng và 5 bi đen. Lấy ngẫu nhiên 3 bi. Xác suất để có đúng 1 bi trắng là:",
+    "options": ["20/91", "C(10,1)C(5,2)/C(15,3)", "100/455", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Hàm số y = x / (x²+1) là hàm số:",
+    "options": ["Lẻ", "Chẵn", "Không chẵn không lẻ", "Hằng"],
+    "correctAnswer": "Lẻ"
+  },
+  {
+    "question": "Góc giữa hai đường thẳng d₁: 3x-y+1=0 và d₂: x+2y-5=0 là:",
+    "options": ["45°", "90°", "60°", "30°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Số hạng không chứa x trong khai triển (x² - 1/x)⁹ là:",
+    "options": ["-84", "84", "C(9,6)", "-C(9,3)"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tung một đồng xu 4 lần. Xác suất để có đúng 2 mặt sấp là:",
+    "options": ["3/8", "6/16", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phương trình √(x²-3) = x-1 có nghiệm là:",
+    "options": ["x=2", "x=-1", "x=1", "Vô nghiệm"],
+    "correctAnswer": "x=2"
+  },
+  {
+    "question": "Elip (E): x²/16 + y²/9 = 1 có tâm sai là:",
+    "options": ["√7/4", "7/16", "4/√7", "16/7"],
+    "correctAnswer": "√7/4"
+  },
+  {
+    "question": "Từ một nhóm 10 người, chọn ra một đội trưởng, một đội phó và một thư ký. Số cách chọn là:",
+    "options": ["720", "120", "1000", "30"],
+    "correctAnswer": "720"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là một số chia hết cho 5 là:",
+    "options": ["7/36", "1/6", "5/36", "8/36"],
+    "correctAnswer": "7/36"
+  },
+  {
+    "question": "Parabol y = ax² + bx + c đi qua A(1;1), B(-1;3) và có trục đối xứng x=2. Parabol đó là:",
+    "options": ["y = -x² + 4x - 2", "y = x² - 4x + 4", "y = -x² - 4x + 6", "Không tồn tại"],
+    "correctAnswer": "y = -x² + 4x - 2"
+  },
+  {
+    "question": "Đường thẳng đi qua A(1;2) và vuông góc với d: x-y+3=0 có phương trình:",
+    "options": ["x + y - 3 = 0", "x - y + 1 = 0", "x + y + 3 = 0", "x - y - 1 = 0"],
+    "correctAnswer": "x + y - 3 = 0"
+  },
+  {
+    "question": "Trong khai triển (1-x)ⁿ, tổng các hệ số là:",
+    "options": ["0", "1", "2ⁿ", "-1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một hộp có 4 bi xanh, 5 bi đỏ. Lấy lần lượt 2 bi không hoàn lại. Xác suất để 2 bi cùng màu là:",
+    "options": ["7/18", "(C(4,2)+C(5,2))/C(9,2)", "16/36", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình |x-1| > 2 là:",
+    "options": ["(-∞; -1) ∪ (3; +∞)", "(-1; 3)", "[-1; 3]", "R"],
+    "correctAnswer": "(-∞; -1) ∪ (3; +∞)"
+  },
+  {
+    "question": "Parabol y² = -4x có tiêu điểm là:",
+    "options": ["F(-1; 0)", "F(1; 0)", "F(0; -1)", "F(0; 1)"],
+    "correctAnswer": "F(-1; 0)"
+  },
+  {
+    "question": "Số cách chia 8 đồ vật khác nhau cho 3 người sao cho người thứ nhất có 3, người thứ hai có 3, người thứ ba có 2 là:",
+    "options": ["560", "C(8,3)C(5,3)C(2,2)", "Cả A và B", "A(8,3)A(5,3)A(2,2)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số tự nhiên có 2 chữ số khác nhau. Xác suất để số đó là số chẵn là:",
+    "options": ["41/81", "1/2", "40/81", "45/90"],
+    "correctAnswer": "41/81"
+  },
+  {
+    "question": "Hàm số y = x + 1/x đồng biến trên khoảng nào?",
+    "options": ["(-∞; -1) và (1; +∞)", "(-1; 1)", "(0; +∞)", "R \\ {0}"],
+    "correctAnswer": "(-∞; -1) và (1; +∞)"
+  },
+  {
+    "question": "Đường tròn (C) có tâm I(-1;3) và tiếp xúc với trục Oy. Phương trình của (C) là:",
+    "options": ["(x+1)² + (y-3)² = 1", "(x+1)² + (y-3)² = 9", "(x+1)² + (y-3)² = 3", "(x-1)² + (y+3)² = 1"],
+    "correctAnswer": "(x+1)² + (y-3)² = 1"
+  },
+  {
+    "question": "Tìm hệ số của x¹⁰ trong khai triển (2+x)¹⁵.",
+    "options": ["192192", "C(15,10) * 2⁵", "3003 * 32", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 6 bi xanh. Lấy ngẫu nhiên 4 bi. Xác suất để có ít nhất 2 bi xanh là:",
+    "options": ["37/42", "1 - (C(4,4)+C(6,1)C(4,3))/C(10,4)", "185/210", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Phương trình x⁴ - 2(m+1)x² + 2m+1 = 0 có 4 nghiệm phân biệt khi:",
+    "options": ["m > 0 và m ≠ 1/2", "m > 0", "m > -1/2 và m ≠ 0", "m > -1/2"],
+    "correctAnswer": "m > 0 và m ≠ 1/2"
+  },
+  {
+    "question": "Hypebol (H): x²/16 - y²/9 = 1 có hai tiệm cận là:",
+    "options": ["y = ±(3/4)x", "y = ±(4/3)x", "y = ±(9/16)x", "y = ±(16/9)x"],
+    "correctAnswer": "y = ±(3/4)x"
+  },
+  {
+    "question": "Số cách xếp 5 nam và 5 nữ vào một bàn tròn sao cho không có hai bạn cùng giới ngồi cạnh nhau là:",
+    "options": ["2880", "4! * 5!", "Cả A và B", "9!"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo 3 con súc sắc. Xác suất để tổng số chấm là 5 là:",
+    "options": ["1/36", "6/216", "Cả A và B", "5/216"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tập xác định của hàm số y = √(x-1) + 1/√(3-x) là:",
+    "options": ["[1; 3)", "[1; 3]", "(1; 3)", "(1; 3]"],
+    "correctAnswer": "[1; 3)"
+  },
+  {
+    "question": "Khoảng cách giữa hai đường thẳng song song d₁: 5x+12y-10=0 và d₂: 5x+12y+16=0 là:",
+    "options": ["2", "26/13", "Cả A và B", "6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tìm số hạng chứa x³ trong khai triển (x - 1/x²)⁶.",
+    "options": ["-20x³", "C(6,1)(-1)¹x³", "Không có", "15x³"],
+    "correctAnswer": "Không có"
+  },
+  {
+    "question": "Một hộp có 10 bi đỏ và một số bi xanh. Lấy ngẫu nhiên 2 bi, xác suất để 2 bi cùng màu là 1/2. Số bi xanh là:",
+    "options": ["10 hoặc 21", "10", "21", "15"],
+    "correctAnswer": "10 hoặc 21"
+  },
+  {
+    "question": "Hàm số y = x² - 2x + 3 có giá trị nhỏ nhất là:",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Đường tròn (C) đi qua A(1;1) và B(3;3) và có tâm nằm trên trục hoành. Phương trình của (C) là:",
+    "options": ["(x-4)² + y² = 10", "(x-2)² + y² = 2", "x² + y² - 8x + 6 = 0", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Số cách chọn 3 số khác nhau từ tập {1, 2, ..., 10} sao cho tổng của chúng là một số chẵn là:",
+    "options": ["60", "C(5,3) + C(5,2)C(5,1)", "10+50", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một người có 10 người bạn. Anh ta muốn mời 5 người đi dự tiệc sao cho có cả An và Bình. Số cách mời là:",
+    "options": ["56", "C(8,3)", "Cả A và B", "C(10,5)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình (x²-5x+4)/(x²+1) ≤ 0 là:",
+    "options": ["[1; 4]", "(-∞; 1] ∪ [4; +∞)", "(1; 4)", "R"],
+    "correctAnswer": "[1; 4]"
+  },
+  {
+    "question": "Elip (E) đi qua M(4; 9/5) và có một tiêu điểm F₁( -4; 0). Phương trình chính tắc của (E) là:",
+    "options": ["x²/25 + y²/9 = 1", "x²/16 + y²/9 = 1", "x²/25 + y²/16 = 1", "x²/100 + y²/81 = 1"],
+    "correctAnswer": "x²/25 + y²/9 = 1"
+  },
+  {
+    "question": "Có bao nhiêu số tự nhiên có 6 chữ số khác nhau trong đó có 3 chữ số lẻ và 3 chữ số chẵn?",
+    "options": ["64800", "C(5,3)C(5,3)(6!-5!)", "10*10*1440", "Không tính được"],
+    "correctAnswer": "64800"
+  },
+  {
+    "question": "Gieo một đồng xu không cân đối, xác suất mặt sấp là 0.6. Gieo 3 lần. Xác suất để có đúng 2 lần mặt sấp là:",
+    "options": ["0.432", "C(3,2)*(0.6)²*(0.4)", "3*0.36*0.4", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Hàm số y = f(x) có đồ thị là nửa đường tròn y = √(4-x²). Tập xác định của hàm số là:",
+    "options": ["[-2; 2]", "(-2; 2)", "[0; 2]", "R"],
+    "correctAnswer": "[-2; 2]"
+  },
+  {
+    "question": "Cho tam giác ABC có A(1;1), B(3;5), C(5;1). Phương trình đường trung trực của cạnh AB là:",
+    "options": ["x + 2y - 8 = 0", "2x + y - 7 = 0", "x - 2y + 4 = 0", "2x - y - 1 = 0"],
+    "correctAnswer": "x + 2y - 8 = 0"
+  },
+  {
+    "question": "Tìm hệ số của x⁵ trong khai triển (1+x+x²)⁶.",
+    "options": ["66", "C(6,5)+C(6,3)+C(6,1)", "6+20+30", "Không tính được"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Một hộp có 10 bi. Lấy ngẫu nhiên lần lượt 3 bi không hoàn lại. Số phần tử của không gian mẫu là:",
+    "options": ["720", "A(10,3)", "Cả A và B", "1000"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tìm m để phương trình |x²-2x| = m có 4 nghiệm phân biệt.",
+    "options": ["0 < m < 1", "m > 1", "m = 1", "m > 0"],
+    "correctAnswer": "0 < m < 1"
+  },
+  {
+    "question": "Hypebol (H) có một tiêu điểm F(5;0) và một tiệm cận y=-2x. Phương trình chính tắc của (H) là:",
+    "options": ["x²/5 - y²/20 = 1", "x²/20 - y²/5 = 1", "x²/1 - y²/4 = 1", "x²/4 - y²/1 = 1"],
+    "correctAnswer": "x²/5 - y²/20 = 1"
+  },
+  {
+    "question": "Có bao nhiêu cách xếp 5 người vào 7 phòng khác nhau sao cho mỗi phòng có không quá 1 người?",
+    "options": ["2520", "A(7,5)", "Cả A và B", "C(7,5)"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 2 bi đỏ, 3 bi xanh, 4 bi vàng. Lấy ngẫu nhiên 3 bi. Xác suất để 3 bi lấy ra có màu khác nhau là:",
+    "options": ["2/7", "24/84", "C(2,1)C(3,1)C(4,1)/C(9,3)", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  }
+]
+
