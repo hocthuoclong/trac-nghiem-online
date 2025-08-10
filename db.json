@@ -40,6 +40,10 @@
                 {
                   "name": "Chương 8: Xác suất của biến cố",
                   "file": "./data/math-9-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Góc với đường tròn",
+                  "file": "./data/math-9-chapter-9.json"
                 }
               ]
             },
