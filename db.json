@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Định lí Thalès",
                   "file": "./data/math-8-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Dữ liệu và biểu đồ",
+                  "file": "./data/math-8-chapter-5.json"
                 }
               ]
             }
