@@ -16,6 +16,10 @@
                 {
                   "name": "Chương 2: Số thập phân",
                   "file": "./data/math-5-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Một số đơn vị đo diện tích",
+                  "file": "./data/math-5-chapter-3.json"
                 }
               ]
             },
