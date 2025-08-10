@@ -36,6 +36,10 @@
                 {
                   "name": "Chương 7: Quan hệ vuông góc trong không gian",
                   "file": "./data/math-11-chapter-7.json"
+                },
+                {
+                  "name": "Chương 8: Các quy tắc tính xác suất",
+                  "file": "./data/math-11-chapter-8.json"
                 }
               ]
             },
