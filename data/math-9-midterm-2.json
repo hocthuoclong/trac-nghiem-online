@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Hàm số y = -2x² đồng biến khi:",
+    "options": ["x < 0", "x > 0", "x = 0", "Với mọi x"],
+    "correctAnswer": "x < 0"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 2, 2, 3, 4. Tần số của giá trị 2 là:",
+    "options": ["2", "1", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Gieo một đồng xu. Xác suất xuất hiện mặt ngửa là:",
+    "options": ["1/2", "1", "0", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong một đường tròn, góc nội tiếp chắn nửa đường tròn có số đo là:",
+    "options": ["90°", "180°", "60°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Công thức tính thể tích hình trụ có bán kính đáy r và chiều cao h là:",
+    "options": ["V = πr²h", "V = 2πrh", "V = (1/3)πr²h", "V = πrh"],
+    "correctAnswer": "V = πr²h"
+  },
+  {
+    "question": "Phương trình x² - 6x + 5 = 0 có tổng hai nghiệm là:",
+    "options": ["6", "-6", "5", "-5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một lớp có 30 học sinh, trong đó có 12 nam. Tần số tương đối của học sinh nam là:",
+    "options": ["40%", "12%", "30%", "0.4%"],
+    "correctAnswer": "40%"
+  },
+  {
+    "question": "Một hộp có 4 bi xanh và 6 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh là:",
+    "options": ["2/5", "4/10", "Cả A và B", "4/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tứ giác ABCD nội tiếp được đường tròn nếu:",
+    "options": ["Tổng hai góc đối bằng 180°", "Có hai cạnh đối song song", "Có hai đường chéo bằng nhau", "Là hình bình hành"],
+    "correctAnswer": "Tổng hai góc đối bằng 180°"
+  },
+  {
+    "question": "Công thức tính diện tích xung quanh của hình nón có bán kính đáy r và đường sinh l là:",
+    "options": ["Sxq = πrl", "Sxq = 2πrl", "Sxq = πr²l", "Sxq = πr(l+r)"],
+    "correctAnswer": "Sxq = πrl"
+  },
+  {
+    "question": "Phương trình 2x² + 5x - 3 = 0 có biệt thức Δ bằng:",
+    "options": ["49", "1", "25", "-1"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, góc ở tâm của hình quạt ứng với tần số tương đối 25% là:",
+    "options": ["90°", "25°", "180°", "360°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Tung hai đồng xu. Số phần tử của không gian mẫu là:",
+    "options": ["4", "2", "8", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Góc ở tâm có số đo:",
+    "options": ["Bằng số đo cung bị chắn", "Bằng nửa số đo cung bị chắn", "Gấp đôi số đo cung bị chắn", "Bằng 180°"],
+    "correctAnswer": "Bằng số đo cung bị chắn"
+  },
+  {
+    "question": "Công thức tính diện tích mặt cầu có bán kính R là:",
+    "options": ["S = 4πR²", "S = πR²", "S = 2πR²", "S = (4/3)πR³"],
+    "correctAnswer": "S = 4πR²"
+  },
+  {
+    "question": "Nếu a+b+c=0, phương trình ax²+bx+c=0 có một nghiệm là:",
+    "options": ["1", "-1", "c/a", "-c/a"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Mốt của mẫu số liệu: A, B, C, A, B, A là:",
+    "options": ["A", "B", "C", "Không có"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá màu đen là:",
+    "options": ["1/2", "26/52", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tứ giác nào sau đây luôn nội tiếp được đường tròn?",
+    "options": ["Hình thang cân", "Hình bình hành", "Hình thoi", "Hình thang vuông"],
+    "correctAnswer": "Hình thang cân"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy 4cm, chiều cao 10cm. Thể tích của hình trụ là:",
+    "options": ["160π cm³", "40π cm³", "80π cm³", "160 cm³"],
+    "correctAnswer": "160π cm³"
+  },
+  {
+    "question": "Đồ thị hàm số y = 3x² đi qua điểm nào?",
+    "options": ["(1; 3)", "(3; 1)", "(-1; -3)", "(0; 3)"],
+    "correctAnswer": "(1; 3)"
+  },
+  {
+    "question": "Trong một cuộc điều tra, dấu hiệu là:",
+    "options": ["Vấn đề hay hiện tượng mà người điều tra quan tâm", "Số liệu thu thập được", "Tần số", "Biểu đồ"],
+    "correctAnswer": "Vấn đề hay hiện tượng mà người điều tra quan tâm"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 2 bi đỏ. Lấy ngẫu nhiên 2 bi. Xác suất để cả hai bi đều đỏ là:",
+    "options": ["1/45", "C(2,2)/C(10,2)", "Cả A và B", "1/90"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Góc tạo bởi tiếp tuyến và dây cung bằng:",
+    "options": ["Nửa số đo cung bị chắn", "Góc nội tiếp cùng chắn cung đó", "Cả A và B", "Góc ở tâm"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy 3cm, đường sinh 5cm. Diện tích xung quanh là:",
+    "options": ["15π cm²", "30π cm²", "9π cm²", "24π cm²"],
+    "correctAnswer": "15π cm²"
+  },
+  {
+    "question": "Phương trình x² + 2x - 8 = 0 có tích hai nghiệm là:",
+    "options": ["-8", "8", "-2", "2"],
+    "correctAnswer": "-8"
+  },
+  {
+    "question": "Một mẫu số liệu có cỡ mẫu N=50, một giá trị có tần số là 10. Tần số tương đối là:",
+    "options": ["20%", "10%", "50%", "0.2%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 12 là:",
+    "options": ["1/36", "2/36", "1/12", "1/6"],
+    "correctAnswer": "1/36"
+  },
+  {
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn (O). Nếu góc A = 60° thì góc C bằng:",
+    "options": ["120°", "60°", "90°", "300°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Thể tích khối cầu có bán kính 6cm là:",
+    "options": ["288π cm³", "144π cm³", "36π cm³", "72π cm³"],
+    "correctAnswer": "288π cm³"
+  },
+  {
+    "question": "Parabol y = -x² + 2x + 3 cắt trục tung tại điểm có tung độ là:",
+    "options": ["3", "1", "2", "-1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Biểu đồ cột thường dùng để biểu diễn:",
+    "options": ["Tần số của các giá trị", "Cơ cấu, tỉ lệ", "Sự thay đổi theo thời gian", "Mối quan hệ hai biến"],
+    "correctAnswer": "Tần số của các giá trị"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh, 2 bi đỏ. Lấy ngẫu nhiên 2 bi. Xác suất để 2 bi khác màu là:",
+    "options": ["3/5", "6/10", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho đường tròn (O) và hai tiếp tuyến tại A, B cắt nhau tại M. Nếu góc AOB = 140° thì góc AMB bằng:",
+    "options": ["40°", "140°", "70°", "220°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "question": "Một hình trụ có chiều cao bằng đường kính đáy. Tỉ số V/Sxq là:",
+    "options": ["r/4", "r/2", "r", "2r"],
+    "correctAnswer": "r/2"
+  },
+  {
+    "question": "Phương trình x² - 2mx + m² - 1 = 0 có hai nghiệm phân biệt khi:",
+    "options": ["Với mọi m", "m > 1", "m < 1", "Không có m"],
+    "correctAnswer": "Với mọi m"
+  },
+  {
+    "question": "Trong một biểu đồ hình quạt tròn, tổng các tần số tương đối là:",
+    "options": ["100%", "360%", "1", "N"],
+    "correctAnswer": "100%"
+  },
+  {
+    "question": "Một hộp có 100 vé, trong đó có 10 vé trúng. Lấy ngẫu nhiên 1 vé. Xác suất không trúng là:",
+    "options": ["9/10", "90%", "Cả A và B", "1/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Số đo góc nội tiếp chắn cung 60° là:",
+    "options": ["30°", "60°", "120°", "15°"],
+    "correctAnswer": "30°"
+  },
+  {
+    "question": "Một hình nón có chiều cao h=4, bán kính đáy r=3. Thể tích khối nón là:",
+    "options": ["12π", "36π", "15π", "24π"],
+    "correctAnswer": "12π"
+  },
+  {
+    "question": "Hàm số y = (m+1)x² đồng biến khi x < 0 nếu:",
+    "options": ["m < -1", "m > -1", "m = -1", "m ≠ -1"],
+    "correctAnswer": "m < -1"
+  },
+  {
+    "question": "Cho mẫu số liệu: 10, 20, 30. Tần số của giá trị 15 là:",
+    "options": ["0", "1", "15", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tung ba đồng xu. Xác suất để có ít nhất hai mặt sấp là:",
+    "options": ["1/2", "4/8", "Cả A và B", "3/8"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Góc có đỉnh nằm bên ngoài đường tròn có số đo bằng:",
+    "options": ["Nửa hiệu số đo hai cung bị chắn", "Nửa tổng số đo hai cung bị chắn", "Hiệu số đo hai cung bị chắn", "Tổng số đo hai cung bị chắn"],
+    "correctAnswer": "Nửa hiệu số đo hai cung bị chắn"
+  },
+  {
+    "question": "Một quả bóng hình cầu có diện tích bề mặt là 100π. Thể tích của nó là:",
+    "options": ["500π/3", "100π", "125π", "1000π/3"],
+    "correctAnswer": "500π/3"
+  },
+  {
+    "question": "Phương trình x² + 4 = 0 có bao nhiêu nghiệm thực?",
+    "options": ["0", "1", "2", "4"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một mẫu số liệu có 200 giá trị. Một giá trị có tần số tương đối là 5%. Tần số của giá trị đó là:",
+    "options": ["10", "5", "20", "1"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là 12 là:",
+    "options": ["1/9", "4/36", "Cả A và B", "1/12"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Đa giác đều có 9 cạnh. Số đo mỗi góc trong là:",
+    "options": ["140°", "120°", "135°", "108°"],
+    "correctAnswer": "140°"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy bằng chiều cao và bằng a. Diện tích toàn phần là:",
+    "options": ["4πa²", "2πa²", "3πa²", "πa²"],
+    "correctAnswer": "4πa²"
+  },
+  {
+    "question": "Tìm hai số biết tổng của chúng là 7 và tích của chúng là 12.",
+    "options": ["3 và 4", "2 và 5", "1 và 6", "Không có"],
+    "correctAnswer": "3 và 4"
+  },
+  {
+    "question": "Biểu đồ đoạn thẳng phù hợp để biểu diễn:",
+    "options": ["Sự thay đổi của một đại lượng theo thời gian", "Cơ cấu của một tổng thể", "Tần số của các giá trị rời rạc", "Mối quan hệ hai biến"],
+    "correctAnswer": "Sự thay đổi của một đại lượng theo thời gian"
+  },
+  {
+    "question": "Một hộp có 5 bi trắng, 3 bi đen. Lấy ngẫu nhiên 2 bi. Xác suất để 2 bi khác màu là:",
+    "options": ["15/28", "C(5,1)C(3,1)/C(8,2)", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tứ giác ABCD có góc A + góc C = 190°. Tứ giác này:",
+    "options": ["Không nội tiếp được đường tròn", "Nội tiếp được đường tròn", "Là hình thang", "Là hình bình hành"],
+    "correctAnswer": "Không nội tiếp được đường tròn"
+  },
+  {
+    "question": "Một hình nón có thiết diện qua trục là tam giác đều cạnh a. Thể tích khối nón là:",
+    "options": ["πa³√3/24", "πa³√3/8", "πa³/8", "πa³√3/12"],
+    "correctAnswer": "πa³√3/24"
+  },
+  {
+    "question": "Phương trình x² - 2(m-1)x + m-3 = 0 có hai nghiệm trái dấu khi:",
+    "options": ["m < 3", "m > 3", "m = 3", "m bất kỳ"],
+    "correctAnswer": "m < 3"
+  },
+  {
+    "question": "Một mẫu số liệu có N=40, giá trị A có tần số tương đối là 30%. Tần số của A là:",
+    "options": ["12", "30", "40", "3"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá J, Q, K hoặc lá cơ là:",
+    "options": ["22/52", "11/26", "Cả A và B", "25/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho đường tròn (O) và dây AB. M là điểm chính giữa cung nhỏ AB. Mệnh đề nào đúng?",
+    "options": ["MA = MB", "Tam giác AMB cân tại M", "OM ⊥ AB", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Một hình cầu có bán kính R. Một hình trụ có bán kính đáy R và chiều cao 2R ngoại tiếp hình cầu. Tỉ số diện tích mặt cầu và diện tích toàn phần hình trụ là:",
+    "options": ["2/3", "1", "1/2", "3/4"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Parabol y = ax² + bx + c có đỉnh I(2; -1) và đi qua A(1; 0). Parabol đó là:",
+    "options": ["y = x² - 4x + 3", "y = x² + 4x + 3", "y = -x² + 4x - 5", "y = 2x² - 8x + 7"],
+    "correctAnswer": "y = x² - 4x + 3"
+  },
+  {
+    "question": "Trong biểu đồ hình quạt tròn, hình quạt có góc 120° ứng với tần số tương đối là:",
+    "options": ["1/3", "33.3%", "Cả A và B", "120%"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 2 bi đỏ, 3 bi xanh, 4 bi vàng. Lấy ngẫu nhiên 3 bi. Xác suất để có đủ 3 màu là:",
+    "options": ["2/7", "24/84", "Cả A và B", "1/21"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Số đo mỗi góc của một thập giác đều (10 cạnh) là:",
+    "options": ["144°", "135°", "120°", "150°"],
+    "correctAnswer": "144°"
+  },
+  {
+    "question": "Một hình trụ có diện tích toàn phần là 12π và bán kính đáy là 1. Chiều cao của hình trụ là:",
+    "options": ["5", "6", "10", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Phương trình x⁴ - 8x² - 9 = 0 có bao nhiêu nghiệm thực?",
+    "options": ["2", "4", "1", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một mẫu số liệu có 5 giá trị. Tần số của mỗi giá trị là 10. Cỡ mẫu là:",
+    "options": ["50", "5", "10", "15"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Tung một đồng xu 6 lần. Số phần tử của không gian mẫu là:",
+    "options": ["64", "2⁶", "Cả A và B", "12"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác ABC nội tiếp đường tròn. Nếu AB là đường kính thì tam giác ABC:",
+    "options": ["Vuông tại C", "Vuông tại A", "Vuông tại B", "Đều"],
+    "correctAnswer": "Vuông tại C"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r, chiều cao h. Một hình trụ có bán kính đáy r, chiều cao h'. Để thể tích hai hình bằng nhau thì:",
+    "options": ["h' = h/3", "h' = 3h", "h' = h", "h' = h/2"],
+    "correctAnswer": "h' = h/3"
+  },
+  {
+    "question": "Phương trình x² - 2x + m = 0 có hai nghiệm cùng dấu khi:",
+    "options": ["0 < m ≤ 1", "m > 0", "m ≤ 1", "m > 1"],
+    "correctAnswer": "0 < m ≤ 1"
+  },
+  {
+    "question": "Bảng tần số ghép nhóm có nhóm [10;20) với tần số 15. Tần số tương đối của nhóm này (cỡ mẫu 60) là:",
+    "options": ["25%", "15%", "60%", "1/4"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là một số nguyên tố là:",
+    "options": ["1/6", "6/36", "Cả A và B", "5/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tứ giác ABCD có góc ngoài tại đỉnh B bằng góc D. Tứ giác này:",
+    "options": ["Nội tiếp được đường tròn", "Không nội tiếp", "Là hình thang", "Là hình bình hành"],
+    "correctAnswer": "Nội tiếp được đường tròn"
+  },
+  {
+    "question": "Một hình cầu có thể tích V. Nếu bán kính giảm đi một nửa thì thể tích mới là:",
+    "options": ["V/8", "V/2", "V/4", "V/6"],
+    "correctAnswer": "V/8"
+  },
+  {
+    "question": "Parabol y = x² - 4x + 3 có giá trị nhỏ nhất là:",
+    "options": ["-1", "3", "2", "4"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Dữ liệu về 'thời gian chạy 100m' của các vận động viên là:",
+    "options": ["Số liệu định lượng liên tục", "Số liệu định lượng rời rạc", "Số liệu định tính", "Số liệu không có thứ tự"],
+    "correctAnswer": "Số liệu định lượng liên tục"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 4 bi đỏ và 6 bi xanh. Lấy ngẫu nhiên 3 bi. Xác suất để có cả bi đỏ và bi xanh là:",
+    "options": ["23/30", "1 - (C(4,3)+C(6,3))/C(10,3)", "96/120", "Không phải các đáp án trên"],
+    "correctAnswer": "1 - (C(4,3)+C(6,3))/C(10,3)"
+  },
+  {
+    "question": "Đường tròn ngoại tiếp tam giác đều cạnh a có bán kính là:",
+    "options": ["a√3/3", "a√3/6", "a/2", "a√3/2"],
+    "correctAnswer": "a√3/3"
+  },
+  {
+    "question": "Một hình trụ có diện tích xung quanh bằng diện tích đáy. Mối liên hệ giữa h và r là:",
+    "options": ["r = 2h", "h = 2r", "r = h", "r = h/2"],
+    "correctAnswer": "r = 2h"
+  },
+  {
+    "question": "Phương trình (m-1)x² + 2mx + m = 0 có nghiệm kép khi:",
+    "options": ["m = 0", "m = 1", "Không có m", "m bất kỳ"],
+    "correctAnswer": "m = 0"
+  },
+  {
+    "question": "Một mẫu số liệu có 5 giá trị khác nhau, mỗi giá trị có tần số là 4. Cỡ mẫu là:",
+    "options": ["20", "5", "4", "9"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Tung một đồng xu 10 lần, có 6 lần sấp. Tần số tương đối của mặt sấp là:",
+    "options": ["60%", "6/10", "Cả A và B", "40%"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Góc nội tiếp và góc ở tâm cùng chắn một cung. Mệnh đề nào đúng?",
+    "options": ["Góc ở tâm gấp đôi góc nội tiếp", "Góc nội tiếp gấp đôi góc ở tâm", "Hai góc bằng nhau", "Tổng hai góc bằng 180°"],
+    "correctAnswer": "Góc ở tâm gấp đôi góc nội tiếp"
+  },
+  {
+    "question": "Một hình nón có chiều cao h, bán kính đáy r. Một hình trụ có cùng chiều cao và bán kính đáy. Tỉ số thể tích của hình trụ và hình nón là:",
+    "options": ["3", "1/3", "2", "1/2"],
+    "correctAnswer": "3"
+  }
+]
+
