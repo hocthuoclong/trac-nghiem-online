@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Hình ảnh nào sau đây cho ta hình ảnh của một điểm?",
+    "options": ["Một hạt bụi", "Một dấu chấm nhỏ trên trang giấy", "Một ngôi sao trên bầu trời đêm", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Qua hai điểm phân biệt A và B, ta vẽ được bao nhiêu đường thẳng?",
+    "options": ["1", "2", "0", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Ba điểm A, B, C được gọi là thẳng hàng khi nào?",
+    "options": ["Chúng cùng thuộc một đường thẳng", "Chúng tạo thành một tam giác", "Chúng nằm trên một đường tròn", "Chúng cách đều nhau"],
+    "correctAnswer": "Chúng cùng thuộc một đường thẳng"
+  },
+  {
+    "question": "Hai đường thẳng được gọi là cắt nhau khi chúng có:",
+    "options": ["Một điểm chung", "Không có điểm chung", "Hai điểm chung", "Vô số điểm chung"],
+    "correctAnswer": "Một điểm chung"
+  },
+  {
+    "question": "Hai đường thẳng song song là hai đường thẳng:",
+    "options": ["Không có điểm chung", "Có một điểm chung", "Có hai điểm chung", "Vuông góc với nhau"],
+    "correctAnswer": "Không có điểm chung"
+  },
+  {
+    "question": "Nếu điểm M nằm giữa hai điểm A và B thì:",
+    "options": ["AM + MB = AB", "AB + BM = AM", "AM + AB = MB", "A, M, B không thẳng hàng"],
+    "correctAnswer": "AM + MB = AB"
+  },
+  {
+    "question": "Tia là hình gồm:",
+    "options": ["Điểm gốc và một phần đường thẳng bị chia ra bởi điểm đó", "Hai điểm", "Một đoạn thẳng", "Một đường thẳng"],
+    "correctAnswer": "Điểm gốc và một phần đường thẳng bị chia ra bởi điểm đó"
+  },
+  {
+    "question": "Hai tia Ox và Oy được gọi là đối nhau khi:",
+    "options": ["Chúng có chung gốc O và tạo thành một đường thẳng", "Chúng song song với nhau", "Chúng có chung gốc O", "Chúng vuông góc với nhau"],
+    "correctAnswer": "Chúng có chung gốc O và tạo thành một đường thẳng"
+  },
+  {
+    "question": "Đoạn thẳng AB là hình gồm:",
+    "options": ["Điểm A, điểm B và tất cả các điểm nằm giữa A và B", "Hai điểm A và B", "Đường thẳng đi qua A và B", "Tia AB"],
+    "correctAnswer": "Điểm A, điểm B và tất cả các điểm nằm giữa A và B"
+  },
+  {
+    "question": "Trên tia Ox, lấy hai điểm A và B sao cho OA = 3cm, OB = 6cm. Khẳng định nào sau đây đúng?",
+    "options": ["Điểm A nằm giữa hai điểm O và B", "Điểm B nằm giữa hai điểm O và A", "Điểm O nằm giữa hai điểm A và B", "Ba điểm O, A, B không thẳng hàng"],
+    "correctAnswer": "Điểm A nằm giữa hai điểm O và B"
+  },
+  {
+    "question": "Cho đoạn thẳng AB = 8cm. M là trung điểm của AB. Độ dài đoạn thẳng AM là:",
+    "options": ["4cm", "8cm", "16cm", "2cm"],
+    "correctAnswer": "4cm"
+  },
+  {
+    "question": "Điểm M là trung điểm của đoạn thẳng CD khi:",
+    "options": ["M nằm giữa C, D và MC = MD", "MC = MD", "M nằm giữa C, D", "MC + MD = CD"],
+    "correctAnswer": "M nằm giữa C, D và MC = MD"
+  },
+  {
+    "question": "Cho 3 điểm A, B, C không thẳng hàng. Vẽ được bao nhiêu đường thẳng đi qua các cặp điểm?",
+    "options": ["3", "1", "2", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hai đường thẳng trùng nhau có bao nhiêu điểm chung?",
+    "options": ["Vô số", "1", "2", "0"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Cho điểm O trên đường thẳng xy. Tia Ox và tia Oy là hai tia:",
+    "options": ["Đối nhau", "Trùng nhau", "Song song", "Cắt nhau"],
+    "correctAnswer": "Đối nhau"
+  },
+  {
+    "question": "Nếu M là trung điểm của đoạn thẳng AB thì M cách đều A và B. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi AB=2cm", "Chỉ đúng khi M nằm ngoài AB"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho đoạn thẳng MN = 10cm. Điểm P nằm trên đoạn thẳng MN sao cho MP = 6cm. Độ dài đoạn thẳng PN là:",
+    "options": ["4cm", "16cm", "6cm", "10cm"],
+    "correctAnswer": "4cm"
+  },
+  {
+    "question": "Trên tia Ax, vẽ hai điểm B, C sao cho AB = 2cm, AC = 5cm. Độ dài đoạn thẳng BC là:",
+    "options": ["3cm", "7cm", "2.5cm", "1.5cm"],
+    "correctAnswer": "3cm"
+  },
+  {
+    "question": "Cho 4 điểm phân biệt, trong đó không có 3 điểm nào thẳng hàng. Số đoạn thẳng có hai đầu mút là hai trong bốn điểm đó là:",
+    "options": ["6", "4", "5", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một đoạn thẳng có thể có bao nhiêu trung điểm?",
+    "options": ["1", "0", "2", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Qua một điểm ta vẽ được bao nhiêu đường thẳng?",
+    "options": ["Vô số", "1", "2", "0"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Hai tia có chung gốc được gọi là:",
+    "options": ["Hai tia chung gốc", "Hai tia đối nhau", "Hai tia trùng nhau", "Không có tên gọi đặc biệt"],
+    "correctAnswer": "Hai tia chung gốc"
+  },
+  {
+    "question": "Cho ba điểm A, B, C thẳng hàng. Biết AB = 3cm, BC = 5cm. Độ dài AC có thể là:",
+    "options": ["8cm hoặc 2cm", "Chỉ 8cm", "Chỉ 2cm", "15cm"],
+    "correctAnswer": "8cm hoặc 2cm"
+  },
+  {
+    "question": "Điểm I là trung điểm của đoạn thẳng MN khi MI + IN = MN và:",
+    "options": ["MI = IN", "MI > IN", "MI < IN", "I nằm ngoài MN"],
+    "correctAnswer": "MI = IN"
+  },
+  {
+    "question": "Cho 5 điểm trong đó không có ba điểm nào thẳng hàng. Số đường thẳng đi qua các cặp điểm là:",
+    "options": ["10", "5", "15", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hai tia trùng nhau là hai tia:",
+    "options": ["Chung gốc và tia này nằm trên tia kia", "Chung gốc và là hai tia đối nhau", "Song song với nhau", "Không có điểm chung"],
+    "correctAnswer": "Chung gốc và tia này nằm trên tia kia"
+  },
+  {
+    "question": "Cho đoạn thẳng AB. M là một điểm bất kỳ. Nếu AM + MB = AB thì:",
+    "options": ["M nằm giữa A và B", "A nằm giữa M và B", "B nằm giữa M và A", "M là trung điểm AB"],
+    "correctAnswer": "M nằm giữa A và B"
+  },
+  {
+    "question": "Cho đoạn thẳng PQ = 12cm. I là trung điểm của PQ. K là trung điểm của PI. Độ dài đoạn thẳng PK là:",
+    "options": ["3cm", "6cm", "4cm", "1.5cm"],
+    "correctAnswer": "3cm"
+  },
+  {
+    "question": "Có bao nhiêu đường thẳng đi qua 3 điểm thẳng hàng?",
+    "options": ["1", "3", "0", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Giao điểm của hai đường thẳng là:",
+    "options": ["Một điểm", "Một đường thẳng", "Một đoạn thẳng", "Một tia"],
+    "correctAnswer": "Một điểm"
+  },
+  {
+    "question": "Trên tia Ox, có OA = 2cm, OB = 4cm. So sánh OA và AB.",
+    "options": ["OA = AB", "OA > AB", "OA < AB", "Không so sánh được"],
+    "correctAnswer": "OA = AB"
+  },
+  {
+    "question": "Cho M là trung điểm của AB. Biết AM = 5cm. Độ dài đoạn thẳng AB là:",
+    "options": ["10cm", "5cm", "2.5cm", "15cm"],
+    "correctAnswer": "10cm"
+  },
+  {
+    "question": "Cho n điểm phân biệt (n ≥ 2), không có ba điểm nào thẳng hàng. Số đường thẳng vẽ được là:",
+    "options": ["n(n-1)/2", "n(n+1)/2", "n-1", "n"],
+    "correctAnswer": "n(n-1)/2"
+  },
+  {
+    "question": "Tia phân biệt với tia đối của nó bởi:",
+    "options": ["Phần đường thẳng mà nó chứa", "Gốc", "Hướng", "Độ dài"],
+    "correctAnswer": "Phần đường thẳng mà nó chứa"
+  },
+  {
+    "question": "Nếu điểm I nằm giữa hai điểm K và L thì:",
+    "options": ["IK + IL = KL", "IK + KL = IL", "IL + LK = IK", "I, K, L tạo thành tam giác"],
+    "correctAnswer": "IK + IL = KL"
+  },
+  {
+    "question": "Cho đoạn thẳng AB. Một điểm M nằm ngoài đường thẳng AB. Vẽ được bao nhiêu tam giác có đỉnh là 3 trong 4 điểm A, B, M và trung điểm I của AB?",
+    "options": ["3", "4", "2", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt thì hoặc ... hoặc ...",
+    "options": ["cắt nhau, song song", "cắt nhau, trùng nhau", "song song, trùng nhau", "vuông góc, song song"],
+    "correctAnswer": "cắt nhau, song song"
+  },
+  {
+    "question": "Tia AB và tia BA là hai tia:",
+    "options": ["Đối nhau", "Trùng nhau", "Phân biệt", "Không xác định"],
+    "correctAnswer": "Đối nhau"
+  },
+  {
+    "question": "Cho đoạn thẳng AB = 6cm. Trên tia AB lấy điểm C sao cho AC = 2cm. Độ dài đoạn thẳng CB là:",
+    "options": ["4cm", "8cm", "3cm", "6cm"],
+    "correctAnswer": "4cm"
+  },
+  {
+    "question": "Cho đoạn thẳng AB = 6cm. Trên tia đối của tia AB lấy điểm C sao cho AC = 2cm. Độ dài đoạn thẳng CB là:",
+    "options": ["8cm", "4cm", "6cm", "2cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Nếu M là trung điểm của đoạn thẳng PQ thì:",
+    "options": ["MP = MQ = PQ/2", "MP + MQ = PQ", "M nằm giữa P và Q", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho 10 điểm, trong đó có đúng 3 điểm thẳng hàng. Số đường thẳng vẽ được là:",
+    "options": ["43", "45", "44", "42"],
+    "correctAnswer": "43"
+  },
+  {
+    "question": "Điểm A và điểm B nằm khác phía đối với đường thẳng d nếu:",
+    "options": ["Đoạn thẳng AB cắt đường thẳng d", "Đoạn thẳng AB không cắt đường thẳng d", "Đường thẳng AB song song với d", "Đường thẳng AB vuông góc với d"],
+    "correctAnswer": "Đoạn thẳng AB cắt đường thẳng d"
+  },
+  {
+    "question": "Cho hai tia đối nhau Ox và Oy. Điểm A thuộc tia Ox, điểm B thuộc tia Oy. Điểm nào nằm giữa hai điểm còn lại?",
+    "options": ["O", "A", "B", "Không có"],
+    "correctAnswer": "O"
+  },
+  {
+    "question": "Độ dài của một đoạn thẳng là một số:",
+    "options": ["Dương", "Nguyên", "Âm", "Bất kỳ"],
+    "correctAnswer": "Dương"
+  },
+  {
+    "question": "Cho đoạn thẳng AB. I là trung điểm của AB. M là trung điểm của AI. Biết AB = 16cm. Độ dài MB là:",
+    "options": ["12cm", "4cm", "8cm", "14cm"],
+    "correctAnswer": "12cm"
+  },
+  {
+    "question": "Trong ba điểm thẳng hàng, có bao nhiêu điểm nằm giữa hai điểm còn lại?",
+    "options": ["Chỉ có một", "Hai", "Ba", "Không có"],
+    "correctAnswer": "Chỉ có một"
+  },
+  {
+    "question": "Tia gốc O còn được gọi là:",
+    "options": ["Nửa đường thẳng gốc O", "Đoạn thẳng O", "Đường thẳng O", "Điểm O"],
+    "correctAnswer": "Nửa đường thẳng gốc O"
+  },
+  {
+    "question": "Cho ba điểm M, N, P thẳng hàng. Biết MN = 5cm, NP = 2cm. Độ dài MP là:",
+    "options": ["7cm hoặc 3cm", "Chỉ 7cm", "Chỉ 3cm", "10cm"],
+    "correctAnswer": "7cm hoặc 3cm"
+  },
+  {
+    "question": "Một đoạn thẳng có độ dài 10cm. Trung điểm của nó chia đoạn thẳng thành hai đoạn có độ dài là:",
+    "options": ["5cm", "10cm", "20cm", "2.5cm"],
+    "correctAnswer": "5cm"
+  },
+  {
+    "question": "Cho 20 điểm phân biệt. Nối từng cặp hai điểm ta được số đoạn thẳng là:",
+    "options": ["190", "200", "180", "210"],
+    "correctAnswer": "190"
+  },
+  {
+    "question": "Đường thẳng a và đường thẳng b cắt nhau tại O. Khẳng định nào đúng?",
+    "options": ["O là điểm chung duy nhất của a và b", "a và b song song", "a và b trùng nhau", "O thuộc a nhưng không thuộc b"],
+    "correctAnswer": "O là điểm chung duy nhất của a và b"
+  },
+  {
+    "question": "Cho tia Ox. Trên tia Ox lấy hai điểm M, N sao cho OM = a, ON = b. Nếu a < b thì:",
+    "options": ["M nằm giữa O và N", "N nằm giữa O và M", "O nằm giữa M và N", "M, N, O không thẳng hàng"],
+    "correctAnswer": "M nằm giữa O và N"
+  },
+  {
+    "question": "Đoạn thẳng MN là một phần của:",
+    "options": ["Đường thẳng MN", "Tia MN", "Tia NM", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Cho đoạn thẳng AB = 2a. M là trung điểm của AB. N là trung điểm của AM. Độ dài đoạn thẳng NB là:",
+    "options": ["3a/2", "a/2", "a", "2a"],
+    "correctAnswer": "3a/2"
+  },
+  {
+    "question": "Cho 6 điểm A, B, C, D, E, F trong đó A, B, C thẳng hàng. Số tam giác có đỉnh là 3 trong 6 điểm đó là:",
+    "options": ["19", "20", "18", "17"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Hai đường thẳng có thể có bao nhiêu điểm chung?",
+    "options": ["0, 1 hoặc vô số", "Chỉ 1", "Chỉ 0", "Chỉ vô số"],
+    "correctAnswer": "0, 1 hoặc vô số"
+  },
+  {
+    "question": "Tia gốc A còn được viết là:",
+    "options": ["Nửa đường thẳng gốc A", "Đường thẳng A", "Đoạn thẳng A", "Điểm A"],
+    "correctAnswer": "Nửa đường thẳng gốc A"
+  },
+  {
+    "question": "Cho O nằm giữa A và B. Biết OA = 3cm, AB = 8cm. Độ dài OB là:",
+    "options": ["5cm", "11cm", "3cm", "8cm"],
+    "correctAnswer": "5cm"
+  },
+  {
+    "question": "Để đo độ dài đoạn thẳng, ta thường dùng:",
+    "options": ["Thước có vạch chia", "Compa", "Eke", "Thước đo góc"],
+    "correctAnswer": "Thước có vạch chia"
+  },
+  {
+    "question": "Điểm M được gọi là trung điểm của đoạn thẳng AB nếu:",
+    "options": ["MA = MB = AB/2", "MA = MB", "M nằm giữa A và B", "AM + MB = AB"],
+    "correctAnswer": "MA = MB = AB/2"
+  },
+  {
+    "question": "Cho 100 điểm phân biệt, không có 3 điểm nào thẳng hàng. Số đường thẳng vẽ được là:",
+    "options": ["4950", "5050", "9900", "10000"],
+    "correctAnswer": "4950"
+  },
+  {
+    "question": "Điểm và đường thẳng là những khái niệm:",
+    "options": ["Cơ bản, không định nghĩa", "Được định nghĩa rõ ràng", "Phức tạp", "Chỉ có trong sách vở"],
+    "correctAnswer": "Cơ bản, không định nghĩa"
+  },
+  {
+    "question": "Cho hai tia Ax và Ay đối nhau. Điểm M thuộc tia Ax, điểm N thuộc tia Ay. So sánh độ dài MN với AM + AN.",
+    "options": ["MN = AM + AN", "MN > AM + AN", "MN < AM + AN", "Không so sánh được"],
+    "correctAnswer": "MN = AM + AN"
+  },
+  {
+    "question": "Đoạn thẳng AB có độ dài không đổi. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy thuộc vào vị trí", "Chỉ đúng trên giấy"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cho I là trung điểm của đoạn thẳng MN. Biết IN = 4cm. Độ dài đoạn thẳng MN là:",
+    "options": ["8cm", "4cm", "2cm", "12cm"],
+    "correctAnswer": "8cm"
+  },
+  {
+    "question": "Nếu 3 điểm M, N, P thẳng hàng và MN + NP = MP thì:",
+    "options": ["N nằm giữa M và P", "M nằm giữa N và P", "P nằm giữa M và N", "M, N, P trùng nhau"],
+    "correctAnswer": "N nằm giữa M và P"
+  },
+  {
+    "question": "Tia và đoạn thẳng khác nhau cơ bản ở điểm nào?",
+    "options": ["Tia bị giới hạn ở một phía, đoạn thẳng bị giới hạn ở cả hai phía", "Tia có độ dài vô hạn, đoạn thẳng có độ dài hữu hạn", "Cả A và B đều đúng", "Chúng không khác nhau"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Trên một đường thẳng, có thể có bao nhiêu điểm nằm giữa hai điểm cho trước?",
+    "options": ["Vô số", "1", "2", "0"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Cho đoạn thẳng AB. M là trung điểm AB, N là trung điểm MB. Biết AN = 9cm. Độ dài AB là:",
+    "options": ["12cm", "18cm", "9cm", "27cm"],
+    "correctAnswer": "12cm"
+  },
+  {
+    "question": "Cho 4 đường thẳng cắt nhau tại một điểm. Số cặp tia đối nhau được tạo thành là:",
+    "options": ["4", "8", "2", "16"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Điểm A thuộc đường thẳng d. Có bao nhiêu tia gốc A nằm trên đường thẳng d?",
+    "options": ["2", "1", "Vô số", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho ba điểm A, B, C không thẳng hàng. M là điểm nằm giữa B và C. Tia AM cắt đoạn thẳng nào?",
+    "options": ["Không cắt đoạn thẳng nào trong các cạnh còn lại", "Cắt cạnh AB", "Cắt cạnh AC", "Cắt cả AB và AC"],
+    "correctAnswer": "Không cắt đoạn thẳng nào trong các cạnh còn lại"
+  },
+  {
+    "question": "Cho đoạn thẳng AB = 10cm. Lấy điểm C trên AB sao cho AC = 6cm. Lấy điểm D trên tia đối của tia BA sao cho BD = 4cm. So sánh BC và CD.",
+    "options": ["BC < CD", "BC > CD", "BC = CD", "Không so sánh được"],
+    "correctAnswer": "BC < CD"
+  },
+  {
+    "question": "Điểm M là trung điểm của đoạn thẳng AB nếu M thỏa mãn điều kiện nào sau đây?",
+    "options": ["MA + MB = AB và MA = MB", "MA = MB", "M nằm giữa A và B", "MA + MB = AB"],
+    "correctAnswer": "MA + MB = AB và MA = MB"
+  },
+  {
+    "question": "Cho 25 điểm, trong đó không có 3 điểm nào thẳng hàng. Hỏi có thể vẽ được bao nhiêu tam giác từ các điểm đó?",
+    "options": ["2300", "2500", "300", "2275"],
+    "correctAnswer": "2300"
+  },
+  {
+    "question": "Hai đường thẳng song song có thể được biểu diễn bởi hình ảnh nào?",
+    "options": ["Hai cạnh đối của một hình chữ nhật", "Hai cạnh kề của một hình vuông", "Hai đường chéo của hình thoi", "Hai cạnh của một góc"],
+    "correctAnswer": "Hai cạnh đối của một hình chữ nhật"
+  },
+  {
+    "question": "Tia AB và tia AC trùng nhau khi:",
+    "options": ["Điểm B nằm giữa A và C", "Điểm C nằm giữa A và B", "Cả A và B đều đúng", "A nằm giữa B và C"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Cho M, N là hai điểm nằm trên tia Ox. Biết OM = 3cm, ON = 5cm. Khẳng định nào đúng?",
+    "options": ["MN = 2cm", "M nằm giữa O và N", "Cả A và B đều đúng", "N nằm giữa O và M"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Cho I là trung điểm của AB. M là một điểm không thuộc đường thẳng AB. Nếu MA = MB thì tam giác MAB là tam giác gì?",
+    "options": ["Cân tại M", "Đều", "Vuông tại M", "Không xác định"],
+    "correctAnswer": "Cân tại M"
+  },
+  {
+    "question": "Cho n đường thẳng cắt nhau tại một điểm. Số tia được tạo thành là:",
+    "options": ["2n", "n", "n(n-1)", "n²"],
+    "correctAnswer": "2n"
+  },
+  {
+    "question": "Một đường thẳng chứa bao nhiêu điểm?",
+    "options": ["Vô số", "1", "2", "100"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Cho ba điểm A, B, C thẳng hàng. Nếu AC + CB = AB thì điểm nào nằm giữa hai điểm còn lại?",
+    "options": ["C", "A", "B", "Không có"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Độ dài đoạn thẳng có thể là số âm không?",
+    "options": ["Không", "Có", "Tùy trường hợp", "Chỉ khi đo dưới mực nước biển"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Cho đoạn thẳng AB = 12cm. M, N là hai điểm thuộc đoạn AB sao cho AM = 4cm, BN = 4cm. I là trung điểm của MN. Độ dài AI là:",
+    "options": ["6cm", "4cm", "8cm", "2cm"],
+    "correctAnswer": "6cm"
+  },
+  {
+    "question": "Cho 10 đường thẳng phân biệt. Số giao điểm nhiều nhất có thể có là:",
+    "options": ["45", "10", "90", "100"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Hai tia được gọi là trùng nhau nếu chúng:",
+    "options": ["Chung gốc và có một điểm chung khác gốc", "Chung gốc", "Có hai điểm chung", "Song song"],
+    "correctAnswer": "Chung gốc và có một điểm chung khác gốc"
+  },
+  {
+    "question": "Trên đường thẳng a lấy 4 điểm phân biệt. Số đoạn thẳng được tạo thành là:",
+    "options": ["6", "4", "10", "3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Nếu I là trung điểm của AB thì IA và IB là hai tia:",
+    "options": ["Đối nhau", "Trùng nhau", "Song song", "Không có quan hệ"],
+    "correctAnswer": "Đối nhau"
+  }
+]
+
