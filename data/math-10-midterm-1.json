@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Câu nào sau đây không phải là mệnh đề?",
+    "options": ["Hôm nay trời đẹp quá!", "Số 2 là số nguyên tố.", "Hà Nội là thủ đô của Việt Nam.", "1+1=3"],
+    "correctAnswer": "Hôm nay trời đẹp quá!"
+  },
+  {
+    "question": "Cặp số (2; 1) là nghiệm của bất phương trình nào sau đây?",
+    "options": ["x + y > 3", "2x - y < 1", "x - 2y > 0", "x + 2y < 4"],
+    "correctAnswer": "x + 2y < 4"
+  },
+  {
+    "question": "Trong tam giác ABC, định lý sin được phát biểu là:",
+    "options": ["a/sin(A) = b/sin(B) = c/sin(C) = 2R", "a² = b² + c² - 2bc.cos(A)", "S = (1/2)ab.sin(C)", "mₐ² = (2b² + 2c² - a²)/4"],
+    "correctAnswer": "a/sin(A) = b/sin(B) = c/sin(C) = 2R"
+  },
+  {
+    "question": "Cho hình bình hành ABCD. Đẳng thức vectơ nào sau đây đúng?",
+    "options": ["vectơ AB + vectơ AD = vectơ AC", "vectơ AB + vectơ BC = vectơ AB", "vectơ AB = vectơ BC", "vectơ AC = vectơ BD"],
+    "correctAnswer": "vectơ AB + vectơ AD = vectơ AC"
+  },
+  {
+    "question": "Cho mẫu số liệu: 2, 4, 6, 8, 10. Số trung bình của mẫu là:",
+    "options": ["6", "5", "8", "4"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Mệnh đề phủ định của '∀x ∈ R, x² > 0' là:",
+    "options": ["∃x ∈ R, x² ≤ 0", "∃x ∈ R, x² < 0", "∀x ∈ R, x² ≤ 0", "∀x ∈ R, x² < 0"],
+    "correctAnswer": "∃x ∈ R, x² ≤ 0"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình 2x - y ≤ 4 là nửa mặt phẳng chứa điểm nào?",
+    "options": ["(0; 0)", "(3; 0)", "(2; 1)", "(3; 3)"],
+    "correctAnswer": "(0; 0)"
+  },
+  {
+    "question": "Giá trị của cos(150°) là:",
+    "options": ["-√3/2", "√3/2", "1/2", "-1/2"],
+    "correctAnswer": "-√3/2"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1; 2) và B(3; -1). Tọa độ của vectơ AB là:",
+    "options": ["(2; -3)", "(4; 1)", "(-2; 3)", "(2; 1)"],
+    "correctAnswer": "(2; -3)"
+  },
+  {
+    "question": "Mốt của mẫu số liệu: 1, 2, 2, 3, 4, 4, 4, 5, 5 là:",
+    "options": ["4", "2", "3", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho A = {1, 2, 3} và B = {2, 3, 4}. Tập hợp A ∩ B là:",
+    "options": ["{2, 3}", "{1, 2, 3, 4}", "{1}", "{4}"],
+    "correctAnswer": "{2, 3}"
+  },
+  {
+    "question": "Cặp số nào không phải là nghiệm của hệ bất phương trình {x ≥ 1; y ≥ 1; x+y ≤ 4}?",
+    "options": ["(3; 2)", "(1; 1)", "(2; 2)", "(1; 3)"],
+    "correctAnswer": "(3; 2)"
+  },
+  {
+    "question": "Cho tam giác ABC có a=5, b=6, C=60°. Cạnh c bằng:",
+    "options": ["√31", "31", "√91", "91"],
+    "correctAnswer": "√31"
+  },
+  {
+    "question": "Cho hai vectơ a=(3; -1) và b=(2; 5). Tích vô hướng a.b là:",
+    "options": ["1", "11", "6", "-5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu: 3, 5, 2, 8, 4 là:",
+    "options": ["4", "5", "3", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho A = [0; 4) và B = (2; 6]. Tập hợp A ∪ B là:",
+    "options": ["[0; 6]", "(0; 6)", "[2; 4)", "(2; 4]"],
+    "correctAnswer": "[0; 6]"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y) = x+y trên miền nghiệm của hệ {x≥0; y≥0; 2x+y≤4; x+2y≤4} là:",
+    "options": ["8/3", "4", "2", "3"],
+    "correctAnswer": "8/3"
+  },
+  {
+    "question": "Diện tích S của tam giác ABC có a=10, b=8 và C=30° là:",
+    "options": ["20", "40", "20√3", "80"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Cho vectơ a = (-5; 12). Độ dài của vectơ a là:",
+    "options": ["13", "17", "7", "√119"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Khoảng biến thiên của mẫu số liệu: 22, 25, 21, 30, 28, 24 là:",
+    "options": ["9", "5", "6", "30"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Mệnh đề '∃x ∈ R, x² + 1 = 0' đúng hay sai?",
+    "options": ["Sai", "Đúng", "Không phải mệnh đề", "Mệnh đề chứa biến"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x - 3y + 3 ≥ 0 là nửa mặt phẳng chứa điểm:",
+    "options": ["(0; 0)", "(1; 2)", "(2; 3)", "(0; 2)"],
+    "correctAnswer": "(0; 0)"
+  },
+  {
+    "question": "Trong tam giác ABC, mₐ² (bình phương trung tuyến từ A) bằng:",
+    "options": ["(2b² + 2c² - a²)/4", "(b² + c² - a²)/2", "(a² + c² - b²)/2", "(a²+b²+c²)/3"],
+    "correctAnswer": "(2b² + 2c² - a²)/4"
+  },
+  {
+    "question": "Cho tam giác ABC có trọng tâm G. Đẳng thức nào sau đây đúng?",
+    "options": ["vectơ GA + vectơ GB + vectơ GC = vectơ 0", "vectơ AG + vectơ BG + vectơ CG = vectơ 0", "vectơ OA + vectơ OB + vectơ OC = 0", "vectơ AB + vectơ AC = vectơ AG"],
+    "correctAnswer": "vectơ GA + vectơ GB + vectơ GC = vectơ 0"
+  },
+  {
+    "question": "Cho mẫu số liệu: 1, 2, 3, 4, 5, 6, 7, 8. Tứ phân vị thứ nhất Q₁ là:",
+    "options": ["2.5", "2", "3", "4.5"],
+    "correctAnswer": "2.5"
+  },
+  {
+    "question": "Cho A = {x ∈ N | x là ước của 18}. Số phần tử của A là:",
+    "options": ["6", "5", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Điểm nào sau đây thuộc miền nghiệm của hệ {x-y<1; x+y>-1}?",
+    "options": ["(0; 0)", "(1; 1)", "(-1; -1)", "(2; 2)"],
+    "correctAnswer": "(0; 0)"
+  },
+  {
+    "question": "Cho tam giác ABC có a=10, A=45°. Bán kính đường tròn ngoại tiếp R là:",
+    "options": ["5√2", "10√2", "5", "10"],
+    "correctAnswer": "5√2"
+  },
+  {
+    "question": "Hai vectơ a và b vuông góc với nhau khi:",
+    "options": ["a.b = 0", "a.b = 1", "a.b = -1", "a và b cùng phương"],
+    "correctAnswer": "a.b = 0"
+  },
+  {
+    "question": "Phương sai của mẫu số liệu: 3, 4, 5, 6, 7 là:",
+    "options": ["2", "√2", "10", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phủ định của mệnh đề 'Một số tự nhiên chia hết cho 2' là:",
+    "options": ["Mọi số tự nhiên đều không chia hết cho 2", "Mọi số tự nhiên đều chia hết cho 2", "Có một số tự nhiên không chia hết cho 2", "Số 2 là số nguyên tố"],
+    "correctAnswer": "Mọi số tự nhiên đều không chia hết cho 2"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x≥0; y≥0; x+y≤1} là một:",
+    "options": ["Tam giác", "Tứ giác", "Đoạn thẳng", "Miền không bị chặn"],
+    "correctAnswer": "Tam giác"
+  },
+  {
+    "question": "Cho tam giác ABC có 3 cạnh là 13, 14, 15. Diện tích tam giác là:",
+    "options": ["84", "42", "105", "168"],
+    "correctAnswer": "84"
+  },
+  {
+    "question": "Cho hình vuông ABCD cạnh a. Tích vô hướng vectơ AB . vectơ AC là:",
+    "options": ["a²", "a²√2", "0", "-a²"],
+    "correctAnswer": "a²"
+  },
+  {
+    "question": "Độ lệch chuẩn của mẫu số liệu có phương sai là 16 là:",
+    "options": ["4", "256", "8", "32"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho A = (-∞; 3) và B = [1; 5). A ∩ B là:",
+    "options": ["[1; 3)", "(1; 3)", "[1; 3]", "(1; 5)"],
+    "correctAnswer": "[1; 3)"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=x-2y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤3; x+2y≤4} là:",
+    "options": ["-4", "-2", "0", "-3"],
+    "correctAnswer": "-4"
+  },
+  {
+    "question": "Giá trị của sin(120°) là:",
+    "options": ["√3/2", "1/2", "-√3/2", "-1/2"],
+    "correctAnswer": "√3/2"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho A(1;1), B(3;2), C(0;1). Tọa độ điểm D để ABCD là hình bình hành là:",
+    "options": ["(-2; 0)", "(2; 2)", "(4; 2)", "(2; 0)"],
+    "correctAnswer": "(-2; 0)"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu 10, 8, 4, 6, 2, 12 là:",
+    "options": ["7", "6", "8", "10"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Mệnh đề P ⇔ Q sai khi nào?",
+    "options": ["P và Q có chân trị khác nhau", "P và Q cùng đúng", "P và Q cùng sai", "Không bao giờ sai"],
+    "correctAnswer": "P và Q có chân trị khác nhau"
+  },
+  {
+    "question": "Cặp số (1; -1) là nghiệm của bất phương trình nào?",
+    "options": ["x + 3y + 1 < 0", "x + y > 0", "-x - y > 0", "x - 2y < 1"],
+    "correctAnswer": "x + 3y + 1 < 0"
+  },
+  {
+    "question": "Cho tam giác ABC có a=6, b=8, C=120°. Cạnh c là:",
+    "options": ["2√37", "√148", "Cả A và B", "10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho tam giác đều ABC cạnh a. Độ dài của vectơ AB + vectơ BC là:",
+    "options": ["a", "2a", "a√3", "0"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Cho mẫu số liệu: 10, 20, 30, 40, 50. Khoảng tứ phân vị là:",
+    "options": ["30", "15", "45", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ Z | x² ≤ 4} có bao nhiêu phần tử?",
+    "options": ["5", "4", "3", "Vô số"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=3x+2y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤3} là:",
+    "options": ["9", "6", "7", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Cho tam giác ABC có a=21, b=17, c=10. Bán kính đường tròn nội tiếp r là:",
+    "options": ["3.5", "7", "4", "84/24"],
+    "correctAnswer": "3.5"
+  },
+  {
+    "question": "Cho |a|=2, |b|=3, a.b = -3. Góc giữa hai vectơ a và b là:",
+    "options": ["120°", "60°", "90°", "150°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Nếu một mẫu số liệu có phương sai bằng 0 thì:",
+    "options": ["Tất cả các giá trị bằng nhau", "Số trung bình bằng 0", "Mốt bằng 0", "Số trung vị bằng 0"],
+    "correctAnswer": "Tất cả các giá trị bằng nhau"
+  },
+  {
+    "question": "Cho A = {1,2,3}, B = {2,4,6}. A \ B là:",
+    "options": ["{1,3}", "{2}", "{4,6}", "{1,2,3,4,6}"],
+    "correctAnswer": "{1,3}"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x>0; y<0} là:",
+    "options": ["Góc phần tư thứ tư", "Góc phần tư thứ nhất", "Góc phần tư thứ hai", "Góc phần tư thứ ba"],
+    "correctAnswer": "Góc phần tư thứ tư"
+  },
+  {
+    "question": "Giá trị của tan(180°) là:",
+    "options": ["0", "1", "-1", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Cho tam giác ABC. M là trung điểm AB, N là trung điểm AC. Mệnh đề nào đúng?",
+    "options": ["vectơ MN = (1/2)vectơ BC", "vectơ MN = 2 vectơ BC", "vectơ AM = vectơ MB", "vectơ AN = (1/2)vectơ NC"],
+    "correctAnswer": "vectơ MN = (1/2)vectơ BC"
+  },
+  {
+    "question": "Số trung bình của mẫu số liệu 0, 10, 20 là:",
+    "options": ["10", "0", "20", "15"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Mệnh đề '∀x ∈ N, x > -x' đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Vừa đúng vừa sai"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cặp số nào là nghiệm của hệ {x-y>0; x+y<4}?",
+    "options": ["(2; 1)", "(1; 1)", "(2; 2)", "(3; 2)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Cho tam giác ABC có A=60°, b=10, c=12. Diện tích tam giác là:",
+    "options": ["30√3", "60", "60√3", "30"],
+    "correctAnswer": "30√3"
+  },
+  {
+    "question": "Cho hình vuông ABCD cạnh a. Tích vô hướng vectơ AB . vectơ BC là:",
+    "options": ["0", "a²", "-a²", "a"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Mẫu số liệu nào có độ phân tán bằng 0?",
+    "options": ["7, 7, 7, 7", "1, 2, 3, 4", "1, 1, 2, 2", "-1, 0, 1"],
+    "correctAnswer": "7, 7, 7, 7"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ R | x² + x + 1 = 0} là:",
+    "options": ["Tập rỗng ∅", "{1}", "{-1}", "{0}"],
+    "correctAnswer": "Tập rỗng ∅"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=x+y trên miền nghiệm của hệ {x≥1; y≥1} là:",
+    "options": ["2", "1", "0", "Không có"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho sin(α) = 3/5 (0° < α < 90°). Giá trị của cos(α) là:",
+    "options": ["4/5", "-4/5", "3/5", "-3/5"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Cho hình chữ nhật ABCD. Đẳng thức nào sau đây đúng?",
+    "options": ["|vectơ AB + vectơ AD| = |vectơ AC|", "|vectơ AB| = |vectơ CD|", "vectơ AB = vectơ DC", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu 10, 20, 30, 40, 50, 60 là:",
+    "options": ["35", "30", "40", "30.5"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Mệnh đề đảo của 'Nếu một tứ giác là hình thang cân thì nó có hai đường chéo bằng nhau' là:",
+    "options": ["Nếu một tứ giác có hai đường chéo bằng nhau thì nó là hình thang cân", "Nếu một tứ giác không phải hình thang cân thì hai đường chéo không bằng nhau", "Một tứ giác là hình thang cân và có hai đường chéo bằng nhau", "Một tứ giác không phải hình thang cân"],
+    "correctAnswer": "Nếu một tứ giác có hai đường chéo bằng nhau thì nó là hình thang cân"
+  },
+  {
+    "question": "Miền nghiệm của bất phương trình x-y≥1 không chứa điểm nào?",
+    "options": ["(0;0)", "(2;0)", "(1;-1)", "(3;1)"],
+    "correctAnswer": "(0;0)"
+  },
+  {
+    "question": "Trong tam giác ABC, nếu b²+c²-a² < 0 thì:",
+    "options": ["Góc A tù", "Góc A nhọn", "Góc A vuông", "Không tồn tại tam giác"],
+    "correctAnswer": "Góc A tù"
+  },
+  {
+    "question": "Trong mặt phẳng Oxy, cho a=(2;3) và b=(-3;2). Góc giữa hai vectơ là:",
+    "options": ["90°", "0°", "180°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Mốt có thể được sử dụng cho loại dữ liệu nào?",
+    "options": ["Cả định tính và định lượng", "Chỉ định lượng", "Chỉ định tính", "Chỉ dữ liệu liên tục"],
+    "correctAnswer": "Cả định tính và định lượng"
+  },
+  {
+    "question": "Cho A = {x ∈ R | |x-1| ≤ 2}. A là tập hợp nào?",
+    "options": ["[-1; 3]", "(-1; 3)", "[-1; 3)", "(-1; 3]"],
+    "correctAnswer": "[-1; 3]"
+  },
+  {
+    "question": "Giá trị lớn nhất của F(x,y)=x-y trên miền nghiệm của hệ {x≥0; y≥0; x+y≤2} là:",
+    "options": ["2", "-2", "0", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho tam giác ABC có a=2, b=3, c=4. Bán kính đường tròn ngoại tiếp R là:",
+    "options": ["8/√15", "15/8", "√15/8", "8√15"],
+    "correctAnswer": "8/√15"
+  },
+  {
+    "question": "Cho tam giác ABC. Vectơ AB + vectơ CA bằng:",
+    "options": ["vectơ CB", "vectơ BC", "vectơ AC", "vectơ 0"],
+    "correctAnswer": "vectơ CB"
+  },
+  {
+    "question": "Cho mẫu số liệu: 2, 5, 8, 10, 15. Độ lệch chuẩn xấp xỉ:",
+    "options": ["4.5", "4.1", "5", "16.8"],
+    "correctAnswer": ["4.1"]
+  },
+  {
+    "question": "Mệnh đề '∀x ∈ Z, x² ≥ x' đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Vừa đúng vừa sai"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Miền nghiệm của hệ {x+y-3≤0; x≥0; y≥0} là một tam giác. Diện tích tam giác đó là:",
+    "options": ["4.5", "9", "3", "6"],
+    "correctAnswer": "4.5"
+  },
+  {
+    "question": "Giá trị của sin²(α) + cos²(180°-α) là:",
+    "options": ["1", "0", "sin²α - cos²α", "cos(2α)"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho hình lục giác đều ABCDEF tâm O. Đẳng thức nào sau đây đúng?",
+    "options": ["vectơ OA + vectơ OB + ... + vectơ OF = vectơ 0", "vectơ AB + vectơ BC = vectơ AC", "Cả A và B", "Không có"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Số trung bình của mẫu số liệu 1, 2, 3, 4, 100 là:",
+    "options": ["22", "3", "55", "100"],
+    "correctAnswer": "22"
+  },
+  {
+    "question": "Tập hợp A = {x ∈ Q | x² = 2} là:",
+    "options": ["Tập rỗng ∅", "{√2}", "{-√2, √2}", "{1.414}"],
+    "correctAnswer": "Tập rỗng ∅"
+  },
+  {
+    "question": "Giá trị nhỏ nhất của F(x,y)=y trên miền nghiệm của hệ {x≥0; y≥0; x+y≥1} là:",
+    "options": ["0", "1", "1/2", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Cho tam giác ABC có A=30°, B=75°. Tỉ số b/c là:",
+    "options": ["√2", "2", "√3", "1/2"],
+    "correctAnswer": "√2"
+  },
+  {
+    "question": "Cho tam giác ABC vuông tại A, AB=a, AC=a√3. Độ dài của vectơ AB+AC là:",
+    "options": ["2a", "a", "a√2", "a√3"],
+    "correctAnswer": "2a"
+  },
+  {
+    "question": "Khoảng tứ phân vị là một số đo:",
+    "options": ["Độ phân tán", "Xu thế trung tâm", "Giá trị lớn nhất", "Giá trị nhỏ nhất"],
+    "correctAnswer": "Độ phân tán"
+  }
+]
+
