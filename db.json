@@ -1,5 +1,24 @@
 {
   "grades": {
+    "11": {
+      "name": "Lớp 11",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Hàm số lượng giác và phương trình lượng giác",
+                  "file": "./data/math-11-chapter-1.json"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "12": {
       "name": "Lớp 12",
       "subjects": {
