@@ -1,5 +1,24 @@
 {
   "grades": {
+    "10": {
+      "name": "Lớp 10",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Mệnh đề và tập hợp",
+                  "file": "./data/math-10-chapter-1.json"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "11": {
       "name": "Lớp 11",
       "subjects": {
