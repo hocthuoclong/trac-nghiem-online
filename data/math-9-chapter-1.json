@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Phương trình nào sau đây là phương trình bậc nhất hai ẩn?",
+    "options": ["2x + 3y = 5", "x² + y = 1", "xy = 4", "x + y + z = 0"],
+    "correctAnswer": "2x + 3y = 5"
+  },
+  {
+    "question": "Cặp số (1; 2) là nghiệm của phương trình nào sau đây?",
+    "options": ["x + y = 3", "2x - y = 1", "x - y = -2", "3x + y = 4"],
+    "correctAnswer": "x + y = 3"
+  },
+  {
+    "question": "Hệ phương trình {x+y=2; x-y=0} có nghiệm là:",
+    "options": ["(1; 1)", "(2; 0)", "(0; 2)", "Vô nghiệm"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Phương trình bậc nhất hai ẩn ax + by = c có bao nhiêu nghiệm?",
+    "options": ["Vô số nghiệm", "Một nghiệm duy nhất", "Hai nghiệm", "Vô nghiệm"],
+    "correctAnswer": "Vô số nghiệm"
+  },
+  {
+    "question": "Giải hệ phương trình {2x+y=5; x-y=1} bằng phương pháp cộng đại số, ta được:",
+    "options": ["x=2, y=1", "x=1, y=2", "x=3, y=2", "x=2, y=3"],
+    "correctAnswer": "x=2, y=1"
+  },
+  {
+    "question": "Tổng của hai số là 10, hiệu của chúng là 2. Hai số đó là:",
+    "options": ["6 và 4", "7 và 3", "8 và 2", "5 và 5"],
+    "correctAnswer": "6 và 4"
+  },
+  {
+    "question": "Trong mặt phẳng tọa độ, tập nghiệm của phương trình ax + by = c là:",
+    "options": ["Một đường thẳng", "Một điểm", "Một parabol", "Một đường tròn"],
+    "correctAnswer": "Một đường thẳng"
+  },
+  {
+    "question": "Hệ phương trình {x+2y=3; 2x+4y=6} có bao nhiêu nghiệm?",
+    "options": ["Vô số nghiệm", "Một nghiệm duy nhất", "Vô nghiệm", "Hai nghiệm"],
+    "correctAnswer": "Vô số nghiệm"
+  },
+  {
+    "question": "Một mảnh vườn hình chữ nhật có chu vi 28m. Chiều dài hơn chiều rộng 2m. Diện tích mảnh vườn là:",
+    "options": ["48 m²", "28 m²", "14 m²", "50 m²"],
+    "correctAnswer": "48 m²"
+  },
+  {
+    "question": "Cặp số nào không phải là nghiệm của phương trình 2x - y = 1?",
+    "options": ["(1; 2)", "(1; 1)", "(2; 3)", "(0; -1)"],
+    "correctAnswer": "(1; 2)"
+  },
+  {
+    "question": "Hệ phương trình {x-y=1; 2x-2y=3} có nghiệm là:",
+    "options": ["Vô nghiệm", "Vô số nghiệm", "(2; 1)", "(1; 0)"],
+    "correctAnswer": "Vô nghiệm"
+  },
+  {
+    "question": "Giải hệ phương trình {x=y+1; 2x+y=5} bằng phương pháp thế, ta được:",
+    "options": ["x=2, y=1", "x=1, y=0", "x=3, y=2", "x=0, y=-1"],
+    "correctAnswer": "x=2, y=1"
+  },
+  {
+    "question": "Hai vòi nước cùng chảy vào một bể cạn thì sau 6 giờ đầy bể. Nếu mở vòi I trong 2 giờ và vòi II trong 3 giờ thì được 2/5 bể. Hỏi mỗi vòi chảy một mình thì bao lâu đầy bể?",
+    "options": ["Vòi I: 10 giờ, Vòi II: 15 giờ", "Vòi I: 15 giờ, Vòi II: 10 giờ", "Vòi I: 8 giờ, Vòi II: 12 giờ", "Vòi I: 12 giờ, Vòi II: 8 giờ"],
+    "correctAnswer": "Vòi I: 10 giờ, Vòi II: 15 giờ"
+  },
+  {
+    "question": "Phương trình 0x + 2y = 4 có nghiệm tổng quát là:",
+    "options": ["{x ∈ R; y = 2}", "{x = 2; y ∈ R}", "{x = 0; y = 2}", "Vô nghiệm"],
+    "correctAnswer": "{x ∈ R; y = 2}"
+  },
+  {
+    "question": "Hệ phương trình tương đương là hai hệ phương trình có:",
+    "options": ["Cùng một tập nghiệm", "Cùng số lượng phương trình", "Cùng số ẩn", "Các hệ số tương ứng bằng nhau"],
+    "correctAnswer": "Cùng một tập nghiệm"
+  },
+  {
+    "question": "Tìm hai số biết tổng của chúng bằng 19 và hai lần số này lớn hơn ba lần số kia là 3.",
+    "options": ["12 và 7", "11 và 8", "13 và 6", "10 và 9"],
+    "correctAnswer": "12 và 7"
+  },
+  {
+    "question": "Đường thẳng d: 2x - y = 3 đi qua điểm nào sau đây?",
+    "options": ["(2; 1)", "(1; 1)", "(0; 3)", "(1; -2)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Hệ phương trình {ax+by=c; a'x+b'y=c'} vô nghiệm khi:",
+    "options": ["a/a' = b/b' ≠ c/c'", "a/a' = b/b' = c/c'", "a/a' ≠ b/b'", "a=b=c=0"],
+    "correctAnswer": "a/a' = b/b' ≠ c/c'"
+  },
+  {
+    "question": "Một người đi xe máy từ A đến B với vận tốc 40 km/h. Lúc về, người đó đi với vận tốc 30 km/h nên thời gian về nhiều hơn thời gian đi là 30 phút. Quãng đường AB dài:",
+    "options": ["60 km", "50 km", "70 km", "80 km"],
+    "correctAnswer": "60 km"
+  },
+  {
+    "question": "Cặp số (2; -1) là nghiệm duy nhất của hệ phương trình nào?",
+    "options": ["{x+y=1; x-y=3}", "{x+y=1; 2x+2y=2}", "{x+y=1; x+y=3}", "{x=2; y=-1; x+y=1}"],
+    "correctAnswer": "{x+y=1; x-y=3}"
+  },
+  {
+    "question": "Phương trình 3x - 0y = 6 có nghiệm tổng quát là:",
+    "options": ["{x = 2; y ∈ R}", "{x ∈ R; y = 2}", "{x = 2; y = 0}", "Vô nghiệm"],
+    "correctAnswer": "{x = 2; y ∈ R}"
+  },
+  {
+    "question": "Hệ phương trình {ax+by=c; a'x+b'y=c'} có nghiệm duy nhất khi:",
+    "options": ["a/a' ≠ b/b'", "a/a' = b/b'", "a/a' = c/c'", "b/b' = c/c'"],
+    "correctAnswer": "a/a' ≠ b/b'"
+  },
+  {
+    "question": "Hai số có tổng là 34. Nếu lấy số lớn chia cho số nhỏ thì được thương là 3 và số dư là 2. Tìm hai số đó.",
+    "options": ["26 và 8", "25 và 9", "27 và 7", "24 và 10"],
+    "correctAnswer": "26 và 8"
+  },
+  {
+    "question": "Đường thẳng y = 2x - 1 cắt đường thẳng y = -x + 5 tại điểm có tọa độ:",
+    "options": ["(2; 3)", "(3; 2)", "(1; 1)", "(0; 5)"],
+    "correctAnswer": "(2; 3)"
+  },
+  {
+    "question": "Hệ phương trình {3x-2y=1; -6x+4y=-2} có:",
+    "options": ["Vô số nghiệm", "Vô nghiệm", "Nghiệm duy nhất (1;1)", "Nghiệm duy nhất (0;-1/2)"],
+    "correctAnswer": "Vô số nghiệm"
+  },
+  {
+    "question": "Một ô tô đi từ A đến B. Cùng lúc đó, một xe máy đi từ B về A. Sau 2 giờ chúng gặp nhau. Biết vận tốc ô tô lớn hơn vận tốc xe máy là 15 km/h và quãng đường AB dài 150 km. Vận tốc mỗi xe là:",
+    "options": ["Ô tô: 45 km/h, Xe máy: 30 km/h", "Ô tô: 50 km/h, Xe máy: 25 km/h", "Ô tô: 40 km/h, Xe máy: 35 km/h", "Ô tô: 55 km/h, Xe máy: 20 km/h"],
+    "correctAnswer": "Ô tô: 45 km/h, Xe máy: 30 km/h"
+  },
+  {
+    "question": "Cặp số (x; y) nào là nghiệm của phương trình 5x + 0y = -10?",
+    "options": ["(-2; 3)", "(5; -10)", "(-10; 5)", "(0; -2)"],
+    "correctAnswer": "(-2; 3)"
+  },
+  {
+    "question": "Hệ phương trình {ax+by=c; a'x+b'y=c'} có vô số nghiệm khi:",
+    "options": ["a/a' = b/b' = c/c'", "a/a' = b/b' ≠ c/c'", "a/a' ≠ b/b'", "a=a', b=b', c=c'"],
+    "correctAnswer": "a/a' = b/b' = c/c'"
+  },
+  {
+    "question": "Tìm một số có hai chữ số, biết rằng tổng hai chữ số của nó bằng 10, và nếu đổi chỗ hai chữ số thì được số mới lớn hơn số cũ 36 đơn vị.",
+    "options": ["37", "73", "46", "64"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {x/2 + y/3 = 2; x+y=5} là:",
+    "options": ["(2; 3)", "(4; 1)", "(0; 5)", "(6; -1)"],
+    "correctAnswer": "(2; 3)"
+  },
+  {
+    "question": "Phương trình x - y = 2 được biểu diễn bởi đường thẳng:",
+    "options": ["y = x - 2", "y = -x + 2", "x = y + 2", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Để giải hệ phương trình bằng phương pháp thế, ta:",
+    "options": ["Biểu diễn một ẩn theo ẩn kia từ một phương trình rồi thế vào phương trình còn lại", "Cộng hoặc trừ vế theo vế hai phương trình", "Vẽ đồ thị hai hàm số", "Nhân hai phương trình với nhau"],
+    "correctAnswer": "Biểu diễn một ẩn theo ẩn kia từ một phương trình rồi thế vào phương trình còn lại"
+  },
+  {
+    "question": "Một tam giác có chu vi 24 cm. Cạnh lớn nhất dài hơn cạnh nhỏ nhất 4 cm. Tổng hai cạnh lớn hơn bằng 3 lần cạnh nhỏ nhất. Độ dài ba cạnh là:",
+    "options": ["6, 8, 10", "5, 9, 10", "7, 8, 9", "6, 7, 11"],
+    "correctAnswer": "6, 8, 10"
+  },
+  {
+    "question": "Cặp số (0; 0) là nghiệm của phương trình nào?",
+    "options": ["x - 2y = 0", "x + y = 1", "2x - 3 = y", "x = 5"],
+    "correctAnswer": "x - 2y = 0"
+  },
+  {
+    "question": "Hệ phương trình {2x-y=m; 4x-2y=3} vô nghiệm khi:",
+    "options": ["m ≠ 3/2", "m = 3/2", "m bất kỳ", "m = 2"],
+    "correctAnswer": "m ≠ 3/2"
+  },
+  {
+    "question": "5 quả cam và 3 quả quýt giá 27000 đồng. 2 quả cam và 4 quả quýt giá 26000 đồng. Giá mỗi quả là:",
+    "options": ["Cam: 3000đ, Quýt: 4000đ", "Cam: 4000đ, Quýt: 3000đ", "Cam: 3500đ, Quýt: 3500đ", "Cam: 2000đ, Quýt: 5000đ"],
+    "correctAnswer": "Cam: 3000đ, Quýt: 4000đ"
+  },
+  {
+    "question": "Đường thẳng y = ax + b đi qua hai điểm A(1; 3) và B(-1; 1). Giá trị của a và b là:",
+    "options": ["a=1, b=2", "a=2, b=1", "a=-1, b=4", "a=1, b=-2"],
+    "correctAnswer": "a=1, b=2"
+  },
+  {
+    "question": "Hệ phương trình {2x+y=1; 4x+my=2} có vô số nghiệm khi:",
+    "options": ["m = 2", "m ≠ 2", "m = 1", "m = 4"],
+    "correctAnswer": "m = 2"
+  },
+  {
+    "question": "Tổng số tuổi của hai anh em là 30. 5 năm nữa, tuổi anh gấp đôi tuổi em. Tuổi hiện nay của mỗi người là:",
+    "options": ["Anh: 25, Em: 5", "Anh: 20, Em: 10", "Anh: 18, Em: 12", "Anh: 17, Em: 13"],
+    "correctAnswer": "Anh: 25, Em: 5"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {3(x+1)+2(y-1)=4; 2(x-1)-(y+1)=0} là:",
+    "options": ["(1; 1)", "(0; 0)", "(2; -1)", "(-1; 2)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Phương trình bậc nhất hai ẩn ax + by = c với a=b=0 có nghiệm khi:",
+    "options": ["c = 0", "c ≠ 0", "c bất kỳ", "Không bao giờ có nghiệm"],
+    "correctAnswer": "c = 0"
+  },
+  {
+    "question": "Hệ phương trình {x-3y=1; mx+y=2} có nghiệm duy nhất khi:",
+    "options": ["m ≠ -1/3", "m = -1/3", "m bất kỳ", "m = 3"],
+    "correctAnswer": "m ≠ -1/3"
+  },
+  {
+    "question": "Một xí nghiệp sản xuất được 1200 sản phẩm trong 2 tổ. Tổ I vượt mức 15%, tổ II vượt mức 10% nên cả hai tổ sản xuất được 1355 sản phẩm. Số sản phẩm mỗi tổ được giao ban đầu là:",
+    "options": ["Tổ I: 700, Tổ II: 500", "Tổ I: 500, Tổ II: 700", "Tổ I: 600, Tổ II: 600", "Tổ I: 800, Tổ II: 400"],
+    "correctAnswer": "Tổ I: 700, Tổ II: 500"
+  },
+  {
+    "question": "Đường thẳng ax + by = c song song với trục Ox khi:",
+    "options": ["a = 0, b ≠ 0", "b = 0, a ≠ 0", "a = 0, b = 0", "c = 0"],
+    "correctAnswer": "a = 0, b ≠ 0"
+  },
+  {
+    "question": "Hệ phương trình {x+y=S; xy=P} có nghiệm khi:",
+    "options": ["S² - 4P ≥ 0", "S² - 4P < 0", "S² + 4P ≥ 0", "S² + 4P < 0"],
+    "correctAnswer": "S² - 4P ≥ 0"
+  },
+  {
+    "question": "Một canô xuôi dòng 42 km rồi ngược dòng 20 km hết tổng cộng 5 giờ. Biết vận tốc dòng nước là 2 km/h. Vận tốc thực của canô là:",
+    "options": ["12 km/h", "10 km/h", "14 km/h", "15 km/h"],
+    "correctAnswer": "12 km/h"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {√2x+y=1; x+√2y=2} là:",
+    "options": ["(0; 1)", "(√2; -1)", "(1; 1-√2)", "(-√2; 3)"],
+    "correctAnswer": ["(0; 1)"]
+  },
+  {
+    "question": "Phương trình 2x - 3y = 6 cắt trục tung tại điểm có tung độ là:",
+    "options": ["-2", "3", "6", "2"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Hệ phương trình {x+my=1; mx+y=1} vô nghiệm khi:",
+    "options": ["m = -1", "m = 1", "m = ±1", "Không có m"],
+    "correctAnswer": "m = -1"
+  },
+  {
+    "question": "Hai lớp 9A và 9B có tổng cộng 82 học sinh. Trong đợt quyên góp, mỗi bạn lớp 9A ủng hộ 5 quyển vở, mỗi bạn lớp 9B ủng hộ 4 quyển. Cả hai lớp ủng hộ 368 quyển. Số học sinh mỗi lớp là:",
+    "options": ["9A: 40, 9B: 42", "9A: 42, 9B: 40", "9A: 38, 9B: 44", "9A: 44, 9B: 38"],
+    "correctAnswer": "9A: 40, 9B: 42"
+  },
+  {
+    "question": "Đường thẳng ax + by = c song song với trục Oy khi:",
+    "options": ["b = 0, a ≠ 0", "a = 0, b ≠ 0", "a = 0, b = 0", "c = 0"],
+    "correctAnswer": "b = 0, a ≠ 0"
+  },
+  {
+    "question": "Hệ phương trình {x-y=2; x²+y²=10} có nghiệm là:",
+    "options": ["(3; 1) và (-1; -3)", "(3; 1)", "(-1; -3)", "Vô nghiệm"],
+    "correctAnswer": "(3; 1) và (-1; -3)"
+  },
+  {
+    "question": "Một sân trường hình chữ nhật có chu vi 120m. Nếu tăng chiều rộng 5m và giảm chiều dài 5m thì diện tích không đổi. Kích thước ban đầu là:",
+    "options": ["Dài 35m, Rộng 25m", "Dài 40m, Rộng 20m", "Dài 30m, Rộng 30m", "Dài 32.5m, Rộng 27.5m"],
+    "correctAnswer": "Dài 35m, Rộng 25m"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {1/x + 1/y = 1/2; 2/x - 3/y = -1/2} là:",
+    "options": ["(4; 4)", "(2; 2)", "(1/4; 1/4)", "Vô nghiệm"],
+    "correctAnswer": "(4; 4)"
+  },
+  {
+    "question": "Phương trình 2x + 3y = 5 có một nghiệm là (1; 1). Một nghiệm khác là:",
+    "options": ["(4; -1)", "(2.5; 0)", "(-1; 7/3)", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Hệ phương trình {x+y=2; 2x+2y=m} có vô số nghiệm khi:",
+    "options": ["m = 4", "m ≠ 4", "m = 2", "m ≠ 2"],
+    "correctAnswer": "m = 4"
+  },
+  {
+    "question": "Hai xí nghiệp theo kế hoạch phải làm 360 dụng cụ. Xí nghiệp I vượt mức 12%, xí nghiệp II vượt mức 10% nên cả hai làm được 400 dụng cụ. Số dụng cụ mỗi xí nghiệp được giao là:",
+    "options": ["XN I: 200, XN II: 160", "XN I: 160, XN II: 200", "XN I: 180, XN II: 180", "XN I: 150, XN II: 210"],
+    "correctAnswer": "XN I: 200, XN II: 160"
+  },
+  {
+    "question": "Đường thẳng y = 2x + 1 và y = (m-1)x + 2 cắt nhau khi:",
+    "options": ["m ≠ 3", "m = 3", "m bất kỳ", "m = 2"],
+    "correctAnswer": "m ≠ 3"
+  },
+  {
+    "question": "Hệ phương trình {x-2y=1; -2x+4y=-2} có tập nghiệm được biểu diễn bởi:",
+    "options": ["Một đường thẳng", "Một điểm", "Tập rỗng", "Toàn bộ mặt phẳng"],
+    "correctAnswer": "Một đường thẳng"
+  },
+  {
+    "question": "Một số có hai chữ số. Tích hai chữ số của nó là 12. Nếu đổi chỗ hai chữ số thì được số mới lớn hơn số cũ 27 đơn vị. Số ban đầu là:",
+    "options": ["34", "43", "26", "62"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {2x-3y=1; x+2y=4} là:",
+    "options": ["(2; 1)", "(1; 2)", "(4; 0)", "(0; -1/3)"],
+    "correctAnswer": "(2; 1)"
+  },
+  {
+    "question": "Phương trình ax + by = c vô nghiệm khi:",
+    "options": ["a=0, b=0, c≠0", "a=0, b=0, c=0", "a≠0", "b≠0"],
+    "correctAnswer": "a=0, b=0, c≠0"
+  },
+  {
+    "question": "Hệ phương trình {x+y=4; 2x-y=m} có nghiệm (3;1). Giá trị của m là:",
+    "options": ["5", "4", "3", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Hai công nhân cùng làm một công việc thì 4 ngày xong. Nếu người thứ nhất làm 2 ngày, người thứ hai làm 3 ngày thì được 7/12 công việc. Mỗi người làm một mình xong trong bao lâu?",
+    "options": ["Người 1: 6 ngày, Người 2: 12 ngày", "Người 1: 12 ngày, Người 2: 6 ngày", "Người 1: 8 ngày, Người 2: 8 ngày", "Người 1: 5 ngày, Người 2: 10 ngày"],
+    "correctAnswer": "Người 1: 6 ngày, Người 2: 12 ngày"
+  },
+  {
+    "question": "Đường thẳng y=3x-2 và y=x+4 song song với nhau. Phát biểu này:",
+    "options": ["Sai", "Đúng", "Thiếu điều kiện", "Không xác định"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Hệ phương trình {x+y=1; y+z=2; z+x=3} có nghiệm là:",
+    "options": ["(1; 0; 2)", "(0; 1; 2)", "(2; -1; 3)", "Vô nghiệm"],
+    "correctAnswer": "(1; 0; 2)"
+  },
+  {
+    "question": "Một tam giác vuông có cạnh huyền là 13 cm. Tổng hai cạnh góc vuông là 17 cm. Diện tích tam giác đó là:",
+    "options": ["30 cm²", "60 cm²", "221 cm²", "17 cm²"],
+    "correctAnswer": "30 cm²"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {x-y=0; 2x+y=3} là:",
+    "options": ["(1; 1)", "(0; 0)", "(2; 2)", "(3; 3)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Phương trình 2x + y = 4 có vô số nghiệm. Một nghiệm của nó là:",
+    "options": ["(1; 2)", "(0; 4)", "(2; 0)", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Hệ phương trình {2x+y=3; 6x+3y=9} có bao nhiêu nghiệm?",
+    "options": ["Vô số nghiệm", "Vô nghiệm", "Một nghiệm duy nhất", "Hai nghiệm"],
+    "correctAnswer": "Vô số nghiệm"
+  },
+  {
+    "question": "Quãng đường AB dài 120 km. Một ô tô đi từ A đến B rồi quay về A hết 5 giờ. Vận tốc lúc đi lớn hơn vận tốc lúc về 10 km/h. Vận tốc lúc đi là:",
+    "options": ["60 km/h", "50 km/h", "40 km/h", "48 km/h"],
+    "correctAnswer": "60 km/h"
+  },
+  {
+    "question": "Đường thẳng y = (m-1)x + 2 và y = 3x - 1 trùng nhau khi:",
+    "options": ["Không có m", "m = 4", "m = 2", "m = 1"],
+    "correctAnswer": "Không có m"
+  },
+  {
+    "question": "Hệ phương trình {x+2y=3; 2x+y=3} có nghiệm là:",
+    "options": ["(1; 1)", "(2; 1/2)", "(3; 0)", "(0; 3/2)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 60 cm². Nếu tăng chiều dài 5 cm và giảm chiều rộng 2 cm thì diện tích không đổi. Kích thước ban đầu là:",
+    "options": ["Dài 10 cm, Rộng 6 cm", "Dài 12 cm, Rộng 5 cm", "Dài 15 cm, Rộng 4 cm", "Dài 20 cm, Rộng 3 cm"],
+    "correctAnswer": "Dài 10 cm, Rộng 6 cm"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {x-2y=5; 3x+y=1} là:",
+    "options": ["(1; -2)", "(-1; -3)", "(3; -1)", "(7; 1)"],
+    "correctAnswer": "(1; -2)"
+  },
+  {
+    "question": "Phương trình 0x + 0y = 5 có bao nhiêu nghiệm?",
+    "options": ["Vô nghiệm", "Vô số nghiệm", "Một nghiệm", "Hai nghiệm"],
+    "correctAnswer": "Vô nghiệm"
+  },
+  {
+    "question": "Hệ phương trình {x-y=1; -x+y=-1} có tập nghiệm được biểu diễn bởi:",
+    "options": ["Đường thẳng x-y=1", "Điểm (1;0)", "Tập rỗng", "Toàn bộ mặt phẳng"],
+    "correctAnswer": "Đường thẳng x-y=1"
+  },
+  {
+    "question": "Hai đội công nhân cùng sửa một đoạn đường thì 24 ngày xong. Nếu đội I làm 10 ngày và đội II làm 15 ngày thì được 1/2 công việc. Mỗi đội làm riêng xong trong bao lâu?",
+    "options": ["Đội I: 40 ngày, Đội II: 60 ngày", "Đội I: 60 ngày, Đội II: 40 ngày", "Đội I: 30 ngày, Đội II: 50 ngày", "Đội I: 50 ngày, Đội II: 30 ngày"],
+    "correctAnswer": "Đội I: 40 ngày, Đội II: 60 ngày"
+  },
+  {
+    "question": "Đường thẳng y = 2x-3 cắt trục hoành tại điểm có tọa độ:",
+    "options": ["(1.5; 0)", "(0; -3)", "(3/2; 0)", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Hệ phương trình {x-my=0; mx-y=m²-1} có vô số nghiệm khi:",
+    "options": ["m=1", "m=-1", "m=±1", "Không có m"],
+    "correctAnswer": "m=1"
+  },
+  {
+    "question": "Một số có hai chữ số. Tổng hai chữ số là 9. Nếu lấy số đó chia cho số gồm hai chữ số viết theo thứ tự ngược lại thì được thương là 2 và dư 18. Số ban đầu là:",
+    "options": ["72", "27", "63", "36"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Nghiệm của hệ phương trình {2x+3y=0; 3x-y=11} là:",
+    "options": ["(3; -2)", "(-3; 2)", "(1; 8)", "(5; -4)"],
+    "correctAnswer": "(3; -2)"
+  },
+  {
+    "question": "Phương trình x + y = 2 có một nghiệm là (x, 2-x). Phát biểu này:",
+    "options": ["Đúng", "Sai", "Chỉ đúng khi x=1", "Chỉ đúng khi x=0"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Hệ phương trình {x+y=5; x=3} có nghiệm là:",
+    "options": ["(3; 2)", "(5; 3)", "(3; 5)", "(2; 3)"],
+    "correctAnswer": "(3; 2)"
+  },
+  {
+    "question": "Tìm hai số tự nhiên biết hiệu của chúng là 1275 và nếu lấy số lớn chia số nhỏ thì được thương là 3 và dư 125.",
+    "options": ["1850 và 575", "1800 và 525", "1900 và 625", "1750 và 475"],
+    "correctAnswer": "1850 và 575"
+  }
+]
+
