@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Mệnh đề nào sau đây đúng?",
+    "options": ["Hai đường thẳng cùng vuông góc với một mặt phẳng thì song song với nhau.", "Hai đường thẳng cùng vuông góc với một đường thẳng thì song song với nhau.", "Một đường thẳng vuông góc với một trong hai đường thẳng song song thì vuông góc với đường thẳng kia.", "Hai mặt phẳng cùng vuông góc với một đường thẳng thì song song với nhau."],
+    "correctAnswer": "Hai đường thẳng cùng vuông góc với một mặt phẳng thì song song với nhau."
+  },
+  {
+    "question": "Đường thẳng d vuông góc với mặt phẳng (P) nếu:",
+    "options": ["d vuông góc với hai đường thẳng cắt nhau nằm trong (P).", "d vuông góc với một đường thẳng nằm trong (P).", "d vuông góc với đường thẳng a song song với (P).", "d song song với một đường thẳng vuông góc với (P)."],
+    "correctAnswer": "d vuông góc với hai đường thẳng cắt nhau nằm trong (P)."
+  },
+  {
+    "question": "Góc giữa đường thẳng và mặt phẳng là góc giữa:",
+    "options": ["Đường thẳng đó và hình chiếu vuông góc của nó trên mặt phẳng.", "Đường thẳng đó và một đường thẳng bất kỳ trong mặt phẳng.", "Đường thẳng đó và pháp tuyến của mặt phẳng.", "Hai đường thẳng bất kỳ cắt nhau."],
+    "correctAnswer": "Đường thẳng đó và hình chiếu vuông góc của nó trên mặt phẳng."
+  },
+  {
+    "question": "Cho hình chóp S.ABC có SA ⊥ (ABC). Tam giác ABC vuông tại B. Mệnh đề nào sau đây sai?",
+    "options": ["SA ⊥ AC", "SB ⊥ BC", "SA ⊥ AB", "SA ⊥ BC"],
+    "correctAnswer": "SA ⊥ AC"
+  },
+  {
+    "question": "Hai mặt phẳng (P) và (Q) được gọi là vuông góc với nhau nếu:",
+    "options": ["Góc giữa chúng bằng 90°.", "Góc giữa chúng bằng 0°.", "Chúng có một điểm chung.", "Chúng không có điểm chung."],
+    "correctAnswer": "Góc giữa chúng bằng 90°."
+  },
+  {
+    "question": "Khoảng cách từ một điểm M đến một mặt phẳng (P) là:",
+    "options": ["Độ dài đoạn MH với H là hình chiếu vuông góc của M trên (P).", "Độ dài đoạn MA với A là một điểm bất kỳ trên (P).", "Khoảng cách ngắn nhất từ M đến một đường thẳng trong (P).", "Bằng 0 nếu M không thuộc (P)."],
+    "correctAnswer": "Độ dài đoạn MH với H là hình chiếu vuông góc của M trên (P)."
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D'. Góc giữa hai đường thẳng AC và B'D' bằng:",
+    "options": ["90°", "0°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Nếu đường thẳng a vuông góc với mặt phẳng (P) thì a vuông góc với:",
+    "options": ["Mọi đường thẳng nằm trong (P).", "Chỉ một đường thẳng nằm trong (P).", "Chỉ hai đường thẳng nằm trong (P).", "Mọi đường thẳng song song với (P)."],
+    "correctAnswer": "Mọi đường thẳng nằm trong (P)."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông, SA ⊥ (ABCD). Góc giữa SC và mặt phẳng (ABCD) là góc:",
+    "options": ["SCA", "SCB", "SCD", "ASC"],
+    "correctAnswer": "SCA"
+  },
+  {
+    "question": "Thể tích của khối chóp có diện tích đáy B và chiều cao h là:",
+    "options": ["V = (1/3)Bh", "V = Bh", "V = (1/2)Bh", "V = 3Bh"],
+    "correctAnswer": "V = (1/3)Bh"
+  },
+  {
+    "question": "Trong không gian, hai đường thẳng vuông góc với nhau có thể:",
+    "options": ["Cắt nhau hoặc chéo nhau", "Chỉ cắt nhau", "Chỉ chéo nhau", "Song song"],
+    "correctAnswer": "Cắt nhau hoặc chéo nhau"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có đáy ABC là tam giác đều và SA ⊥ (ABC). Mặt phẳng nào sau đây vuông góc với (SAB)?",
+    "options": ["Mặt phẳng qua C và vuông góc với AB", " (SBC)", "(SAC)", "(ABC)"],
+    "correctAnswer": "Mặt phẳng qua C và vuông góc với AB"
+  },
+  {
+    "question": "Khoảng cách giữa hai đường thẳng chéo nhau a và b là:",
+    "options": ["Độ dài đoạn vuông góc chung của a và b.", "Khoảng cách từ một điểm trên a đến b.", "Khoảng cách từ một điểm trên a đến một điểm trên b.", "Bằng 0."],
+    "correctAnswer": "Độ dài đoạn vuông góc chung của a và b."
+  },
+  {
+    "question": "Cho hình lập phương. Số cặp cạnh chéo nhau và vuông góc với nhau là:",
+    "options": ["12", "6", "24", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA=a√3 và SA ⊥ (ABCD). Tính góc giữa SB và (ABCD).",
+    "options": ["60°", "30°", "45°", "90°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Thể tích của khối lăng trụ có diện tích đáy B và chiều cao h là:",
+    "options": ["V = Bh", "V = (1/3)Bh", "V = (1/2)Bh", "V = 3Bh"],
+    "correctAnswer": "V = Bh"
+  },
+  {
+    "question": "Nếu hai mặt phẳng (P) và (Q) vuông góc với nhau và đường thẳng a nằm trong (P), a vuông góc với giao tuyến của (P) và (Q) thì:",
+    "options": ["a vuông góc với (Q)", "a song song với (Q)", "a nằm trong (Q)", "a cắt (Q)"],
+    "correctAnswer": "a vuông góc với (Q)"
+  },
+  {
+    "question": "Khoảng cách giữa hai mặt phẳng song song (P) và (Q) là:",
+    "options": ["Khoảng cách từ một điểm bất kỳ trên (P) đến (Q).", "Khoảng cách giữa hai điểm bất kỳ trên (P) và (Q).", "Bằng 0.", "Bằng 1."],
+    "correctAnswer": "Khoảng cách từ một điểm bất kỳ trên (P) đến (Q)."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có tất cả các cạnh đều bằng a. Góc giữa hai đường thẳng SA và CD là:",
+    "options": ["60°", "90°", "30°", "45°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Phép chiếu vuông góc của một đường thẳng lên một mặt phẳng có thể là:",
+    "options": ["Một đường thẳng hoặc một điểm", "Luôn là một đường thẳng", "Luôn là một điểm", "Một đoạn thẳng"],
+    "correctAnswer": "Một đường thẳng hoặc một điểm"
+  },
+  {
+    "question": "Cho tứ diện OABC có OA, OB, OC đôi một vuông góc. Mệnh đề nào sau đây sai?",
+    "options": ["AB ⊥ OC", "OA ⊥ (OBC)", "BC ⊥ OA", "Ba mặt bên là các tam giác vuông"],
+    "correctAnswer": "AB ⊥ OC"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình chữ nhật, SA ⊥ (ABCD). Góc giữa mặt phẳng (SCD) và (ABCD) là góc:",
+    "options": ["SDA", "SCD", "SCA", "SDC"],
+    "correctAnswer": "SDA"
+  },
+  {
+    "question": "Thể tích khối hộp chữ nhật có ba kích thước a, b, c là:",
+    "options": ["V = abc", "V = a+b+c", "V = (1/3)abc", "V = 2(ab+bc+ca)"],
+    "correctAnswer": "V = abc"
+  },
+  {
+    "question": "Trong không gian, góc giữa hai đường thẳng a và b được định nghĩa là góc giữa:",
+    "options": ["Hai đường thẳng a' và b' cùng đi qua một điểm và lần lượt song song với a và b.", "Hai vectơ chỉ phương của chúng.", "Hai đường thẳng bất kỳ cắt a và b.", "Hai hình chiếu của chúng."],
+    "correctAnswer": "Hai đường thẳng a' và b' cùng đi qua một điểm và lần lượt song song với a và b."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông tâm O, SA ⊥ (ABCD). Gọi H là hình chiếu của A lên SB. Mệnh đề nào đúng?",
+    "options": ["AH ⊥ (SBC)", "AH ⊥ SC", "AH ⊥ SD", "AH ⊥ SO"],
+    "correctAnswer": "AH ⊥ (SBC)"
+  },
+  {
+    "question": "Góc giữa đường thẳng và mặt phẳng có thể nhận giá trị trong khoảng nào?",
+    "options": ["[0°; 90°]", "[0°; 180°]", "(0°; 90°)", "(-90°; 90°)"],
+    "correctAnswer": "[0°; 90°]"
+  },
+  {
+    "question": "Cho hình lăng trụ đứng ABC.A'B'C' có đáy là tam giác đều cạnh a, AA'=a. Khoảng cách từ A đến mặt phẳng (BCC'B') là:",
+    "options": ["a√3/2", "a", "a/2", "a√3"],
+    "correctAnswer": "a√3/2"
+  },
+  {
+    "question": "Mặt phẳng trung trực của một đoạn thẳng là mặt phẳng:",
+    "options": ["Đi qua trung điểm và vuông góc với đoạn thẳng đó.", "Song song với đoạn thẳng đó.", "Chứa đoạn thẳng đó.", "Đi qua một đầu mút và vuông góc với đoạn thẳng."],
+    "correctAnswer": "Đi qua trung điểm và vuông góc với đoạn thẳng đó."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình thoi tâm O, SA=SC, SB=SD. Mệnh đề nào sau đây đúng?",
+    "options": ["SO ⊥ (ABCD)", "SA ⊥ (ABCD)", "AC ⊥ (SBD)", "BD ⊥ (SAC)"],
+    "correctAnswer": "SO ⊥ (ABCD)"
+  },
+  {
+    "question": "Cho hai mặt phẳng (P) và (Q) vuông góc. Nếu đường thẳng d song song với (P) thì:",
+    "options": ["Không thể kết luận về vị trí của d và (Q)", "d song song với (Q)", "d nằm trong (Q)", "d vuông góc với (Q)"],
+    "correctAnswer": "Không thể kết luận về vị trí của d và (Q)"
+  },
+  {
+    "question": "Thể tích của khối tứ diện đều cạnh a là:",
+    "options": ["a³√2/12", "a³√3/4", "a³", "a³√2/6"],
+    "correctAnswer": "a³√2/12"
+  },
+  {
+    "question": "Góc giữa hai đường thẳng chéo nhau bằng:",
+    "options": ["Góc nhọn hoặc góc vuông", "Luôn là góc nhọn", "Luôn là góc tù", "Luôn là góc vuông"],
+    "correctAnswer": "Góc nhọn hoặc góc vuông"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có SA=SB=SC và tam giác ABC vuông tại A. Hình chiếu của S lên (ABC) là:",
+    "options": ["Trung điểm của BC", "Điểm A", "Trọng tâm tam giác ABC", "Tâm đường tròn ngoại tiếp tam giác ABC"],
+    "correctAnswer": "Trung điểm của BC"
+  },
+  {
+    "question": "Nếu hình chiếu vuông góc của một đường thẳng lên một mặt phẳng là một điểm thì:",
+    "options": ["Đường thẳng đó vuông góc với mặt phẳng.", "Đường thẳng đó song song với mặt phẳng.", "Đường thẳng đó nằm trong mặt phẳng.", "Đường thẳng đó cắt mặt phẳng nhưng không vuông góc."],
+    "correctAnswer": "Đường thẳng đó vuông góc với mặt phẳng."
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D' cạnh a. Khoảng cách giữa hai đường thẳng AB và C'D' là:",
+    "options": ["a", "a√2", "a√3", "a/2"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Góc giữa hai mặt phẳng là góc giữa:",
+    "options": ["Hai đường thẳng lần lượt nằm trong hai mặt phẳng và cùng vuông góc với giao tuyến.", "Hai pháp tuyến của chúng.", "Hai đường thẳng bất kỳ nằm trong hai mặt phẳng.", "Cả A và B đều đúng."],
+    "correctAnswer": "Cả A và B đều đúng."
+  },
+  {
+    "question": "Cho tứ diện ABCD có AB, AC, AD đôi một vuông góc. Khoảng cách từ A đến mặt phẳng (BCD) là h. Mệnh đề nào đúng?",
+    "options": ["1/h² = 1/AB² + 1/AC² + 1/AD²", "h² = AB² + AC² + AD²", "h = AB + AC + AD", "1/h = 1/AB + 1/AC + 1/AD"],
+    "correctAnswer": "1/h² = 1/AB² + 1/AC² + 1/AD²"
+  },
+  {
+    "question": "Thể tích của một khối lăng trụ tam giác đều có tất cả các cạnh bằng a là:",
+    "options": ["a³√3/4", "a³√3/2", "a³", "a³√3/12"],
+    "correctAnswer": "a³√3/4"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA ⊥ (ABCD). Góc giữa SD và (SAC) là:",
+    "options": ["Góc OSD (O là tâm đáy)", "Góc SDA", "Góc DSC", "Góc SAD"],
+    "correctAnswer": "Góc OSD (O là tâm đáy)"
+  },
+  {
+    "question": "Mệnh đề nào sau đây sai?",
+    "options": ["Nếu hai đường thẳng vuông góc thì chúng cắt nhau.", "Nếu một đường thẳng vuông góc với một mặt phẳng thì nó vuông góc với mọi đường thẳng trong mặt phẳng đó.", "Nếu hai mặt phẳng vuông góc thì mọi đường thẳng nằm trong mặt phẳng này và vuông góc với giao tuyến sẽ vuông góc với mặt phẳng kia.", "Góc giữa đường thẳng và mặt phẳng bằng 90° khi đường thẳng vuông góc với mặt phẳng."],
+    "correctAnswer": "Nếu hai đường thẳng vuông góc thì chúng cắt nhau."
+  },
+  {
+    "question": "Cho hình chóp S.ABC có đáy là tam giác vuông cân tại B, AB=a, SA=a và SA ⊥ (ABC). Khoảng cách từ A đến (SBC) là:",
+    "options": ["a√2/2", "a", "a/2", "a√2"],
+    "correctAnswer": "a√2/2"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D'. Góc giữa hai mặt phẳng (A'BD) và (ABCD) là:",
+    "options": ["arccos(1/√3)", "45°", "60°", "90°"],
+    "correctAnswer": "arccos(1/√3)"
+  },
+  {
+    "question": "Nếu thể tích của một khối hộp chữ nhật tăng lên 8 lần và các kích thước tăng theo tỉ lệ như nhau thì mỗi kích thước tăng lên:",
+    "options": ["2 lần", "8 lần", "4 lần", "√8 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Trong không gian, cho hai đường thẳng phân biệt a, b và mặt phẳng (P). Nếu a ⊥ (P) và b ⊥ (P) thì:",
+    "options": ["a // b", "a ⊥ b", "a cắt b", "a và b chéo nhau"],
+    "correctAnswer": "a // b"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông, các mặt bên là các tam giác đều. Hình chiếu của S lên (ABCD) là:",
+    "options": ["Tâm của hình vuông", "Điểm A", "Trung điểm của AB", "Điểm C"],
+    "correctAnswer": "Tâm của hình vuông"
+  },
+  {
+    "question": "Góc giữa đường thẳng d và hình chiếu d' của nó trên (P) là α. Góc giữa d và (P) là:",
+    "options": ["α", "90° - α", "180° - α", "90°"],
+    "correctAnswer": "α"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D' cạnh a. Khoảng cách giữa hai đường thẳng chéo nhau AC và B'D' là:",
+    "options": ["a", "a/√3", "a√2", "a/2"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Điều kiện cần và đủ để ba vectơ a, b, c đồng phẳng là:",
+    "options": ["Tồn tại hai số m, n sao cho c = ma + nb", "a, b, c cùng phương", "a, b, c đôi một vuông góc", "a+b+c=0"],
+    "correctAnswer": "Tồn tại hai số m, n sao cho c = ma + nb"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình chữ nhật, SA ⊥ (ABCD). Khi đó, mặt phẳng (SBC) vuông góc với mặt phẳng:",
+    "options": ["(SAB)", "(SCD)", "(SAD)", "(ABCD)"],
+    "correctAnswer": "(SAB)"
+  },
+  {
+    "question": "Thể tích của khối chóp S.ABC có SA ⊥ (ABC), SA=a, tam giác ABC vuông tại B, AB=a, BC=2a là:",
+    "options": ["a³/3", "2a³/3", "a³", "a³/6"],
+    "correctAnswer": "a³/3"
+  },
+  {
+    "question": "Góc giữa hai đường thẳng trong không gian có giá trị lớn nhất là:",
+    "options": ["90°", "180°", "45°", "60°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Cho hình chóp đều S.ABC có cạnh đáy bằng a, cạnh bên bằng 2a. Chiều cao của hình chóp là:",
+    "options": ["a√11/√3", "a√33/3", "2a", "a"],
+    "correctAnswer": "a√33/3"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA ⊥ (ABCD), SA=a. Góc giữa đường thẳng SB và mặt phẳng (SAC) là:",
+    "options": ["Góc BSO (O là tâm đáy)", "Góc BSA", "Góc BSC", "Góc ASB"],
+    "correctAnswer": "Góc BSO (O là tâm đáy)"
+  },
+  {
+    "question": "Khoảng cách từ một điểm đến một đường thẳng là:",
+    "options": ["Độ dài đoạn vuông góc hạ từ điểm đó xuống đường thẳng.", "Độ dài đoạn xiên.", "Khoảng cách ngắn nhất.", "Cả A và C đều đúng."],
+    "correctAnswer": "Cả A và C đều đúng."
+  },
+  {
+    "question": "Cho hình lăng trụ đứng có đáy là hình thoi. Các mặt bên của nó là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình bình hành", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Cho tứ diện đều ABCD cạnh a. Khoảng cách từ A đến mặt phẳng (BCD) là:",
+    "options": ["a√6/3", "a√3/2", "a", "a√2/2"],
+    "correctAnswer": "a√6/3"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có SA ⊥ (ABC). H, K lần lượt là hình chiếu của A lên SB, SC. Mệnh đề nào đúng?",
+    "options": ["SC ⊥ (AHK)", "SB ⊥ (AHK)", "BC ⊥ (AHK)", "Cả 3 đều sai"],
+    "correctAnswer": "SC ⊥ (AHK)"
+  },
+  {
+    "question": "Góc giữa hai mặt phẳng có thể nhận giá trị trong khoảng nào?",
+    "options": ["[0°; 90°]", "[0°; 180°]", "(0°; 90°)", "(-90°; 90°)"],
+    "correctAnswer": "[0°; 90°]"
+  },
+  {
+    "question": "Thể tích của khối chóp tăng lên bao nhiêu lần nếu chiều cao tăng gấp đôi và diện tích đáy tăng gấp ba?",
+    "options": ["6 lần", "5 lần", "2/3 lần", "3/2 lần"],
+    "correctAnswer": "6 lần"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D'. Góc giữa hai đường thẳng A'B và B'C là:",
+    "options": ["60°", "90°", "45°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Nếu đường thẳng a và b cùng vuông góc với đường thẳng c thì:",
+    "options": ["a và b có thể song song, cắt nhau hoặc chéo nhau.", "a và b song song.", "a và b cắt nhau.", "a và b trùng nhau."],
+    "correctAnswer": "a và b có thể song song, cắt nhau hoặc chéo nhau."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông, SA ⊥ (ABCD). Góc giữa mặt phẳng (SBD) và (ABCD) là:",
+    "options": ["Góc SOA (O là tâm đáy)", "Góc SBO", "Góc SCO", "90°"],
+    "correctAnswer": "Góc SOA (O là tâm đáy)"
+  },
+  {
+    "question": "Khoảng cách giữa hai đường thẳng song song a và b là:",
+    "options": ["Khoảng cách từ một điểm bất kỳ trên a đến b.", "Khoảng cách từ một điểm trên a đến một điểm trên b.", "Bằng 0.", "Bằng 1."],
+    "correctAnswer": "Khoảng cách từ một điểm bất kỳ trên a đến b."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình chữ nhật, SA ⊥ (ABCD). Thể tích khối chóp là V = (1/3)SA.AB.AD. Công thức này:",
+    "options": ["Sai", "Đúng", "Chỉ đúng khi đáy là hình vuông", "Chỉ đúng khi SA=AB"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có đáy là tam giác vuông tại A, AB=a, AC=a√3, SA ⊥ (ABC) và SA=2a. Khoảng cách từ A đến mặt phẳng (SBC) là:",
+    "options": ["2a√3/√7", "a√3/2", "2a", "a"],
+    "correctAnswer": "2a√3/√7"
+  },
+  {
+    "question": "Góc giữa hai đường thẳng song song là:",
+    "options": ["0°", "90°", "180°", "Không xác định"],
+    "correctAnswer": "0°"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, mặt bên SAB là tam giác đều và nằm trong mặt phẳng vuông góc với đáy. Chiều cao của hình chóp là:",
+    "options": ["a√3/2", "a", "a√2/2", "a√3"],
+    "correctAnswer": "a√3/2"
+  },
+  {
+    "question": "Phép chiếu vuông góc lên mặt phẳng (P) bảo toàn:",
+    "options": ["Tính song song của hai đường thẳng", "Độ dài đoạn thẳng", "Góc", "Diện tích"],
+    "correctAnswer": "Tính song song của hai đường thẳng"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D' cạnh a. Khoảng cách từ điểm A đến mặt phẳng (A'BD) là:",
+    "options": ["a/√3", "a", "a/3", "a√3"],
+    "correctAnswer": "a/√3"
+  },
+  {
+    "question": "Nếu một khối đa diện có V đỉnh, E cạnh, F mặt thì hệ thức Euler là:",
+    "options": ["V - E + F = 2", "V + E - F = 2", "V - E - F = 2", "V + E + F = 2"],
+    "correctAnswer": "V - E + F = 2"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có các mặt bên tạo với đáy một góc bằng nhau. Hình chiếu của S lên (ABC) là:",
+    "options": ["Tâm đường tròn nội tiếp tam giác ABC", "Trọng tâm tam giác ABC", "Trực tâm tam giác ABC", "Tâm đường tròn ngoại tiếp tam giác ABC"],
+    "correctAnswer": "Tâm đường tròn nội tiếp tam giác ABC"
+  },
+  {
+    "question": "Góc giữa đường thẳng a và mặt phẳng (P) bằng 0° khi:",
+    "options": ["a song song hoặc nằm trong (P)", "a vuông góc với (P)", "a cắt (P)", "a chéo (P)"],
+    "correctAnswer": "a song song hoặc nằm trong (P)"
+  },
+  {
+    "question": "Cho hình lăng trụ đứng ABC.A'B'C' có đáy là tam giác vuông tại A, AB=a, AC=2a, AA'=3a. Thể tích khối lăng trụ là:",
+    "options": ["3a³", "a³", "2a³", "6a³"],
+    "correctAnswer": "3a³"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA ⊥ (ABCD). Khoảng cách giữa hai đường thẳng SB và CD là:",
+    "options": ["a", "a√2", "SA", "Khoảng cách từ C đến (SAB)"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Hai mặt phẳng phân biệt cùng vuông góc với một mặt phẳng thứ ba thì:",
+    "options": ["Giao tuyến của chúng (nếu có) vuông góc với mặt phẳng thứ ba đó.", "Chúng song song với nhau.", "Chúng vuông góc với nhau.", "Chúng trùng nhau."],
+    "correctAnswer": "Giao tuyến của chúng (nếu có) vuông góc với mặt phẳng thứ ba đó."
+  },
+  {
+    "question": "Cho tứ diện ABCD có AC=AD và BC=BD. Mệnh đề nào sau đây đúng?",
+    "options": ["CD ⊥ (ABM) với M là trung điểm CD", "AB ⊥ CD", "Cả A và B đều đúng", "Cả A và B đều sai"],
+    "correctAnswer": "AB ⊥ CD"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA ⊥ (ABCD), SA=a√2. Góc giữa SC và (SAB) là:",
+    "options": ["Góc CSB", "Góc SCA", "Góc ASC", "Góc SCB"],
+    "correctAnswer": "Góc CSB"
+  },
+  {
+    "question": "Khoảng cách từ tâm của một hình lập phương cạnh a đến một mặt của nó là:",
+    "options": ["a/2", "a", "a√3/2", "a√2/2"],
+    "correctAnswer": "a/2"
+  },
+  {
+    "question": "Thể tích của một khối tứ diện có 3 cạnh xuất phát từ một đỉnh đôi một vuông góc và có độ dài a, b, c là:",
+    "options": ["(1/6)abc", "(1/3)abc", "abc", "(1/2)abc"],
+    "correctAnswer": "(1/6)abc"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình thoi, O là giao điểm hai đường chéo, SA=SC. Mệnh đề nào đúng?",
+    "options": ["AC ⊥ (SBD)", "SO ⊥ (ABCD)", "BD ⊥ (SAC)", "Cả A, B, C đều đúng"],
+    "correctAnswer": "BD ⊥ (SAC)"
+  },
+  {
+    "question": "Nếu một đường thẳng vuông góc với hai cạnh của một tam giác thì nó:",
+    "options": ["Vuông góc với mặt phẳng chứa tam giác đó", "Song song với cạnh còn lại", "Vuông góc với cạnh còn lại", "Không thể kết luận"],
+    "correctAnswer": "Vuông góc với mặt phẳng chứa tam giác đó"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA ⊥ (ABCD). Góc giữa hai mặt phẳng (SBC) và (SCD) là:",
+    "options": ["Góc BSC", "Góc CSD", "Góc BSD", "Góc giữa SB và SD"],
+    "correctAnswer": "Góc BSC"
+  },
+  {
+    "question": "Khoảng cách giữa hai đường thẳng chéo nhau a và b bằng khoảng cách từ:",
+    "options": ["Đường thẳng a đến mặt phẳng chứa b và song song với a", "Một điểm trên a đến một điểm trên b", "a đến một điểm bất kỳ", "b đến một điểm bất kỳ"],
+    "correctAnswer": "Đường thẳng a đến mặt phẳng chứa b và song song với a"
+  },
+  {
+    "question": "Thể tích của một khối chóp không thay đổi khi:",
+    "options": ["Giữ nguyên diện tích đáy và chiều cao", "Tăng diện tích đáy và giảm chiều cao tương ứng", "Trượt đỉnh trên mặt phẳng song song với đáy", "Cả A, B, C đều đúng"],
+    "correctAnswer": "Cả A, B, C đều đúng"
+  }
+]
+
