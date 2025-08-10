@@ -1,0 +1,403 @@
+[
+  {
+    "question": "Đổi số đo góc 210° sang radian.",
+    "options": ["7π/6", "5π/6", "2π/3", "3π/4"],
+    "correctAnswer": "7π/6"
+  },
+  {
+    "question": "Cho dãy số (uₙ) với uₙ = n² - 1. Số hạng thứ 4 của dãy là:",
+    "options": ["15", "8", "3", "24"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Giá trị đại diện của nhóm [40; 50) là:",
+    "options": ["45", "40", "50", "10"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Cho hai đường thẳng song song a và b. Mệnh đề nào sau đây đúng?",
+    "options": ["Tồn tại duy nhất một mặt phẳng chứa cả a và b", "Không có mặt phẳng nào chứa cả a và b", "Có vô số mặt phẳng chứa cả a và b", "a và b chéo nhau"],
+    "correctAnswer": "Tồn tại duy nhất một mặt phẳng chứa cả a và b"
+  },
+  {
+    "question": "Tính giới hạn lim(3n-1)/(n+2).",
+    "options": ["3", "1", "0", "-1/2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương trình sin(x) = 1/2 có nghiệm là:",
+    "options": ["x=π/6+k2π hoặc x=5π/6+k2π", "x=±π/6+k2π", "x=π/6+kπ", "x=5π/6+kπ"],
+    "correctAnswer": "x=π/6+k2π hoặc x=5π/6+k2π"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₁ = 2 và công sai d = 5. Số hạng u₅ bằng:",
+    "options": ["22", "12", "17", "27"],
+    "correctAnswer": "22"
+  },
+  {
+    "question": "Trong mẫu số liệu ghép nhóm, nhóm chứa trung vị là nhóm có:",
+    "options": ["Tần số tích lũy đầu tiên lớn hơn hoặc bằng n/2", "Tần số lớn nhất", "Giá trị đại diện lớn nhất", "Tần số nhỏ nhất"],
+    "correctAnswer": "Tần số tích lũy đầu tiên lớn hơn hoặc bằng n/2"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình thang (AD//BC). Giao tuyến của (SAB) và (SCD) là:",
+    "options": ["Đường thẳng đi qua S và song song với AB", "Đường thẳng SI với I=AB∩CD", "Đường thẳng SO với O=AC∩BD", "Không có"],
+    "correctAnswer": "Đường thẳng SI với I=AB∩CD"
+  },
+  {
+    "question": "Tính giới hạn lim(x→2) (x²-4)/(x-2).",
+    "options": ["4", "2", "0", "Không tồn tại"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tập xác định của hàm số y = tan(2x) là:",
+    "options": ["R \\ {π/4 + kπ/2, k ∈ Z}", "R", "R \\ {kπ/2, k ∈ Z}", "R \\ {kπ, k ∈ Z}"],
+    "correctAnswer": "R \\ {π/4 + kπ/2, k ∈ Z}"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₁ = 1/2 và công bội q = -2. Số hạng u₆ bằng:",
+    "options": ["-16", "16", "32", "-32"],
+    "correctAnswer": "-16"
+  },
+  {
+    "question": "Tứ phân vị thứ hai (Q₂) của mẫu số liệu tương ứng với:",
+    "options": ["Số trung vị", "Số trung bình", "Mốt", "Phân vị thứ 25"],
+    "correctAnswer": "Số trung vị"
+  },
+  {
+    "question": "Phép chiếu song song biến hai đường thẳng cắt nhau thành:",
+    "options": ["Hai đường thẳng cắt nhau hoặc song song", "Luôn là hai đường thẳng cắt nhau", "Hai đường thẳng chéo nhau", "Hai điểm"],
+    "correctAnswer": "Hai đường thẳng cắt nhau hoặc song song"
+  },
+  {
+    "question": "Hàm số y = (x+3)/(x-1) gián đoạn tại điểm nào?",
+    "options": ["x = 1", "x = -3", "x = 0", "Không có"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Nghiệm của phương trình cos(x) = 0 là:",
+    "options": ["x = π/2 + kπ", "x = kπ", "x = k2π", "x = π + k2π"],
+    "correctAnswer": "x = π/2 + kπ"
+  },
+  {
+    "question": "Công thức tính tổng n số hạng đầu của cấp số cộng là:",
+    "options": ["Sₙ = n/2 * (2u₁ + (n-1)d)", "Sₙ = n/2 * (u₁ + uₙ)", "Cả A và B đều đúng", "Cả A và B đều sai"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Nhóm chứa tứ phân vị thứ ba (Q₃) là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["3n/4", "n/4", "n/2", "n"],
+    "correctAnswer": "3n/4"
+  },
+  {
+    "question": "Cho đường thẳng d song song với mặt phẳng (α). Nếu mặt phẳng (β) chứa d và cắt (α) theo giao tuyến d' thì:",
+    "options": ["d song song với d'", "d cắt d'", "d trùng với d'", "d vuông góc với d'"],
+    "correctAnswer": "d song song với d'"
+  },
+  {
+    "question": "Tính giới hạn lim(x→+∞) (2x²-x)/(x²+1).",
+    "options": ["2", "+∞", "0", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Công thức cos(2a) bằng:",
+    "options": ["cos²(a) - sin²(a)", "2cos²(a) - 1", "1 - 2sin²(a)", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Tổng của cấp số nhân lùi vô hạn 1, 1/3, 1/9, ... là:",
+    "options": ["3/2", "2", "4/3", "3"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Số đặc trưng nào đo xu thế trung tâm của mẫu số liệu?",
+    "options": ["Số trung bình, số trung vị, mốt", "Phương sai, độ lệch chuẩn", "Khoảng biến thiên", "Tứ phân vị"],
+    "correctAnswer": "Số trung bình, số trung vị, mốt"
+  },
+  {
+    "question": "Cho hình lăng trụ ABC.A'B'C'. Mặt phẳng (A'BC) song song với đường thẳng nào sau đây?",
+    "options": ["AD' với D' là trung điểm B'C'", "A'B'", "AC", "Không có"],
+    "correctAnswer": "AD' với D' là trung điểm B'C'"
+  },
+  {
+    "question": "Hàm số nào sau đây liên tục trên R?",
+    "options": ["y = x⁴ - x² + 2", "y = 1/(x+1)", "y = tan(x)", "y = √x"],
+    "correctAnswer": "y = x⁴ - x² + 2"
+  },
+  {
+    "question": "Hàm số y = sin(x) là hàm số:",
+    "options": ["Lẻ", "Chẵn", "Không chẵn không lẻ", "Vừa chẵn vừa lẻ"],
+    "correctAnswer": "Lẻ"
+  },
+  {
+    "question": "Cho cấp số cộng (uₙ) có u₂ + u₅ = 20 và u₃ + u₇ = 26. Tìm công sai d.",
+    "options": ["3", "2", "4", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Mốt của mẫu số liệu ghép nhóm được ước lượng trong nhóm có:",
+    "options": ["Tần số lớn nhất", "Tần số tích lũy lớn nhất", "Giá trị đại diện lớn nhất", "Độ dài lớn nhất"],
+    "correctAnswer": "Tần số lớn nhất"
+  },
+  {
+    "question": "Nếu hai mặt phẳng phân biệt cùng song song với một đường thẳng thì giao tuyến của chúng (nếu có) sẽ:",
+    "options": ["Song song với đường thẳng đó", "Cắt đường thẳng đó", "Vuông góc với đường thẳng đó", "Trùng với đường thẳng đó"],
+    "correctAnswer": "Song song với đường thẳng đó"
+  },
+  {
+    "question": "Tính giới hạn lim(x→-∞) (-2x³+x-1).",
+    "options": ["+∞", "-∞", "-2", "0"],
+    "correctAnswer": "+∞"
+  },
+  {
+    "question": "Phương trình sin(x) = sin(α) có nghiệm là:",
+    "options": ["x=α+k2π hoặc x=π-α+k2π", "x=α+k2π", "x=±α+k2π", "x=α+kπ"],
+    "correctAnswer": "x=α+k2π hoặc x=π-α+k2π"
+  },
+  {
+    "question": "Cho cấp số nhân (uₙ) có u₃ = 12 và u₆ = 96. Tìm u₁.",
+    "options": ["3", "2", "4", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho mẫu số liệu ghép nhóm. Cỡ mẫu n=120. Nhóm chứa Q₁ là nhóm có tần số tích lũy đầu tiên lớn hơn hoặc bằng:",
+    "options": ["30", "40", "60", "90"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi G₁ và G₂ lần lượt là trọng tâm của tam giác ABC và ABD. Mệnh đề nào sau đây đúng?",
+    "options": ["G₁G₂ song song với CD", "G₁G₂ song song với AB", "G₁G₂ cắt CD", "G₁G₂ chéo AB"],
+    "correctAnswer": "G₁G₂ song song với CD"
+  },
+  {
+    "question": "Phương trình x⁴ + 2x² - 3 = 0 có ít nhất một nghiệm trong khoảng nào?",
+    "options": ["(-2; 2)", "(0; 1)", "(1; 2)", "Cả A, B, C"],
+    "correctAnswer": "Cả A, B, C"
+  },
+  {
+    "question": "Tập giá trị của hàm số y = 4 - 3sin²(x) là:",
+    "options": ["[1; 4]", "[0; 4]", "[1; 7]", "[-1; 4]"],
+    "correctAnswer": "[1; 4]"
+  },
+  {
+    "question": "Dãy số nào sau đây là dãy giảm?",
+    "options": ["uₙ = (1/2)ⁿ", "uₙ = n²", "uₙ = 3n-1", "uₙ = (-2)ⁿ"],
+    "correctAnswer": "uₙ = (1/2)ⁿ"
+  },
+  {
+    "question": "Để mô tả mức độ phổ biến của một loại mặt hàng, ta nên dùng:",
+    "options": ["Mốt", "Số trung bình", "Số trung vị", "Tứ phân vị"],
+    "correctAnswer": "Mốt"
+  },
+  {
+    "question": "Qua một điểm nằm ngoài một mặt phẳng cho trước, có bao nhiêu mặt phẳng song song với mặt phẳng đó?",
+    "options": ["Một và chỉ một", "Vô số", "Không có", "Hai"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Tính giới hạn lim(x→1) (√(x+3)-2)/(x-1).",
+    "options": ["1/4", "1/2", "1", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Phương trình cos(x) = m - 1 có nghiệm khi:",
+    "options": ["0 ≤ m ≤ 2", "-1 ≤ m ≤ 1", "m ≥ 2", "m ≤ 0"],
+    "correctAnswer": "0 ≤ m ≤ 2"
+  },
+  {
+    "question": "Bốn số hạng liên tiếp của một cấp số cộng có tổng bằng 32 và tổng các bình phương của chúng bằng 336. Tìm công sai d.",
+    "options": ["±2", "±3", "±4", "±1"],
+    "correctAnswer": "±2"
+  },
+  {
+    "question": "Trong công thức tính Q₂, ta sử dụng giá trị nào để xác định nhóm chứa nó?",
+    "options": ["n/2", "n/4", "3n/4", "n"],
+    "correctAnswer": "n/2"
+  },
+  {
+    "question": "Cho hình hộp ABCD.A'B'C'D'. Thiết diện của hình hộp cắt bởi mặt phẳng (AB'C) là hình gì?",
+    "options": ["Hình bình hành", "Hình chữ nhật", "Hình thang", "Tam giác"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Dãy số nào sau đây có giới hạn bằng 0?",
+    "options": ["uₙ = (-2/3)ⁿ", "uₙ = (3/2)ⁿ", "uₙ = n³", "uₙ = (-1)ⁿ"],
+    "correctAnswer": "uₙ = (-2/3)ⁿ"
+  },
+  {
+    "question": "Chu kỳ tuần hoàn của hàm số y = cot(x/3) là:",
+    "options": ["3π", "π", "π/3", "6π"],
+    "correctAnswer": "3π"
+  },
+  {
+    "question": "Cho cấp số nhân có S₃ = 13 và S₆ = 364. Tìm u₁.",
+    "options": ["1", "3", "1/3", "9"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Nếu một mẫu số liệu có phân bố lệch phải thì:",
+    "options": ["Số trung bình > Số trung vị", "Số trung bình < Số trung vị", "Số trung bình = Số trung vị", "Không thể so sánh"],
+    "correctAnswer": "Số trung bình > Số trung vị"
+  },
+  {
+    "question": "Cho hai đường thẳng a và b chéo nhau. Có bao nhiêu đường thẳng c song song với cả a và b?",
+    "options": ["Không có", "Một", "Vô số", "Hai"],
+    "correctAnswer": "Không có"
+  },
+  {
+    "question": "Tính giới hạn lim(x→0) (tan(2x))/x.",
+    "options": ["2", "1", "0", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phương trình 2cos(x) + √3 = 0 có nghiệm là:",
+    "options": ["x = ±5π/6 + k2π", "x = ±π/6 + k2π", "x = ±2π/3 + k2π", "x = 5π/6 + k2π"],
+    "correctAnswer": "x = ±5π/6 + k2π"
+  },
+  {
+    "question": "Dãy số nào sau đây không phải là cấp số cộng hay cấp số nhân?",
+    "options": ["1, 1, 2, 3, 5,... (dãy Fibonacci)", "2, 4, 6, 8,...", "2, 4, 8, 16,...", "5, 5, 5, 5,..."],
+    "correctAnswer": "1, 1, 2, 3, 5,... (dãy Fibonacci)"
+  },
+  {
+    "question": "Để so sánh mức độ tập trung của dữ liệu quanh giá trị trung tâm, ta dùng:",
+    "options": ["Các số đo độ phân tán", "Số trung bình", "Mốt", "Số trung vị"],
+    "correctAnswer": "Các số đo độ phân tán"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình bình hành. Gọi M, N là trung điểm của AB và CD. Thiết diện của hình chóp với mặt phẳng (SMN) là:",
+    "options": ["Tam giác SMN", "Tứ giác", "Hình thang", "Hình bình hành"],
+    "correctAnswer": "Tam giác SMN"
+  },
+  {
+    "question": "Hàm số y = (x²-1)/(x-1) có liên tục trên R không?",
+    "options": ["Không, vì gián đoạn tại x=1", "Có", "Chỉ liên tục trên (1;+∞)", "Chỉ liên tục trên (-∞;1)"],
+    "correctAnswer": "Không, vì gián đoạn tại x=1"
+  },
+  {
+    "question": "Giá trị của sin(7π/6) là:",
+    "options": ["-1/2", "1/2", "-√3/2", "√3/2"],
+    "correctAnswer": "-1/2"
+  },
+  {
+    "question": "Một cấp số cộng có u₅ = 11 và u₁₀ = 21. Tổng 15 số hạng đầu là:",
+    "options": ["255", "240", "270", "285"],
+    "correctAnswer": "255"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu 10, 5, 8, 3, 9, 2, 7 là:",
+    "options": ["7", "8", "6", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Cho hai mặt phẳng (P) và (Q) cắt nhau theo giao tuyến d. Nếu đường thẳng a song song với d thì:",
+    "options": ["a song song với (P) và a song song với (Q)", "a cắt (P) hoặc (Q)", "a nằm trong (P) hoặc (Q)", "Cả A, B, C đều có thể xảy ra"],
+    "correctAnswer": "Cả A, B, C đều có thể xảy ra"
+  },
+  {
+    "question": "Tính giới hạn lim (√(4n²+1) - 2n).",
+    "options": ["0", "1", "2", "+∞"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Phương trình sin(x) = cos(2x) có bao nhiêu nghiệm trong [0, 2π]?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một cấp số nhân có u₁=2, u₄=54. Tổng 5 số hạng đầu là:",
+    "options": ["242", "121", "81", "243"],
+    "correctAnswer": "242"
+  },
+  {
+    "question": "Mẫu số liệu ghép nhóm về chiều cao của học sinh. Nhóm [160;165) có tần số 20. Nhóm [165;170) có tần số 15. Nhóm chứa Q₁ (cỡ mẫu 80) là:",
+    "options": ["[160;165)", "[165;170)", "Không xác định được", "Nhóm trước [160;165)"],
+    "correctAnswer": "Không xác định được"
+  },
+  {
+    "question": "Hình chiếu của một hình vuông lên mặt phẳng không song song với nó, theo phương không song song với cạnh nào của hình vuông, là:",
+    "options": ["Hình bình hành", "Hình vuông", "Hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Tính giới hạn lim(x→-∞) (x+1)/√(x²+x+1).",
+    "options": ["-1", "1", "0", "-∞"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Giá trị lớn nhất của hàm số y = 1 - 2cos(x) - cos²(x) là:",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Dãy số nào sau đây có giới hạn hữu hạn?",
+    "options": ["uₙ = (n+1)/n", "uₙ = n²-2n", "uₙ = 3ⁿ", "uₙ = (-2)ⁿ"],
+    "correctAnswer": "uₙ = (n+1)/n"
+  },
+  {
+    "question": "Số trung bình của mẫu số liệu 1, 1, 1, 1, 10 là:",
+    "options": ["2.8", "1", "5.5", "10"],
+    "correctAnswer": "2.8"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD. Gọi M là điểm trên cạnh SD. Giao điểm của BM và mặt phẳng (SAC) là:",
+    "options": ["Giao điểm của BM và SO (O=AC∩BD)", "Điểm S", "Điểm C", "Không có"],
+    "correctAnswer": "Giao điểm của BM và SO (O=AC∩BD)"
+  },
+  {
+    "question": "Phương trình x⁵ + x - 1 = 0 có ít nhất một nghiệm trong khoảng:",
+    "options": ["(0; 1)", "(-1; 0)", "(1; 2)", "(-2; -1)"],
+    "correctAnswer": "(0; 1)"
+  },
+  {
+    "question": "Phương trình tan(x) = 2025 có bao nhiêu nghiệm trong khoảng (0, 10π)?",
+    "options": ["10", "20", "5", "9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một cấp số cộng có 5 số hạng. Tổng của chúng bằng 25. Số hạng thứ ba là:",
+    "options": ["5", "4", "6", "25/3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Mốt của mẫu số liệu ghép nhóm là một giá trị:",
+    "options": ["Xấp xỉ", "Chính xác", "Luôn bằng giá trị đại diện", "Luôn là số nguyên"],
+    "correctAnswer": "Xấp xỉ"
+  },
+  {
+    "question": "Cho ba đường thẳng a, b, c không cùng nằm trong một mặt phẳng và đôi một cắt nhau. Ba đường thẳng này:",
+    "options": ["Đồng quy", "Song song", "Tạo thành tam giác", "Không thể xảy ra"],
+    "correctAnswer": "Đồng quy"
+  },
+  {
+    "question": "Tính giới hạn lim(x→0) (√(1+2x)-√(1-2x))/x.",
+    "options": ["2", "1", "4", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Nghiệm âm lớn nhất của phương trình sin(x) = cos(x) là:",
+    "options": ["-3π/4", "-π/4", "-5π/4", "-7π/4"],
+    "correctAnswer": "-3π/4"
+  },
+  {
+    "question": "Một cấp số nhân lùi vô hạn có tổng bằng 6 và công bội q=1/2. Số hạng đầu u₁ là:",
+    "options": ["3", "12", "4", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Số trung vị của mẫu số liệu 1, 3, 5, 7, 9, 11 là:",
+    "options": ["6", "5", "7", "5.5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Mệnh đề nào sau đây đúng?",
+    "options": ["Bốn mặt là các tam giác", "Các cạnh đối song song", "Các mặt là hình bình hành", "Có 4 đỉnh, 4 cạnh"],
+    "correctAnswer": "Bốn mặt là các tam giác"
+  },
+  {
+    "question": "Hàm số y = sin(x)/x có liên tục tại x=0 không?",
+    "options": ["Không, vì không xác định tại x=0", "Có, nếu định nghĩa f(0)=1", "Có, vì giới hạn bằng 1", "Không, vì giới hạn không tồn tại"],
+    "correctAnswer": "Không, vì không xác định tại x=0"
+  }
+]
+
