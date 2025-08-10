@@ -28,6 +28,10 @@
                 {
                   "name": "Chương 5: Các số đặc trưng của mẫu số liệu không ghép nhóm",
                   "file": "./data/math-10-chapter-5.json"
+                },
+                {
+                  "name": "Chương 6: Hàm số, đồ thị và ứng dụng",
+                  "file": "./data/math-10-chapter-6.json"
                 }
               ]
             },
