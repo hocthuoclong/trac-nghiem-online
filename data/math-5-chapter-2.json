@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Số thập phân 'Bảy đơn vị, năm phần mười' được viết là:",
+    "options": ["7,5", "7,05", "7,005", "5,7"],
+    "correctAnswer": "7,5"
+  },
+  {
+    "question": "Trong số thập phân 24,135, chữ số 3 thuộc hàng nào?",
+    "options": ["Hàng phần trăm", "Hàng phần mười", "Hàng phần nghìn", "Hàng chục"],
+    "correctAnswer": "Hàng phần trăm"
+  },
+  {
+    "question": "Phân số thập phân 8/100 được viết dưới dạng số thập phân là:",
+    "options": ["0,08", "0,8", "8,0", "0,80"],
+    "correctAnswer": "0,08"
+  },
+  {
+    "question": "Số 12,34 có phần nguyên là:",
+    "options": ["12", "34", "1", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Số 5,67 có phần thập phân là:",
+    "options": ["67", "5", "6", "7"],
+    "correctAnswer": "67"
+  },
+  {
+    "question": "So sánh hai số thập phân: 9,78 và 9,8",
+    "options": ["9,78 < 9,8", "9,78 > 9,8", "9,78 = 9,8", "Không so sánh được"],
+    "correctAnswer": "9,78 < 9,8"
+  },
+  {
+    "question": "Số lớn nhất trong các số sau là: 5,69; 5,96; 5,609; 5,906",
+    "options": ["5,96", "5,69", "5,609", "5,906"],
+    "correctAnswer": "5,96"
+  },
+  {
+    "question": "Viết 5m 7cm dưới dạng số thập phân với đơn vị là mét.",
+    "options": ["5,07m", "5,7m", "57m", "0,57m"],
+    "correctAnswer": "5,07m"
+  },
+  {
+    "question": "Viết 8kg 15g dưới dạng số thập phân với đơn vị là ki-lô-gam.",
+    "options": ["8,015kg", "8,15kg", "81,5kg", "815kg"],
+    "correctAnswer": "8,015kg"
+  },
+  {
+    "question": "Viết 12ha 5dam² dưới dạng số thập phân với đơn vị là héc-ta.",
+    "options": ["12,05ha", "12,5ha", "125ha", "1,25ha"],
+    "correctAnswer": "12,05ha"
+  },
+  {
+    "question": "Làm tròn số 12,345 đến hàng phần mười.",
+    "options": ["12,3", "12,4", "12,35", "12"],
+    "correctAnswer": "12,3"
+  },
+  {
+    "question": "Làm tròn số 7,89 đến hàng đơn vị.",
+    "options": ["8", "7", "7,9", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Kết quả của phép tính 15,7 + 8,4 là:",
+    "options": ["24,1", "23,1", "14,1", "241"],
+    "correctAnswer": "24,1"
+  },
+  {
+    "question": "Kết quả của phép tính 32,5 - 18,7 là:",
+    "options": ["13,8", "14,8", "13,2", "14,2"],
+    "correctAnswer": "13,8"
+  },
+  {
+    "question": "Kết quả của phép tính 3,5 x 10 là:",
+    "options": ["35", "0,35", "350", "3,50"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Kết quả của phép tính 45,6 : 100 là:",
+    "options": ["0,456", "4,56", "456", "4560"],
+    "correctAnswer": "0,456"
+  },
+  {
+    "question": "Số 0,5 bằng phân số thập phân nào?",
+    "options": ["5/10", "5/100", "50/10", "5/1"],
+    "correctAnswer": "5/10"
+  },
+  {
+    "question": "Số bé nhất trong các số: 0,1; 0,01; 0,11; 0,011 là:",
+    "options": ["0,01", "0,1", "0,11", "0,011"],
+    "correctAnswer": "0,01"
+  },
+  {
+    "question": "Viết 2km 50m dưới dạng số thập phân với đơn vị là ki-lô-mét.",
+    "options": ["2,05km", "2,5km", "2,005km", "250km"],
+    "correctAnswer": "2,05km"
+  },
+  {
+    "question": "Làm tròn số 9,5 đến hàng đơn vị.",
+    "options": ["10", "9", "9,5", "9,0"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tìm x, biết x - 2,5 = 7,5.",
+    "options": ["x = 10", "x = 5", "x = 9", "x = 10,5"],
+    "correctAnswer": "x = 10"
+  },
+  {
+    "question": "Kết quả của phép tính 3,14 x 100 là:",
+    "options": ["314", "31,4", "0,0314", "3140"],
+    "correctAnswer": "314"
+  },
+  {
+    "question": "Kết quả của phép tính 2,4 x 5 là:",
+    "options": ["12", "1,2", "120", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Kết quả của phép chia 18 : 4 là:",
+    "options": ["4,5", "4,25", "3,5", "5"],
+    "correctAnswer": "4,5"
+  },
+  {
+    "question": "Một mảnh vườn hình chữ nhật có chiều dài 15,5m và chiều rộng 8,2m. Diện tích mảnh vườn là:",
+    "options": ["127,1 m²", "47,4 m", "1271 m²", "23,7 m²"],
+    "correctAnswer": "127,1 m²"
+  },
+  {
+    "question": "Viết số thích hợp vào chỗ chấm: 3kg 5g = ... kg",
+    "options": ["3,005", "3,05", "3,5", "3005"],
+    "correctAnswer": "3,005"
+  },
+  {
+    "question": "Số 12,009 đọc là:",
+    "options": ["Mười hai phẩy không không chín", "Mười hai phẩy chín", "Mười hai phẩy không chín", "Một trăm hai mươi phẩy chín"],
+    "correctAnswer": "Mười hai phẩy không không chín"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 4,5; 4,23; 5,4; 4,32",
+    "options": ["4,23; 4,32; 4,5; 5,4", "5,4; 4,5; 4,32; 4,23", "4,23; 4,5; 4,32; 5,4", "4,32; 4,23; 4,5; 5,4"],
+    "correctAnswer": "4,23; 4,32; 4,5; 5,4"
+  },
+  {
+    "question": "Kết quả của phép tính 100 - 9,99 là:",
+    "options": ["90,01", "90,1", "91,01", "90,91"],
+    "correctAnswer": "90,01"
+  },
+  {
+    "question": "Kết quả của phép tính 0,5 x 0,5 là:",
+    "options": ["0,25", "2,5", "0,025", "25"],
+    "correctAnswer": "0,25"
+  },
+  {
+    "question": "Kết quả của phép chia 1 : 4 là:",
+    "options": ["0,25", "0,4", "2,5", "4"],
+    "correctAnswer": "0,25"
+  },
+  {
+    "question": "Làm tròn số 567,8 đến hàng chục.",
+    "options": ["570", "560", "568", "600"],
+    "correctAnswer": "570"
+  },
+  {
+    "question": "Tỉ số phần trăm của 15 và 20 là:",
+    "options": ["75%", "1520%", "133%", "60%"],
+    "correctAnswer": "75%"
+  },
+  {
+    "question": "Một cửa hàng có 500kg gạo. Đã bán 15% số gạo đó. Cửa hàng đã bán bao nhiêu kg gạo?",
+    "options": ["75kg", "15kg", "50kg", "100kg"],
+    "correctAnswer": "75kg"
+  },
+  {
+    "question": "Tìm một số biết 10% của nó là 2,5.",
+    "options": ["25", "0,25", "250", "2500"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Phân số 3/4 được viết dưới dạng tỉ số phần trăm là:",
+    "options": ["75%", "34%", "43%", "0,75%"],
+    "correctAnswer": "75%"
+  },
+  {
+    "question": "Viết 2m 5cm dưới dạng số thập phân với đơn vị là mét.",
+    "options": ["2,05m", "2,5m", "2,005m", "25m"],
+    "correctAnswer": "2,05m"
+  },
+  {
+    "question": "Viết 4 tấn 50kg dưới dạng số thập phân với đơn vị là tấn.",
+    "options": ["4,05 tấn", "4,5 tấn", "4,005 tấn", "450 tấn"],
+    "correctAnswer": "4,05 tấn"
+  },
+  {
+    "question": "Viết 1m² 25dm² dưới dạng số thập phân với đơn vị là mét vuông.",
+    "options": ["1,25 m²", "1,025 m²", "12,5 m²", "125 m²"],
+    "correctAnswer": "1,25 m²"
+  },
+  {
+    "question": "Làm tròn số 0,125 đến hàng phần trăm.",
+    "options": ["0,13", "0,12", "0,1", "0,2"],
+    "correctAnswer": "0,13"
+  },
+  {
+    "question": "Số 12,30 bằng số thập phân nào sau đây?",
+    "options": ["12,3", "12,03", "1,23", "123,0"],
+    "correctAnswer": "12,3"
+  },
+  {
+    "question": "Tìm x, biết 5,6 + x = 10.",
+    "options": ["x = 4,4", "x = 15,6", "x = 5,4", "x = 4,6"],
+    "correctAnswer": "x = 4,4"
+  },
+  {
+    "question": "Kết quả của phép tính 1,2 x 1000 là:",
+    "options": ["1200", "120", "12", "0,0012"],
+    "correctAnswer": "1200"
+  },
+  {
+    "question": "Kết quả của phép chia 5 : 2 là:",
+    "options": ["2,5", "0,4", "25", "4"],
+    "correctAnswer": "2,5"
+  },
+  {
+    "question": "Một người đi xe đạp được 15km trong 1 giờ. Hỏi người đó đi được bao nhiêu km trong 2,5 giờ?",
+    "options": ["37,5 km", "30 km", "17,5 km", "40 km"],
+    "correctAnswer": "37,5 km"
+  },
+  {
+    "question": "Số 0,01 được viết dưới dạng phân số thập phân là:",
+    "options": ["1/100", "1/10", "10/100", "1/1000"],
+    "correctAnswer": "1/100"
+  },
+  {
+    "question": "Số lớn nhất có 3 chữ số khác nhau mà phần thập phân có 2 chữ số là:",
+    "options": ["987,99", "999,99", "987,65", "987,00"],
+    "correctAnswer": "987,65"
+  },
+  {
+    "question": "Kết quả của phép tính 1 - 0,25 là:",
+    "options": ["0,75", "1,25", "0,24", "7,5"],
+    "correctAnswer": "0,75"
+  },
+  {
+    "question": "Kết quả của phép tính 0,1 x 0,1 là:",
+    "options": ["0,01", "0,1", "1", "0,2"],
+    "correctAnswer": "0,01"
+  },
+  {
+    "question": "Kết quả của phép chia 1 : 0,5 là:",
+    "options": ["2", "0,5", "5", "0,2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Làm tròn số 12,567 đến hàng phần trăm.",
+    "options": ["12,57", "12,56", "12,6", "13"],
+    "correctAnswer": "12,57"
+  },
+  {
+    "question": "Tỉ số của 20cm và 1m là:",
+    "options": ["1/5", "20", "5", "1/20"],
+    "correctAnswer": "1/5"
+  },
+  {
+    "question": "Một trường có 1200 học sinh, trong đó số học sinh nữ chiếm 45%. Số học sinh nam của trường là:",
+    "options": ["660", "540", "760", "640"],
+    "correctAnswer": "660"
+  },
+  {
+    "question": "Tìm 1% của 500.",
+    "options": ["5", "50", "0,5", "500"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Chữ số 9 trong số 12,398 có giá trị là:",
+    "options": ["9/100", "9", "9/10", "9/1000"],
+    "correctAnswer": "9/100"
+  },
+  {
+    "question": "Số thập phân 3,040 bằng số thập phân nào?",
+    "options": ["3,04", "3,4", "30,4", "3,004"],
+    "correctAnswer": "3,04"
+  },
+  {
+    "question": "Tìm y, biết 12 - y = 5,8.",
+    "options": ["y = 6,2", "y = 17,8", "y = 7,2", "y = 5,2"],
+    "correctAnswer": "y = 6,2"
+  },
+  {
+    "question": "Một can dầu chứa 20 lít. Người ta đã dùng 40% số dầu đó. Trong can còn lại bao nhiêu lít dầu?",
+    "options": ["12 lít", "8 lít", "10 lít", "15 lít"],
+    "correctAnswer": "12 lít"
+  },
+  {
+    "question": "Kết quả của phép tính 2,5 x 0,1 + 2,5 x 9,9 là:",
+    "options": ["25", "2,5", "250", "0,25"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Kết quả của phép chia 123 : 1000 là:",
+    "options": ["0,123", "1,23", "12,3", "0,0123"],
+    "correctAnswer": "0,123"
+  },
+  {
+    "question": "Làm tròn số 1,098 đến hàng phần mười.",
+    "options": ["1,1", "1,0", "1,09", "1"],
+    "correctAnswer": "1,1"
+  },
+  {
+    "question": "Ước lượng tổng 19,9 + 9,8.",
+    "options": ["Khoảng 30", "Khoảng 29", "Khoảng 20", "Khoảng 10"],
+    "correctAnswer": "Khoảng 30"
+  },
+  {
+    "question": "Tỉ số phần trăm của 1 và 8 là:",
+    "options": ["12,5%", "18%", "81%", "80%"],
+    "correctAnswer": "12,5%"
+  },
+  {
+    "question": "Số 0,75 được viết dưới dạng phân số tối giản là:",
+    "options": ["3/4", "75/100", "7/5", "5/7"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Số 234/10 được viết dưới dạng số thập phân là:",
+    "options": ["23,4", "2,34", "234,0", "0,234"],
+    "correctAnswer": "23,4"
+  },
+  {
+    "question": "Số nhỏ nhất trong các số: 7,08; 7,8; 7,008; 7,808 là:",
+    "options": ["7,008", "7,08", "7,8", "7,808"],
+    "correctAnswer": "7,008"
+  },
+  {
+    "question": "Viết 12m 3cm dưới dạng số thập phân với đơn vị là mét.",
+    "options": ["12,03m", "12,3m", "1,23m", "123m"],
+    "correctAnswer": "12,03m"
+  },
+  {
+    "question": "Viết 5 tạ 2kg dưới dạng số thập phân với đơn vị là tạ.",
+    "options": ["5,02 tạ", "5,2 tạ", "5,002 tạ", "52 tạ"],
+    "correctAnswer": "5,02 tạ"
+  },
+  {
+    "question": "Làm tròn số 0,555 đến hàng phần trăm.",
+    "options": ["0,56", "0,55", "0,6", "1"],
+    "correctAnswer": "0,56"
+  },
+  {
+    "question": "Tìm x, biết 15,5 : x = 5.",
+    "options": ["x = 3,1", "x = 77,5", "x = 10,5", "x = 31"],
+    "correctAnswer": "x = 3,1"
+  },
+  {
+    "question": "Kết quả của phép tính 12,5 x 0,01 là:",
+    "options": ["0,125", "1,25", "125", "0,00125"],
+    "correctAnswer": "0,125"
+  },
+  {
+    "question": "Kết quả của phép chia 2,5 : 10 là:",
+    "options": ["0,25", "25", "0,025", "250"],
+    "correctAnswer": "0,25"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi là 30m, chiều rộng bằng 2/3 chiều dài. Diện tích hình chữ nhật đó là:",
+    "options": ["54 m²", "150 m²", "60 m²", "50 m²"],
+    "correctAnswer": "54 m²"
+  },
+  {
+    "question": "Số 0,2 được viết dưới dạng tỉ số phần trăm là:",
+    "options": ["20%", "2%", "0,2%", "200%"],
+    "correctAnswer": "20%"
+  },
+  {
+    "question": "Một mảnh vải dài 25m. Người ta đã dùng 3/5 mảnh vải đó để may quần áo. Mảnh vải còn lại dài:",
+    "options": ["10m", "15m", "5m", "20m"],
+    "correctAnswer": "10m"
+  },
+  {
+    "question": "Tìm một số biết 1/4 của nó bằng 2,5.",
+    "options": ["10", "1", "0,625", "100"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số 10,02 viết dưới dạng hỗn số là:",
+    "options": ["10 2/100", "10 1/50", "Cả A và B đều đúng", "10 2/10"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 12,3 - 4,56 là:",
+    "options": ["7,74", "7,84", "8,74", "8,84"],
+    "correctAnswer": "7,74"
+  },
+  {
+    "question": "Kết quả của phép tính 2,05 x 1,4 là:",
+    "options": ["2,87", "28,7", "0,287", "287"],
+    "correctAnswer": "2,87"
+  },
+  {
+    "question": "Kết quả của phép chia 15,3 : 1,5 là:",
+    "options": ["10,2", "1,02", "102", "15,2"],
+    "correctAnswer": "10,2"
+  },
+  {
+    "question": "Làm tròn số 1234 đến hàng chục.",
+    "options": ["1230", "1240", "1200", "1300"],
+    "correctAnswer": "1230"
+  },
+  {
+    "question": "Ước lượng hiệu 99,7 - 40,2.",
+    "options": ["Khoảng 60", "Khoảng 50", "Khoảng 59", "Khoảng 140"],
+    "correctAnswer": "Khoảng 60"
+  },
+  {
+    "question": "Tỉ số của 1,5 và 6 là:",
+    "options": ["1/4", "0,25", "25%", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một thùng sơn 18 lít sơn được 90 m² tường. Để sơn 15 m² tường cần bao nhiêu lít sơn?",
+    "options": ["3 lít", "5 lít", "2 lít", "4 lít"],
+    "correctAnswer": "3 lít"
+  },
+  {
+    "question": "Một người mua 25 quyển vở hết 125 000 đồng. Nếu người đó mua 15 quyển vở thì hết bao nhiêu tiền?",
+    "options": ["75 000 đồng", "50 000 đồng", "100 000 đồng", "60 000 đồng"],
+    "correctAnswer": "75 000 đồng"
+  },
+  {
+    "question": "Viết 504cm dưới dạng số thập phân với đơn vị là mét.",
+    "options": ["5,04m", "5,4m", "50,4m", "0,504m"],
+    "correctAnswer": "5,04m"
+  },
+  {
+    "question": "Viết 2km² 5ha dưới dạng số thập phân với đơn vị là ki-lô-mét vuông.",
+    "options": ["2,05 km²", "2,5 km²", "2,005 km²", "25 km²"],
+    "correctAnswer": "2,05 km²"
+  },
+  {
+    "question": "Tìm x, biết 0,5 x x = 1,25.",
+    "options": ["x = 2,5", "x = 0,625", "x = 5", "x = 25"],
+    "correctAnswer": "x = 2,5"
+  },
+  {
+    "question": "Làm tròn số 45 678 đến hàng nghìn.",
+    "options": ["46 000", "45 000", "45 700", "50 000"],
+    "correctAnswer": "46 000"
+  },
+  {
+    "question": "Một chiếc quạt giá 400.000 đồng. Nhân dịp hè, cửa hàng giảm giá 15%. Số tiền được giảm là:",
+    "options": ["60.000 đồng", "40.000 đồng", "15.000 đồng", "340.000 đồng"],
+    "correctAnswer": "60.000 đồng"
+  }
+]
+
