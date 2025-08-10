@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Các phép tính với số thập phân",
                   "file": "./data/math-5-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Một số hình phẳng. Chu vi và diện tích",
+                  "file": "./data/math-5-chapter-5.json"
                 }
               ]
             },
