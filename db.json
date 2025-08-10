@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Tam giác bằng nhau",
                   "file": "./data/math-7-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Thu thập và biểu diễn dữ liệu",
+                  "file": "./data/math-7-chapter-5.json"
                 }
               ]
             },
