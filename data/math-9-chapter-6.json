@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Hàm số y = 2x² đồng biến khi:",
+    "options": ["x > 0", "x < 0", "x = 0", "Với mọi x"],
+    "correctAnswer": "x > 0"
+  },
+  {
+    "question": "Phương trình nào sau đây là phương trình bậc hai một ẩn?",
+    "options": ["x² - 5x + 6 = 0", "2x + 1 = 0", "x³ - 8 = 0", "xy = 1"],
+    "correctAnswer": "x² - 5x + 6 = 0"
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 3 = 0. Biệt thức Δ bằng:",
+    "options": ["4", "16", "-8", "28"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Theo định lí Viète, nếu phương trình ax² + bx + c = 0 (a≠0) có hai nghiệm x₁, x₂ thì tổng x₁ + x₂ bằng:",
+    "options": ["-b/a", "c/a", "b/a", "-c/a"],
+    "correctAnswer": "-b/a"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có diện tích 120 m². Chiều dài hơn chiều rộng 2m. Chiều dài của mảnh đất là:",
+    "options": ["12 m", "10 m", "15 m", "8 m"],
+    "correctAnswer": "12 m"
+  },
+  {
+    "question": "Đồ thị hàm số y = ax² (a≠0) là một Parabol có đỉnh là:",
+    "options": ["O(0; 0)", "(1; 0)", "(0; 1)", "(a; 0)"],
+    "correctAnswer": "O(0; 0)"
+  },
+  {
+    "question": "Phương trình 2x² - 8 = 0 có tập nghiệm là:",
+    "options": ["{-2; 2}", "{2}", "{-2}", "{4}"],
+    "correctAnswer": "{-2; 2}"
+  },
+  {
+    "question": "Phương trình x² + 2x + 1 = 0 có:",
+    "options": ["Nghiệm kép", "Hai nghiệm phân biệt", "Vô nghiệm", "Vô số nghiệm"],
+    "correctAnswer": "Nghiệm kép"
+  },
+  {
+    "question": "Theo định lí Viète, nếu phương trình ax² + bx + c = 0 (a≠0) có hai nghiệm x₁, x₂ thì tích x₁ . x₂ bằng:",
+    "options": ["c/a", "-b/a", "-c/a", "b/a"],
+    "correctAnswer": "c/a"
+  },
+  {
+    "question": "Tích của hai số tự nhiên liên tiếp là 156. Số lớn hơn là:",
+    "options": ["13", "12", "14", "11"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Hàm số y = -3x² nghịch biến khi:",
+    "options": ["x > 0", "x < 0", "x = 0", "Với mọi x"],
+    "correctAnswer": "x > 0"
+  },
+  {
+    "question": "Phương trình x² - 7x = 0 có các nghiệm là:",
+    "options": ["x=0 và x=7", "x=0", "x=7", "x=-7"],
+    "correctAnswer": "x=0 và x=7"
+  },
+  {
+    "question": "Phương trình x² + x + 1 = 0 có biệt thức Δ là:",
+    "options": ["-3", "5", "3", "1"],
+    "correctAnswer": "-3"
+  },
+  {
+    "question": "Cho phương trình x² - 5x + 4 = 0 có hai nghiệm x₁, x₂. Giá trị của x₁ + x₂ là:",
+    "options": ["5", "-5", "4", "-4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một tam giác vuông có cạnh huyền bằng 10 cm và hai cạnh góc vuông hơn kém nhau 2 cm. Độ dài cạnh góc vuông nhỏ hơn là:",
+    "options": ["6 cm", "8 cm", "5 cm", "7 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Đồ thị hàm số y = ax² (a≠0) nhận trục nào làm trục đối xứng?",
+    "options": ["Trục Oy", "Trục Ox", "Đường thẳng y=x", "Đường thẳng y=-x"],
+    "correctAnswer": "Trục Oy"
+  },
+  {
+    "question": "Phương trình bậc hai một ẩn có dạng tổng quát là:",
+    "options": ["ax² + bx + c = 0 (a≠0)", "ax + b = 0", "ax² + bx + c = 0", "y = ax²"],
+    "correctAnswer": "ax² + bx + c = 0 (a≠0)"
+  },
+  {
+    "question": "Phương trình x² - 2x + m = 0 có nghiệm kép khi:",
+    "options": ["m = 1", "m > 1", "m < 1", "m = 2"],
+    "correctAnswer": "m = 1"
+  },
+  {
+    "question": "Cho phương trình x² - 6x + 5 = 0 có hai nghiệm x₁, x₂. Giá trị của x₁ . x₂ là:",
+    "options": ["5", "-5", "6", "-6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tổng hai số bằng 9, tổng các bình phương của chúng bằng 41. Hai số đó là:",
+    "options": ["4 và 5", "3 và 6", "2 và 7", "1 và 8"],
+    "correctAnswer": "4 và 5"
+  },
+  {
+    "question": "Điểm M(-2; 8) thuộc đồ thị hàm số y = ax². Giá trị của a là:",
+    "options": ["2", "-2", "4", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Phương trình 3x² + 5x - 2 = 0 có tổng hai nghiệm là:",
+    "options": ["-5/3", "5/3", "-2/3", "2/3"],
+    "correctAnswer": "-5/3"
+  },
+  {
+    "question": "Phương trình x² - 2(m-1)x + m² = 0 vô nghiệm khi:",
+    "options": ["m > 1/2", "m < 1/2", "m = 1/2", "m bất kỳ"],
+    "correctAnswer": "m > 1/2"
+  },
+  {
+    "question": "Nếu a + b + c = 0 thì phương trình ax² + bx + c = 0 có một nghiệm là:",
+    "options": ["x = 1", "x = -1", "x = c/a", "x = -c/a"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Một ca nô xuôi dòng 30km và ngược dòng 30km, tổng thời gian hết 4 giờ. Vận tốc dòng nước là 2 km/h. Vận tốc thực của ca nô là:",
+    "options": ["16 km/h", "15 km/h", "18 km/h", "20 km/h"],
+    "correctAnswer": "16 km/h"
+  },
+  {
+    "question": "Hàm số y = (m-1)x² đồng biến khi x > 0 nếu:",
+    "options": ["m > 1", "m < 1", "m = 1", "m ≠ 1"],
+    "correctAnswer": "m > 1"
+  },
+  {
+    "question": "Phương trình x² - 4 = 0 có tích hai nghiệm là:",
+    "options": ["-4", "4", "0", "1"],
+    "correctAnswer": "-4"
+  },
+  {
+    "question": "Phương trình x² - mx + 1 = 0 có hai nghiệm phân biệt khi:",
+    "options": ["|m| > 2", "m > 2", "m < -2", "m = ±2"],
+    "correctAnswer": "|m| > 2"
+  },
+  {
+    "question": "Nếu a - b + c = 0 thì phương trình ax² + bx + c = 0 có một nghiệm là:",
+    "options": ["x = -1", "x = 1", "x = c/a", "x = -c/a"],
+    "correctAnswer": "x = -1"
+  },
+  {
+    "question": "Một đội xe cần chở 120 tấn hàng. Hôm làm việc, có 5 xe bị điều đi nơi khác nên mỗi xe còn lại phải chở thêm 1 tấn. Số xe ban đầu của đội là:",
+    "options": ["30", "25", "20", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Đồ thị hàm số y = (1/2)x² đi qua điểm nào?",
+    "options": ["(2; 2)", "(1; 1)", "(2; 4)", "(-2; -2)"],
+    "correctAnswer": "(2; 2)"
+  },
+  {
+    "question": "Phương trình x² + 4x = 0 có các nghiệm là:",
+    "options": ["x=0 và x=-4", "x=0 và x=4", "x=4", "x=-4"],
+    "correctAnswer": "x=0 và x=-4"
+  },
+  {
+    "question": "Phương trình x² - 2x - 5 = 0 có biệt thức Δ' là:",
+    "options": ["6", "24", "-4", "-19"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cho phương trình x² - 3x - 1 = 0 có hai nghiệm x₁, x₂. Giá trị của x₁² + x₂² là:",
+    "options": ["11", "9", "7", "13"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Một phòng họp có 360 ghế được xếp thành các hàng bằng nhau. Nếu thêm mỗi hàng 1 ghế và bớt đi 3 hàng thì số ghế không đổi. Số hàng ghế ban đầu là:",
+    "options": ["24", "15", "18", "20"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Hàm số y = ax² có đồ thị nằm phía trên trục hoành khi:",
+    "options": ["a > 0", "a < 0", "a = 0", "a ≠ 0"],
+    "correctAnswer": "a > 0"
+  },
+  {
+    "question": "Phương trình 2x² - 5x + 3 = 0 có các nghiệm là:",
+    "options": ["x=1 và x=3/2", "x=-1 và x=-3/2", "x=1 và x=-3/2", "x=-1 và x=3/2"],
+    "correctAnswer": "x=1 và x=3/2"
+  },
+  {
+    "question": "Phương trình x² - 2x + m - 1 = 0 vô nghiệm khi:",
+    "options": ["m > 2", "m < 2", "m = 2", "m ≤ 2"],
+    "correctAnswer": "m > 2"
+  },
+  {
+    "question": "Hai số u và v có tổng S và tích P là nghiệm của phương trình:",
+    "options": ["X² - SX + P = 0", "X² + SX + P = 0", "X² - SX - P = 0", "X² + SX - P = 0"],
+    "correctAnswer": "X² - SX + P = 0"
+  },
+  {
+    "question": "Hai vòi nước cùng chảy vào một bể thì sau 1 giờ 20 phút đầy bể. Nếu mở vòi I trong 10 phút và vòi II trong 12 phút thì được 2/15 bể. Mỗi vòi chảy riêng đầy bể trong bao lâu?",
+    "options": ["Vòi I: 120 phút, Vòi II: 240 phút", "Vòi I: 2 giờ, Vòi II: 4 giờ", "Cả A và B", "Vòi I: 3 giờ, Vòi II: 3 giờ"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Điểm nào sau đây không thuộc đồ thị hàm số y = -x²?",
+    "options": ["(1; 1)", "(1; -1)", "(2; -4)", "(0; 0)"],
+    "correctAnswer": "(1; 1)"
+  },
+  {
+    "question": "Phương trình 4x² - 1 = 0 có tập nghiệm là:",
+    "options": ["{-1/2; 1/2}", "{1/2}", "{-1/2}", "{1/4}"],
+    "correctAnswer": "{-1/2; 1/2}"
+  },
+  {
+    "question": "Phương trình x² - 2√3x + 3 = 0 có:",
+    "options": ["Nghiệm kép x=√3", "Hai nghiệm phân biệt", "Vô nghiệm", "Một nghiệm x=3"],
+    "correctAnswer": "Nghiệm kép x=√3"
+  },
+  {
+    "question": "Cho phương trình x² + 4x - 1 = 0 có hai nghiệm x₁, x₂. Giá trị của (x₁ + x₂)² là:",
+    "options": ["16", "-16", "4", "-4"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Một tam giác vuông có chu vi 30cm và cạnh huyền 13cm. Diện tích tam giác đó là:",
+    "options": ["30 cm²", "60 cm²", "25 cm²", "32.5 cm²"],
+    "correctAnswer": "30 cm²"
+  },
+  {
+    "question": "Hàm số y = -1/2 x² nghịch biến khi:",
+    "options": ["x > 0", "x < 0", "x = 0", "Với mọi x"],
+    "correctAnswer": "x > 0"
+  },
+  {
+    "question": "Phương trình x² + 9 = 0 có bao nhiêu nghiệm?",
+    "options": ["0", "1", "2", "Vô số"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Phương trình x² - 2x + m = 0 có hai nghiệm trái dấu khi:",
+    "options": ["m < 0", "m > 0", "m = 0", "m bất kỳ"],
+    "correctAnswer": "m < 0"
+  },
+  {
+    "question": "Tìm hai số biết tổng của chúng là 5 và tích của chúng là 6.",
+    "options": ["2 và 3", "1 và 4", "1 và 5", "6 và -1"],
+    "correctAnswer": "2 và 3"
+  },
+  {
+    "question": "Một khu vườn hình chữ nhật có diện tích 300 m². Nếu tăng chiều rộng 5m và giảm chiều dài 5m thì diện tích tăng 25 m². Kích thước ban đầu là:",
+    "options": ["Dài 20m, Rộng 15m", "Dài 30m, Rộng 10m", "Dài 25m, Rộng 12m", "Dài 15m, Rộng 20m"],
+    "correctAnswer": "Dài 20m, Rộng 15m"
+  },
+  {
+    "question": "Đồ thị hàm số y = ax² đi qua điểm A(2; -2). Giá trị của a là:",
+    "options": ["-1/2", "1/2", "-2", "2"],
+    "correctAnswer": "-1/2"
+  },
+  {
+    "question": "Phương trình x² - 5x + 6 = 0 có các nghiệm là:",
+    "options": ["2 và 3", "-2 và -3", "1 và 6", "-1 và -6"],
+    "correctAnswer": "2 và 3"
+  },
+  {
+    "question": "Phương trình x² - 2x + 2 = 0 có biệt thức Δ' là:",
+    "options": ["-1", "1", "8", "-7"],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "Cho phương trình x² - x - 3 = 0 có hai nghiệm x₁, x₂. Giá trị của 1/x₁ + 1/x₂ là:",
+    "options": ["-1/3", "1/3", "1", "3"],
+    "correctAnswer": "-1/3"
+  },
+  {
+    "question": "Một người đi xe đạp từ A đến B cách nhau 24km. Khi từ B trở về A, người đó tăng vận tốc thêm 4 km/h nên thời gian về ít hơn thời gian đi là 30 phút. Vận tốc lúc đi là:",
+    "options": ["12 km/h", "16 km/h", "8 km/h", "10 km/h"],
+    "correctAnswer": "12 km/h"
+  },
+  {
+    "question": "Hàm số y = (2-m)x² nghịch biến khi x > 0 nếu:",
+    "options": ["m > 2", "m < 2", "m = 2", "m ≠ 2"],
+    "correctAnswer": "m > 2"
+  },
+  {
+    "question": "Phương trình 5x² + 2x = 0 có tập nghiệm là:",
+    "options": ["{0; -2/5}", "{0; 2/5}", "{0}", "{-2/5}"],
+    "correctAnswer": "{0; -2/5}"
+  },
+  {
+    "question": "Phương trình x² - 2mx + m² - m + 1 = 0 có hai nghiệm phân biệt khi:",
+    "options": ["m > 1", "m < 1", "m = 1", "m bất kỳ"],
+    "correctAnswer": "m > 1"
+  },
+  {
+    "question": "Phương trình có hai nghiệm là 2 và -3 là:",
+    "options": ["x² + x - 6 = 0", "x² - x - 6 = 0", "x² + x + 6 = 0", "x² - x + 6 = 0"],
+    "correctAnswer": "x² + x - 6 = 0"
+  },
+  {
+    "question": "Hai tổ sản xuất theo kế hoạch phải làm 600 sản phẩm. Tổ I đã vượt mức 18%, tổ II vượt mức 21% nên cả hai tổ đã làm được 686 sản phẩm. Số sản phẩm mỗi tổ được giao là:",
+    "options": ["Tổ I: 400, Tổ II: 200", "Tổ I: 200, Tổ II: 400", "Tổ I: 300, Tổ II: 300", "Tổ I: 350, Tổ II: 250"],
+    "correctAnswer": "Tổ I: 400, Tổ II: 200"
+  },
+  {
+    "question": "Đồ thị hàm số y = x² và y = -x² đối xứng nhau qua:",
+    "options": ["Trục Ox", "Trục Oy", "Gốc tọa độ", "Đường thẳng y=x"],
+    "correctAnswer": "Trục Ox"
+  },
+  {
+    "question": "Phương trình x² - 7x + 12 = 0 có các nghiệm là:",
+    "options": ["3 và 4", "-3 và -4", "2 và 6", "1 và 12"],
+    "correctAnswer": "3 và 4"
+  },
+  {
+    "question": "Phương trình x² + 2x + m = 0 có nghiệm kép khi Δ' = 0, tức là:",
+    "options": ["1 - m = 0", "4 - 4m = 0", "1 - 4m = 0", "4 - m = 0"],
+    "correctAnswer": "1 - m = 0"
+  },
+  {
+    "question": "Cho phương trình x² - 2x - 2 = 0 có hai nghiệm x₁, x₂. Giá trị của |x₁ - x₂| là:",
+    "options": ["2√3", "√12", "Cả A và B", "2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một đội thuyền đánh cá dự định mỗi ngày bắt 3 tấn cá. Nhưng mỗi ngày bắt hơn 0.8 tấn nên chẳng những hoàn thành kế hoạch sớm 2 ngày mà còn bắt thêm được 2 tấn. Kế hoạch bắt được bao nhiêu tấn cá?",
+    "options": ["48 tấn", "50 tấn", "45 tấn", "60 tấn"],
+    "correctAnswer": "48 tấn"
+  },
+  {
+    "question": "Hàm số y = ax² (a≠0) có giá trị nhỏ nhất bằng 0 khi:",
+    "options": ["a > 0", "a < 0", "x = 0", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Phương trình (x-1)² = 4 có tập nghiệm là:",
+    "options": ["{3; -1}", "{3}", "{-1}", "{5}"],
+    "correctAnswer": "{3; -1}"
+  },
+  {
+    "question": "Phương trình x² - 2x + m = 0 có hai nghiệm cùng dương khi:",
+    "options": ["0 < m ≤ 1", "m ≤ 1", "m > 0", "0 ≤ m ≤ 1"],
+    "correctAnswer": "0 < m ≤ 1"
+  },
+  {
+    "question": "Tìm hai số biết tổng của chúng là -1 và tích của chúng là -12.",
+    "options": ["3 và -4", "-3 và 4", "2 và -6", "-2 và 6"],
+    "correctAnswer": "3 và -4"
+  },
+  {
+    "question": "Một xưởng may phải may 3000 áo trong một thời gian. Để hoàn thành sớm, mỗi ngày xưởng may nhiều hơn 6 áo so với kế hoạch nên xong trước 5 ngày. Mỗi ngày xưởng dự định may bao nhiêu áo?",
+    "options": ["120 áo", "100 áo", "150 áo", "125 áo"],
+    "correctAnswer": "120 áo"
+  },
+  {
+    "question": "Đồ thị hàm số y = -3x² nằm ở góc phần tư nào?",
+    "options": ["III và IV", "I và II", "I và III", "II và IV"],
+    "correctAnswer": "III và IV"
+  },
+  {
+    "question": "Phương trình 2x² + 7x - 4 = 0 có các nghiệm là:",
+    "options": ["1/2 và -4", "-1/2 và 4", "2 và -2", "1 và -4"],
+    "correctAnswer": "1/2 và -4"
+  },
+  {
+    "question": "Phương trình x² - 2(m+1)x + m² + 2m = 0 có hai nghiệm phân biệt khi:",
+    "options": ["m bất kỳ", "m > -1", "m < -1", "m = -1"],
+    "correctAnswer": "m bất kỳ"
+  },
+  {
+    "question": "Cho phương trình x² - 5x + m = 0 có một nghiệm bằng 2. Nghiệm còn lại là:",
+    "options": ["3", "2.5", "2", "m/2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một hình chữ nhật có đường chéo dài 5m và diện tích 12 m². Kích thước của hình chữ nhật là:",
+    "options": ["3m và 4m", "2m và 6m", "1m và 12m", "Không có"],
+    "correctAnswer": "3m và 4m"
+  },
+  {
+    "question": "Hàm số y = ax² có đồ thị là một parabol đi qua điểm A(-2;12). Khi đó a bằng:",
+    "options": ["3", "-3", "6", "-6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Phương trình x² - 4x + 4 = 0 có nghiệm kép là:",
+    "options": ["x = 2", "x = -2", "x = 4", "x = 1"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Phương trình x² - 2x + m = 0 có hai nghiệm cùng âm khi:",
+    "options": ["Không có m", "m < 0", "0 < m ≤ 1", "m > 1"],
+    "correctAnswer": "Không có m"
+  },
+  {
+    "question": "Cho phương trình x² - 4x + 2 = 0 có hai nghiệm x₁, x₂. Giá trị của x₁³ + x₂³ là:",
+    "options": ["40", "64", "8", "56"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Một công việc được hai người làm chung trong 12 giờ thì xong. Nếu làm riêng, người thứ nhất hoàn thành công việc nhanh hơn người thứ hai 10 giờ. Thời gian người thứ nhất làm một mình là:",
+    "options": ["20 giờ", "30 giờ", "15 giờ", "25 giờ"],
+    "correctAnswer": "20 giờ"
+  },
+  {
+    "question": "Đồ thị hàm số y = ax² và y = -ax² (a≠0) đối xứng nhau qua:",
+    "options": ["Trục Ox", "Trục Oy", "Gốc tọa độ", "Đường thẳng y=x"],
+    "correctAnswer": "Trục Ox"
+  },
+  {
+    "question": "Phương trình (m-1)x² + 2x + 1 = 0 là phương trình bậc hai khi:",
+    "options": ["m ≠ 1", "m = 1", "m bất kỳ", "m ≠ 0"],
+    "correctAnswer": "m ≠ 1"
+  },
+  {
+    "question": "Phương trình x² - (2m-1)x + m² - m = 0 có:",
+    "options": ["Hai nghiệm phân biệt với mọi m", "Nghiệm kép với mọi m", "Vô nghiệm với mọi m", "Phụ thuộc vào m"],
+    "correctAnswer": "Hai nghiệm phân biệt với mọi m"
+  },
+  {
+    "question": "Phương trình có hai nghiệm là √2+1 và √2-1 là:",
+    "options": ["x² - 2√2x + 1 = 0", "x² + 2√2x + 1 = 0", "x² - 2x + 1 = 0", "x² - 2√2x - 1 = 0"],
+    "correctAnswer": "x² - 2√2x + 1 = 0"
+  },
+  {
+    "question": "Một tam giác vuông có chu vi 24cm, cạnh huyền 10cm. Hai cạnh góc vuông có độ dài là:",
+    "options": ["6cm và 8cm", "5cm và 9cm", "7cm và 7cm", "4cm và 10cm"],
+    "correctAnswer": "6cm và 8cm"
+  }
+]
+
