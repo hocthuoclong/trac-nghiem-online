@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Tứ giác",
                   "file": "./data/math-8-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Định lí Thalès",
+                  "file": "./data/math-8-chapter-4.json"
                 }
               ]
             }
