@@ -29,7 +29,6 @@
                   "name": "Chương 5: Một số hình phẳng. Chu vi và diện tích",
                   "file": "./data/math-5-chapter-5.json"
                 },
-              
                 {
                   "name": "Chương 7: Tỉ số và các bài toán liên quan",
                   "file": "./data/math-5-chapter-7.json"
@@ -37,6 +36,10 @@
                 {
                   "name": "Chương 8: Thể tích. Đơn vị đo thể tích",
                   "file": "./data/math-5-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Diện tích và thể tích của một số hình khối",
+                  "file": "./data/math-5-chapter-9.json"
                 }
               ]
             },
