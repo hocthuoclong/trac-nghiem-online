@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Phép thử ngẫu nhiên là một phép thử mà:",
+    "options": ["Không thể dự đoán trước được kết quả", "Luôn có cùng một kết quả", "Có vô số kết quả", "Kết quả đã được biết trước"],
+    "correctAnswer": "Không thể dự đoán trước được kết quả"
+  },
+  {
+    "question": "Không gian mẫu của một phép thử, ký hiệu là Ω, là:",
+    "options": ["Tập hợp tất cả các kết quả có thể xảy ra", "Một kết quả cụ thể của phép thử", "Biến cố không thể", "Biến cố chắc chắn"],
+    "correctAnswer": "Tập hợp tất cả các kết quả có thể xảy ra"
+  },
+  {
+    "question": "Biến cố là:",
+    "options": ["Một tập con của không gian mẫu", "Toàn bộ không gian mẫu", "Một kết quả duy nhất", "Một phép thử"],
+    "correctAnswer": "Một tập con của không gian mẫu"
+  },
+  {
+    "question": "Gieo một con súc sắc cân đối. Không gian mẫu có bao nhiêu phần tử?",
+    "options": ["6", "1", "36", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Định nghĩa cổ điển của xác suất P(A) của biến cố A là:",
+    "options": ["P(A) = n(A) / n(Ω)", "P(A) = n(A)", "P(A) = n(Ω)", "P(A) = n(Ω) / n(A)"],
+    "correctAnswer": "P(A) = n(A) / n(Ω)"
+  },
+  {
+    "question": "Gieo một đồng xu cân đối. Xác suất xuất hiện mặt sấp là:",
+    "options": ["1/2", "1", "0", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Biến cố không thể là biến cố:",
+    "options": ["Không bao giờ xảy ra", "Luôn luôn xảy ra", "Có xác suất bằng 1/2", "Là tập rỗng ∅"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Biến cố chắc chắn là biến cố:",
+    "options": ["Luôn luôn xảy ra", "Không bao giờ xảy ra", "Có xác suất bằng 0", "Là tập rỗng ∅"],
+    "correctAnswer": "Luôn luôn xảy ra"
+  },
+  {
+    "question": "Xác suất của một biến cố A luôn thỏa mãn:",
+    "options": ["0 ≤ P(A) ≤ 1", "P(A) > 0", "P(A) < 1", "P(A) là số nguyên"],
+    "correctAnswer": "0 ≤ P(A) ≤ 1"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh và 3 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh là:",
+    "options": ["5/8", "3/8", "1/5", "1/3"],
+    "correctAnswer": "5/8"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là biến cố 'mặt xuất hiện có số chấm là số chẵn'. Số phần tử của A là:",
+    "options": ["3", "6", "2", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tung hai đồng xu phân biệt. Số phần tử của không gian mẫu là:",
+    "options": ["4", "2", "8", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Rút một lá bài từ bộ bài 52 lá. Xác suất rút được lá Át là:",
+    "options": ["1/13", "4/52", "Cả A và B", "1/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Biến cố đối của biến cố A, ký hiệu là A', có xác suất là:",
+    "options": ["P(A') = 1 - P(A)", "P(A') = P(A)", "P(A') = 1 + P(A)", "P(A') = 1/P(A)"],
+    "correctAnswer": "P(A') = 1 - P(A)"
+  },
+  {
+    "question": "Một lớp có 30 học sinh, trong đó có 18 nữ. Chọn ngẫu nhiên 1 học sinh. Xác suất chọn được học sinh nam là:",
+    "options": ["2/5", "12/30", "Cả A và B", "18/30"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm bằng 7 là:",
+    "options": ["1/6", "6/36", "Cả A và B", "7/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một tổ có 7 nam và 3 nữ. Chọn ngẫu nhiên 2 người. Xác suất để cả hai người được chọn đều là nam là:",
+    "options": ["7/15", "C(7,2)/C(10,2)", "21/45", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Trong định nghĩa cổ điển của xác suất, các kết quả của phép thử phải:",
+    "options": ["Đồng khả năng", "Khác khả năng", "Luôn là số", "Luôn là chữ"],
+    "correctAnswer": "Đồng khả năng"
+  },
+  {
+    "question": "Xác suất của biến cố không thể là:",
+    "options": ["0", "1", "-1", "0.5"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Xác suất của biến cố chắc chắn là:",
+    "options": ["1", "0", "100", "Ω"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một hộp chứa 10 quả cầu được đánh số từ 1 đến 10. Lấy ngẫu nhiên 1 quả. Xác suất để quả cầu lấy ra ghi số chia hết cho 3 là:",
+    "options": ["3/10", "1/3", "4/10", "1/10"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để được ít nhất một mặt sấp là:",
+    "options": ["3/4", "1/2", "1/4", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Một hộp có 4 bi đỏ, 5 bi xanh, 6 bi vàng. Lấy ngẫu nhiên 1 bi. Xác suất để bi lấy ra không phải màu xanh là:",
+    "options": ["2/3", "10/15", "Cả A và B", "5/15"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số tự nhiên có hai chữ số. Xác suất để số được chọn có chữ số hàng đơn vị là 5 là:",
+    "options": ["1/10", "9/90", "Cả A và B", "10/99"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt xuất hiện có số chấm là một số nguyên tố là:",
+    "options": ["1/2", "3/6", "Cả A và B", "2/3"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một lớp có 40 học sinh. Chọn ngẫu nhiên 3 học sinh. Số phần tử của không gian mẫu là:",
+    "options": ["C(40,3)", "A(40,3)", "40³", "40*3"],
+    "correctAnswer": "C(40,3)"
+  },
+  {
+    "question": "Một hộp có 12 sản phẩm, trong đó có 2 phế phẩm. Lấy ngẫu nhiên 1 sản phẩm. Xác suất lấy được chính phẩm là:",
+    "options": ["5/6", "10/12", "Cả A và B", "2/12"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá K cơ là:",
+    "options": ["1/52", "4/52", "1/13", "1/4"],
+    "correctAnswer": "1/52"
+  },
+  {
+    "question": "Tung ba đồng xu. Xác suất để được đúng hai mặt ngửa là:",
+    "options": ["3/8", "1/2", "1/4", "1/8"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Một hộp có 5 bi trắng và 5 bi đen. Lấy ngẫu nhiên 2 bi. Xác suất để 2 bi cùng màu là:",
+    "options": ["4/9", "2*C(5,2)/C(10,2)", "20/45", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm bằng 2 là:",
+    "options": ["1/36", "2/36", "1/18", "1/12"],
+    "correctAnswer": "1/36"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm bằng 12 là:",
+    "options": ["1/36", "2/36", "1/18", "1/12"],
+    "correctAnswer": "1/36"
+  },
+  {
+    "question": "Một tổ có 10 người. Chọn ngẫu nhiên 1 người. Xác suất để An (một thành viên trong tổ) được chọn là:",
+    "options": ["1/10", "1", "0", "10"],
+    "correctAnswer": "1/10"
+  },
+  {
+    "question": "Một hộp có 100 vé, trong đó có 1 vé trúng. Bạn mua 1 vé. Xác suất bạn trúng thưởng là:",
+    "options": ["0.01", "1/100", "Cả A và B", "1"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, 5, lập một số tự nhiên có 3 chữ số khác nhau. Lấy ngẫu nhiên một số. Xác suất để số đó là số chẵn là:",
+    "options": ["2/5", "24/60", "Cả A và B", "3/5"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Xếp ngẫu nhiên 3 nam và 3 nữ vào một hàng ghế. Xác suất để nam nữ ngồi xen kẽ là:",
+    "options": ["1/10", "72/720", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 5 bi đỏ, 3 bi vàng, 2 bi xanh. Lấy ngẫu nhiên 1 bi. Xác suất để bi đó không phải màu vàng là:",
+    "options": ["7/10", "3/10", "5/10", "2/10"],
+    "correctAnswer": "7/10"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để mặt xuất hiện có số chấm không lớn hơn 4 là:",
+    "options": ["2/3", "4/6", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để hai mặt giống nhau là:",
+    "options": ["1/2", "2/4", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một lớp có 15 nam và 10 nữ. Chọn ngẫu nhiên 3 bạn. Xác suất để có 2 nam và 1 nữ là:",
+    "options": ["21/46", "C(15,2)C(10,1)/C(25,3)", "1050/2300", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá cơ là:",
+    "options": ["1/4", "13/52", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một người có 5 đôi giày khác nhau. Buổi tối, người đó chọn ngẫu nhiên 2 chiếc. Xác suất để 2 chiếc đó tạo thành một đôi là:",
+    "options": ["1/9", "5/C(10,2)", "5/45", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là một số chính phương là:",
+    "options": ["2/9", "8/36", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi được đánh số từ 1 đến 10. Lấy ngẫu nhiên 2 bi. Xác suất để tổng số ghi trên 2 bi là 11 là:",
+    "options": ["1/9", "5/45", "Cả A và B", "1/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, lập một số tự nhiên có 4 chữ số khác nhau. Lấy ngẫu nhiên một số. Xác suất để số đó nhỏ hơn 3000 là:",
+    "options": ["1/2", "12/24", "Cả A và B", "1/3"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Xếp ngẫu nhiên 5 người vào một bàn tròn. Xác suất để An và Bình ngồi cạnh nhau là:",
+    "options": ["1/2", "2*3!/4!", "12/24", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Một hộp có 6 bi trắng, 4 bi đen. Lấy ngẫu nhiên 3 bi. Xác suất để có ít nhất một bi đen là:",
+    "options": ["5/6", "1 - C(6,3)/C(10,3)", "1 - 20/120", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Tung một đồng xu 5 lần. Xác suất để mặt sấp xuất hiện đúng 3 lần là:",
+    "options": ["5/16", "C(5,3)/2⁵", "10/32", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một người chọn ngẫu nhiên 2 chiếc giày từ 4 đôi giày khác nhau. Xác suất để chọn được 1 đôi là:",
+    "options": ["1/7", "4/C(8,2)", "4/28", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để hiệu số chấm hai mặt bằng 1 là:",
+    "options": ["5/18", "10/36", "Cả A và B", "1/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 20 quả cầu, trong đó 12 quả đỏ và 8 quả xanh. Lấy ngẫu nhiên 3 quả. Xác suất để có đúng 1 quả xanh là:",
+    "options": ["22/95", "C(8,1)C(12,2)/C(20,3)", "528/1140", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Từ một nhóm 10 học sinh, chọn ngẫu nhiên 4 học sinh. Xác suất để An và Bình (hai học sinh trong nhóm) đều được chọn là:",
+    "options": ["2/15", "C(8,2)/C(10,4)", "28/210", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một người quên 2 chữ số cuối của một mật khẩu 6 chữ số. Người đó thử ngẫu nhiên. Xác suất để mở được trong lần thử đầu tiên là:",
+    "options": ["1/100", "1/90", "1/A(10,2)", "1/C(10,2)"],
+    "correctAnswer": "1/100"
+  },
+  {
+    "question": "Gieo một con súc sắc 3 lần. Xác suất để cả 3 lần đều ra mặt 6 chấm là:",
+    "options": ["1/216", "(1/6)³", "Cả A và B", "3/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi đỏ, 5 bi xanh. Lấy ngẫu nhiên 3 bi. Xác suất để có đủ 2 màu là:",
+    "options": ["25/39", "1 - (C(10,3)+C(5,3))/C(15,3)", "325/455", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một lớp có 30 học sinh. Chọn ngẫu nhiên 10 học sinh. Xác suất để một học sinh A cụ thể được chọn là:",
+    "options": ["1/3", "10/30", "Cả A và B", "C(29,9)/C(30,10)"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá J, Q hoặc K là:",
+    "options": ["3/13", "12/52", "Cả A và B", "1/4"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Tung hai đồng xu. Xác suất để không có mặt sấp nào là:",
+    "options": ["1/4", "1/2", "3/4", "0"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 5 phế phẩm. Lấy ngẫu nhiên 10 sản phẩm. Xác suất để có đúng 2 phế phẩm là:",
+    "options": ["C(5,2)C(95,8)/C(100,10)", "≈ 0.07", "Cả A và B", "2/10"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là một số lớn hơn 1 là:",
+    "options": ["1", "35/36", "0", "1/36"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số tự nhiên có 3 chữ số khác nhau. Xác suất để số đó là số lẻ là:",
+    "options": ["320/648", "5/9", "1/2", "360/720"],
+    "correctAnswer": "320/648"
+  },
+  {
+    "question": "Xếp ngẫu nhiên 10 học sinh thành một hàng. Xác suất để An và Bình đứng ở hai đầu hàng là:",
+    "options": ["1/45", "2*8!/10!", "2/90", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một hộp có 7 bi xanh, 5 bi đỏ. Lấy ngẫu nhiên 3 bi. Xác suất để có ít nhất 2 bi xanh là:",
+    "options": ["7/11", "C(7,2)C(5,1)+C(7,3)/C(12,3)", "140/220", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tung một đồng xu 10 lần. Xác suất để 10 lần đều ra mặt sấp là:",
+    "options": ["1/1024", "(1/2)¹⁰", "Cả A và B", "10/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một người chọn ngẫu nhiên 3 số khác nhau từ tập {1, 2, ..., 20}. Xác suất để trong 3 số đó có số 5 là:",
+    "options": ["3/20", "C(19,2)/C(20,3)", "171/1140", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tích số chấm là một số lẻ là:",
+    "options": ["1/4", "9/36", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi đỏ, 8 bi xanh. Lấy ngẫu nhiên 4 bi. Xác suất để số bi đỏ bằng số bi xanh là:",
+    "options": ["14/51", "C(10,2)C(8,2)/C(18,4)", "1260/3060", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Từ các chữ số 1, 2, 3, 4, 5, 6, 7, lập một số tự nhiên có 4 chữ số khác nhau. Lấy ngẫu nhiên một số. Xác suất để số đó chia hết cho 5 là:",
+    "options": ["1/7", "A(6,3)/A(7,4)", "120/840", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Chia 12 người thành 3 nhóm, mỗi nhóm 4 người. Số cách chia là:",
+    "options": ["5775", "C(12,4)C(8,4)C(4,4)/3!", "34650/6", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh, 4 bi đỏ, 3 bi vàng. Lấy ngẫu nhiên 3 bi. Xác suất để có đủ 3 màu là:",
+    "options": ["3/11", "60/220", "C(5,1)C(4,1)C(3,1)/C(12,3)", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Tung một con súc sắc 4 lần. Xác suất để mặt 1 chấm xuất hiện đúng 1 lần là:",
+    "options": ["500/1296", "C(4,1)*(1/6)*(5/6)³", "4*125/1296", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Rút một lá bài từ bộ 52 lá. Xác suất rút được lá Q hoặc lá Rô là:",
+    "options": ["4/13", "16/52", "Cả A và B", "17/52"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một tổ có 6 nam và 4 nữ. Chọn ngẫu nhiên 5 người. Xác suất để có nhiều hơn 3 nam là:",
+    "options": ["9/42", "C(6,4)C(4,1)+C(6,5)/C(10,5)", "66/252", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 6 là:",
+    "options": ["5/36", "1/6", "4/36", "6/36"],
+    "correctAnswer": "5/36"
+  },
+  {
+    "question": "Một hộp có 10 bi giống hệt nhau, trong đó có 1 bi bị lỗi. Lấy ngẫu nhiên 3 bi. Xác suất để lấy phải bi lỗi là:",
+    "options": ["3/10", "C(9,2)/C(10,3)", "36/120", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Từ các chữ số 0, 1, 2, 3, 4, 5, 6, có thể lập được bao nhiêu số tự nhiên chẵn có 4 chữ số khác nhau?",
+    "options": ["420", "360", "480", "540"],
+    "correctAnswer": "420"
+  },
+  {
+    "question": "Xếp ngẫu nhiên 6 người (3 nam, 3 nữ) vào một hàng. Xác suất để không có hai bạn nam nào ngồi cạnh nhau là:",
+    "options": ["1/5", "4!*A(4,3)/6!", "144/720", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Một hộp có 10 bi xanh, 5 bi đỏ. Lấy ngẫu nhiên 3 bi. Xác suất để có ít nhất 1 bi đỏ là:",
+    "options": ["67/91", "1 - C(10,3)/C(15,3)", "1 - 120/455", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Tung một đồng xu 6 lần. Xác suất để số lần mặt sấp bằng số lần mặt ngửa là:",
+    "options": ["5/16", "C(6,3)/2⁶", "20/64", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Chọn ngẫu nhiên một số tự nhiên có 3 chữ số. Xác suất để số đó chia hết cho 2 và 5 là:",
+    "options": ["1/10", "90/900", "Cả A và B", "1/9"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là một số không chia hết cho 3 là:",
+    "options": ["2/3", "24/36", "Cả A và B", "1 - 12/36"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 10 phế phẩm. Lấy ngẫu nhiên 5 sản phẩm. Xác suất để có ít nhất một phế phẩm là:",
+    "options": ["≈ 0.416", "1 - C(90,5)/C(100,5)", "Cả A và B", "1 - 0.584"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Từ một nhóm 5 nam và 5 nữ, chọn ngẫu nhiên 5 người. Xác suất để có cả nam và nữ là:",
+    "options": ["125/126", "1 - (C(5,5)+C(5,5))/C(10,5)", "250/252", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Một người có 6 đôi tất khác nhau. Buổi sáng, người đó lấy ngẫu nhiên 4 chiếc. Xác suất để có ít nhất một đôi đi được là:",
+    "options": ["13/33", "1 - C(6,4)*2⁴/C(12,4)", "1 - 240/495", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Gieo 3 con súc sắc. Xác suất để tổng số chấm là 6 là:",
+    "options": ["5/108", "10/216", "Cả A và B", "1/18"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Một hộp có 10 bi, trong đó có 4 bi đỏ. Lấy ngẫu nhiên 3 bi. Xác suất để có nhiều nhất 1 bi đỏ là:",
+    "options": ["2/3", "C(6,3)+C(4,1)C(6,2)/C(10,3)", "80/120", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Từ các chữ số 0, 1, 2, 3, 4, 5, có thể lập được bao nhiêu số tự nhiên có 3 chữ số khác nhau và không chia hết cho 2?",
+    "options": ["48", "60", "36", "52"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Xếp ngẫu nhiên 8 người vào một bàn tròn. Xác suất để hai người A và B ngồi đối diện nhau là:",
+    "options": ["1/7", "2*6!/7!", "2/8", "1/4"],
+    "correctAnswer": "1/7"
+  },
+  {
+    "question": "Một hộp có 10 bi xanh, 8 bi đỏ, 2 bi vàng. Lấy ngẫu nhiên 5 bi. Xác suất để có đủ 3 màu là:",
+    "options": ["70/221", "C(10,3)C(8,1)C(2,1)+.../C(20,5)", "≈ 0.316", "Không tính được"],
+    "correctAnswer": "≈ 0.316"
+  }
+]
+
