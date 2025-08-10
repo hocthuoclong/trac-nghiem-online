@@ -16,6 +16,10 @@
                 {
                   "name": "Chương 2: Số thực",
                   "file": "./data/math-7-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Góc và đường thẳng song song",
+                  "file": "./data/math-7-chapter-3.json"
                 }
               ]
             },
