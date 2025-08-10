@@ -40,6 +40,10 @@
                 {
                   "name": "Chương 8: Các quy tắc tính xác suất",
                   "file": "./data/math-11-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Đạo hàm",
+                  "file": "./data/math-11-chapter-9.json"
                 }
               ]
             },
