@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Trong các hoạt động sau, hoạt động nào là một phép thử nghiệm ngẫu nhiên?",
+    "options": ["Gieo một con súc sắc", "Tính chu vi hình tròn có bán kính 2cm", "Đo chiều dài của một cây bút", "Tính 5 + 3"],
+    "correctAnswer": "Gieo một con súc sắc"
+  },
+  {
+    "question": "Khi tung một đồng xu, biến cố 'Đồng xu hiện mặt ngửa' là loại biến cố gì?",
+    "options": ["Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố không thể", "Không phải là biến cố"],
+    "correctAnswer": "Biến cố ngẫu nhiên"
+  },
+  {
+    "question": "Gieo một con súc sắc 6 mặt. Biến cố 'Số chấm xuất hiện lớn hơn 6' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Một kết quả có thể xảy ra"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Trong một hộp có 5 quả bóng màu đỏ. Lấy ngẫu nhiên một quả. Biến cố 'Lấy được quả bóng màu đỏ' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Có xác suất bằng 0"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Xác suất của một biến cố chắc chắn bằng:",
+    "options": ["1", "0", "0.5", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Xác suất của một biến cố không thể bằng:",
+    "options": ["0", "1", "0.5", "-1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tung một đồng xu cân đối 10 lần. Số lần xuất hiện mặt sấp là 6. Xác suất thực nghiệm của biến cố 'xuất hiện mặt sấp' là:",
+    "options": ["6/10", "4/10", "1/2", "10/6"],
+    "correctAnswer": "6/10"
+  },
+  {
+    "question": "Gieo một con súc sắc 6 mặt. Xác suất để xuất hiện mặt có số chấm là số chẵn là:",
+    "options": ["1/2", "3/6", "50%", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh và 2 bi đỏ. Lấy ngẫu nhiên một viên bi. Xác suất lấy được bi xanh là:",
+    "options": ["3/5", "2/5", "3/2", "2/3"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Trong một tuần, biến cố 'Ngày mai là Thứ Hai' là biến cố gì nếu hôm nay là Chủ Nhật?",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Biến cố 'Mặt Trời mọc ở hướng Tây' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Một sự thật khoa học"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Một bạn chọn ngẫu nhiên một số tự nhiên từ 1 đến 10. Biến cố 'Bạn đó chọn được một số nguyên tố' là:",
+    "options": ["Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố không thể", "Không phải biến cố"],
+    "correctAnswer": "Biến cố ngẫu nhiên"
+  },
+  {
+    "question": "Xác suất của biến cố ngẫu nhiên A, kí hiệu P(A), luôn thỏa mãn:",
+    "options": ["0 < P(A) < 1", "P(A) = 0", "P(A) = 1", "P(A) > 1"],
+    "correctAnswer": "0 < P(A) < 1"
+  },
+  {
+    "question": "Một xạ thủ bắn 50 viên đạn vào bia, có 45 viên trúng. Xác suất thực nghiệm của biến cố 'bắn trúng' là:",
+    "options": ["45/50", "9/10", "0.9", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một lớp học có 15 bạn nam và 20 bạn nữ. Chọn ngẫu nhiên một bạn. Xác suất chọn được một bạn nam là:",
+    "options": ["15/35", "20/35", "15/20", "20/15"],
+    "correctAnswer": "15/35"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'Số chấm xuất hiện là một số tự nhiên' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không xác định"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Trong hộp có 10 bút bi xanh. Lấy ngẫu nhiên 1 bút. Biến cố 'Lấy được bút màu đỏ' có xác suất bằng:",
+    "options": ["0", "1", "1/10", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tung một đồng xu 100 lần. Số lần xuất hiện mặt sấp có khả năng xảy ra nhất là khoảng:",
+    "options": ["50 lần", "100 lần", "0 lần", "75 lần"],
+    "correctAnswer": "50 lần"
+  },
+  {
+    "question": "Một vòng quay may mắn có 10 ô bằng nhau, trong đó có 3 ô màu đỏ. Xác suất để quay vào ô màu đỏ là:",
+    "options": ["3/10", "7/10", "1/3", "10/3"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm lớn hơn 4 là:",
+    "options": ["2/6", "4/6", "1/6", "3/6"],
+    "correctAnswer": "2/6"
+  },
+  {
+    "question": "Biến cố nào sau đây là biến cố ngẫu nhiên?",
+    "options": ["Bạn An tung đồng xu được mặt sấp", "Tháng 2 có 30 ngày", "Sau thứ 7 là Chủ nhật", "Một tam giác có 4 đỉnh"],
+    "correctAnswer": "Bạn An tung đồng xu được mặt sấp"
+  },
+  {
+    "question": "Một túi đựng 5 viên bi trắng và 5 viên bi đen. Lấy ngẫu nhiên một viên. Khả năng lấy được bi trắng và bi đen như thế nào?",
+    "options": ["Bằng nhau", "Khả năng lấy bi trắng cao hơn", "Khả năng lấy bi đen cao hơn", "Không thể so sánh"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Khi số lần lặp lại một phép thử ngẫu nhiên càng lớn thì xác suất thực nghiệm:",
+    "options": ["Càng gần xác suất lí thuyết", "Càng xa xác suất lí thuyết", "Luôn bằng 1", "Luôn bằng 0"],
+    "correctAnswer": "Càng gần xác suất lí thuyết"
+  },
+  {
+    "question": "Một hộp có 20 thẻ đánh số từ 1 đến 20. Rút ngẫu nhiên một thẻ. Xác suất rút được thẻ ghi số chia hết cho 4 là:",
+    "options": ["5/20", "4/20", "1/4", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'Số chấm xuất hiện là 7' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Trong một chiếc hộp có 1 bút xanh, 1 bút đỏ, 1 bút vàng. Lấy ngẫu nhiên một chiếc bút. Số kết quả có thể xảy ra là:",
+    "options": ["3", "1", "2", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Xác suất của biến cố 'gieo được mặt ngửa khi tung đồng xu' là 1/2. Điều này có nghĩa là:",
+    "options": ["Khi tung đồng xu rất nhiều lần, tỉ số giữa số lần mặt ngửa xuất hiện và tổng số lần tung sẽ xấp xỉ 1/2", "Cứ tung 2 lần thì chắc chắn có 1 lần mặt ngửa", "Tung 10 lần thì chắc chắn có 5 lần mặt ngửa", "Luôn luôn ra mặt ngửa"],
+    "correctAnswer": "Khi tung đồng xu rất nhiều lần, tỉ số giữa số lần mặt ngửa xuất hiện và tổng số lần tung sẽ xấp xỉ 1/2"
+  },
+  {
+    "question": "Một túi có 10 quả táo, trong đó có 2 quả bị hỏng. Lấy ngẫu nhiên một quả. Xác suất lấy được quả táo không bị hỏng là:",
+    "options": ["8/10", "2/10", "1", "0"],
+    "correctAnswer": "8/10"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là số nguyên tố là:",
+    "options": ["3/6", "4/6", "2/6", "1/6"],
+    "correctAnswer": "3/6"
+  },
+  {
+    "question": "Biến cố 'Ngày mai trời sẽ mưa' là:",
+    "options": ["Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố không thể", "Không phải biến cố"],
+    "correctAnswer": "Biến cố ngẫu nhiên"
+  },
+  {
+    "question": "Trong một trò chơi rút thăm, có 100 lá thăm, trong đó có 5 lá trúng thưởng. Xác suất để bạn rút được lá thăm trúng thưởng là:",
+    "options": ["5/100", "95/100", "1/5", "1/100"],
+    "correctAnswer": "5/100"
+  },
+  {
+    "question": "Một bạn gieo súc sắc 30 lần và ghi lại kết quả. Đây là hoạt động gì?",
+    "options": ["Thu thập dữ liệu bằng thực nghiệm", "Phỏng vấn", "Lập phiếu hỏi", "Tính toán lí thuyết"],
+    "correctAnswer": "Thu thập dữ liệu bằng thực nghiệm"
+  },
+  {
+    "question": "Nếu xác suất của biến cố A là P(A) = 0.7 thì xác suất của biến cố đối (không xảy ra A) là:",
+    "options": ["0.3", "0.7", "1", "0"],
+    "correctAnswer": "0.3"
+  },
+  {
+    "question": "Một vòng quay có 4 màu: xanh, đỏ, tím, vàng với diện tích bằng nhau. Xác suất để quay vào màu không phải là màu đỏ là:",
+    "options": ["3/4", "1/4", "1/2", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'Số chấm xuất hiện nhỏ hơn 7' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không xác định"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Trong các số từ 1 đến 20, chọn ngẫu nhiên một số. Xác suất chọn được một số chia hết cho 3 là:",
+    "options": ["6/20", "3/20", "7/20", "5/20"],
+    "correctAnswer": "6/20"
+  },
+  {
+    "question": "Tung một đồng xu 25 lần, có 15 lần mặt ngửa. Xác suất thực nghiệm của biến cố 'xuất hiện mặt sấp' là:",
+    "options": ["10/25", "15/25", "2/5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một bình chứa 2 bi xanh và 8 bi vàng. Không nhìn vào bình, lấy ra 1 bi. Khả năng lấy được bi nào cao hơn?",
+    "options": ["Bi vàng", "Bi xanh", "Bằng nhau", "Không xác định"],
+    "correctAnswer": "Bi vàng"
+  },
+  {
+    "question": "Biến cố 'Trong các học sinh của lớp 7A, chọn được một bạn biết bơi' là biến cố ngẫu nhiên vì:",
+    "options": ["Không thể biết chắc chắn bạn được chọn có biết bơi hay không", "Chắc chắn bạn nào cũng biết bơi", "Chắc chắn không bạn nào biết bơi", "Bơi lội là môn thể thao"],
+    "correctAnswer": "Không thể biết chắc chắn bạn được chọn có biết bơi hay không"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là 1 hoặc 6 là:",
+    "options": ["2/6", "1/6", "6/6", "0/6"],
+    "correctAnswer": "2/6"
+  },
+  {
+    "question": "Một hộp có 50 chiếc kẹo, trong đó có 20 chiếc kẹo dâu. Xác suất để lấy ngẫu nhiên được một chiếc kẹo không phải vị dâu là:",
+    "options": ["30/50", "20/50", "3/5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Trong một tháng có 30 ngày, biến cố 'Ngày được chọn ngẫu nhiên là ngày 31' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Tung 2 đồng xu. Biến cố 'Cả hai đồng xu cùng sấp' có xác suất là:",
+    "options": ["1/4", "1/2", "2/4", "1"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một nhà máy sản xuất 1000 con chip, kiểm tra thấy 20 con bị lỗi. Xác suất thực nghiệm để lấy ngẫu nhiên một con chip bị lỗi là:",
+    "options": ["20/1000", "2/100", "0.02", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là một số chính phương là:",
+    "options": ["2/6", "1/6", "3/6", "4/6"],
+    "correctAnswer": "2/6"
+  },
+  {
+    "question": "Biến cố 'Bạn Nam lấy được 1 viên bi từ hộp không có viên bi nào' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Một tổ có 12 học sinh. Chọn ngẫu nhiên một bạn. Xác suất để bạn An (là thành viên của tổ) được chọn là:",
+    "options": ["1/12", "12", "1", "0"],
+    "correctAnswer": "1/12"
+  },
+  {
+    "question": "Tung một đồng xu 40 lần, mặt sấp xuất hiện 18 lần. Tần số tương đối của sự kiện mặt ngửa xuất hiện là:",
+    "options": ["22/40", "18/40", "11/20", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Trong các số 2, 3, 5, 8, 10. Chọn ngẫu nhiên một số. Xác suất chọn được số chẵn là:",
+    "options": ["3/5", "2/5", "1/5", "4/5"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Biến cố 'Khi đun nước đến 100°C, nước sẽ sôi' (ở điều kiện thường) là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Một hộp có 10 quả bóng xanh và x quả bóng đỏ. Biết xác suất lấy được bóng đỏ là 1/3. Tìm x.",
+    "options": ["5", "10", "3", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là một hợp số là:",
+    "options": ["2/6", "3/6", "4/6", "1/6"],
+    "correctAnswer": "2/6"
+  },
+  {
+    "question": "Tung 2 đồng xu. Xác suất để được 2 mặt khác nhau là:",
+    "options": ["2/4", "1/4", "1/2", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một cuộc thi có 20 thí sinh. Chỉ có một người đoạt giải nhất. Xác suất để bạn Hoa đoạt giải nhất là:",
+    "options": ["1/20", "19/20", "1", "0"],
+    "correctAnswer": "1/20"
+  },
+  {
+    "question": "Gieo một con súc sắc 60 lần, mặt 3 chấm xuất hiện 12 lần. Xác suất thực nghiệm của biến cố 'xuất hiện mặt 3 chấm' là:",
+    "options": ["12/60", "1/5", "0.2", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Trong các chữ cái của từ 'TOÁN HỌC', chọn ngẫu nhiên một chữ cái. Xác suất chọn được chữ 'O' là:",
+    "options": ["2/7", "1/7", "1/6", "2/6"],
+    "correctAnswer": "2/7"
+  },
+  {
+    "question": "Biến cố 'Rút được một lá bài màu đen từ bộ bài chỉ có các lá màu đỏ' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Một túi có 3 kẹo cam, 4 kẹo chanh, 5 kẹo dâu. Lấy ngẫu nhiên một cái. Xác suất lấy được kẹo chanh là:",
+    "options": ["4/12", "1/3", "3/12", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm chia hết cho 5 là:",
+    "options": ["1/6", "2/6", "5/6", "0"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Nếu xác suất một sự kiện xảy ra là 1, sự kiện đó là:",
+    "options": ["Chắc chắn", "Không thể", "Ngẫu nhiên", "Hiếm"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Tung một đồng xu 2 lần. Biến cố 'Lần đầu xuất hiện mặt sấp' có xác suất là:",
+    "options": ["1/2", "1/4", "2/4", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Một hộp có 100 sản phẩm, trong đó có 5 sản phẩm lỗi. Lấy ngẫu nhiên 1 sản phẩm. Xác suất lấy được sản phẩm tốt là:",
+    "options": ["95/100", "5/100", "19/20", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là một số không lớn hơn 3 là:",
+    "options": ["3/6", "2/6", "4/6", "1/2"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Biến cố 'Tháng sau có 32 ngày' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Trong các số từ 1 đến 50, chọn ngẫu nhiên một số. Xác suất chọn được số có chữ số tận cùng là 0 là:",
+    "options": ["5/50", "1/10", "10/50", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một người tung đồng xu 50 lần, thấy có 28 lần mặt sấp. Xác suất thực nghiệm của biến cố 'xuất hiện mặt ngửa' là:",
+    "options": ["22/50", "28/50", "11/25", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một hộp có 6 bi xanh và 4 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất không lấy được bi xanh là:",
+    "options": ["4/10", "6/10", "2/5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Gieo một con súc sắc. Biến cố 'Số chấm xuất hiện là một số tự nhiên nhỏ hơn 1' là:",
+    "options": ["Biến cố không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố không thể"
+  },
+  {
+    "question": "Tung 2 đồng xu. Biến cố 'Có ít nhất một mặt ngửa' có xác suất là:",
+    "options": ["3/4", "1/4", "2/4", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Một lô hàng có tỉ lệ phế phẩm là 2%. Lấy ngẫu nhiên một sản phẩm. Xác suất lấy được sản phẩm tốt là:",
+    "options": ["98%", "2%", "100%", "0%"],
+    "correctAnswer": "98%"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là một số chia cho 3 dư 1 là:",
+    "options": ["2/6", "1/6", "3/6", "4/6"],
+    "correctAnswer": "2/6"
+  },
+  {
+    "question": "Biến cố 'Chọn một học sinh trong lớp và bạn đó có ngày sinh vào tháng 2' là:",
+    "options": ["Biến cố ngẫu nhiên", "Biến cố chắc chắn", "Biến cố không thể", "Không phải biến cố"],
+    "correctAnswer": "Biến cố ngẫu nhiên"
+  },
+  {
+    "question": "Một hộp có 3 bi trắng, 7 bi đen. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi trắng là:",
+    "options": ["3/10", "7/10", "1/3", "1/7"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Tung một đồng xu 15 lần, có 7 lần mặt sấp. Tần số tương đối của sự kiện mặt sấp là:",
+    "options": ["7/15", "8/15", "1/2", "15/7"],
+    "correctAnswer": "7/15"
+  },
+  {
+    "question": "Trong các chữ cái A, B, C, D, E. Chọn ngẫu nhiên một chữ cái. Xác suất chọn được một nguyên âm là:",
+    "options": ["2/5", "3/5", "1/5", "4/5"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Biến cố 'Một người sống đến 200 tuổi' hiện nay được xem là:",
+    "options": ["Biến cố gần như không thể", "Biến cố chắc chắn", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố gần như không thể"
+  },
+  {
+    "question": "Một hộp có 10 bi đỏ và một số bi xanh. Xác suất lấy được bi xanh là 2/3. Số bi xanh trong hộp là:",
+    "options": ["20", "10", "15", "5"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là một số lẻ hoặc số 2 là:",
+    "options": ["4/6", "3/6", "2/6", "5/6"],
+    "correctAnswer": "4/6"
+  },
+  {
+    "question": "Tung 2 đồng xu. Biến cố 'Không có mặt ngửa nào' có xác suất là:",
+    "options": ["1/4", "3/4", "2/4", "0"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một giải xổ số có 1000 vé. Trong đó có 1 giải nhất, 5 giải nhì, 10 giải ba. Mua một vé, xác suất trúng một giải bất kỳ là:",
+    "options": ["16/1000", "1/1000", "5/1000", "10/1000"],
+    "correctAnswer": "16/1000"
+  },
+  {
+    "question": "Gieo một con súc sắc 150 lần, mặt 6 chấm xuất hiện 25 lần. So với lí thuyết, kết quả này:",
+    "options": ["Khá gần với xác suất lí thuyết (1/6)", "Rất xa xác suất lí thuyết", "Bằng đúng xác suất lí thuyết", "Không thể so sánh"],
+    "correctAnswer": "Khá gần với xác suất lí thuyết (1/6)"
+  },
+  {
+    "question": "Trong các chữ cái của từ 'XUÂN', chọn ngẫu nhiên một chữ. Xác suất chọn được chữ X là:",
+    "options": ["1/4", "1/3", "2/4", "0"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Biến cố 'Nước đóng băng ở 0°C' là:",
+    "options": ["Biến cố chắc chắn", "Biến cố không thể", "Biến cố ngẫu nhiên", "Không phải biến cố"],
+    "correctAnswer": "Biến cố chắc chắn"
+  },
+  {
+    "question": "Một túi có 12 viên bi, trong đó có 3 viên bi vàng. Xác suất để lấy ngẫu nhiên được một viên bi không phải màu vàng là:",
+    "options": ["9/12", "3/12", "3/4", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Gieo một con súc sắc. Xác suất để gieo được mặt có số chấm là một số chia hết cho 2 và 3 là:",
+    "options": ["1/6", "2/6", "3/6", "0"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Nếu một biến cố có xác suất rất gần 1, ta nói biến cố đó:",
+    "options": ["Gần như chắc chắn xảy ra", "Chắc chắn không xảy ra", "Có khả năng xảy ra 50%", "Không thể xảy ra"],
+    "correctAnswer": "Gần như chắc chắn xảy ra"
+  },
+  {
+    "question": "Tung 2 đồng xu 100 lần, có 24 lần được 2 mặt sấp. Xác suất thực nghiệm của biến cố 'được 2 mặt sấp' là:",
+    "options": ["24/100", "1/4", "6/25", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh, 4 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh hoặc bi đỏ là:",
+    "options": ["1", "7/12", "1/2", "0"],
+    "correctAnswer": "1"
+  }
+]
+
