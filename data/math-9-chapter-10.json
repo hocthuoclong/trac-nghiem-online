@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Hình trụ được tạo thành khi quay hình chữ nhật một vòng quanh:",
+    "options": ["Một cạnh của nó", "Đường chéo của nó", "Một đường thẳng bất kỳ", "Một điểm"],
+    "correctAnswer": "Một cạnh của nó"
+  },
+  {
+    "question": "Công thức tính diện tích xung quanh của hình trụ có bán kính đáy r và chiều cao h là:",
+    "options": ["Sxq = 2πrh", "Sxq = πrh", "Sxq = πr²h", "Sxq = 2πr²"],
+    "correctAnswer": "Sxq = 2πrh"
+  },
+  {
+    "question": "Công thức tính thể tích của hình trụ có bán kính đáy r và chiều cao h là:",
+    "options": ["V = πr²h", "V = 2πrh", "V = (1/3)πr²h", "V = πrh"],
+    "correctAnswer": "V = πr²h"
+  },
+  {
+    "question": "Hình nón được tạo thành khi quay hình nào sau đây một vòng quanh một cạnh góc vuông?",
+    "options": ["Tam giác vuông", "Tam giác đều", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Tam giác vuông"
+  },
+  {
+    "question": "Công thức tính diện tích xung quanh của hình nón có bán kính đáy r và đường sinh l là:",
+    "options": ["Sxq = πrl", "Sxq = 2πrl", "Sxq = πr²l", "Sxq = πr(l+r)"],
+    "correctAnswer": "Sxq = πrl"
+  },
+  {
+    "question": "Công thức tính thể tích của hình nón có bán kính đáy r và chiều cao h là:",
+    "options": ["V = (1/3)πr²h", "V = πr²h", "V = πrl", "V = 3πr²h"],
+    "correctAnswer": "V = (1/3)πr²h"
+  },
+  {
+    "question": "Hình cầu được tạo thành khi quay hình nào sau đây một vòng quanh đường kính của nó?",
+    "options": ["Nửa hình tròn", "Hình tròn", "Hình elip", "Đường tròn"],
+    "correctAnswer": "Nửa hình tròn"
+  },
+  {
+    "question": "Công thức tính diện tích mặt cầu có bán kính R là:",
+    "options": ["S = 4πR²", "S = πR²", "S = 2πR²", "S = (4/3)πR²"],
+    "correctAnswer": "S = 4πR²"
+  },
+  {
+    "question": "Công thức tính thể tích khối cầu có bán kính R là:",
+    "options": ["V = (4/3)πR³", "V = 4πR²", "V = πR³", "V = (1/3)πR³"],
+    "correctAnswer": "V = (4/3)πR³"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy 3cm, chiều cao 5cm. Diện tích xung quanh của hình trụ là:",
+    "options": ["30π cm²", "15π cm²", "45π cm²", "60π cm²"],
+    "correctAnswer": "30π cm²"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy 5cm, đường sinh 13cm. Chiều cao của hình nón là:",
+    "options": ["12 cm", "√194 cm", "18 cm", "8 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Một khối cầu có thể tích là 36π cm³. Bán kính của khối cầu là:",
+    "options": ["3 cm", "6 cm", "9 cm", "√27 cm"],
+    "correctAnswer": "3 cm"
+  },
+  {
+    "question": "Khi cắt hình trụ bởi một mặt phẳng song song với trục, thiết diện là hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình elip", "Hình thang"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Đường sinh của hình nón là:",
+    "options": ["Cạnh huyền của tam giác vuông khi quay", "Cạnh góc vuông quay", "Cạnh góc vuông cố định", "Bán kính đáy"],
+    "correctAnswer": "Cạnh huyền của tam giác vuông khi quay"
+  },
+  {
+    "question": "Mặt cắt đi qua tâm của một hình cầu là:",
+    "options": ["Một hình tròn lớn", "Một đường tròn lớn", "Cả A và B", "Một điểm"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Công thức tính diện tích toàn phần của hình trụ là:",
+    "options": ["Stp = 2πrh + 2πr²", "Stp = 2πrh", "Stp = πr²h", "Stp = 2πr(h+2r)"],
+    "correctAnswer": "Stp = 2πrh + 2πr²"
+  },
+  {
+    "question": "Công thức tính diện tích toàn phần của hình nón là:",
+    "options": ["Stp = πrl + πr²", "Stp = πrl", "Stp = πr²h", "Stp = πr(l+2r)"],
+    "correctAnswer": "Stp = πrl + πr²"
+  },
+  {
+    "question": "Một hình trụ có diện tích xung quanh bằng 20π và bán kính đáy bằng 2. Chiều cao của hình trụ là:",
+    "options": ["5", "10", "2.5", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một hình nón có chiều cao h và bán kính đáy r. Mối liên hệ với đường sinh l là:",
+    "options": ["l² = h² + r²", "h² = l² + r²", "r² = h² + l²", "l = h + r"],
+    "correctAnswer": "l² = h² + r²"
+  },
+  {
+    "question": "Bán kính của mặt cầu có diện tích 144π cm² là:",
+    "options": ["6 cm", "12 cm", "36 cm", "3 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Thể tích của một lon sữa hình trụ có đường kính đáy 10cm và chiều cao 12cm là:",
+    "options": ["300π cm³", "1200π cm³", "600π cm³", "120π cm³"],
+    "correctAnswer": "300π cm³"
+  },
+  {
+    "question": "Một cái phễu hình nón có bán kính đáy 6cm và chiều cao 8cm. Diện tích xung quanh của phễu là:",
+    "options": ["60π cm²", "48π cm²", "80π cm²", "100π cm²"],
+    "correctAnswer": "60π cm²"
+  },
+  {
+    "question": "Một quả bóng hình cầu có đường kính 20cm. Thể tích của quả bóng là:",
+    "options": ["4000π/3 cm³", "32000π/3 cm³", "400π cm³", "8000π cm³"],
+    "correctAnswer": "4000π/3 cm³"
+  },
+  {
+    "question": "Khi cắt hình trụ bởi một mặt phẳng vuông góc với trục, thiết diện là hình gì?",
+    "options": ["Hình tròn", "Hình chữ nhật", "Hình elip", "Đoạn thẳng"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Khi cắt hình nón bởi một mặt phẳng đi qua trục, thiết diện là hình gì?",
+    "options": ["Tam giác cân", "Tam giác đều", "Tam giác vuông", "Hình tròn"],
+    "correctAnswer": "Tam giác cân"
+  },
+  {
+    "question": "Tất cả các điểm trên mặt cầu thì:",
+    "options": ["Cách đều tâm một khoảng bằng bán kính", "Nằm trên cùng một mặt phẳng", "Tạo thành một đường tròn", "Có khoảng cách khác nhau đến tâm"],
+    "correctAnswer": "Cách đều tâm một khoảng bằng bán kính"
+  },
+  {
+    "question": "Một hình trụ có chiều cao bằng bán kính đáy. Tỉ số giữa diện tích xung quanh và diện tích đáy là:",
+    "options": ["2", "1", "π", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một hình nón có đường sinh l=5, chiều cao h=4. Thể tích của khối nón là:",
+    "options": ["12π", "16π", "15π", "20π"],
+    "correctAnswer": "12π"
+  },
+  {
+    "question": "Tỉ số thể tích của một hình nón và một hình trụ có cùng bán kính đáy và chiều cao là:",
+    "options": ["1/3", "1/2", "2/3", "1"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Một hình trụ có diện tích toàn phần gấp đôi diện tích xung quanh. Mối liên hệ giữa h và r là:",
+    "options": ["h = r", "h = 2r", "r = 2h", "h = πr"],
+    "correctAnswer": "h = r"
+  },
+  {
+    "question": "Một hình nón có góc ở đỉnh là 60°. Tỉ số giữa đường sinh và bán kính đáy là:",
+    "options": ["2", "√3", "1/2", "1/√3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một khối cầu nội tiếp trong một hình lập phương cạnh a. Thể tích khối cầu là:",
+    "options": ["πa³/6", "πa³/8", "4πa³/3", "πa³"],
+    "correctAnswer": "πa³/6"
+  },
+  {
+    "question": "Trục của hình trụ là:",
+    "options": ["Đường thẳng đi qua tâm hai đáy", "Đường sinh", "Đường kính đáy", "Cạnh của hình chữ nhật tạo thành"],
+    "correctAnswer": "Đường thẳng đi qua tâm hai đáy"
+  },
+  {
+    "question": "Đỉnh của hình nón là:",
+    "options": ["Đỉnh của tam giác vuông khi quay", "Tâm của đáy", "Một điểm trên đường sinh", "Một điểm trên đường tròn đáy"],
+    "correctAnswer": "Đỉnh của tam giác vuông khi quay"
+  },
+  {
+    "question": "Một hình cầu có bán kính R. Diện tích của đường tròn lớn là:",
+    "options": ["πR²", "2πR²", "4πR²", "πR"],
+    "correctAnswer": "πR²"
+  },
+  {
+    "question": "Một hình trụ có chu vi đáy là 10π. Bán kính đáy của hình trụ là:",
+    "options": ["5", "10", "2.5", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một hình nón có diện tích xung quanh là 15π, bán kính đáy là 3. Đường sinh của hình nón là:",
+    "options": ["5", "10", "3", "15"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Thể tích của một bán cầu bán kính R là:",
+    "options": ["(2/3)πR³", "(4/3)πR³", "2πR³", "(1/3)πR³"],
+    "correctAnswer": "(2/3)πR³"
+  },
+  {
+    "question": "Khi khai triển mặt xung quanh của một hình trụ trên một mặt phẳng, ta được hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình thang"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Khi khai triển mặt xung quanh của một hình nón trên một mặt phẳng, ta được hình gì?",
+    "options": ["Hình quạt tròn", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình quạt tròn"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy r và chiều cao h=2r. Diện tích toàn phần là:",
+    "options": ["6πr²", "4πr²", "8πr²", "2πr²"],
+    "correctAnswer": "6πr²"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r và đường sinh l=2r. Góc ở đỉnh của hình nón là:",
+    "options": ["60°", "90°", "120°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Một hình lập phương ngoại tiếp một hình cầu. Tỉ số thể tích của khối cầu và khối lập phương là:",
+    "options": ["π/6", "π/4", "π/3", "2π/3"],
+    "correctAnswer": "π/6"
+  },
+  {
+    "question": "Một thùng nước hình trụ có chiều cao 1m, bán kính đáy 0.5m. Thùng nước chứa được bao nhiêu lít nước (làm tròn)?",
+    "options": ["785 lít", "314 lít", "1570 lít", "500 lít"],
+    "correctAnswer": "785 lít"
+  },
+  {
+    "question": "Một chiếc mũ sinh nhật hình nón có đường kính đáy 20cm và độ dài đường sinh 30cm. Diện tích giấy cần làm chiếc mũ đó là:",
+    "options": ["300π cm²", "600π cm²", "100π cm²", "900π cm²"],
+    "correctAnswer": "300π cm²"
+  },
+  {
+    "question": "Tỉ số diện tích mặt cầu và diện tích hình tròn lớn của nó là:",
+    "options": ["4", "2", "1", "π"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Một hình trụ có thiết diện qua trục là một hình vuông cạnh 2a. Thể tích khối trụ là:",
+    "options": ["2πa³", "πa³", "4πa³", "8πa³"],
+    "correctAnswer": "2πa³"
+  },
+  {
+    "question": "Một hình nón có thiết diện qua trục là một tam giác đều cạnh 2a. Diện tích xung quanh hình nón là:",
+    "options": ["2πa²", "πa²", "4πa²", "a²√3"],
+    "correctAnswer": "2πa²"
+  },
+  {
+    "question": "Một khối cầu có thể tích V. Nếu bán kính tăng gấp đôi thì thể tích mới là:",
+    "options": ["8V", "2V", "4V", "6V"],
+    "correctAnswer": "8V"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy 5cm, diện tích xung quanh 100π cm². Chiều cao của hình trụ là:",
+    "options": ["10 cm", "5 cm", "20 cm", "2 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình nón có thể tích 100π cm³ và chiều cao 12cm. Bán kính đáy của hình nón là:",
+    "options": ["5 cm", "10 cm", "√25 cm", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Diện tích mặt cầu ngoại tiếp một hình lập phương cạnh a là:",
+    "options": ["3πa²", "πa²", "2πa²", "4πa²"],
+    "correctAnswer": "3πa²"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy r, chiều cao h. Nếu tăng chiều cao gấp đôi và giữ nguyên bán kính đáy thì diện tích xung quanh:",
+    "options": ["Tăng gấp đôi", "Tăng gấp 4 lần", "Không đổi", "Giảm đi một nửa"],
+    "correctAnswer": "Tăng gấp đôi"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r, chiều cao h. Nếu tăng bán kính đáy gấp đôi và giữ nguyên chiều cao thì thể tích:",
+    "options": ["Tăng gấp 4 lần", "Tăng gấp đôi", "Tăng gấp 8 lần", "Không đổi"],
+    "correctAnswer": "Tăng gấp 4 lần"
+  },
+  {
+    "question": "Một hình cầu và một hình trụ có cùng bán kính R. Hình trụ có chiều cao 2R. Tỉ số thể tích của khối cầu và khối trụ là:",
+    "options": ["2/3", "1/2", "3/4", "1"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Một cái xô hình nón cụt có bán kính hai đáy là 10cm và 20cm, chiều cao là 15cm. Dung tích của xô là:",
+    "options": ["3500π cm³", "7000π cm³", "1500π cm³", "3000π cm³"],
+    "correctAnswer": "3500π cm³"
+  },
+  {
+    "question": "Một hình nón có đường sinh l=2a và góc ở đỉnh bằng 90°. Bán kính đáy r là:",
+    "options": ["a√2", "a", "2a", "a/√2"],
+    "correctAnswer": "a√2"
+  },
+  {
+    "question": "Một quả địa cầu có bán kính 30cm. Diện tích bề mặt của nó là:",
+    "options": ["3600π cm²", "900π cm²", "1800π cm²", "1200π cm²"],
+    "correctAnswer": "3600π cm²"
+  },
+  {
+    "question": "Một ống cống hình trụ dài 2m, đường kính 1m. Diện tích bề mặt bên trong của ống cống là:",
+    "options": ["2π m²", "π m²", "4π m²", "1π m²"],
+    "correctAnswer": "2π m²"
+  },
+  {
+    "question": "Một hình nón có diện tích xung quanh gấp đôi diện tích đáy. Tỉ số l/r là:",
+    "options": ["2", "1", "1/2", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một khối cầu có diện tích mặt cầu S. Thể tích khối cầu đó tính theo S là:",
+    "options": ["(S√S)/(6√π)", "S√S", "S/6π", "S³"],
+    "correctAnswer": "(S√S)/(6√π)"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy bằng chiều cao. Thể tích là 2π. Bán kính đáy là:",
+    "options": ["√[3]2", "2", "1", "√2"],
+    "correctAnswer": "√[3]2"
+  },
+  {
+    "question": "Một hình nón có thiết diện qua trục là tam giác vuông cân có cạnh góc vuông bằng a. Thể tích khối nón là:",
+    "options": ["πa³/6", "πa³/3", "πa³√2/6", "πa³√2/12"],
+    "correctAnswer": "πa³/6"
+  },
+  {
+    "question": "Một quả bóng tennis được đặt khít vào trong một hộp hình trụ. Tỉ số thể tích của quả bóng và thể tích phần không gian trống trong hộp là:",
+    "options": ["2", "1/2", "2/3", "1/3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một hình trụ có thể tích V. Nếu giảm chiều cao đi một nửa và tăng bán kính đáy gấp đôi thì thể tích mới là:",
+    "options": ["2V", "V", "V/2", "4V"],
+    "correctAnswer": "2V"
+  },
+  {
+    "question": "Một hình nón có chiều cao h, bán kính đáy r. Góc giữa đường sinh và mặt đáy là α. Ta có:",
+    "options": ["tan(α) = h/r", "tan(α) = r/h", "sin(α) = h/l", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Một hình cầu có bán kính R. Một mặt phẳng cắt hình cầu cách tâm một khoảng R/2. Bán kính của đường tròn giao tuyến là:",
+    "options": ["R√3/2", "R/2", "R√2/2", "R"],
+    "correctAnswer": "R√3/2"
+  },
+  {
+    "question": "Một cốc nước hình trụ có chiều cao 10cm, bán kính đáy 3cm. Lượng nước trong cốc chiếm 3/4 thể tích. Thể tích nước trong cốc là:",
+    "options": ["67.5π cm³", "90π cm³", "45π cm³", "30π cm³"],
+    "correctAnswer": "67.5π cm³"
+  },
+  {
+    "question": "Một hình nón có diện tích đáy là 16π và diện tích xung quanh là 20π. Thể tích khối nón là:",
+    "options": ["16π", "20π/3", "12π", "32π/3"],
+    "correctAnswer": "16π"
+  },
+  {
+    "question": "Một khối cầu có thể tích 288π. Diện tích mặt cầu tương ứng là:",
+    "options": ["144π", "36π", "72π", "288π"],
+    "correctAnswer": "144π"
+  },
+  {
+    "question": "Một hình trụ có thiết diện qua trục là hình vuông. Tỉ số giữa diện tích toàn phần và diện tích xung quanh là:",
+    "options": ["3/2", "2/3", "4/3", "3/4"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Một hình nón có thiết diện qua trục là một tam giác vuông. Tỉ số giữa diện tích xung quanh và diện tích đáy là:",
+    "options": ["√2", "2", "1/√2", "1"],
+    "correctAnswer": "√2"
+  },
+  {
+    "question": "Một hình cầu được đặt khít vào trong một hình nón có thiết diện qua trục là tam giác đều. Tỉ số thể tích của khối cầu và khối nón là:",
+    "options": ["4/9", "1/3", "2/3", "1/2"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy r=5, khoảng cách giữa hai đáy là 10. Diện tích xung quanh là:",
+    "options": ["100π", "50π", "250π", "25π"],
+    "correctAnswer": "100π"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r=a, góc ở đỉnh 120°. Chiều cao h của hình nón là:",
+    "options": ["a/√3", "a√3", "a", "2a"],
+    "correctAnswer": "a/√3"
+  },
+  {
+    "question": "Một khối cầu có bán kính R. Một khối trụ có bán kính đáy R và chiều cao 2R. Tỉ số diện tích mặt cầu và diện tích toàn phần của hình trụ là:",
+    "options": ["2/3", "1", "3/2", "1/2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Khi quay một hình thang vuông quanh cạnh bên vuông góc với hai đáy, ta được:",
+    "options": ["Hình nón cụt", "Hình trụ", "Hình nón", "Hình cầu"],
+    "correctAnswer": "Hình nón cụt"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r, chiều cao h. Thể tích khối nón cụt được cắt bởi mặt phẳng song song với đáy và cách đỉnh một khoảng h/2 là:",
+    "options": ["(7/24)πr²h", "(1/24)πr²h", "(1/3)πr²h", "(1/8)πr²h"],
+    "correctAnswer": "(7/24)πr²h"
+  },
+  {
+    "question": "Một quả cam hình cầu bán kính R. Sau khi gọt vỏ dày d, thể tích phần còn lại là:",
+    "options": ["(4/3)π(R-d)³", "(4/3)π(R³-d³)", "4π(R-d)²", "Không tính được"],
+    "correctAnswer": "(4/3)π(R-d)³"
+  },
+  {
+    "question": "Một cái ly hình trụ có bán kính đáy 4cm, chiều cao 10cm. Người ta đổ nước vào ly sao cho mực nước cao 8cm. Thể tích phần không chứa nước là:",
+    "options": ["32π cm³", "160π cm³", "128π cm³", "80π cm³"],
+    "correctAnswer": "32π cm³"
+  },
+  {
+    "question": "Một hình nón có bán kính đáy r, đường sinh l. Diện tích khai triển mặt xung quanh của hình nón là:",
+    "options": ["πrl", "πr²", "πl²", "π(l+r)"],
+    "correctAnswer": "πrl"
+  },
+  {
+    "question": "Nếu diện tích mặt cầu tăng gấp 4 lần thì bán kính của nó:",
+    "options": ["Tăng gấp 2 lần", "Tăng gấp 4 lần", "Tăng gấp 16 lần", "Tăng gấp √2 lần"],
+    "correctAnswer": "Tăng gấp 2 lần"
+  },
+  {
+    "question": "Một hình trụ có diện tích xung quanh bằng diện tích một mặt cầu có cùng bán kính. Tỉ số h/r là:",
+    "options": ["2", "1", "4", "π"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Một hình nón có chiều cao gấp 3 lần bán kính đáy. Thể tích là 81π. Bán kính đáy là:",
+    "options": ["3√3", "3", "9", "√27"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Một hình cầu có bán kính R. Thể tích của chỏm cầu có chiều cao h là:",
+    "options": ["πh²(R - h/3)", "πh(R² - h²/3)", "2πRh", "πh²R"],
+    "correctAnswer": "πh²(R - h/3)"
+  },
+  {
+    "question": "Một hình trụ có bán kính đáy r, chiều cao h. Thể tích không đổi. Nếu bán kính đáy tăng gấp đôi thì chiều cao mới h' là:",
+    "options": ["h/4", "h/2", "2h", "4h"],
+    "correctAnswer": "h/4"
+  },
+  {
+    "question": "Một hình nón có thiết diện qua trục là tam giác vuông cân có cạnh huyền bằng 2a. Diện tích toàn phần của hình nón là:",
+    "options": ["πa²(1+√2)", "πa²√2", "πa²", "2πa²"],
+    "correctAnswer": "πa²(1+√2)"
+  },
+  {
+    "question": "Một hình cầu có bán kính R. Diện tích của đới cầu có chiều cao h là:",
+    "options": ["2πRh", "πRh", "4πRh", "πh(2R-h)"],
+    "correctAnswer": "2πRh"
+  }
+]
+
