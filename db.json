@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Góc và đường thẳng song song",
                   "file": "./data/math-7-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Tam giác bằng nhau",
+                  "file": "./data/math-7-chapter-4.json"
                 }
               ]
             },
