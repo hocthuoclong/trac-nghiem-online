@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Phân số nào sau đây được viết dưới dạng số thập phân vô hạn tuần hoàn?",
+    "options": ["1/3", "1/4", "3/8", "1/5"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Số 0,666... được viết gọn là:",
+    "options": ["0,(6)", "0,6", "0,06", "0,(66)"],
+    "correctAnswer": "0,(6)"
+  },
+  {
+    "question": "Số 2,151515... có chu kì là:",
+    "options": ["15", "2", "1", "5"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Viết phân số 5/6 dưới dạng số thập phân.",
+    "options": ["0,8(3)", "0,83", "0,(83)", "0,833"],
+    "correctAnswer": "0,8(3)"
+  },
+  {
+    "question": "Số nào sau đây là số vô tỉ?",
+    "options": ["√3", "√9", "0.5", "-5"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Căn bậc hai số học của 16 là:",
+    "options": ["4", "8", "-4", "±4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Kết quả của phép tính √25 là:",
+    "options": ["5", "25", "-5", "±5"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Nếu x² = 4 thì x bằng:",
+    "options": ["2 hoặc -2", "2", "-2", "16"],
+    "correctAnswer": "2 hoặc -2"
+  },
+  {
+    "question": "Tập hợp các số thực được kí hiệu là:",
+    "options": ["R", "Q", "I", "Z"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Số π (pi) là:",
+    "options": ["Số vô tỉ", "Số hữu tỉ", "Số nguyên", "Số tự nhiên"],
+    "correctAnswer": "Số vô tỉ"
+  },
+  {
+    "question": "Giá trị tuyệt đối của -√5 là:",
+    "options": ["√5", "-√5", "5", "-5"],
+    "correctAnswer": "√5"
+  },
+  {
+    "question": "So sánh 2 và √5",
+    "options": ["2 < √5", "2 > √5", "2 = √5", "Không so sánh được"],
+    "correctAnswer": "2 < √5"
+  },
+  {
+    "question": "Làm tròn số 3,14159 đến chữ số thập phân thứ hai ta được:",
+    "options": ["3,14", "3,1", "3,15", "3,142"],
+    "correctAnswer": "3,14"
+  },
+  {
+    "question": "Số đối của √7 là:",
+    "options": ["-√7", "√7", "7", "1/√7"],
+    "correctAnswer": "-√7"
+  },
+  {
+    "question": "Tập hợp số hữu tỉ và tập hợp số vô tỉ được gọi chung là:",
+    "options": ["Tập hợp số thực", "Tập hợp số nguyên", "Tập hợp số tự nhiên", "Tập hợp số thập phân"],
+    "correctAnswer": "Tập hợp số thực"
+  },
+  {
+    "question": "Viết số thập phân 0,(3) dưới dạng phân số.",
+    "options": ["1/3", "3/10", "3/9", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Căn bậc hai số học của 0 là:",
+    "options": ["0", "1", "-1", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số nào có căn bậc hai số học bằng 9?",
+    "options": ["81", "3", "18", "-81"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Khẳng định nào sau đây là đúng?",
+    "options": ["Mọi số tự nhiên đều là số thực", "Mọi số thực đều là số vô tỉ", "Mọi số thực đều là số hữu tỉ", "Số 0 không phải là số thực"],
+    "correctAnswer": "Mọi số tự nhiên đều là số thực"
+  },
+  {
+    "question": "Kết quả của phép tính (√9 + √16) là:",
+    "options": ["7", "5", "√25", "Cả B và C đều đúng"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Viết phân số 7/9 dưới dạng số thập phân.",
+    "options": ["0,(7)", "0,7", "0,77", "0,07"],
+    "correctAnswer": "0,(7)"
+  },
+  {
+    "question": "Số 1,2(34) có chu kì là:",
+    "options": ["34", "2", "1", "234"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Số nào không có căn bậc hai số học?",
+    "options": ["-25", "25", "0", "1"],
+    "correctAnswer": "-25"
+  },
+  {
+    "question": "Kết quả của (√3)² là:",
+    "options": ["3", "√3", "9", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trục số thực được lấp đầy bởi:",
+    "options": ["Các điểm biểu diễn số thực", "Các điểm biểu diễn số hữu tỉ", "Các điểm biểu diễn số nguyên", "Các điểm biểu diễn số vô tỉ"],
+    "correctAnswer": "Các điểm biểu diễn số thực"
+  },
+  {
+    "question": "So sánh -3,76 và -3,7(6)",
+    "options": ["-3,76 > -3,7(6)", "-3,76 < -3,7(6)", "-3,76 = -3,7(6)", "Không so sánh được"],
+    "correctAnswer": "-3,76 > -3,7(6)"
+  },
+  {
+    "question": "Làm tròn số 127,458 đến hàng đơn vị.",
+    "options": ["127", "128", "127,5", "130"],
+    "correctAnswer": "127"
+  },
+  {
+    "question": "Kết quả của phép tính | - 5/4 | là:",
+    "options": ["5/4", "-5/4", "1.25", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Số 0,1010010001... là:",
+    "options": ["Số vô tỉ", "Số hữu tỉ", "Số thập phân vô hạn tuần hoàn", "Số tự nhiên"],
+    "correctAnswer": "Số vô tỉ"
+  },
+  {
+    "question": "Căn bậc hai số học của 49/100 là:",
+    "options": ["7/10", "0.7", "4.9/10", "Cả A và B đều đúng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Nếu √x = 5 thì x bằng:",
+    "options": ["25", "5", "√5", "±5"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Tập hợp I là tập hợp các số:",
+    "options": ["Vô tỉ", "Hữu tỉ", "Nguyên", "Thực"],
+    "correctAnswer": "Vô tỉ"
+  },
+  {
+    "question": "Kết quả làm tròn số 0,089 đến chữ số thập phân thứ nhất là:",
+    "options": ["0,1", "0,0", "0,09", "0,08"],
+    "correctAnswer": "0,1"
+  },
+  {
+    "question": "Số đối của -(-√3) là:",
+    "options": ["-√3", "√3", "3", "-3"],
+    "correctAnswer": "-√3"
+  },
+  {
+    "question": "Khẳng định nào sai?",
+    "options": ["Số vô tỉ không thể là số hữu tỉ", "Số hữu tỉ có thể là số vô tỉ", "Số nguyên là số thực", "Số tự nhiên là số hữu tỉ"],
+    "correctAnswer": "Số hữu tỉ có thể là số vô tỉ"
+  },
+  {
+    "question": "Viết số 0,(12) dưới dạng phân số tối giản.",
+    "options": ["4/33", "12/100", "3/25", "12/99"],
+    "correctAnswer": "4/33"
+  },
+  {
+    "question": "Số các căn bậc hai của một số dương a là:",
+    "options": ["2", "1", "0", "Vô số"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Kết quả của phép tính √((-5)²) là:",
+    "options": ["5", "-5", "25", "Không xác định"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Trên trục số, điểm biểu diễn √2 nằm ở đâu?",
+    "options": ["Bên phải điểm 1 và bên trái điểm 2", "Bên phải điểm 2", "Bên trái điểm 1", "Tại điểm 2"],
+    "correctAnswer": "Bên phải điểm 1 và bên trái điểm 2"
+  },
+  {
+    "question": "Kết quả của phép tính 2√9 - 3√4 là:",
+    "options": ["0", "1", "-1", "12"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Phân số 11/20 được viết dưới dạng số thập phân:",
+    "options": ["0,55", "0,11", "1,81", "0,5(5)"],
+    "correctAnswer": "0,55"
+  },
+  {
+    "question": "Số 2,34(5) là số:",
+    "options": ["Thập phân vô hạn tuần hoàn tạp", "Thập phân vô hạn tuần hoàn đơn", "Thập phân hữu hạn", "Vô tỉ"],
+    "correctAnswer": "Thập phân vô hạn tuần hoàn tạp"
+  },
+  {
+    "question": "Căn bậc hai của 121 là:",
+    "options": ["11 và -11", "11", "-11", "√121"],
+    "correctAnswer": "11 và -11"
+  },
+  {
+    "question": "Nếu x là số vô tỉ thì -x là số:",
+    "options": ["Vô tỉ", "Hữu tỉ", "Nguyên", "Không xác định"],
+    "correctAnswer": "Vô tỉ"
+  },
+  {
+    "question": "Tập hợp R bao gồm:",
+    "options": ["Số hữu tỉ và số vô tỉ", "Chỉ số hữu tỉ", "Chỉ số vô tỉ", "Số nguyên và số tự nhiên"],
+    "correctAnswer": "Số hữu tỉ và số vô tỉ"
+  },
+  {
+    "question": "Làm tròn số -2,345 đến chữ số thập phân thứ hai.",
+    "options": ["-2,35", "-2,34", "-2,3", "-2,4"],
+    "correctAnswer": "-2,35"
+  },
+  {
+    "question": "Giá trị của |x| = √3 thì x bằng:",
+    "options": ["√3 hoặc -√3", "√3", "-√3", "3"],
+    "correctAnswer": "√3 hoặc -√3"
+  },
+  {
+    "question": "So sánh 1/3 và 0,3",
+    "options": ["1/3 > 0,3", "1/3 < 0,3", "1/3 = 0,3", "Không so sánh được"],
+    "correctAnswer": "1/3 > 0,3"
+  },
+  {
+    "question": "Số 1,7320508... là cách viết thập phân của số nào?",
+    "options": ["√3", "√2", "√5", "π"],
+    "correctAnswer": "√3"
+  },
+  {
+    "question": "Tìm x, biết x² = 5",
+    "options": ["x = √5 hoặc x = -√5", "x = 5", "x = 2.5", "Không có x"],
+    "correctAnswer": "x = √5 hoặc x = -√5"
+  },
+  {
+    "question": "Phân số 1/7 khi viết dưới dạng số thập phân có chu kì gồm mấy chữ số?",
+    "options": ["6", "1", "7", "Vô hạn"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số 0,(9) bằng số nào sau đây?",
+    "options": ["1", "0,9", "9/10", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Căn bậc hai số học của 1,44 là:",
+    "options": ["1,2", "12", "0,12", "-1,2"],
+    "correctAnswer": "1,2"
+  },
+  {
+    "question": "Tổng của hai số vô tỉ có thể là một số hữu tỉ không?",
+    "options": ["Có, ví dụ √2 + (-√2) = 0", "Không", "Luôn là số vô tỉ", "Không xác định"],
+    "correctAnswer": "Có, ví dụ √2 + (-√2) = 0"
+  },
+  {
+    "question": "Khẳng định nào đúng?",
+    "options": ["Z ⊂ Q ⊂ R", "Q ⊂ Z ⊂ R", "I ⊂ Q ⊂ R", "N ⊂ Z ⊂ I"],
+    "correctAnswer": "Z ⊂ Q ⊂ R"
+  },
+  {
+    "question": "Làm tròn số π = 3,14159... với độ chính xác 0,005.",
+    "options": ["3,14", "3,142", "3,1", "3,15"],
+    "correctAnswer": "3,14"
+  },
+  {
+    "question": "Kết quả của phép tính |√2 - 2| là:",
+    "options": ["2 - √2", "√2 - 2", "√2 + 2", "0"],
+    "correctAnswer": "2 - √2"
+  },
+  {
+    "question": "Số 0,2343434... được viết gọn là:",
+    "options": ["0,2(34)", "0,(234)", "0,23(4)", "0,234"],
+    "correctAnswer": "0,2(34)"
+  },
+  {
+    "question": "Viết phân số -13/30 dưới dạng số thập phân.",
+    "options": ["-0,4(3)", "-0,43", "-0,433", "-0,(43)"],
+    "correctAnswer": "-0,4(3)"
+  },
+  {
+    "question": "Nếu x² = -9 thì:",
+    "options": ["Không có giá trị x thực", "x = -3", "x = 3", "x = ±3"],
+    "correctAnswer": "Không có giá trị x thực"
+  },
+  {
+    "question": "Kết quả của (√1,69) là:",
+    "options": ["1,3", "13", "0,13", "16,9"],
+    "correctAnswer": "1,3"
+  },
+  {
+    "question": "Giữa hai số hữu tỉ bất kì luôn có:",
+    "options": ["Vô số số hữu tỉ khác", "Đúng một số hữu tỉ khác", "Không có số hữu tỉ nào", "Vô số số nguyên"],
+    "correctAnswer": "Vô số số hữu tỉ khác"
+  },
+  {
+    "question": "So sánh 0,(3) và 0,33",
+    "options": ["0,(3) > 0,33", "0,(3) < 0,33", "0,(3) = 0,33", "Không so sánh được"],
+    "correctAnswer": "0,(3) > 0,33"
+  },
+  {
+    "question": "Làm tròn số 568 đến hàng chục.",
+    "options": ["570", "560", "500", "600"],
+    "correctAnswer": "570"
+  },
+  {
+    "question": "Kết quả của phép tính 2 - | -3/2 | là:",
+    "options": ["1/2", "7/2", "-1/2", "3.5"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Số 2,010010001... là số gì?",
+    "options": ["Số vô tỉ", "Số hữu tỉ", "Số thập phân vô hạn tuần hoàn", "Số nguyên"],
+    "correctAnswer": "Số vô tỉ"
+  },
+  {
+    "question": "Căn bậc hai số học của 6,25 là:",
+    "options": ["2,5", "25", "0,25", "-2,5"],
+    "correctAnswer": "2,5"
+  },
+  {
+    "question": "Tìm x, biết √x = 0",
+    "options": ["x = 0", "x = 1", "x = -1", "Không có x"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Giao của tập hợp số hữu tỉ Q và tập hợp số vô tỉ I là:",
+    "options": ["Tập hợp rỗng (Ø)", "Tập hợp số thực R", "Tập hợp số nguyên Z", "Số 0"],
+    "correctAnswer": "Tập hợp rỗng (Ø)"
+  },
+  {
+    "question": "Làm tròn số 99,95 đến hàng chục.",
+    "options": ["100", "99", "99,9", "90"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số đối của | -2/3 | là:",
+    "options": ["-2/3", "2/3", "|2/3|", "-| -2/3 |"],
+    "correctAnswer": "Cả A và D đều đúng"
+  },
+  {
+    "question": "Số thập phân hữu hạn là:",
+    "options": ["Số hữu tỉ", "Số vô tỉ", "Số nguyên", "Số tự nhiên"],
+    "correctAnswer": "Số hữu tỉ"
+  },
+  {
+    "question": "Viết 0,4(5) dưới dạng phân số tối giản.",
+    "options": ["41/90", "45/100", "45/99", "9/20"],
+    "correctAnswer": "41/90"
+  },
+  {
+    "question": "Số nào có căn bậc hai số học bằng 1/4?",
+    "options": ["1/16", "1/2", "1/8", "1/4"],
+    "correctAnswer": "1/16"
+  },
+  {
+    "question": "Tích của một số vô tỉ và một số hữu tỉ khác 0 là một số:",
+    "options": ["Vô tỉ", "Hữu tỉ", "Nguyên", "Tự nhiên"],
+    "correctAnswer": "Vô tỉ"
+  },
+  {
+    "question": "Mọi số thực đều được biểu diễn trên:",
+    "options": ["Trục số", "Mặt phẳng tọa độ", "Đường tròn", "Không gian"],
+    "correctAnswer": "Trục số"
+  },
+  {
+    "question": "So sánh -√2 và -1,5",
+    "options": ["-√2 > -1,5", "-√2 < -1,5", "-√2 = -1,5", "Không so sánh được"],
+    "correctAnswer": "-√2 > -1,5"
+  },
+  {
+    "question": "Làm tròn số 23456 đến hàng trăm.",
+    "options": ["23500", "23400", "23000", "24000"],
+    "correctAnswer": "23500"
+  },
+  {
+    "question": "Giá trị của biểu thức |x - 2| tại x = √3 là:",
+    "options": ["2 - √3", "√3 - 2", "√3 + 2", "1"],
+    "correctAnswer": "2 - √3"
+  },
+  {
+    "question": "Số 0,1234567891011... là:",
+    "options": ["Số vô tỉ", "Số hữu tỉ", "Số thập phân vô hạn tuần hoàn", "Số nguyên"],
+    "correctAnswer": "Số vô tỉ"
+  },
+  {
+    "question": "Căn bậc hai số học của 2 là:",
+    "options": ["Một số vô tỉ", "1,414", "1,4", "Một số hữu tỉ"],
+    "correctAnswer": "Một số vô tỉ"
+  },
+  {
+    "question": "Tìm x biết 2x² = 18",
+    "options": ["x = 3 hoặc x = -3", "x = 3", "x = 9", "x = -3"],
+    "correctAnswer": "x = 3 hoặc x = -3"
+  },
+  {
+    "question": "Khẳng định nào sau đây sai?",
+    "options": ["Số 0 là số hữu tỉ và cũng là số vô tỉ", "Số 0 là số thực", "Số 0 là số hữu tỉ", "Số 0 là số nguyên"],
+    "correctAnswer": "Số 0 là số hữu tỉ và cũng là số vô tỉ"
+  },
+  {
+    "question": "Làm tròn số 3,14159 với độ chính xác d = 0,05.",
+    "options": ["3,1", "3,14", "3,2", "3"],
+    "correctAnswer": "3,1"
+  },
+  {
+    "question": "Kết quả của phép tính √16 + √9 - √25 là:",
+    "options": ["2", "12", "0", "√0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Viết phân số 1/99 dưới dạng số thập phân.",
+    "options": ["0,(01)", "0,01", "0,1", "0,(1)"],
+    "correctAnswer": "0,(01)"
+  },
+  {
+    "question": "Số nào sau đây không phải số thực?",
+    "options": ["√-4", "√4", "-4", "0"],
+    "correctAnswer": "√-4"
+  },
+  {
+    "question": "Kết quả của phép tính (√0,04) là:",
+    "options": ["0,2", "0,02", "2", "0,4"],
+    "correctAnswer": "0,2"
+  },
+  {
+    "question": "Số vô tỉ được viết dưới dạng:",
+    "options": ["Số thập phân vô hạn không tuần hoàn", "Số thập phân vô hạn tuần hoàn", "Phân số a/b", "Số thập phân hữu hạn"],
+    "correctAnswer": "Số thập phân vô hạn không tuần hoàn"
+  },
+  {
+    "question": "Tập hợp số thực có tính chất nào?",
+    "options": ["Lấp đầy trục số", "Có thứ tự", "Thực hiện được các phép toán", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "So sánh 2,(3) và 7/3",
+    "options": ["2,(3) = 7/3", "2,(3) > 7/3", "2,(3) < 7/3", "Không so sánh được"],
+    "correctAnswer": "2,(3) = 7/3"
+  },
+  {
+    "question": "Làm tròn số 1,2345 đến hàng phần nghìn.",
+    "options": ["1,235", "1,234", "1,23", "1,24"],
+    "correctAnswer": "1,235"
+  },
+  {
+    "question": "Kết quả của phép tính |5 - √26| là:",
+    "options": ["√26 - 5", "5 - √26", "1", "-1"],
+    "correctAnswer": "√26 - 5"
+  }
+]
+
