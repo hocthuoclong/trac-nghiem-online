@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Tập xác định của hàm số y = log₃(x - 2) là:",
+    "options": ["(2; +∞)", "[2; +∞)", "R", "R \\ {2}"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có SA ⊥ (ABC). Mệnh đề nào sau đây đúng?",
+    "options": ["SA ⊥ BC", "SB ⊥ BC", "SC ⊥ BC", "SA ⊥ SC"],
+    "correctAnswer": "SA ⊥ BC"
+  },
+  {
+    "question": "Cho A và B là hai biến cố độc lập với P(A) = 0.4 và P(B) = 0.6. Tính P(A ∩ B).",
+    "options": ["0.24", "1.0", "0.2", "0.5"],
+    "correctAnswer": "0.24"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x⁴ - 2x² + 5 là:",
+    "options": ["4x³ - 4x", "4x³ - 2x", "x³ - 4x", "12x² - 4"],
+    "correctAnswer": "4x³ - 4x"
+  },
+  {
+    "question": "Phương trình 5<sup>x</sup> = 125 có nghiệm là:",
+    "options": ["x = 3", "x = 5", "x = 25", "x = 1/3"],
+    "correctAnswer": "x = 3"
+  },
+  {
+    "question": "Nếu đường thẳng a vuông góc với mặt phẳng (P) thì a vuông góc với:",
+    "options": ["Mọi đường thẳng nằm trong (P)", "Chỉ một đường thẳng trong (P)", "Hai đường thẳng song song trong (P)", "Mọi đường thẳng song song với (P)"],
+    "correctAnswer": "Mọi đường thẳng nằm trong (P)"
+  },
+  {
+    "question": "Công thức cộng xác suất cho hai biến cố xung khắc A và B là:",
+    "options": ["P(A ∪ B) = P(A) + P(B)", "P(A ∪ B) = P(A) + P(B) - P(A ∩ B)", "P(A ∪ B) = P(A) * P(B)", "P(A ∪ B) = 1"],
+    "correctAnswer": "P(A ∪ B) = P(A) + P(B)"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = sin(x) là:",
+    "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+    "correctAnswer": "cos(x)"
+  },
+  {
+    "question": "Hàm số y = (0.3)<sup>x</sup> là hàm số:",
+    "options": ["Nghịch biến trên R", "Đồng biến trên R", "Không đổi", "Chẵn"],
+    "correctAnswer": "Nghịch biến trên R"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D'. Góc giữa hai đường thẳng AC và A'B' bằng:",
+    "options": ["45°", "90°", "60°", "30°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Gieo một con súc sắc. Gọi A là 'mặt chẵn', B là 'mặt lẻ'. A và B là hai biến cố:",
+    "options": ["Xung khắc", "Độc lập", "Bằng nhau", "Đối nhau"],
+    "correctAnswer": "Xung khắc"
+  },
+  {
+    "question": "Đạo hàm cấp hai của hàm số y = x⁴ là:",
+    "options": ["12x²", "4x³", "24x", "4"],
+    "correctAnswer": "12x²"
+  },
+  {
+    "question": "Phương trình log₂(x+3) = 4 có nghiệm là:",
+    "options": ["x = 13", "x = 5", "x = 8", "x = 1"],
+    "correctAnswer": "x = 13"
+  },
+  {
+    "question": "Góc giữa đường thẳng và mặt phẳng là góc giữa đường thẳng đó và:",
+    "options": ["Hình chiếu của nó trên mặt phẳng", "Một đường thẳng bất kỳ trong mặt phẳng", "Pháp tuyến của mặt phẳng", "Một đường thẳng song song với nó"],
+    "correctAnswer": "Hình chiếu của nó trên mặt phẳng"
+  },
+  {
+    "question": "Cho P(A) = 0.5, P(B) = 0.6, P(A∪B) = 0.8. Tính P(A∩B).",
+    "options": ["0.3", "1.1", "0.2", "0.4"],
+    "correctAnswer": "0.3"
+  },
+  {
+    "question": "Hệ số góc của tiếp tuyến với đồ thị hàm số y = x³ tại điểm x=1 là:",
+    "options": ["3", "1", "2", "0"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Bất phương trình 2<sup>x</sup> < 8 có tập nghiệm là:",
+    "options": ["(-∞; 3)", "(3; +∞)", "(0; 3)", "R"],
+    "correctAnswer": "(-∞; 3)"
+  },
+  {
+    "question": "Hai mặt phẳng (P) và (Q) vuông góc với nhau khi:",
+    "options": ["Góc giữa chúng bằng 90°", "Chúng không có điểm chung", "Giao tuyến của chúng là đường thẳng", "Chúng có một điểm chung"],
+    "correctAnswer": "Góc giữa chúng bằng 90°"
+  },
+  {
+    "question": "Hai xạ thủ cùng bắn. Xác suất trúng của người 1 là 0.8, người 2 là 0.9. Xác suất cả hai cùng trúng là:",
+    "options": ["0.72", "1.7", "0.1", "0.02"],
+    "correctAnswer": "0.72"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = (2x-1)/(x+1) là:",
+    "options": ["3/(x+1)²", "-3/(x+1)²", "1/(x+1)²", "-1/(x+1)²"],
+    "correctAnswer": "3/(x+1)²"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = ln(x) là:",
+    "options": ["1/x", "-1/x²", "e<sup>x</sup>", "1/(x.ln10)"],
+    "correctAnswer": "1/x"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông, SA ⊥ (ABCD). Góc giữa SC và mặt phẳng đáy là góc:",
+    "options": ["SCA", "SCB", "SCD", "ASC"],
+    "correctAnswer": "SCA"
+  },
+  {
+    "question": "Một hộp có 5 bi xanh và 4 bi đỏ. Lấy ngẫu nhiên 1 bi. Xác suất để bi đó không phải màu đỏ là:",
+    "options": ["5/9", "4/9", "1", "0"],
+    "correctAnswer": "5/9"
+  },
+  {
+    "question": "Cho chuyển động có phương trình s(t) = 2t² + 3t. Vận tốc tức thời tại t=2 là:",
+    "options": ["11", "14", "8", "7"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Bất phương trình log(x) > 2 có tập nghiệm là:",
+    "options": ["(100; +∞)", "(0; 100)", "(-∞; 100)", "(2; +∞)"],
+    "correctAnswer": "(100; +∞)"
+  },
+  {
+    "question": "Khoảng cách từ điểm M đến đường thẳng d là:",
+    "options": ["Độ dài đoạn vuông góc hạ từ M xuống d", "Độ dài đoạn xiên từ M đến d", "Bằng 0", "Luôn lớn hơn 1"],
+    "correctAnswer": "Độ dài đoạn vuông góc hạ từ M xuống d"
+  },
+  {
+    "question": "Tung một đồng xu 2 lần. Xác suất để hai lần ra kết quả khác nhau là:",
+    "options": ["1/2", "1/4", "3/4", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = cos(3x) là:",
+    "options": ["-3sin(3x)", "3sin(3x)", "-sin(3x)", "sin(3x)"],
+    "correctAnswer": "-3sin(3x)"
+  },
+  {
+    "question": "Hàm số y = log₅(x) đồng biến trên khoảng:",
+    "options": ["(0; +∞)", "R", "(-∞; 0)", "[0; +∞)"],
+    "correctAnswer": "(0; +∞)"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D' cạnh a. Khoảng cách giữa hai mặt phẳng (ABCD) và (A'B'C'D') là:",
+    "options": ["a", "a√2", "a√3", "a/2"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Một tổ có 5 nam và 5 nữ. Chọn ngẫu nhiên 2 người. Xác suất để chọn được 1 nam và 1 nữ là:",
+    "options": ["5/9", "25/45", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Đạo hàm cấp hai của hàm số y = 3x² - 2x + 1 là:",
+    "options": ["6", "6x-2", "3", "0"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Phương trình 4<sup>x</sup> - 3.2<sup>x</sup> + 2 = 0 có tổng các nghiệm là:",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có đáy là tam giác đều, SA ⊥ (ABC). Mặt phẳng (SBC) vuông góc với mặt phẳng nào?",
+    "options": ["(SAM) với M là trung điểm BC", "(ABC)", "(SAC)", "(SAB)"],
+    "correctAnswer": "(SAM) với M là trung điểm BC"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm là 5 là:",
+    "options": ["1/9", "4/36", "Cả A và B", "5/36"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Phương trình tiếp tuyến của đồ thị y = 1/x tại điểm có hoành độ x=1 là:",
+    "options": ["y = -x + 2", "y = x", "y = -x", "y = x - 2"],
+    "correctAnswer": "y = -x + 2"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (x²-x)<sup>-3</sup> là:",
+    "options": ["R \\ {0, 1}", "R", "(0; 1)", "(-∞; 0) ∪ (1; +∞)"],
+    "correctAnswer": "R \\ {0, 1}"
+  },
+  {
+    "question": "Thể tích của khối lăng trụ đứng có đáy là hình vuông cạnh a và chiều cao 2a là:",
+    "options": ["2a³", "a³", "(2/3)a³", "2a²"],
+    "correctAnswer": "2a³"
+  },
+  {
+    "question": "Một hộp có 10 quả cầu, trong đó có 3 quả đỏ. Lấy ngẫu nhiên 2 quả. Xác suất để không có quả đỏ nào là:",
+    "options": ["7/15", "C(7,2)/C(10,2)", "21/45", "Cả 3 đáp án trên"],
+    "correctAnswer": "Cả 3 đáp án trên"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = tan(x) tại x=π/4 là:",
+    "options": ["2", "1", "√2", "1/2"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho log₃a=2, log₃b=3. Tính log₃(a²b).",
+    "options": ["7", "12", "6", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông cạnh a, SA ⊥ (ABCD) và SA=a. Góc giữa SB và CD là:",
+    "options": ["90°", "45°", "60°", "30°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Xác suất một xạ thủ bắn trúng bia là 0.6. Xạ thủ bắn 3 viên. Xác suất để có đúng 2 viên trúng là:",
+    "options": ["0.432", "3*0.6²*0.4", "Cả A và B", "0.72"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hàm số y = x³ - 3x. Phương trình y''=0 có nghiệm là:",
+    "options": ["x = 0", "x = 1", "x = -1", "Vô nghiệm"],
+    "correctAnswer": "x = 0"
+  },
+  {
+    "question": "Bất phương trình log₁/₃(x) > -2 có tập nghiệm là:",
+    "options": ["(0; 9)", "(-∞; 9)", "(9; +∞)", "(0; 1/9)"],
+    "correctAnswer": "(0; 9)"
+  },
+  {
+    "question": "Cho hình lăng trụ ABC.A'B'C'. Thể tích của khối chóp A'.ABC bằng bao nhiêu phần thể tích khối lăng trụ?",
+    "options": ["1/3", "1/2", "2/3", "1/4"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Một người có 3 áo khác nhau và 4 quần khác nhau. Số cách chọn một bộ quần áo là:",
+    "options": ["12", "7", "3", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = √(2x+1) là:",
+    "options": ["1/√(2x+1)", "1/(2√(2x+1))", "2/√(2x+1)", "√(2)"],
+    "correctAnswer": "1/√(2x+1)"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup> + 2<sup>x+1</sup> = 6 có nghiệm là:",
+    "options": ["x = 1", "x = 2", "x = log₂3", "x = log₂6"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình chữ nhật, SA ⊥ (ABCD). Góc giữa mặt phẳng (SBC) và (ABCD) là góc:",
+    "options": ["SBA", "SCA", "SCB", "ASB"],
+    "correctAnswer": "SBA"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để tổng số chấm lớn hơn 10 là:",
+    "options": ["1/12", "3/36", "Cả A và B", "1/6"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hàm số y = x.cos(x). Đạo hàm y' là:",
+    "options": ["cos(x) - x.sin(x)", "cos(x) + x.sin(x)", "-sin(x)", "1 - sin(x)"],
+    "correctAnswer": "cos(x) - x.sin(x)"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log(x² - 4) là:",
+    "options": ["(-∞; -2) ∪ (2; +∞)", "(-2; 2)", "R \\ {±2}", "R"],
+    "correctAnswer": "(-∞; -2) ∪ (2; +∞)"
+  },
+  {
+    "question": "Thể tích của khối chóp S.ABCD có đáy là hình vuông cạnh a, chiều cao SA = 2a là:",
+    "options": ["(2/3)a³", "2a³", "a³", "(1/3)a³"],
+    "correctAnswer": "(2/3)a³"
+  },
+  {
+    "question": "Một hộp có 6 bi đỏ, 4 bi xanh. Lấy lần lượt 2 bi không hoàn lại. Xác suất để 2 bi cùng màu là:",
+    "options": ["7/15", "21/45", "Cả A và B", "1/2"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Đạo hàm cấp hai của hàm số y = cos(2x) là:",
+    "options": ["-4cos(2x)", "4cos(2x)", "-2sin(2x)", "2sin(2x)"],
+    "correctAnswer": "-4cos(2x)"
+  },
+  {
+    "question": "Phương trình log²x - 3logx + 2 = 0 có tổng các nghiệm là:",
+    "options": ["110", "100", "10", "3"],
+    "correctAnswer": "110"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình thoi, O là tâm đáy, SO ⊥ (ABCD). Mệnh đề nào sai?",
+    "options": ["SA ⊥ BD", "SO ⊥ AC", "SB ⊥ AC", "SC ⊥ BD"],
+    "correctAnswer": "SB ⊥ AC"
+  },
+  {
+    "question": "Hai biến cố A và B độc lập. P(A)=0.2, P(B)=0.3. Tính P(A'∩B).",
+    "options": ["0.24", "0.8*0.3", "Cả A và B", "0.06"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hàm số y = (x+1)². Tiếp tuyến tại x=-2 có phương trình:",
+    "options": ["y = -2x - 3", "y = 2x + 5", "y = -2x + 1", "y = 2x - 1"],
+    "correctAnswer": "y = -2x - 3"
+  },
+  {
+    "question": "Hàm số y = (√3)<sup>x</sup> là hàm số:",
+    "options": ["Đồng biến trên R", "Nghịch biến trên R", "Không đổi", "Lẻ"],
+    "correctAnswer": "Đồng biến trên R"
+  },
+  {
+    "question": "Cho hình lập phương ABCD.A'B'C'D' cạnh a. Khoảng cách từ A đến mặt phẳng (B'D'C) là:",
+    "options": ["a", "a√2", "a√3", "a/2"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Một bài thi trắc nghiệm có 10 câu, mỗi câu có 4 phương án. Một học sinh làm bài bằng cách chọn ngẫu nhiên. Xác suất để học sinh đó làm đúng 5 câu là:",
+    "options": ["C(10,5)*(1/4)⁵*(3/4)⁵", "1/2", "(1/4)⁵", "(3/4)⁵"],
+    "correctAnswer": "C(10,5)*(1/4)⁵*(3/4)⁵"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = sin(x) + x² là:",
+    "options": ["cos(x) + 2x", "-cos(x) + 2x", "cos(x) + x", "sin(x) + 2x"],
+    "correctAnswer": "cos(x) + 2x"
+  },
+  {
+    "question": "Phương trình log(x-1) = 2 có nghiệm là:",
+    "options": ["101", "99", "21", "11"],
+    "correctAnswer": "101"
+  },
+  {
+    "question": "Cho hình chóp S.ABC có đáy là tam giác vuông tại B, SA ⊥ (ABC). Khoảng cách từ B đến mặt phẳng (SAC) là:",
+    "options": ["Đoạn BH với H là hình chiếu của B lên AC", "Đoạn BA", "Đoạn BC", "Đoạn BS"],
+    "correctAnswer": "Đoạn BH với H là hình chiếu của B lên AC"
+  },
+  {
+    "question": "Một hộp có 7 bi xanh, 5 bi đỏ. Lấy lần lượt 2 bi không hoàn lại. Xác suất để bi thứ 2 màu xanh, biết bi thứ nhất màu đỏ là:",
+    "options": ["7/11", "7/12", "5/12", "5/11"],
+    "correctAnswer": "7/11"
+  },
+  {
+    "question": "Cho hàm số y = x/(x+1). Tính y''(0).",
+    "options": ["-2", "2", "1", "-1"],
+    "correctAnswer": "-2"
+  },
+  {
+    "question": "Bất phương trình 2<sup>2x</sup> < 2<sup>x+4</sup> có tập nghiệm là:",
+    "options": ["(-∞; 4)", "(4; +∞)", "(0; 4)", "R"],
+    "correctAnswer": "(-∞; 4)"
+  },
+  {
+    "question": "Thể tích của khối tứ diện có 3 cạnh xuất phát từ một đỉnh đôi một vuông góc và có độ dài 2, 3, 4 là:",
+    "options": ["4", "24", "8", "12"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Gieo hai con súc sắc. Xác suất để có ít nhất một mặt 6 chấm là:",
+    "options": ["11/36", "1/6", "1/36", "12/36"],
+    "correctAnswer": "11/36"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x² tại điểm x₀ bất kỳ là:",
+    "options": ["2x₀", "x₀²", "2", "0"],
+    "correctAnswer": "2x₀"
+  },
+  {
+    "question": "Cho log₂a = 3, log₂b = 4. Tính log₂(ab).",
+    "options": ["7", "12", "1", "-1"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình vuông, SA ⊥ (ABCD). Góc giữa hai mặt phẳng (SBC) và (ABCD) là:",
+    "options": ["Góc SBA", "Góc SCA", "Góc SDA", "Góc SCB"],
+    "correctAnswer": "Góc SBA"
+  },
+  {
+    "question": "Một lớp có 30 học sinh. Xác suất để 2 bạn An và Bình được chọn vào ban cán sự 3 người là:",
+    "options": ["1/145", "C(28,1)/C(30,3)", "28/4060", "Cả B và C"],
+    "correctAnswer": "Cả B và C"
+  },
+  {
+    "question": "Cho hàm số y = 1/3 x³ - x² + x - 5. Tập nghiệm của bất phương trình y' ≤ 0 là:",
+    "options": ["{1}", "∅", "R", "[1; +∞)"],
+    "correctAnswer": "{1}"
+  },
+  {
+    "question": "Phương trình log₂(x) + log₂(x-2) = 3 có tổng các nghiệm là:",
+    "options": ["4", "2", "6", "8"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho hình lăng trụ đứng ABC.A'B'C' có đáy là tam giác vuông tại B, AB=a, BC=2a, AA'=3a. Thể tích khối lăng trụ là:",
+    "options": ["3a³", "a³", "2a³", "6a³"],
+    "correctAnswer": "3a³"
+  },
+  {
+    "question": "Xác suất một người ném rổ trúng là 0.4. Người đó ném 2 quả. Xác suất để trúng ít nhất một quả là:",
+    "options": ["0.64", "0.16", "0.36", "0.8"],
+    "correctAnswer": "0.64"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = (x²+1)³ là:",
+    "options": ["6x(x²+1)²", "3(x²+1)²", "2x(x²+1)³", "6x"],
+    "correctAnswer": "6x(x²+1)²"
+  },
+  {
+    "question": "Hàm số y = log₁/₂(x) nghịch biến trên khoảng:",
+    "options": ["(0; +∞)", "R", "(-∞; 0)", "[0; +∞)"],
+    "correctAnswer": "(0; +∞)"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình chữ nhật, SA ⊥ (ABCD). Khoảng cách từ A đến mặt phẳng (SCD) là:",
+    "options": ["Đoạn AK với K là hình chiếu của A lên SD", "Đoạn AD", "Đoạn AC", "Đoạn AS"],
+    "correctAnswer": "Đoạn AK với K là hình chiếu của A lên SD"
+  },
+  {
+    "question": "Một hộp có 3 bi xanh, 5 bi đỏ. Lấy lần lượt 2 bi có hoàn lại. Xác suất để 2 bi khác màu là:",
+    "options": ["15/32", "30/64", "Cả A và B", "15/56"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cho hàm số y = sinx.cos(x). Đạo hàm cấp hai y'' là:",
+    "options": ["-2sin(2x)", "-4sin(2x)", "2cos(2x)", "-2cos(2x)"],
+    "correctAnswer": "-2sin(2x)"
+  }
+]
+
