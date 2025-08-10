@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Rút gọn biểu thức P = x<sup>1/3</sup> ⋅ ⁶√x với x > 0.",
+    "options": ["√x", "x", "x²", "x<sup>1/8</sup>"],
+    "correctAnswer": "√x"
+  },
+  {
+    "question": "Cho a là số thực dương. Biểu thức a<sup>2/3</sup> ⋅ √a bằng:",
+    "options": ["a<sup>7/6</sup>", "a<sup>5/6</sup>", "a<sup>1/3</sup>", "a<sup>5/3</sup>"],
+    "correctAnswer": "a<sup>7/6</sup>"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (x-1)<sup>1/3</sup> là:",
+    "options": ["(1; +∞)", "[1; +∞)", "R", "R \\ {1}"],
+    "correctAnswer": "(1; +∞)"
+  },
+  {
+    "question": "Cho a là số thực dương khác 1. Giá trị của logₐ(a³) bằng:",
+    "options": ["3", "1/3", "a", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho log₂x = 3. Giá trị của x là:",
+    "options": ["8", "9", "6", "1/8"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log(x-2) là:",
+    "options": ["(2; +∞)", "[2; +∞)", "R", "R \\ {2}"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Hàm số nào sau đây là hàm số mũ?",
+    "options": ["y = 2<sup>x</sup>", "y = x²", "y = log₂x", "y = x<sup>1/2</sup>"],
+    "correctAnswer": "y = 2<sup>x</sup>"
+  },
+  {
+    "question": "Hàm số y = (0.5)<sup>x</sup> có tính chất nào sau đây?",
+    "options": ["Nghịch biến trên R", "Đồng biến trên R", "Không đổi", "Chẵn"],
+    "correctAnswer": "Nghịch biến trên R"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup> = 16 có nghiệm là:",
+    "options": ["x = 4", "x = 8", "x = 2", "x = 1/4"],
+    "correctAnswer": "x = 4"
+  },
+  {
+    "question": "Phương trình log₃(x+1) = 2 có nghiệm là:",
+    "options": ["x = 8", "x = 9", "x = 7", "x = 5"],
+    "correctAnswer": "x = 8"
+  },
+  {
+    "question": "Cho (a-1)<sup>-2/3</sup> < (a-1)<sup>-1/3</sup>. Khi đó, ta có:",
+    "options": ["a > 2", "a < 2", "a > 1", "0 < a < 1"],
+    "correctAnswer": "a > 2"
+  },
+  {
+    "question": "Cho a, b là các số thực dương và a≠1. Khẳng định nào sau đây đúng?",
+    "options": ["logₐ(bⁿ) = n.logₐb", "logₐ(bⁿ) = (1/n)logₐb", "logₐ(b+n) = logₐb + logₐn", "logₐ(bn) = n.logₐb"],
+    "correctAnswer": "logₐ(bⁿ) = n.logₐb"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (x²-1)<sup>-2</sup> là:",
+    "options": ["R \\ {±1}", "R", "(-1; 1)", "(-∞; -1) ∪ (1; +∞)"],
+    "correctAnswer": "R \\ {±1}"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = e<sup>x</sup> là:",
+    "options": ["e<sup>x</sup>", "x.e<sup>x-1</sup>", "e<sup>x</sup>ln(e)", "1/x"],
+    "correctAnswer": "e<sup>x</sup>"
+  },
+  {
+    "question": "Bất phương trình 3<sup>x</sup> > 9 có tập nghiệm là:",
+    "options": ["(2; +∞)", "(-∞; 2)", "(3; +∞)", "R"],
+    "correctAnswer": "(2; +∞)"
+  },
+  {
+    "question": "Bất phương trình log₂(x) < 3 có tập nghiệm là:",
+    "options": ["(0; 8)", "(-∞; 8)", "(0; 9)", "(8; +∞)"],
+    "correctAnswer": "(0; 8)"
+  },
+  {
+    "question": "Hàm số y = log<sub>0.2</sub>(x) có tính chất nào?",
+    "options": ["Nghịch biến trên (0; +∞)", "Đồng biến trên (0; +∞)", "Nghịch biến trên R", "Đồng biến trên R"],
+    "correctAnswer": "Nghịch biến trên (0; +∞)"
+  },
+  {
+    "question": "Cho log₂5 = a. Tính log₄50 theo a.",
+    "options": ["(1+2a)/2", "1+a", "2(1+a)", "1+2a"],
+    "correctAnswer": "(1+2a)/2"
+  },
+  {
+    "question": "Phương trình 5<sup>2x-1</sup> = 1/25 có nghiệm là:",
+    "options": ["x = -1/2", "x = 1/2", "x = -1", "x = 3/2"],
+    "correctAnswer": "x = -1/2"
+  },
+  {
+    "question": "Phương trình log(x) + log(x-3) = 1 có nghiệm là:",
+    "options": ["x = 5", "x = -2", "x = 5 và x = -2", "Vô nghiệm"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Rút gọn biểu thức A = (a<sup>√3</sup>)<sup>√3</sup> / a⁴ (a>0).",
+    "options": ["1/a", "a", "a⁷", "a⁻⁷"],
+    "correctAnswer": "1/a"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log(x²-4x+4) là:",
+    "options": ["R \\ {2}", "R", "(2; +∞)", "(-∞; 2)"],
+    "correctAnswer": "R \\ {2}"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = 2<sup>x</sup> là:",
+    "options": ["2<sup>x</sup>ln2", "x.2<sup>x-1</sup>", "2<sup>x</sup>", "2<sup>x</sup>/ln2"],
+    "correctAnswer": "2<sup>x</sup>ln2"
+  },
+  {
+    "question": "Nghiệm của bất phương trình (1/3)<sup>x-1</sup> ≤ 1/9 là:",
+    "options": ["[3; +∞)", "(-∞; 3]", "(3; +∞)", "(-∞; 3)"],
+    "correctAnswer": "[3; +∞)"
+  },
+  {
+    "question": "Hàm số y = e<sup>x</sup> có đồ thị đi qua điểm nào?",
+    "options": ["(0; 1)", "(1; 0)", "(e; 1)", "(1; 1)"],
+    "correctAnswer": "(0; 1)"
+  },
+  {
+    "question": "Cho logₐb = 2. Giá trị của logₐ(ab²) là:",
+    "options": ["5", "4", "3", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Phương trình 4<sup>x</sup> - 5.2<sup>x</sup> + 4 = 0 có tổng các nghiệm là:",
+    "options": ["2", "5", "4", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hàm số y = log₂(x) có đồ thị đối xứng với đồ thị hàm số y = 2<sup>x</sup> qua đường thẳng:",
+    "options": ["y = x", "y = -x", "Trục Ox", "Trục Oy"],
+    "correctAnswer": "y = x"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình log<sub>0.5</sub>(x-1) > -2 là:",
+    "options": ["(1; 5)", "[1; 5)", "(5; +∞)", "(-∞; 5)"],
+    "correctAnswer": "(1; 5)"
+  },
+  {
+    "question": "Cho biểu thức P = ⁴√x ⋅ ³√x² ⋅ √x³, x>0. Viết P dưới dạng lũy thừa với số mũ hữu tỉ.",
+    "options": ["x<sup>23/12</sup>", "x<sup>13/12</sup>", "x<sup>29/12</sup>", "x<sup>12/23</sup>"],
+    "correctAnswer": "x<sup>23/12</sup>"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = ln(x) là:",
+    "options": ["1/x", "1/(x.ln10)", "-1/x²", "e<sup>x</sup>"],
+    "correctAnswer": "1/x"
+  },
+  {
+    "question": "Phương trình log₂(x-5) + log₂(x+2) = 3 có nghiệm là:",
+    "options": ["x=6", "x=-3", "x=6 và x=-3", "Vô nghiệm"],
+    "correctAnswer": "x=6"
+  },
+  {
+    "question": "Hàm số y = (π)<sup>x</sup> có tính chất nào?",
+    "options": ["Đồng biến trên R", "Nghịch biến trên R", "Không đổi", "Lẻ"],
+    "correctAnswer": "Đồng biến trên R"
+  },
+  {
+    "question": "Bất phương trình 2<sup>x²-x</sup> ≤ 4 có tập nghiệm là:",
+    "options": ["[-1; 2]", "(-∞; -1] ∪ [2; +∞)", "[0; 1]", "[-2; 1]"],
+    "correctAnswer": "[-1; 2]"
+  },
+  {
+    "question": "Cho log₂3 = a. Tính log₃18 theo a.",
+    "options": ["(a+2)/a", "(a+1)/a", "2a+1", "a+2"],
+    "correctAnswer": "(a+2)/a"
+  },
+  {
+    "question": "Phương trình 3<sup>x</sup> + 3<sup>x+1</sup> = 36 có nghiệm là:",
+    "options": ["x=2", "x=3", "x=log₃9", "x=log₃12"],
+    "correctAnswer": "x=2"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log<sub>x-1</sub>(x+2) là:",
+    "options": ["(1; +∞) \\ {2}", "(-2; +∞)", "(1; +∞)", "R \\ {1}"],
+    "correctAnswer": "(1; +∞) \\ {2}"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = log₃(x) là:",
+    "options": ["1/(x.ln3)", "1/x", "ln3/x", "3<sup>x</sup>"],
+    "correctAnswer": "1/(x.ln3)"
+  },
+  {
+    "question": "Nghiệm của bất phương trình log(x) ≤ 1 là:",
+    "options": ["(0; 10]", "(-∞; 10]", "[0; 10]", "(0; 1]"],
+    "correctAnswer": "(0; 10]"
+  },
+  {
+    "question": "So sánh (√2-1)<sup>2024</sup> và (√2-1)<sup>2025</sup>.",
+    "options": ["(√2-1)<sup>2024</sup> > (√2-1)<sup>2025</sup>", "(√2-1)<sup>2024</sup> < (√2-1)<sup>2025</sup>", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "(√2-1)<sup>2024</sup> > (√2-1)<sup>2025</sup>"
+  },
+  {
+    "question": "Phương trình log²x - 4logx + 3 = 0 có tích các nghiệm là:",
+    "options": ["10000", "10", "3", "4"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Hàm số y = (x²-2x)<sup>e</sup> có tập xác định là:",
+    "options": ["(-∞; 0) ∪ (2; +∞)", "R", "R \\ {0, 2}", "(0; 2)"],
+    "correctAnswer": "(-∞; 0) ∪ (2; +∞)"
+  },
+  {
+    "question": "Cho log<sub>c</sub>a=2, log<sub>c</sub>b=3. Tính P = logₐ(b).",
+    "options": ["3/2", "2/3", "6", "1"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Bất phương trình 2<sup>x</sup> > 3 có tập nghiệm là:",
+    "options": ["(log₂3; +∞)", "(log₃2; +∞)", "(-∞; log₂3)", "R"],
+    "correctAnswer": "(log₂3; +∞)"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = e<sup>2x+1</sup> là:",
+    "options": ["2e<sup>2x+1</sup>", "e<sup>2x+1</sup>", "(2x+1)e<sup>2x</sup>", "(1/2)e<sup>2x+1</sup>"],
+    "correctAnswer": "2e<sup>2x+1</sup>"
+  },
+  {
+    "question": "Phương trình 2<sup>x²-3x+2</sup> = 1 có tổng các nghiệm là:",
+    "options": ["3", "2", "1", "0"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hàm số y = log(1-x) có tập xác định là:",
+    "options": ["(-∞; 1)", "(1; +∞)", "R \\ {1}", "R"],
+    "correctAnswer": "(-∞; 1)"
+  },
+  {
+    "question": "Cho logx = 1/2.log(9) - log(5) + log(2). Giá trị của x là:",
+    "options": ["6/5", "3/5", "2/5", "1.2"],
+    "correctAnswer": "6/5"
+  },
+  {
+    "question": "Nghiệm của bất phương trình log₁/₂(x) > log₁/₂(2) là:",
+    "options": ["(0; 2)", "(2; +∞)", "(-∞; 2)", "R"],
+    "correctAnswer": "(0; 2)"
+  },
+  {
+    "question": "Cho 4<sup>x</sup> + 4<sup>-x</sup> = 7. Tính giá trị P = 2<sup>x</sup> + 2<sup>-x</sup>.",
+    "options": ["3", "√7", "5", "9"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = ln(x²+1) là:",
+    "options": ["2x/(x²+1)", "1/(x²+1)", "x/(x²+1)", "-2x/(x²+1)"],
+    "correctAnswer": "2x/(x²+1)"
+  },
+  {
+    "question": "Phương trình log₂(log₄x) = 1 có nghiệm là:",
+    "options": ["16", "4", "2", "8"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Hàm số y = (e)<sup>x</sup> có tính chất nào?",
+    "options": ["Đồng biến trên R", "Nghịch biến trên R", "Không đổi", "Chẵn"],
+    "correctAnswer": "Đồng biến trên R"
+  },
+  {
+    "question": "Tập nghiệm của bất phương trình 5<sup>x-1</sup> ≤ 125 là:",
+    "options": ["(-∞; 4]", "[4; +∞)", "(-∞; 3]", "[3; +∞)"],
+    "correctAnswer": "(-∞; 4]"
+  },
+  {
+    "question": "Cho log₃5=a. Tính log₁₅45 theo a.",
+    "options": ["(2a+1)/(a+1)", "(a+1)/(2a+1)", "a+2", "2a+1"],
+    "correctAnswer": "(2a+1)/(a+1)"
+  },
+  {
+    "question": "Phương trình 9<sup>x</sup> - 10.3<sup>x</sup> + 9 = 0 có tích các nghiệm là:",
+    "options": ["2", "9", "10", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tập xác định của hàm số y = ln(x²-2x+1) là:",
+    "options": ["R \\ {1}", "R", "(1; +∞)", "(-∞; 1)"],
+    "correctAnswer": "R \\ {1}"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = log₂(2x+1) là:",
+    "options": ["2/((2x+1)ln2)", "1/((2x+1)ln2)", "2/(2x+1)", "1/(2x+1)"],
+    "correctAnswer": "2/((2x+1)ln2)"
+  },
+  {
+    "question": "Nghiệm của bất phương trình log₃(x+1) > 2 là:",
+    "options": ["(8; +∞)", "(-1; 8)", "(9; +∞)", "(-1; +∞)"],
+    "correctAnswer": "(8; +∞)"
+  },
+  {
+    "question": "Cho (0.1)<sup>√3</sup> và (0.1)<sup>√2</sup>. Khẳng định nào đúng?",
+    "options": ["(0.1)<sup>√3</sup> < (0.1)<sup>√2</sup>", "(0.1)<sup>√3</sup> > (0.1)<sup>√2</sup>", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "(0.1)<sup>√3</sup> < (0.1)<sup>√2</sup>"
+  },
+  {
+    "question": "Phương trình log₂(x) + log₄(x) + log₈(x) = 11/6 có nghiệm là:",
+    "options": ["x=2", "x=4", "x=8", "x=16"],
+    "correctAnswer": "x=2"
+  },
+  {
+    "question": "Hàm số y = (x-2)<sup>-π</sup> có tập xác định là:",
+    "options": ["(2; +∞)", "R \\ {2}", "[2; +∞)", "R"],
+    "correctAnswer": "R \\ {2}"
+  },
+  {
+    "question": "Cho log₂x = √2. Giá trị của biểu thức A = log₂x² + log₁/₂x³ là:",
+    "options": ["-√2", "√2", "2√2", "-2√2"],
+    "correctAnswer": "-√2"
+  },
+  {
+    "question": "Bất phương trình 2<sup>x</sup> + 2<sup>x+1</sup> < 12 có tập nghiệm là:",
+    "options": ["(-∞; 2)", "(2; +∞)", "(0; 2)", "(-∞; 1)"],
+    "correctAnswer": "(-∞; 2)"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x.e<sup>x</sup> là:",
+    "options": ["(x+1)e<sup>x</sup>", "e<sup>x</sup>", "x.e<sup>x</sup>", "2x.e<sup>x</sup>"],
+    "correctAnswer": "(x+1)e<sup>x</sup>"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup> = x+1 có bao nhiêu nghiệm?",
+    "options": ["2", "1", "0", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Hàm số y = log<sub>x</sub>(x+1) có tập xác định là:",
+    "options": ["(0; +∞) \\ {1}", "(0; +∞)", "(-1; +∞) \\ {1}", "R"],
+    "correctAnswer": "(0; +∞) \\ {1}"
+  },
+  {
+    "question": "Cho log2=a, log3=b. Tính log₁₂30 theo a, b.",
+    "options": ["(1+b)/(2a+b)", "(1+a)/(2a+b)", "(1+b)/(a+2b)", "(a+b)/(2a+b)"],
+    "correctAnswer": "(1+b)/(2a+b)"
+  },
+  {
+    "question": "Nghiệm của bất phương trình log²x - 5logx + 6 > 0 là:",
+    "options": ["(0; 100) ∪ (1000; +∞)", "(100; 1000)", "(-∞; 2) ∪ (3; +∞)", "(2; 3)"],
+    "correctAnswer": "(0; 100) ∪ (1000; +∞)"
+  },
+  {
+    "question": "Cho biểu thức Q = (a<sup>1/3</sup> b<sup>-1/3</sup> - a<sup>-1/3</sup> b<sup>1/3</sup>) / (⁶√a - ⁶√b). Rút gọn Q.",
+    "options": ["(a<sup>1/6</sup>+b<sup>1/6</sup>)", "a+b", "a-b", "1"],
+    "correctAnswer": "(a<sup>1/6</sup>+b<sup>1/6</sup>)"
+  },
+  {
+    "question": "Phương trình 3<sup>x</sup>.5<sup>x²</sup> = 15 có tổng các nghiệm là:",
+    "options": ["1", "0", "-1", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tập xác định của hàm số y = √(log(x)) là:",
+    "options": ["[1; +∞)", "(0; +∞)", "[10; +∞)", "[e; +∞)"],
+    "correctAnswer": "[1; +∞)"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = x<sup>x</sup> (x>0) là:",
+    "options": ["x<sup>x</sup>(lnx+1)", "x.x<sup>x-1</sup>", "x<sup>x</sup>lnx", "x<sup>x</sup>"],
+    "correctAnswer": "x<sup>x</sup>(lnx+1)"
+  },
+  {
+    "question": "Bất phương trình log₂(x-1) + log₂(x+1) ≥ 3 có tập nghiệm là:",
+    "options": ["[3; +∞)", "(1; 3]", "[-3; 3]", "(1; +∞)"],
+    "correctAnswer": "[3; +∞)"
+  },
+  {
+    "question": "Hàm số y = 2<sup>x</sup> và y = (1/2)<sup>x</sup> có đồ thị đối xứng nhau qua:",
+    "options": ["Trục Oy", "Trục Ox", "Đường thẳng y=x", "Gốc tọa độ"],
+    "correctAnswer": "Trục Oy"
+  },
+  {
+    "question": "Phương trình log₃(3<sup>x</sup>-1).log₃(3<sup>x+1</sup>-3) = 6 có bao nhiêu nghiệm?",
+    "options": ["1", "2", "0", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tập xác định của hàm số y = (x²-4x+3)<sup>-√2</sup> là:",
+    "options": ["(-∞; 1) ∪ (3; +∞)", "R \\ {1, 3}", "(1; 3)", "R"],
+    "correctAnswer": "(-∞; 1) ∪ (3; +∞)"
+  },
+  {
+    "question": "Cho log₇12=a, log₁₂24=b. Tính log₅₄168 theo a, b.",
+    "options": ["(ab+1)/(a(8-5b))", "(ab-1)/(a(8-5b))", "(a+1)/(b(8-5a))", "(a-1)/(b(8-5a))"],
+    "correctAnswer": "(ab+1)/(a(8-5b))"
+  },
+  {
+    "question": "Tìm m để phương trình 4<sup>x</sup> - m.2<sup>x+1</sup> + 2m = 0 có hai nghiệm x₁, x₂ thỏa mãn x₁+x₂=3.",
+    "options": ["m=4", "m=2", "m=8", "m=3"],
+    "correctAnswer": "m=4"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = e<sup>cos(x)</sup> là:",
+    "options": ["-sin(x).e<sup>cos(x)</sup>", "cos(x).e<sup>cos(x)</sup>", "e<sup>cos(x)</sup>", "e<sup>-sin(x)</sup>"],
+    "correctAnswer": "-sin(x).e<sup>cos(x)</sup>"
+  },
+  {
+    "question": "Phương trình log₂(x) = sin(πx) có bao nhiêu nghiệm?",
+    "options": ["1", "2", "3", "Vô số"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Hàm số y = ln(x+√(x²+1)) có tập xác định là:",
+    "options": ["R", "(0; +∞)", "[-1; 1]", "(-∞; 0)"],
+    "correctAnswer": "R"
+  },
+  {
+    "question": "Cho a, b, c là các số thực dương. Biểu thức P = log(a/b) + log(b/c) + log(c/a) có giá trị là:",
+    "options": ["0", "1", "10", "abc"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Bất phương trình 2<sup>x</sup> < x+1 có tập nghiệm là:",
+    "options": ["(0; 1)", "(-∞; 1)", "(0; +∞)", "R"],
+    "correctAnswer": "(0; 1)"
+  },
+  {
+    "question": "Một người gửi 100 triệu đồng vào ngân hàng với lãi suất 7%/năm, lãi kép. Sau bao nhiêu năm người đó có ít nhất 200 triệu?",
+    "options": ["11 năm", "10 năm", "9 năm", "12 năm"],
+    "correctAnswer": "11 năm"
+  },
+  {
+    "question": "Phương trình 2<sup>x</sup>.3<sup>x-1</sup>.5<sup>x-2</sup> = 12 có nghiệm x₀. Giá trị của x₀ là:",
+    "options": ["log₃₀(900)", "log₁₅(60)", "2", "3"],
+    "correctAnswer": "log₃₀(900)"
+  },
+  {
+    "question": "Tập xác định của hàm số y = log(log(x)) là:",
+    "options": ["(1; +∞)", "(0; +∞)", "(e; +∞)", "(10; +∞)"],
+    "correctAnswer": "(1; +∞)"
+  },
+  {
+    "question": "Đạo hàm của hàm số y = log(lnx) là:",
+    "options": ["1/(x.lnx.ln10)", "1/(x.lnx)", "1/x", "1/lnx"],
+    "correctAnswer": "1/(x.lnx.ln10)"
+  },
+  {
+    "question": "Tìm m để bất phương trình 9<sup>x</sup> - 2.3<sup>x</sup> + m ≥ 0 nghiệm đúng với mọi x.",
+    "options": ["m ≥ 1", "m > 1", "m ≤ 1", "m < 1"],
+    "correctAnswer": "m ≥ 1"
+  }
+]
+
