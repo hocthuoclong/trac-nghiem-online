@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Trong không gian, có bao nhiêu vị trí tương đối giữa một đường thẳng và một mặt phẳng?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Mệnh đề nào sau đây đúng?",
+    "options": ["Có duy nhất một mặt phẳng đi qua ba điểm không thẳng hàng.", "Có duy nhất một mặt phẳng đi qua ba điểm bất kỳ.", "Có vô số mặt phẳng đi qua hai điểm phân biệt.", "Có duy nhất một mặt phẳng đi qua một điểm và một đường thẳng."],
+    "correctAnswer": "Có duy nhất một mặt phẳng đi qua ba điểm không thẳng hàng."
+  },
+  {
+    "question": "Cho hai đường thẳng a và b chéo nhau. Có bao nhiêu mặt phẳng chứa a và song song với b?",
+    "options": ["Duy nhất một", "Vô số", "Không có", "Hai"],
+    "correctAnswer": "Duy nhất một"
+  },
+  {
+    "question": "Nếu đường thẳng a song song với mặt phẳng (P) thì:",
+    "options": ["a không có điểm chung với (P).", "a nằm hoàn toàn trong (P).", "a cắt (P) tại một điểm.", "a và (P) có vô số điểm chung."],
+    "correctAnswer": "a không có điểm chung với (P)."
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy ABCD là hình bình hành. Giao tuyến của hai mặt phẳng (SAB) và (SCD) là đường thẳng song song với:",
+    "options": ["AB và CD", "AD và BC", "AC", "BD"],
+    "correctAnswer": "AB và CD"
+  },
+  {
+    "question": "Phép chiếu song song biến hai đường thẳng song song thành:",
+    "options": ["Hai đường thẳng song song hoặc trùng nhau.", "Hai đường thẳng cắt nhau.", "Một đường thẳng và một điểm.", "Hai điểm."],
+    "correctAnswer": "Hai đường thẳng song song hoặc trùng nhau."
+  },
+  {
+    "question": "Cho hai mặt phẳng (P) và (Q) song song với nhau. Đường thẳng a nằm trong (P). Vị trí tương đối của a và (Q) là:",
+    "options": ["a song song với (Q)", "a cắt (Q)", "a nằm trong (Q)", "a chéo (Q)"],
+    "correctAnswer": "a song song với (Q)"
+  },
+  {
+    "question": "Qua một điểm nằm ngoài một đường thẳng cho trước, có bao nhiêu đường thẳng song song với đường thẳng đó?",
+    "options": ["Một và chỉ một", "Vô số", "Không có", "Hai"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Cho hình hộp ABCD.A'B'C'D'. Mặt phẳng (AB'D') song song với mặt phẳng nào sau đây?",
+    "options": ["(C'BD)", "(A'C'C)", "(BDA')", "(CDA')"],
+    "correctAnswer": "(C'BD)"
+  },
+  {
+    "question": "Điều kiện để ba điểm A, B, C thẳng hàng là:",
+    "options": ["Vectơ AB và AC cùng phương", "Vectơ AB và BC vuông góc", "A, B, C tạo thành tam giác", "AB = BC = CA"],
+    "correctAnswer": "Vectơ AB và AC cùng phương"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AB và AC. Vị trí tương đối của MN và mặt phẳng (BCD) là:",
+    "options": ["MN song song với (BCD)", "MN cắt (BCD)", "MN nằm trong (BCD)", "MN vuông góc với (BCD)"],
+    "correctAnswer": "MN song song với (BCD)"
+  },
+  {
+    "question": "Nếu hai mặt phẳng phân biệt cùng song song với một đường thẳng thì giao tuyến của chúng (nếu có) sẽ:",
+    "options": ["Song song với đường thẳng đó", "Cắt đường thẳng đó", "Vuông góc với đường thẳng đó", "Trùng với đường thẳng đó"],
+    "correctAnswer": "Song song với đường thẳng đó"
+  },
+  {
+    "question": "Phép chiếu song song không bảo toàn tính chất nào sau đây?",
+    "options": ["Độ dài đoạn thẳng", "Tỉ số của hai đoạn thẳng nằm trên hai đường thẳng song song", "Tính thẳng hàng của ba điểm", "Tính song song của hai đường thẳng"],
+    "correctAnswer": "Độ dài đoạn thẳng"
+  },
+  {
+    "question": "Cho hình lăng trụ tam giác ABC.A'B'C'. Đường thẳng A'B song song với đường thẳng nào?",
+    "options": ["Không có trong các đáp án", "AB'", "BC'", "AC'"],
+    "correctAnswer": "Không có trong các đáp án"
+  },
+  {
+    "question": "Trong không gian, hai đường thẳng được gọi là chéo nhau nếu chúng:",
+    "options": ["Không đồng phẳng", "Không có điểm chung", "Không song song", "Cắt nhau"],
+    "correctAnswer": "Không đồng phẳng"
+  },
+  {
+    "question": "Cho đường thẳng d song song với mặt phẳng (α). Nếu mặt phẳng (β) chứa d và cắt (α) theo giao tuyến d' thì:",
+    "options": ["d song song với d'", "d cắt d'", "d trùng với d'", "d vuông góc với d'"],
+    "correctAnswer": "d song song với d'"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD với đáy là hình thang (AB // CD). Giao tuyến của (SAD) và (SBC) là:",
+    "options": ["Đường thẳng đi qua S và song song với AB, CD", "Đường thẳng SI với I là giao điểm của AD và BC", "Đường thẳng SO với O là giao điểm của AC và BD", "Đường thẳng SA"],
+    "correctAnswer": "Đường thẳng SI với I là giao điểm của AD và BC"
+  },
+  {
+    "question": "Qua một điểm nằm ngoài một mặt phẳng cho trước, có bao nhiêu mặt phẳng song song với mặt phẳng đó?",
+    "options": ["Một và chỉ một", "Vô số", "Không có", "Hai"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Phép chiếu song song biến một tam giác thành:",
+    "options": ["Một tam giác hoặc một đoạn thẳng", "Luôn là một tam giác", "Một hình bình hành", "Một điểm"],
+    "correctAnswer": "Một tam giác hoặc một đoạn thẳng"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi I, J lần lượt là trọng tâm các tam giác ABC và ABD. Mệnh đề nào đúng?",
+    "options": ["IJ song song với CD", "IJ song song với AB", "IJ chéo CD", "IJ cắt AB"],
+    "correctAnswer": "IJ song song với CD"
+  },
+  {
+    "question": "Một đường thẳng được xác định bởi bao nhiêu điểm phân biệt?",
+    "options": ["2", "1", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cho hai đường thẳng song song a và b. Mệnh đề nào sau đây đúng?",
+    "options": ["Tồn tại duy nhất một mặt phẳng chứa cả a và b", "Không có mặt phẳng nào chứa cả a và b", "Có vô số mặt phẳng chứa cả a và b", "a và b chéo nhau"],
+    "correctAnswer": "Tồn tại duy nhất một mặt phẳng chứa cả a và b"
+  },
+  {
+    "question": "Nếu một đường thẳng cắt một trong hai mặt phẳng song song thì nó sẽ:",
+    "options": ["Cắt mặt phẳng còn lại", "Song song với mặt phẳng còn lại", "Nằm trong mặt phẳng còn lại", "Vuông góc với mặt phẳng còn lại"],
+    "correctAnswer": "Cắt mặt phẳng còn lại"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD. Điểm M thuộc cạnh SA. Thiết diện của hình chóp cắt bởi mặt phẳng (MBC) là hình gì?",
+    "options": ["Tứ giác", "Tam giác", "Ngũ giác", "Hình thang"],
+    "correctAnswer": "Tứ giác"
+  },
+  {
+    "question": "Hình biểu diễn của một hình tròn qua phép chiếu song song có thể là hình gì?",
+    "options": ["Hình elip", "Hình tròn", "Đoạn thẳng", "Cả A, B, C"],
+    "correctAnswer": "Cả A, B, C"
+  },
+  {
+    "question": "Cho ba mặt phẳng (P), (Q), (R) đôi một cắt nhau theo ba giao tuyến a, b, c. Mệnh đề nào đúng?",
+    "options": ["a, b, c đồng quy hoặc đôi một song song", "a, b, c luôn đồng quy", "a, b, c luôn song song", "a, b, c chéo nhau"],
+    "correctAnswer": "a, b, c đồng quy hoặc đôi một song song"
+  },
+  {
+    "question": "Cho hình lăng trụ ABC.A'B'C'. Mặt phẳng (AB'C') song song với đường thẳng nào?",
+    "options": ["BC", "A'B", "CC'", "A'C"],
+    "correctAnswer": "BC"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt không có điểm chung thì chúng:",
+    "options": ["Song song hoặc chéo nhau", "Luôn song song", "Luôn chéo nhau", "Nằm trên hai mặt phẳng song song"],
+    "correctAnswer": "Song song hoặc chéo nhau"
+  },
+  {
+    "question": "Cho tứ diện ABCD. M là điểm trên cạnh AB. Mặt phẳng (P) qua M, song song với AC và BD. Thiết diện của tứ diện cắt bởi (P) là hình gì?",
+    "options": ["Hình bình hành", "Hình thang", "Hình chữ nhật", "Tam giác"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Phép chiếu song song bảo toàn tỉ số của hai đoạn thẳng khi nào?",
+    "options": ["Khi hai đoạn thẳng đó nằm trên hai đường thẳng song song", "Luôn luôn bảo toàn", "Khi hai đoạn thẳng đó bằng nhau", "Không bao giờ bảo toàn"],
+    "correctAnswer": "Khi hai đoạn thẳng đó nằm trên hai đường thẳng song song"
+  },
+  {
+    "question": "Trong không gian, một mặt phẳng được xác định bởi:",
+    "options": ["Một đường thẳng và một điểm không thuộc đường thẳng đó", "Hai đường thẳng bất kỳ", "Ba điểm bất kỳ", "Một đường thẳng"],
+    "correctAnswer": "Một đường thẳng và một điểm không thuộc đường thẳng đó"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình bình hành. Gọi M là trung điểm SC. Giao điểm I của đường thẳng AM và mặt phẳng (SBD) là:",
+    "options": ["Giao điểm của AM và SO (O là tâm đáy)", "Giao điểm của AM và SD", "Giao điểm của AM và SB", "Điểm S"],
+    "correctAnswer": "Giao điểm của AM và SO (O là tâm đáy)"
+  },
+  {
+    "question": "Nếu hai đường thẳng phân biệt cùng song song với một mặt phẳng thì vị trí tương đối của chúng là:",
+    "options": ["Có thể song song, cắt nhau hoặc chéo nhau", "Luôn song song", "Luôn chéo nhau", "Luôn cắt nhau"],
+    "correctAnswer": "Có thể song song, cắt nhau hoặc chéo nhau"
+  },
+  {
+    "question": "Cho hai mặt phẳng (P) và (Q) song song. Một mặt phẳng (R) cắt (P) và (Q) lần lượt theo hai giao tuyến a và b. Khi đó:",
+    "options": ["a song song với b", "a cắt b", "a trùng b", "a và b chéo nhau"],
+    "correctAnswer": "a song song với b"
+  },
+  {
+    "question": "Hình chiếu của một hình bình hành qua phép chiếu song song có thể là hình gì?",
+    "options": ["Hình bình hành hoặc đoạn thẳng", "Luôn là hình bình hành", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình bình hành hoặc đoạn thẳng"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi G là trọng tâm tam giác BCD. Giao tuyến của mặt phẳng (ACG) và (ABD) là:",
+    "options": ["AM với M là trung điểm BD", "AN với N là trung điểm CD", "AP với P là trung điểm BC", "Đường thẳng AG"],
+    "correctAnswer": "AM với M là trung điểm BD"
+  },
+  {
+    "question": "Cho hình hộp ABCD.A'B'C'D'. Đường thẳng AC' đi qua trung điểm của đường thẳng nào?",
+    "options": ["A'C và B'D", "BD", "A'B", "C'D"],
+    "correctAnswer": "A'C và B'D"
+  },
+  {
+    "question": "Đường thẳng a song song với đường thẳng b, đường thẳng b nằm trong mặt phẳng (P). Kết luận nào đúng?",
+    "options": ["a song song với (P) hoặc a nằm trong (P)", "a song song với (P)", "a nằm trong (P)", "a cắt (P)"],
+    "correctAnswer": "a song song với (P) hoặc a nằm trong (P)"
+  },
+  {
+    "question": "Cho hai mặt phẳng (P) và (Q) cắt nhau theo giao tuyến d. Đường thẳng a song song với cả (P) và (Q). Khi đó:",
+    "options": ["a song song với d", "a cắt d", "a trùng d", "a và d chéo nhau"],
+    "correctAnswer": "a song song với d"
+  },
+  {
+    "question": "Phép chiếu song song lên mặt phẳng (P) theo phương l. Hình chiếu của một điểm M là M' khi:",
+    "options": ["MM' song song hoặc trùng với l", "MM' vuông góc với (P)", "M và M' cùng thuộc (P)", "M trùng M'"],
+    "correctAnswer": "MM' song song hoặc trùng với l"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình thang, AD là đáy lớn. Gọi M là trung điểm của SB. Giao điểm của MD và (SAC) là:",
+    "options": ["Giao điểm của MD và SI (I=AC∩BD)", "Điểm S", "Điểm M", "Điểm D"],
+    "correctAnswer": "Giao điểm của MD và SI (I=AC∩BD)"
+  },
+  {
+    "question": "Trong các mệnh đề sau, mệnh đề nào sai?",
+    "options": ["Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì cắt nhau.", "Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì song song với nhau.", "Nếu một đường thẳng song song với một mặt phẳng thì nó song song với một đường thẳng nào đó trong mặt phẳng.", "Nếu hai mặt phẳng song song thì mọi đường thẳng nằm trong mặt phẳng này đều song song với mặt phẳng kia."],
+    "correctAnswer": "Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì cắt nhau."
+  },
+  {
+    "question": "Cho tứ diện ABCD. M, N, P, Q lần lượt là trung điểm của AC, BC, BD, AD. Tứ giác MNPQ là hình gì?",
+    "options": ["Hình bình hành", "Hình thang", "Hình chữ nhật", "Hình vuông"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Nếu đường thẳng a và b chéo nhau thì có bao nhiêu cặp mặt phẳng song song lần lượt chứa a và b?",
+    "options": ["Duy nhất một", "Vô số", "Không có", "Hai"],
+    "correctAnswer": "Duy nhất một"
+  },
+  {
+    "question": "Hình chiếu song song của trung điểm một đoạn thẳng là:",
+    "options": ["Trung điểm của đoạn thẳng hình chiếu", "Một điểm bất kỳ trên đoạn thẳng hình chiếu", "Không phải là trung điểm", "Trùng với một đầu mút"],
+    "correctAnswer": "Trung điểm của đoạn thẳng hình chiếu"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình bình hành. Giao tuyến của (SAC) và (SBD) là:",
+    "options": ["SO (O là tâm đáy)", "SA", "SC", "Đường thẳng song song AC"],
+    "correctAnswer": "SO (O là tâm đáy)"
+  },
+  {
+    "question": "Cho lăng trụ tam giác ABC.A'B'C'. Gọi M, N lần lượt là trung điểm của BB' và CC'. Mặt phẳng (AMN) cắt A'B' tại P và A'C' tại Q. Tứ giác MNQP là hình gì?",
+    "options": ["Hình thang", "Hình bình hành", "Hình chữ nhật", "Hình thang cân"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng nằm trong một mặt phẳng thì vị trí tương đối của chúng là:",
+    "options": ["Song song hoặc cắt nhau", "Luôn song song", "Luôn cắt nhau", "Chéo nhau"],
+    "correctAnswer": "Song song hoặc cắt nhau"
+  },
+  {
+    "question": "Cho đường thẳng a song song với mặt phẳng (P). Có bao nhiêu mặt phẳng chứa a và song song với (P)?",
+    "options": ["Không có", "Một", "Vô số", "Hai"],
+    "correctAnswer": "Không có"
+  },
+  {
+    "question": "Phép chiếu song song có thể biến một hình thang thành hình gì?",
+    "options": ["Hình thang hoặc đoạn thẳng", "Luôn là hình thang", "Hình bình hành", "Hình chữ nhật"],
+    "correctAnswer": "Hình thang hoặc đoạn thẳng"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi M là trung điểm của AB. Tìm giao điểm của đường thẳng CM và mặt phẳng (ADP) với P là trung điểm của BC.",
+    "options": ["Điểm C", "Điểm M", "Trọng tâm tam giác ABC", "Giao điểm của CM và AP"],
+    "correctAnswer": "Giao điểm của CM và AP"
+  },
+  {
+    "question": "Cho hình hộp ABCD.A'B'C'D'. Mệnh đề nào sau đây sai?",
+    "options": ["AC' và A'C cắt nhau", "AB' và CD' song song", "AD' và CB' song song", "Bốn điểm A, C, C', A' đồng phẳng"],
+    "correctAnswer": "AB' và CD' song song"
+  },
+  {
+    "question": "Nếu ba mặt phẳng không có điểm chung và đôi một không song song thì chúng:",
+    "options": ["Cắt nhau theo ba giao tuyến đôi một song song", "Cắt nhau tại một đường thẳng", "Cắt nhau tại một điểm", "Không tồn tại"],
+    "correctAnswer": "Cắt nhau theo ba giao tuyến đôi một song song"
+  },
+  {
+    "question": "Cho hai hình bình hành ABCD và ABEF không đồng phẳng. Mệnh đề nào đúng?",
+    "options": ["Mặt phẳng (ADF) song song với mặt phẳng (BCE)", "DF song song CE", "Mặt phẳng (ABC) song song với mặt phẳng (DEF)", "Cả A, B, C đều đúng"],
+    "correctAnswer": "Cả A, B, C đều đúng"
+  },
+  {
+    "question": "Hình chiếu của một đường thẳng qua phép chiếu song song có thể là:",
+    "options": ["Một đường thẳng hoặc một điểm", "Luôn là một đường thẳng", "Luôn là một điểm", "Một đoạn thẳng"],
+    "correctAnswer": "Một đường thẳng hoặc một điểm"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy ABCD là hình thang (AB//CD). Gọi M là một điểm trên cạnh SC. Giao tuyến của (ADM) và (SBC) là:",
+    "options": ["Đường thẳng qua M và song song với AD", "Đường thẳng qua giao điểm của DM và SI (I=AD∩BC)", "Đường thẳng qua M và giao điểm của AD và BC", "Đường thẳng qua S và song song với BC"],
+    "correctAnswer": "Đường thẳng qua M và giao điểm của AD và BC"
+  },
+  {
+    "question": "Trong không gian, cho 3 đường thẳng phân biệt a, b, c. Nếu a//b và b//c thì:",
+    "options": ["a//c", "a cắt c", "a và c chéo nhau", "a trùng c"],
+    "correctAnswer": "a//c"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi M, N là trung điểm AB, CD. P là điểm trên AD sao cho AP=2PD. Giao điểm của MP và (BCD) là:",
+    "options": ["Giao điểm của MP và BN", "Điểm B", "Điểm C", "Điểm D"],
+    "correctAnswer": "Giao điểm của MP và BN"
+  },
+  {
+    "question": "Nếu hai mặt phẳng (P) và (Q) song song thì mọi đường thẳng nằm trong (P) đều:",
+    "options": ["Song song với (Q)", "Cắt (Q)", "Nằm trong (Q)", "Vuông góc với (Q)"],
+    "correctAnswer": "Song song với (Q)"
+  },
+  {
+    "question": "Ảnh của một điểm qua phép chiếu song song là:",
+    "options": ["Một điểm", "Một đường thẳng", "Một mặt phẳng", "Không có ảnh"],
+    "correctAnswer": "Một điểm"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD. Để tìm giao tuyến của (SAB) và (SCD), ta tìm một điểm chung là S và tìm giao điểm của:",
+    "options": ["AB và CD", "AD và BC", "AC và BD", "SA và SC"],
+    "correctAnswer": "AB và CD"
+  },
+  {
+    "question": "Cho lăng trụ ABC.A'B'C'. Gọi G, G' lần lượt là trọng tâm tam giác ABC và A'B'C'. Mệnh đề nào đúng?",
+    "options": ["GG' song song với các cạnh bên", "GG' cắt các cạnh bên", "GG' chéo các cạnh bên", "GG' nằm trong mặt đáy"],
+    "correctAnswer": "GG' song song với các cạnh bên"
+  },
+  {
+    "question": "Hai đường thẳng a, b cùng song song với mặt phẳng (P). Vị trí tương đối của a và b là:",
+    "options": ["Có thể song song, cắt nhau hoặc chéo nhau", "Luôn song song", "Luôn chéo nhau", "Luôn cắt nhau"],
+    "correctAnswer": "Có thể song song, cắt nhau hoặc chéo nhau"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AB, BC. P là điểm trên cạnh CD sao cho CP=2PD. Thiết diện của tứ diện với mặt phẳng (MNP) là:",
+    "options": ["Tứ giác", "Ngũ giác", "Tam giác", "Lục giác"],
+    "correctAnswer": "Tứ giác"
+  },
+  {
+    "question": "Phép chiếu song song lên mặt phẳng (P) theo phương l. Nếu M thuộc (P) thì hình chiếu của M là:",
+    "options": ["Chính nó", "Một điểm khác trên (P)", "Không xác định", "Một đường thẳng"],
+    "correctAnswer": "Chính nó"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình bình hành. Gọi M, N lần lượt là trung điểm SA, SB. Vị trí tương đối của MN và (SCD) là:",
+    "options": ["MN song song với (SCD)", "MN cắt (SCD)", "MN nằm trong (SCD)", "MN và (SCD) có 2 điểm chung"],
+    "correctAnswer": "MN song song với (SCD)"
+  },
+  {
+    "question": "Trong không gian, cho 4 điểm không đồng phẳng. Có thể xác định được bao nhiêu mặt phẳng từ 4 điểm đó?",
+    "options": ["4", "1", "3", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Cho hai đường thẳng chéo nhau a, b. Mệnh đề nào sau đây đúng?",
+    "options": ["Tồn tại duy nhất một đường thẳng cắt cả a và b", "Không tồn tại đường thẳng nào cắt cả a và b", "Có vô số đường thẳng cắt cả a và b", "Tồn tại duy nhất một mặt phẳng chứa cả a và b"],
+    "correctAnswer": "Có vô số đường thẳng cắt cả a và b"
+  },
+  {
+    "question": "Nếu một đường thẳng song song với hai mặt phẳng cắt nhau thì nó sẽ:",
+    "options": ["Song song với giao tuyến của chúng", "Cắt giao tuyến của chúng", "Nằm trong một trong hai mặt phẳng", "Vuông góc với giao tuyến"],
+    "correctAnswer": "Song song với giao tuyến của chúng"
+  },
+  {
+    "question": "Hình chiếu của một hình lập phương theo phương của một đường chéo lên mặt phẳng vuông góc với đường chéo đó là:",
+    "options": ["Lục giác đều", "Hình vuông", "Hình tam giác đều", "Hình tròn"],
+    "correctAnswer": "Lục giác đều"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi M, N là trung điểm của AD, BC. I là trung điểm của MN. Khi đó:",
+    "options": ["Vectơ IA + IB + IC + ID = 0", "Vectơ IA + IB = IC + ID", "Vectơ IM + IN = 0", "Cả A và C đều đúng"],
+    "correctAnswer": "Vectơ IA + IB + IC + ID = 0"
+  },
+  {
+    "question": "Cho hình hộp ABCD.A'B'C'D'. Mặt phẳng (A'BD) song song với mặt phẳng nào?",
+    "options": ["(CB'D')", "(ACC'A')", "(BDD'B')", "(CDA'B')"],
+    "correctAnswer": "(CB'D')"
+  },
+  {
+    "question": "Hai đường thẳng a và b song song với nhau. Đường thẳng c cắt a. Vị trí tương đối của c và b là:",
+    "options": ["Cắt nhau", "Song song", "Chéo nhau", "Trùng nhau"],
+    "correctAnswer": "Cắt nhau"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình thang (AB//CD, AB>CD). Gọi M, N là trung điểm SA, SB. Tứ giác MNCD là hình gì?",
+    "options": ["Hình thang", "Hình bình hành", "Hình chữ nhật", "Không phải hình thang"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Phép chiếu song song biến trọng tâm của một tam giác thành:",
+    "options": ["Trọng tâm của tam giác ảnh", "Không phải trọng tâm", "Một đỉnh của tam giác ảnh", "Một điểm bất kỳ"],
+    "correctAnswer": "Trọng tâm của tam giác ảnh"
+  },
+  {
+    "question": "Để xác định một mặt phẳng, cần ít nhất bao nhiêu điểm không thẳng hàng?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD. Giao tuyến của hai mặt phẳng (SAC) và (ABCD) là:",
+    "options": ["AC", "BD", "SO", "SA"],
+    "correctAnswer": "AC"
+  },
+  {
+    "question": "Cho đường thẳng a nằm trong mặt phẳng (P) và đường thẳng b song song với (P). Vị trí tương đối của a và b là:",
+    "options": ["Song song hoặc chéo nhau", "Luôn song song", "Luôn chéo nhau", "Luôn cắt nhau"],
+    "correctAnswer": "Song song hoặc chéo nhau"
+  },
+  {
+    "question": "Nếu hai mặt phẳng song song bị cắt bởi một mặt phẳng thứ ba thì hai giao tuyến đó:",
+    "options": ["Song song với nhau", "Cắt nhau", "Trùng nhau", "Chéo nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Hình chiếu của một hình chữ nhật không song song với phương chiếu lên một mặt phẳng có thể là hình gì?",
+    "options": ["Hình bình hành", "Hình chữ nhật", "Đoạn thẳng", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Gọi M, N, P lần lượt là trung điểm của AB, AC, AD. Mặt phẳng (MNP) song song với mặt phẳng nào?",
+    "options": ["(BCD)", "(ABC)", "(ACD)", "(ABD)"],
+    "correctAnswer": "(BCD)"
+  },
+  {
+    "question": "Cho lăng trụ ABC.A'B'C'. Đường thẳng A'C song song với mặt phẳng nào?",
+    "options": ["Không có trong các đáp án", "(ABC)", "(BCC'B')", "(ABB'A')"],
+    "correctAnswer": "Không có trong các đáp án"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt không song song thì:",
+    "options": ["Cắt nhau hoặc chéo nhau", "Luôn cắt nhau", "Luôn chéo nhau", "Luôn đồng phẳng"],
+    "correctAnswer": "Cắt nhau hoặc chéo nhau"
+  },
+  {
+    "question": "Cho hình chóp S.ABCD có đáy là hình bình hành. Gọi M là trung điểm của CD. Thiết diện của hình chóp cắt bởi mặt phẳng (ABM) là:",
+    "options": ["Hình thang", "Hình bình hành", "Tam giác", "Ngũ giác"],
+    "correctAnswer": "Hình thang"
+  },
+  {
+    "question": "Phép chiếu song song có thể biến hai đường thẳng cắt nhau thành:",
+    "options": ["Hai đường thẳng cắt nhau hoặc song song", "Luôn là hai đường thẳng cắt nhau", "Hai đường thẳng trùng nhau", "Một đường thẳng và một điểm"],
+    "correctAnswer": "Hai đường thẳng cắt nhau hoặc song song"
+  },
+  {
+    "question": "Cho tứ diện ABCD. Tìm giao tuyến của (ABC) và (ABD).",
+    "options": ["AB", "AC", "AD", "BC"],
+    "correctAnswer": "AB"
+  },
+  {
+    "question": "Cho hình hộp ABCD.A'B'C'D'. Mệnh đề nào sau đây đúng?",
+    "options": ["Mặt phẳng (AA'C'C) là hình bình hành", "Bốn điểm A, B, C', D' đồng phẳng", "Đường thẳng A'C' song song với AB", "Thể tích hình hộp bằng AB.AD.AA'"],
+    "correctAnswer": "Mặt phẳng (AA'C'C) là hình bình hành"
+  },
+  {
+    "question": "Nếu một đường thẳng cắt hai đường thẳng song song thì chúng:",
+    "options": ["Đồng phẳng", "Không đồng phẳng", "Chéo nhau", "Vuông góc"],
+    "correctAnswer": "Đồng phẳng"
+  },
+  {
+    "question": "Cho hai mặt phẳng (P) và (Q) cắt nhau. Một đường thẳng a song song với (P). Vị trí của a và (Q) là:",
+    "options": ["Có thể song song, cắt hoặc nằm trong (Q)", "Luôn song song", "Luôn cắt", "Luôn nằm trong (Q)"],
+    "correctAnswer": "Có thể song song, cắt hoặc nằm trong (Q)"
+  },
+  {
+    "question": "Hình chiếu song song của một đường tròn lên một mặt phẳng không song song với mặt phẳng chứa đường tròn đó là:",
+    "options": ["Một hình elip", "Một đường tròn", "Một đoạn thẳng", "Một điểm"],
+    "correctAnswer": "Một hình elip"
+  }
+]
+
