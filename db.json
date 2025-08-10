@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Hệ thức lượng trong tam giác vuông",
                   "file": "./data/math-9-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Đường tròn",
+                  "file": "./data/math-9-chapter-5.json"
                 }
               ]
             }
