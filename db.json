@@ -1,6 +1,3 @@
-Chào bạn, chắc chắn rồi\! Dưới đây là nội dung của tệp `db.json` sau khi đã cập nhật chương mới nhất của lớp 11.
-
-```json
 {
   "grades": {
     "11": {
@@ -91,4 +88,3 @@ Chào bạn, chắc chắn rồi\! Dưới đây là nội dung của tệp `db.
     }
   }
 }
-```
