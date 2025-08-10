@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Hàm số mũ và hàm số lôgarit",
                   "file": "./data/math-11-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Quan hệ vuông góc trong không gian",
+                  "file": "./data/math-11-chapter-7.json"
                 }
               ]
             },
