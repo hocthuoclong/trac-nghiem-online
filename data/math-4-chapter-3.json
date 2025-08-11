@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Số 'Một trăm hai mươi ba nghìn bốn trăm năm mươi sáu' được viết là:",
+    "options": ["123 456", "123 450", "12 3456", "1 234 56"],
+    "correctAnswer": "123 456"
+  },
+  {
+    "question": "Số 1 000 000 được đọc là gì?",
+    "options": ["Một triệu", "Một trăm nghìn", "Mười triệu", "Một tỉ"],
+    "correctAnswer": "Một triệu"
+  },
+  {
+    "question": "Trong số 567 891, chữ số 5 thuộc hàng nào?",
+    "options": ["Hàng trăm nghìn", "Hàng chục nghìn", "Hàng nghìn", "Hàng triệu"],
+    "correctAnswer": "Hàng trăm nghìn"
+  },
+  {
+    "question": "Số 456 789 có mấy lớp?",
+    "options": ["2 lớp (lớp nghìn và lớp đơn vị)", "3 lớp", "1 lớp", "6 lớp"],
+    "correctAnswer": "2 lớp (lớp nghìn và lớp đơn vị)"
+  },
+  {
+    "question": "Lớp nghìn của số 987 123 gồm các chữ số nào?",
+    "options": ["9, 8, 7", "1, 2, 3", "9, 8", "7, 1, 2"],
+    "correctAnswer": "9, 8, 7"
+  },
+  {
+    "question": "Số 'Hai triệu không trăm linh năm nghìn một trăm' được viết là:",
+    "options": ["2 005 100", "2 050 100", "2 500 100", "2 005 010"],
+    "correctAnswer": "2 005 100"
+  },
+  {
+    "question": "Trong số 12 345 678, chữ số 2 thuộc hàng nào, lớp nào?",
+    "options": ["Hàng triệu, lớp triệu", "Hàng chục triệu, lớp triệu", "Hàng trăm nghìn, lớp nghìn", "Hàng triệu, lớp nghìn"],
+    "correctAnswer": "Hàng triệu, lớp triệu"
+  },
+  {
+    "question": "Làm tròn số 456 789 đến hàng trăm nghìn ta được:",
+    "options": ["500 000", "400 000", "460 000", "457 000"],
+    "correctAnswer": "500 000"
+  },
+  {
+    "question": "Làm tròn số 8 123 456 đến hàng trăm nghìn ta được:",
+    "options": ["8 100 000", "8 000 000", "8 200 000", "9 000 000"],
+    "correctAnswer": "8 100 000"
+  },
+  {
+    "question": "Số lớn nhất trong các số sau là số nào: 987 654; 1 234 567; 999 999; 1 000 000?",
+    "options": ["1 234 567", "987 654", "999 999", "1 000 000"],
+    "correctAnswer": "1 234 567"
+  },
+  {
+    "question": "So sánh hai số: 5 432 100 và 5 423 100.",
+    "options": ["5 432 100 > 5 423 100", "5 432 100 < 5 423 100", "5 432 100 = 5 423 100", "Không so sánh được"],
+    "correctAnswer": "5 432 100 > 5 423 100"
+  },
+  {
+    "question": "Dãy số tự nhiên bắt đầu từ số nào?",
+    "options": ["0", "1", "Không có số bắt đầu", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số liền sau của số 999 999 là số nào?",
+    "options": ["1 000 000", "999 998", "1 000 001", "999 990"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Số liền trước của số 1 000 000 là số nào?",
+    "options": ["999 999", "1 000 001", "999 990", "999 000"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Giá trị của chữ số 7 trong số 7 891 234 là:",
+    "options": ["7 000 000", "700 000", "70 000", "7"],
+    "correctAnswer": "7 000 000"
+  },
+  {
+    "question": "Số 300 000 là số liền sau của số nào?",
+    "options": ["299 999", "300 001", "299 990", "299 000"],
+    "correctAnswer": "299 999"
+  },
+  {
+    "question": "Số gồm: 5 triệu, 6 trăm nghìn, 3 chục nghìn, 2 nghìn, 1 trăm, 4 chục và 9 đơn vị được viết là:",
+    "options": ["5 632 149", "5 632 140", "56 321 49", "5 630 2149"],
+    "correctAnswer": "5 632 149"
+  },
+  {
+    "question": "Lớp đơn vị của số 12 345 678 gồm các chữ số nào?",
+    "options": ["6, 7, 8", "3, 4, 5", "1, 2", "5, 6, 7"],
+    "correctAnswer": "6, 7, 8"
+  },
+  {
+    "question": "Số 5 000 000 được đọc là:",
+    "options": ["Năm triệu", "Năm mươi triệu", "Năm trăm nghìn", "Năm tỉ"],
+    "correctAnswer": "Năm triệu"
+  },
+  {
+    "question": "Làm tròn số 987 654 đến hàng trăm nghìn ta được:",
+    "options": ["1 000 000", "900 000", "990 000", "980 000"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Số bé nhất trong các số sau là số nào: 456 789; 456 879; 456 798; 456 987?",
+    "options": ["456 789", "456 879", "456 798", "456 987"],
+    "correctAnswer": "456 789"
+  },
+  {
+    "question": "Dãy số tự nhiên có phải là dãy số vô hạn không?",
+    "options": ["Có", "Không", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hai số tự nhiên liên tiếp hơn kém nhau bao nhiêu đơn vị?",
+    "options": ["1 đơn vị", "2 đơn vị", "0 đơn vị", "10 đơn vị"],
+    "correctAnswer": "1 đơn vị"
+  },
+  {
+    "question": "Số 'Mười lăm triệu' được viết là:",
+    "options": ["15 000 000", "1 500 000", "150 000 000", "15 000"],
+    "correctAnswer": "15 000 000"
+  },
+  {
+    "question": "Trong số 9 876 543, chữ số nào thuộc lớp triệu?",
+    "options": ["9", "8", "7", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số 654 321 có chữ số hàng chục nghìn là:",
+    "options": ["5", "6", "4", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Làm tròn số 3 550 000 đến hàng trăm nghìn ta được:",
+    "options": ["3 600 000", "3 500 000", "4 000 000", "3 000 000"],
+    "correctAnswer": "3 600 000"
+  },
+  {
+    "question": "Số nào lớn hơn 2 345 678?",
+    "options": ["2 345 679", "2 345 670", "1 999 999", "2 345 000"],
+    "correctAnswer": "2 345 679"
+  },
+  {
+    "question": "Số nào bé hơn 1 000 000?",
+    "options": ["999 999", "1 000 001", "1 100 000", "10 000 000"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Số tự nhiên bé nhất là số nào?",
+    "options": ["0", "1", "Không có số bé nhất", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số liền sau của số 2 000 000 là:",
+    "options": ["2 000 001", "1 999 999", "2 000 010", "3 000 000"],
+    "correctAnswer": "2 000 001"
+  },
+  {
+    "question": "Số 87 654 321 được đọc là:",
+    "options": ["Tám mươi bảy triệu sáu trăm năm mươi tư nghìn ba trăm hai mươi mốt", "Tám bảy triệu sáu năm tư nghìn ba hai một", "Tám mươi bảy triệu sáu trăm năm mươi bốn nghìn ba trăm hai mươi mốt", "Tám mươi bảy triệu sáu trăm năm mươi tư nghìn ba trăm hai mươi một"],
+    "correctAnswer": "Tám mươi bảy triệu sáu trăm năm mươi tư nghìn ba trăm hai mươi mốt"
+  },
+  {
+    "question": "Giá trị của chữ số 3 trong số 123 456 789 là:",
+    "options": ["3 000 000", "30 000 000", "300 000", "3 000"],
+    "correctAnswer": "3 000 000"
+  },
+  {
+    "question": "Làm tròn số 499 000 đến hàng trăm nghìn:",
+    "options": ["500 000", "400 000", "490 000", "1 000 000"],
+    "correctAnswer": "500 000"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 1 234 567; 1 324 567; 1 243 567.",
+    "options": ["1 234 567; 1 243 567; 1 324 567", "1 324 567; 1 243 567; 1 234 567", "1 234 567; 1 324 567; 1 243 567", "1 243 567; 1 234 567; 1 324 567"],
+    "correctAnswer": "1 234 567; 1 243 567; 1 324 567"
+  },
+  {
+    "question": "Số tự nhiên lớn nhất có 6 chữ số là:",
+    "options": ["999 999", "1 000 000", "987 654", "999 990"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Số tự nhiên bé nhất có 7 chữ số là:",
+    "options": ["1 000 000", "9 999 999", "1 111 111", "1 234 567"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Số 'Ba trăm linh năm nghìn hai trăm' được viết là:",
+    "options": ["305 200", "350 200", "300 520", "305 020"],
+    "correctAnswer": "305 200"
+  },
+  {
+    "question": "Số 12 000 000 có bao nhiêu chữ số 0?",
+    "options": ["6", "7", "5", "2"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Chữ số 5 trong số 15 000 000 thuộc lớp nào?",
+    "options": ["Lớp triệu", "Lớp nghìn", "Lớp đơn vị", "Lớp tỉ"],
+    "correctAnswer": "Lớp triệu"
+  },
+  {
+    "question": "Làm tròn số 7 500 000 đến hàng trăm nghìn:",
+    "options": ["7 500 000", "7 000 000", "8 000 000", "7 600 000"],
+    "correctAnswer": "7 500 000"
+  },
+  {
+    "question": "Số nào có 8 chữ số?",
+    "options": ["12 345 678", "1 234 567", "123 456 789", "123 456"],
+    "correctAnswer": "12 345 678"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 999 998; 999 999; ...",
+    "options": ["1 000 000", "1 000 001", "999 997", "10 000 000"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Số tự nhiên không có số nào lớn nhất. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Số 450 000 là số liền trước của số nào?",
+    "options": ["450 001", "449 999", "450 010", "449 990"],
+    "correctAnswer": "450 001"
+  },
+  {
+    "question": "Số 10 000 000 được đọc là:",
+    "options": ["Mười triệu", "Một triệu", "Một trăm triệu", "Một tỉ"],
+    "correctAnswer": "Mười triệu"
+  },
+  {
+    "question": "Lớp nghìn của số 5 432 100 gồm các chữ số:",
+    "options": ["4, 3, 2", "5, 4, 3", "1, 0, 0", "2, 1, 0"],
+    "correctAnswer": "4, 3, 2"
+  },
+  {
+    "question": "Làm tròn số 19 876 543 đến hàng trăm nghìn:",
+    "options": ["19 900 000", "19 800 000", "20 000 000", "19 000 000"],
+    "correctAnswer": "19 900 000"
+  },
+  {
+    "question": "So sánh: 999 999 và 1 000 000",
+    "options": ["999 999 < 1 000 000", "999 999 > 1 000 000", "999 999 = 1 000 000", "Không so sánh được"],
+    "correctAnswer": "999 999 < 1 000 000"
+  },
+  {
+    "question": "Số tự nhiên liền sau của một số chẵn là một số...",
+    "options": ["Lẻ", "Chẵn", "Bằng 0", "Không xác định"],
+    "correctAnswer": "Lẻ"
+  },
+  {
+    "question": "Số tự nhiên liền trước của một số lẻ là một số...",
+    "options": ["Chẵn", "Lẻ", "Bằng 1", "Không xác định"],
+    "correctAnswer": "Chẵn"
+  },
+  {
+    "question": "Số 777 777 có chữ số hàng chục là:",
+    "options": ["7", "77", "70", "Không có"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số 'Chín trăm nghìn' được viết là:",
+    "options": ["900 000", "90 000", "9 000 000", "9000"],
+    "correctAnswer": "900 000"
+  },
+  {
+    "question": "Giá trị của chữ số 1 trong số 10 000 000 là:",
+    "options": ["10 000 000", "1 000 000", "100 000", "1"],
+    "correctAnswer": "10 000 000"
+  },
+  {
+    "question": "Làm tròn số 501 000 đến hàng trăm nghìn:",
+    "options": ["500 000", "600 000", "510 000", "501 000"],
+    "correctAnswer": "500 000"
+  },
+  {
+    "question": "Số lớn nhất có 7 chữ số là:",
+    "options": ["9 999 999", "1 000 000", "9 876 543", "9 999 990"],
+    "correctAnswer": "9 999 999"
+  },
+  {
+    "question": "Dãy số nào là dãy số tự nhiên?",
+    "options": ["0, 1, 2, 3, 4, ...", "1, 2, 3, 4, 5, ...", "0, 2, 4, 6, 8, ...", "1, 3, 5, 7, 9, ..."],
+    "correctAnswer": "0, 1, 2, 3, 4, ..."
+  },
+  {
+    "question": "Số 1 000 000 có mấy chữ số?",
+    "options": ["7", "6", "8", "1"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số liền trước của số 100 000 là:",
+    "options": ["99 999", "100 001", "99 990", "99 000"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "Số 'Năm trăm triệu' được viết là:",
+    "options": ["500 000 000", "50 000 000", "5 000 000", "500 000"],
+    "correctAnswer": "500 000 000"
+  },
+  {
+    "question": "Trong số 123 456, lớp nghìn gồm các hàng nào?",
+    "options": ["Hàng trăm nghìn, hàng chục nghìn, hàng nghìn", "Hàng nghìn, hàng trăm, hàng chục", "Hàng triệu, hàng trăm nghìn, hàng chục nghìn", "Hàng trăm, hàng chục, hàng đơn vị"],
+    "correctAnswer": "Hàng trăm nghìn, hàng chục nghìn, hàng nghìn"
+  },
+  {
+    "question": "Làm tròn số 1 250 000 đến hàng trăm nghìn:",
+    "options": ["1 300 000", "1 200 000", "1 000 000", "2 000 000"],
+    "correctAnswer": "1 300 000"
+  },
+  {
+    "question": "Số nhỏ nhất có 6 chữ số khác nhau là:",
+    "options": ["102 345", "100 000", "111 111", "123 450"],
+    "correctAnswer": "102 345"
+  },
+  {
+    "question": "Số 0 có phải là số tự nhiên không?",
+    "options": ["Có", "Không", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số liền sau của 0 là:",
+    "options": ["1", " -1", "0", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Số 25 000 000 có chữ số hàng triệu là:",
+    "options": ["5", "2", "0", "Không có"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số 'Một trăm linh một nghìn không trăm mười' được viết là:",
+    "options": ["101 010", "101 110", "110 010", "100 110"],
+    "correctAnswer": "101 010"
+  },
+  {
+    "question": "Giá trị của chữ số 8 trong số 80 000 000 là:",
+    "options": ["80 000 000", "8 000 000", "800 000", "8"],
+    "correctAnswer": "80 000 000"
+  },
+  {
+    "question": "Làm tròn số 9 543 210 đến hàng trăm nghìn:",
+    "options": ["9 500 000", "9 600 000", "9 000 000", "10 000 000"],
+    "correctAnswer": "9 500 000"
+  },
+  {
+    "question": "Sắp xếp theo thứ tự từ lớn đến bé: 5 432 100; 5 342 100; 5 423 100.",
+    "options": ["5 432 100; 5 423 100; 5 342 100", "5 342 100; 5 423 100; 5 432 100", "5 423 100; 5 432 100; 5 342 100", "5 342 100; 5 432 100; 5 423 100"],
+    "correctAnswer": "5 432 100; 5 423 100; 5 342 100"
+  },
+  {
+    "question": "Số liền trước của số bé nhất có 7 chữ số là:",
+    "options": ["999 999", "1 000 000", "1 000 001", "999 990"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Trong các số sau, số nào có chữ số 5 ở lớp triệu: 123 456; 5 123 456; 15 123 456?",
+    "options": ["Cả 5 123 456 và 15 123 456", "Chỉ 5 123 456", "Chỉ 15 123 456", "Không có số nào"],
+    "correctAnswer": "Cả 5 123 456 và 15 123 456"
+  },
+  {
+    "question": "Số 999 999 là số liền trước của số nào?",
+    "options": ["1 000 000", "999 998", "1 000 001", "999 990"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Số 1 234 567 có chữ số hàng trăm là:",
+    "options": ["5", "4", "6", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số 'Hai trăm triệu' được viết là:",
+    "options": ["200 000 000", "20 000 000", "2 000 000", "200 000"],
+    "correctAnswer": "200 000 000"
+  },
+  {
+    "question": "Lớp triệu của số 123 456 789 gồm các chữ số:",
+    "options": ["1, 2, 3", "4, 5, 6", "7, 8, 9", "3, 4, 5"],
+    "correctAnswer": "1, 2, 3"
+  },
+  {
+    "question": "Làm tròn số 888 888 đến hàng trăm nghìn:",
+    "options": ["900 000", "800 000", "890 000", "880 000"],
+    "correctAnswer": "900 000"
+  },
+  {
+    "question": "Số lớn nhất có 6 chữ số khác nhau là:",
+    "options": ["987 654", "999 999", "102 345", "987 650"],
+    "correctAnswer": "987 654"
+  },
+  {
+    "question": "Số tự nhiên liền sau của 1 000 000 là:",
+    "options": ["1 000 001", "999 999", "1 000 010", "2 000 000"],
+    "correctAnswer": "1 000 001"
+  },
+  {
+    "question": "Số gồm 1 triệu, 1 nghìn và 1 đơn vị được viết là:",
+    "options": ["1 001 001", "1 101", "1 000 101", "1 001 010"],
+    "correctAnswer": "1 001 001"
+  },
+  {
+    "question": "Số 1 000 000 000 được đọc là:",
+    "options": ["Một tỉ", "Một triệu", "Một trăm triệu", "Mười triệu"],
+    "correctAnswer": "Một tỉ"
+  },
+  {
+    "question": "Chữ số 9 trong số 19 000 000 có giá trị là:",
+    "options": ["9 000 000", "90 000 000", "900 000", "90 000"],
+    "correctAnswer": "9 000 000"
+  },
+  {
+    "question": "Làm tròn số 651 000 đến hàng trăm nghìn:",
+    "options": ["700 000", "600 000", "650 000", "1 000 000"],
+    "correctAnswer": "700 000"
+  },
+  {
+    "question": "Số nào là số lớn nhất có 7 chữ số khác nhau?",
+    "options": ["9 876 543", "9 999 999", "1 023 456", "9 876 540"],
+    "correctAnswer": "9 876 543"
+  },
+  {
+    "question": "Số liền trước của 1 là:",
+    "options": ["0", "2", "-1", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 100 000 000 có bao nhiêu chữ số 0?",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số bé nhất có 8 chữ số là:",
+    "options": ["10 000 000", "99 999 999", "11 111 111", "10 123 456"],
+    "correctAnswer": "10 000 000"
+  },
+  {
+    "question": "Số 1 000 000 là số chẵn hay số lẻ?",
+    "options": ["Số chẵn", "Số lẻ", "Vừa chẵn vừa lẻ", "Không phải chẵn cũng không phải lẻ"],
+    "correctAnswer": "Số chẵn"
+  },
+  {
+    "question": "Số liền sau của số tự nhiên a là:",
+    "options": ["a + 1", "a - 1", "a", "a x 2"],
+    "correctAnswer": "a + 1"
+  },
+  {
+    "question": "Số liền trước của số tự nhiên b (với b > 0) là:",
+    "options": ["b - 1", "b + 1", "b", "b : 2"],
+    "correctAnswer": "b - 1"
+  }
+]
+
