@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Số 'Bốn nghìn năm trăm sáu mươi hai' được viết là:",
+    "options": ["4562", "4560", "4062", "4502"],
+    "correctAnswer": "4562"
+  },
+  {
+    "question": "Số 8731 được đọc là:",
+    "options": ["Tám nghìn bảy trăm ba mươi mốt", "Tám bảy ba một", "Tám nghìn bảy trăm ba mươi một", "Tám nghìn bảy trăm ba một"],
+    "correctAnswer": "Tám nghìn bảy trăm ba mươi mốt"
+  },
+  {
+    "question": "Số 10000 được đọc là:",
+    "options": ["Mười nghìn", "Một nghìn", "Một trăm nghìn", "Một vạn"],
+    "correctAnswer": "Mười nghìn"
+  },
+  {
+    "question": "Trong số 5678, chữ số 6 thuộc hàng nào?",
+    "options": ["Hàng trăm", "Hàng nghìn", "Hàng chục", "Hàng đơn vị"],
+    "correctAnswer": "Hàng trăm"
+  },
+  {
+    "question": "So sánh: 4567 và 4576.",
+    "options": ["4567 < 4576", "4567 > 4576", "4567 = 4576", "Không so sánh được"],
+    "correctAnswer": "4567 < 4576"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 8976, 8796, 8967, 8769 là:",
+    "options": ["8976", "8796", "8967", "8769"],
+    "correctAnswer": "8976"
+  },
+  {
+    "question": "Chữ số La Mã V biểu thị số mấy?",
+    "options": ["5", "1", "10", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Chữ số La Mã X biểu thị số mấy?",
+    "options": ["10", "5", "1", "11"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số 4 được viết bằng chữ số La Mã là:",
+    "options": ["IV", "IIII", "VI", "IIV"],
+    "correctAnswer": "IV"
+  },
+  {
+    "question": "Làm tròn số 78 đến hàng chục ta được:",
+    "options": ["80", "70", "75", "100"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Làm tròn số 43 đến hàng chục ta được:",
+    "options": ["40", "50", "45", "30"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Làm tròn số 256 đến hàng trăm ta được:",
+    "options": ["300", "200", "250", "260"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Làm tròn số 821 đến hàng trăm ta được:",
+    "options": ["800", "900", "820", "850"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Số liền sau của số 9999 là:",
+    "options": ["10000", "9998", "1000", "9990"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Số gồm 6 nghìn, 0 trăm, 5 chục và 1 đơn vị được viết là:",
+    "options": ["6051", "6510", "6015", "6501"],
+    "correctAnswer": "6051"
+  },
+  {
+    "question": "So sánh: 9876 và 10000.",
+    "options": ["9876 < 10000", "9876 > 10000", "9876 = 10000", "Không so sánh được"],
+    "correctAnswer": "9876 < 10000"
+  },
+  {
+    "question": "Chữ số La Mã IX biểu thị số mấy?",
+    "options": ["9", "11", "10", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số 12 được viết bằng chữ số La Mã là:",
+    "options": ["XII", "IIX", "XXII", "X II"],
+    "correctAnswer": "XII"
+  },
+  {
+    "question": "Làm tròn số 145 đến hàng chục ta được:",
+    "options": ["150", "140", "100", "200"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Làm tròn số 750 đến hàng trăm ta được:",
+    "options": ["800", "700", "750", "1000"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Số liền trước của 5432 là:",
+    "options": ["5431", "5433", "5430", "5422"],
+    "correctAnswer": "5431"
+  },
+  {
+    "question": "Số bé nhất có bốn chữ số là:",
+    "options": ["1000", "1001", "1111", "9999"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số bé nhất trong các số: 2034, 2304, 2043, 2340 là:",
+    "options": ["2034", "2304", "2043", "2340"],
+    "correctAnswer": "2034"
+  },
+  {
+    "question": "Chữ số La Mã VI biểu thị số mấy?",
+    "options": ["6", "4", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số 20 được viết bằng chữ số La Mã là:",
+    "options": ["XX", "XVV", "IXX", "X X"],
+    "correctAnswer": "XX"
+  },
+  {
+    "question": "Làm tròn số 987 đến hàng chục ta được:",
+    "options": ["990", "980", "1000", "900"],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "Làm tròn số 1024 đến hàng trăm ta được:",
+    "options": ["1000", "1100", "1020", "1030"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số 2050 được đọc là:",
+    "options": ["Hai nghìn không trăm năm mươi", "Hai nghìn năm mươi", "Hai không năm không", "Hai nghìn linh năm mươi"],
+    "correctAnswer": "Hai nghìn không trăm năm mươi"
+  },
+  {
+    "question": "Giá trị của chữ số 3 trong số 1234 là:",
+    "options": ["30", "3", "300", "3000"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "So sánh: 7890 và 7809.",
+    "options": ["7890 > 7809", "7890 < 7809", "7890 = 7809", "Không so sánh được"],
+    "correctAnswer": "7890 > 7809"
+  },
+  {
+    "question": "Chữ số La Mã XI biểu thị số mấy?",
+    "options": ["11", "9", "10", "12"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Số 7 được viết bằng chữ số La Mã là:",
+    "options": ["VII", "IIV", "IIX", "V II"],
+    "correctAnswer": "VII"
+  },
+  {
+    "question": "Làm tròn số 55 đến hàng chục:",
+    "options": ["60", "50", "55", "100"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Làm tròn số 951 đến hàng trăm:",
+    "options": ["1000", "900", "950", "960"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số lớn nhất có bốn chữ số là:",
+    "options": ["9999", "1000", "9876", "9990"],
+    "correctAnswer": "9999"
+  },
+  {
+    "question": "Số 3456 được viết thành tổng là:",
+    "options": ["3000 + 400 + 50 + 6", "300 + 40 + 5 + 6", "3000 + 40 + 50 + 6", "3 + 4 + 5 + 6"],
+    "correctAnswer": "3000 + 400 + 50 + 6"
+  },
+  {
+    "question": "Số liền sau của 6099 là:",
+    "options": ["6100", "6098", "6101", "7000"],
+    "correctAnswer": "6100"
+  },
+  {
+    "question": "Chữ số La Mã XIV biểu thị số mấy?",
+    "options": ["14", "16", "9", "15"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Số 19 được viết bằng chữ số La Mã là:",
+    "options": ["XIX", "IXX", "XVIIII", "XXI"],
+    "correctAnswer": "XIX"
+  },
+  {
+    "question": "Làm tròn số 349 đến hàng chục:",
+    "options": ["350", "340", "300", "400"],
+    "correctAnswer": "350"
+  },
+  {
+    "question": "Làm tròn số 4444 đến hàng trăm:",
+    "options": ["4400", "4500", "4000", "4440"],
+    "correctAnswer": "4400"
+  },
+  {
+    "question": "Số 'Chín nghìn không trăm linh chín' được viết là:",
+    "options": ["9009", "9090", "9900", "909"],
+    "correctAnswer": "9009"
+  },
+  {
+    "question": "Trong số 10000, chữ số 1 thuộc hàng nào?",
+    "options": ["Hàng chục nghìn", "Hàng nghìn", "Hàng trăm", "Hàng triệu"],
+    "correctAnswer": "Hàng chục nghìn"
+  },
+  {
+    "question": "Số bé nhất có bốn chữ số khác nhau là:",
+    "options": ["1023", "1000", "1111", "1230"],
+    "correctAnswer": "1023"
+  },
+  {
+    "question": "Chữ số La Mã I có thể đứng trước V và X mấy lần?",
+    "options": ["Một lần", "Hai lần", "Ba lần", "Không lần nào"],
+    "correctAnswer": "Một lần"
+  },
+  {
+    "question": "Số 3 được viết bằng chữ số La Mã là:",
+    "options": ["III", "II", "IV", "IIV"],
+    "correctAnswer": "III"
+  },
+  {
+    "question": "Làm tròn số 82 đến hàng chục:",
+    "options": ["80", "90", "85", "100"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Làm tròn số 1500 đến hàng trăm:",
+    "options": ["1500", "1600", "1000", "2000"],
+    "correctAnswer": "1500"
+  },
+  {
+    "question": "Số liền trước của 10000 là:",
+    "options": ["9999", "10001", "9990", "9900"],
+    "correctAnswer": "9999"
+  },
+  {
+    "question": "Số lớn nhất có bốn chữ số khác nhau là:",
+    "options": ["9876", "9999", "1023", "9870"],
+    "correctAnswer": "9876"
+  },
+  {
+    "question": "So sánh: 5010 và 5100.",
+    "options": ["5010 < 5100", "5010 > 5100", "5010 = 5100", "Không so sánh được"],
+    "correctAnswer": "5010 < 5100"
+  },
+  {
+    "question": "Chữ số La Mã XVI biểu thị số mấy?",
+    "options": ["16", "14", "15", "26"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Số 8 được viết bằng chữ số La Mã là:",
+    "options": ["VIII", "IIX", "XII", "V III"],
+    "correctAnswer": "VIII"
+  },
+  {
+    "question": "Làm tròn số 299 đến hàng chục:",
+    "options": ["300", "290", "200", "310"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Làm tròn số 3850 đến hàng trăm:",
+    "options": ["3900", "3800", "4000", "3000"],
+    "correctAnswer": "3900"
+  },
+  {
+    "question": "Số 7070 được đọc là:",
+    "options": ["Bảy nghìn không trăm bảy mươi", "Bảy nghìn bảy mươi", "Bảy không bảy không", "Bảy nghìn linh bảy mươi"],
+    "correctAnswer": "Bảy nghìn không trăm bảy mươi"
+  },
+  {
+    "question": "Giá trị của chữ số 5 trong số 5000 là:",
+    "options": ["5000", "500", "50", "5"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Số tròn nghìn liền sau số 3456 là:",
+    "options": ["4000", "3000", "3500", "3400"],
+    "correctAnswer": "4000"
+  },
+  {
+    "question": "Chữ số La Mã XX biểu thị số mấy?",
+    "options": ["20", "19", "21", "1010"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Số 15 được viết bằng chữ số La Mã là:",
+    "options": ["XV", "VX", "VVV", "XIIII"],
+    "correctAnswer": "XV"
+  },
+  {
+    "question": "Làm tròn số 65 đến hàng chục:",
+    "options": ["70", "60", "65", "100"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Làm tròn số 1980 đến hàng trăm:",
+    "options": ["2000", "1900", "1980", "1990"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Số 10000 có mấy chữ số?",
+    "options": ["5", "4", "1", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Dãy số nào được sắp xếp theo thứ tự từ bé đến lớn?",
+    "options": ["1234, 2345, 3456, 4567", "4567, 3456, 2345, 1234", "1234, 3456, 2345, 4567", "2345, 1234, 4567, 3456"],
+    "correctAnswer": "1234, 2345, 3456, 4567"
+  },
+  {
+    "question": "Chữ số La Mã nào không được lặp lại quá 3 lần?",
+    "options": ["I, X", "V, L, D", "Tất cả các chữ số", "Chỉ có I"],
+    "correctAnswer": "I, X"
+  },
+  {
+    "question": "Chữ số La Mã nào không bao giờ được lặp lại?",
+    "options": ["V", "I", "X", "C"],
+    "correctAnswer": "V"
+  },
+  {
+    "question": "Làm tròn số 8 đến hàng chục:",
+    "options": ["10", "0", "8", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Làm tròn số 99 đến hàng trăm:",
+    "options": ["100", "0", "90", "200"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số 'Một nghìn không trăm linh một' được viết là:",
+    "options": ["1001", "1010", "1101", "101"],
+    "correctAnswer": "1001"
+  },
+  {
+    "question": "Trong số 9876, chữ số hàng chục là:",
+    "options": ["7", "9", "8", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số tròn trăm ở giữa 400 và 600 là:",
+    "options": ["500", "450", "550", "400"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Số 11 được viết bằng chữ số La Mã là:",
+    "options": ["XI", "IX", "IIX", "X I"],
+    "correctAnswer": "XI"
+  },
+  {
+    "question": "Chữ số La Mã XIX biểu thị số mấy?",
+    "options": ["19", "21", "18", "20"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Làm tròn số 123 đến hàng chục:",
+    "options": ["120", "130", "100", "125"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Làm tròn số 567 đến hàng trăm:",
+    "options": ["600", "500", "570", "560"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Số 10000 là số liền sau của số nào?",
+    "options": ["9999", "9998", "10001", "9990"],
+    "correctAnswer": "9999"
+  },
+  {
+    "question": "Số lớn nhất có bốn chữ số mà các chữ số đều chẵn là:",
+    "options": ["8888", "9876", "8642", "9998"],
+    "correctAnswer": "8888"
+  },
+  {
+    "question": "So sánh: 3000 + 400 + 5 và 3405",
+    "options": ["Bằng nhau", "Lớn hơn", "Bé hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số 14 được viết bằng chữ số La Mã là:",
+    "options": ["XIV", "XVI", "XIIII", "IVX"],
+    "correctAnswer": "XIV"
+  },
+  {
+    "question": "Chữ số La Mã VII biểu thị số mấy?",
+    "options": ["7", "8", "6", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Làm tròn số 91 đến hàng chục:",
+    "options": ["90", "100", "95", "80"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Làm tròn số 249 đến hàng trăm:",
+    "options": ["200", "300", "250", "240"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Số 5000 là số tròn nghìn. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Giá trị của chữ số 2 trong số 2000 và trong số 20 là khác nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Bằng nhau", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Số bé nhất có bốn chữ số mà tổng các chữ số bằng 10 là:",
+    "options": ["1027", "1234", "1009", "1126"],
+    "correctAnswer": "1009"
+  },
+  {
+    "question": "Số 21 được viết bằng chữ số La Mã là:",
+    "options": ["XXI", "IXX", "XIXI", "XVVI"],
+    "correctAnswer": "XXI"
+  },
+  {
+    "question": "Chữ số La Mã III biểu thị số mấy?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Làm tròn số 777 đến hàng chục:",
+    "options": ["780", "770", "800", "700"],
+    "correctAnswer": "780"
+  },
+  {
+    "question": "Làm tròn số 777 đến hàng trăm:",
+    "options": ["800", "700", "780", "770"],
+    "correctAnswer": "800"
+  }
+]
+
