@@ -60,6 +60,10 @@
                 {
                   "name": "Chương 14: Nhân, chia trong phạm vi 100000",
                   "file": "./data/math-3-chapter-14.json"
+                },
+                {
+                  "name": "Chương 15: Làm quen với yếu tố thống kê, xác suất",
+                  "file": "./data/math-3-chapter-15.json"
                 }
               ]
             },
