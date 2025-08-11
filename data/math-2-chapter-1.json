@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Số 'Năm mươi bảy' được viết là:",
+    "options": ["57", "75", "50", "07"],
+    "correctAnswer": "57"
+  },
+  {
+    "question": "Số 81 được đọc là:",
+    "options": ["Tám mươi mốt", "Tám một", "Tám mươi nhất", "Tám mươi"],
+    "correctAnswer": "Tám mươi mốt"
+  },
+  {
+    "question": "Số gồm 6 chục và 2 đơn vị là số nào?",
+    "options": ["62", "26", "60", "2"],
+    "correctAnswer": "62"
+  },
+  {
+    "question": "Trong số 93, chữ số 9 có giá trị là:",
+    "options": ["90", "9", "3", "93"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 34, 43, 29, 50 là:",
+    "options": ["50", "43", "34", "29"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số bé nhất trong các số: 78, 87, 69, 96 là:",
+    "options": ["69", "78", "87", "96"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "Điền dấu thích hợp vào chỗ trống: 45 ___ 54",
+    "options": ["<", ">", "=", "+"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Điền dấu thích hợp vào chỗ trống: 78 ___ 78",
+    "options": ["=", "<", ">", "-"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Số liền sau của số 39 là:",
+    "options": ["40", "38", "30", "41"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Số liền trước của số 80 là:",
+    "options": ["79", "81", "70", "82"],
+    "correctAnswer": "79"
+  },
+  {
+    "question": "Trên tia số, số đứng ngay sau số 25 là:",
+    "options": ["26", "24", "27", "23"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "Trên tia số, số đứng ngay trước số 61 là:",
+    "options": ["60", "62", "59", "63"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Trong phép cộng 25 + 10 = 35, số 25 được gọi là gì?",
+    "options": ["Số hạng", "Tổng", "Hiệu", "Số trừ"],
+    "correctAnswer": "Số hạng"
+  },
+  {
+    "question": "Trong phép cộng 25 + 10 = 35, số 35 được gọi là gì?",
+    "options": ["Tổng", "Số hạng", "Hiệu", "Số bị trừ"],
+    "correctAnswer": "Tổng"
+  },
+  {
+    "question": "Trong phép trừ 50 - 20 = 30, số 50 được gọi là gì?",
+    "options": ["Số bị trừ", "Số trừ", "Hiệu", "Tổng"],
+    "correctAnswer": "Số bị trừ"
+  },
+  {
+    "question": "Trong phép trừ 50 - 20 = 30, số 20 được gọi là gì?",
+    "options": ["Số trừ", "Số bị trừ", "Hiệu", "Số hạng"],
+    "correctAnswer": "Số trừ"
+  },
+  {
+    "question": "Trong phép trừ 50 - 20 = 30, số 30 được gọi là gì?",
+    "options": ["Hiệu", "Tổng", "Số bị trừ", "Số trừ"],
+    "correctAnswer": "Hiệu"
+  },
+  {
+    "question": "Tổng của 40 và 30 là:",
+    "options": ["70", "10", "60", "80"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Hiệu của 60 và 20 là:",
+    "options": ["40", "80", "30", "50"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Lớp 2A có 25 học sinh, lớp 2B có 24 học sinh. Cả hai lớp có tất cả bao nhiêu học sinh?",
+    "options": ["49 học sinh", "1 học sinh", "48 học sinh", "50 học sinh"],
+    "correctAnswer": "49 học sinh"
+  },
+  {
+    "question": "An có 15 viên bi, An cho Bình 5 viên bi. An còn lại bao nhiêu viên bi?",
+    "options": ["10 viên bi", "20 viên bi", "5 viên bi", "12 viên bi"],
+    "correctAnswer": "10 viên bi"
+  },
+  {
+    "question": "Cành trên có 12 con chim, cành dưới có ít hơn cành trên 4 con chim. Hỏi cành dưới có mấy con chim?",
+    "options": ["8 con chim", "16 con chim", "4 con chim", "10 con chim"],
+    "correctAnswer": "8 con chim"
+  },
+  {
+    "question": "Mẹ 35 tuổi, con kém mẹ 30 tuổi. Hỏi con bao nhiêu tuổi?",
+    "options": ["5 tuổi", "65 tuổi", "30 tuổi", "10 tuổi"],
+    "correctAnswer": "5 tuổi"
+  },
+  {
+    "question": "Kết quả của phép tính 34 + 21 là:",
+    "options": ["55", "53", "45", "65"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Kết quả của phép tính 68 - 43 là:",
+    "options": ["25", "24", "35", "101"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Kết quả của phép tính 70 + 28 là:",
+    "options": ["98", "90", "52", "88"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Kết quả của phép tính 99 - 9 là:",
+    "options": ["90", "9", "108", "89"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số 'Chín mươi chín' được viết là:",
+    "options": ["99", "90", "09", "19"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số 40 được đọc là:",
+    "options": ["Bốn mươi", "Bốn không", "Mười bốn", "Bốn chục"],
+    "correctAnswer": "Bốn mươi"
+  },
+  {
+    "question": "Số gồm 3 chục và 0 đơn vị là số nào?",
+    "options": ["30", "03", "3", "33"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Trong số 28, chữ số 8 có giá trị là:",
+    "options": ["8", "80", "2", "20"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số liền sau của số 99 là:",
+    "options": ["100", "98", "90", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số liền trước của số 1 là:",
+    "options": ["0", "2", "10", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tìm một số hạng, biết tổng là 50 và số hạng kia là 20.",
+    "options": ["30", "70", "20", "50"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tìm số bị trừ, biết số trừ là 15 và hiệu là 40.",
+    "options": ["55", "25", "15", "40"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Tìm số trừ, biết số bị trừ là 75 và hiệu là 25.",
+    "options": ["50", "100", "75", "25"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Thùng thứ nhất có 35 lít dầu, thùng thứ hai nhiều hơn thùng thứ nhất 12 lít. Hỏi thùng thứ hai có bao nhiêu lít dầu?",
+    "options": ["47 lít", "23 lít", "12 lít", "35 lít"],
+    "correctAnswer": "47 lít"
+  },
+  {
+    "question": "Kết quả của phép tính 11 + 22 + 33 là:",
+    "options": ["66", "55", "77", "33"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Kết quả của phép tính 88 - 44 - 11 là:",
+    "options": ["33", "44", "22", "55"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Số tròn chục lớn nhất có hai chữ số là:",
+    "options": ["90", "99", "10", "100"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số tròn chục bé nhất có hai chữ số là:",
+    "options": ["10", "20", "0", "90"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số 65 gồm mấy chục và mấy đơn vị?",
+    "options": ["6 chục và 5 đơn vị", "5 chục và 6 đơn vị", "60 chục và 5 đơn vị", "6 chục và 50 đơn vị"],
+    "correctAnswer": "6 chục và 5 đơn vị"
+  },
+  {
+    "question": "Số liền trước của số 20 là:",
+    "options": ["19", "21", "18", "22"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Số liền sau của số 79 là:",
+    "options": ["80", "78", "81", "77"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Tổng của 56 và 20 là:",
+    "options": ["76", "36", "70", "66"],
+    "correctAnswer": "76"
+  },
+  {
+    "question": "Hiệu của 87 và 30 là:",
+    "options": ["57", "117", "50", "67"],
+    "correctAnswer": "57"
+  },
+  {
+    "question": "Năm nay anh 18 tuổi, em kém anh 7 tuổi. Hỏi năm nay em bao nhiêu tuổi?",
+    "options": ["11 tuổi", "25 tuổi", "7 tuổi", "10 tuổi"],
+    "correctAnswer": "11 tuổi"
+  },
+  {
+    "question": "Kết quả của phép tính 45 + 54 là:",
+    "options": ["99", "98", "100", "89"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Kết quả của phép tính 76 - 23 là:",
+    "options": ["53", "52", "54", "99"],
+    "correctAnswer": "53"
+  },
+  {
+    "question": "Số 'Một trăm' được viết là:",
+    "options": ["100", "10", "01", "1000"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số 19 được đọc là:",
+    "options": ["Mười chín", "Một chín", "Mười chính", "Chín mươi một"],
+    "correctAnswer": "Mười chín"
+  },
+  {
+    "question": "So sánh: 87 và 78",
+    "options": ["87 > 78", "87 < 78", "87 = 78", "Không so sánh được"],
+    "correctAnswer": "87 > 78"
+  },
+  {
+    "question": "Trên tia số, số nằm giữa 49 và 51 là:",
+    "options": ["50", "48", "52", "49"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Nếu một số hạng là 40 và tổng là 90 thì số hạng còn lại là:",
+    "options": ["50", "130", "40", "90"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Nếu số bị trừ là 65 và hiệu là 20 thì số trừ là:",
+    "options": ["45", "85", "65", "20"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Vườn nhà Mai có 26 cây cam, vườn nhà Hoa có nhiều hơn vườn nhà Mai 12 cây. Hỏi vườn nhà Hoa có bao nhiêu cây cam?",
+    "options": ["38 cây", "14 cây", "26 cây", "12 cây"],
+    "correctAnswer": "38 cây"
+  },
+  {
+    "question": "Kết quả của phép tính 20 + 30 + 40 là:",
+    "options": ["90", "70", "80", "100"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Kết quả của phép tính 90 - 50 - 20 là:",
+    "options": ["20", "40", "30", "60"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số là:",
+    "options": ["10", "11", "99", "01"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số là:",
+    "options": ["99", "98", "10", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số 77 được đọc là:",
+    "options": ["Bảy mươi bảy", "Bảy bảy", "Bảy mươi bẩy", "Bảy chục bảy"],
+    "correctAnswer": "Bảy mươi bảy"
+  },
+  {
+    "question": "Số liền trước của số 50 là:",
+    "options": ["49", "51", "48", "40"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "Số liền sau của số 10 là:",
+    "options": ["11", "9", "12", "8"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Trong phép tính 80 - 30 = 50, các số 80, 30, 50 lần lượt được gọi là gì?",
+    "options": ["Số bị trừ, số trừ, hiệu", "Số trừ, số bị trừ, hiệu", "Số hạng, số hạng, tổng", "Tổng, số hạng, số hạng"],
+    "correctAnswer": "Số bị trừ, số trừ, hiệu"
+  },
+  {
+    "question": "Trong phép tính 42 + 15 = 57, các số 42, 15, 57 lần lượt được gọi là gì?",
+    "options": ["Số hạng, số hạng, tổng", "Tổng, số hạng, số hạng", "Số bị trừ, số trừ, hiệu", "Số trừ, số bị trừ, hiệu"],
+    "correctAnswer": "Số hạng, số hạng, tổng"
+  },
+  {
+    "question": "Sợi dây dài 75 cm, người ta cắt đi 25 cm. Hỏi sợi dây còn lại dài bao nhiêu?",
+    "options": ["50 cm", "100 cm", "75 cm", "25 cm"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "Kết quả của phép tính 62 + 17 là:",
+    "options": ["79", "78", "89", "80"],
+    "correctAnswer": "79"
+  },
+  {
+    "question": "Kết quả của phép tính 88 - 11 là:",
+    "options": ["77", "99", "78", "87"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "Số gồm 8 chục và 8 đơn vị là số nào?",
+    "options": ["88", "80", "8", "16"],
+    "correctAnswer": "88"
+  },
+  {
+    "question": "So sánh: 30 + 20 và 60 - 10",
+    "options": ["Bằng nhau", "Bên trái lớn hơn", "Bên phải lớn hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số liền trước của số lớn nhất có hai chữ số là:",
+    "options": ["98", "99", "100", "97"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Số liền sau của số bé nhất có hai chữ số là:",
+    "options": ["11", "10", "9", "12"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Hiệu của 95 và 42 là:",
+    "options": ["53", "52", "54", "137"],
+    "correctAnswer": "53"
+  },
+  {
+    "question": "Tổng của 12 và 75 là:",
+    "options": ["87", "86", "63", "88"],
+    "correctAnswer": "87"
+  },
+  {
+    "question": "Bố 48 tuổi, mẹ kém bố 5 tuổi. Hỏi mẹ bao nhiêu tuổi?",
+    "options": ["43 tuổi", "53 tuổi", "48 tuổi", "5 tuổi"],
+    "correctAnswer": "43 tuổi"
+  },
+  {
+    "question": "Kết quả của phép tính 31 + 13 là:",
+    "options": ["44", "43", "34", "22"],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "Kết quả của phép tính 55 - 55 là:",
+    "options": ["0", "110", "1", "55"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 'Sáu mươi' được viết là:",
+    "options": ["60", "06", "6", "16"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Số 25 được đọc là:",
+    "options": ["Hai mươi lăm", "Hai lăm", "Hai mươi năm", "Hai năm"],
+    "correctAnswer": "Hai mươi lăm"
+  },
+  {
+    "question": "Trong số 44, chữ số ở hàng chục có giá trị là:",
+    "options": ["40", "4", "0", "44"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Số nào nằm giữa 89 và 91?",
+    "options": ["90", "88", "92", "89"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Tổng của hai số hạng là 70, một số hạng là 30. Số hạng kia là:",
+    "options": ["40", "100", "70", "30"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Hiệu của hai số là 15, số trừ là 20. Số bị trừ là:",
+    "options": ["35", "5", "15", "20"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Trên cành cây có 16 con chim, một lúc sau có thêm 12 con bay đến. Hỏi trên cành có tất cả bao nhiêu con chim?",
+    "options": ["28 con", "4 con", "16 con", "12 con"],
+    "correctAnswer": "28 con"
+  },
+  {
+    "question": "Kết quả của phép tính 10 + 20 + 30 + 10 là:",
+    "options": ["70", "60", "80", "50"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Kết quả của phép tính 99 - 11 - 22 là:",
+    "options": ["66", "77", "88", "55"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số giống nhau là:",
+    "options": ["11", "10", "22", "99"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là:",
+    "options": ["98", "99", "89", "97"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: 40 + ___ = 65",
+    "options": ["25", "105", "40", "65"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Điền số thích hợp vào chỗ trống: ___ - 20 = 50",
+    "options": ["70", "30", "20", "50"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Số liền sau của 89 là:",
+    "options": ["90", "88", "91", "87"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số liền trước của 31 là:",
+    "options": ["30", "32", "29", "33"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tổng của 60 và 18 là:",
+    "options": ["78", "42", "70", "68"],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "Hiệu của 79 và 9 là:",
+    "options": ["70", "88", "79", "9"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Bà 65 tuổi, cháu kém bà 54 tuổi. Hỏi cháu bao nhiêu tuổi?",
+    "options": ["11 tuổi", "119 tuổi", "65 tuổi", "54 tuổi"],
+    "correctAnswer": "11 tuổi"
+  },
+  {
+    "question": "Kết quả của phép tính 2 + 35 là:",
+    "options": ["37", "33", "55", "36"],
+    "correctAnswer": "37"
+  }
+]
+
