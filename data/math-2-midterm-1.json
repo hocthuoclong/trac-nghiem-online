@@ -1,0 +1,663 @@
+[
+  {
+    "question": "Số 'Bảy mươi hai' được viết là:",
+    "options": ["72", "27", "70", "720"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Số 91 được đọc là:",
+    "options": ["Chín mươi mốt", "Chín một", "Chín mươi nhất", "Mười chín"],
+    "correctAnswer": "Chín mươi mốt"
+  },
+  {
+    "question": "Số liền sau của số 89 là:",
+    "options": ["90", "88", "91", "80"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số liền trước của số 50 là:",
+    "options": ["49", "51", "40", "48"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "Trong phép cộng 45 + 21 = 66, số 66 được gọi là gì?",
+    "options": ["Tổng", "Số hạng", "Hiệu", "Số bị trừ"],
+    "correctAnswer": "Tổng"
+  },
+  {
+    "question": "Trong phép trừ 80 - 30 = 50, số 80 được gọi là gì?",
+    "options": ["Số bị trừ", "Số trừ", "Hiệu", "Số hạng"],
+    "correctAnswer": "Số bị trừ"
+  },
+  {
+    "question": "Kết quả của phép tính 9 + 6 là:",
+    "options": ["15", "14", "16", "13"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Kết quả của phép tính 8 + 7 là:",
+    "options": ["15", "14", "16", "13"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Kết quả của phép tính 11 - 4 là:",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Kết quả của phép tính 16 - 9 là:",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Lúc đầu trong giỏ có 9 quả cam, mẹ bỏ thêm vào 4 quả nữa. Hỏi trong giỏ có tất cả bao nhiêu quả cam?",
+    "options": ["13 quả", "5 quả", "12 quả", "14 quả"],
+    "correctAnswer": "13 quả"
+  },
+  {
+    "question": "Trên xe có 15 hành khách, đến bến có 7 người xuống xe. Hỏi trên xe còn lại bao nhiêu người?",
+    "options": ["8 người", "22 người", "7 người", "9 người"],
+    "correctAnswer": "8 người"
+  },
+  {
+    "question": "Ki-lô-gam được viết tắt là gì?",
+    "options": ["kg", "l", "m", "g"],
+    "correctAnswer": "kg"
+  },
+  {
+    "question": "Lít được viết tắt là gì?",
+    "options": ["l", "kg", "ml", "m"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "Tính: 25 kg + 12 kg =",
+    "options": ["37 kg", "37", "13 kg", "13"],
+    "correctAnswer": "37 kg"
+  },
+  {
+    "question": "Tính: 18 l - 9 l =",
+    "options": ["9 l", "27 l", "8 l", "10 l"],
+    "correctAnswer": "9 l"
+  },
+  {
+    "question": "Bao gạo nặng 15 kg, bao ngô nhẹ hơn bao gạo 4 kg. Hỏi bao ngô nặng bao nhiêu ki-lô-gam?",
+    "options": ["11 kg", "19 kg", "10 kg", "12 kg"],
+    "correctAnswer": "11 kg"
+  },
+  {
+    "question": "Can to có 10 lít dầu, can bé có nhiều hơn can to 5 lít. Hỏi can bé có bao nhiêu lít dầu?",
+    "options": ["15 lít", "5 lít", "14 lít", "16 lít"],
+    "correctAnswer": "15 lít"
+  },
+  {
+    "question": "Kết quả của phép tính 38 + 5 là:",
+    "options": ["43", "42", "44", "33"],
+    "correctAnswer": "43"
+  },
+  {
+    "question": "Kết quả của phép tính 59 + 23 là:",
+    "options": ["82", "81", "72", "83"],
+    "correctAnswer": "82"
+  },
+  {
+    "question": "Kết quả của phép tính 41 - 7 là:",
+    "options": ["34", "33", "35", "48"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Kết quả của phép tính 80 - 25 là:",
+    "options": ["55", "54", "65", "60"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Tìm x, biết x + 27 = 62",
+    "options": ["x = 35", "x = 89", "x = 34", "x = 36"],
+    "correctAnswer": "x = 35"
+  },
+  {
+    "question": "Tìm y, biết 73 - y = 45",
+    "options": ["y = 28", "y = 118", "y = 27", "y = 29"],
+    "correctAnswer": "y = 28"
+  },
+  {
+    "question": "Nối hai điểm M và N ta được hình gì?",
+    "options": ["Đoạn thẳng MN", "Đường thẳng MN", "Đường cong MN", "Điểm M"],
+    "correctAnswer": "Đoạn thẳng MN"
+  },
+  {
+    "question": "Hình có 4 cạnh được gọi là hình gì?",
+    "options": ["Hình tứ giác", "Hình tam giác", "Hình tròn", "Đường gấp khúc"],
+    "correctAnswer": "Hình tứ giác"
+  },
+  {
+    "question": "Tính độ dài đường gấp khúc ABC biết AB = 8cm và BC = 9cm.",
+    "options": ["17 cm", "1 cm", "16 cm", "18 cm"],
+    "correctAnswer": "17 cm"
+  },
+  {
+    "question": "Khi ba điểm cùng nằm trên một đường thẳng, ta gọi chúng là ba điểm...",
+    "options": ["Thẳng hàng", "Cong", "Gấp khúc", "Song song"],
+    "correctAnswer": "Thẳng hàng"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "options": ["24 giờ", "12 giờ", "60 giờ", "30 giờ"],
+    "correctAnswer": "24 giờ"
+  },
+  {
+    "question": "Một giờ có bao nhiêu phút?",
+    "options": ["60 phút", "30 phút", "24 phút", "100 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "Đồng hồ chỉ 7 giờ đúng. Kim dài chỉ số mấy?",
+    "options": ["Số 12", "Số 7", "Số 6", "Số 1"],
+    "correctAnswer": "Số 12"
+  },
+  {
+    "question": "5 giờ chiều còn được gọi là mấy giờ?",
+    "options": ["17 giờ", "5 giờ", "15 giờ", "18 giờ"],
+    "correctAnswer": "17 giờ"
+  },
+  {
+    "question": "Một tuần lễ có mấy ngày?",
+    "options": ["7 ngày", "5 ngày", "6 ngày", "8 ngày"],
+    "correctAnswer": "7 ngày"
+  },
+  {
+    "question": "Tháng 4 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Tháng 12 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Hôm nay là thứ Năm, ngày mai là thứ mấy?",
+    "options": ["Thứ Sáu", "Thứ Tư", "Thứ Bảy", "Thứ Ba"],
+    "correctAnswer": "Thứ Sáu"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số là:",
+    "options": ["99", "98", "10", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số khác nhau là:",
+    "options": ["10", "11", "12", "1"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hiệu của 75 và 30 là:",
+    "options": ["45", "105", "40", "55"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Tổng của 48 và 20 là:",
+    "options": ["68", "28", "60", "78"],
+    "correctAnswer": "68"
+  },
+  {
+    "question": "Tính: 9 + 8 =",
+    "options": ["17", "16", "18", "15"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "Tính: 13 - 7 =",
+    "options": ["6", "5", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "An cao 95 cm, Bình thấp hơn An 5 cm. Hỏi Bình cao bao nhiêu xăng-ti-mét?",
+    "options": ["90 cm", "100 cm", "85 cm", "95 cm"],
+    "correctAnswer": "90 cm"
+  },
+  {
+    "question": "Bao ngô nặng 25 kg, bao thóc nặng hơn bao ngô 10 kg. Hỏi bao thóc nặng bao nhiêu ki-lô-gam?",
+    "options": ["35 kg", "15 kg", "30 kg", "40 kg"],
+    "correctAnswer": "35 kg"
+  },
+  {
+    "question": "Thùng xanh có 12 lít nước, thùng đỏ có 8 lít nước. Cả hai thùng có bao nhiêu lít nước?",
+    "options": ["20 lít", "4 lít", "18 lít", "22 lít"],
+    "correctAnswer": "20 lít"
+  },
+  {
+    "question": "Tính: 47 + 9 =",
+    "options": ["56", "55", "57", "46"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "Tính: 65 + 18 =",
+    "options": ["83", "82", "73", "84"],
+    "correctAnswer": "83"
+  },
+  {
+    "question": "Tính: 52 - 6 =",
+    "options": ["46", "45", "47", "58"],
+    "correctAnswer": "46"
+  },
+  {
+    "question": "Tính: 71 - 34 =",
+    "options": ["37", "36", "47", "38"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Đoạn thẳng khác đường thẳng ở điểm nào?",
+    "options": ["Bị giới hạn ở hai đầu", "Nó cong hơn", "Nó dài hơn", "Không khác nhau"],
+    "correctAnswer": "Bị giới hạn ở hai đầu"
+  },
+  {
+    "question": "Hình vuông là một hình tứ giác đặc biệt. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Độ dài đường gấp khúc MNPQ có MN=5cm, NP=6cm, PQ=7cm là:",
+    "options": ["18 cm", "17 cm", "19 cm", "20 cm"],
+    "correctAnswer": "18 cm"
+  },
+  {
+    "question": "Đồng hồ chỉ 3 giờ 30 phút. 30 phút nữa là mấy giờ?",
+    "options": ["4 giờ", "3 giờ", "5 giờ", "4 giờ 30 phút"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Hôm nay là ngày 15 tháng 10. 1 tuần nữa là ngày mấy?",
+    "options": ["Ngày 22 tháng 10", "Ngày 16 tháng 10", "Ngày 21 tháng 10", "Ngày 23 tháng 10"],
+    "correctAnswer": "Ngày 22 tháng 10"
+  },
+  {
+    "question": "Tháng 2 của năm không nhuận có bao nhiêu ngày?",
+    "options": ["28 ngày", "29 ngày", "30 ngày", "31 ngày"],
+    "correctAnswer": "28 ngày"
+  },
+  {
+    "question": "1 giờ 30 phút bằng bao nhiêu phút?",
+    "options": ["90 phút", "60 phút", "130 phút", "100 phút"],
+    "correctAnswer": "90 phút"
+  },
+  {
+    "question": "So sánh: 45 + 17 và 60",
+    "options": ["45 + 17 > 60", "45 + 17 < 60", "45 + 17 = 60", "Không so sánh được"],
+    "correctAnswer": "45 + 17 > 60"
+  },
+  {
+    "question": "So sánh: 82 - 35 và 47",
+    "options": ["82 - 35 = 47", "82 - 35 > 47", "82 - 35 < 47", "Không so sánh được"],
+    "correctAnswer": "82 - 35 = 47"
+  },
+  {
+    "question": "Số gồm 5 chục và 8 đơn vị là:",
+    "options": ["58", "85", "50", "8"],
+    "correctAnswer": "58"
+  },
+  {
+    "question": "Hiệu của 14 và 8 là:",
+    "options": ["6", "22", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tổng của 9 và 9 là:",
+    "options": ["18", "0", "17", "19"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Vật nào sau đây thường được đo bằng lít?",
+    "options": ["Nước mắm", "Gạo", "Thịt", "Bánh kẹo"],
+    "correctAnswer": "Nước mắm"
+  },
+  {
+    "question": "Vật nào sau đây thường được đo bằng ki-lô-gam?",
+    "options": ["Quả bí ngô", "Sữa", "Xăng", "Nước ngọt"],
+    "correctAnswer": "Quả bí ngô"
+  },
+  {
+    "question": "Tính: 36 kg + 28 kg =",
+    "options": ["64 kg", "63 kg", "54 kg", "65 kg"],
+    "correctAnswer": "64 kg"
+  },
+  {
+    "question": "Tính: 50 l - 15 l =",
+    "options": ["35 l", "34 l", "45 l", "40 l"],
+    "correctAnswer": "35 l"
+  },
+  {
+    "question": "Lớp 2A có 32 học sinh, trong đó có 15 học sinh nữ. Hỏi lớp 2A có bao nhiêu học sinh nam?",
+    "options": ["17 học sinh", "47 học sinh", "16 học sinh", "18 học sinh"],
+    "correctAnswer": "17 học sinh"
+  },
+  {
+    "question": "Một hình tứ giác có độ dài các cạnh lần lượt là 4cm, 5cm, 6cm, 7cm. Tính chu vi của hình tứ giác đó.",
+    "options": ["22 cm", "21 cm", "23 cm", "24 cm"],
+    "correctAnswer": "22 cm"
+  },
+  {
+    "question": "Đồng hồ chỉ 10 giờ kém 15 phút. Đó là mấy giờ?",
+    "options": ["9 giờ 45 phút", "10 giờ 15 phút", "9 giờ 15 phút", "10 giờ 45 phút"],
+    "correctAnswer": "9 giờ 45 phút"
+  },
+  {
+    "question": "Ngày 1 tháng 1 là ngày lễ gì?",
+    "options": ["Tết Dương lịch", "Tết Âm lịch", "Tết Trung thu", "Tết Đoan ngọ"],
+    "correctAnswer": "Tết Dương lịch"
+  },
+  {
+    "question": "Tháng nào có 28 hoặc 29 ngày?",
+    "options": ["Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5"],
+    "correctAnswer": "Tháng 2"
+  },
+  {
+    "question": "Một bộ phim bắt đầu lúc 20 giờ và kéo dài 90 phút. Hỏi phim kết thúc lúc mấy giờ?",
+    "options": ["21 giờ 30 phút", "21 giờ", "22 giờ", "20 giờ 90 phút"],
+    "correctAnswer": "21 giờ 30 phút"
+  },
+  {
+    "question": "Số 100 được đọc là:",
+    "options": ["Một trăm", "Mười không", "Một không không", "Trăm"],
+    "correctAnswer": "Một trăm"
+  },
+  {
+    "question": "Điền dấu thích hợp: 67 ... 76",
+    "options": ["<", ">", "=", "+"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Tính: 12 - 5 =",
+    "options": ["7", "6", "8", "17"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính: 7 + 8 =",
+    "options": ["15", "14", "16", "1"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Mẹ nặng 52 kg, con nhẹ hơn mẹ 40 kg. Hỏi con nặng bao nhiêu ki-lô-gam?",
+    "options": ["12 kg", "92 kg", "10 kg", "13 kg"],
+    "correctAnswer": "12 kg"
+  },
+  {
+    "question": "Tính: 58 + 35 =",
+    "options": ["93", "92", "83", "94"],
+    "correctAnswer": "93"
+  },
+  {
+    "question": "Tính: 95 - 48 =",
+    "options": ["47", "46", "57", "53"],
+    "correctAnswer": "47"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "options": ["3 cạnh", "4 cạnh", "5 cạnh", "2 cạnh"],
+    "correctAnswer": "3 cạnh"
+  },
+  {
+    "question": "Đường cong và đường thẳng có giống nhau không?",
+    "options": ["Không", "Có", "Gần giống", "Tùy lúc"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "10 giờ tối là mấy giờ?",
+    "options": ["22 giờ", "10 giờ", "20 giờ", "12 giờ"],
+    "correctAnswer": "22 giờ"
+  },
+  {
+    "question": "Hôm nay là thứ Hai, ngày 20. Hôm qua là thứ mấy, ngày mấy?",
+    "options": ["Chủ Nhật, ngày 19", "Thứ Ba, ngày 21", "Thứ Bảy, ngày 18", "Chủ Nhật, ngày 20"],
+    "correctAnswer": "Chủ Nhật, ngày 19"
+  },
+  {
+    "question": "Tháng 6 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Nửa đêm là mấy giờ?",
+    "options": ["0 giờ (24 giờ)", "12 giờ", "6 giờ", "18 giờ"],
+    "correctAnswer": "0 giờ (24 giờ)"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là:",
+    "options": ["98", "99", "89", "97"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Tìm hiệu của 61 và 16.",
+    "options": ["45", "77", "44", "46"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Tìm tổng của 39 và 59.",
+    "options": ["98", "97", "88", "99"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Tính: 17 - 8 =",
+    "options": ["9", "8", "7", "25"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tính: 6 + 7 =",
+    "options": ["13", "12", "14", "1"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Can dầu có 15 lít, người ta đã dùng 7 lít. Hỏi trong can còn lại bao nhiêu lít?",
+    "options": ["8 lít", "22 lít", "7 lít", "9 lít"],
+    "correctAnswer": "8 lít"
+  },
+  {
+    "question": "Tính: 44 kg + 47 kg =",
+    "options": ["91 kg", "90 kg", "81 kg", "92 kg"],
+    "correctAnswer": "91 kg"
+  },
+  {
+    "question": "Tính: 100 - 33 =",
+    "options": ["67", "66", "77", "73"],
+    "correctAnswer": "67"
+  },
+  {
+    "question": "Đường gấp khúc khép kín có 3 cạnh được gọi là hình gì?",
+    "options": ["Hình tam giác", "Hình tứ giác", "Đường tròn", "Hình vuông"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Đoạn thẳng AB dài 1dm. Đổi ra cm là:",
+    "options": ["10 cm", "1 cm", "100 cm", "12 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Bây giờ là 2 giờ chiều. 30 phút trước là mấy giờ?",
+    "options": ["1 giờ 30 phút chiều", "2 giờ 30 phút chiều", "1 giờ chiều", "3 giờ chiều"],
+    "correctAnswer": "1 giờ 30 phút chiều"
+  },
+  {
+    "question": "Tháng 1 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Một năm có bao nhiêu tháng có 31 ngày?",
+    "options": ["7 tháng", "4 tháng", "1 tháng", "5 tháng"],
+    "correctAnswer": "7 tháng"
+  },
+  {
+    "question": "An đi ngủ lúc 21 giờ 30 phút. Đó là mấy giờ rưỡi tối?",
+    "options": ["9 giờ rưỡi tối", "8 giờ rưỡi tối", "10 giờ rưỡi tối", "7 giờ rưỡi tối"],
+    "correctAnswer": "9 giờ rưỡi tối"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số mà tổng hai chữ số bằng 10 là:",
+    "options": ["19", "28", "37", "46"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Tìm x, biết 90 - x = 52",
+    "options": ["x = 38", "x = 142", "x = 37", "x = 39"],
+    "correctAnswer": "x = 38"
+  },
+  {
+    "question": "Tính: 19 + 29 + 39 =",
+    "options": ["87", "86", "77", "88"],
+    "correctAnswer": "87"
+  },
+  {
+    "question": "Hiệu của 12 và 9 là:",
+    "options": ["3", "21", "4", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tổng của 8 và 5 là:",
+    "options": ["13", "3", "12", "14"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Bao gạo 50 kg, người ta lấy ra 18 kg. Hỏi trong bao còn lại bao nhiêu ki-lô-gam gạo?",
+    "options": ["32 kg", "68 kg", "31 kg", "33 kg"],
+    "correctAnswer": "32 kg"
+  },
+  {
+    "question": "Tính chu vi hình tam giác có các cạnh là 5cm, 6cm, 7cm.",
+    "options": ["18 cm", "17 cm", "19 cm", "11 cm"],
+    "correctAnswer": "18 cm"
+  },
+  {
+    "question": "Đồng hồ chỉ 6 giờ. Kim giờ và kim phút tạo thành đường gì?",
+    "options": ["Đường thẳng", "Đường cong", "Đoạn thẳng", "Điểm"],
+    "correctAnswer": "Đường thẳng"
+  },
+  {
+    "question": "Tháng 8 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "An học bài trong 2 giờ. Nếu An bắt đầu lúc 19 giờ 30 phút, An sẽ học xong lúc mấy giờ?",
+    "options": ["21 giờ 30 phút", "21 giờ", "20 giờ 30 phút", "22 giờ"],
+    "correctAnswer": "21 giờ 30 phút"
+  },
+  {
+    "question": "Trong các số 27, 72, 22, 77, số nào lớn nhất?",
+    "options": ["77", "72", "27", "22"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "Hiệu của số lớn nhất có hai chữ số và số lớn nhất có một chữ số là:",
+    "options": ["90", "9", "98", "89"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Tính: 15 - 7 =",
+    "options": ["8", "7", "9", "22"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tính: 9 + 4 =",
+    "options": ["13", "12", "14", "5"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Thùng nước mắm có 20 lít, đã bán đi 12 lít. Hỏi còn lại bao nhiêu lít?",
+    "options": ["8 lít", "32 lít", "7 lít", "9 lít"],
+    "correctAnswer": "8 lít"
+  },
+  {
+    "question": "Tính: 37 + 54 =",
+    "options": ["91", "90", "81", "92"],
+    "correctAnswer": "91"
+  },
+  {
+    "question": "Tính: 86 - 39 =",
+    "options": ["47", "46", "57", "53"],
+    "correctAnswer": "47"
+  },
+  {
+    "question": "Một đường gấp khúc có 4 đoạn thẳng bằng nhau, mỗi đoạn dài 5cm. Tính độ dài đường gấp khúc đó.",
+    "options": ["20 cm", "25 cm", "15 cm", "10 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "Điểm M nằm giữa hai điểm A và B. Ta có đoạn thẳng nào?",
+    "options": ["Đoạn thẳng AB", "Đoạn thẳng AM", "Đoạn thẳng MB", "Cả ba đáp án trên"],
+    "correctAnswer": "Cả ba đáp án trên"
+  },
+  {
+    "question": "Bây giờ là 12 giờ trưa. 1 giờ sau là mấy giờ?",
+    "options": ["13 giờ (1 giờ chiều)", "11 giờ trưa", "12 giờ 30 phút", "14 giờ"],
+    "correctAnswer": "13 giờ (1 giờ chiều)"
+  },
+  {
+    "question": "Tháng 10, 11, 12 là quý mấy trong năm?",
+    "options": ["Quý IV", "Quý I", "Quý II", "Quý III"],
+    "correctAnswer": "Quý IV"
+  },
+  {
+    "question": "Nếu hôm nay là ngày cuối cùng của tháng 4, ngày mai là ngày nào?",
+    "options": ["Ngày 1 tháng 5", "Ngày 31 tháng 4", "Ngày 29 tháng 4", "Ngày 2 tháng 5"],
+    "correctAnswer": "Ngày 1 tháng 5"
+  },
+  {
+    "question": "Một bộ phim dài 120 phút. Phim đó dài mấy giờ?",
+    "options": ["2 giờ", "1 giờ", "3 giờ", "12 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số là:",
+    "options": ["10", "11", "12", "99"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hiệu của 100 và 1 là:",
+    "options": ["99", "98", "101", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Tính: 11 - 2 =",
+    "options": ["9", "13", "8", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tính: 5 + 6 =",
+    "options": ["11", "1", "10", "12"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Con gà nặng 2 kg, con vịt nặng 3 kg. Cả hai con nặng bao nhiêu ki-lô-gam?",
+    "options": ["5 kg", "1 kg", "4 kg", "6 kg"],
+    "correctAnswer": "5 kg"
+  },
+  {
+    "question": "Tính: 28 + 68 =",
+    "options": ["96", "95", "86", "97"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Tính: 54 - 27 =",
+    "options": ["27", "26", "37", "33"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "Hình chữ nhật có mấy cặp cạnh đối diện bằng nhau?",
+    "options": ["2 cặp", "1 cặp", "4 cặp", "Không có"],
+    "correctAnswer": "2 cặp"
+  },
+  {
+    "question": "Đoạn thẳng CD dài 7cm. Đoạn thẳng DE dài 8cm. Độ dài đường gấp khúc CDE là:",
+    "options": ["15 cm", "1 cm", "14 cm", "16 cm"],
+    "correctAnswer": "15 cm"
+  },
+  {
+    "question": "Đồng hồ chỉ 9 giờ rưỡi. Đó là mấy giờ bao nhiêu phút?",
+    "options": ["9 giờ 30 phút", "9 giờ 6 phút", "6 giờ 9 phút", "10 giờ kém 30 phút"],
+    "correctAnswer": "9 giờ 30 phút"
+  },
+  {
+    "question": "Tháng 7 và tháng 8 đều có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "31 ngày"
+  }
+]
+

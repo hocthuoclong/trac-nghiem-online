@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Kết quả của phép tính 29 + 5 là:",
+    "options": ["34", "33", "24", "35"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Kết quả của phép tính 48 + 7 là:",
+    "options": ["55", "54", "56", "45"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Kết quả của phép tính 65 + 8 là:",
+    "options": ["73", "72", "74", "63"],
+    "correctAnswer": "73"
+  },
+  {
+    "question": "Kết quả của phép tính 37 + 6 là:",
+    "options": ["43", "42", "44", "33"],
+    "correctAnswer": "43"
+  },
+  {
+    "question": "Tính: 79 + 2 =",
+    "options": ["81", "80", "71", "82"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Tính: 56 + 9 =",
+    "options": ["65", "64", "66", "55"],
+    "correctAnswer": "65"
+  },
+  {
+    "question": "Lớp 2A có 28 học sinh, lớp 2B có nhiều hơn lớp 2A là 5 học sinh. Hỏi lớp 2B có bao nhiêu học sinh?",
+    "options": ["33 học sinh", "23 học sinh", "32 học sinh", "34 học sinh"],
+    "correctAnswer": "33 học sinh"
+  },
+  {
+    "question": "Trong vườn có 19 cây táo, người ta trồng thêm 8 cây nữa. Hỏi trong vườn có tất cả bao nhiêu cây táo?",
+    "options": ["27 cây", "26 cây", "28 cây", "17 cây"],
+    "correctAnswer": "27 cây"
+  },
+  {
+    "question": "Kết quả của phép tính 29 + 35 là:",
+    "options": ["64", "54", "63", "55"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "Kết quả của phép tính 48 + 27 là:",
+    "options": ["75", "74", "65", "76"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Kết quả của phép tính 36 + 46 là:",
+    "options": ["82", "81", "72", "83"],
+    "correctAnswer": "82"
+  },
+  {
+    "question": "Kết quả của phép tính 57 + 18 là:",
+    "options": ["75", "74", "65", "76"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Tính: 18 + 24 =",
+    "options": ["42", "41", "32", "43"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "Tính: 63 + 29 =",
+    "options": ["92", "91", "82", "93"],
+    "correctAnswer": "92"
+  },
+  {
+    "question": "Thùng thứ nhất có 35 lít dầu, thùng thứ hai có nhiều hơn thùng thứ nhất 18 lít. Hỏi thùng thứ hai có bao nhiêu lít dầu?",
+    "options": ["53 lít", "43 lít", "27 lít", "54 lít"],
+    "correctAnswer": "53 lít"
+  },
+  {
+    "question": "Một cửa hàng buổi sáng bán được 45 kg gạo, buổi chiều bán được nhiều hơn buổi sáng 15 kg. Hỏi buổi chiều cửa hàng đó bán được bao nhiêu ki-lô-gam gạo?",
+    "options": ["60 kg", "30 kg", "50 kg", "70 kg"],
+    "correctAnswer": "60 kg"
+  },
+  {
+    "question": "Điền dấu thích hợp: 39 + 8 ... 45",
+    "options": [">", "<", "=", "+"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Điền dấu thích hợp: 26 + 37 ... 63",
+    "options": ["=", ">", "<", "-"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Tổng của 47 và 9 là:",
+    "options": ["56", "55", "57", "46"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "Tổng của 25 và 58 là:",
+    "options": ["83", "82", "73", "84"],
+    "correctAnswer": "83"
+  },
+  {
+    "question": "Tìm x, biết x - 25 = 48",
+    "options": ["x = 73", "x = 23", "x = 63", "x = 72"],
+    "correctAnswer": "x = 73"
+  },
+  {
+    "question": "Kết quả của phép tính 32 - 5 là:",
+    "options": ["27", "26", "28", "37"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "Kết quả của phép tính 54 - 7 là:",
+    "options": ["47", "46", "48", "57"],
+    "correctAnswer": "47"
+  },
+  {
+    "question": "Kết quả của phép tính 71 - 8 là:",
+    "options": ["63", "62", "64", "79"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "Kết quả của phép tính 43 - 6 là:",
+    "options": ["37", "36", "38", "49"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Tính: 82 - 9 =",
+    "options": ["73", "72", "74", "91"],
+    "correctAnswer": "73"
+  },
+  {
+    "question": "Tính: 65 - 6 =",
+    "options": ["59", "58", "60", "71"],
+    "correctAnswer": "59"
+  },
+  {
+    "question": "Trên cành cây có 31 quả bưởi, bà hái xuống 9 quả. Hỏi trên cành còn lại bao nhiêu quả bưởi?",
+    "options": ["22 quả", "40 quả", "21 quả", "23 quả"],
+    "correctAnswer": "22 quả"
+  },
+  {
+    "question": "Mẹ có 52 nghìn đồng, mẹ mua rau hết 8 nghìn đồng. Hỏi mẹ còn lại bao nhiêu tiền?",
+    "options": ["44 nghìn đồng", "60 nghìn đồng", "43 nghìn đồng", "45 nghìn đồng"],
+    "correctAnswer": "44 nghìn đồng"
+  },
+  {
+    "question": "Kết quả của phép tính 42 - 15 là:",
+    "options": ["27", "26", "37", "33"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "Kết quả của phép tính 61 - 27 là:",
+    "options": ["34", "33", "44", "35"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Kết quả của phép tính 83 - 38 là:",
+    "options": ["45", "44", "55", "46"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Kết quả của phép tính 75 - 49 là:",
+    "options": ["26", "25", "36", "27"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "Tính: 53 - 24 =",
+    "options": ["29", "28", "39", "31"],
+    "correctAnswer": "29"
+  },
+  {
+    "question": "Tính: 94 - 65 =",
+    "options": ["29", "28", "39", "31"],
+    "correctAnswer": "29"
+  },
+  {
+    "question": "Một đàn vịt có 62 con, người ta đã bán đi 25 con. Hỏi đàn vịt còn lại bao nhiêu con?",
+    "options": ["37 con", "87 con", "36 con", "38 con"],
+    "correctAnswer": "37 con"
+  },
+  {
+    "question": "Sợi dây dài 70 cm, người ta cắt đi một đoạn dài 32 cm. Hỏi sợi dây còn lại dài bao nhiêu xăng-ti-mét?",
+    "options": ["38 cm", "102 cm", "37 cm", "39 cm"],
+    "correctAnswer": "38 cm"
+  },
+  {
+    "question": "Điền dấu thích hợp: 52 - 7 ... 45",
+    "options": ["=", ">", "<", "-"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Điền dấu thích hợp: 81 - 34 ... 46",
+    "options": [">", "<", "=", "+"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Hiệu của 60 và 8 là:",
+    "options": ["52", "68", "51", "53"],
+    "correctAnswer": "52"
+  },
+  {
+    "question": "Hiệu của 92 và 55 là:",
+    "options": ["37", "36", "47", "38"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Tìm x, biết x + 18 = 54",
+    "options": ["x = 36", "x = 72", "x = 35", "x = 37"],
+    "correctAnswer": "x = 36"
+  },
+  {
+    "question": "Tìm y, biết 73 - y = 49",
+    "options": ["y = 24", "y = 122", "y = 23", "y = 25"],
+    "correctAnswer": "y = 24"
+  },
+  {
+    "question": "Tính: 39 + 7 =",
+    "options": ["46", "45", "47", "36"],
+    "correctAnswer": "46"
+  },
+  {
+    "question": "Tính: 88 + 9 =",
+    "options": ["97", "96", "98", "87"],
+    "correctAnswer": "97"
+  },
+  {
+    "question": "Tính: 47 + 25 =",
+    "options": ["72", "71", "62", "73"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Tính: 16 + 76 =",
+    "options": ["92", "91", "82", "93"],
+    "correctAnswer": "92"
+  },
+  {
+    "question": "Tính: 41 - 4 =",
+    "options": ["37", "36", "38", "45"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Tính: 90 - 3 =",
+    "options": ["87", "86", "88", "93"],
+    "correctAnswer": "87"
+  },
+  {
+    "question": "Tính: 62 - 39 =",
+    "options": ["23", "22", "33", "24"],
+    "correctAnswer": "23"
+  },
+  {
+    "question": "Tính: 80 - 21 =",
+    "options": ["59", "58", "69", "61"],
+    "correctAnswer": "59"
+  },
+  {
+    "question": "So sánh: 48 + 19 và 68",
+    "options": ["48 + 19 < 68", "48 + 19 > 68", "48 + 19 = 68", "Không so sánh được"],
+    "correctAnswer": "48 + 19 < 68"
+  },
+  {
+    "question": "So sánh: 74 - 26 và 48",
+    "options": ["74 - 26 = 48", "74 - 26 > 48", "74 - 26 < 48", "Không so sánh được"],
+    "correctAnswer": "74 - 26 = 48"
+  },
+  {
+    "question": "Kết quả của 27 + 36 là:",
+    "options": ["63", "62", "53", "64"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "Kết quả của 91 - 19 là:",
+    "options": ["72", "71", "82", "73"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Lan hái được 25 bông hoa, Mai hái được nhiều hơn Lan 8 bông. Hỏi Mai hái được bao nhiêu bông hoa?",
+    "options": ["33 bông", "17 bông", "32 bông", "34 bông"],
+    "correctAnswer": "33 bông"
+  },
+  {
+    "question": "Bố 42 tuổi, con kém bố 34 tuổi. Hỏi con bao nhiêu tuổi?",
+    "options": ["8 tuổi", "76 tuổi", "7 tuổi", "9 tuổi"],
+    "correctAnswer": "8 tuổi"
+  },
+  {
+    "question": "Kết quả của phép tính 49 + 9 là:",
+    "options": ["58", "57", "59", "48"],
+    "correctAnswer": "58"
+  },
+  {
+    "question": "Kết quả của phép tính 77 + 17 =",
+    "options": ["94", "93", "84", "95"],
+    "correctAnswer": "94"
+  },
+  {
+    "question": "Kết quả của phép tính 50 - 5 là:",
+    "options": ["45", "44", "55", "46"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Kết quả của phép tính 100 - 11 là:",
+    "options": ["89", "88", "99", "90"],
+    "correctAnswer": "89"
+  },
+  {
+    "question": "Một quyển sách có 80 trang, An đã đọc được 25 trang. Hỏi An còn phải đọc bao nhiêu trang nữa?",
+    "options": ["55 trang", "105 trang", "54 trang", "56 trang"],
+    "correctAnswer": "55 trang"
+  },
+  {
+    "question": "Trên xe có 45 hành khách, đến bến có 18 người xuống. Hỏi trên xe còn lại bao nhiêu hành khách?",
+    "options": ["27 người", "63 người", "26 người", "28 người"],
+    "correctAnswer": "27 người"
+  },
+  {
+    "question": "Tìm tổng của 38 và 47.",
+    "options": ["85", "84", "75", "86"],
+    "correctAnswer": "85"
+  },
+  {
+    "question": "Tìm hiệu của 84 và 28.",
+    "options": ["56", "55", "66", "57"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "Điền số: 67 + ... = 92",
+    "options": ["25", "24", "35", "26"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Điền số: 81 - ... = 33",
+    "options": ["48", "47", "58", "49"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Tính: 28 + 9 =",
+    "options": ["37", "36", "38", "27"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Tính: 68 + 22 =",
+    "options": ["90", "80", "91", "89"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Tính: 34 - 8 =",
+    "options": ["26", "25", "27", "32"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "Tính: 70 - 15 =",
+    "options": ["55", "54", "65", "56"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số mà tổng hai chữ số bằng 12 là số nào?",
+    "options": ["93", "84", "75", "66"],
+    "correctAnswer": "93"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số mà hiệu hai chữ số bằng 5 là số nào?",
+    "options": ["16", "27", "38", "49"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Kết quả của phép tính 28 + 47 - 15 là:",
+    "options": ["60", "75", "50", "65"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Kết quả của phép tính 92 - 38 + 26 là:",
+    "options": ["80", "54", "70", "90"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Thùng thứ nhất có 47 kg gạo, thùng thứ hai có ít hơn thùng thứ nhất 19 kg. Hỏi cả hai thùng có bao nhiêu ki-lô-gam gạo?",
+    "options": ["75 kg", "28 kg", "66 kg", "85 kg"],
+    "correctAnswer": "75 kg"
+  },
+  {
+    "question": "Đoạn dây thứ nhất dài 56 cm, đoạn dây thứ hai ngắn hơn đoạn dây thứ nhất 18 cm. Hỏi cả hai đoạn dây dài bao nhiêu xăng-ti-mét?",
+    "options": ["94 cm", "38 cm", "74 cm", "84 cm"],
+    "correctAnswer": "94 cm"
+  },
+  {
+    "question": "Tính: 19 + 19 =",
+    "options": ["38", "28", "37", "39"],
+    "correctAnswer": "38"
+  },
+  {
+    "question": "Tính: 45 + 45 =",
+    "options": ["90", "80", "100", "89"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Tính: 50 - 25 =",
+    "options": ["25", "35", "15", "30"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Tính: 100 - 52 =",
+    "options": ["48", "47", "58", "52"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Tìm một số biết rằng lấy số đó cộng với 28 thì được 61.",
+    "options": ["33", "89", "32", "34"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Tìm một số biết rằng lấy 85 trừ đi số đó thì được 37.",
+    "options": ["48", "122", "47", "49"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Hiệu của số lớn nhất có hai chữ số và 35 là:",
+    "options": ["64", "63", "54", "65"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "Tổng của số bé nhất có hai chữ số và 78 là:",
+    "options": ["88", "87", "89", "98"],
+    "correctAnswer": "88"
+  },
+  {
+    "question": "Trong một phép trừ, số bị trừ là 72, hiệu là 27. Tìm số trừ.",
+    "options": ["45", "99", "44", "46"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Trong một phép cộng, một số hạng là 36, tổng là 81. Tìm số hạng còn lại.",
+    "options": ["45", "117", "44", "46"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Kết quả của phép tính 55 + 8 là:",
+    "options": ["63", "62", "64", "53"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "Kết quả của phép tính 36 + 36 là:",
+    "options": ["72", "71", "62", "73"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Kết quả của phép tính 73 - 9 là:",
+    "options": ["64", "63", "65", "82"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "Kết quả của phép tính 60 - 22 là:",
+    "options": ["38", "37", "48", "42"],
+    "correctAnswer": "38"
+  },
+  {
+    "question": "An có 35 viên bi, An có ít hơn Bình 16 viên bi. Hỏi cả hai bạn có bao nhiêu viên bi?",
+    "options": ["86 viên", "51 viên", "19 viên", "76 viên"],
+    "correctAnswer": "86 viên"
+  },
+  {
+    "question": "Cửa hàng có 90 kg đường, đã bán đi 45 kg. Sau đó nhập về thêm 28 kg. Hỏi cửa hàng có tất cả bao nhiêu ki-lô-gam đường?",
+    "options": ["73 kg", "45 kg", "118 kg", "63 kg"],
+    "correctAnswer": "73 kg"
+  }
+]
+

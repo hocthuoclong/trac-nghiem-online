@@ -1,0 +1,468 @@
+[
+  {
+    "question": "10 đơn vị bằng mấy chục?",
+    "options": ["1 chục", "10 chục", "1 trăm", "1 đơn vị"],
+    "correctAnswer": "1 chục"
+  },
+  {
+    "question": "10 chục bằng mấy trăm?",
+    "options": ["1 trăm", "10 trăm", "1 nghìn", "1 chục"],
+    "correctAnswer": "1 trăm"
+  },
+  {
+    "question": "10 trăm bằng mấy nghìn?",
+    "options": ["1 nghìn", "10 nghìn", "1 trăm", "10 chục"],
+    "correctAnswer": "1 nghìn"
+  },
+  {
+    "question": "Số 'Một nghìn' được viết là:",
+    "options": ["1000", "100", "10", "0001"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số tròn trăm liền sau số 200 là:",
+    "options": ["300", "210", "100", "400"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Số tròn trăm liền trước số 700 là:",
+    "options": ["600", "690", "800", "500"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Số tròn chục liền sau số 80 là:",
+    "options": ["90", "81", "70", "100"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số tròn chục liền trước số 150 là:",
+    "options": ["140", "149", "160", "130"],
+    "correctAnswer": "140"
+  },
+  {
+    "question": "So sánh: 400 và 600",
+    "options": ["400 < 600", "400 > 600", "400 = 600", "Không so sánh được"],
+    "correctAnswer": "400 < 600"
+  },
+  {
+    "question": "So sánh: 900 và 90",
+    "options": ["900 > 90", "900 < 90", "900 = 90", "Không so sánh được"],
+    "correctAnswer": "900 > 90"
+  },
+  {
+    "question": "Số gồm 3 trăm, 4 chục và 5 đơn vị được viết là:",
+    "options": ["345", "354", "543", "453"],
+    "correctAnswer": "345"
+  },
+  {
+    "question": "Số 682 được đọc là:",
+    "options": ["Sáu trăm tám mươi hai", "Sáu tám hai", "Sáu trăm tám hai", "Sáu trăm tám mươi"],
+    "correctAnswer": "Sáu trăm tám mươi hai"
+  },
+  {
+    "question": "Trong số 527, chữ số 2 có giá trị là:",
+    "options": ["20", "2", "200", "27"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Trong số 916, chữ số 9 có giá trị là:",
+    "options": ["900", "9", "90", "91"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Số 458 được viết thành tổng các trăm, chục, đơn vị là:",
+    "options": ["400 + 50 + 8", "40 + 5 + 8", "400 + 5 + 8", "4 + 5 + 8"],
+    "correctAnswer": "400 + 50 + 8"
+  },
+  {
+    "question": "Tổng 700 + 20 + 9 bằng số nào?",
+    "options": ["729", "720", "709", "927"],
+    "correctAnswer": "729"
+  },
+  {
+    "question": "So sánh: 315 và 351",
+    "options": ["315 < 351", "315 > 351", "315 = 351", "Không so sánh được"],
+    "correctAnswer": "315 < 351"
+  },
+  {
+    "question": "So sánh: 876 và 867",
+    "options": ["876 > 867", "876 < 867", "876 = 867", "Không so sánh được"],
+    "correctAnswer": "876 > 867"
+  },
+  {
+    "question": "So sánh: 555 và 555",
+    "options": ["555 = 555", "555 > 555", "555 < 555", "Không so sánh được"],
+    "correctAnswer": "555 = 555"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 482, 428, 824, 284 là:",
+    "options": ["824", "482", "428", "284"],
+    "correctAnswer": "824"
+  },
+  {
+    "question": "Số bé nhất trong các số: 709, 790, 907, 970 là:",
+    "options": ["709", "790", "907", "970"],
+    "correctAnswer": "709"
+  },
+  {
+    "question": "2 chục bằng bao nhiêu đơn vị?",
+    "options": ["20 đơn vị", "2 đơn vị", "12 đơn vị", "200 đơn vị"],
+    "correctAnswer": "20 đơn vị"
+  },
+  {
+    "question": "5 trăm bằng bao nhiêu chục?",
+    "options": ["50 chục", "5 chục", "500 chục", "5000 chục"],
+    "correctAnswer": "50 chục"
+  },
+  {
+    "question": "Số 'Bốn trăm' được viết là:",
+    "options": ["400", "40", "4000", "4"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Số 'Sáu trăm ba mươi' được viết là:",
+    "options": ["630", "603", "360", "63"],
+    "correctAnswer": "630"
+  },
+  {
+    "question": "Làm tròn số 87 đến hàng chục ta được:",
+    "options": ["90", "80", "100", "85"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Làm tròn số 234 đến hàng trăm ta được:",
+    "options": ["200", "300", "230", "240"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Số 123 được đọc là:",
+    "options": ["Một trăm hai mươi ba", "Một hai ba", "Một trăm hai ba", "Một trăm hai mươi"],
+    "correctAnswer": "Một trăm hai mươi ba"
+  },
+  {
+    "question": "Số 'Năm trăm linh một' được viết là:",
+    "options": ["501", "510", "511", "105"],
+    "correctAnswer": "501"
+  },
+  {
+    "question": "Số 804 được viết thành tổng là:",
+    "options": ["800 + 4", "80 + 4", "800 + 40", "8 + 0 + 4"],
+    "correctAnswer": "800 + 4"
+  },
+  {
+    "question": "Tổng 900 + 90 bằng số nào?",
+    "options": ["990", "909", "999", "1000"],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "Số liền sau của 399 là:",
+    "options": ["400", "398", "401", "390"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Số liền trước của 800 là:",
+    "options": ["799", "801", "790", "700"],
+    "correctAnswer": "799"
+  },
+  {
+    "question": "Số lớn nhất có ba chữ số là:",
+    "options": ["999", "100", "987", "1000"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Số bé nhất có ba chữ số là:",
+    "options": ["100", "101", "111", "999"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số bé nhất có ba chữ số khác nhau là:",
+    "options": ["102", "100", "111", "123"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Số lớn nhất có ba chữ số khác nhau là:",
+    "options": ["987", "999", "988", "897"],
+    "correctAnswer": "987"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ bé đến lớn: 521, 215, 512, 125.",
+    "options": ["125, 215, 512, 521", "521, 512, 215, 125", "125, 512, 215, 521", "215, 125, 512, 521"],
+    "correctAnswer": "125, 215, 512, 521"
+  },
+  {
+    "question": "Sắp xếp các số sau theo thứ tự từ lớn đến bé: 698, 986, 869, 689.",
+    "options": ["986, 869, 698, 689", "689, 698, 869, 986", "986, 698, 869, 689", "869, 986, 689, 698"],
+    "correctAnswer": "986, 869, 698, 689"
+  },
+  {
+    "question": "3 trăm và 5 đơn vị là số nào?",
+    "options": ["305", "350", "35", "503"],
+    "correctAnswer": "305"
+  },
+  {
+    "question": "Số 777 có chữ số hàng trăm là:",
+    "options": ["7", "70", "700", "77"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số 777 có chữ số hàng chục là:",
+    "options": ["7", "70", "700", "77"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số 777 có chữ số hàng đơn vị là:",
+    "options": ["7", "70", "700", "77"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số 261 được viết thành tổng nào sau đây?",
+    "options": ["200 + 60 + 1", "200 + 61", "260 + 1", "Cả ba đáp án trên"],
+    "correctAnswer": "Cả ba đáp án trên"
+  },
+  {
+    "question": "So sánh: 400 + 50 và 405",
+    "options": ["400 + 50 > 405", "400 + 50 < 405", "400 + 50 = 405", "Không so sánh được"],
+    "correctAnswer": "400 + 50 > 405"
+  },
+  {
+    "question": "So sánh: 628 và 600 + 80 + 2",
+    "options": ["628 < 600 + 80 + 2", "628 > 600 + 80 + 2", "628 = 600 + 80 + 2", "Không so sánh được"],
+    "correctAnswer": "628 < 600 + 80 + 2"
+  },
+  {
+    "question": "Số liền trước của số bé nhất có ba chữ số là:",
+    "options": ["99", "98", "101", "100"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số liền sau của số lớn nhất có ba chữ số là:",
+    "options": ["1000", "998", "100", "999"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Trong các số tròn chục từ 110 đến 150, số nào lớn nhất?",
+    "options": ["150", "110", "140", "149"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Trong các số tròn trăm từ 100 đến 1000, có bao nhiêu số?",
+    "options": ["10 số", "9 số", "11 số", "8 số"],
+    "correctAnswer": "10 số"
+  },
+  {
+    "question": "Số 500 gồm mấy trăm?",
+    "options": ["5 trăm", "50 trăm", "500 trăm", "0 trăm"],
+    "correctAnswer": "5 trăm"
+  },
+  {
+    "question": "Số 320 gồm mấy chục?",
+    "options": ["32 chục", "3 chục", "2 chục", "20 chục"],
+    "correctAnswer": "32 chục"
+  },
+  {
+    "question": "Số 479 có chữ số hàng chục là:",
+    "options": ["7", "4", "9", "70"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số 198 có chữ số hàng đơn vị là:",
+    "options": ["8", "1", "9", "90"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số 'Chín trăm chín mươi' được viết là:",
+    "options": ["990", "909", "999", "900"],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "Số 303 được đọc là:",
+    "options": ["Ba trăm linh ba", "Ba không ba", "Ba trăm ba", "Ba trăm ba mươi"],
+    "correctAnswer": "Ba trăm linh ba"
+  },
+  {
+    "question": "Viết số 615 thành tổng:",
+    "options": ["600 + 10 + 5", "60 + 10 + 5", "600 + 15", "6 + 1 + 5"],
+    "correctAnswer": "600 + 10 + 5"
+  },
+  {
+    "question": "Số nào có chữ số hàng trăm là 2, chữ số hàng chục là 7 và chữ số hàng đơn vị là 0?",
+    "options": ["270", "207", "720", "702"],
+    "correctAnswer": "270"
+  },
+  {
+    "question": "So sánh: 299 và 301",
+    "options": ["299 < 301", "299 > 301", "299 = 301", "Không so sánh được"],
+    "correctAnswer": "299 < 301"
+  },
+  {
+    "question": "So sánh: 789 và 780",
+    "options": ["789 > 780", "789 < 780", "789 = 780", "Không so sánh được"],
+    "correctAnswer": "789 > 780"
+  },
+  {
+    "question": "Tìm số tròn chục x, biết 120 < x < 140",
+    "options": ["130", "125", "135", "140"],
+    "correctAnswer": "130"
+  },
+  {
+    "question": "Tìm số tròn trăm y, biết 500 < y < 700",
+    "options": ["600", "550", "650", "700"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Số 1000 gồm mấy trăm?",
+    "options": ["10 trăm", "1 trăm", "100 trăm", "0 trăm"],
+    "correctAnswer": "10 trăm"
+  },
+  {
+    "question": "40 chục bằng bao nhiêu?",
+    "options": ["400", "40", "4", "4000"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Số 800 được đọc là:",
+    "options": ["Tám trăm", "Tám không không", "Tám chục", "Tám nghìn"],
+    "correctAnswer": "Tám trăm"
+  },
+  {
+    "question": "Số 'Hai trăm hai mươi' được viết là:",
+    "options": ["220", "202", "222", "200"],
+    "correctAnswer": "220"
+  },
+  {
+    "question": "Làm tròn số 550 đến hàng trăm ta được:",
+    "options": ["600", "500", "550", "500 hoặc 600"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Số 999 là số liền trước của số nào?",
+    "options": ["1000", "998", "100", "990"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số 101 là số liền sau của số nào?",
+    "options": ["100", "102", "99", "110"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Trong số 444, giá trị của chữ số hàng trăm lớn hơn giá trị của chữ số hàng chục bao nhiêu lần?",
+    "options": ["10 lần", "1 lần", "100 lần", "0 lần"],
+    "correctAnswer": "10 lần"
+  },
+  {
+    "question": "Số 369 được viết thành tổng là:",
+    "options": ["300 + 60 + 9", "3 + 6 + 9", "300 + 69", "360 + 9"],
+    "correctAnswer": "300 + 60 + 9"
+  },
+  {
+    "question": "Số có ba chữ số giống nhau là số nào?",
+    "options": ["111, 222, 333,...", "123, 456, 789,...", "100, 200, 300,...", "101, 202, 303,..."],
+    "correctAnswer": "111, 222, 333,..."
+  },
+  {
+    "question": "So sánh: 501 và 105",
+    "options": ["501 > 105", "501 < 105", "501 = 105", "Không so sánh được"],
+    "correctAnswer": "501 > 105"
+  },
+  {
+    "question": "So sánh: 889 và 898",
+    "options": ["889 < 898", "889 > 898", "889 = 898", "Không so sánh được"],
+    "correctAnswer": "889 < 898"
+  },
+  {
+    "question": "Dãy số nào được viết theo thứ tự từ bé đến lớn?",
+    "options": ["234, 324, 432", "432, 324, 234", "234, 432, 324", "324, 234, 432"],
+    "correctAnswer": "234, 324, 432"
+  },
+  {
+    "question": "Dãy số nào được viết theo thứ tự từ lớn đến bé?",
+    "options": ["901, 190, 109", "109, 190, 901", "901, 109, 190", "190, 901, 109"],
+    "correctAnswer": "901, 190, 109"
+  },
+  {
+    "question": "Số 700 gồm mấy chục?",
+    "options": ["70 chục", "7 chục", "0 chục", "700 chục"],
+    "correctAnswer": "70 chục"
+  },
+  {
+    "question": "Số 1000 gồm mấy chục?",
+    "options": ["100 chục", "10 chục", "1 chục", "0 chục"],
+    "correctAnswer": "100 chục"
+  },
+  {
+    "question": "Số tròn chục lớn nhất có ba chữ số là:",
+    "options": ["990", "900", "999", "100"],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "Số tròn trăm bé nhất có ba chữ số là:",
+    "options": ["100", "200", "110", "900"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số 'Một trăm mười một' được viết là:",
+    "options": ["111", "101", "110", "11"],
+    "correctAnswer": "111"
+  },
+  {
+    "question": "Số 450 được đọc là:",
+    "options": ["Bốn trăm năm mươi", "Bốn năm không", "Bốn trăm năm chục", "Bốn trăm linh năm"],
+    "correctAnswer": "Bốn trăm năm mươi"
+  },
+  {
+    "question": "Số 900 + 8 bằng số nào?",
+    "options": ["908", "980", "809", "98"],
+    "correctAnswer": "908"
+  },
+  {
+    "question": "Trong số 285, chữ số nào có giá trị lớn nhất?",
+    "options": ["Chữ số 2", "Chữ số 8", "Chữ số 5", "Cả ba bằng nhau"],
+    "correctAnswer": "Chữ số 2"
+  },
+  {
+    "question": "Trong số 639, chữ số nào có giá trị bé nhất?",
+    "options": ["Chữ số 9", "Chữ số 3", "Chữ số 6", "Cả ba bằng nhau"],
+    "correctAnswer": "Chữ số 9"
+  },
+  {
+    "question": "Số liền sau của 998 là:",
+    "options": ["999", "997", "1000", "990"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Số liền trước của 201 là:",
+    "options": ["200", "202", "199", "210"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Số có ba chữ số mà tổng các chữ số bằng 3 là số nào?",
+    "options": ["111, 120, 210, 201, 300, 102", "123", "333", "112"],
+    "correctAnswer": "111, 120, 210, 201, 300, 102"
+  },
+  {
+    "question": "So sánh: 99 và 101",
+    "options": ["99 < 101", "99 > 101", "99 = 101", "Không so sánh được"],
+    "correctAnswer": "99 < 101"
+  },
+  {
+    "question": "So sánh: 1000 và 999",
+    "options": ["1000 > 999", "1000 < 999", "1000 = 999", "Không so sánh được"],
+    "correctAnswer": "1000 > 999"
+  },
+  {
+    "question": "Số nào ở giữa 567 và 569?",
+    "options": ["568", "566", "570", "560"],
+    "correctAnswer": "568"
+  },
+  {
+    "question": "Dùng ba chữ số 1, 2, 3 để viết tất cả các số có ba chữ số khác nhau. Số lớn nhất là số nào?",
+    "options": ["321", "123", "231", "312"],
+    "correctAnswer": "321"
+  },
+  {
+    "question": "Dùng ba chữ số 1, 2, 3 để viết tất cả các số có ba chữ số khác nhau. Số bé nhất là số nào?",
+    "options": ["123", "321", "132", "213"],
+    "correctAnswer": "123"
+  }
+]
+

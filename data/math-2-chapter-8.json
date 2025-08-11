@@ -1,0 +1,488 @@
+[
+  {
+    "question": "Phép cộng 3 + 3 + 3 + 3 được chuyển thành phép nhân nào?",
+    "options": ["3 x 4", "3 + 4", "4 x 3", "3 x 3"],
+    "correctAnswer": "3 x 4"
+  },
+  {
+    "question": "Phép nhân 5 x 2 được chuyển thành tổng các số hạng bằng nhau là:",
+    "options": ["5 + 5", "2 + 2 + 2 + 2 + 2", "5 + 2", "5 x 5"],
+    "correctAnswer": "5 + 5"
+  },
+  {
+    "question": "Trong phép nhân 2 x 5 = 10, số 2 và số 5 được gọi là gì?",
+    "options": ["Thừa số", "Tích", "Tổng", "Hiệu"],
+    "correctAnswer": "Thừa số"
+  },
+  {
+    "question": "Trong phép nhân 2 x 5 = 10, số 10 được gọi là gì?",
+    "options": ["Tích", "Thừa số", "Thương", "Số hạng"],
+    "correctAnswer": "Tích"
+  },
+  {
+    "question": "Kết quả của phép tính 2 x 3 là:",
+    "options": ["6", "5", "23", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Kết quả của phép tính 2 x 7 là:",
+    "options": ["14", "9", "13", "16"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Kết quả của phép tính 2 x 9 là:",
+    "options": ["18", "11", "17", "20"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "2 x mấy bằng 10?",
+    "options": ["5", "4", "6", "8"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép tính 5 x 4 là:",
+    "options": ["20", "9", "15", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Kết quả của phép tính 5 x 6 là:",
+    "options": ["30", "11", "20", "35"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Kết quả của phép tính 5 x 8 là:",
+    "options": ["40", "13", "30", "45"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "5 x mấy bằng 50?",
+    "options": ["10", "9", "8", "5"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Có 10 cái kẹo chia đều cho 2 bạn. Mỗi bạn được mấy cái kẹo? Đây là bài toán của phép tính gì?",
+    "options": ["Phép chia", "Phép nhân", "Phép cộng", "Phép trừ"],
+    "correctAnswer": "Phép chia"
+  },
+  {
+    "question": "Từ phép nhân 2 x 5 = 10, ta có thể viết được phép chia nào?",
+    "options": ["10 : 2 = 5", "10 - 2 = 8", "10 + 2 = 12", "5 : 2 = ?"],
+    "correctAnswer": "10 : 2 = 5"
+  },
+  {
+    "question": "Trong phép chia 12 : 2 = 6, số 12 được gọi là gì?",
+    "options": ["Số bị chia", "Số chia", "Thương", "Tích"],
+    "correctAnswer": "Số bị chia"
+  },
+  {
+    "question": "Trong phép chia 12 : 2 = 6, số 2 được gọi là gì?",
+    "options": ["Số chia", "Số bị chia", "Thương", "Thừa số"],
+    "correctAnswer": "Số chia"
+  },
+  {
+    "question": "Trong phép chia 12 : 2 = 6, số 6 được gọi là gì?",
+    "options": ["Thương", "Số dư", "Số bị chia", "Số chia"],
+    "correctAnswer": "Thương"
+  },
+  {
+    "question": "Kết quả của phép tính 8 : 2 là:",
+    "options": ["4", "6", "10", "16"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Kết quả của phép tính 14 : 2 là:",
+    "options": ["7", "12", "16", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Kết quả của phép tính 20 : 2 là:",
+    "options": ["10", "18", "22", "8"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Kết quả của phép tính 15 : 5 là:",
+    "options": ["3", "10", "20", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Kết quả của phép tính 25 : 5 là:",
+    "options": ["5", "20", "30", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Kết quả của phép tính 45 : 5 là:",
+    "options": ["9", "40", "50", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Mỗi đôi đũa có 2 chiếc. 5 đôi đũa có bao nhiêu chiếc?",
+    "options": ["10 chiếc", "7 chiếc", "3 chiếc", "20 chiếc"],
+    "correctAnswer": "10 chiếc"
+  },
+  {
+    "question": "Mỗi bàn có 2 học sinh. 8 bàn như vậy có bao nhiêu học sinh?",
+    "options": ["16 học sinh", "10 học sinh", "6 học sinh", "20 học sinh"],
+    "correctAnswer": "16 học sinh"
+  },
+  {
+    "question": "Mỗi bàn tay có 5 ngón tay. 2 bàn tay có bao nhiêu ngón tay?",
+    "options": ["10 ngón tay", "7 ngón tay", "3 ngón tay", "15 ngón tay"],
+    "correctAnswer": "10 ngón tay"
+  },
+  {
+    "question": "Có 12 quả cam chia đều vào 2 đĩa. Mỗi đĩa có bao nhiêu quả cam?",
+    "options": ["6 quả", "10 quả", "14 quả", "5 quả"],
+    "correctAnswer": "6 quả"
+  },
+  {
+    "question": "Có 30 bông hoa cắm đều vào 5 lọ. Mỗi lọ có bao nhiêu bông hoa?",
+    "options": ["6 bông", "25 bông", "35 bông", "5 bông"],
+    "correctAnswer": "6 bông"
+  },
+  {
+    "question": "Tính: 2 x 6 =",
+    "options": ["12", "8", "4", "14"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tính: 5 x 7 =",
+    "options": ["35", "12", "30", "40"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Tính: 16 : 2 =",
+    "options": ["8", "14", "18", "7"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tính: 40 : 5 =",
+    "options": ["8", "35", "45", "7"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Phép nhân 4 x 5 có nghĩa là:",
+    "options": ["4 được lấy 5 lần", "5 được lấy 4 lần", "Cả hai đáp án trên đều đúng", "4 cộng 5"],
+    "correctAnswer": "Cả hai đáp án trên đều đúng"
+  },
+  {
+    "question": "Tìm tích, biết hai thừa số là 2 và 8.",
+    "options": ["16", "10", "6", "4"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Tìm tích, biết hai thừa số là 5 và 5.",
+    "options": ["25", "10", "0", "30"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Tìm thương, biết số bị chia là 18 và số chia là 2.",
+    "options": ["9", "16", "20", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tìm thương, biết số bị chia là 50 và số chia là 5.",
+    "options": ["10", "45", "55", "9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Điền dấu thích hợp: 2 x 8 ... 5 x 3",
+    "options": [">", "<", "=", "+"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Điền dấu thích hợp: 12 : 2 ... 30 : 5",
+    "options": ["=", ">", "<", "-"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Điền số thích hợp: 2 x ... = 14",
+    "options": ["7", "6", "8", "12"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Điền số thích hợp: 5 x ... = 20",
+    "options": ["4", "3", "5", "15"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Điền số thích hợp: ... : 2 = 5",
+    "options": ["10", "7", "3", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Điền số thích hợp: ... : 5 = 7",
+    "options": ["35", "2", "12", "40"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Mỗi con gà có 2 chân. Hỏi 7 con gà có bao nhiêu chân?",
+    "options": ["14 chân", "9 chân", "5 chân", "16 chân"],
+    "correctAnswer": "14 chân"
+  },
+  {
+    "question": "Mỗi tuần có 7 ngày. 5 tuần có bao nhiêu ngày?",
+    "options": ["35 ngày", "12 ngày", "30 ngày", "40 ngày"],
+    "correctAnswer": "35 ngày"
+  },
+  {
+    "question": "Có 16 học sinh xếp thành 2 hàng đều nhau. Mỗi hàng có bao nhiêu học sinh?",
+    "options": ["8 học sinh", "14 học sinh", "18 học sinh", "7 học sinh"],
+    "correctAnswer": "8 học sinh"
+  },
+  {
+    "question": "Có 40 cái bánh chia đều vào 5 hộp. Mỗi hộp có bao nhiêu cái bánh?",
+    "options": ["8 cái bánh", "35 cái bánh", "45 cái bánh", "7 cái bánh"],
+    "correctAnswer": "8 cái bánh"
+  },
+  {
+    "question": "2 x 1 =",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "5 x 1 =",
+    "options": ["5", "1", "6", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "2 : 2 =",
+    "options": ["1", "2", "0", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "5 : 5 =",
+    "options": ["1", "5", "0", "10"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Phép tính nào có kết quả bằng 10?",
+    "options": ["2 x 5", "2 + 5", "10 - 2", "10 + 5"],
+    "correctAnswer": "2 x 5"
+  },
+  {
+    "question": "Phép tính nào có kết quả bằng 4?",
+    "options": ["20 : 5", "20 - 5", "4 x 5", "4 + 5"],
+    "correctAnswer": "20 : 5"
+  },
+  {
+    "question": "Trong phép chia, số bị chia là 15, thương là 3. Tìm số chia.",
+    "options": ["5", "12", "18", "45"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Trong phép chia, số chia là 2, thương là 9. Tìm số bị chia.",
+    "options": ["18", "11", "7", "4.5"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Tổng của 5 và 5 được viết thành phép nhân là:",
+    "options": ["5 x 2", "5 + 5", "2 x 5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tính: 2 x 4 + 10 =",
+    "options": ["18", "8", "28", "16"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Tính: 5 x 9 - 20 =",
+    "options": ["25", "45", "15", "35"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Tính: 18 : 2 + 5 =",
+    "options": ["14", "9", "4", "23"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Tính: 30 : 5 - 6 =",
+    "options": ["0", "6", "1", "5"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Mỗi túi có 5 kg gạo. 6 túi như vậy có tất cả bao nhiêu ki-lô-gam gạo?",
+    "options": ["30 kg", "11 kg", "1 kg", "35 kg"],
+    "correctAnswer": "30 kg"
+  },
+  {
+    "question": "Có 14 lít dầu chia đều vào 2 can. Mỗi can có bao nhiêu lít dầu?",
+    "options": ["7 lít", "12 lít", "16 lít", "6 lít"],
+    "correctAnswer": "7 lít"
+  },
+  {
+    "question": "2 x 2 =",
+    "options": ["4", "2", "6", "0"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "5 x 3 =",
+    "options": ["15", "8", "2", "18"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "6 : 2 =",
+    "options": ["3", "4", "8", "12"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "35 : 5 =",
+    "options": ["7", "30", "40", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tích của 2 và 10 là:",
+    "options": ["20", "12", "8", "5"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Thương của 20 và 5 là:",
+    "options": ["4", "15", "25", "100"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Từ phép nhân 5 x 8 = 40, ta có thể viết được phép chia nào?",
+    "options": ["40 : 5 = 8", "40 : 8 = 5", "Cả hai đáp án trên", "40 - 8 = 32"],
+    "correctAnswer": "Cả hai đáp án trên"
+  },
+  {
+    "question": "Mẹ mua 4 vỉ sữa, mỗi vỉ có 5 hộp. Hỏi mẹ mua tất cả bao nhiêu hộp sữa?",
+    "options": ["20 hộp", "9 hộp", "1 hộp", "25 hộp"],
+    "correctAnswer": "20 hộp"
+  },
+  {
+    "question": "Có 18 cái bút chì chia cho một số bạn, mỗi bạn được 2 cái. Hỏi có bao nhiêu bạn được chia?",
+    "options": ["9 bạn", "16 bạn", "20 bạn", "8 bạn"],
+    "correctAnswer": "9 bạn"
+  },
+  {
+    "question": "2 x 0 =",
+    "options": ["0", "2", "1", "Không tính được"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "5 x 0 =",
+    "options": ["0", "5", "1", "Không tính được"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số nào nhân với 5 cũng có chữ số tận cùng là 0 hoặc 5?",
+    "options": ["Đúng", "Sai", "Chỉ khi nhân với số chẵn", "Chỉ khi nhân với số lẻ"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Kết quả của phép nhân hai số chẵn luôn là một số chẵn. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "So sánh: 2 x 7 và 5 x 3",
+    "options": ["2 x 7 < 5 x 3", "2 x 7 > 5 x 3", "2 x 7 = 5 x 3", "Không so sánh được"],
+    "correctAnswer": "2 x 7 < 5 x 3"
+  },
+  {
+    "question": "So sánh: 16 : 2 và 45 : 5",
+    "options": ["16 : 2 < 45 : 5", "16 : 2 > 45 : 5", "16 : 2 = 45 : 5", "Không so sánh được"],
+    "correctAnswer": "16 : 2 < 45 : 5"
+  },
+  {
+    "question": "Tìm một số, biết rằng lấy số đó nhân với 2 thì được 12.",
+    "options": ["6", "10", "14", "24"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tìm một số, biết rằng lấy 25 chia cho số đó thì được 5.",
+    "options": ["5", "20", "30", "125"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Mỗi xe ô tô có 5 bánh (tính cả bánh dự phòng). Hỏi 9 xe như vậy có bao nhiêu bánh xe?",
+    "options": ["45 bánh", "14 bánh", "40 bánh", "50 bánh"],
+    "correctAnswer": "45 bánh"
+  },
+  {
+    "question": "Lớp 2A có 20 bạn, chia thành các nhóm, mỗi nhóm có 5 bạn. Hỏi lớp 2A chia được mấy nhóm?",
+    "options": ["4 nhóm", "15 nhóm", "25 nhóm", "5 nhóm"],
+    "correctAnswer": "4 nhóm"
+  },
+  {
+    "question": "2 x 5 x 3 =",
+    "options": ["30", "10", "13", "25"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "40 : 5 : 2 =",
+    "options": ["4", "8", "6", "10"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Thừa số thứ nhất là 5, thừa số thứ hai là 9. Tích là:",
+    "options": ["45", "14", "4", "50"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Số bị chia là 16, số chia là 2. Thương là:",
+    "options": ["8", "14", "18", "32"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "2 + 2 + 2 + 2 + 2 =",
+    "options": ["2 x 5", "2 + 5", "2 x 4", "5 x 2"],
+    "correctAnswer": "2 x 5"
+  },
+  {
+    "question": "5 + 5 + 5 =",
+    "options": ["5 x 3", "5 + 3", "3 x 5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tích của 5 và số lớn nhất có một chữ số là:",
+    "options": ["45", "50", "40", "59"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Thương của 14 và 2 là:",
+    "options": ["7", "12", "16", "28"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Có 10 đôi găng tay. Hỏi có tất cả bao nhiêu chiếc găng tay?",
+    "options": ["20 chiếc", "12 chiếc", "8 chiếc", "30 chiếc"],
+    "correctAnswer": "20 chiếc"
+  },
+  {
+    "question": "Có 50 ngôi sao chia đều cho 5 bạn. Mỗi bạn được bao nhiêu ngôi sao?",
+    "options": ["10 ngôi sao", "45 ngôi sao", "55 ngôi sao", "9 ngôi sao"],
+    "correctAnswer": "10 ngôi sao"
+  },
+  {
+    "question": "2 x 10 =",
+    "options": ["20", "12", "8", "22"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "5 x 2 =",
+    "options": ["10", "7", "3", "12"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "10 : 2 =",
+    "options": ["5", "8", "12", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "10 : 5 =",
+    "options": ["2", "5", "15", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong các phép tính sau, phép tính nào sai?",
+    "options": ["2 x 9 = 19", "5 x 5 = 25", "12 : 2 = 6", "30 : 5 = 6"],
+    "correctAnswer": "2 x 9 = 19"
+  },
+  {
+    "question": "Trong các phép tính sau, phép tính nào đúng?",
+    "options": ["5 x 8 = 40", "2 x 7 = 15", "16 : 2 = 7", "25 : 5 = 4"],
+    "correctAnswer": "5 x 8 = 40"
+  }
+]
+

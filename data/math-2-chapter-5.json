@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Hình ảnh nào sau đây là một điểm?",
+    "options": ["Một dấu chấm nhỏ", "Một vạch thẳng", "Một vòng tròn", "Một hình vuông"],
+    "correctAnswer": "Một dấu chấm nhỏ"
+  },
+  {
+    "question": "Nối hai điểm A và B ta được hình gì?",
+    "options": ["Đoạn thẳng AB", "Đường thẳng AB", "Điểm A", "Điểm B"],
+    "correctAnswer": "Đoạn thẳng AB"
+  },
+  {
+    "question": "Đoạn thẳng có bị giới hạn ở hai đầu không?",
+    "options": ["Có", "Không", "Chỉ giới hạn một đầu", "Không có đầu nào"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình ảnh một sợi chỉ được kéo căng thẳng gợi cho ta hình ảnh của một...",
+    "options": ["Đoạn thẳng", "Đường cong", "Điểm", "Hình tròn"],
+    "correctAnswer": "Đoạn thẳng"
+  },
+  {
+    "question": "Đường thẳng có bị kéo dài mãi về hai phía không?",
+    "options": ["Có", "Không", "Chỉ kéo dài về một phía", "Không thể kéo dài"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình ảnh nào sau đây là một đường cong?",
+    "options": ["Một sợi dây bị uốn lượn", "Một cây thước kẻ", "Cạnh của một quyển sách", "Một vạch kẻ thẳng"],
+    "correctAnswer": "Một sợi dây bị uốn lượn"
+  },
+  {
+    "question": "Khi nào ba điểm A, B, C được gọi là thẳng hàng?",
+    "options": ["Khi chúng cùng nằm trên một đường thẳng", "Khi chúng tạo thành một hình tam giác", "Khi chúng ở gần nhau", "Khi chúng cùng nằm trên một đường cong"],
+    "correctAnswer": "Khi chúng cùng nằm trên một đường thẳng"
+  },
+  {
+    "question": "Trong hình vẽ có 3 điểm M, N, P cùng nằm trên một thước kẻ. Ba điểm đó có thẳng hàng không?",
+    "options": ["Có", "Không", "Chỉ có M, N thẳng hàng", "Chỉ có N, P thẳng hàng"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình gồm nhiều đoạn thẳng nối tiếp nhau được gọi là gì?",
+    "options": ["Đường gấp khúc", "Đường thẳng", "Đường cong", "Đoạn thẳng"],
+    "correctAnswer": "Đường gấp khúc"
+  },
+  {
+    "question": "Đường gấp khúc ABCD gồm mấy đoạn thẳng?",
+    "options": ["3 đoạn thẳng (AB, BC, CD)", "2 đoạn thẳng (AB, CD)", "4 đoạn thẳng", "1 đoạn thẳng"],
+    "correctAnswer": "3 đoạn thẳng (AB, BC, CD)"
+  },
+  {
+    "question": "Độ dài đường gấp khúc được tính như thế nào?",
+    "options": ["Tổng độ dài các đoạn thẳng tạo thành nó", "Hiệu độ dài các đoạn thẳng", "Tích độ dài các đoạn thẳng", "Lấy độ dài đoạn dài nhất"],
+    "correctAnswer": "Tổng độ dài các đoạn thẳng tạo thành nó"
+  },
+  {
+    "question": "Đường gấp khúc MNP có MN = 5cm, NP = 7cm. Tính độ dài đường gấp khúc MNP.",
+    "options": ["12 cm", "2 cm", "35 cm", "13 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Hình tứ giác là hình có mấy cạnh?",
+    "options": ["4 cạnh", "3 cạnh", "5 cạnh", "6 cạnh"],
+    "correctAnswer": "4 cạnh"
+  },
+  {
+    "question": "Hình nào sau đây là hình tứ giác?",
+    "options": ["Hình có 4 đoạn thẳng khép kín", "Hình tam giác", "Hình tròn", "Đường gấp khúc có 2 đoạn"],
+    "correctAnswer": "Hình có 4 đoạn thẳng khép kín"
+  },
+  {
+    "question": "Kể tên các đỉnh của hình tứ giác ABCD.",
+    "options": ["A, B, C, D", "A, B, C", "AB, BC, CD, DA", "M, N, P, Q"],
+    "correctAnswer": "A, B, C, D"
+  },
+  {
+    "question": "Kể tên các cạnh của hình tứ giác MNPQ.",
+    "options": ["MN, NP, PQ, QM", "M, N, P, Q", "MN, PQ", "MP, NQ"],
+    "correctAnswer": "MN, NP, PQ, QM"
+  },
+  {
+    "question": "Gấp một tờ giấy hình chữ nhật theo đường chéo, ta được hình gì?",
+    "options": ["Hai hình tam giác", "Hai hình chữ nhật nhỏ", "Một hình vuông", "Một hình tròn"],
+    "correctAnswer": "Hai hình tam giác"
+  },
+  {
+    "question": "Cắt một hình vuông theo một đường thẳng đi qua hai đỉnh đối diện, ta được mấy hình tam giác?",
+    "options": ["2 hình", "1 hình", "3 hình", "4 hình"],
+    "correctAnswer": "2 hình"
+  },
+  {
+    "question": "Ghép hai hình tam giác vuông bằng nhau có thể tạo thành hình nào sau đây?",
+    "options": ["Hình vuông", "Hình tròn", "Hình elip", "Đường cong"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Để vẽ một đoạn thẳng, em cần ít nhất mấy điểm?",
+    "options": ["2 điểm", "1 điểm", "3 điểm", "4 điểm"],
+    "correctAnswer": "2 điểm"
+  },
+  {
+    "question": "Dùng thước và bút, em có thể vẽ được hình nào sau đây?",
+    "options": ["Đoạn thẳng", "Đường cong tự do", "Hình cầu", "Hình lập phương"],
+    "correctAnswer": "Đoạn thẳng"
+  },
+  {
+    "question": "Trong hình vẽ, có bao nhiêu đoạn thẳng?",
+    "options": ["Hãy xem hình và đếm", "2", "3", "4"],
+    "correctAnswer": "Hãy xem hình và đếm"
+  },
+  {
+    "question": "Trong hình vẽ, có bao nhiêu hình tứ giác?",
+    "options": ["Hãy xem hình và đếm", "1", "2", "3"],
+    "correctAnswer": "Hãy xem hình và đếm"
+  },
+  {
+    "question": "Đường gấp khúc ABCDE có độ dài các đoạn thẳng lần lượt là 2cm, 3cm, 4cm, 5cm. Tính độ dài đường gấp khúc đó.",
+    "options": ["14 cm", "13 cm", "15 cm", "12 cm"],
+    "correctAnswer": "14 cm"
+  },
+  {
+    "question": "Ba điểm nào sau đây không thẳng hàng?",
+    "options": ["Ba đỉnh của một hình tam giác", "Ba điểm trên một thước kẻ", "Ba điểm trên một sợi dây căng thẳng", "Ba cột điện trên một đường thẳng"],
+    "correctAnswer": "Ba đỉnh của một hình tam giác"
+  },
+  {
+    "question": "Đoạn thẳng MN dài 10 cm. Trên đoạn thẳng MN lấy điểm I sao cho MI = 4 cm. Tính độ dài đoạn thẳng IN.",
+    "options": ["6 cm", "14 cm", "5 cm", "7 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Hình tứ giác có mấy đỉnh?",
+    "options": ["4 đỉnh", "3 đỉnh", "5 đỉnh", "6 đỉnh"],
+    "correctAnswer": "4 đỉnh"
+  },
+  {
+    "question": "Xếp 4 que tính bằng nhau có thể tạo thành hình gì?",
+    "options": ["Hình vuông", "Hình tam giác", "Hình tròn", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Đường diềm trên váy áo thường có dạng...",
+    "options": ["Đường gấp khúc lặp lại", "Đường thẳng", "Đường tròn", "Hình vuông"],
+    "correctAnswer": "Đường gấp khúc lặp lại"
+  },
+  {
+    "question": "Tên của một đoạn thẳng được đặt bằng...",
+    "options": ["Tên hai điểm ở hai đầu", "Một chữ cái in thường", "Một chữ cái in hoa", "Một con số"],
+    "correctAnswer": "Tên hai điểm ở hai đầu"
+  },
+  {
+    "question": "Đường thẳng có điểm đầu và điểm cuối không?",
+    "options": ["Không", "Có", "Chỉ có điểm đầu", "Chỉ có điểm cuối"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Đường cong có thể là đường khép kín không?",
+    "options": ["Có, ví dụ như đường tròn", "Không bao giờ", "Luôn luôn là đường hở", "Chỉ khi nó là đường thẳng"],
+    "correctAnswer": "Có, ví dụ như đường tròn"
+  },
+  {
+    "question": "Cho ba điểm X, Y, Z. Nếu X, Y, Z thẳng hàng thì điểm nào nằm giữa hai điểm còn lại?",
+    "options": ["Cần nhìn hình vẽ để xác định", "Luôn là điểm X", "Luôn là điểm Y", "Luôn là điểm Z"],
+    "correctAnswer": "Cần nhìn hình vẽ để xác định"
+  },
+  {
+    "question": "Một đường gấp khúc có 2 đoạn thẳng bằng nhau, mỗi đoạn dài 8 cm. Độ dài đường gấp khúc đó là:",
+    "options": ["16 cm", "8 cm", "24 cm", "14 cm"],
+    "correctAnswer": "16 cm"
+  },
+  {
+    "question": "Hình tứ giác có các cạnh bằng nhau và các góc bằng nhau được gọi là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cắt đôi một tờ giấy hình vuông theo đường nối trung điểm hai cạnh đối diện, ta được hai hình gì?",
+    "options": ["Hai hình chữ nhật", "Hai hình vuông", "Hai hình tam giác", "Hai hình thang"],
+    "correctAnswer": "Hai hình chữ nhật"
+  },
+  {
+    "question": "Dùng 3 que tính có thể xếp thành hình gì?",
+    "options": ["Hình tam giác", "Hình vuông", "Hình tứ giác", "Hình tròn"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Vẽ đoạn thẳng AB dài 5 cm. Em sẽ dùng dụng cụ gì?",
+    "options": ["Thước có vạch chia xăng-ti-mét", "Com-pa", "Ê-ke", "Thước dây"],
+    "correctAnswer": "Thước có vạch chia xăng-ti-mét"
+  },
+  {
+    "question": "Kể tên một vật có dạng đường cong.",
+    "options": ["Cầu vồng", "Thước kẻ", "Quyển sách", "Viên gạch"],
+    "correctAnswer": "Cầu vồng"
+  },
+  {
+    "question": "Kể tên một vật có dạng đoạn thẳng.",
+    "options": ["Cạnh bàn", "Sợi bún", "Quả bóng", "Con sông"],
+    "correctAnswer": "Cạnh bàn"
+  },
+  {
+    "question": "Điểm khác nhau cơ bản giữa đoạn thẳng và đường thẳng là gì?",
+    "options": ["Đoạn thẳng bị giới hạn, đường thẳng thì không", "Đoạn thẳng cong, đường thẳng thẳng", "Đoạn thẳng ngắn, đường thẳng dài", "Không có gì khác nhau"],
+    "correctAnswer": "Đoạn thẳng bị giới hạn, đường thẳng thì không"
+  },
+  {
+    "question": "Đường gấp khúc có thể tự cắt chính nó không?",
+    "options": ["Có", "Không", "Chỉ khi nó có 5 đoạn", "Chỉ khi nó là đường thẳng"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Tính độ dài đường gấp khúc ABCD biết AB = 10cm, BC = 12cm, CD = 9cm.",
+    "options": ["31 cm", "30 cm", "32 cm", "22 cm"],
+    "correctAnswer": "31 cm"
+  },
+  {
+    "question": "Hình chữ nhật có phải là một hình tứ giác không?",
+    "options": ["Có", "Không", "Đôi khi", "Chỉ khi nó là hình vuông"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Làm thế nào để kiểm tra ba điểm có thẳng hàng hay không mà không cần thước kẻ?",
+    "options": ["Dùng một sợi chỉ căng thẳng", "Ước lượng bằng mắt", "Dùng compa", "Không thể kiểm tra được"],
+    "correctAnswer": "Dùng một sợi chỉ căng thẳng"
+  },
+  {
+    "question": "Ghép 6 hình tam giác đều nhỏ bằng nhau có thể tạo thành hình gì?",
+    "options": ["Hình lục giác đều", "Hình vuông", "Hình tròn", "Hình ngũ giác"],
+    "correctAnswer": "Hình lục giác đều"
+  },
+  {
+    "question": "Vẽ một đoạn thẳng dài hơn 7cm nhưng ngắn hơn 8cm. Độ dài nào sau đây là phù hợp?",
+    "options": ["7cm 5mm", "7cm", "8cm", "6cm"],
+    "correctAnswer": "7cm 5mm"
+  },
+  {
+    "question": "Trong hình tứ giác ABCD, cạnh đối diện với cạnh AB là cạnh nào?",
+    "options": ["CD", "BC", "AD", "AC"],
+    "correctAnswer": "CD"
+  },
+  {
+    "question": "Đường gấp khúc MNPQ có độ dài 20 cm. Biết MN=NP=PQ. Tính độ dài đoạn thẳng MN.",
+    "options": ["Không đủ dữ kiện", "5 cm", "6 cm", "7 cm"],
+    "correctAnswer": "Không đủ dữ kiện"
+  },
+  {
+    "question": "Đường gấp khúc MNPQ có 3 đoạn thẳng và có độ dài 21 cm. Biết MN=NP=PQ. Tính độ dài đoạn thẳng MN.",
+    "options": ["7 cm", "21 cm", "6 cm", "8 cm"],
+    "correctAnswer": "7 cm"
+  },
+  {
+    "question": "Một hình tứ giác có độ dài các cạnh là 5cm, 6cm, 7cm, 8cm. Chu vi của hình tứ giác đó là bao nhiêu?",
+    "options": ["26 cm", "25 cm", "27 cm", "24 cm"],
+    "correctAnswer": "26 cm"
+  },
+  {
+    "question": "Chu vi của một hình là gì?",
+    "options": ["Độ dài đường bao quanh hình đó", "Diện tích của hình đó", "Số cạnh của hình đó", "Số đỉnh của hình đó"],
+    "correctAnswer": "Độ dài đường bao quanh hình đó"
+  },
+  {
+    "question": "Lấy 4 điểm không thẳng hàng, ta có thể vẽ được bao nhiêu đoạn thẳng nối 2 trong 4 điểm đó?",
+    "options": ["6 đoạn thẳng", "4 đoạn thẳng", "5 đoạn thẳng", "3 đoạn thẳng"],
+    "correctAnswer": "6 đoạn thẳng"
+  },
+  {
+    "question": "Tia sáng mặt trời chiếu thẳng được xem là hình ảnh của...",
+    "options": ["Đường thẳng", "Đoạn thẳng", "Đường cong", "Điểm"],
+    "correctAnswer": "Đường thẳng"
+  },
+  {
+    "question": "Đường biên giới của một quốc gia trên bản đồ thường là...",
+    "options": ["Đường cong hoặc đường gấp khúc", "Đường thẳng", "Đường tròn", "Một điểm"],
+    "correctAnswer": "Đường cong hoặc đường gấp khúc"
+  },
+  {
+    "question": "Để tạo thành một hình tứ giác, cần ít nhất bao nhiêu que tính?",
+    "options": ["4 que", "3 que", "5 que", "2 que"],
+    "correctAnswer": "4 que"
+  },
+  {
+    "question": "Gấp một tờ giấy làm tư, sau đó cắt một góc. Khi mở ra, ta được hình có mấy lỗ thủng đối xứng?",
+    "options": ["4 lỗ", "1 lỗ", "2 lỗ", "3 lỗ"],
+    "correctAnswer": "4 lỗ"
+  },
+  {
+    "question": "Điểm A có phải là một đoạn thẳng không?",
+    "options": ["Không", "Có", "Chỉ khi nó to", "Chỉ khi nó có màu"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Đoạn thẳng AB và đoạn thẳng BA có phải là một không?",
+    "options": ["Có", "Không", "Là hai đoạn thẳng khác nhau", "Tùy trường hợp"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Đường gấp khúc khép kín tạo thành hình gì?",
+    "options": ["Một hình đa giác (tam giác, tứ giác...)", "Một đường tròn", "Một đường thẳng", "Một điểm"],
+    "correctAnswer": "Một hình đa giác (tam giác, tứ giác...)"
+  },
+  {
+    "question": "Tính độ dài đường gấp khúc gồm 2 đoạn, một đoạn dài 15cm và một đoạn dài 9cm.",
+    "options": ["24 cm", "6 cm", "23 cm", "25 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Hình vuông có phải là một trường hợp đặc biệt của hình tứ giác không?",
+    "options": ["Có", "Không", "Chỉ khi cạnh nó bằng 5", "Chỉ khi nó màu xanh"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Cắt một quả cam, mặt cắt có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Đường thẳng"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Để xếp thành một ngôi nhà đơn giản, em cần những hình phẳng nào?",
+    "options": ["Một hình vuông và một hình tam giác", "Hai hình tròn", "Ba đường thẳng", "Bốn điểm"],
+    "correctAnswer": "Một hình vuông và một hình tam giác"
+  },
+  {
+    "question": "Vẽ một đoạn thẳng CD dài 8cm.",
+    "options": ["Học sinh tự thực hành", "Không thể vẽ", "Vẽ đường cong", "Vẽ điểm"],
+    "correctAnswer": "Học sinh tự thực hành"
+  },
+  {
+    "question": "Trong các điểm A, B, C, D, nếu A, B, C thẳng hàng và B, C, D thẳng hàng thì A, B, C, D có thẳng hàng không?",
+    "options": ["Có", "Không", "Chỉ có A, D thẳng hàng", "Không thể xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Đường gấp khúc có thể có bao nhiêu đoạn thẳng?",
+    "options": ["Từ 2 đoạn trở lên", "Chỉ 2 đoạn", "Chỉ 3 đoạn", "Chỉ 1 đoạn"],
+    "correctAnswer": "Từ 2 đoạn trở lên"
+  },
+  {
+    "question": "Một hình tứ giác có thể có 2 cạnh bằng nhau được không?",
+    "options": ["Có", "Không", "Chỉ khi là hình vuông", "Chỉ khi là hình chữ nhật"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Gấp tờ giấy A4 làm đôi theo chiều dài, ta được hình gì?",
+    "options": ["Hai hình chữ nhật nhỏ hơn", "Hai hình vuông", "Hai hình tam giác", "Một hình trụ"],
+    "correctAnswer": "Hai hình chữ nhật nhỏ hơn"
+  },
+  {
+    "question": "Dùng các hình tam giác nhỏ để ghép thành một hình tam giác lớn hơn. Đây là hoạt động gì?",
+    "options": ["Ghép hình", "Cắt hình", "Gấp hình", "Vẽ hình"],
+    "correctAnswer": "Ghép hình"
+  },
+  {
+    "question": "Đoạn thẳng dài nhất trong một hình chữ nhật là gì?",
+    "options": ["Đường chéo", "Cạnh dài", "Cạnh ngắn", "Không có đoạn dài nhất"],
+    "correctAnswer": "Đường chéo"
+  },
+  {
+    "question": "Có bao nhiêu điểm chung giữa hai đoạn thẳng cắt nhau?",
+    "options": ["1 điểm", "0 điểm", "2 điểm", "Vô số điểm"],
+    "correctAnswer": "1 điểm"
+  },
+  {
+    "question": "Đường cong và đường gấp khúc khác nhau ở điểm nào?",
+    "options": ["Đường cong trơn, đường gấp khúc có các đoạn thẳng", "Đường cong dài, đường gấp khúc ngắn", "Đường cong màu đỏ, đường gấp khúc màu xanh", "Không khác gì"],
+    "correctAnswer": "Đường cong trơn, đường gấp khúc có các đoạn thẳng"
+  },
+  {
+    "question": "Ba điểm không thẳng hàng tạo thành hình gì?",
+    "options": ["Hình tam giác", "Đường thẳng", "Đoạn thẳng", "Hình vuông"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Độ dài đường gấp khúc XYZ có XY = 9cm, YZ = 11cm là:",
+    "options": ["20 cm", "2 cm", "19 cm", "21 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "Hình tứ giác có 4 cạnh bằng nhau nhưng góc không vuông là hình gì?",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Từ một miếng bìa hình chữ nhật, làm sao để cắt được một hình vuông lớn nhất?",
+    "options": ["Cắt theo cạnh ngắn hơn", "Cắt theo cạnh dài hơn", "Cắt theo đường chéo", "Không thể cắt được"],
+    "correctAnswer": "Cắt theo cạnh ngắn hơn"
+  },
+  {
+    "question": "Xếp 6 que tính để được 2 hình tam giác. Em xếp như thế nào?",
+    "options": ["Xếp thành hình ngôi sao 6 cánh", "Xếp thành 2 hình tam giác riêng biệt", "Không xếp được", "Xếp thành hình lục giác"],
+    "correctAnswer": "Xếp thành hình ngôi sao 6 cánh"
+  },
+  {
+    "question": "Vẽ đoạn thẳng MN dài 1dm. Độ dài đó bằng bao nhiêu cm?",
+    "options": ["10 cm", "1 cm", "100 cm", "1 dm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Điểm nằm ngoài đoạn thẳng AB là điểm như thế nào?",
+    "options": ["Không thuộc đoạn thẳng AB", "Nằm giữa A và B", "Trùng với A", "Trùng với B"],
+    "correctAnswer": "Không thuộc đoạn thẳng AB"
+  },
+  {
+    "question": "Đường thẳng và đường cong có thể cắt nhau tại mấy điểm?",
+    "options": ["Có thể nhiều hơn 1 điểm", "Chỉ 1 điểm", "Không cắt nhau", "Chỉ 2 điểm"],
+    "correctAnswer": "Có thể nhiều hơn 1 điểm"
+  },
+  {
+    "question": "Nếu điểm M nằm giữa hai điểm A và B thì ba điểm A, M, B có thẳng hàng không?",
+    "options": ["Có", "Không", "Chỉ khi AM = MB", "Không thể biết"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Đường gấp khúc có thể có độ dài là 15cm không?",
+    "options": ["Có", "Không", "Chỉ khi nó có 3 đoạn", "Chỉ khi nó là đường thẳng"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình nào không phải là hình tứ giác?",
+    "options": ["Hình tam giác", "Hình vuông", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Gấp một hình tròn làm tư, nếp gấp tạo thành hình gì?",
+    "options": ["Hai đường thẳng vuông góc", "Một hình vuông", "Một hình tam giác", "Một đường cong"],
+    "correctAnswer": "Hai đường thẳng vuông góc"
+  },
+  {
+    "question": "Dùng 2 hình tam giác vuông để ghép thành một hình chữ nhật. Em làm thế nào?",
+    "options": ["Ghép hai cạnh huyền với nhau", "Ghép hai cạnh góc vuông với nhau", "Đặt chồng lên nhau", "Không ghép được"],
+    "correctAnswer": "Ghép hai cạnh huyền với nhau"
+  },
+  {
+    "question": "Vẽ một điểm O. Vẽ các đoạn thẳng OA, OB, OC. Hình thu được có mấy đoạn thẳng?",
+    "options": ["3 đoạn thẳng", "2 đoạn thẳng", "1 đoạn thẳng", "4 đoạn thẳng"],
+    "correctAnswer": "3 đoạn thẳng"
+  },
+  {
+    "question": "Trong không gian, các vì sao có thể được xem là các...",
+    "options": ["Điểm", "Đường thẳng", "Đoạn thẳng", "Hình vuông"],
+    "correctAnswer": "Điểm"
+  },
+  {
+    "question": "Một con đường quanh co, uốn lượn là hình ảnh của...",
+    "options": ["Đường cong", "Đường thẳng", "Đoạn thẳng", "Điểm"],
+    "correctAnswer": "Đường cong"
+  },
+  {
+    "question": "Cho 4 điểm A, B, C, D. Có bao nhiêu đoạn thẳng có hai đầu mút là 2 trong 4 điểm đã cho?",
+    "options": ["6", "5", "4", "3"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Độ dài đường gấp khúc bằng tổng độ dài các đoạn thẳng của nó. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Hình tứ giác luôn có 4 góc. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ hình vuông mới có 4 góc", "Chỉ hình chữ nhật mới có 4 góc"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Cắt một hình bất kỳ có phải là hoạt động thực hành hình học không?",
+    "options": ["Có", "Không", "Chỉ khi cắt hình vuông", "Chỉ khi cắt hình tròn"],
+    "correctAnswer": "Có"
+  }
+]
+

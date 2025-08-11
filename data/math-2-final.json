@@ -1,0 +1,673 @@
+[
+  {
+    "question": "Số 'Tám mươi sáu' được viết là:",
+    "options": ["86", "68", "80", "806"],
+    "correctAnswer": "86"
+  },
+  {
+    "question": "Số liền sau của 99 là:",
+    "options": ["100", "98", "90", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Kết quả của phép tính 9 + 7 là:",
+    "options": ["16", "15", "17", "14"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Kết quả của phép tính 15 - 8 là:",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Ki-lô-gam là đơn vị đo...",
+    "options": ["Khối lượng", "Độ dài", "Dung tích", "Thời gian"],
+    "correctAnswer": "Khối lượng"
+  },
+  {
+    "question": "Tính: 35 kg + 20 kg =",
+    "options": ["55 kg", "15 kg", "55", "15"],
+    "correctAnswer": "55 kg"
+  },
+  {
+    "question": "Kết quả của phép tính 48 + 25 là:",
+    "options": ["73", "72", "63", "74"],
+    "correctAnswer": "73"
+  },
+  {
+    "question": "Kết quả của phép tính 81 - 36 là:",
+    "options": ["45", "44", "55", "46"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Hình gồm nhiều đoạn thẳng nối tiếp nhau được gọi là:",
+    "options": ["Đường gấp khúc", "Đường thẳng", "Đường cong", "Hình tứ giác"],
+    "correctAnswer": "Đường gấp khúc"
+  },
+  {
+    "question": "Hình tứ giác có mấy cạnh?",
+    "options": ["4 cạnh", "3 cạnh", "5 cạnh", "6 cạnh"],
+    "correctAnswer": "4 cạnh"
+  },
+  {
+    "question": "Một giờ có bao nhiêu phút?",
+    "options": ["60 phút", "30 phút", "24 phút", "12 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "Tháng 5 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Phép cộng 5 + 5 + 5 được viết thành phép nhân là:",
+    "options": ["5 x 3", "5 + 3", "3 x 5", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Kết quả của phép tính 2 x 9 là:",
+    "options": ["18", "11", "17", "20"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Kết quả của phép tính 45 : 5 là:",
+    "options": ["9", "8", "7", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Lon nước ngọt có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp chữ nhật", "Khối lập phương"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả bóng đá có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Hình vuông"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Số 'Bốn trăm linh năm' được viết là:",
+    "options": ["405", "450", "4005", "45"],
+    "correctAnswer": "405"
+  },
+  {
+    "question": "Trong số 927, chữ số 9 có giá trị là:",
+    "options": ["900", "9", "90", "92"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "So sánh: 678 và 687",
+    "options": ["678 < 687", "678 > 687", "678 = 687", "Không so sánh được"],
+    "correctAnswer": "678 < 687"
+  },
+  {
+    "question": "1 mét bằng bao nhiêu xăng-ti-mét?",
+    "options": ["100 cm", "10 cm", "1000 cm", "1 cm"],
+    "correctAnswer": "100 cm"
+  },
+  {
+    "question": "Để có 1000 đồng, em cần mấy tờ 200 đồng?",
+    "options": ["5 tờ", "4 tờ", "3 tờ", "2 tờ"],
+    "correctAnswer": "5 tờ"
+  },
+  {
+    "question": "Kết quả của phép tính 350 + 420 là:",
+    "options": ["770", "760", "780", "130"],
+    "correctAnswer": "770"
+  },
+  {
+    "question": "Kết quả của phép tính 562 + 189 là:",
+    "options": ["751", "750", "741", "761"],
+    "correctAnswer": "751"
+  },
+  {
+    "question": "Kết quả của phép tính 800 - 350 là:",
+    "options": ["450", "550", "400", "500"],
+    "correctAnswer": "450"
+  },
+  {
+    "question": "Kết quả của phép tính 615 - 248 là:",
+    "options": ["367", "366", "377", "467"],
+    "correctAnswer": "367"
+  },
+  {
+    "question": "Biểu đồ tranh về số hoa trong vườn: Hồng: 🌹🌹🌹, Cúc: 🌼🌼🌼🌼🌼. Loại hoa nào ít hơn?",
+    "options": ["Hoa hồng", "Hoa cúc", "Bằng nhau", "Không có hoa"],
+    "correctAnswer": "Hoa hồng"
+  },
+  {
+    "question": "Sự kiện 'Mặt trời mọc ở đằng Tây' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Ngày mai bạn sẽ đi học' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Số liền trước của 80 là:",
+    "options": ["79", "81", "70", "82"],
+    "correctAnswer": "79"
+  },
+  {
+    "question": "Trong phép trừ 65 - 21 = 44, số 21 được gọi là:",
+    "options": ["Số trừ", "Số bị trừ", "Hiệu", "Số hạng"],
+    "correctAnswer": "Số trừ"
+  },
+  {
+    "question": "Tính: 8 + 8 =",
+    "options": ["16", "15", "17", "14"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Tính: 17 - 9 =",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Lít là đơn vị đo...",
+    "options": ["Dung tích", "Khối lượng", "Độ dài", "Thời gian"],
+    "correctAnswer": "Dung tích"
+  },
+  {
+    "question": "Tính: 45 l - 15 l =",
+    "options": ["30 l", "60 l", "30", "60"],
+    "correctAnswer": "30 l"
+  },
+  {
+    "question": "Tính: 56 + 38 =",
+    "options": ["94", "93", "84", "95"],
+    "correctAnswer": "94"
+  },
+  {
+    "question": "Tính: 92 - 47 =",
+    "options": ["45", "44", "55", "54"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Độ dài đường gấp khúc có 3 đoạn 5cm, 6cm, 7cm là:",
+    "options": ["18 cm", "17 cm", "19 cm", "20 cm"],
+    "correctAnswer": "18 cm"
+  },
+  {
+    "question": "Ba điểm thẳng hàng là ba điểm...",
+    "options": ["Cùng nằm trên một đường thẳng", "Tạo thành hình tam giác", "Ở gần nhau", "Tạo thành góc vuông"],
+    "correctAnswer": "Cùng nằm trên một đường thẳng"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "options": ["24 giờ", "12 giờ", "60 giờ", "48 giờ"],
+    "correctAnswer": "24 giờ"
+  },
+  {
+    "question": "Đồng hồ chỉ 4 giờ 30 phút. Kim dài chỉ số mấy?",
+    "options": ["Số 6", "Số 4", "Số 12", "Số 3"],
+    "correctAnswer": "Số 6"
+  },
+  {
+    "question": "Trong phép nhân 2 x 7 = 14, số 2 và 7 được gọi là:",
+    "options": ["Thừa số", "Tích", "Thương", "Tổng"],
+    "correctAnswer": "Thừa số"
+  },
+  {
+    "question": "Tính: 5 x 6 =",
+    "options": ["30", "11", "1", "35"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tính: 12 : 2 =",
+    "options": ["6", "10", "14", "24"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số 555 được đọc là:",
+    "options": ["Năm trăm năm mươi lăm", "Năm năm năm", "Năm trăm năm lăm", "Năm trăm năm mươi"],
+    "correctAnswer": "Năm trăm năm mươi lăm"
+  },
+  {
+    "question": "Số 729 được viết thành tổng là:",
+    "options": ["700 + 20 + 9", "70 + 20 + 9", "700 + 29", "7 + 2 + 9"],
+    "correctAnswer": "700 + 20 + 9"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 819, 918, 198, 891 là:",
+    "options": ["918", "819", "198", "891"],
+    "correctAnswer": "918"
+  },
+  {
+    "question": "Đổi: 5m = ... dm",
+    "options": ["50 dm", "5 dm", "500 dm", "0.5 dm"],
+    "correctAnswer": "50 dm"
+  },
+  {
+    "question": "Một cái bánh giá 3000 đồng. Em có 1 tờ 5000 đồng. Cô bán hàng trả lại em bao nhiêu?",
+    "options": ["2000 đồng", "8000 đồng", "3000 đồng", "1000 đồng"],
+    "correctAnswer": "2000 đồng"
+  },
+  {
+    "question": "Tính: 101 + 202 + 303 =",
+    "options": ["606", "605", "607", "506"],
+    "correctAnswer": "606"
+  },
+  {
+    "question": "Tính: 987 - 789 =",
+    "options": ["198", "197", "188", "298"],
+    "correctAnswer": "198"
+  },
+  {
+    "question": "Sự kiện 'Một con chó có thể bay' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong một hộp có 10 bi đỏ và 1 bi xanh. Lấy ra 1 viên bi. Viên bi đó màu đỏ.",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Tìm x, biết x : 2 = 8",
+    "options": ["x = 16", "x = 6", "x = 10", "x = 4"],
+    "correctAnswer": "x = 16"
+  },
+  {
+    "question": "Tìm y, biết 5 x y = 25",
+    "options": ["y = 5", "y = 20", "y = 30", "y = 6"],
+    "correctAnswer": "y = 5"
+  },
+  {
+    "question": "Số tròn chục liền trước số 782 là:",
+    "options": ["780", "790", "781", "770"],
+    "correctAnswer": "780"
+  },
+  {
+    "question": "Sợi dây dài 1m, cắt đi 75cm. Sợi dây còn lại dài:",
+    "options": ["25 cm", "175 cm", "25 dm", "25 m"],
+    "correctAnswer": "25 cm"
+  },
+  {
+    "question": "Tính: 240 + 380 =",
+    "options": ["620", "610", "520", "630"],
+    "correctAnswer": "620"
+  },
+  {
+    "question": "Tính: 710 - 150 =",
+    "options": ["560", "550", "660", "640"],
+    "correctAnswer": "560"
+  },
+  {
+    "question": "Biểu đồ tranh về số bạn thích trái cây: Táo: 🍎🍎🍎🍎, Chuối: 🍌🍌🍌🍌🍌🍌. Loại nào được thích hơn?",
+    "options": ["Chuối", "Táo", "Bằng nhau", "Không có"],
+    "correctAnswer": "Chuối"
+  },
+  {
+    "question": "Sự kiện 'Tháng 2 có 30 ngày' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Mỗi hàng có 5 cây. 5 hàng có bao nhiêu cây?",
+    "options": ["25 cây", "10 cây", "20 cây", "30 cây"],
+    "correctAnswer": "25 cây"
+  },
+  {
+    "question": "Có 10 cái kẹo chia đều cho 5 bạn. Mỗi bạn được mấy cái?",
+    "options": ["2 cái", "5 cái", "15 cái", "50 cái"],
+    "correctAnswer": "2 cái"
+  },
+  {
+    "question": "Số bé nhất có ba chữ số khác nhau là:",
+    "options": ["102", "100", "111", "123"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Đổi: 2 km 500 m = ... m",
+    "options": ["2500 m", "250 m", "2005 m", "25 m"],
+    "correctAnswer": "2500 m"
+  },
+  {
+    "question": "An có 10000 đồng, mua vở hết 6500 đồng. An còn lại:",
+    "options": ["3500 đồng", "4500 đồng", "16500 đồng", "3000 đồng"],
+    "correctAnswer": "3500 đồng"
+  },
+  {
+    "question": "Hiệu của 1000 và 10 là:",
+    "options": ["990", "900", "1010", "999"],
+    "correctAnswer": "990"
+  },
+  {
+    "question": "Trong hộp có 10 viên bi đều màu xanh. Lấy ra 1 viên. Viên bi đó màu đỏ.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Luôn luôn"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Tính: 2 x 4 x 5 =",
+    "options": ["40", "20", "18", "30"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Tính: 40 : 5 : 2 =",
+    "options": ["4", "8", "6", "10"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số 1000 là số liền sau của số nào?",
+    "options": ["999", "998", "1001", "990"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "So sánh: 1m và 100cm",
+    "options": ["1m = 100cm", "1m > 100cm", "1m < 100cm", "Không so sánh được"],
+    "correctAnswer": "1m = 100cm"
+  },
+  {
+    "question": "Tổng của 456 và 123 là:",
+    "options": ["579", "578", "589", "569"],
+    "correctAnswer": "579"
+  },
+  {
+    "question": "Hiệu của 999 và 111 là:",
+    "options": ["888", "887", "878", "988"],
+    "correctAnswer": "888"
+  },
+  {
+    "question": "Sự kiện '1 giờ có 60 giây' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không biết"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Tính: 2 x 2 x 2 =",
+    "options": ["8", "6", "4", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số bị chia là 30, thương là 6. Số chia là:",
+    "options": ["5", "24", "36", "180"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số tròn trăm liền sau số 890 là:",
+    "options": ["900", "800", "1000", "880"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Một giờ học bắt đầu lúc 8 giờ và kéo dài 45 phút. Giờ học kết thúc lúc:",
+    "options": ["8 giờ 45 phút", "9 giờ", "8 giờ 30 phút", "9 giờ 15 phút"],
+    "correctAnswer": "8 giờ 45 phút"
+  },
+  {
+    "question": "Tính: 500 - 125 =",
+    "options": ["375", "374", "385", "475"],
+    "correctAnswer": "375"
+  },
+  {
+    "question": "Tính: 280 + 360 =",
+    "options": ["640", "630", "540", "650"],
+    "correctAnswer": "640"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể sống mà không cần uống nước' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Mỗi ngày An đọc 5 trang sách. Hỏi 1 tuần An đọc được bao nhiêu trang?",
+    "options": ["35 trang", "12 trang", "30 trang", "40 trang"],
+    "correctAnswer": "35 trang"
+  },
+  {
+    "question": "Số 685 có chữ số hàng chục là:",
+    "options": ["8", "6", "5", "80"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Đổi: 1km = ... dm",
+    "options": ["10000 dm", "1000 dm", "100 dm", "10 dm"],
+    "correctAnswer": "10000 dm"
+  },
+  {
+    "question": "Tính: 1000 - 500 - 50 =",
+    "options": ["450", "550", "400", "500"],
+    "correctAnswer": "450"
+  },
+  {
+    "question": "Sự kiện 'Khi gieo xúc xắc, bạn được mặt có số chấm nhỏ hơn 7' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Tìm x, biết 750 - x = 250",
+    "options": ["x = 500", "x = 1000", "x = 400", "x = 600"],
+    "correctAnswer": "x = 500"
+  },
+  {
+    "question": "Số lớn nhất có 3 chữ số mà tổng các chữ số bằng 5 là:",
+    "options": ["500", "410", "401", "320"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Tính: 2 x 5 x 10 =",
+    "options": ["100", "20", "50", "70"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Tính: 500 : 5 : 10 =",
+    "options": ["10", "100", "20", "50"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Sợi dây dài 2m. Cắt đi 15dm. Sợi dây còn lại dài:",
+    "options": ["5 dm", "5 cm", "5 m", "1m"],
+    "correctAnswer": "5 dm"
+  },
+  {
+    "question": "Một cái bánh giá 5000 đồng. Mua 2 cái hết bao nhiêu tiền?",
+    "options": ["10000 đồng", "7000 đồng", "3000 đồng", "5000 đồng"],
+    "correctAnswer": "10000 đồng"
+  },
+  {
+    "question": "Tính: 315 + 298 =",
+    "options": ["613", "612", "603", "623"],
+    "correctAnswer": "613"
+  },
+  {
+    "question": "Tính: 801 - 199 =",
+    "options": ["602", "601", "702", "612"],
+    "correctAnswer": "602"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể nhấc bổng một chiếc ô tô' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong một lớp học, số bạn nam và số bạn nữ bằng nhau. Chọn ngẫu nhiên một bạn. Bạn đó là nam.",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Thừa số thứ nhất là 2, tích là 20. Thừa số thứ hai là:",
+    "options": ["10", "18", "22", "40"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số bị chia là 50, thương là 10. Số chia là:",
+    "options": ["5", "60", "40", "500"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số 1000 được đọc là:",
+    "options": ["Một nghìn", "Một trăm", "Mười trăm", "Một không không không"],
+    "correctAnswer": "Một nghìn"
+  },
+  {
+    "question": "Đổi: 1000g = ... kg",
+    "options": ["1 kg", "10 kg", "100 kg", "0.1 kg"],
+    "correctAnswer": "1 kg"
+  },
+  {
+    "question": "Tính: 123 + 231 + 312 =",
+    "options": ["666", "656", "676", "665"],
+    "correctAnswer": "666"
+  },
+  {
+    "question": "Tính: 1000 - 100 - 10 =",
+    "options": ["890", "900", "800", "880"],
+    "correctAnswer": "890"
+  },
+  {
+    "question": "Sự kiện 'Bạn sẽ lớn lên' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Tính: 2 x 0 =",
+    "options": ["0", "2", "1", "20"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Một số chia cho 5 được 0. Số đó là:",
+    "options": ["0", "5", "1", "10"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 444 có chữ số hàng trăm và hàng chục giống nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ hàng chục và đơn vị giống nhau", "Không có"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "2km bằng bao nhiêu mét?",
+    "options": ["2000 m", "200 m", "20 m", "2 m"],
+    "correctAnswer": "2000 m"
+  },
+  {
+    "question": "Tính: 4500 đồng + 5500 đồng =",
+    "options": ["10000 đồng", "9000 đồng", "1000 đồng", "9500 đồng"],
+    "correctAnswer": "10000 đồng"
+  },
+  {
+    "question": "Tính: 205 + 195 =",
+    "options": ["400", "390", "410", "300"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Tính: 600 - 201 =",
+    "options": ["399", "398", "401", "499"],
+    "correctAnswer": "399"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể nói chuyện với một con cá' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Một tuần có 7 ngày. 2 tuần có bao nhiêu ngày?",
+    "options": ["14 ngày", "9 ngày", "5 ngày", "16 ngày"],
+    "correctAnswer": "14 ngày"
+  },
+  {
+    "question": "Số 900 là số tròn trăm liền trước của số nào?",
+    "options": ["1000", "800", "910", "890"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "1m = ... dm",
+    "options": ["10 dm", "1 dm", "100 dm", "1000 dm"],
+    "correctAnswer": "10 dm"
+  },
+  {
+    "question": "Tính: 500 + 50 + 5 =",
+    "options": ["555", "550", "505", "605"],
+    "correctAnswer": "555"
+  },
+  {
+    "question": "Sự kiện 'Sau khi học xong lớp 2, bạn sẽ lên lớp 3' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Tìm x, biết x + 111 = 333",
+    "options": ["x = 222", "x = 444", "x = 221", "x = 223"],
+    "correctAnswer": "x = 222"
+  },
+  {
+    "question": "Tìm y, biết 5 x y = 50",
+    "options": ["y = 10", "y = 45", "y = 55", "y = 9"],
+    "correctAnswer": "y = 10"
+  },
+  {
+    "question": "Số gồm 9 trăm, 0 chục và 9 đơn vị là:",
+    "options": ["909", "990", "99", "999"],
+    "correctAnswer": "909"
+  },
+  {
+    "question": "Một cuộn vải dài 50m, may một bộ quần áo hết 5m. Hỏi cuộn vải đó may được mấy bộ quần áo?",
+    "options": ["10 bộ", "55 bộ", "45 bộ", "250 bộ"],
+    "correctAnswer": "10 bộ"
+  },
+  {
+    "question": "Tính: 1000 - 10 - 1 =",
+    "options": ["989", "990", "980", "899"],
+    "correctAnswer": "989"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể uống hết một chai nước' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Tính: 2 x 3 x 5 =",
+    "options": ["30", "10", "11", "25"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "So sánh: 1 giờ và 59 phút",
+    "options": ["1 giờ > 59 phút", "1 giờ < 59 phút", "1 giờ = 59 phút", "Không so sánh được"],
+    "correctAnswer": "1 giờ > 59 phút"
+  },
+  {
+    "question": "Số bé nhất có 3 chữ số mà các chữ số khác nhau và tổng bằng 6 là:",
+    "options": ["105", "123", "150", "204"],
+    "correctAnswer": "105"
+  },
+  {
+    "question": "Tính: 450 + (300 - 100) =",
+    "options": ["650", "250", "550", "750"],
+    "correctAnswer": "650"
+  },
+  {
+    "question": "Sự kiện 'Tất cả các bạn trong lớp đều thích ăn kem' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Tìm một số biết rằng lấy số đó nhân với 5 rồi cộng với 10 thì được 40.",
+    "options": ["6", "5", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tìm một số biết rằng lấy 20 chia cho số đó thì được 10.",
+    "options": ["2", "10", "30", "200"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Số chẵn lớn nhất có 3 chữ số là:",
+    "options": ["998", "999", "990", "996"],
+    "correctAnswer": "998"
+  },
+  {
+    "question": "Một trận đấu bóng đá có 2 hiệp, mỗi hiệp 45 phút. Trận đấu kéo dài bao nhiêu lâu (không tính giờ nghỉ)?",
+    "options": ["90 phút", "1 giờ 30 phút", "Cả A và B đều đúng", "2 giờ"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 999 + 1 =",
+    "options": ["1000", "998", "100", "1001"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể vẽ một hình vuông có 5 cạnh' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  }
+]
+

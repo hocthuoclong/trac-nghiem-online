@@ -1,0 +1,473 @@
+[
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "options": ["24 giờ", "12 giờ", "60 giờ", "30 giờ"],
+    "correctAnswer": "24 giờ"
+  },
+  {
+    "question": "Một giờ có bao nhiêu phút?",
+    "options": ["60 phút", "24 phút", "30 phút", "12 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "Trên đồng hồ, khi kim dài chỉ vào số 12, kim ngắn chỉ vào số 3, đó là mấy giờ?",
+    "options": ["3 giờ đúng", "12 giờ 3 phút", "3 giờ 12 phút", "12 giờ"],
+    "correctAnswer": "3 giờ đúng"
+  },
+  {
+    "question": "Trên đồng hồ, khi kim dài chỉ vào số 6, kim ngắn ở giữa số 8 và số 9, đó là mấy giờ?",
+    "options": ["8 giờ rưỡi", "8 giờ 6 phút", "6 giờ 8 phút", "9 giờ rưỡi"],
+    "correctAnswer": "8 giờ rưỡi"
+  },
+  {
+    "question": "8 giờ rưỡi còn được gọi là gì?",
+    "options": ["8 giờ 30 phút", "8 giờ 6 phút", "8 giờ 15 phút", "9 giờ kém 30 phút"],
+    "correctAnswer": "8 giờ 30 phút"
+  },
+  {
+    "question": "An đi học lúc 7 giờ sáng. Lúc đó kim ngắn chỉ vào số mấy?",
+    "options": ["Số 7", "Số 12", "Số 6", "Số 1"],
+    "correctAnswer": "Số 7"
+  },
+  {
+    "question": "Bố đi làm về lúc 5 giờ chiều. 5 giờ chiều còn được gọi là mấy giờ?",
+    "options": ["17 giờ", "5 giờ", "15 giờ", "12 giờ"],
+    "correctAnswer": "17 giờ"
+  },
+  {
+    "question": "Tính: 1 giờ + 2 giờ =",
+    "options": ["3 giờ", "3 phút", "12 giờ", "60 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Tính: 30 phút + 15 phút =",
+    "options": ["45 phút", "45 giờ", "15 phút", "55 phút"],
+    "correctAnswer": "45 phút"
+  },
+  {
+    "question": "1 giờ 15 phút bằng bao nhiêu phút?",
+    "options": ["75 phút", "60 phút", "16 phút", "70 phút"],
+    "correctAnswer": "75 phút"
+  },
+  {
+    "question": "Một tuần lễ có mấy ngày?",
+    "options": ["7 ngày", "5 ngày", "6 ngày", "8 ngày"],
+    "correctAnswer": "7 ngày"
+  },
+  {
+    "question": "Kể tên các ngày trong tuần theo thứ tự.",
+    "options": ["Thứ Hai, Ba, Tư, Năm, Sáu, Bảy, Chủ Nhật", "Thứ Hai, Ba, Tư, Năm, Sáu, Bảy", "Thứ Một, Hai, Ba, Tư, Năm, Sáu, Bảy", "Chủ Nhật, Hai, Ba, Tư, Năm, Sáu, Bảy"],
+    "correctAnswer": "Thứ Hai, Ba, Tư, Năm, Sáu, Bảy, Chủ Nhật"
+  },
+  {
+    "question": "Hôm nay là thứ Tư, ngày mai là thứ mấy?",
+    "options": ["Thứ Năm", "Thứ Ba", "Thứ Sáu", "Thứ Hai"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Hôm nay là thứ Sáu, hôm qua là thứ mấy?",
+    "options": ["Thứ Năm", "Thứ Bảy", "Thứ Tư", "Chủ Nhật"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Tháng 2 thường có bao nhiêu ngày?",
+    "options": ["28 hoặc 29 ngày", "30 ngày", "31 ngày", "27 ngày"],
+    "correctAnswer": "28 hoặc 29 ngày"
+  },
+  {
+    "question": "Tháng nào sau đây có 31 ngày?",
+    "options": ["Tháng 1", "Tháng 4", "Tháng 6", "Tháng 9"],
+    "correctAnswer": "Tháng 1"
+  },
+  {
+    "question": "Tháng nào sau đây có 30 ngày?",
+    "options": ["Tháng 4", "Tháng 1", "Tháng 3", "Tháng 5"],
+    "correctAnswer": "Tháng 4"
+  },
+  {
+    "question": "Ngày 19 tháng 5 là ngày sinh của ai?",
+    "options": ["Chủ tịch Hồ Chí Minh", "Vua Hùng", "Thánh Gióng", "Hai Bà Trưng"],
+    "correctAnswer": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "question": "Nhìn vào tờ lịch tháng 3, ngày 8 là thứ mấy?",
+    "options": ["Cần xem lịch cụ thể", "Thứ Hai", "Thứ Ba", "Thứ Tư"],
+    "correctAnswer": "Cần xem lịch cụ thể"
+  },
+  {
+    "question": "Sinh nhật của em là ngày 15 tháng 6. Em sẽ xem tờ lịch tháng mấy để biết hôm đó là thứ mấy?",
+    "options": ["Tháng 6", "Tháng 5", "Tháng 7", "Tháng 15"],
+    "correctAnswer": "Tháng 6"
+  },
+  {
+    "question": "Đồng hồ chỉ 10 giờ 30 phút. Kim dài chỉ số mấy?",
+    "options": ["Số 6", "Số 10", "Số 12", "Số 3"],
+    "correctAnswer": "Số 6"
+  },
+  {
+    "question": "Đồng hồ chỉ 2 giờ kém 15 phút. Lúc đó là mấy giờ bao nhiêu phút?",
+    "options": ["1 giờ 45 phút", "2 giờ 15 phút", "2 giờ 45 phút", "1 giờ 15 phút"],
+    "correctAnswer": "1 giờ 45 phút"
+  },
+  {
+    "question": "Bây giờ là 8 giờ. 30 phút nữa là mấy giờ?",
+    "options": ["8 giờ 30 phút", "8 giờ", "9 giờ", "7 giờ 30 phút"],
+    "correctAnswer": "8 giờ 30 phút"
+  },
+  {
+    "question": "Bây giờ là 4 giờ 30 phút. 1 giờ trước là mấy giờ?",
+    "options": ["3 giờ 30 phút", "5 giờ 30 phút", "4 giờ", "3 giờ"],
+    "correctAnswer": "3 giờ 30 phút"
+  },
+  {
+    "question": "Tháng 10 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Ngày cuối cùng của tháng 12 là ngày nào?",
+    "options": ["Ngày 31", "Ngày 30", "Ngày 29", "Ngày 12"],
+    "correctAnswer": "Ngày 31"
+  },
+  {
+    "question": "Nếu hôm nay là ngày 5 tháng 4, thì 3 ngày nữa là ngày mấy, tháng mấy?",
+    "options": ["Ngày 8 tháng 4", "Ngày 5 tháng 7", "Ngày 2 tháng 4", "Ngày 8 tháng 5"],
+    "correctAnswer": "Ngày 8 tháng 4"
+  },
+  {
+    "question": "Buổi sáng bắt đầu từ khoảng mấy giờ?",
+    "options": ["6 giờ", "12 giờ", "18 giờ", "0 giờ"],
+    "correctAnswer": "6 giờ"
+  },
+  {
+    "question": "Buổi trưa thường là lúc mấy giờ?",
+    "options": ["12 giờ", "9 giờ", "15 giờ", "18 giờ"],
+    "correctAnswer": "12 giờ"
+  },
+  {
+    "question": "Buổi tối bắt đầu từ khoảng mấy giờ?",
+    "options": ["18 giờ (6 giờ tối)", "15 giờ", "12 giờ", "21 giờ"],
+    "correctAnswer": "18 giờ (6 giờ tối)"
+  },
+  {
+    "question": "20 giờ còn được gọi là mấy giờ tối?",
+    "options": ["8 giờ tối", "20 giờ tối", "10 giờ tối", "12 giờ tối"],
+    "correctAnswer": "8 giờ tối"
+  },
+  {
+    "question": "Một trận bóng đá kéo dài 90 phút. Trận bóng đó kéo dài bao lâu?",
+    "options": ["1 giờ 30 phút", "1 giờ", "2 giờ", "90 giờ"],
+    "correctAnswer": "1 giờ 30 phút"
+  },
+  {
+    "question": "Ngày đầu tiên trong tuần là thứ mấy?",
+    "options": ["Thứ Hai", "Chủ Nhật", "Thứ Bảy", "Thứ Ba"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Ngày cuối cùng trong tuần là ngày nào?",
+    "options": ["Chủ Nhật", "Thứ Bảy", "Thứ Hai", "Thứ Sáu"],
+    "correctAnswer": "Chủ Nhật"
+  },
+  {
+    "question": "Một năm có bao nhiêu tháng?",
+    "options": ["12 tháng", "10 tháng", "11 tháng", "13 tháng"],
+    "correctAnswer": "12 tháng"
+  },
+  {
+    "question": "Tháng nào là tháng cuối cùng trong năm?",
+    "options": ["Tháng 12", "Tháng 1", "Tháng 10", "Tháng 11"],
+    "correctAnswer": "Tháng 12"
+  },
+  {
+    "question": "Tháng nào là tháng đầu tiên trong năm?",
+    "options": ["Tháng 1", "Tháng 12", "Tháng 2", "Tháng 3"],
+    "correctAnswer": "Tháng 1"
+  },
+  {
+    "question": "Đồng hồ chỉ 6 giờ 15 phút. Kim dài chỉ số mấy?",
+    "options": ["Số 3", "Số 6", "Số 12", "Số 1"],
+    "correctAnswer": "Số 3"
+  },
+  {
+    "question": "Em tan học lúc 16 giờ 30 phút. Đó là mấy giờ chiều?",
+    "options": ["4 giờ rưỡi chiều", "16 giờ chiều", "3 giờ rưỡi chiều", "4 giờ chiều"],
+    "correctAnswer": "4 giờ rưỡi chiều"
+  },
+  {
+    "question": "Ngày 30 tháng 4 là ngày lễ gì?",
+    "options": ["Ngày Giải phóng miền Nam, thống nhất đất nước", "Ngày Quốc tế Lao động", "Ngày Quốc khánh", "Ngày Nhà giáo Việt Nam"],
+    "correctAnswer": "Ngày Giải phóng miền Nam, thống nhất đất nước"
+  },
+  {
+    "question": "Ngày 1 tháng 5 là ngày lễ gì?",
+    "options": ["Ngày Quốc tế Lao động", "Ngày Quốc khánh", "Ngày Giải phóng miền Nam", "Ngày Phụ nữ Việt Nam"],
+    "correctAnswer": "Ngày Quốc tế Lao động"
+  },
+  {
+    "question": "Bây giờ là 9 giờ. 15 phút trước là mấy giờ?",
+    "options": ["8 giờ 45 phút", "9 giờ 15 phút", "8 giờ 15 phút", "9 giờ 45 phút"],
+    "correctAnswer": "8 giờ 45 phút"
+  },
+  {
+    "question": "Một bộ phim bắt đầu lúc 19 giờ và kết thúc lúc 21 giờ. Bộ phim kéo dài mấy giờ?",
+    "options": ["2 giờ", "1 giờ", "3 giờ", "4 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Hôm nay là ngày 20 tháng 11. Đây là ngày lễ gì?",
+    "options": ["Ngày Nhà giáo Việt Nam", "Ngày Quốc tế Phụ nữ", "Ngày Tết Trung thu", "Ngày Tết Nguyên Đán"],
+    "correctAnswer": "Ngày Nhà giáo Việt Nam"
+  },
+  {
+    "question": "Tháng 9 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Nếu thứ Hai tuần này là ngày 10, thì thứ Hai tuần sau là ngày mấy?",
+    "options": ["Ngày 17", "Ngày 11", "Ngày 16", "Ngày 18"],
+    "correctAnswer": "Ngày 17"
+  },
+  {
+    "question": "Kim phút quay một vòng đầy đủ trên mặt đồng hồ là bao nhiêu phút?",
+    "options": ["60 phút", "12 phút", "24 phút", "30 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "Kim giờ quay một vòng đầy đủ trên mặt đồng hồ là bao nhiêu giờ?",
+    "options": ["12 giờ", "24 giờ", "60 giờ", "1 giờ"],
+    "correctAnswer": "12 giờ"
+  },
+  {
+    "question": "Đồng hồ chỉ 1 giờ đúng. Góc giữa kim giờ và kim phút là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Đồng hồ chỉ 3 giờ đúng. Góc giữa kim giờ và kim phút là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Đồng hồ chỉ 6 giờ đúng. Góc giữa kim giờ và kim phút là góc gì?",
+    "options": ["Góc bẹt", "Góc vuông", "Góc nhọn", "Góc tù"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Ngày 2 tháng 9 là ngày lễ gì của nước ta?",
+    "options": ["Ngày Quốc khánh", "Ngày Tết Dương lịch", "Ngày Tết Âm lịch", "Ngày Giỗ tổ Hùng Vương"],
+    "correctAnswer": "Ngày Quốc khánh"
+  },
+  {
+    "question": "Tháng 7 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Hôm nay là Chủ nhật, ngày 15. Bốn ngày trước là thứ mấy, ngày mấy?",
+    "options": ["Thứ Tư, ngày 11", "Thứ Năm, ngày 11", "Thứ Tư, ngày 19", "Thứ Năm, ngày 19"],
+    "correctAnswer": "Thứ Tư, ngày 11"
+  },
+  {
+    "question": "15 giờ là mấy giờ chiều?",
+    "options": ["3 giờ chiều", "5 giờ chiều", "1 giờ chiều", "2 giờ chiều"],
+    "correctAnswer": "3 giờ chiều"
+  },
+  {
+    "question": "22 giờ là mấy giờ tối?",
+    "options": ["10 giờ tối", "12 giờ tối", "8 giờ tối", "9 giờ tối"],
+    "correctAnswer": "10 giờ tối"
+  },
+  {
+    "question": "Bây giờ là 7 giờ 30 phút. 45 phút nữa là mấy giờ?",
+    "options": ["8 giờ 15 phút", "8 giờ 30 phút", "7 giờ 45 phút", "8 giờ"],
+    "correctAnswer": "8 giờ 15 phút"
+  },
+  {
+    "question": "An làm bài tập hết 1 giờ. An bắt đầu lúc 8 giờ. Hỏi An làm xong lúc mấy giờ?",
+    "options": ["9 giờ", "8 giờ", "10 giờ", "7 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Tháng 11 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Tháng nào nằm giữa tháng 5 và tháng 7?",
+    "options": ["Tháng 6", "Tháng 5", "Tháng 7", "Tháng 8"],
+    "correctAnswer": "Tháng 6"
+  },
+  {
+    "question": "Nếu tháng này là tháng 8, thì tháng sau là tháng mấy?",
+    "options": ["Tháng 9", "Tháng 7", "Tháng 10", "Tháng 8"],
+    "correctAnswer": "Tháng 9"
+  },
+  {
+    "question": "Nếu tháng này là tháng 3, thì tháng trước là tháng mấy?",
+    "options": ["Tháng 2", "Tháng 4", "Tháng 1", "Tháng 12"],
+    "correctAnswer": "Tháng 2"
+  },
+  {
+    "question": "Đồng hồ chỉ 9 giờ kém 10 phút. Tức là mấy giờ bao nhiêu phút?",
+    "options": ["8 giờ 50 phút", "9 giờ 10 phút", "8 giờ 10 phút", "9 giờ 50 phút"],
+    "correctAnswer": "8 giờ 50 phút"
+  },
+  {
+    "question": "Một chương trình TV kéo dài 45 phút. Nếu nó bắt đầu lúc 20 giờ, nó sẽ kết thúc lúc mấy giờ?",
+    "options": ["20 giờ 45 phút", "21 giờ", "20 giờ 30 phút", "21 giờ 45 phút"],
+    "correctAnswer": "20 giờ 45 phút"
+  },
+  {
+    "question": "Ngày 1 tháng 6 là ngày lễ gì?",
+    "options": ["Ngày Quốc tế Thiếu nhi", "Ngày Nhà giáo Việt Nam", "Ngày Phụ nữ Việt Nam", "Ngày Tết Trung thu"],
+    "correctAnswer": "Ngày Quốc tế Thiếu nhi"
+  },
+  {
+    "question": "Trong một năm, có bao nhiêu tháng có 31 ngày?",
+    "options": ["7 tháng", "4 tháng", "1 tháng", "12 tháng"],
+    "correctAnswer": "7 tháng"
+  },
+  {
+    "question": "Trong một năm, có bao nhiêu tháng có 30 ngày?",
+    "options": ["4 tháng", "7 tháng", "1 tháng", "12 tháng"],
+    "correctAnswer": "4 tháng"
+  },
+  {
+    "question": "Lớp em đi cắm trại 2 ngày. Nếu bắt đầu đi vào sáng thứ Bảy, lớp em sẽ về vào ngày nào?",
+    "options": ["Chiều Chủ Nhật", "Sáng Chủ Nhật", "Chiều thứ Hai", "Sáng thứ Sáu"],
+    "correctAnswer": "Chiều Chủ Nhật"
+  },
+  {
+    "question": "12 giờ trưa còn được gọi là gì?",
+    "options": ["Giờ ngọ", "Giờ tý", "Giờ sửu", "Giờ dậu"],
+    "correctAnswer": "Giờ ngọ"
+  },
+  {
+    "question": "24 giờ còn được gọi là gì?",
+    "options": ["0 giờ", "12 giờ đêm", "12 giờ trưa", "1 giờ sáng"],
+    "correctAnswer": "0 giờ"
+  },
+  {
+    "question": "Bây giờ là 13 giờ. 3 giờ nữa là mấy giờ?",
+    "options": ["16 giờ", "10 giờ", "15 giờ", "17 giờ"],
+    "correctAnswer": "16 giờ"
+  },
+  {
+    "question": "Bây giờ là 10 giờ sáng. 2 giờ trước là mấy giờ?",
+    "options": ["8 giờ sáng", "12 giờ trưa", "9 giờ sáng", "7 giờ sáng"],
+    "correctAnswer": "8 giờ sáng"
+  },
+  {
+    "question": "Ngày 8 tháng 3 là ngày lễ gì?",
+    "options": ["Ngày Quốc tế Phụ nữ", "Ngày Phụ nữ Việt Nam", "Ngày Nhà giáo Việt Nam", "Ngày của Mẹ"],
+    "correctAnswer": "Ngày Quốc tế Phụ nữ"
+  },
+  {
+    "question": "Ngày 20 tháng 10 là ngày lễ gì?",
+    "options": ["Ngày Phụ nữ Việt Nam", "Ngày Quốc tế Phụ nữ", "Ngày của Mẹ", "Ngày của Cha"],
+    "correctAnswer": "Ngày Phụ nữ Việt Nam"
+  },
+  {
+    "question": "Tháng 8 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Hôm nay là thứ Ba, ngày 2. Ba ngày sau là thứ mấy, ngày mấy?",
+    "options": ["Thứ Sáu, ngày 5", "Thứ Năm, ngày 5", "Thứ Sáu, ngày 6", "Thứ Năm, ngày 4"],
+    "correctAnswer": "Thứ Sáu, ngày 5"
+  },
+  {
+    "question": "Một tuần có bao nhiêu giờ?",
+    "options": ["168 giờ", "148 giờ", "120 giờ", "180 giờ"],
+    "correctAnswer": "168 giờ"
+  },
+  {
+    "question": "Nửa giờ là bao nhiêu phút?",
+    "options": ["30 phút", "15 phút", "45 phút", "60 phút"],
+    "correctAnswer": "30 phút"
+  },
+  {
+    "question": "Đồng hồ chỉ 4 giờ 45 phút. Còn bao nhiêu phút nữa thì đến 5 giờ?",
+    "options": ["15 phút", "30 phút", "45 phút", "5 phút"],
+    "correctAnswer": "15 phút"
+  },
+  {
+    "question": "Bố đi công tác 1 tuần. Bố đi từ ngày thứ Hai. Hỏi bố về ngày thứ mấy?",
+    "options": ["Thứ Hai tuần sau", "Chủ Nhật", "Thứ Bảy", "Thứ Ba tuần sau"],
+    "correctAnswer": "Thứ Hai tuần sau"
+  },
+  {
+    "question": "Tháng 5 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Ngày nhà trường nghỉ Tết thường rơi vào tháng mấy Âm lịch?",
+    "options": ["Tháng 12 hoặc tháng 1", "Tháng 6", "Tháng 9", "Tháng 4"],
+    "correctAnswer": "Tháng 12 hoặc tháng 1"
+  },
+  {
+    "question": "Tết Trung thu là ngày mấy, tháng mấy Âm lịch?",
+    "options": ["Ngày 15 tháng 8", "Ngày 1 tháng 1", "Ngày 5 tháng 5", "Ngày 15 tháng 7"],
+    "correctAnswer": "Ngày 15 tháng 8"
+  },
+  {
+    "question": "Bây giờ là 11 giờ trưa. 60 phút nữa là mấy giờ?",
+    "options": ["12 giờ trưa", "11 giờ 30 phút", "13 giờ", "10 giờ"],
+    "correctAnswer": "12 giờ trưa"
+  },
+  {
+    "question": "Em ngủ lúc 21 giờ và thức dậy lúc 6 giờ sáng hôm sau. Em đã ngủ mấy giờ?",
+    "options": ["9 giờ", "8 giờ", "10 giờ", "7 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Một quý có mấy tháng?",
+    "options": ["3 tháng", "4 tháng", "6 tháng", "12 tháng"],
+    "correctAnswer": "3 tháng"
+  },
+  {
+    "question": "Một năm có mấy quý?",
+    "options": ["4 quý", "3 quý", "2 quý", "12 quý"],
+    "correctAnswer": "4 quý"
+  },
+  {
+    "question": "Tháng 1, 2, 3 là quý mấy trong năm?",
+    "options": ["Quý I", "Quý II", "Quý III", "Quý IV"],
+    "correctAnswer": "Quý I"
+  },
+  {
+    "question": "Đồng hồ chỉ 7 giờ tối. Đó là mấy giờ?",
+    "options": ["19 giờ", "7 giờ", "17 giờ", "20 giờ"],
+    "correctAnswer": "19 giờ"
+  },
+  {
+    "question": "Em xem lịch và thấy ngày 25 tháng 12 là thứ Sáu. Vậy ngày 27 tháng 12 là thứ mấy?",
+    "options": ["Chủ Nhật", "Thứ Bảy", "Thứ Hai", "Thứ Năm"],
+    "correctAnswer": "Chủ Nhật"
+  },
+  {
+    "question": "Một bộ phim bắt đầu lúc 14 giờ 30 phút và kéo dài 2 giờ. Hỏi phim kết thúc lúc mấy giờ?",
+    "options": ["16 giờ 30 phút", "16 giờ", "17 giờ", "15 giờ 30 phút"],
+    "correctAnswer": "16 giờ 30 phút"
+  },
+  {
+    "question": "Ngày Giỗ tổ Hùng Vương là ngày mấy, tháng mấy Âm lịch?",
+    "options": ["Ngày 10 tháng 3", "Ngày 1 tháng 1", "Ngày 15 tháng 8", "Ngày 5 tháng 5"],
+    "correctAnswer": "Ngày 10 tháng 3"
+  },
+  {
+    "question": "Từ 8 giờ sáng đến 11 giờ sáng cùng ngày là mấy giờ?",
+    "options": ["3 giờ", "2 giờ", "4 giờ", "19 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Tháng nào có tên bắt đầu bằng chữ 'T'?",
+    "options": ["Tháng Tám, Tháng Tư", "Tháng Hai", "Tháng Năm", "Tháng Sáu"],
+    "correctAnswer": "Tháng Tám, Tháng Tư"
+  }
+]
+

@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Đơn vị đo khối lượng chúng ta vừa học là gì?",
+    "options": ["Ki-lô-gam", "Lít", "Mét", "Xăng-ti-mét"],
+    "correctAnswer": "Ki-lô-gam"
+  },
+  {
+    "question": "Ki-lô-gam được viết tắt là gì?",
+    "options": ["kg", "l", "m", "cm"],
+    "correctAnswer": "kg"
+  },
+  {
+    "question": "Quả dưa hấu cân nặng 3 kg. Số 3 chỉ điều gì?",
+    "options": ["Khối lượng của quả dưa hấu", "Chiều dài của quả dưa hấu", "Số lượng dưa hấu", "Giá tiền của quả dưa hấu"],
+    "correctAnswer": "Khối lượng của quả dưa hấu"
+  },
+  {
+    "question": "Vật nào sau đây thường nặng hơn 1 kg?",
+    "options": ["Một bao gạo", "Một quả táo", "Một cục tẩy", "Một quyển vở"],
+    "correctAnswer": "Một bao gạo"
+  },
+  {
+    "question": "Vật nào sau đây thường nhẹ hơn 1 kg?",
+    "options": ["Một chiếc bút", "Một quả bí ngô", "Một con lợn", "Một cái bàn"],
+    "correctAnswer": "Một chiếc bút"
+  },
+  {
+    "question": "Túi gạo cân nặng 5 kg. Túi ngô cân nặng 3 kg. Túi nào nặng hơn?",
+    "options": ["Túi gạo", "Túi ngô", "Hai túi nặng bằng nhau", "Không so sánh được"],
+    "correctAnswer": "Túi gạo"
+  },
+  {
+    "question": "Tính: 12 kg + 5 kg =",
+    "options": ["17 kg", "17", "7 kg", "7"],
+    "correctAnswer": "17 kg"
+  },
+  {
+    "question": "Tính: 25 kg - 10 kg =",
+    "options": ["15 kg", "15", "35 kg", "35"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Tính: 8 kg + 9 kg =",
+    "options": ["17 kg", "1 kg", "16 kg", "18 kg"],
+    "correctAnswer": "17 kg"
+  },
+  {
+    "question": "Tính: 16 kg - 7 kg =",
+    "options": ["9 kg", "23 kg", "8 kg", "10 kg"],
+    "correctAnswer": "9 kg"
+  },
+  {
+    "question": "Đơn vị đo dung tích chúng ta vừa học là gì?",
+    "options": ["Lít", "Ki-lô-gam", "Giờ", "Đồng"],
+    "correctAnswer": "Lít"
+  },
+  {
+    "question": "Lít được viết tắt là gì?",
+    "options": ["l", "kg", "g", "ml"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "Chai nước mắm có dung tích 1 lít. Số 1 chỉ điều gì?",
+    "options": ["Lượng nước mắm trong chai", "Khối lượng của chai", "Chiều cao của chai", "Giá tiền của chai"],
+    "correctAnswer": "Lượng nước mắm trong chai"
+  },
+  {
+    "question": "Vật nào sau đây thường dùng để chứa chất lỏng và đo bằng lít?",
+    "options": ["Can dầu", "Bao xi măng", "Cuộn dây điện", "Hộp bánh"],
+    "correctAnswer": "Can dầu"
+  },
+  {
+    "question": "So sánh: 10 lít và 5 lít",
+    "options": ["10 lít > 5 lít", "10 lít < 5 lít", "10 lít = 5 lít", "Không so sánh được"],
+    "correctAnswer": "10 lít > 5 lít"
+  },
+  {
+    "question": "Tính: 15 l + 4 l =",
+    "options": ["19 l", "19", "11 l", "11"],
+    "correctAnswer": "19 l"
+  },
+  {
+    "question": "Tính: 30 l - 12 l =",
+    "options": ["18 l", "18", "42 l", "42"],
+    "correctAnswer": "18 l"
+  },
+  {
+    "question": "Tính: 9 l + 8 l =",
+    "options": ["17 l", "1 l", "16 l", "18 l"],
+    "correctAnswer": "17 l"
+  },
+  {
+    "question": "Tính: 14 l - 6 l =",
+    "options": ["8 l", "20 l", "7 l", "9 l"],
+    "correctAnswer": "8 l"
+  },
+  {
+    "question": "Can to có 10 lít nước, can bé có 5 lít nước. Cả hai can có bao nhiêu lít nước?",
+    "options": ["15 lít", "5 lít", "14 lít", "16 lít"],
+    "correctAnswer": "15 lít"
+  },
+  {
+    "question": "Mẹ mua 10 kg gạo, mẹ đã nấu hết 3 kg. Hỏi mẹ còn lại bao nhiêu ki-lô-gam gạo?",
+    "options": ["7 kg", "13 kg", "6 kg", "8 kg"],
+    "correctAnswer": "7 kg"
+  },
+  {
+    "question": "Thùng nước có 20 lít, người ta đã dùng hết 11 lít. Hỏi trong thùng còn lại bao nhiêu lít nước?",
+    "options": ["9 lít", "31 lít", "8 lít", "10 lít"],
+    "correctAnswer": "9 lít"
+  },
+  {
+    "question": "Bao gạo thứ nhất nặng 12 kg, bao gạo thứ hai nặng hơn bao thứ nhất 5 kg. Hỏi bao gạo thứ hai nặng bao nhiêu ki-lô-gam?",
+    "options": ["17 kg", "7 kg", "16 kg", "18 kg"],
+    "correctAnswer": "17 kg"
+  },
+  {
+    "question": "Thùng dầu thứ nhất có 15 lít, thùng thứ hai có ít hơn thùng thứ nhất 6 lít. Hỏi thùng thứ hai có bao nhiêu lít dầu?",
+    "options": ["9 lít", "21 lít", "8 lít", "10 lít"],
+    "correctAnswer": "9 lít"
+  },
+  {
+    "question": "Con lợn cân nặng 45 kg, con chó nhẹ hơn con lợn 30 kg. Hỏi con chó cân nặng bao nhiêu ki-lô-gam?",
+    "options": ["15 kg", "75 kg", "14 kg", "16 kg"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Điền đơn vị thích hợp vào chỗ trống: 'Một quả dưa hấu nặng khoảng 2 ___'",
+    "options": ["kg", "l", "m", "cm"],
+    "correctAnswer": "kg"
+  },
+  {
+    "question": "Điền đơn vị thích hợp vào chỗ trống: 'Một chai nước ngọt chứa khoảng 1 ___'",
+    "options": ["l", "kg", "giờ", "phút"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "Đọc số: 25 kg",
+    "options": ["Hai mươi lăm ki-lô-gam", "Hai năm ki-lô-gam", "Hai mươi lăm gam", "Hai lăm kg"],
+    "correctAnswer": "Hai mươi lăm ki-lô-gam"
+  },
+  {
+    "question": "Đọc số: 18 l",
+    "options": ["Mười tám lít", "Một tám lít", "Mười tám l", "Mười tám li-tít"],
+    "correctAnswer": "Mười tám lít"
+  },
+  {
+    "question": "So sánh: 12 kg và 12 lít",
+    "options": ["Không so sánh được", "12 kg > 12 lít", "12 kg < 12 lít", "12 kg = 12 lít"],
+    "correctAnswer": "Không so sánh được"
+  },
+  {
+    "question": "Tính: 5 kg + 5 kg + 5 kg =",
+    "options": ["15 kg", "10 kg", "5 kg", "20 kg"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Tính: 20 l - 8 l - 2 l =",
+    "options": ["10 l", "12 l", "18 l", "11 l"],
+    "correctAnswer": "10 l"
+  },
+  {
+    "question": "Bao ngô nặng 15 kg, bao thóc nặng 20 kg. Cả hai bao nặng tất cả bao nhiêu ki-lô-gam?",
+    "options": ["35 kg", "5 kg", "30 kg", "40 kg"],
+    "correctAnswer": "35 kg"
+  },
+  {
+    "question": "Bình xăng xe máy có 4 lít, người ta đổ thêm 3 lít nữa. Hỏi trong bình có tất cả bao nhiêu lít xăng?",
+    "options": ["7 lít", "1 lít", "6 lít", "8 lít"],
+    "correctAnswer": "7 lít"
+  },
+  {
+    "question": "Con ngỗng cân nặng 6 kg, con gà nhẹ hơn con ngỗng 4 kg. Hỏi con gà cân nặng bao nhiêu ki-lô-gam?",
+    "options": ["2 kg", "10 kg", "3 kg", "1 kg"],
+    "correctAnswer": "2 kg"
+  },
+  {
+    "question": "Xô to đựng được 12 lít nước, xô bé đựng được ít hơn xô to 5 lít. Hỏi xô bé đựng được bao nhiêu lít nước?",
+    "options": ["7 lít", "17 lít", "6 lít", "8 lít"],
+    "correctAnswer": "7 lít"
+  },
+  {
+    "question": "Ước lượng xem một quả cam nặng khoảng bao nhiêu?",
+    "options": ["Nhẹ hơn 1 kg", "Nặng bằng 1 kg", "Nặng hơn 1 kg", "Nặng bằng 5 kg"],
+    "correctAnswer": "Nhẹ hơn 1 kg"
+  },
+  {
+    "question": "Ước lượng xem một xô nước đầy chứa khoảng bao nhiêu lít?",
+    "options": ["Khoảng 10 lít", "Khoảng 1 lít", "Khoảng 100 lít", "Khoảng 50 lít"],
+    "correctAnswer": "Khoảng 10 lít"
+  },
+  {
+    "question": "Để cân một bao gạo, người ta dùng loại cân nào?",
+    "options": ["Cân đĩa", "Thước kẻ", "Nhiệt kế", "Đồng hồ"],
+    "correctAnswer": "Cân đĩa"
+  },
+  {
+    "question": "Để đong 1 lít dầu, người ta có thể dùng ca đong có ghi dung tích bao nhiêu?",
+    "options": ["1 lít", "1 kg", "1 mét", "1 giờ"],
+    "correctAnswer": "1 lít"
+  },
+  {
+    "question": "Tính: 11 kg + 9 kg =",
+    "options": ["20 kg", "2 kg", "19 kg", "21 kg"],
+    "correctAnswer": "20 kg"
+  },
+  {
+    "question": "Tính: 18 l - 9 l =",
+    "options": ["9 l", "27 l", "8 l", "10 l"],
+    "correctAnswer": "9 l"
+  },
+  {
+    "question": "So sánh: 25 kg và 15 kg + 10 kg",
+    "options": ["Bằng nhau", "25 kg > 15 kg + 10 kg", "25 kg < 15 kg + 10 kg", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "So sánh: 12 l và 20 l - 7 l",
+    "options": ["12 l < 20 l - 7 l", "12 l > 20 l - 7 l", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "12 l < 20 l - 7 l"
+  },
+  {
+    "question": "Mẹ mua 5 kg khoai tây và 3 kg cà rốt. Hỏi mẹ mua tất cả bao nhiêu ki-lô-gam rau củ?",
+    "options": ["8 kg", "2 kg", "7 kg", "9 kg"],
+    "correctAnswer": "8 kg"
+  },
+  {
+    "question": "Thùng sơn có 18 lít, người ta đã dùng hết một nửa. Hỏi còn lại bao nhiêu lít sơn?",
+    "options": ["9 lít", "18 lít", "0 lít", "8 lít"],
+    "correctAnswer": "9 lít"
+  },
+  {
+    "question": "Một quả bí ngô nặng 4 kg, một quả dưa hấu nặng 2 kg. Hỏi quả bí ngô nặng hơn quả dưa hấu bao nhiêu ki-lô-gam?",
+    "options": ["2 kg", "6 kg", "3 kg", "1 kg"],
+    "correctAnswer": "2 kg"
+  },
+  {
+    "question": "Bình của An đựng được 2 lít nước, bình của Bình đựng được nhiều hơn An 1 lít. Hỏi bình của Bình đựng được bao nhiêu lít nước?",
+    "options": ["3 lít", "1 lít", "2 lít", "4 lít"],
+    "correctAnswer": "3 lít"
+  },
+  {
+    "question": "Tính: 34 kg + 15 kg =",
+    "options": ["49 kg", "19 kg", "48 kg", "50 kg"],
+    "correctAnswer": "49 kg"
+  },
+  {
+    "question": "Tính: 56 l - 23 l =",
+    "options": ["33 l", "79 l", "32 l", "34 l"],
+    "correctAnswer": "33 l"
+  },
+  {
+    "question": "Quả mít cân nặng 7 kg. Quả sầu riêng nhẹ hơn quả mít 3 kg. Hỏi quả sầu riêng cân nặng bao nhiêu?",
+    "options": ["4 kg", "10 kg", "5 kg", "3 kg"],
+    "correctAnswer": "4 kg"
+  },
+  {
+    "question": "Thùng to có 25 lít mật ong, thùng bé có 12 lít mật ong. Hỏi thùng to nhiều hơn thùng bé bao nhiêu lít mật ong?",
+    "options": ["13 lít", "37 lít", "12 lít", "14 lít"],
+    "correctAnswer": "13 lít"
+  },
+  {
+    "question": "Một con chó nặng 12 kg, một con mèo nặng 4 kg. Cả hai con nặng bao nhiêu ki-lô-gam?",
+    "options": ["16 kg", "8 kg", "15 kg", "17 kg"],
+    "correctAnswer": "16 kg"
+  },
+  {
+    "question": "Trong can có 10 lít rượu, người ta rót ra 3 lít. Hỏi trong can còn lại bao nhiêu lít rượu?",
+    "options": ["7 lít", "13 lít", "6 lít", "8 lít"],
+    "correctAnswer": "7 lít"
+  },
+  {
+    "question": "Điền số thích hợp: 10 kg + ... = 19 kg",
+    "options": ["9 kg", "9", "29 kg", "29"],
+    "correctAnswer": "9 kg"
+  },
+  {
+    "question": "Điền số thích hợp: 15 l - ... = 8 l",
+    "options": ["7 l", "7", "23 l", "23"],
+    "correctAnswer": "7 l"
+  },
+  {
+    "question": "Vật nào được đo bằng ki-lô-gam?",
+    "options": ["Con người", "Nước ngọt", "Không khí", "Thời gian"],
+    "correctAnswer": "Con người"
+  },
+  {
+    "question": "Vật nào được đo bằng lít?",
+    "options": ["Sữa", "Gạo", "Thịt", "Bánh mì"],
+    "correctAnswer": "Sữa"
+  },
+  {
+    "question": "Tính: 7 kg + 6 kg + 2 kg =",
+    "options": ["15 kg", "13 kg", "14 kg", "16 kg"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Tính: 18 l - 5 l - 4 l =",
+    "options": ["9 l", "13 l", "14 l", "10 l"],
+    "correctAnswer": "9 l"
+  },
+  {
+    "question": "Bao gạo nếp nặng 5 kg, bao gạo tẻ nặng hơn bao gạo nếp 10 kg. Hỏi bao gạo tẻ nặng bao nhiêu ki-lô-gam?",
+    "options": ["15 kg", "5 kg", "14 kg", "16 kg"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Can dầu hỏa có 12 lít, can dầu ăn có ít hơn can dầu hỏa 7 lít. Hỏi can dầu ăn có bao nhiêu lít?",
+    "options": ["5 lít", "19 lít", "6 lít", "4 lít"],
+    "correctAnswer": "5 lít"
+  },
+  {
+    "question": "Một em bé mới sinh nặng khoảng bao nhiêu ki-lô-gam?",
+    "options": ["3 kg", "10 kg", "1 kg", "20 kg"],
+    "correctAnswer": "3 kg"
+  },
+  {
+    "question": "Một ấm trà pha được khoảng bao nhiêu lít nước?",
+    "options": ["1 lít", "5 lít", "10 lít", "0 lít"],
+    "correctAnswer": "1 lít"
+  },
+  {
+    "question": "Tính: 40 kg + 50 kg =",
+    "options": ["90 kg", "10 kg", "9 kg", "100 kg"],
+    "correctAnswer": "90 kg"
+  },
+  {
+    "question": "Tính: 100 l - 30 l =",
+    "options": ["70 l", "130 l", "7 l", "80 l"],
+    "correctAnswer": "70 l"
+  },
+  {
+    "question": "So sánh: 1 kg và 1000 g",
+    "options": ["1 kg = 1000 g", "1 kg > 1000 g", "1 kg < 1000 g", "Không so sánh được"],
+    "correctAnswer": "1 kg = 1000 g"
+  },
+  {
+    "question": "So sánh: 1 l và 1000 ml",
+    "options": ["1 l = 1000 ml", "1 l > 1000 ml", "1 l < 1000 ml", "Không so sánh được"],
+    "correctAnswer": "1 l = 1000 ml"
+  },
+  {
+    "question": "Mẹ nặng 55 kg, con nặng 15 kg. Hỏi mẹ nặng hơn con bao nhiêu ki-lô-gam?",
+    "options": ["40 kg", "70 kg", "30 kg", "45 kg"],
+    "correctAnswer": "40 kg"
+  },
+  {
+    "question": "Thùng thứ nhất có 20 lít nước, thùng thứ hai có 30 lít nước. Hỏi cả hai thùng có bao nhiêu lít nước?",
+    "options": ["50 lít", "10 lít", "40 lít", "60 lít"],
+    "correctAnswer": "50 lít"
+  },
+  {
+    "question": "Tính: 19 kg - 9 kg =",
+    "options": ["10 kg", "28 kg", "9 kg", "11 kg"],
+    "correctAnswer": "10 kg"
+  },
+  {
+    "question": "Tính: 17 l + 3 l =",
+    "options": ["20 l", "14 l", "19 l", "21 l"],
+    "correctAnswer": "20 l"
+  },
+  {
+    "question": "Bố cân nặng 70 kg, anh cân nặng 50 kg. Hỏi bố nặng hơn anh bao nhiêu ki-lô-gam?",
+    "options": ["20 kg", "120 kg", "10 kg", "30 kg"],
+    "correctAnswer": "20 kg"
+  },
+  {
+    "question": "Bình nước của lớp em chứa được 20 lít nước, hôm nay cả lớp đã uống hết 15 lít. Hỏi trong bình còn lại bao nhiêu lít nước?",
+    "options": ["5 lít", "35 lít", "4 lít", "6 lít"],
+    "correctAnswer": "5 lít"
+  },
+  {
+    "question": "Một quả bưởi nặng 1 kg, một chùm nho nặng 1 kg. Khối lượng cả hai thế nào?",
+    "options": ["Bằng nhau", "Quả bưởi nặng hơn", "Chùm nho nặng hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một chai nước suối 1 lít và một hộp sữa 1 lít. Dung tích cả hai thế nào?",
+    "options": ["Bằng nhau", "Chai nước suối nhiều hơn", "Hộp sữa nhiều hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tính: 13 kg + 7 kg - 10 kg =",
+    "options": ["10 kg", "20 kg", "30 kg", "0 kg"],
+    "correctAnswer": "10 kg"
+  },
+  {
+    "question": "Tính: 16 l - 9 l + 5 l =",
+    "options": ["12 l", "7 l", "2 l", "21 l"],
+    "correctAnswer": "12 l"
+  },
+  {
+    "question": "Gói kẹo nặng 1 kg, gói bánh nặng 2 kg. Cả hai gói nặng bao nhiêu ki-lô-gam?",
+    "options": ["3 kg", "1 kg", "2 kg", "4 kg"],
+    "correctAnswer": "3 kg"
+  },
+  {
+    "question": "Thùng sơn có 10 lít, người ta lấy ra 2 lần, mỗi lần 3 lít. Hỏi trong thùng còn lại bao nhiêu lít sơn?",
+    "options": ["4 lít", "7 lít", "6 lít", "5 lít"],
+    "correctAnswer": "4 lít"
+  },
+  {
+    "question": "Con bò nặng 100 kg, con bê nhẹ hơn con bò 70 kg. Hỏi con bê nặng bao nhiêu ki-lô-gam?",
+    "options": ["30 kg", "170 kg", "20 kg", "40 kg"],
+    "correctAnswer": "30 kg"
+  },
+  {
+    "question": "Bể cá có 50 lít nước, người ta thay nước và đổ đi 20 lít, sau đó cho thêm vào 15 lít. Hỏi trong bể có bao nhiêu lít nước?",
+    "options": ["45 lít", "30 lít", "35 lít", "85 lít"],
+    "correctAnswer": "45 lít"
+  },
+  {
+    "question": "Tính: 28 kg - 12 kg =",
+    "options": ["16 kg", "40 kg", "15 kg", "17 kg"],
+    "correctAnswer": "16 kg"
+  },
+  {
+    "question": "Tính: 45 l + 15 l =",
+    "options": ["60 l", "30 l", "50 l", "70 l"],
+    "correctAnswer": "60 l"
+  },
+  {
+    "question": "Một bao xi măng nặng 50 kg. Một bao cát nặng 30 kg. Hỏi bao xi măng nặng hơn bao cát bao nhiêu ki-lô-gam?",
+    "options": ["20 kg", "80 kg", "10 kg", "30 kg"],
+    "correctAnswer": "20 kg"
+  },
+  {
+    "question": "Xô A có 12 lít nước, xô B có 8 lít nước. Hỏi phải chuyển từ xô A sang xô B bao nhiêu lít để hai xô có số nước bằng nhau?",
+    "options": ["2 lít", "4 lít", "10 lít", "1 lít"],
+    "correctAnswer": "2 lít"
+  },
+  {
+    "question": "Tổng khối lượng của 3 quả táo là 1 kg. Mỗi quả táo có thể nặng hơn, nhẹ hơn hay bằng nhau?",
+    "options": ["Có thể không bằng nhau", "Luôn bằng nhau", "Luôn nặng hơn 1 kg", "Luôn nhẹ hơn 1 kg"],
+    "correctAnswer": "Có thể không bằng nhau"
+  },
+  {
+    "question": "Một can 5 lít và một can 3 lít, làm thế nào để đong được 2 lít nước?",
+    "options": ["Đổ đầy can 5l, rồi đổ từ can 5l sang đầy can 3l", "Đổ đầy can 3l, rồi đổ sang can 5l", "Trộn lẫn với nhau", "Không thể đong được"],
+    "correctAnswer": "Đổ đầy can 5l, rồi đổ từ can 5l sang đầy can 3l"
+  },
+  {
+    "question": "Tính: 9 kg + 2 kg + 5 kg =",
+    "options": ["16 kg", "11 kg", "14 kg", "17 kg"],
+    "correctAnswer": "16 kg"
+  },
+  {
+    "question": "Tính: 20 l - 10 l - 5 l =",
+    "options": ["5 l", "10 l", "15 l", "35 l"],
+    "correctAnswer": "5 l"
+  },
+  {
+    "question": "Lan nặng 25 kg, chị của Lan nặng hơn Lan 10 kg. Hỏi cả hai chị em nặng bao nhiêu ki-lô-gam?",
+    "options": ["60 kg", "35 kg", "50 kg", "45 kg"],
+    "correctAnswer": "60 kg"
+  },
+  {
+    "question": "Thùng thứ nhất có 18 lít dầu, thùng thứ hai có ít hơn thùng thứ nhất 7 lít. Hỏi cả hai thùng có bao nhiêu lít dầu?",
+    "options": ["29 lít", "11 lít", "25 lít", "36 lít"],
+    "correctAnswer": "29 lít"
+  }
+]
+

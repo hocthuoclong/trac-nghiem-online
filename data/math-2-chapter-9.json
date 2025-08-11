@@ -1,0 +1,478 @@
+[
+  {
+    "question": "Hình nào sau đây là khối trụ?",
+    "options": ["Hộp sữa Ông Thọ", "Quả bóng đá", "Viên gạch", "Kim tự tháp"],
+    "correctAnswer": "Hộp sữa Ông Thọ"
+  },
+  {
+    "question": "Hình nào sau đây là khối cầu?",
+    "options": ["Quả địa cầu", "Lon nước ngọt", "Hộp bánh quy", "Quyển sách"],
+    "correctAnswer": "Quả địa cầu"
+  },
+  {
+    "question": "Vật nào có dạng khối trụ?",
+    "options": ["Cốc uống nước", "Viên bi", "Cục tẩy", "Quả cam"],
+    "correctAnswer": "Cốc uống nước"
+  },
+  {
+    "question": "Vật nào có dạng khối cầu?",
+    "options": ["Quả tennis", "Hộp chè", "Thanh gỗ", "Viên gạch"],
+    "correctAnswer": "Quả tennis"
+  },
+  {
+    "question": "Khối trụ có mấy mặt đáy?",
+    "options": ["2 mặt đáy là hình tròn", "1 mặt đáy là hình tròn", "Không có mặt đáy", "2 mặt đáy là hình vuông"],
+    "correctAnswer": "2 mặt đáy là hình tròn"
+  },
+  {
+    "question": "Khối cầu có mặt phẳng không?",
+    "options": ["Không", "Có, 1 mặt phẳng", "Có, 2 mặt phẳng", "Có, rất nhiều mặt phẳng"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Đặc điểm nào sau đây là của khối trụ?",
+    "options": ["Có thể lăn được và có thể đứng được", "Chỉ có thể lăn được", "Không thể lăn được", "Có các góc nhọn"],
+    "correctAnswer": "Có thể lăn được và có thể đứng được"
+  },
+  {
+    "question": "Đặc điểm nào sau đây là của khối cầu?",
+    "options": ["Có thể lăn được về mọi phía", "Chỉ có thể trượt", "Có các cạnh thẳng", "Có 2 mặt đáy"],
+    "correctAnswer": "Có thể lăn được về mọi phía"
+  },
+  {
+    "question": "Lon nước ngọt có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp chữ nhật", "Khối lập phương"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Viên bi ve có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Khối tam giác", "Khối vuông"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Trong các vật sau, vật nào không có dạng khối trụ?",
+    "options": ["Cái bát", "Ống bơ", "Cây nến hình trụ", "Khúc gỗ tròn"],
+    "correctAnswer": "Cái bát"
+  },
+  {
+    "question": "Trong các vật sau, vật nào không có dạng khối cầu?",
+    "options": ["Hộp diêm", "Quả bóng bàn", "Trái đất", "Viên ngọc trai"],
+    "correctAnswer": "Hộp diêm"
+  },
+  {
+    "question": "Đặt một lon sữa bò nằm ngang trên bàn, ta có thể làm gì với nó?",
+    "options": ["Lăn nó đi", "Làm nó đứng yên", "Xếp chồng lên nhau dễ dàng", "Không làm gì được"],
+    "correctAnswer": "Lăn nó đi"
+  },
+  {
+    "question": "Đặt một quả bóng trên mặt phẳng nghiêng, điều gì sẽ xảy ra?",
+    "options": ["Nó sẽ lăn xuống", "Nó sẽ đứng yên", "Nó sẽ trượt xuống", "Nó sẽ bay lên"],
+    "correctAnswer": "Nó sẽ lăn xuống"
+  },
+  {
+    "question": "Mặt đáy của một khối trụ là hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Khối cầu có đỉnh không?",
+    "options": ["Không có đỉnh", "Có 1 đỉnh", "Có 2 đỉnh", "Có vô số đỉnh"],
+    "correctAnswer": "Không có đỉnh"
+  },
+  {
+    "question": "Khối trụ có cạnh không?",
+    "options": ["Không có cạnh (theo nghĩa cạnh thẳng)", "Có 1 cạnh", "Có 2 cạnh", "Có 3 cạnh"],
+    "correctAnswer": "Không có cạnh (theo nghĩa cạnh thẳng)"
+  },
+  {
+    "question": "Vật nào vừa có dạng khối trụ, vừa có dạng khối cầu?",
+    "options": ["Không có vật nào như vậy", "Cái phích nước", "Quả dừa", "Bóng đèn tròn"],
+    "correctAnswer": "Không có vật nào như vậy"
+  },
+  {
+    "question": "Thân cây bút chì chưa gọt có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối lăng trụ", "Khối chóp"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả cam có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Hình elip"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Để xếp chồng các lon nước ngọt lên nhau, ta nên đặt chúng như thế nào?",
+    "options": ["Đặt đứng", "Đặt nằm", "Đặt nghiêng", "Không thể xếp chồng"],
+    "correctAnswer": "Đặt đứng"
+  },
+  {
+    "question": "Tại sao các bánh xe thường có dạng hình tròn (mặt cắt của khối trụ)?",
+    "options": ["Để có thể lăn được", "Để cho đẹp", "Để tiết kiệm vật liệu", "Để đi nhanh hơn"],
+    "correctAnswer": "Để có thể lăn được"
+  },
+  {
+    "question": "Một khúc mía có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Đường thẳng", "Đoạn thẳng"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Trái cherry có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình trái tim", "Khối lập phương"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Khi nhìn từ trên xuống, mặt trên của một cái cốc có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình trụ", "Hình cầu"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Khi nhìn từ một phía, quả bóng đá có dạng hình gì?",
+    "options": ["Hình tròn", "Hình cầu", "Hình vuông", "Hình tam giác"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Hình khối nào không thể xếp chồng lên nhau một cách vững chãi?",
+    "options": ["Khối cầu", "Khối lập phương", "Khối hộp chữ nhật", "Khối trụ (khi đặt đứng)"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Pin tiểu (pin AA) có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp chữ nhật", "Khối tam giác"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả nho có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình elip", "Hình giọt nước"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "So sánh khối trụ và khối cầu. Điểm khác biệt là gì?",
+    "options": ["Khối trụ có mặt phẳng, khối cầu không có", "Khối trụ không lăn được, khối cầu lăn được", "Khối trụ màu xanh, khối cầu màu đỏ", "Không có gì khác biệt"],
+    "correctAnswer": "Khối trụ có mặt phẳng, khối cầu không có"
+  },
+  {
+    "question": "Cái trống trường có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp", "Khối nón"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Hành tinh trong hệ mặt trời có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Đĩa tròn", "Hình vuông"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Để lon sữa nằm xuống và đẩy nhẹ, lon sữa sẽ...",
+    "options": ["Lăn", "Trượt", "Đứng yên", "Nhảy lên"],
+    "correctAnswer": "Lăn"
+  },
+  {
+    "question": "Để một viên bi trên bàn và thổi nhẹ, viên bi sẽ...",
+    "options": ["Lăn", "Trượt", "Đứng yên", "Vỡ ra"],
+    "correctAnswer": "Lăn"
+  },
+  {
+    "question": "Vật nào sau đây có hai mặt đáy là hình tròn bằng nhau?",
+    "options": ["Khối trụ", "Khối cầu", "Khối nón", "Khối hộp chữ nhật"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Vật nào sau đây có tất cả các điểm trên bề mặt cách đều tâm?",
+    "options": ["Khối cầu", "Khối trụ", "Khối lập phương", "Khối chóp"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Ống hút nước có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Đường thẳng", "Đoạn thẳng"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Bong bóng xà phòng khi thổi ra có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Không có hình dạng"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Nếu ta cắt một khối trụ theo chiều dọc, mặt cắt là hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Nếu ta cắt một khối cầu, mặt cắt là hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình elip", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Vỏ của một cuộn chỉ có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối vuông", "Khối tròn"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả bóng rổ có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Hình đa giác"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Khối rubik có phải là khối trụ không?",
+    "options": ["Không", "Có", "Chỉ khi nó màu xanh", "Chỉ khi nó xoay được"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Quả địa cầu có phải là khối trụ không?",
+    "options": ["Không", "Có", "Chỉ khi nó có trục quay", "Chỉ khi nó thể hiện các quốc gia"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Một cái đĩa CD có dạng hình gì?",
+    "options": ["Hình tròn (rất dẹt)", "Khối trụ", "Khối cầu", "Hình vuông"],
+    "correctAnswer": "Hình tròn (rất dẹt)"
+  },
+  {
+    "question": "Một giọt nước rơi tự do trong không khí có xu hướng tạo thành khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Khối lập phương", "Hình giọt nước"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Chân bàn hình tròn có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Đường thẳng", "Đoạn thẳng"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Mặt trăng có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Đĩa tròn", "Hình lưỡi liềm"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Khối nào có thể đứng vững trên mặt đáy của nó?",
+    "options": ["Khối trụ", "Khối cầu", "Cả hai", "Không khối nào"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Khối nào không có mặt đáy?",
+    "options": ["Khối cầu", "Khối trụ", "Khối hộp chữ nhật", "Khối lập phương"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Lõi cuộn giấy vệ sinh có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Hình tròn", "Hình vuông"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả cherry có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình trái tim", "Hình elip"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Để vẽ một hình tròn, em có thể dùng đáy của vật nào?",
+    "options": ["Cái cốc (khối trụ)", "Viên bi (khối cầu)", "Cục tẩy (khối hộp)", "Quyển sách (khối hộp)"],
+    "correctAnswer": "Cái cốc (khối trụ)"
+  },
+  {
+    "question": "Vật nào sau đây có thể lăn theo một hướng nhất định (khi đặt nằm)?",
+    "options": ["Khối trụ", "Khối cầu", "Khối lập phương", "Khối chóp"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Bánh xe bò có dạng khối gì?",
+    "options": ["Khối trụ (dẹt)", "Khối cầu", "Hình vuông", "Hình tam giác"],
+    "correctAnswer": "Khối trụ (dẹt)"
+  },
+  {
+    "question": "Quả dưa hấu tròn có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình elip", "Hình bầu dục"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Một khúc gỗ hình trụ và một quả bóng. Vật nào dễ lăn hơn trên dốc?",
+    "options": ["Quả bóng", "Khúc gỗ", "Lăn như nhau", "Không vật nào lăn"],
+    "correctAnswer": "Quả bóng"
+  },
+  {
+    "question": "Một cái xô đựng nước có dạng gần giống khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối nón cụt", "Khối hộp"],
+    "correctAnswer": "Khối nón cụt"
+  },
+  {
+    "question": "Bóng đèn sợi đốt hình tròn có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình quả lê", "Hình tròn"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Thân của một cây thông Noel nhân tạo thường được làm từ các khối gì?",
+    "options": ["Khối nón", "Khối trụ", "Khối cầu", "Khối vuông"],
+    "correctAnswer": "Khối nón"
+  },
+  {
+    "question": "Để làm người tuyết, người ta thường dùng các khối tuyết có dạng gì?",
+    "options": ["Khối cầu", "Khối trụ", "Khối lập phương", "Khối tam giác"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Ống cống thoát nước thường có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp chữ nhật", "Hình vuông"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả bi-a có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Hình đa giác"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Trong các hình khối đã học, hình nào có bề mặt cong hoàn toàn?",
+    "options": ["Khối cầu", "Khối trụ", "Khối nón", "Khối lập phương"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Trong các hình khối đã học, hình nào vừa có mặt cong vừa có mặt phẳng?",
+    "options": ["Khối trụ", "Khối cầu", "Khối lập phương", "Khối hộp chữ nhật"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Cái bình hoa hình trụ có thể đựng được nước không?",
+    "options": ["Có", "Không", "Chỉ đựng được hoa", "Chỉ đựng được cát"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Quả bóng bay sau khi thổi căng có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Hình elip"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Một đoạn ống nhựa có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Đường thẳng", "Hình vuông"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Trái banh lông có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Khối nón", "Không có dạng nhất định"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Mặt trên và mặt dưới của khối trụ có bằng nhau không?",
+    "options": ["Có", "Không", "Mặt trên lớn hơn", "Mặt dưới lớn hơn"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Tất cả các điểm trên bề mặt khối cầu có cách đều tâm của nó không?",
+    "options": ["Có", "Không", "Chỉ một vài điểm", "Không có điểm nào"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Thùng phi đựng xăng có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp", "Khối vuông"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Hạt cườm hình tròn có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình tròn", "Hình trụ"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Khi một hình chữ nhật quay quanh một cạnh của nó, nó sẽ tạo ra khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối nón", "Khối vuông"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Khi một nửa hình tròn quay quanh đường kính của nó, nó sẽ tạo ra khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Khối nón", "Hình tròn"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Cái ly không có quai cầm thường có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp", "Khối tam giác"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả địa cầu quay quanh một trục. Trục đó đi qua đâu?",
+    "options": ["Tâm của khối cầu", "Bề mặt của khối cầu", "Bên ngoài khối cầu", "Không có trục"],
+    "correctAnswer": "Tâm của khối cầu"
+  },
+  {
+    "question": "Khối rubik hình cầu có tồn tại không?",
+    "options": ["Có", "Không", "Chỉ trong tưởng tượng", "Chỉ là khối vuông"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một cuộn len có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Cả hai dạng tùy cách quấn", "Khối vuông"],
+    "correctAnswer": "Cả hai dạng tùy cách quấn"
+  },
+  {
+    "question": "Vật nào sau đây không thể lăn?",
+    "options": ["Khối lập phương", "Khối cầu", "Khối trụ (đặt nằm)", "Quả bóng"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Vật nào sau đây có thể đứng vững?",
+    "options": ["Khối trụ (đặt đứng)", "Khối cầu", "Quả bóng", "Viên bi"],
+    "correctAnswer": "Khối trụ (đặt đứng)"
+  },
+  {
+    "question": "Bánh xe đạp là một khối trụ rất...",
+    "options": ["Dẹt", "Cao", "To", "Nặng"],
+    "correctAnswer": "Dẹt"
+  },
+  {
+    "question": "Quả bóng bowling có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Khối nón", "Khối hộp"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Một khúc tre có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Đường thẳng", "Hình vuông"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả nhãn có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình elip", "Hình tròn"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Để so sánh hai khối trụ, ta có thể so sánh...",
+    "options": ["Chiều cao và độ rộng đáy", "Màu sắc", "Độ cứng", "Vị của chúng"],
+    "correctAnswer": "Chiều cao và độ rộng đáy"
+  },
+  {
+    "question": "Để so sánh hai khối cầu, ta có thể so sánh...",
+    "options": ["Độ lớn (đường kính)", "Màu sắc", "Hình dạng", "Số mặt"],
+    "correctAnswer": "Độ lớn (đường kính)"
+  },
+  {
+    "question": "Một cái cột nhà hình tròn có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối vuông", "Đường thẳng"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Trong bộ đồ chơi, khối có thể lăn đi xa nhất trên sàn là khối nào?",
+    "options": ["Khối cầu", "Khối trụ", "Khối lập phương", "Khối tam giác"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Hình ảnh nào sau đây không phải là khối tròn xoay?",
+    "options": ["Khối lập phương", "Khối trụ", "Khối cầu", "Khối nón"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Cái mũ của chú hề thường có dạng khối gì?",
+    "options": ["Khối nón", "Khối trụ", "Khối cầu", "Khối vuông"],
+    "correctAnswer": "Khối nón"
+  },
+  {
+    "question": "Lon đồ hộp có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp", "Khối tròn"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Quả cà chua bi có dạng khối gì?",
+    "options": ["Khối cầu", "Khối trụ", "Hình vuông", "Hình tam giác"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "Khối trụ và khối cầu đều có chung đặc điểm gì?",
+    "options": ["Có bề mặt cong", "Có đỉnh", "Có cạnh", "Có mặt đáy hình vuông"],
+    "correctAnswer": "Có bề mặt cong"
+  },
+  {
+    "question": "Vật nào sau đây có thể vừa lăn vừa trượt (trượt trên mặt đáy)?",
+    "options": ["Khối trụ", "Khối cầu", "Khối lập phương", "Khối chóp"],
+    "correctAnswer": "Khối trụ"
+  }
+]
+

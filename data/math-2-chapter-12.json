@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Kết quả của phép tính 250 + 130 là:",
+    "options": ["380", "370", "390", "120"],
+    "correctAnswer": "380"
+  },
+  {
+    "question": "Kết quả của phép tính 415 + 372 là:",
+    "options": ["787", "786", "797", "777"],
+    "correctAnswer": "787"
+  },
+  {
+    "question": "Tính: 600 + 300 =",
+    "options": ["900", "300", "800", "1000"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Tính: 123 + 456 =",
+    "options": ["579", "578", "589", "569"],
+    "correctAnswer": "579"
+  },
+  {
+    "question": "Một cửa hàng buổi sáng bán được 150 kg gạo, buổi chiều bán được 200 kg. Cả hai buổi cửa hàng bán được bao nhiêu ki-lô-gam gạo?",
+    "options": ["350 kg", "50 kg", "300 kg", "450 kg"],
+    "correctAnswer": "350 kg"
+  },
+  {
+    "question": "Kết quả của phép tính 348 + 125 là:",
+    "options": ["473", "463", "472", "462"],
+    "correctAnswer": "473"
+  },
+  {
+    "question": "Kết quả của phép tính 567 + 219 là:",
+    "options": ["786", "785", "776", "796"],
+    "correctAnswer": "786"
+  },
+  {
+    "question": "Kết quả của phép tính 270 + 480 là:",
+    "options": ["750", "740", "650", "760"],
+    "correctAnswer": "750"
+  },
+  {
+    "question": "Tính: 452 + 378 =",
+    "options": ["830", "820", "831", "829"],
+    "correctAnswer": "830"
+  },
+  {
+    "question": "Tính: 199 + 99 =",
+    "options": ["298", "297", "288", "308"],
+    "correctAnswer": "298"
+  },
+  {
+    "question": "Khối lớp Một có 350 học sinh, khối lớp Hai có nhiều hơn khối lớp Một 25 học sinh. Hỏi khối lớp Hai có bao nhiêu học sinh?",
+    "options": ["375 học sinh", "325 học sinh", "370 học sinh", "385 học sinh"],
+    "correctAnswer": "375 học sinh"
+  },
+  {
+    "question": "Kết quả của phép tính 789 - 456 là:",
+    "options": ["333", "323", "433", "334"],
+    "correctAnswer": "333"
+  },
+  {
+    "question": "Kết quả của phép tính 950 - 520 là:",
+    "options": ["430", "420", "440", "330"],
+    "correctAnswer": "430"
+  },
+  {
+    "question": "Tính: 800 - 300 =",
+    "options": ["500", "1100", "400", "600"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Tính: 675 - 123 =",
+    "options": ["552", "551", "562", "553"],
+    "correctAnswer": "552"
+  },
+  {
+    "question": "Một sợi dây dài 560 cm, người ta cắt đi 150 cm. Hỏi sợi dây còn lại dài bao nhiêu xăng-ti-mét?",
+    "options": ["410 cm", "710 cm", "400 cm", "420 cm"],
+    "correctAnswer": "410 cm"
+  },
+  {
+    "question": "Kết quả của phép tính 452 - 137 là:",
+    "options": ["315", "314", "325", "324"],
+    "correctAnswer": "315"
+  },
+  {
+    "question": "Kết quả của phép tính 621 - 385 là:",
+    "options": ["236", "235", "246", "336"],
+    "correctAnswer": "236"
+  },
+  {
+    "question": "Kết quả của phép tính 800 - 250 là:",
+    "options": ["550", "540", "650", "600"],
+    "correctAnswer": "550"
+  },
+  {
+    "question": "Tính: 503 - 149 =",
+    "options": ["354", "353", "364", "454"],
+    "correctAnswer": "354"
+  },
+  {
+    "question": "Tính: 710 - 99 =",
+    "options": ["611", "610", "621", "711"],
+    "correctAnswer": "611"
+  },
+  {
+    "question": "Một trang trại có 600 con gà, đã bán đi 150 con. Hỏi trang trại còn lại bao nhiêu con gà?",
+    "options": ["450 con", "750 con", "400 con", "550 con"],
+    "correctAnswer": "450 con"
+  },
+  {
+    "question": "Tìm x, biết x + 250 = 750",
+    "options": ["x = 500", "x = 1000", "x = 400", "x = 600"],
+    "correctAnswer": "x = 500"
+  },
+  {
+    "question": "Tìm y, biết 820 - y = 300",
+    "options": ["y = 520", "y = 1120", "y = 500", "y = 510"],
+    "correctAnswer": "y = 520"
+  },
+  {
+    "question": "Tìm z, biết z - 125 = 425",
+    "options": ["z = 550", "z = 300", "z = 540", "z = 560"],
+    "correctAnswer": "z = 550"
+  },
+  {
+    "question": "Tổng của 450 và 380 là:",
+    "options": ["830", "820", "730", "840"],
+    "correctAnswer": "830"
+  },
+  {
+    "question": "Hiệu của 900 và 150 là:",
+    "options": ["750", "1050", "700", "850"],
+    "correctAnswer": "750"
+  },
+  {
+    "question": "Tính: 212 + 343 =",
+    "options": ["555", "554", "565", "556"],
+    "correctAnswer": "555"
+  },
+  {
+    "question": "Tính: 567 + 281 =",
+    "options": ["848", "847", "858", "748"],
+    "correctAnswer": "848"
+  },
+  {
+    "question": "Tính: 899 - 100 =",
+    "options": ["799", "999", "789", "809"],
+    "correctAnswer": "799"
+  },
+  {
+    "question": "Tính: 405 - 128 =",
+    "options": ["277", "276", "287", "377"],
+    "correctAnswer": "277"
+  },
+  {
+    "question": "Một quyển sách dày 320 trang, An đã đọc được 150 trang. Hỏi An còn phải đọc bao nhiêu trang nữa?",
+    "options": ["170 trang", "470 trang", "160 trang", "180 trang"],
+    "correctAnswer": "170 trang"
+  },
+  {
+    "question": "So sánh: 345 + 123 và 500",
+    "options": ["345 + 123 < 500", "345 + 123 > 500", "345 + 123 = 500", "Không so sánh được"],
+    "correctAnswer": "345 + 123 < 500"
+  },
+  {
+    "question": "So sánh: 800 - 250 và 550",
+    "options": ["800 - 250 = 550", "800 - 250 > 550", "800 - 250 < 550", "Không so sánh được"],
+    "correctAnswer": "800 - 250 = 550"
+  },
+  {
+    "question": "So sánh: 278 + 351 và 600",
+    "options": ["278 + 351 > 600", "278 + 351 < 600", "278 + 351 = 600", "Không so sánh được"],
+    "correctAnswer": "278 + 351 > 600"
+  },
+  {
+    "question": "So sánh: 721 - 485 và 300",
+    "options": ["721 - 485 < 300", "721 - 485 > 300", "721 - 485 = 300", "Không so sánh được"],
+    "correctAnswer": "721 - 485 < 300"
+  },
+  {
+    "question": "Tính: 100 + 200 + 300 =",
+    "options": ["600", "500", "700", "400"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Tính: 900 - 400 - 200 =",
+    "options": ["300", "500", "700", "200"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Tính: 250 + 150 + 300 =",
+    "options": ["700", "600", "800", "650"],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Tính: 1000 - 500 - 250 =",
+    "options": ["250", "500", "750", "350"],
+    "correctAnswer": "250"
+  },
+  {
+    "question": "Số lớn nhất có ba chữ số cộng với 1 bằng bao nhiêu?",
+    "options": ["1000", "999", "100", "998"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số bé nhất có ba chữ số cộng với 200 bằng bao nhiêu?",
+    "options": ["300", "100", "200", "400"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Hiệu của 1000 và 100 là:",
+    "options": ["900", "1100", "800", "990"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Hiệu của 500 và 499 là:",
+    "options": ["1", "999", "100", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 305 + 204 =",
+    "options": ["509", "508", "519", "500"],
+    "correctAnswer": "509"
+  },
+  {
+    "question": "Tính: 182 + 239 =",
+    "options": ["421", "420", "411", "431"],
+    "correctAnswer": "421"
+  },
+  {
+    "question": "Tính: 654 - 321 =",
+    "options": ["333", "332", "334", "323"],
+    "correctAnswer": "333"
+  },
+  {
+    "question": "Tính: 811 - 188 =",
+    "options": ["623", "622", "633", "723"],
+    "correctAnswer": "623"
+  },
+  {
+    "question": "Bác An thu hoạch được 450 kg khoai, bác Ba thu hoạch được ít hơn bác An 120 kg. Hỏi cả hai bác thu hoạch được bao nhiêu ki-lô-gam khoai?",
+    "options": ["780 kg", "330 kg", "570 kg", "900 kg"],
+    "correctAnswer": "780 kg"
+  },
+  {
+    "question": "Một đội công nhân sửa được 280 m đường trong tuần đầu, tuần thứ hai sửa được nhiều hơn tuần đầu 50 m. Hỏi cả hai tuần đội đó sửa được bao nhiêu mét đường?",
+    "options": ["610 m", "330 m", "560 m", "600 m"],
+    "correctAnswer": "610 m"
+  },
+  {
+    "question": "Số tròn trăm lớn nhất có 3 chữ số là:",
+    "options": ["900", "990", "999", "1000"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Số tròn chục bé nhất có 3 chữ số là:",
+    "options": ["100", "110", "101", "120"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Tính: 246 + 0 =",
+    "options": ["246", "0", "247", "245"],
+    "correctAnswer": "246"
+  },
+  {
+    "question": "Tính: 789 - 0 =",
+    "options": ["789", "0", "788", "790"],
+    "correctAnswer": "789"
+  },
+  {
+    "question": "Tính: 537 - 537 =",
+    "options": ["0", "1", "537", "1074"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số nào cộng với 300 thì được 800?",
+    "options": ["500", "1100", "400", "600"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Số nào trừ đi 150 thì còn 400?",
+    "options": ["550", "250", "500", "600"],
+    "correctAnswer": "550"
+  },
+  {
+    "question": "700 trừ đi số nào thì còn 250?",
+    "options": ["450", "950", "550", "500"],
+    "correctAnswer": "450"
+  },
+  {
+    "question": "Tính: 111 + 222 + 333 =",
+    "options": ["666", "555", "777", "665"],
+    "correctAnswer": "666"
+  },
+  {
+    "question": "Tính: 999 - 333 - 222 =",
+    "options": ["444", "555", "666", "333"],
+    "correctAnswer": "444"
+  },
+  {
+    "question": "Tổng của 345 và 289 là:",
+    "options": ["634", "633", "624", "644"],
+    "correctAnswer": "634"
+  },
+  {
+    "question": "Hiệu của 824 và 567 là:",
+    "options": ["257", "256", "267", "357"],
+    "correctAnswer": "257"
+  },
+  {
+    "question": "Một cửa hàng có 850 lít nước mắm, đã bán 380 lít. Hỏi cửa hàng còn lại bao nhiêu lít nước mắm?",
+    "options": ["470 lít", "1230 lít", "460 lít", "480 lít"],
+    "correctAnswer": "470 lít"
+  },
+  {
+    "question": "Trong một phép cộng, tổng là 725, một số hạng là 350. Số hạng còn lại là:",
+    "options": ["375", "1075", "370", "385"],
+    "correctAnswer": "375"
+  },
+  {
+    "question": "Trong một phép trừ, số bị trừ là 912, hiệu là 450. Số trừ là:",
+    "options": ["462", "1362", "460", "452"],
+    "correctAnswer": "462"
+  },
+  {
+    "question": "Trong một phép trừ, số trừ là 280, hiệu là 540. Số bị trừ là:",
+    "options": ["820", "260", "800", "810"],
+    "correctAnswer": "820"
+  },
+  {
+    "question": "Tính: 400 + 80 + 5 =",
+    "options": ["485", "480", "405", "584"],
+    "correctAnswer": "485"
+  },
+  {
+    "question": "Tính: 700 - 20 =",
+    "options": ["680", "720", "600", "500"],
+    "correctAnswer": "680"
+  },
+  {
+    "question": "Tính: 350 + 99 =",
+    "options": ["449", "440", "450", "459"],
+    "correctAnswer": "449"
+  },
+  {
+    "question": "Tính: 601 - 106 =",
+    "options": ["495", "494", "505", "595"],
+    "correctAnswer": "495"
+  },
+  {
+    "question": "Số tròn chục lớn nhất có 3 chữ số khác nhau là:",
+    "options": ["980", "990", "987", "900"],
+    "correctAnswer": "980"
+  },
+  {
+    "question": "Số bé nhất có 3 chữ số mà tổng các chữ số bằng 15 là:",
+    "options": ["159", "168", "149", "519"],
+    "correctAnswer": "159"
+  },
+  {
+    "question": "Kết quả của phép tính 275 + 125 - 100 là:",
+    "options": ["300", "400", "500", "200"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Kết quả của phép tính 860 - 360 + 200 là:",
+    "options": ["700", "500", "600", "800"],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Tính: 340 + 160 =",
+    "options": ["500", "400", "490", "510"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Tính: 1000 - 250 =",
+    "options": ["750", "700", "850", "800"],
+    "correctAnswer": "750"
+  },
+  {
+    "question": "Tính: 234 + 432 =",
+    "options": ["666", "665", "676", "566"],
+    "correctAnswer": "666"
+  },
+  {
+    "question": "Tính: 789 - 543 =",
+    "options": ["246", "245", "236", "346"],
+    "correctAnswer": "246"
+  },
+  {
+    "question": "Tính: 444 + 288 =",
+    "options": ["732", "731", "722", "742"],
+    "correctAnswer": "732"
+  },
+  {
+    "question": "Tính: 602 - 333 =",
+    "options": ["269", "268", "279", "369"],
+    "correctAnswer": "269"
+  },
+  {
+    "question": "An có 250 nghìn đồng, An mua một món đồ chơi hết 180 nghìn đồng. Hỏi An còn lại bao nhiêu tiền?",
+    "options": ["70 nghìn đồng", "430 nghìn đồng", "60 nghìn đồng", "80 nghìn đồng"],
+    "correctAnswer": "70 nghìn đồng"
+  },
+  {
+    "question": "Một trường tiểu học có 525 học sinh nam và 475 học sinh nữ. Hỏi trường đó có tất cả bao nhiêu học sinh?",
+    "options": ["1000 học sinh", "900 học sinh", "990 học sinh", "100 học sinh"],
+    "correctAnswer": "1000 học sinh"
+  },
+  {
+    "question": "Số liền sau của số lớn nhất có ba chữ số khác nhau là:",
+    "options": ["988", "987", "986", "1000"],
+    "correctAnswer": "988"
+  },
+  {
+    "question": "Số liền trước của số bé nhất có ba chữ số khác nhau là:",
+    "options": ["101", "102", "100", "99"],
+    "correctAnswer": "101"
+  },
+  {
+    "question": "Hiệu của 600 và 60 là:",
+    "options": ["540", "660", "500", "560"],
+    "correctAnswer": "540"
+  },
+  {
+    "question": "Tổng của 80 và 800 là:",
+    "options": ["880", "720", "808", "888"],
+    "correctAnswer": "880"
+  },
+  {
+    "question": "Tính: 120 + 230 + 340 =",
+    "options": ["690", "680", "790", "670"],
+    "correctAnswer": "690"
+  },
+  {
+    "question": "Tính: 987 - 123 - 234 =",
+    "options": ["630", "620", "730", "640"],
+    "correctAnswer": "630"
+  },
+  {
+    "question": "Số nào lớn hơn 500 là 120 đơn vị?",
+    "options": ["620", "380", "500", "120"],
+    "correctAnswer": "620"
+  },
+  {
+    "question": "Số nào bé hơn 850 là 250 đơn vị?",
+    "options": ["600", "1100", "850", "250"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Một cửa hàng có 950 kg xi măng, đã bán đi một số ki-lô-gam và còn lại 400 kg. Hỏi cửa hàng đã bán bao nhiêu ki-lô-gam xi măng?",
+    "options": ["550 kg", "1350 kg", "500 kg", "650 kg"],
+    "correctAnswer": "550 kg"
+  },
+  {
+    "question": "An nghĩ ra một số, lấy số đó trừ đi 240 thì được 380. Tìm số An nghĩ.",
+    "options": ["620", "140", "600", "520"],
+    "correctAnswer": "620"
+  }
+]
+

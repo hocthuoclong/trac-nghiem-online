@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Đề-xi-mét viết tắt là gì?",
+    "options": ["dm", "m", "km", "cm"],
+    "correctAnswer": "dm"
+  },
+  {
+    "question": "Mét viết tắt là gì?",
+    "options": ["m", "dm", "km", "cm"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "Ki-lô-mét viết tắt là gì?",
+    "options": ["km", "m", "dm", "cm"],
+    "correctAnswer": "km"
+  },
+  {
+    "question": "1 mét bằng bao nhiêu đề-xi-mét?",
+    "options": ["10 dm", "1 dm", "100 dm", "1000 dm"],
+    "correctAnswer": "10 dm"
+  },
+  {
+    "question": "1 mét bằng bao nhiêu xăng-ti-mét?",
+    "options": ["100 cm", "10 cm", "1 cm", "1000 cm"],
+    "correctAnswer": "100 cm"
+  },
+  {
+    "question": "1 ki-lô-mét bằng bao nhiêu mét?",
+    "options": ["1000 m", "100 m", "10 m", "1 m"],
+    "correctAnswer": "1000 m"
+  },
+  {
+    "question": "Đơn vị nào dùng để đo quãng đường giữa hai thành phố?",
+    "options": ["ki-lô-mét", "mét", "đề-xi-mét", "xăng-ti-mét"],
+    "correctAnswer": "ki-lô-mét"
+  },
+  {
+    "question": "Đơn vị nào dùng để đo chiều cao của một ngôi nhà?",
+    "options": ["mét", "ki-lô-mét", "đề-xi-mét", "xăng-ti-mét"],
+    "correctAnswer": "mét"
+  },
+  {
+    "question": "Đơn vị nào dùng để đo chiều dài một quyển sách?",
+    "options": ["xăng-ti-mét", "mét", "ki-lô-mét", "đề-xi-mét"],
+    "correctAnswer": "xăng-ti-mét"
+  },
+  {
+    "question": "Tính: 15 dm + 10 dm =",
+    "options": ["25 dm", "25 m", "5 dm", "5 m"],
+    "correctAnswer": "25 dm"
+  },
+  {
+    "question": "Tính: 48 m - 25 m =",
+    "options": ["23 m", "23 dm", "73 m", "73 dm"],
+    "correctAnswer": "23 m"
+  },
+  {
+    "question": "So sánh: 1m và 90cm",
+    "options": ["1m > 90cm", "1m < 90cm", "1m = 90cm", "Không so sánh được"],
+    "correctAnswer": "1m > 90cm"
+  },
+  {
+    "question": "So sánh: 20 dm và 2 m",
+    "options": ["20 dm = 2 m", "20 dm > 2 m", "20 dm < 2 m", "Không so sánh được"],
+    "correctAnswer": "20 dm = 2 m"
+  },
+  {
+    "question": "Đơn vị tiền tệ của Việt Nam là gì?",
+    "options": ["đồng", "đô la", "yên", "won"],
+    "correctAnswer": "đồng"
+  },
+  {
+    "question": "Tờ tiền giấy nào có mệnh giá nhỏ nhất hiện nay?",
+    "options": ["100 đồng", "200 đồng", "500 đồng", "1000 đồng"],
+    "correctAnswer": "100 đồng"
+  },
+  {
+    "question": "Tờ tiền nào có hình ảnh Chùa Cầu (Hội An)?",
+    "options": ["20 000 đồng", "10 000 đồng", "50 000 đồng", "100 000 đồng"],
+    "correctAnswer": "20 000 đồng"
+  },
+  {
+    "question": "Tờ tiền 500 đồng có màu gì là chủ đạo?",
+    "options": ["Màu đỏ", "Màu xanh", "Màu vàng", "Màu tím"],
+    "correctAnswer": "Màu đỏ"
+  },
+  {
+    "question": "Để có 1000 đồng, em cần mấy tờ 500 đồng?",
+    "options": ["2 tờ", "1 tờ", "3 tờ", "4 tờ"],
+    "correctAnswer": "2 tờ"
+  },
+  {
+    "question": "Để có 1000 đồng, em cần mấy tờ 200 đồng?",
+    "options": ["5 tờ", "4 tờ", "3 tờ", "2 tờ"],
+    "correctAnswer": "5 tờ"
+  },
+  {
+    "question": "An có 2000 đồng. An mua một cái kẹo giá 1000 đồng. An còn lại bao nhiêu tiền?",
+    "options": ["1000 đồng", "2000 đồng", "3000 đồng", "0 đồng"],
+    "correctAnswer": "1000 đồng"
+  },
+  {
+    "question": "Một quyển vở giá 5000 đồng. Em đưa cô bán hàng tờ 5000 đồng. Em có được trả lại tiền không?",
+    "options": ["Không", "Có, 1000 đồng", "Có, 2000 đồng", "Có, 5000 đồng"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Ước lượng chiều dài của một chiếc bút bi khoảng:",
+    "options": ["15 cm", "1 m", "1 dm", "1 km"],
+    "correctAnswer": "15 cm"
+  },
+  {
+    "question": "Ước lượng chiều cao của một bạn học sinh lớp 2 khoảng:",
+    "options": ["120 cm", "12 m", "12 dm", "200 cm"],
+    "correctAnswer": "120 cm"
+  },
+  {
+    "question": "Sợi dây thứ nhất dài 35 dm, sợi dây thứ hai dài hơn sợi dây thứ nhất 10 dm. Hỏi sợi dây thứ hai dài bao nhiêu?",
+    "options": ["45 dm", "25 dm", "35 dm", "10 dm"],
+    "correctAnswer": "45 dm"
+  },
+  {
+    "question": "Cây cau cao 8 m, cây dừa thấp hơn cây cau 2 m. Hỏi cây dừa cao bao nhiêu mét?",
+    "options": ["6 m", "10 m", "8 m", "2 m"],
+    "correctAnswer": "6 m"
+  },
+  {
+    "question": "2 m 5 dm bằng bao nhiêu dm?",
+    "options": ["25 dm", "25 m", "7 dm", "7 m"],
+    "correctAnswer": "25 dm"
+  },
+  {
+    "question": "36 dm bằng mấy mét mấy đề-xi-mét?",
+    "options": ["3 m 6 dm", "6 m 3 dm", "30 m 6 dm", "3 m 60 dm"],
+    "correctAnswer": "3 m 6 dm"
+  },
+  {
+    "question": "So sánh giá trị: Tờ 2000 đồng và tờ 5000 đồng",
+    "options": ["2000 đồng < 5000 đồng", "2000 đồng > 5000 đồng", "2000 đồng = 5000 đồng", "Không so sánh được"],
+    "correctAnswer": "2000 đồng < 5000 đồng"
+  },
+  {
+    "question": "Tổng giá trị của 1 tờ 1000 đồng và 1 tờ 500 đồng là bao nhiêu?",
+    "options": ["1500 đồng", "150 đồng", "6000 đồng", "500 đồng"],
+    "correctAnswer": "1500 đồng"
+  },
+  {
+    "question": "An có 5000 đồng, An mua một cục tẩy giá 2000 đồng. Hỏi An còn lại bao nhiêu tiền?",
+    "options": ["3000 đồng", "7000 đồng", "2000 đồng", "4000 đồng"],
+    "correctAnswer": "3000 đồng"
+  },
+  {
+    "question": "Quãng đường từ nhà An đến trường dài 1 km. Quãng đường đó dài bao nhiêu mét?",
+    "options": ["1000 m", "100 m", "10 m", "1 km"],
+    "correctAnswer": "1000 m"
+  },
+  {
+    "question": "Cây thước kẻ của em dài 20... Đơn vị thích hợp là gì?",
+    "options": ["cm", "dm", "m", "km"],
+    "correctAnswer": "cm"
+  },
+  {
+    "question": "Chiều cao của cửa lớp học khoảng 2...",
+    "options": ["m", "dm", "cm", "km"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "100 đồng + 200 đồng + 200 đồng =",
+    "options": ["500 đồng", "400 đồng", "300 đồng", "600 đồng"],
+    "correctAnswer": "500 đồng"
+  },
+  {
+    "question": "5000 đồng - 2000 đồng =",
+    "options": ["3000 đồng", "7000 đồng", "2000 đồng", "4000 đồng"],
+    "correctAnswer": "3000 đồng"
+  },
+  {
+    "question": "Để đo chiều dài sân trường, em dùng đơn vị nào là hợp lý nhất?",
+    "options": ["mét", "xăng-ti-mét", "đề-xi-mét", "ki-lô-mét"],
+    "correctAnswer": "mét"
+  },
+  {
+    "question": "Tờ tiền nào sau đây có mệnh giá lớn nhất?",
+    "options": ["5000 đồng", "2000 đồng", "1000 đồng", "500 đồng"],
+    "correctAnswer": "5000 đồng"
+  },
+  {
+    "question": "Tính: 1 km - 500 m =",
+    "options": ["500 m", "500 km", "1500 m", "1500 km"],
+    "correctAnswer": "500 m"
+  },
+  {
+    "question": "Tính: 3 m + 20 dm =",
+    "options": ["5 m", "23 m", "50 m", "5 dm"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "Một cái bút chì giá 1500 đồng. Em có 2000 đồng. Em có đủ tiền mua không?",
+    "options": ["Có", "Không", "Vừa đủ", "Thiếu 500 đồng"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Đổi: 50 dm = ... m",
+    "options": ["5 m", "50 m", "500 m", "0.5 m"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "Đổi: 4 m = ... cm",
+    "options": ["400 cm", "40 cm", "4 cm", "4000 cm"],
+    "correctAnswer": "400 cm"
+  },
+  {
+    "question": "Tờ tiền 1000 đồng và 2 tờ 200 đồng có tổng giá trị là bao nhiêu?",
+    "options": ["1400 đồng", "1200 đồng", "3000 đồng", "1600 đồng"],
+    "correctAnswer": "1400 đồng"
+  },
+  {
+    "question": "Bình có 3 tờ 500 đồng. Hỏi Bình có bao nhiêu tiền?",
+    "options": ["1500 đồng", "800 đồng", "3500 đồng", "1000 đồng"],
+    "correctAnswer": "1500 đồng"
+  },
+  {
+    "question": "Cây tre dài 5m, người ta cắt đi một đoạn 20dm. Hỏi cây tre còn lại dài bao nhiêu mét?",
+    "options": ["3 m", "30 m", "25 m", "48 m"],
+    "correctAnswer": "3 m"
+  },
+  {
+    "question": "Tờ tiền polime (nhựa) đầu tiên em được học có mệnh giá bao nhiêu?",
+    "options": ["10 000 đồng", "5000 đồng", "2000 đồng", "1000 đồng"],
+    "correctAnswer": "10 000 đồng"
+  },
+  {
+    "question": "Để đo độ dài một vật, em đặt vạch số 0 của thước ở đâu?",
+    "options": ["Một đầu của vật", "Giữa vật", "Đầu kia của vật", "Bất cứ đâu"],
+    "correctAnswer": "Một đầu của vật"
+  },
+  {
+    "question": "So sánh: 1 km và 999 m",
+    "options": ["1 km > 999 m", "1 km < 999 m", "1 km = 999 m", "Không so sánh được"],
+    "correctAnswer": "1 km > 999 m"
+  },
+  {
+    "question": "An có 1000 đồng, Bình có 5 tờ 200 đồng. Ai có nhiều tiền hơn?",
+    "options": ["Bằng nhau", "An", "Bình", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một cái kẹo mút giá 500 đồng. Với 2000 đồng, em có thể mua được mấy cái?",
+    "options": ["4 cái", "3 cái", "5 cái", "2 cái"],
+    "correctAnswer": "4 cái"
+  },
+  {
+    "question": "Đoạn đường từ nhà đến trường dài 2 km. Cả đi và về An phải đi quãng đường dài bao nhiêu?",
+    "options": ["4 km", "2 km", "1 km", "3 km"],
+    "correctAnswer": "4 km"
+  },
+  {
+    "question": "1 m 5 cm bằng bao nhiêu cm?",
+    "options": ["105 cm", "15 cm", "150 cm", "6 cm"],
+    "correctAnswer": "105 cm"
+  },
+  {
+    "question": "Tờ tiền nào có hình nhà sàn Bác Hồ?",
+    "options": ["500 000 đồng", "100 000 đồng", "50 000 đồng", "200 000 đồng"],
+    "correctAnswer": "500 000 đồng"
+  },
+  {
+    "question": "Mai có 4000 đồng, chị cho Mai thêm 1000 đồng. Mai có tất cả bao nhiêu tiền?",
+    "options": ["5000 đồng", "3000 đồng", "4000 đồng", "6000 đồng"],
+    "correctAnswer": "5000 đồng"
+  },
+  {
+    "question": "Cuộn dây điện dài 50 m, người ta đã dùng hết 28 m. Hỏi cuộn dây còn lại bao nhiêu mét?",
+    "options": ["22 m", "78 m", "21 m", "23 m"],
+    "correctAnswer": "22 m"
+  },
+  {
+    "question": "Đơn vị nào lớn nhất trong các đơn vị sau: dm, m, km, cm?",
+    "options": ["km", "m", "dm", "cm"],
+    "correctAnswer": "km"
+  },
+  {
+    "question": "Đơn vị nào bé nhất trong các đơn vị sau: dm, m, km, cm?",
+    "options": ["cm", "dm", "m", "km"],
+    "correctAnswer": "cm"
+  },
+  {
+    "question": "Tờ tiền 2000 đồng có màu gì là chủ đạo?",
+    "options": ["Màu xám", "Màu xanh", "Màu đỏ", "Màu vàng"],
+    "correctAnswer": "Màu xám"
+  },
+  {
+    "question": "Một chiếc bánh mì giá 3000 đồng. Em có 2 tờ 2000 đồng. Em có đủ tiền mua không?",
+    "options": ["Có", "Không", "Vừa đủ", "Thiếu 1000 đồng"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Tính: 200 m + 300 m =",
+    "options": ["500 m", "500 km", "100 m", "600 m"],
+    "correctAnswer": "500 m"
+  },
+  {
+    "question": "Đổi: 120 cm = ... m ... cm",
+    "options": ["1 m 20 cm", "12 m 0 cm", "1 m 2 cm", "2 m 10 cm"],
+    "correctAnswer": "1 m 20 cm"
+  },
+  {
+    "question": "Tờ tiền 100 đồng có hình gì ở mặt sau?",
+    "options": ["Tháp Phổ Minh", "Cảng Hải Phòng", "Nhà máy dệt", "Nhà máy thủy điện"],
+    "correctAnswer": "Tháp Phổ Minh"
+  },
+  {
+    "question": "Tờ tiền 200 đồng có hình gì ở mặt sau?",
+    "options": ["Cánh đồng 5 tấn", "Nhà máy thủy điện", "Cảng Hải Phòng", "Tháp Phổ Minh"],
+    "correctAnswer": "Cánh đồng 5 tấn"
+  },
+  {
+    "question": "Tờ tiền 500 đồng có hình gì ở mặt sau?",
+    "options": ["Cảng Hải Phòng", "Cánh đồng 5 tấn", "Nhà máy dệt", "Tháp Phổ Minh"],
+    "correctAnswer": "Cảng Hải Phòng"
+  },
+  {
+    "question": "Sợi dây dài 1m. Cắt đi 4 dm. Sợi dây còn lại dài bao nhiêu dm?",
+    "options": ["6 dm", "14 dm", "5 dm", "96 dm"],
+    "correctAnswer": "6 dm"
+  },
+  {
+    "question": "An đi bộ được 500 m, sau đó đi tiếp 500 m nữa. Hỏi An đã đi được quãng đường bao nhiêu ki-lô-mét?",
+    "options": ["1 km", "1000 km", "2 km", "500 km"],
+    "correctAnswer": "1 km"
+  },
+  {
+    "question": "Để mua một món đồ chơi giá 10 000 đồng, em có thể dùng những tờ tiền nào?",
+    "options": ["2 tờ 5000 đồng", "1 tờ 10 000 đồng", "5 tờ 2000 đồng", "Tất cả các đáp án trên"],
+    "correctAnswer": "Tất cả các đáp án trên"
+  },
+  {
+    "question": "So sánh: 3m 4dm và 35dm",
+    "options": ["3m 4dm < 35dm", "3m 4dm > 35dm", "3m 4dm = 35dm", "Không so sánh được"],
+    "correctAnswer": "3m 4dm < 35dm"
+  },
+  {
+    "question": "Tính: 1000 đồng - 500 đồng - 200 đồng =",
+    "options": ["300 đồng", "500 đồng", "200 đồng", "1700 đồng"],
+    "correctAnswer": "300 đồng"
+  },
+  {
+    "question": "Chiều dài bảng lớp khoảng 3...",
+    "options": ["m", "dm", "cm", "km"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "Một gang tay của em dài khoảng 1...",
+    "options": ["dm", "m", "cm", "km"],
+    "correctAnswer": "dm"
+  },
+  {
+    "question": "Tờ tiền 1000 đồng có màu gì là chủ đạo?",
+    "options": ["Màu nâu", "Màu xanh", "Màu đỏ", "Màu xám"],
+    "correctAnswer": "Màu nâu"
+  },
+  {
+    "question": "An có 3 tờ 1000 đồng. An có bao nhiêu tiền?",
+    "options": ["3000 đồng", "1003 đồng", "300 đồng", "4000 đồng"],
+    "correctAnswer": "3000 đồng"
+  },
+  {
+    "question": "Cây cầu dài 500 m. Cần đi thêm bao nhiêu mét nữa để đủ 1 km?",
+    "options": ["500 m", "1000 m", "1500 m", "0 m"],
+    "correctAnswer": "500 m"
+  },
+  {
+    "question": "Đổi: 2 km = ... m",
+    "options": ["2000 m", "200 m", "20 m", "2 m"],
+    "correctAnswer": "2000 m"
+  },
+  {
+    "question": "Để có 2000 đồng, em cần mấy tờ 1000 đồng?",
+    "options": ["2 tờ", "1 tờ", "3 tờ", "4 tờ"],
+    "correctAnswer": "2 tờ"
+  },
+  {
+    "question": "Một que kem giá 2000 đồng, một cái bánh giá 3000 đồng. Mua cả hai thứ hết bao nhiêu tiền?",
+    "options": ["5000 đồng", "1000 đồng", "4000 đồng", "6000 đồng"],
+    "correctAnswer": "5000 đồng"
+  },
+  {
+    "question": "Sắp xếp các độ dài sau theo thứ tự tăng dần: 1m, 1km, 1cm, 1dm.",
+    "options": ["1cm, 1dm, 1m, 1km", "1km, 1m, 1dm, 1cm", "1m, 1dm, 1cm, 1km", "1cm, 1m, 1dm, 1km"],
+    "correctAnswer": "1cm, 1dm, 1m, 1km"
+  },
+  {
+    "question": "Sắp xếp các tờ tiền sau theo giá trị giảm dần: 500đ, 5000đ, 200đ, 1000đ.",
+    "options": ["5000đ, 1000đ, 500đ, 200đ", "200đ, 500đ, 1000đ, 5000đ", "5000đ, 500đ, 1000đ, 200đ", "1000đ, 2000đ, 500đ, 5000đ"],
+    "correctAnswer": "5000đ, 1000đ, 500đ, 200đ"
+  },
+  {
+    "question": "Bố cao 175 cm. Bố cao bao nhiêu mét và xăng-ti-mét?",
+    "options": ["1 m 75 cm", "17 m 5 cm", "1 m 7 cm", "17 m 50 cm"],
+    "correctAnswer": "1 m 75 cm"
+  },
+  {
+    "question": "Tính: 3000 đồng + 2000 đồng =",
+    "options": ["5000 đồng", "1000 đồng", "4000 đồng", "6000 đồng"],
+    "correctAnswer": "5000 đồng"
+  },
+  {
+    "question": "Sợi dây dài 10m, cắt thành 2 đoạn bằng nhau. Mỗi đoạn dài bao nhiêu mét?",
+    "options": ["5 m", "20 m", "8 m", "12 m"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "An có 2 tờ 1000 đồng và 1 tờ 500 đồng. An có tất cả bao nhiêu tiền?",
+    "options": ["2500 đồng", "3500 đồng", "1500 đồng", "2000 đồng"],
+    "correctAnswer": "2500 đồng"
+  },
+  {
+    "question": "Tòa nhà cao 30 m. Tòa nhà đó cao bao nhiêu đề-xi-mét?",
+    "options": ["300 dm", "30 dm", "3 dm", "3000 dm"],
+    "correctAnswer": "300 dm"
+  },
+  {
+    "question": "Tờ tiền 5000 đồng có màu gì là chủ đạo?",
+    "options": ["Màu xanh lam", "Màu đỏ", "Màu xanh lá", "Màu vàng"],
+    "correctAnswer": "Màu xanh lam"
+  },
+  {
+    "question": "Một bước chân của em dài khoảng 3...",
+    "options": ["dm", "m", "cm", "km"],
+    "correctAnswer": "dm"
+  },
+  {
+    "question": "So sánh: 1000 đồng và 5 tờ 100 đồng",
+    "options": ["1000 đồng > 5 tờ 100 đồng", "1000 đồng < 5 tờ 100 đồng", "1000 đồng = 5 tờ 100 đồng", "Không so sánh được"],
+    "correctAnswer": "1000 đồng > 5 tờ 100 đồng"
+  },
+  {
+    "question": "Tính: 1 km - 1 m =",
+    "options": ["999 m", "99 m", "9 m", "0 km"],
+    "correctAnswer": "999 m"
+  },
+  {
+    "question": "Để có 5000 đồng, em cần mấy tờ 1000 đồng?",
+    "options": ["5 tờ", "4 tờ", "3 tờ", "2 tờ"],
+    "correctAnswer": "5 tờ"
+  },
+  {
+    "question": "Cái bàn dài 12 dm. Cái bàn đó dài bao nhiêu xăng-ti-mét?",
+    "options": ["120 cm", "12 cm", "1200 cm", "1 m 2 cm"],
+    "correctAnswer": "120 cm"
+  },
+  {
+    "question": "Mẹ có 5000 đồng, mẹ mua cho em một cây kem giá 3500 đồng. Mẹ còn lại bao nhiêu tiền?",
+    "options": ["1500 đồng", "8500 đồng", "2500 đồng", "1000 đồng"],
+    "correctAnswer": "1500 đồng"
+  },
+  {
+    "question": "Quãng đường từ Hà Nội đến Hải Phòng dài khoảng 100...",
+    "options": ["km", "m", "dm", "cm"],
+    "correctAnswer": "km"
+  },
+  {
+    "question": "Đổi: 500 cm = ... m",
+    "options": ["5 m", "50 m", "0.5 m", "500 m"],
+    "correctAnswer": "5 m"
+  }
+]
+

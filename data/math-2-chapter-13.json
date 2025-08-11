@@ -1,0 +1,473 @@
+[
+  {
+    "question": "Bạn An ghi lại các loại quả trong giỏ: Táo, Cam, Táo, Chuối, Cam, Táo. Đây là hoạt động gì?",
+    "options": ["Thu thập số liệu", "Tính toán", "Vẽ hình", "Đo độ dài"],
+    "correctAnswer": "Thu thập số liệu"
+  },
+  {
+    "question": "Sau khi thu thập, bạn An xếp riêng Táo, Cam, Chuối. Đây là hoạt động gì?",
+    "options": ["Phân loại số liệu", "Thu thập số liệu", "Kiểm đếm", "So sánh"],
+    "correctAnswer": "Phân loại số liệu"
+  },
+  {
+    "question": "Bạn An đếm có 3 quả Táo, 2 quả Cam, 1 quả Chuối. Đây là hoạt động gì?",
+    "options": ["Kiểm đếm", "Phân loại", "Thu thập", "Ghi chép"],
+    "correctAnswer": "Kiểm đếm"
+  },
+  {
+    "question": "Trong giỏ có 5 bông hoa đỏ và 3 bông hoa vàng. Có tất cả mấy loại hoa?",
+    "options": ["2 loại (đỏ và vàng)", "8 loại", "5 loại", "3 loại"],
+    "correctAnswer": "2 loại (đỏ và vàng)"
+  },
+  {
+    "question": "Trong giỏ có 5 bông hoa đỏ và 3 bông hoa vàng. Có tất cả bao nhiêu bông hoa?",
+    "options": ["8 bông hoa", "2 bông hoa", "5 bông hoa", "3 bông hoa"],
+    "correctAnswer": "8 bông hoa"
+  },
+  {
+    "question": "Biểu đồ tranh dùng hình ảnh để làm gì?",
+    "options": ["Thể hiện số liệu", "Trang trí", "Kể chuyện", "Vẽ"],
+    "correctAnswer": "Thể hiện số liệu"
+  },
+  {
+    "question": "Nhìn vào biểu đồ tranh, làm sao để biết số lượng của một đối tượng?",
+    "options": ["Đếm số hình ảnh tương ứng", "Đo chiều dài", "Nhìn màu sắc", "Đoán"],
+    "correctAnswer": "Đếm số hình ảnh tương ứng"
+  },
+  {
+    "question": "Một sự kiện 'chắc chắn' xảy ra là sự kiện...",
+    "options": ["Nhất định sẽ xảy ra", "Có thể xảy ra", "Không bao giờ xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Nhất định sẽ xảy ra"
+  },
+  {
+    "question": "Một sự kiện 'không thể' xảy ra là sự kiện...",
+    "options": ["Không bao giờ xảy ra", "Có thể xảy ra", "Chắc chắn xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Không bao giờ xảy ra"
+  },
+  {
+    "question": "Một sự kiện 'có thể' xảy ra là sự kiện...",
+    "options": ["Có thể xảy ra hoặc không xảy ra", "Chắc chắn xảy ra", "Không bao giờ xảy ra", "Luôn luôn không xảy ra"],
+    "correctAnswer": "Có thể xảy ra hoặc không xảy ra"
+  },
+  {
+    "question": "Sự kiện 'Mặt trời mọc ở đằng Đông' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Hiếm khi"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Gieo một hạt đậu thì cây mọc ra quả cam' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Thỉnh thoảng"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Ngày mai trời sẽ mưa' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Luôn luôn"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Trong một hộp có 5 viên bi màu đỏ. Không nhìn vào hộp, lấy ra 1 viên bi. Viên bi đó có màu đỏ.",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không biết"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Trong một hộp có 5 viên bi màu đỏ. Không nhìn vào hộp, lấy ra 1 viên bi. Viên bi đó có màu xanh.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Có lúc"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong một hộp có 3 bi đỏ và 2 bi xanh. Không nhìn vào hộp, lấy ra 1 viên bi. Viên bi đó có màu đỏ.",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Luôn luôn"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Biểu đồ tranh về số con vật trong nông trại: Gà: 🐔🐔🐔🐔🐔, Vịt: 🦆🦆🦆, Lợn: 🐷🐷. Loại con vật nào có nhiều nhất?",
+    "options": ["Gà", "Vịt", "Lợn", "Bằng nhau"],
+    "correctAnswer": "Gà"
+  },
+  {
+    "question": "Biểu đồ tranh về số con vật trong nông trại: Gà: 🐔🐔🐔🐔🐔, Vịt: 🦆🦆🦆, Lợn: 🐷🐷. Loại con vật nào có ít nhất?",
+    "options": ["Lợn", "Gà", "Vịt", "Bằng nhau"],
+    "correctAnswer": "Lợn"
+  },
+  {
+    "question": "Biểu đồ tranh về số con vật trong nông trại: Gà: 🐔🐔🐔🐔🐔, Vịt: 🦆🦆🦆, Lợn: 🐷🐷. Có tất cả bao nhiêu con vật?",
+    "options": ["10 con", "8 con", "5 con", "3 con"],
+    "correctAnswer": "10 con"
+  },
+  {
+    "question": "Biểu đồ tranh về số con vật trong nông trại: Gà: 🐔🐔🐔🐔🐔, Vịt: 🦆🦆🦆, Lợn: 🐷🐷. Số gà nhiều hơn số lợn là mấy con?",
+    "options": ["3 con", "2 con", "5 con", "7 con"],
+    "correctAnswer": "3 con"
+  },
+  {
+    "question": "Bạn Lan kiểm đếm số bút trong hộp: 3 bút xanh, 4 bút đỏ, 1 bút đen. Loại bút nào có nhiều nhất?",
+    "options": ["Bút đỏ", "Bút xanh", "Bút đen", "Bằng nhau"],
+    "correctAnswer": "Bút đỏ"
+  },
+  {
+    "question": "Bạn Lan kiểm đếm số bút trong hộp: 3 bút xanh, 4 bút đỏ, 1 bút đen. Loại bút nào có ít nhất?",
+    "options": ["Bút đen", "Bút xanh", "Bút đỏ", "Bằng nhau"],
+    "correctAnswer": "Bút đen"
+  },
+  {
+    "question": "Bạn Lan kiểm đếm số bút trong hộp: 3 bút xanh, 4 bút đỏ, 1 bút đen. Trong hộp có tất cả bao nhiêu cái bút?",
+    "options": ["8 cái", "7 cái", "4 cái", "3 cái"],
+    "correctAnswer": "8 cái"
+  },
+  {
+    "question": "Sự kiện 'Thứ Hai thì ngày mai là Thứ Ba' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không biết"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Một con gà đẻ ra trứng vịt' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Hiếm"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Bạn gieo xúc xắc và được mặt 6 chấm' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Luôn luôn"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Biểu đồ tranh về hoa trong vườn: Hoa hồng: 🌹🌹🌹, Hoa cúc: 🌼🌼🌼🌼. Loại hoa nào nhiều hơn?",
+    "options": ["Hoa cúc", "Hoa hồng", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Hoa cúc"
+  },
+  {
+    "question": "Biểu đồ tranh về hoa trong vườn: Hoa hồng: 🌹🌹🌹, Hoa cúc: 🌼🌼🌼🌼. Cả hai loại có bao nhiêu bông?",
+    "options": ["7 bông", "1 bông", "3 bông", "4 bông"],
+    "correctAnswer": "7 bông"
+  },
+  {
+    "question": "Trong lớp có 10 bạn thích bóng đá, 8 bạn thích bơi. Môn thể thao nào được nhiều bạn thích hơn?",
+    "options": ["Bóng đá", "Bơi", "Bằng nhau", "Không có"],
+    "correctAnswer": "Bóng đá"
+  },
+  {
+    "question": "Sự kiện 'Bạn thả một viên phấn xuống đất và nó bay lên trời' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Đôi khi"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong hộp có 3 quả bóng xanh và 3 quả bóng đỏ. Lấy ra 1 quả. Quả bóng đó màu vàng.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Luôn luôn"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Khi em đi ngủ, em sẽ nhắm mắt' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Biểu đồ tranh về số cốc nước An uống trong ngày: Sáng: 🥛, Trưa: 🥛🥛, Tối: 🥛. Buổi nào An uống nhiều nước nhất?",
+    "options": ["Trưa", "Sáng", "Tối", "Bằng nhau"],
+    "correctAnswer": "Trưa"
+  },
+  {
+    "question": "Biểu đồ tranh về số cốc nước An uống trong ngày: Sáng: 🥛, Trưa: 🥛🥛, Tối: 🥛. Cả ngày An uống mấy cốc nước?",
+    "options": ["4 cốc", "3 cốc", "2 cốc", "1 cốc"],
+    "correctAnswer": "4 cốc"
+  },
+  {
+    "question": "Thu thập ý kiến các bạn trong tổ về màu sắc yêu thích là hoạt động gì?",
+    "options": ["Thu thập số liệu", "Phân loại số liệu", "Kiểm đếm số liệu", "Vẽ biểu đồ"],
+    "correctAnswer": "Thu thập số liệu"
+  },
+  {
+    "question": "Sự kiện 'Bạn sẽ cao hơn vào năm sau' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Con cá có thể sống trên cạn' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong một túi có 10 cái kẹo chanh. Lấy ra 1 cái. Cái kẹo đó có vị chanh.",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không biết"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Trong một túi có 5 kẹo chanh và 5 kẹo dâu. Lấy ra 1 cái. Cái kẹo đó có vị cam.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Luôn luôn"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong một túi có 5 kẹo chanh và 5 kẹo dâu. Lấy ra 1 cái. Cái kẹo đó có vị dâu.",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Biểu đồ tranh về số xe trong bãi: Ô tô: 🚗🚗🚗, Xe máy: 🛵🛵🛵🛵🛵. Loại xe nào nhiều hơn?",
+    "options": ["Xe máy", "Ô tô", "Bằng nhau", "Không có xe"],
+    "correctAnswer": "Xe máy"
+  },
+  {
+    "question": "Biểu đồ tranh về số xe trong bãi: Ô tô: 🚗🚗🚗, Xe máy: 🛵🛵🛵🛵🛵. Xe máy nhiều hơn ô tô mấy chiếc?",
+    "options": ["2 chiếc", "3 chiếc", "5 chiếc", "8 chiếc"],
+    "correctAnswer": "2 chiếc"
+  },
+  {
+    "question": "Biểu đồ tranh về số xe trong bãi: Ô tô: 🚗🚗🚗, Xe máy: 🛵🛵🛵🛵🛵. Có tất cả bao nhiêu xe?",
+    "options": ["8 xe", "2 xe", "3 xe", "5 xe"],
+    "correctAnswer": "8 xe"
+  },
+  {
+    "question": "Sự kiện 'Sau mùa đông là mùa hè' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Thông thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Sau mùa xuân là mùa hạ' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Bạn sẽ gặp một người ngoài hành tinh vào ngày mai' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Kiểm đếm số học sinh nam và nữ trong tổ của em. Đây là hoạt động gì?",
+    "options": ["Thu thập, phân loại, kiểm đếm", "Vẽ biểu đồ", "Tính toán", "So sánh"],
+    "correctAnswer": "Thu thập, phân loại, kiểm đếm"
+  },
+  {
+    "question": "Biểu đồ tranh về số quả trong rổ: Táo: 🍎🍎🍎🍎, Cam: 🍊🍊. Số táo gấp mấy lần số cam?",
+    "options": ["2 lần", "3 lần", "4 lần", "Không gấp lần nào"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Biểu đồ tranh về số quả trong rổ: Táo: 🍎🍎🍎🍎, Cam: 🍊🍊. Nếu thêm 2 quả cam thì số táo và cam thế nào?",
+    "options": ["Bằng nhau", "Táo nhiều hơn", "Cam nhiều hơn", "Không thay đổi"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Sự kiện '1 + 1 = 2' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Sai"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện '10 - 5 = 4' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Đúng"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong hộp có các chữ cái A, B, C. Lấy ra một chữ cái. Chữ cái đó là A.",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không biết"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Trong hộp có các chữ cái A, B, C. Lấy ra một chữ cái. Chữ cái đó là D.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Luôn luôn"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Biểu đồ tranh về thời tiết trong tuần: Nắng: ☀️☀️☀️☀️, Mưa: 🌧️🌧️. Có mấy ngày nắng?",
+    "options": ["4 ngày", "2 ngày", "6 ngày", "3 ngày"],
+    "correctAnswer": "4 ngày"
+  },
+  {
+    "question": "Biểu đồ tranh về thời tiết trong tuần: Nắng: ☀️☀️☀️☀️, Mưa: 🌧️🌧️. Số ngày nắng nhiều hơn số ngày mưa là mấy ngày?",
+    "options": ["2 ngày", "4 ngày", "6 ngày", "1 ngày"],
+    "correctAnswer": "2 ngày"
+  },
+  {
+    "question": "Sự kiện 'Bạn sẽ không ăn gì trong cả ngày mai' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Bình thường"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể bay như chim mà không cần máy bay' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Trong mơ"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong một hộp kín có 10 quả bóng bàn màu trắng. Lấy ra 1 quả. Quả bóng đó màu trắng.",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không biết"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Bạn An có 5 cái bút chì và 2 cái bút mực. Số bút chì nhiều hơn số bút mực là mấy cái?",
+    "options": ["3 cái", "7 cái", "2 cái", "5 cái"],
+    "correctAnswer": "3 cái"
+  },
+  {
+    "question": "Trong một vườn thú mini có 3 con thỏ, 5 con gà, 2 con chó. Loại vật nào có số lượng nhiều nhất?",
+    "options": ["Gà", "Thỏ", "Chó", "Bằng nhau"],
+    "correctAnswer": "Gà"
+  },
+  {
+    "question": "Trong một vườn thú mini có 3 con thỏ, 5 con gà, 2 con chó. Có tất cả bao nhiêu con vật?",
+    "options": ["10 con", "8 con", "7 con", "5 con"],
+    "correctAnswer": "10 con"
+  },
+  {
+    "question": "Biểu đồ tranh về sở thích của học sinh: ⚽️⚽️⚽️⚽️⚽️, 📚📚📚. Môn nào được yêu thích hơn?",
+    "options": ["Bóng đá (⚽️)", "Đọc sách (📚)", "Bằng nhau", "Không có"],
+    "correctAnswer": "Bóng đá (⚽️)"
+  },
+  {
+    "question": "Biểu đồ tranh về sở thích của học sinh: ⚽️⚽️⚽️⚽️⚽️, 📚📚📚. Có bao nhiêu bạn được hỏi ý kiến?",
+    "options": ["8 bạn", "5 bạn", "3 bạn", "2 bạn"],
+    "correctAnswer": "8 bạn"
+  },
+  {
+    "question": "Sự kiện 'Tháng 4 có 31 ngày' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Đôi khi"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Tháng 1 có 31 ngày' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không chắc"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Tối nay bạn sẽ xem TV' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Trong hộp có 10 viên bi xanh. Lấy ra 2 viên. Cả hai viên đều màu xanh.",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không biết"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Phân loại các hình sau: hình vuông, hình tròn, hình tam giác, hình vuông. Có mấy loại hình?",
+    "options": ["3 loại", "4 loại", "2 loại", "1 loại"],
+    "correctAnswer": "3 loại"
+  },
+  {
+    "question": "Phân loại các hình sau: hình vuông, hình tròn, hình tam giác, hình vuông. Hình nào xuất hiện nhiều nhất?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Bằng nhau"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Biểu đồ tranh về số cây trong vườn: Cây táo: 🌳🌳🌳, Cây cam: 🌳🌳. Vườn có tất cả bao nhiêu cây?",
+    "options": ["5 cây", "3 cây", "2 cây", "1 cây"],
+    "correctAnswer": "5 cây"
+  },
+  {
+    "question": "Biểu đồ tranh về số cây trong vườn: Cây táo: 🌳🌳🌳, Cây cam: 🌳🌳. Cần trồng thêm mấy cây cam để số cây hai loại bằng nhau?",
+    "options": ["1 cây", "2 cây", "3 cây", "5 cây"],
+    "correctAnswer": "1 cây"
+  },
+  {
+    "question": "Sự kiện 'Một tuần có 8 ngày' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Sự kiện 'Một giờ có 60 phút' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không chắc"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Bạn sẽ được điểm 10 trong bài kiểm tra tới' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Trong hộp có 1 bi xanh, 1 bi đỏ, 1 bi vàng. Lấy ra 1 viên. Viên bi đó màu tím.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Luôn luôn"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong hộp có 1 bi xanh, 1 bi đỏ, 1 bi vàng. Lấy ra 1 viên. Viên bi đó màu đỏ.",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Bước đầu tiên khi muốn vẽ biểu đồ tranh là gì?",
+    "options": ["Thu thập, phân loại, kiểm đếm số liệu", "Vẽ hình", "Tô màu", "Viết tên"],
+    "correctAnswer": "Thu thập, phân loại, kiểm đếm số liệu"
+  },
+  {
+    "question": "Biểu đồ tranh về số cá trong bể: Cá vàng: 🐠🐠🐠🐠, Cá bảy màu: 🐠🐠🐠. Số cá vàng nhiều hơn số cá bảy màu là mấy con?",
+    "options": ["1 con", "7 con", "4 con", "3 con"],
+    "correctAnswer": "1 con"
+  },
+  {
+    "question": "Biểu đồ tranh về số cá trong bể: Cá vàng: 🐠🐠🐠🐠, Cá bảy màu: 🐠🐠🐠. Trong bể có tất cả bao nhiêu con cá?",
+    "options": ["7 con", "1 con", "4 con", "3 con"],
+    "correctAnswer": "7 con"
+  },
+  {
+    "question": "Sự kiện 'Nước sẽ đóng băng khi rất lạnh' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Hiếm"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Lửa thì nóng' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Đôi khi"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể uống hết 10 lít nước trong 1 phút' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Lớp 2A có 15 bạn nữ và 12 bạn nam. Số bạn nữ nhiều hơn số bạn nam là bao nhiêu?",
+    "options": ["3 bạn", "27 bạn", "15 bạn", "12 bạn"],
+    "correctAnswer": "3 bạn"
+  },
+  {
+    "question": "Lớp 2A có 15 bạn nữ và 12 bạn nam. Sĩ số của lớp là bao nhiêu?",
+    "options": ["27 bạn", "3 bạn", "15 bạn", "12 bạn"],
+    "correctAnswer": "27 bạn"
+  },
+  {
+    "question": "Biểu đồ tranh về số ngày nghỉ trong tháng: Thứ Bảy: ☀️☀️☀️☀️, Chủ Nhật: ☀️☀️☀️☀️. Số ngày nghỉ thứ Bảy và Chủ Nhật thế nào?",
+    "options": ["Bằng nhau", "Thứ Bảy nhiều hơn", "Chủ Nhật nhiều hơn", "Không biết"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Biểu đồ tranh về số ngày nghỉ trong tháng: Thứ Bảy: ☀️☀️☀️☀️, Chủ Nhật: ☀️☀️☀️☀️. Có tất cả bao nhiêu ngày nghỉ?",
+    "options": ["8 ngày", "4 ngày", "0 ngày", "16 ngày"],
+    "correctAnswer": "8 ngày"
+  },
+  {
+    "question": "Sự kiện 'Bạn gieo một đồng xu và được mặt ngửa' là:",
+    "options": ["Có thể", "Chắc chắn", "Không thể", "Luôn luôn"],
+    "correctAnswer": "Có thể"
+  },
+  {
+    "question": "Sự kiện 'Bạn gieo một đồng xu và được cả mặt sấp và mặt ngửa cùng lúc' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Bình thường"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong hộp có 6 quả bóng xanh. Lấy ra 3 quả. Cả 3 quả đều màu xanh.",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không biết"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Trong hộp có 6 quả bóng xanh. Lấy ra 3 quả. Có ít nhất một quả màu đỏ.",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Luôn luôn"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Mục đích của việc lập biểu đồ tranh là gì?",
+    "options": ["Giúp dễ dàng so sánh số liệu", "Để cho đẹp", "Để tốn thời gian", "Để viết chữ"],
+    "correctAnswer": "Giúp dễ dàng so sánh số liệu"
+  },
+  {
+    "question": "Sự kiện 'Sau khi tắm, quần áo của bạn sẽ bị ướt' là:",
+    "options": ["Chắc chắn", "Có thể", "Không thể", "Không bao giờ"],
+    "correctAnswer": "Chắc chắn"
+  },
+  {
+    "question": "Sự kiện 'Bạn có thể đọc sách mà không cần mở mắt' là:",
+    "options": ["Không thể", "Có thể", "Chắc chắn", "Đôi khi"],
+    "correctAnswer": "Không thể"
+  },
+  {
+    "question": "Trong các con vật: Chó, Mèo, Gà, Vịt. Có mấy loại con vật?",
+    "options": ["4 loại", "3 loại", "2 loại", "1 loại"],
+    "correctAnswer": "4 loại"
+  }
+]
+
