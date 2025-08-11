@@ -1,0 +1,428 @@
+[
+  {
+    "question": "Chu vi của một hình là gì?",
+    "options": ["Độ dài đường bao quanh hình đó", "Phần diện tích bên trong hình", "Số cạnh của hình", "Số góc của hình"],
+    "correctAnswer": "Độ dài đường bao quanh hình đó"
+  },
+  {
+    "question": "Một hình tam giác có độ dài các cạnh là 3cm, 4cm, 5cm. Chu vi của hình tam giác đó là:",
+    "options": ["12 cm", "60 cm", "7 cm", "9 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Một hình tứ giác có độ dài các cạnh là 2cm, 3cm, 4cm, 5cm. Chu vi của hình tứ giác đó là:",
+    "options": ["14 cm", "120 cm", "9 cm", "10 cm"],
+    "correctAnswer": "14 cm"
+  },
+  {
+    "question": "Chu vi hình chữ nhật có chiều dài 8cm và chiều rộng 4cm là:",
+    "options": ["24 cm", "12 cm", "32 cm", "20 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Công thức tính chu vi hình chữ nhật là:",
+    "options": ["(chiều dài + chiều rộng) x 2", "chiều dài x chiều rộng", "cạnh x 4", "cạnh + cạnh"],
+    "correctAnswer": "(chiều dài + chiều rộng) x 2"
+  },
+  {
+    "question": "Chu vi hình vuông có cạnh 5cm là:",
+    "options": ["20 cm", "25 cm", "10 cm", "15 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "Công thức tính chu vi hình vuông là:",
+    "options": ["cạnh x 4", "cạnh x cạnh", "cạnh + 4", "cạnh x 2"],
+    "correctAnswer": "cạnh x 4"
+  },
+  {
+    "question": "Diện tích của một hình là gì?",
+    "options": ["Độ lớn của bề mặt hình đó", "Độ dài đường bao quanh hình", "Tổng số góc của hình", "Số đỉnh của hình"],
+    "correctAnswer": "Độ lớn của bề mặt hình đó"
+  },
+  {
+    "question": "Xăng-ti-mét vuông là đơn vị đo của đại lượng nào?",
+    "options": ["Diện tích", "Độ dài", "Khối lượng", "Dung tích"],
+    "correctAnswer": "Diện tích"
+  },
+  {
+    "question": "Xăng-ti-mét vuông được viết tắt là:",
+    "options": ["cm²", "cm", "cm3", "cmv"],
+    "correctAnswer": "cm²"
+  },
+  {
+    "question": "Diện tích hình chữ nhật có chiều dài 6cm và chiều rộng 4cm là:",
+    "options": ["24 cm²", "20 cm", "10 cm²", "24 cm"],
+    "correctAnswer": "24 cm²"
+  },
+  {
+    "question": "Công thức tính diện tích hình chữ nhật là:",
+    "options": ["chiều dài x chiều rộng", "(chiều dài + chiều rộng) x 2", "cạnh x 4", "cạnh x cạnh"],
+    "correctAnswer": "chiều dài x chiều rộng"
+  },
+  {
+    "question": "Diện tích hình vuông có cạnh 4cm là:",
+    "options": ["16 cm²", "16 cm", "8 cm²", "8 cm"],
+    "correctAnswer": "16 cm²"
+  },
+  {
+    "question": "Công thức tính diện tích hình vuông là:",
+    "options": ["cạnh x cạnh", "cạnh x 4", "cạnh + cạnh", "cạnh x 2"],
+    "correctAnswer": "cạnh x cạnh"
+  },
+  {
+    "question": "Một hình tam giác có 3 cạnh bằng nhau, mỗi cạnh dài 7cm. Chu vi hình tam giác đó là:",
+    "options": ["21 cm", "14 cm", "10 cm", "28 cm"],
+    "correctAnswer": "21 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 30cm, chiều dài 10cm. Chiều rộng của hình chữ nhật là:",
+    "options": ["5 cm", "20 cm", "15 cm", "40 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Một hình vuông có chu vi 32cm. Cạnh của hình vuông đó là:",
+    "options": ["8 cm", "4 cm", "16 cm", "128 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình chữ nhật được ghép bởi 12 ô vuông, mỗi ô vuông có diện tích 1cm². Diện tích hình chữ nhật đó là:",
+    "options": ["12 cm²", "12 cm", "1 cm²", "24 cm²"],
+    "correctAnswer": "12 cm²"
+  },
+  {
+    "question": "Một hình vuông có diện tích 25 cm². Cạnh của hình vuông đó là:",
+    "options": ["5 cm", "10 cm", "25 cm", "4 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "So sánh diện tích hình vuông cạnh 4cm và diện tích hình chữ nhật có chiều dài 8cm, chiều rộng 2cm.",
+    "options": ["Bằng nhau", "Hình vuông lớn hơn", "Hình chữ nhật lớn hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Chu vi của một hình tứ giác có các cạnh là 10cm, 12cm, 15cm, 13cm là:",
+    "options": ["50 cm", "40 cm", "60 cm", "45 cm"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có nửa chu vi là 20cm. Chiều dài hơn chiều rộng 4cm. Chiều dài là:",
+    "options": ["12 cm", "8 cm", "16 cm", "24 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Một hình vuông có cạnh 1dm. Diện tích hình vuông đó là bao nhiêu xăng-ti-mét vuông?",
+    "options": ["100 cm²", "10 cm²", "1 cm²", "1000 cm²"],
+    "correctAnswer": "100 cm²"
+  },
+  {
+    "question": "Diện tích hình chữ nhật có chiều dài 10cm và chiều rộng 5cm là:",
+    "options": ["50 cm²", "30 cm", "15 cm²", "50 cm"],
+    "correctAnswer": "50 cm²"
+  },
+  {
+    "question": "Một mảnh vườn hình vuông có chu vi 40m. Diện tích mảnh vườn đó là:",
+    "options": ["100 m²", "10 m", "160 m²", "400 m²"],
+    "correctAnswer": "100 m²"
+  },
+  {
+    "question": "Chu vi hình tam giác có ba cạnh bằng nhau, mỗi cạnh dài 9cm là:",
+    "options": ["27 cm", "18 cm", "12 cm", "36 cm"],
+    "correctAnswer": "27 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều rộng 6cm, chiều dài gấp đôi chiều rộng. Chu vi hình chữ nhật đó là:",
+    "options": ["36 cm", "18 cm", "72 cm", "24 cm"],
+    "correctAnswer": "36 cm"
+  },
+  {
+    "question": "Hình A có diện tích 15 cm², hình B có diện tích 20 cm². Cả hai hình có diện tích là:",
+    "options": ["35 cm²", "5 cm²", "15 cm", "20 cm"],
+    "correctAnswer": "35 cm²"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 48 cm², chiều rộng 6 cm. Chiều dài của hình đó là:",
+    "options": ["8 cm", "42 cm", "54 cm", "7 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình vuông có diện tích 49 cm². Chu vi của hình vuông đó là:",
+    "options": ["28 cm", "7 cm", "14 cm", "49 cm"],
+    "correctAnswer": "28 cm"
+  },
+  {
+    "question": "Một hình tam giác có chu vi 25cm. Biết hai cạnh dài 8cm và 10cm. Cạnh còn lại dài:",
+    "options": ["7 cm", "18 cm", "15 cm", "17 cm"],
+    "correctAnswer": "7 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 28cm. Tổng chiều dài và chiều rộng là:",
+    "options": ["14 cm", "28 cm", "56 cm", "7 cm"],
+    "correctAnswer": "14 cm"
+  },
+  {
+    "question": "Một hình vuông có cạnh 10cm. Một hình chữ nhật có chiều dài 12cm và chiều rộng 8cm. Chu vi hình nào lớn hơn?",
+    "options": ["Chu vi hình chữ nhật lớn hơn", "Chu vi hình vuông lớn hơn", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "Chu vi hình chữ nhật lớn hơn"
+  },
+  {
+    "question": "Một hình vuông có cạnh 10cm. Một hình chữ nhật có chiều dài 12cm và chiều rộng 8cm. Diện tích hình nào lớn hơn?",
+    "options": ["Diện tích hình vuông lớn hơn", "Diện tích hình chữ nhật lớn hơn", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "Diện tích hình vuông lớn hơn"
+  },
+  {
+    "question": "Để tính chu vi hình tứ giác, ta làm thế nào?",
+    "options": ["Cộng độ dài bốn cạnh của nó", "Nhân độ dài bốn cạnh", "Lấy cạnh dài nhất cộng cạnh ngắn nhất", "Cạnh x 4"],
+    "correctAnswer": "Cộng độ dài bốn cạnh của nó"
+  },
+  {
+    "question": "Một viên gạch hình vuông có diện tích 100 cm². Cạnh của viên gạch đó là:",
+    "options": ["10 cm", "20 cm", "25 cm", "50 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một căn phòng hình chữ nhật có chiều dài 5m, chiều rộng 4m. Diện tích căn phòng là:",
+    "options": ["20 m²", "18 m", "9 m²", "20 m"],
+    "correctAnswer": "20 m²"
+  },
+  {
+    "question": "Một tờ giấy hình vuông có chu vi 20cm. Diện tích tờ giấy đó là:",
+    "options": ["25 cm²", "5 cm", "40 cm²", "100 cm²"],
+    "correctAnswer": "25 cm²"
+  },
+  {
+    "question": "Chu vi của một hình tam giác có các cạnh 12dm, 15dm, 10dm là:",
+    "options": ["37 dm", "30 dm", "27 dm", "25 dm"],
+    "correctAnswer": "37 dm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 20cm, chiều rộng bằng một nửa chiều dài. Diện tích hình chữ nhật đó là:",
+    "options": ["200 cm²", "10 cm", "60 cm", "30 cm²"],
+    "correctAnswer": "200 cm²"
+  },
+  {
+    "question": "Một hình vuông và một hình chữ nhật có cùng chu vi. Cạnh hình vuông là 6cm. Chiều dài hình chữ nhật là 8cm. Chiều rộng hình chữ nhật là:",
+    "options": ["4 cm", "16 cm", "24 cm", "10 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Đơn vị xăng-ti-mét vuông dùng để đo:",
+    "options": ["Diện tích", "Chu vi", "Độ dài", "Thể tích"],
+    "correctAnswer": "Diện tích"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 36 cm² và chiều dài 9 cm. Chu vi của nó là:",
+    "options": ["26 cm", "4 cm", "13 cm", "30 cm"],
+    "correctAnswer": "26 cm"
+  },
+  {
+    "question": "Một cái sân hình vuông có cạnh 9m. Diện tích cái sân đó là:",
+    "options": ["81 m²", "36 m", "18 m²", "81 m"],
+    "correctAnswer": "81 m²"
+  },
+  {
+    "question": "Chu vi của một hình tam giác đều cạnh 5dm là:",
+    "options": ["15 dm", "10 dm", "25 dm", "20 dm"],
+    "correctAnswer": "15 dm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 15cm, chiều rộng kém chiều dài 5cm. Chu vi hình chữ nhật đó là:",
+    "options": ["50 cm", "25 cm", "150 cm", "40 cm"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 15cm, chiều rộng kém chiều dài 5cm. Diện tích hình chữ nhật đó là:",
+    "options": ["150 cm²", "50 cm", "25 cm²", "100 cm²"],
+    "correctAnswer": "150 cm²"
+  },
+  {
+    "question": "Một hình vuông có chu vi 16m. Diện tích của nó là:",
+    "options": ["16 m²", "4 m", "8 m²", "32 m²"],
+    "correctAnswer": "16 m²"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích bằng diện tích hình vuông cạnh 6cm. Biết chiều dài hình chữ nhật là 9cm. Chiều rộng hình chữ nhật là:",
+    "options": ["4 cm", "36 cm", "6 cm", "12 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Chu vi hình tam giác có các cạnh 6cm, 8cm, 10cm là:",
+    "options": ["24 cm", "14 cm", "18 cm", "16 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 40cm, chiều rộng 8cm. Chiều dài là:",
+    "options": ["12 cm", "20 cm", "32 cm", "10 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Một hình vuông có cạnh 7dm. Diện tích hình vuông là:",
+    "options": ["49 dm²", "28 dm", "14 dm²", "49 dm"],
+    "correctAnswer": "49 dm²"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 1dm, chiều rộng 5cm. Diện tích hình chữ nhật là:",
+    "options": ["50 cm²", "15 cm²", "30 cm", "5 cm²"],
+    "correctAnswer": "50 cm²"
+  },
+  {
+    "question": "Một hình vuông có diện tích 64 cm². Cạnh của nó là:",
+    "options": ["8 cm", "16 cm", "32 cm", "4 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Chu vi hình tứ giác có 4 cạnh bằng nhau, mỗi cạnh dài 8cm là:",
+    "options": ["32 cm", "16 cm", "64 cm", "24 cm"],
+    "correctAnswer": "32 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có nửa chu vi là 15cm, chiều dài là 9cm. Chiều rộng là:",
+    "options": ["6 cm", "24 cm", "12 cm", "3 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Một hình vuông có chu vi 28dm. Cạnh của nó là:",
+    "options": ["7 dm", "14 dm", "4 dm", "9 dm"],
+    "correctAnswer": "7 dm"
+  },
+  {
+    "question": "Một tờ giấy màu hình chữ nhật có diện tích 100 cm², chiều rộng 10cm. Chiều dài của nó là:",
+    "options": ["10 cm", "90 cm", "110 cm", "20 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 12cm, chiều rộng 7cm. Chu vi của nó là:",
+    "options": ["38 cm", "19 cm", "84 cm", "5 cm"],
+    "correctAnswer": "38 cm"
+  },
+  {
+    "question": "Một hình vuông có cạnh 9cm. Diện tích của nó là:",
+    "options": ["81 cm²", "36 cm", "18 cm²", "81 cm"],
+    "correctAnswer": "81 cm²"
+  },
+  {
+    "question": "Chu vi hình tam giác có ba cạnh dài 5cm, 12cm, 13cm là:",
+    "options": ["30 cm", "25 cm", "18 cm", "17 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi bằng chu vi hình vuông cạnh 5cm. Tổng chiều dài và chiều rộng của hình chữ nhật đó là:",
+    "options": ["10 cm", "20 cm", "25 cm", "5 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 72 cm², chiều dài 9cm. Chiều rộng của nó là:",
+    "options": ["8 cm", "63 cm", "81 cm", "7 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một cái sân hình vuông có diện tích 36 m². Chu vi của nó là:",
+    "options": ["24 m", "6 m", "12 m", "36 m"],
+    "correctAnswer": "24 m"
+  },
+  {
+    "question": "Chu vi của một hình tứ giác có các cạnh là 5dm, 6dm, 7dm, 8dm là:",
+    "options": ["26 dm", "20 dm", "30 dm", "24 dm"],
+    "correctAnswer": "26 dm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều rộng 7cm, chiều dài hơn chiều rộng 5cm. Diện tích hình đó là:",
+    "options": ["84 cm²", "12 cm", "38 cm", "35 cm²"],
+    "correctAnswer": "84 cm²"
+  },
+  {
+    "question": "Một hình vuông có chu vi 24cm. Diện tích hình đó là:",
+    "options": ["36 cm²", "6 cm", "12 cm²", "48 cm²"],
+    "correctAnswer": "36 cm²"
+  },
+  {
+    "question": "So sánh chu vi hình vuông cạnh 6cm và chu vi hình chữ nhật dài 7cm, rộng 5cm.",
+    "options": ["Bằng nhau", "Hình vuông lớn hơn", "Hình chữ nhật lớn hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 54 cm², chiều rộng 6cm. Chu vi hình đó là:",
+    "options": ["30 cm", "9 cm", "15 cm", "36 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Một hình vuông có diện tích 81 dm². Cạnh của nó là:",
+    "options": ["9 dm", "18 dm", "36 dm", "4 dm"],
+    "correctAnswer": "9 dm"
+  },
+  {
+    "question": "Chu vi hình tam giác có ba cạnh bằng nhau là 30cm. Mỗi cạnh dài:",
+    "options": ["10 cm", "15 cm", "3 cm", "30 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có nửa chu vi là 25cm. Chiều dài hơn chiều rộng 5cm. Diện tích hình đó là:",
+    "options": ["150 cm²", "100 cm²", "125 cm²", "200 cm²"],
+    "correctAnswer": "150 cm²"
+  },
+  {
+    "question": "Một hình vuông có cạnh 1dm 2cm. Chu vi hình vuông đó là:",
+    "options": ["48 cm", "12 cm", "40 cm", "42 cm"],
+    "correctAnswer": "48 cm"
+  },
+  {
+    "question": "Diện tích hình chữ nhật có chiều dài 2dm, chiều rộng 8cm là:",
+    "options": ["160 cm²", "16 cm²", "56 cm", "28 cm²"],
+    "correctAnswer": "160 cm²"
+  },
+  {
+    "question": "Một hình vuông có diện tích bằng diện tích hình chữ nhật dài 8cm, rộng 2cm. Cạnh hình vuông đó là:",
+    "options": ["4 cm", "16 cm", "8 cm", "2 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Chu vi hình tứ giác MNPQ là 40cm. Biết MN+NP+PQ = 32cm. Cạnh QM dài:",
+    "options": ["8 cm", "72 cm", "18 cm", "10 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài gấp 3 lần chiều rộng, chiều rộng là 5cm. Chu vi hình đó là:",
+    "options": ["40 cm", "20 cm", "75 cm", "30 cm"],
+    "correctAnswer": "40 cm"
+  },
+  {
+    "question": "Một hình vuông có chu vi 36dm. Diện tích hình đó là:",
+    "options": ["81 dm²", "9 dm", "18 dm²", "72 dm²"],
+    "correctAnswer": "81 dm²"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 60 cm², chiều dài 12cm. Chu vi hình đó là:",
+    "options": ["34 cm", "5 cm", "17 cm", "40 cm"],
+    "correctAnswer": "34 cm"
+  },
+  {
+    "question": "Một hình vuông có diện tích 100 m². Chu vi hình đó là:",
+    "options": ["40 m", "10 m", "20 m", "50 m"],
+    "correctAnswer": "40 m"
+  },
+  {
+    "question": "Chu vi hình tam giác có các cạnh là 2dm, 15cm, 10cm là:",
+    "options": ["45 cm", "27 cm", "37 cm", "40 cm"],
+    "correctAnswer": "45 cm"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 50cm, chiều dài 15cm. Chiều rộng là:",
+    "options": ["10 cm", "25 cm", "35 cm", "5 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình vuông có cạnh 20mm. Diện tích hình đó là:",
+    "options": ["400 mm²", "80 mm", "4 cm²", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 45 cm², chiều rộng 5cm. Chu vi hình đó là:",
+    "options": ["28 cm", "9 cm", "14 cm", "30 cm"],
+    "correctAnswer": "28 cm"
+  },
+  {
+    "question": "Một hình vuông có diện tích bằng số nhỏ nhất có 3 chữ số khác nhau. Chu vi hình đó là:",
+    "options": ["Không thể tính được", "102 cm", "40 cm", "400 cm"],
+    "correctAnswer": "Không thể tính được"
+  }
+]
+
