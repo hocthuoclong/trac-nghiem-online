@@ -1,0 +1,478 @@
+[
+  {
+    "question": "Kết quả của phép tính 6 x 7 là:",
+    "options": ["42", "13", "48", "36"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "Kết quả của phép tính 48 : 6 là:",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Kết quả của phép tính 7 x 8 là:",
+    "options": ["56", "15", "54", "63"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "Kết quả của phép tính 49 : 7 là:",
+    "options": ["7", "8", "6", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Kết quả của phép tính 8 x 9 là:",
+    "options": ["72", "17", "64", "81"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Kết quả của phép tính 64 : 8 là:",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Kết quả của phép tính 9 x 5 là:",
+    "options": ["45", "14", "54", "36"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Kết quả của phép tính 81 : 9 là:",
+    "options": ["9", "8", "7", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tìm x, biết: x × 6 = 30.",
+    "options": ["x = 5", "x = 36", "x = 24", "x = 6"],
+    "correctAnswer": "x = 5"
+  },
+  {
+    "question": "Tìm y, biết: 42 : y = 7.",
+    "options": ["y = 6", "y = 49", "y = 35", "y = 7"],
+    "correctAnswer": "y = 6"
+  },
+  {
+    "question": "Tìm z, biết: z : 8 = 5.",
+    "options": ["z = 40", "z = 3", "z = 13", "z = 8"],
+    "correctAnswer": "z = 40"
+  },
+  {
+    "question": "Một phần ba (1/3) của 21 là:",
+    "options": ["7", "3", "24", "18"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Một phần sáu (1/6) của 54 là:",
+    "options": ["9", "6", "48", "60"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Mỗi hộp có 6 cái bút chì. 8 hộp như thế có bao nhiêu cái bút chì?",
+    "options": ["48 cái", "14 cái", "2 cái", "50 cái"],
+    "correctAnswer": "48 cái"
+  },
+  {
+    "question": "Có 35 bông hoa cắm đều vào 7 lọ. Mỗi lọ có bao nhiêu bông hoa?",
+    "options": ["5 bông", "28 bông", "42 bông", "7 bông"],
+    "correctAnswer": "5 bông"
+  },
+  {
+    "question": "6 x 9 = ?",
+    "options": ["54", "15", "45", "60"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "36 : 6 = ?",
+    "options": ["6", "5", "7", "30"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "7 x 5 = ?",
+    "options": ["35", "12", "42", "30"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "63 : 7 = ?",
+    "options": ["9", "8", "7", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "8 x 4 = ?",
+    "options": ["32", "12", "36", "28"],
+    "correctAnswer": "32"
+  },
+  {
+    "question": "40 : 8 = ?",
+    "options": ["5", "4", "6", "32"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "9 x 8 = ?",
+    "options": ["72", "17", "81", "63"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "54 : 9 = ?",
+    "options": ["6", "5", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Trong phép nhân x × 7 = 28, x được gọi là gì?",
+    "options": ["Thừa số", "Tích", "Số bị chia", "Số chia"],
+    "correctAnswer": "Thừa số"
+  },
+  {
+    "question": "Trong phép chia 56 : y = 8, y được gọi là gì?",
+    "options": ["Số chia", "Số bị chia", "Thương", "Thừa số"],
+    "correctAnswer": "Số chia"
+  },
+  {
+    "question": "Trong phép chia z : 9 = 4, z được gọi là gì?",
+    "options": ["Số bị chia", "Số chia", "Thương", "Tích"],
+    "correctAnswer": "Số bị chia"
+  },
+  {
+    "question": "Một phần tám (1/8) của 72 là:",
+    "options": ["9", "8", "64", "80"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một phần bảy (1/7) của 42 là:",
+    "options": ["6", "7", "35", "49"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Lớp 3A có 32 học sinh, xếp thành 4 hàng. Mỗi hàng có bao nhiêu học sinh?",
+    "options": ["8 học sinh", "28 học sinh", "36 học sinh", "7 học sinh"],
+    "correctAnswer": "8 học sinh"
+  },
+  {
+    "question": "Một tuần có 7 ngày. 9 tuần có bao nhiêu ngày?",
+    "options": ["63 ngày", "16 ngày", "2 ngày", "70 ngày"],
+    "correctAnswer": "63 ngày"
+  },
+  {
+    "question": "6 x 5 = ?",
+    "options": ["30", "11", "24", "36"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "18 : 6 = ?",
+    "options": ["3", "4", "12", "24"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "7 x 6 = ?",
+    "options": ["42", "13", "49", "35"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "28 : 7 = ?",
+    "options": ["4", "3", "5", "21"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "8 x 8 = ?",
+    "options": ["64", "16", "56", "72"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "56 : 8 = ?",
+    "options": ["7", "6", "8", "48"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "9 x 9 = ?",
+    "options": ["81", "18", "72", "90"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "27 : 9 = ?",
+    "options": ["3", "4", "18", "36"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Tìm x, biết: 8 × x = 48.",
+    "options": ["x = 6", "x = 56", "x = 40", "x = 8"],
+    "correctAnswer": "x = 6"
+  },
+  {
+    "question": "Tìm y, biết: y : 9 = 7.",
+    "options": ["y = 63", "y = 2", "y = 16", "y = 9"],
+    "correctAnswer": "y = 63"
+  },
+  {
+    "question": "Tìm z, biết: 36 : z = 6.",
+    "options": ["z = 6", "z = 42", "z = 30", "z = 36"],
+    "correctAnswer": "z = 6"
+  },
+  {
+    "question": "Một phần chín (1/9) của 72 là:",
+    "options": ["8", "9", "63", "81"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một phần tư (1/4) của 24 là:",
+    "options": ["6", "4", "20", "28"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Có 40 cái kẹo chia cho 8 bạn. Mỗi bạn được bao nhiêu cái kẹo?",
+    "options": ["5 cái", "32 cái", "48 cái", "6 cái"],
+    "correctAnswer": "5 cái"
+  },
+  {
+    "question": "Mỗi con gà có 2 chân. Hỏi 9 con gà có bao nhiêu chân?",
+    "options": ["18 chân", "11 chân", "7 chân", "20 chân"],
+    "correctAnswer": "18 chân"
+  },
+  {
+    "question": "6 x 4 = ?",
+    "options": ["24", "10", "20", "28"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "60 : 6 = ?",
+    "options": ["10", "11", "9", "54"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "7 x 9 = ?",
+    "options": ["63", "16", "56", "70"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "14 : 7 = ?",
+    "options": ["2", "3", "7", "21"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "8 x 6 = ?",
+    "options": ["48", "14", "40", "54"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "24 : 8 = ?",
+    "options": ["3", "4", "16", "32"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "9 x 6 = ?",
+    "options": ["54", "15", "45", "63"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "45 : 9 = ?",
+    "options": ["5", "4", "6", "36"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Muốn tìm một thừa số chưa biết, ta làm thế nào?",
+    "options": ["Lấy tích chia cho thừa số đã biết", "Lấy tích nhân với thừa số đã biết", "Lấy thừa số đã biết chia cho tích", "Lấy tích cộng thừa số đã biết"],
+    "correctAnswer": "Lấy tích chia cho thừa số đã biết"
+  },
+  {
+    "question": "Muốn tìm số bị chia chưa biết, ta làm thế nào?",
+    "options": ["Lấy thương nhân với số chia", "Lấy thương chia cho số chia", "Lấy số chia chia cho thương", "Lấy thương cộng số chia"],
+    "correctAnswer": "Lấy thương nhân với số chia"
+  },
+  {
+    "question": "Muốn tìm số chia chưa biết, ta làm thế nào?",
+    "options": ["Lấy số bị chia chia cho thương", "Lấy số bị chia nhân với thương", "Lấy thương chia cho số bị chia", "Lấy số bị chia trừ thương"],
+    "correctAnswer": "Lấy số bị chia chia cho thương"
+  },
+  {
+    "question": "1/5 của 35 là:",
+    "options": ["7", "5", "30", "40"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "1/2 của 18 là:",
+    "options": ["9", "2", "16", "20"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Bà có 24 quả cam, bà cho cháu 1/3 số cam đó. Hỏi bà đã cho cháu bao nhiêu quả cam?",
+    "options": ["8 quả", "3 quả", "21 quả", "27 quả"],
+    "correctAnswer": "8 quả"
+  },
+  {
+    "question": "An có 7 viên bi. Số bi của Bình gấp 8 lần số bi của An. Hỏi Bình có bao nhiêu viên bi?",
+    "options": ["56 viên", "15 viên", "1 viên", "60 viên"],
+    "correctAnswer": "56 viên"
+  },
+  {
+    "question": "6 x 6 = ?",
+    "options": ["36", "12", "30", "42"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "42 : 6 = ?",
+    "options": ["7", "6", "8", "36"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "7 x 7 = ?",
+    "options": ["49", "14", "42", "56"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "70 : 7 = ?",
+    "options": ["10", "11", "9", "63"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "8 x 7 = ?",
+    "options": ["56", "15", "64", "48"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "16 : 8 = ?",
+    "options": ["2", "3", "8", "24"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "9 x 7 = ?",
+    "options": ["63", "16", "54", "72"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "63 : 9 = ?",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tìm x, biết: x × 9 = 81.",
+    "options": ["x = 9", "x = 90", "x = 72", "x = 81"],
+    "correctAnswer": "x = 9"
+  },
+  {
+    "question": "Tìm y, biết: y : 6 = 8.",
+    "options": ["y = 48", "y = 2", "y = 14", "y = 6"],
+    "correctAnswer": "y = 48"
+  },
+  {
+    "question": "Tìm z, biết: 72 : z = 9.",
+    "options": ["z = 8", "z = 81", "z = 63", "z = 9"],
+    "correctAnswer": "z = 8"
+  },
+  {
+    "question": "1/7 của 56 là:",
+    "options": ["8", "7", "49", "63"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "1/6 của 36 là:",
+    "options": ["6", "5", "30", "42"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một cuộn vải dài 45m, người ta đã bán đi 1/5 cuộn vải. Hỏi cuộn vải còn lại bao nhiêu mét?",
+    "options": ["36 m", "9 m", "40 m", "50 m"],
+    "correctAnswer": "36 m"
+  },
+  {
+    "question": "Có 54 học sinh chia thành các nhóm, mỗi nhóm có 9 học sinh. Hỏi chia được bao nhiêu nhóm?",
+    "options": ["6 nhóm", "5 nhóm", "7 nhóm", "8 nhóm"],
+    "correctAnswer": "6 nhóm"
+  },
+  {
+    "question": "6 x 1 = ?",
+    "options": ["6", "7", "5", "1"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "7 : 1 = ?",
+    "options": ["7", "1", "8", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "8 x 10 = ?",
+    "options": ["80", "18", "8", "1"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "90 : 9 = ?",
+    "options": ["10", "9", "81", "99"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tìm tích, biết hai thừa số là 7 và 9.",
+    "options": ["63", "16", "2", "54"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "Tìm thương, biết số bị chia là 48 và số chia là 8.",
+    "options": ["6", "40", "56", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tìm số bị chia, biết số chia là 6 và thương là 9.",
+    "options": ["54", "3", "15", "6"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "Tìm số chia, biết số bị chia là 35 và thương là 5.",
+    "options": ["7", "30", "40", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "1/8 của 40 là:",
+    "options": ["5", "8", "32", "48"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "1/9 của 81 là:",
+    "options": ["9", "8", "72", "90"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Mẹ mua 36 quả táo. Mẹ biếu bà 1/4 số táo. Hỏi mẹ còn lại bao nhiêu quả táo?",
+    "options": ["27 quả", "9 quả", "32 quả", "40 quả"],
+    "correctAnswer": "27 quả"
+  },
+  {
+    "question": "Một đội đồng diễn có 6 hàng, mỗi hàng có 10 người. Hỏi đội đó có bao nhiêu người?",
+    "options": ["60 người", "16 người", "4 người", "66 người"],
+    "correctAnswer": "60 người"
+  },
+  {
+    "question": "6 x 3 + 10 = ?",
+    "options": ["28", "18", "48", "24"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "45 : 5 - 3 = ?",
+    "options": ["6", "9", "12", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "7 x (12 - 5) = ?",
+    "options": ["49", "77", "84", "7"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "(20 + 16) : 4 = ?",
+    "options": ["9", "24", "36", "5"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tìm x, biết x là tích của 8 và 9.",
+    "options": ["x = 72", "x = 17", "x = 1", "x = 80"],
+    "correctAnswer": "x = 72"
+  },
+  {
+    "question": "Tìm y, biết y là thương của 63 và 7.",
+    "options": ["y = 9", "y = 70", "y = 56", "y = 7"],
+    "correctAnswer": "y = 9"
+  },
+  {
+    "question": "Tìm một số, biết rằng 1/6 của số đó bằng 10.",
+    "options": ["60", "16", "4", "10"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Lớp 3B có 35 học sinh, trong đó 1/7 số học sinh là học sinh giỏi. Hỏi lớp 3B có bao nhiêu học sinh không phải là học sinh giỏi?",
+    "options": ["30 học sinh", "5 học sinh", "28 học sinh", "34 học sinh"],
+    "correctAnswer": "30 học sinh"
+  }
+]
+
