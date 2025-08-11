@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Phân số 'ba phần tư' được viết là:",
+    "options": ["3/4", "4/3", "34", "3,4"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Trong phân số 5/8, số 5 được gọi là gì?",
+    "options": ["Tử số", "Mẫu số", "Thừa số", "Số hạng"],
+    "correctAnswer": "Tử số"
+  },
+  {
+    "question": "Trong phân số 7/9, số 9 được gọi là gì?",
+    "options": ["Mẫu số", "Tử số", "Thương", "Số chia"],
+    "correctAnswer": "Mẫu số"
+  },
+  {
+    "question": "Mẫu số của một phân số phải khác số nào?",
+    "options": ["0", "1", "10", "Số nào cũng được"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Phép chia 3 : 5 được viết dưới dạng phân số là:",
+    "options": ["3/5", "5/3", "3,5", "5,3"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Phân số 8/4 có giá trị bằng số tự nhiên nào?",
+    "options": ["2", "8", "4", "12"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Khi nhân cả tử số và mẫu số của phân số 2/3 với 4, ta được phân số mới là:",
+    "options": ["8/12", "6/7", "2/12", "8/3"],
+    "correctAnswer": "8/12"
+  },
+  {
+    "question": "Khi chia cả tử số và mẫu số của phân số 10/15 cho 5, ta được phân số mới là:",
+    "options": ["2/3", "5/10", "10/3", "2/15"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Rút gọn phân số 6/9 ta được phân số tối giản là:",
+    "options": ["2/3", "3/2", "6/9", "1/3"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Phân số nào sau đây là phân số tối giản?",
+    "options": ["5/7", "4/6", "8/10", "9/12"],
+    "correctAnswer": "5/7"
+  },
+  {
+    "question": "Quy đồng mẫu số hai phân số 1/2 và 1/3 ta được:",
+    "options": ["3/6 và 2/6", "2/4 và 2/6", "1/6 và 1/6", "3/5 và 2/5"],
+    "correctAnswer": "3/6 và 2/6"
+  },
+  {
+    "question": "Mẫu số chung nhỏ nhất của hai phân số 2/5 và 3/10 là:",
+    "options": ["10", "5", "50", "15"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "So sánh hai phân số 3/5 và 4/5.",
+    "options": ["3/5 < 4/5", "3/5 > 4/5", "3/5 = 4/5", "Không so sánh được"],
+    "correctAnswer": "3/5 < 4/5"
+  },
+  {
+    "question": "So sánh hai phân số 7/8 và 7/9.",
+    "options": ["7/8 > 7/9", "7/8 < 7/9", "7/8 = 7/9", "Không so sánh được"],
+    "correctAnswer": "7/8 > 7/9"
+  },
+  {
+    "question": "Phân số nào lớn hơn 1?",
+    "options": ["5/4", "4/5", "1/1", "10/10"],
+    "correctAnswer": "5/4"
+  },
+  {
+    "question": "Phân số nào bé hơn 1?",
+    "options": ["9/10", "10/9", "11/10", "1/1"],
+    "correctAnswer": "9/10"
+  },
+  {
+    "question": "Phân số nào bằng 1?",
+    "options": ["12/12", "11/12", "12/11", "1/12"],
+    "correctAnswer": "12/12"
+  },
+  {
+    "question": "Phân số 15/25 sau khi rút gọn sẽ là:",
+    "options": ["3/5", "5/3", "1/5", "3/25"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Quy đồng mẫu số hai phân số 3/4 và 5/6, mẫu số chung nhỏ nhất là:",
+    "options": ["12", "24", "10", "18"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "So sánh 2/3 và 3/4.",
+    "options": ["2/3 < 3/4", "2/3 > 3/4", "2/3 = 3/4", "Không so sánh được"],
+    "correctAnswer": "2/3 < 3/4"
+  },
+  {
+    "question": "Phân số 10/100 được đọc là:",
+    "options": ["Mười phần một trăm", "Một trăm phần mười", "Mười phần mười", "Một phần mười"],
+    "correctAnswer": "Mười phần một trăm"
+  },
+  {
+    "question": "Phép chia 1 : 4 được viết dưới dạng phân số là:",
+    "options": ["1/4", "4/1", "14", "4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Phân số nào bằng phân số 1/2?",
+    "options": ["5/10", "2/3", "3/5", "4/9"],
+    "correctAnswer": "5/10"
+  },
+  {
+    "question": "Rút gọn phân số 12/18.",
+    "options": ["2/3", "3/4", "4/5", "5/6"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Quy đồng mẫu số 1/5 và 2/7 ta được:",
+    "options": ["7/35 và 10/35", "5/35 và 7/35", "1/35 và 2/35", "7/12 và 10/12"],
+    "correctAnswer": "7/35 và 10/35"
+  },
+  {
+    "question": "Trong các phân số 1/2, 1/3, 1/4, 1/5, phân số nào lớn nhất?",
+    "options": ["1/2", "1/3", "1/4", "1/5"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Trong các phân số 2/7, 4/7, 1/7, 6/7, phân số nào bé nhất?",
+    "options": ["1/7", "2/7", "4/7", "6/7"],
+    "correctAnswer": "1/7"
+  },
+  {
+    "question": "Một giờ có 60 phút. 15 phút bằng mấy phần của một giờ?",
+    "options": ["1/4 giờ", "1/3 giờ", "1/2 giờ", "1/5 giờ"],
+    "correctAnswer": "1/4 giờ"
+  },
+  {
+    "question": "Phân số 20/5 bằng số tự nhiên nào?",
+    "options": ["4", "5", "20", "15"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tính chất cơ bản của phân số là gì?",
+    "options": ["Nhân hoặc chia cả tử và mẫu cho cùng một số tự nhiên khác 0", "Cộng cả tử và mẫu cho cùng một số", "Trừ cả tử và mẫu cho cùng một số", "Chỉ được nhân"],
+    "correctAnswer": "Nhân hoặc chia cả tử và mẫu cho cùng một số tự nhiên khác 0"
+  },
+  {
+    "question": "Tìm x, biết x/5 = 4/10.",
+    "options": ["x = 2", "x = 4", "x = 5", "x = 1"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Rút gọn 24/32.",
+    "options": ["3/4", "2/3", "4/5", "6/8"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Mẫu số chung của 3/8 và 5/12 là:",
+    "options": ["24", "96", "12", "8"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "So sánh 5/6 và 1.",
+    "options": ["5/6 < 1", "5/6 > 1", "5/6 = 1", "Không so sánh được"],
+    "correctAnswer": "5/6 < 1"
+  },
+  {
+    "question": "So sánh 8/7 và 1.",
+    "options": ["8/7 > 1", "8/7 < 1", "8/7 = 1", "Không so sánh được"],
+    "correctAnswer": "8/7 > 1"
+  },
+  {
+    "question": "Dãy phân số nào được sắp xếp theo thứ tự từ bé đến lớn?",
+    "options": ["1/5, 1/4, 1/3, 1/2", "1/2, 1/3, 1/4, 1/5", "1/5, 1/3, 1/4, 1/2", "1/2, 1/4, 1/3, 1/5"],
+    "correctAnswer": "1/5, 1/4, 1/3, 1/2"
+  },
+  {
+    "question": "Phân số 'mười hai phần năm' được viết là:",
+    "options": ["12/5", "5/12", "125", "12,5"],
+    "correctAnswer": "12/5"
+  },
+  {
+    "question": "Phép chia 7 cho 9 được viết dưới dạng phân số là:",
+    "options": ["7/9", "9/7", "79", "97"],
+    "correctAnswer": "7/9"
+  },
+  {
+    "question": "Phân số 18/18 có giá trị là:",
+    "options": ["1", "18", "0", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tìm phân số bằng 3/4 và có mẫu số là 12.",
+    "options": ["9/12", "6/12", "8/12", "10/12"],
+    "correctAnswer": "9/12"
+  },
+  {
+    "question": "Rút gọn phân số 30/45.",
+    "options": ["2/3", "3/4", "5/6", "6/9"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Quy đồng mẫu số 2/3 và 5/7.",
+    "options": ["14/21 và 15/21", "12/21 và 15/21", "14/10 và 15/10", "7/21 và 5/21"],
+    "correctAnswer": "14/21 và 15/21"
+  },
+  {
+    "question": "So sánh 11/10 và 10/11.",
+    "options": ["11/10 > 10/11", "11/10 < 10/11", "11/10 = 10/11", "Không so sánh được"],
+    "correctAnswer": "11/10 > 10/11"
+  },
+  {
+    "question": "Lớp 4A có 30 học sinh, trong đó có 15 bạn nữ. Phân số chỉ số bạn nữ của lớp 4A là:",
+    "options": ["15/30 (hoặc 1/2)", "15/15", "30/15", "1/15"],
+    "correctAnswer": "15/30 (hoặc 1/2)"
+  },
+  {
+    "question": "Tử số của một phân số cho biết điều gì?",
+    "options": ["Số phần bằng nhau đã được lấy đi", "Tổng số phần bằng nhau của một đơn vị", "Phép chia", "Phép nhân"],
+    "correctAnswer": "Số phần bằng nhau đã được lấy đi"
+  },
+  {
+    "question": "Mẫu số của một phân số cho biết điều gì?",
+    "options": ["Tổng số phần bằng nhau của một đơn vị", "Số phần bằng nhau đã được lấy đi", "Phép cộng", "Phép trừ"],
+    "correctAnswer": "Tổng số phần bằng nhau của một đơn vị"
+  },
+  {
+    "question": "Số tự nhiên 5 có thể viết dưới dạng phân số là:",
+    "options": ["5/1", "1/5", "5/5", "0/5"],
+    "correctAnswer": "5/1"
+  },
+  {
+    "question": "Phân số 100/25 bằng số tự nhiên nào?",
+    "options": ["4", "100", "25", "75"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tìm y, biết 2/3 = y/9.",
+    "options": ["y = 6", "y = 2", "y = 3", "y = 9"],
+    "correctAnswer": "y = 6"
+  },
+  {
+    "question": "Rút gọn phân số 48/64.",
+    "options": ["3/4", "4/5", "5/6", "6/8"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Mẫu số chung nhỏ nhất của 1/6 và 1/9 là:",
+    "options": ["18", "54", "6", "9"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "So sánh 9/8 và 10/9.",
+    "options": ["9/8 > 10/9", "9/8 < 10/9", "9/8 = 10/9", "Không so sánh được"],
+    "correctAnswer": "9/8 > 10/9"
+  },
+  {
+    "question": "Trong các phân số 3/2, 4/4, 5/6, phân số nào bé nhất?",
+    "options": ["5/6", "3/2", "4/4", "Không có"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Một cái bánh được chia thành 8 phần bằng nhau. An ăn 3 phần. Phân số chỉ số phần bánh An đã ăn là:",
+    "options": ["3/8", "8/3", "5/8", "8/5"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Phân số 7/1 được đọc là:",
+    "options": ["Bảy phần một (hoặc Bảy)", "Một phần bảy", "Bảy mươi mốt", "Một trăm linh bảy"],
+    "correctAnswer": "Bảy phần một (hoặc Bảy)"
+  },
+  {
+    "question": "Phép chia nào có thương là 2/5?",
+    "options": ["2 : 5", "5 : 2", "2 x 5", "5 + 2"],
+    "correctAnswer": "2 : 5"
+  },
+  {
+    "question": "Phân số nào không bằng phân số 12/16?",
+    "options": ["4/3", "3/4", "6/8", "9/12"],
+    "correctAnswer": "4/3"
+  },
+  {
+    "question": "Rút gọn phân số 100/1000.",
+    "options": ["1/10", "1/100", "10/100", "1/1"],
+    "correctAnswer": "1/10"
+  },
+  {
+    "question": "Quy đồng mẫu số 4/5 và 5/4.",
+    "options": ["16/20 và 25/20", "20/20 và 20/20", "4/20 và 5/20", "8/20 và 10/20"],
+    "correctAnswer": "16/20 và 25/20"
+  },
+  {
+    "question": "So sánh 2023/2024 và 2024/2023.",
+    "options": ["2023/2024 < 2024/2023", "2023/2024 > 2024/2023", "2023/2024 = 2024/2023", "Không so sánh được"],
+    "correctAnswer": "2023/2024 < 2024/2023"
+  },
+  {
+    "question": "Dãy phân số nào được sắp xếp theo thứ tự từ lớn đến bé?",
+    "options": ["7/8, 5/8, 3/8, 1/8", "1/8, 3/8, 5/8, 7/8", "7/8, 1/8, 5/8, 3/8", "3/8, 7/8, 1/8, 5/8"],
+    "correctAnswer": "7/8, 5/8, 3/8, 1/8"
+  },
+  {
+    "question": "Một sợi dây dài 1m. Cắt đi 25cm. Phân số chỉ phần dây còn lại là:",
+    "options": ["3/4 m", "1/4 m", "75/1 m", "1/75 m"],
+    "correctAnswer": "3/4 m"
+  },
+  {
+    "question": "Tử số là 5, mẫu số là 9. Đó là phân số nào?",
+    "options": ["5/9", "9/5", "59", "95"],
+    "correctAnswer": "5/9"
+  },
+  {
+    "question": "Thương của 12 và 4 có thể viết dưới dạng phân số là:",
+    "options": ["12/4", "4/12", "3/1", "1/3"],
+    "correctAnswer": "12/4"
+  },
+  {
+    "question": "Phân số 2/5 bằng phân số nào dưới đây?",
+    "options": ["14/35", "5/2", "20/40", "12/25"],
+    "correctAnswer": "14/35"
+  },
+  {
+    "question": "Rút gọn phân số 16/48.",
+    "options": ["1/3", "1/4", "2/6", "4/12"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "Quy đồng mẫu số 1/2, 1/3, 1/4. Mẫu số chung nhỏ nhất là:",
+    "options": ["12", "24", "6", "8"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "So sánh 5/5 và 1.",
+    "options": ["5/5 = 1", "5/5 > 1", "5/5 < 1", "Không so sánh được"],
+    "correctAnswer": "5/5 = 1"
+  },
+  {
+    "question": "Phân số có tử số bé hơn mẫu số thì phân số đó...",
+    "options": ["Bé hơn 1", "Lớn hơn 1", "Bằng 1", "Bằng 0"],
+    "correctAnswer": "Bé hơn 1"
+  },
+  {
+    "question": "Phân số có tử số lớn hơn mẫu số thì phân số đó...",
+    "options": ["Lớn hơn 1", "Bé hơn 1", "Bằng 1", "Bằng 0"],
+    "correctAnswer": "Lớn hơn 1"
+  },
+  {
+    "question": "Phân số có tử số bằng mẫu số thì phân số đó...",
+    "options": ["Bằng 1", "Bé hơn 1", "Lớn hơn 1", "Bằng 0"],
+    "correctAnswer": "Bằng 1"
+  },
+  {
+    "question": "Trong các phân số sau, phân số nào tối giản: 10/15, 11/22, 13/14, 15/20?",
+    "options": ["13/14", "10/15", "11/22", "15/20"],
+    "correctAnswer": "13/14"
+  },
+  {
+    "question": "Quy đồng mẫu số 3/7 và 2/5 ta được 15/35 và ...",
+    "options": ["14/35", "10/35", "21/35", "7/35"],
+    "correctAnswer": "14/35"
+  },
+  {
+    "question": "Tìm phân số ở giữa 1/3 và 2/3.",
+    "options": ["Không có phân số nào trong các đáp án", "1/2", "1/4", "3/4"],
+    "correctAnswer": "Không có phân số nào trong các đáp án"
+  },
+  {
+    "question": "Một lớp có 20 nam và 15 nữ. Phân số chỉ số học sinh nam so với cả lớp là:",
+    "options": ["20/35 (hoặc 4/7)", "20/15", "15/35", "15/20"],
+    "correctAnswer": "20/35 (hoặc 4/7)"
+  },
+  {
+    "question": "Phân số 9/1 được viết dưới dạng số tự nhiên là:",
+    "options": ["9", "1", "10", "Không viết được"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Tìm một phân số bằng 5/6 nhưng có tổng của tử số và mẫu số là 33.",
+    "options": ["15/18", "10/12", "20/24", "5/6"],
+    "correctAnswer": "15/18"
+  },
+  {
+    "question": "Rút gọn phân số 34/51.",
+    "options": ["2/3", "1/2", "3/4", "17/25"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Mẫu số chung nhỏ nhất của 1/4, 5/6, 2/3 là:",
+    "options": ["12", "24", "18", "72"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "So sánh 7/12 và 5/8.",
+    "options": ["7/12 < 5/8", "7/12 > 5/8", "7/12 = 5/8", "Không so sánh được"],
+    "correctAnswer": "7/12 < 5/8"
+  },
+  {
+    "question": "Tìm số tự nhiên x, biết 1 < x/5 < 2.",
+    "options": ["x có thể là 6, 7, 8, 9", "x = 5", "x = 10", "Không có x"],
+    "correctAnswer": "x có thể là 6, 7, 8, 9"
+  },
+  {
+    "question": "Một rổ trứng có 40 quả, trong đó 1/5 là trứng vịt. Hỏi có bao nhiêu quả trứng gà?",
+    "options": ["32 quả", "8 quả", "40 quả", "10 quả"],
+    "correctAnswer": "32 quả"
+  },
+  {
+    "question": "Phân số nào chỉ phần đã tô màu của hình tròn được chia làm 4 phần, tô màu 3 phần?",
+    "options": ["3/4", "1/4", "4/3", "4/4"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Phép chia 10 : 3 có thể viết thành hỗn số là:",
+    "options": ["3 và 1/3", "3 và 1/10", "10/3", "3"],
+    "correctAnswer": "3 và 1/3"
+  },
+  {
+    "question": "Phân số 5/2 bằng phân số nào?",
+    "options": ["25/10", "10/5", "2/5", "50/25"],
+    "correctAnswer": "25/10"
+  },
+  {
+    "question": "Rút gọn phân số 21/49.",
+    "options": ["3/7", "1/3", "7/3", "2/7"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Quy đồng mẫu số 1/8 và 7/5.",
+    "options": ["5/40 và 56/40", "8/40 và 35/40", "1/40 và 7/40", "5/13 và 56/13"],
+    "correctAnswer": "5/40 và 56/40"
+  },
+  {
+    "question": "So sánh 1 và 99/100.",
+    "options": ["1 > 99/100", "1 < 99/100", "1 = 99/100", "Không so sánh được"],
+    "correctAnswer": "1 > 99/100"
+  },
+  {
+    "question": "Trong các phân số 1/10, 1/100, 1/1000, phân số nào bé nhất?",
+    "options": ["1/1000", "1/100", "1/10", "Bằng nhau"],
+    "correctAnswer": "1/1000"
+  },
+  {
+    "question": "An cao 140cm, Bình cao 150cm. Tỉ số chiều cao của An so với Bình là:",
+    "options": ["14/15", "15/14", "140/150", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  }
+]
+
