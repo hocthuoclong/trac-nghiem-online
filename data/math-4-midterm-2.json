@@ -1,0 +1,598 @@
+[
+  {
+    "question": "Kết quả của phép tính 15 243 x 4 là:",
+    "options": ["60 972", "60 872", "61 972", "60 962"],
+    "correctAnswer": "60 972"
+  },
+  {
+    "question": "Kết quả của phép tính 84 268 : 4 là:",
+    "options": ["21 067", "21 670", "21 077", "21 167"],
+    "correctAnswer": "21 067"
+  },
+  {
+    "question": "Tính chất kết hợp của phép nhân được viết là:",
+    "options": ["(a x b) x c = a x (b x c)", "a x b = b x a", "a x (b + c) = a x b + a x c", "a x 1 = a"],
+    "correctAnswer": "(a x b) x c = a x (b x c)"
+  },
+  {
+    "question": "Kết quả của phép tính 987 x 100 là:",
+    "options": ["98 700", "9870", "987 000", "987100"],
+    "correctAnswer": "98 700"
+  },
+  {
+    "question": "Áp dụng tính chất phân phối để tính nhanh: 45 x 11",
+    "options": ["495", "450", "451", "485"],
+    "correctAnswer": "495"
+  },
+  {
+    "question": "Kết quả của phép tính 256 x 32 là:",
+    "options": ["8192", "8092", "8182", "8292"],
+    "correctAnswer": "8192"
+  },
+  {
+    "question": "Tìm thương và số dư của phép chia 1524 : 15.",
+    "options": ["Thương 101, dư 9", "Thương 101, dư 0", "Thương 100, dư 24", "Thương 102, dư -6"],
+    "correctAnswer": "Thương 101, dư 9"
+  },
+  {
+    "question": "Tìm số trung bình cộng của các số: 25, 35, 45.",
+    "options": ["35", "105", "30", "40"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Mua 6 cái bút hết 30 000 đồng. Hỏi mua 10 cái bút như thế hết bao nhiêu tiền?",
+    "options": ["50 000 đồng", "60 000 đồng", "5 000 đồng", "40 000 đồng"],
+    "correctAnswer": "50 000 đồng"
+  },
+  {
+    "question": "Cho dãy số liệu về số quả cam trong 5 rổ: 25, 30, 28, 25, 32. Số nào xuất hiện nhiều lần nhất?",
+    "options": ["25", "30", "28", "32"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số học sinh của 3 lớp: 4A (32), 4B (35), 4C (30). Lớp nào đông học sinh nhất?",
+    "options": ["Lớp 4B", "Lớp 4A", "Lớp 4C", "Bằng nhau"],
+    "correctAnswer": "Lớp 4B"
+  },
+  {
+    "question": "Tung một đồng xu 30 lần, có 18 lần xuất hiện mặt ngửa. Số lần xuất hiện mặt sấp là bao nhiêu?",
+    "options": ["12 lần", "18 lần", "30 lần", "48 lần"],
+    "correctAnswer": "12 lần"
+  },
+  {
+    "question": "Trong hộp có 10 bi xanh và 2 bi đỏ. Không nhìn vào hộp, lấy ra 1 viên bi. Khả năng lấy được bi màu gì cao hơn?",
+    "options": ["Màu xanh", "Màu đỏ", "Như nhau", "Không xác định"],
+    "correctAnswer": "Màu xanh"
+  },
+  {
+    "question": "Phân số 'năm phần chín' được viết là:",
+    "options": ["5/9", "9/5", "59", "5,9"],
+    "correctAnswer": "5/9"
+  },
+  {
+    "question": "Phép chia 7 : 8 được viết dưới dạng phân số là:",
+    "options": ["7/8", "8/7", "78", "87"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Rút gọn phân số 16/24 ta được phân số tối giản là:",
+    "options": ["2/3", "4/6", "8/12", "1/2"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Quy đồng mẫu số hai phân số 2/5 và 3/7. Mẫu số chung nhỏ nhất là:",
+    "options": ["35", "12", "5", "7"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "So sánh hai phân số 5/9 và 7/9.",
+    "options": ["5/9 < 7/9", "5/9 > 7/9", "5/9 = 7/9", "Không so sánh được"],
+    "correctAnswer": "5/9 < 7/9"
+  },
+  {
+    "question": "Kết quả của phép tính 2/7 + 4/7 là:",
+    "options": ["6/7", "6/14", "8/49", "1"],
+    "correctAnswer": "6/7"
+  },
+  {
+    "question": "Kết quả của phép tính 5/6 - 1/3 là:",
+    "options": ["3/6 (hoặc 1/2)", "4/3", "4/6", "1"],
+    "correctAnswer": "3/6 (hoặc 1/2)"
+  },
+  {
+    "question": "Kết quả của phép tính 3/5 x 2/7 là:",
+    "options": ["6/35", "5/12", "21/10", "1"],
+    "correctAnswer": "6/35"
+  },
+  {
+    "question": "Kết quả của phép tính 3/4 : 1/2 là:",
+    "options": ["6/4 (hoặc 3/2)", "3/8", "4/6", "1"],
+    "correctAnswer": "6/4 (hoặc 3/2)"
+  },
+  {
+    "question": "Phân số đảo ngược của 2/9 là:",
+    "options": ["9/2", "2/9", "1", "0"],
+    "correctAnswer": "9/2"
+  },
+  {
+    "question": "3/5 của 25 là:",
+    "options": ["15", "25", "10", "20"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 5/6 m, chiều rộng 2/3 m. Diện tích của nó là:",
+    "options": ["10/18 m² (hoặc 5/9 m²)", "7/9 m²", "1 m²", "10/9 m²"],
+    "correctAnswer": "10/18 m² (hoặc 5/9 m²)"
+  },
+  {
+    "question": "Tính nhẩm: 45 000 : 9",
+    "options": ["5000", "500", "50", "50000"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Tính bằng cách thuận tiện nhất: 4 x 89 x 25",
+    "options": ["8900", "890", "100", "2000"],
+    "correctAnswer": "8900"
+  },
+  {
+    "question": "Một số chia cho 100 được 205. Số đó là:",
+    "options": ["20500", "2050", "2.05", "20.5"],
+    "correctAnswer": "20500"
+  },
+  {
+    "question": "Kết quả của phép tính 145 x 26 là:",
+    "options": ["3770", "3670", "3760", "3870"],
+    "correctAnswer": "3770"
+  },
+  {
+    "question": "Trung bình cộng của 4 số là 20. Tổng của 4 số đó là:",
+    "options": ["80", "5", "24", "16"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Một đội 10 người làm xong công việc trong 6 ngày. Nếu 15 người làm thì xong trong bao nhiêu ngày?",
+    "options": ["4 ngày", "9 ngày", "5 ngày", "3 ngày"],
+    "correctAnswer": "4 ngày"
+  },
+  {
+    "question": "Dãy số liệu về số sách đọc trong 4 tháng: 5, 8, 6, 5. Trung bình mỗi tháng đọc bao nhiêu quyển?",
+    "options": ["6 quyển", "24 quyển", "5 quyển", "8 quyển"],
+    "correctAnswer": "6 quyển"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số vật nuôi: Chó (8), Mèo (10), Gà (15). Tổng số vật nuôi là:",
+    "options": ["33", "23", "25", "18"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Gieo xúc xắc 25 lần, mặt 4 chấm xuất hiện 5 lần. Số lần không xuất hiện mặt 4 chấm là:",
+    "options": ["20 lần", "5 lần", "25 lần", "30 lần"],
+    "correctAnswer": "20 lần"
+  },
+  {
+    "question": "Phân số 12/3 có giá trị bằng số tự nhiên nào?",
+    "options": ["4", "12", "3", "15"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Phân số nào bằng phân số 2/5?",
+    "options": ["8/20", "5/2", "4/15", "6/10"],
+    "correctAnswer": "8/20"
+  },
+  {
+    "question": "So sánh 7/6 và 6/7.",
+    "options": ["7/6 > 6/7", "7/6 < 6/7", "7/6 = 6/7", "Không so sánh được"],
+    "correctAnswer": "7/6 > 6/7"
+  },
+  {
+    "question": "Tính: 1/2 + 2/5",
+    "options": ["9/10", "3/7", "2/10", "1"],
+    "correctAnswer": "9/10"
+  },
+  {
+    "question": "Tính: 3/4 - 2/3",
+    "options": ["1/12", "1/1", "1", "5/7"],
+    "correctAnswer": "1/12"
+  },
+  {
+    "question": "Tính: 4/5 x 10",
+    "options": ["8", "40/5", "Cả A và B đều đúng", "40/50"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 15 : 3/5",
+    "options": ["25", "9", "45/5", "1"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "4/5 của 100m là:",
+    "options": ["80 m", "125 m", "40 m", "60 m"],
+    "correctAnswer": "80 m"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 1m, chiều rộng 1/5 m. Chiều dài hình chữ nhật là:",
+    "options": ["3/10 m", "4/5 m", "1/2 m", "1"],
+    "correctAnswer": "3/10 m"
+  },
+  {
+    "question": "Kết quả của phép tính 10101 x 9 là:",
+    "options": ["90909", "99999", "90900", "90009"],
+    "correctAnswer": "90909"
+  },
+  {
+    "question": "Tìm số dư của phép chia 5000 : 12.",
+    "options": ["8", "4", "0", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tính nhanh: 125 x 99 + 125",
+    "options": ["12500", "125", "100", "12400"],
+    "correctAnswer": "12500"
+  },
+  {
+    "question": "Một số chia cho 10 được 45, dư 3. Số đó là:",
+    "options": ["453", "450", "48", "45.3"],
+    "correctAnswer": "453"
+  },
+  {
+    "question": "Kết quả của phép tính 402 x 35 là:",
+    "options": ["14070", "14000", "12070", "14700"],
+    "correctAnswer": "14070"
+  },
+  {
+    "question": "Trung bình cộng của hai số là 75. Một số là 100. Số còn lại là:",
+    "options": ["50", "25", "175", "75"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một máy cày trong 2 ngày cày được 10 ha ruộng. Hỏi trong 5 ngày máy cày đó cày được bao nhiêu héc-ta?",
+    "options": ["25 ha", "5 ha", "20 ha", "50 ha"],
+    "correctAnswer": "25 ha"
+  },
+  {
+    "question": "Cho dãy số liệu về số con trong 5 gia đình: 2, 3, 2, 1, 2. Số con phổ biến nhất là:",
+    "options": ["2", "3", "1", "5"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số giờ nắng trong 3 ngày: T2 (8 giờ), T3 (10 giờ), T4 (9 giờ). Trung bình mỗi ngày có bao nhiêu giờ nắng?",
+    "options": ["9 giờ", "27 giờ", "8 giờ", "10 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Trong hộp có 5 bi xanh, 5 bi đỏ, 5 bi vàng. Không nhìn vào hộp, phải lấy ra ít nhất bao nhiêu viên bi để chắc chắn có 1 viên bi đỏ?",
+    "options": ["11 viên", "3 viên", "6 viên", "10 viên"],
+    "correctAnswer": "11 viên"
+  },
+  {
+    "question": "Phân số 35/49 sau khi rút gọn là:",
+    "options": ["5/7", "7/5", "3/4", "5/9"],
+    "correctAnswer": "5/7"
+  },
+  {
+    "question": "Quy đồng mẫu số 5/6 và 7/8. Mẫu số chung nhỏ nhất là:",
+    "options": ["24", "48", "14", "30"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "So sánh 1 và 2024/2023.",
+    "options": ["1 < 2024/2023", "1 > 2024/2023", "1 = 2024/2023", "Không so sánh được"],
+    "correctAnswer": "1 < 2024/2023"
+  },
+  {
+    "question": "Tính: 3 - 4/3",
+    "options": ["5/3", "1/3", "1", "2/3"],
+    "correctAnswer": "5/3"
+  },
+  {
+    "question": "Tính: 1/4 + 3/8",
+    "options": ["5/8", "4/12", "1", "1/2"],
+    "correctAnswer": "5/8"
+  },
+  {
+    "question": "Tính: 5/2 x 4/5",
+    "options": ["2", "20/10", "Cả A và B đều đúng", "1"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 10/9 : 5/3",
+    "options": ["30/45 (hoặc 2/3)", "50/27", "1", "2/3"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Một số biết 2/5 của nó bằng 20. Số đó là:",
+    "options": ["50", "8", "40", "10"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một tấm kính hình chữ nhật có diện tích 1/2 m², chiều rộng 1/3 m. Chiều dài tấm kính là:",
+    "options": ["3/2 m", "1/6 m", "1", "2/3 m"],
+    "correctAnswer": "3/2 m"
+  },
+  {
+    "question": "Kết quả của phép tính 2468 x 5 là:",
+    "options": ["12340", "12300", "12240", "10340"],
+    "correctAnswer": "12340"
+  },
+  {
+    "question": "Tìm thương và số dư của phép chia 3000 : 25.",
+    "options": ["Thương 120, dư 0", "Thương 12, dư 0", "Thương 100, dư 0", "Thương 120, dư 25"],
+    "correctAnswer": "Thương 120, dư 0"
+  },
+  {
+    "question": "Tính nhanh: 4 x 125 x 25 x 8",
+    "options": ["100 000", "10 000", "1000", "1 000 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Một số nhân với 1000 rồi trừ đi 1000 thì được 9000. Số đó là:",
+    "options": ["10", "100", "1", "1000"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Kết quả của phép tính 199 x 25 là:",
+    "options": ["4975", "5000", "4950", "4925"],
+    "correctAnswer": "4975"
+  },
+  {
+    "question": "Trung bình cộng của ba số là 40. Biết hai trong ba số đó là 30 và 40. Số còn lại là:",
+    "options": ["50", "70", "120", "35"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một người đi xe máy 3 giờ đầu, mỗi giờ đi được 40km. 2 giờ sau, mỗi giờ đi được 35km. Hỏi trung bình mỗi giờ người đó đi được bao nhiêu km?",
+    "options": ["38 km", "37.5 km", "190 km", "75 km"],
+    "correctAnswer": "38 km"
+  },
+  {
+    "question": "Dãy số liệu về số phút gọi điện thoại trong 5 ngày: 10, 15, 8, 12, 10. Tổng số phút đã gọi là:",
+    "options": ["55 phút", "50 phút", "60 phút", "45 phút"],
+    "correctAnswer": "55 phút"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng 3 loại cây: Xoài (50), Mít (40), Ổi (60). Cây Ổi nhiều hơn cây Mít bao nhiêu cây?",
+    "options": ["20 cây", "10 cây", "110 cây", "150 cây"],
+    "correctAnswer": "20 cây"
+  },
+  {
+    "question": "Một vòng quay có 8 ô bằng nhau, trong đó có 5 ô màu đỏ và 3 ô màu xanh. Quay một lần, khả năng mũi tên chỉ vào ô màu nào cao hơn?",
+    "options": ["Màu đỏ", "Màu xanh", "Như nhau", "Không xác định"],
+    "correctAnswer": "Màu đỏ"
+  },
+  {
+    "question": "Phân số 100/25 được rút gọn thành:",
+    "options": ["4/1 (hoặc 4)", "1/4", "10/2.5", "4"],
+    "correctAnswer": "4/1 (hoặc 4)"
+  },
+  {
+    "question": "Quy đồng mẫu số 3/4, 1/6, 5/12. Mẫu số chung nhỏ nhất là:",
+    "options": ["12", "24", "6", "48"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "So sánh 13/12 và 12/13.",
+    "options": ["13/12 > 12/13", "13/12 < 12/13", "13/12 = 12/13", "Không so sánh được"],
+    "correctAnswer": "13/12 > 12/13"
+  },
+  {
+    "question": "Tính: 5/8 + 1/4",
+    "options": ["7/8", "6/12", "1", "6/8"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Tính: 2 - 5/7",
+    "options": ["9/7", "3/7", "1", "12/7"],
+    "correctAnswer": "9/7"
+  },
+  {
+    "question": "Tính: 3/4 x 4/3",
+    "options": ["1", "12/12", "Cả A và B đều đúng", "0"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 2/5 : 2/5",
+    "options": ["1", "4/25", "0", "2/5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một số biết 3/5 của nó bằng 30. Số đó là:",
+    "options": ["50", "18", "90", "10"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 15/16 m², chiều dài 5/4 m. Chu vi hình chữ nhật đó là:",
+    "options": ["17/6 m", "3/4 m", "1", "15/4 m"],
+    "correctAnswer": "17/6 m"
+  },
+  {
+    "question": "Kết quả của phép tính 1203 x 45 là:",
+    "options": ["54135", "54035", "54125", "54235"],
+    "correctAnswer": "54135"
+  },
+  {
+    "question": "Tìm thương và số dư của phép chia 10000 : 33.",
+    "options": ["Thương 303, dư 1", "Thương 303, dư 0", "Thương 300, dư 100", "Thương 30, dư 10"],
+    "correctAnswer": "Thương 303, dư 1"
+  },
+  {
+    "question": "Tính nhanh: 2024 x 8 + 2024 x 2",
+    "options": ["20240", "2024", "10", "16192"],
+    "correctAnswer": "20240"
+  },
+  {
+    "question": "Một số chia cho 15 được thương là 20 và số dư lớn nhất có thể. Số đó là:",
+    "options": ["314", "300", "315", "320"],
+    "correctAnswer": "314"
+  },
+  {
+    "question": "Kết quả của phép tính 555 x 55 là:",
+    "options": ["30525", "30255", "35525", "30555"],
+    "correctAnswer": "30525"
+  },
+  {
+    "question": "Trung bình cộng của 5 số lẻ liên tiếp là 25. Số lớn nhất trong 5 số đó là:",
+    "options": ["29", "21", "25", "27"],
+    "correctAnswer": "29"
+  },
+  {
+    "question": "Một bếp ăn chuẩn bị gạo cho 120 người ăn trong 20 ngày. Nếu có 150 người ăn thì số gạo đó đủ trong bao nhiêu ngày?",
+    "options": ["16 ngày", "25 ngày", "15 ngày", "18 ngày"],
+    "correctAnswer": "16 ngày"
+  },
+  {
+    "question": "Dãy số liệu về nhiệt độ các ngày trong tuần: 28, 30, 31, 29, 30, 28, 28. Nhiệt độ nào xuất hiện nhiều nhất?",
+    "options": ["28", "30", "31", "29"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng học sinh giỏi 4 khối: K1(100), K2(120), K3(110), K4(130). Khối 4 nhiều hơn khối 1 bao nhiêu học sinh giỏi?",
+    "options": ["30", "20", "10", "460"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Trong một hộp có 2 bi xanh, 3 bi đỏ, 5 bi vàng. Không nhìn vào hộp, lấy ra 1 viên bi. Khả năng lấy được bi màu gì là thấp nhất?",
+    "options": ["Màu xanh", "Màu đỏ", "Màu vàng", "Như nhau"],
+    "correctAnswer": "Màu xanh"
+  },
+  {
+    "question": "Phân số 50/75 được rút gọn thành:",
+    "options": ["2/3", "5/7", "1/2", "3/4"],
+    "correctAnswer": "2/3"
+  },
+  {
+    "question": "Quy đồng mẫu số 1/2, 2/3, 3/5. Mẫu số chung nhỏ nhất là:",
+    "options": ["30", "10", "15", "60"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "So sánh 1 - 1/1000 và 999/1000.",
+    "options": ["Bằng nhau", "Lớn hơn", "Bé hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tính: 5/12 + 1/3",
+    "options": ["9/12 (hoặc 3/4)", "6/15", "1", "1/2"],
+    "correctAnswer": "9/12 (hoặc 3/4)"
+  },
+  {
+    "question": "Tính: 3/2 - 3/4",
+    "options": ["3/4", "0", "1", "3/2"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Tính: 5/6 x 3/5",
+    "options": ["15/30 (hoặc 1/2)", "8/11", "1", "1/2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tính: 7/12 : 14/3",
+    "options": ["21/168 (hoặc 1/8)", "98/36", "1", "1/8"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "question": "Một số biết 5/6 của nó bằng 30. Số đó là:",
+    "options": ["36", "25", "150", "30"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "Một sân chơi hình chữ nhật có chiều dài 20m, chiều rộng bằng 3/4 chiều dài. Chu vi sân chơi đó là:",
+    "options": ["70 m", "15 m", "35 m", "300 m²"],
+    "correctAnswer": "70 m"
+  },
+  {
+    "question": "Kết quả của phép tính 3003 x 15 là:",
+    "options": ["45045", "45005", "45035", "45145"],
+    "correctAnswer": "45045"
+  },
+  {
+    "question": "Tìm thương và số dư của phép chia 12345 : 12.",
+    "options": ["Thương 1028, dư 9", "Thương 1028, dư 0", "Thương 1029, dư -3", "Thương 1027, dư 21"],
+    "correctAnswer": "Thương 1028, dư 9"
+  },
+  {
+    "question": "Tính nhanh: 135 x 58 - 135 x 48",
+    "options": ["1350", "135", "10", "13500"],
+    "correctAnswer": "1350"
+  },
+  {
+    "question": "Một số nhân với 25 được 1000. Số đó là:",
+    "options": ["40", "25000", "1025", "975"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Kết quả của phép tính 98 x 99 là:",
+    "options": ["9702", "9800", "9700", "9701"],
+    "correctAnswer": "9702"
+  },
+  {
+    "question": "Trung bình cộng của các số tự nhiên từ 1 đến 9 là:",
+    "options": ["5", "45", "10", "4.5"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một tổ sản xuất có 25 công nhân, một tháng làm được 500 sản phẩm. Nếu thêm 5 công nhân nữa thì một tháng làm được bao nhiêu sản phẩm?",
+    "options": ["600 sản phẩm", "100 sản phẩm", "500 sản phẩm", "750 sản phẩm"],
+    "correctAnswer": "600 sản phẩm"
+  },
+  {
+    "question": "Dãy số liệu về số lỗi chính tả trong 5 bài văn: 3, 0, 2, 1, 4. Bài nào không có lỗi chính tả?",
+    "options": ["Bài có 0 lỗi", "Bài có 1 lỗi", "Bài có 2 lỗi", "Bài có 3 lỗi"],
+    "correctAnswer": "Bài có 0 lỗi"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy doanh thu 4 quý (triệu đồng): Q1(200), Q2(250), Q3(220), Q4(300). Tổng doanh thu cả năm là:",
+    "options": ["970 triệu đồng", "870 triệu đồng", "900 triệu đồng", "1000 triệu đồng"],
+    "correctAnswer": "970 triệu đồng"
+  },
+  {
+    "question": "Một vòng quay có 10 ô, đánh số từ 1 đến 10. Quay một lần, khả năng mũi tên chỉ vào số chẵn và số lẻ là:",
+    "options": ["Như nhau", "Chỉ vào số chẵn cao hơn", "Chỉ vào số lẻ cao hơn", "Không xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Phân số 125/1000 được rút gọn thành:",
+    "options": ["1/8", "1/4", "1/5", "1/10"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "question": "Quy đồng mẫu số 2/9 và 5/12. Mẫu số chung nhỏ nhất là:",
+    "options": ["36", "108", "18", "27"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "So sánh 4/3 và 5/4.",
+    "options": ["4/3 > 5/4", "4/3 < 5/4", "4/3 = 5/4", "Không so sánh được"],
+    "correctAnswer": "4/3 > 5/4"
+  },
+  {
+    "question": "Tính: 1/6 + 3/4",
+    "options": ["11/12", "4/10", "1", "1/2"],
+    "correctAnswer": "11/12"
+  },
+  {
+    "question": "Tính: 5/2 - 5/3",
+    "options": ["5/6", "0", "1", "10/5"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Tính: 7/8 x 4/7",
+    "options": ["28/56 (hoặc 1/2)", "1", "11/15", "1/2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tính: 9/10 : 3/2",
+    "options": ["18/30 (hoặc 3/5)", "27/20", "1", "3/5"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Một số biết 3/2 của nó bằng 15. Số đó là:",
+    "options": ["10", "45/2", "30", "5"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một khu vườn hình chữ nhật có diện tích 200 m², chiều rộng 10m. Người ta dùng 2/5 diện tích khu vườn để trồng cây ăn quả. Diện tích trồng cây ăn quả là:",
+    "options": ["80 m²", "100 m²", "40 m²", "120 m²"],
+    "correctAnswer": "80 m²"
+  }
+]
+
