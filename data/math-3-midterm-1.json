@@ -1,0 +1,578 @@
+[
+  {
+    "question": "Số 'Sáu trăm linh năm' được viết là:",
+    "options": ["605", "650", "65", "506"],
+    "correctAnswer": "605"
+  },
+  {
+    "question": "Số liền sau của 899 là:",
+    "options": ["900", "898", "901", "890"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Kết quả của phép tính 452 + 237 là:",
+    "options": ["689", "679", "688", "699"],
+    "correctAnswer": "689"
+  },
+  {
+    "question": "Tìm x, biết: x - 250 = 300.",
+    "options": ["x = 550", "x = 50", "x = 250", "x = 300"],
+    "correctAnswer": "x = 550"
+  },
+  {
+    "question": "Kết quả của phép tính 4 x 8 là:",
+    "options": ["32", "12", "28", "36"],
+    "correctAnswer": "32"
+  },
+  {
+    "question": "Kết quả của phép tính 45 : 5 là:",
+    "options": ["9", "8", "7", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Chu vi của hình vuông có cạnh 6 cm là:",
+    "options": ["24 cm", "36 cm", "12 cm", "30 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Kết quả của phép tính 6 x 8 là:",
+    "options": ["48", "14", "42", "54"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Kết quả của phép tính 49 : 7 là:",
+    "options": ["7", "8", "6", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tìm y, biết: y : 8 = 5.",
+    "options": ["y = 40", "y = 3", "y = 13", "y = 8"],
+    "correctAnswer": "y = 40"
+  },
+  {
+    "question": "Một phần tư (1/4) của 28 là:",
+    "options": ["7", "4", "24", "32"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "M là trung điểm của đoạn thẳng AB dài 16 cm. Độ dài đoạn thẳng AM là:",
+    "options": ["8 cm", "16 cm", "32 cm", "4 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình tròn có bán kính 5 cm. Đường kính của hình tròn đó là:",
+    "options": ["10 cm", "5 cm", "15 cm", "2.5 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 9 giờ là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Khối lập phương có mấy mặt? Các mặt là hình gì?",
+    "options": ["6 mặt, là hình vuông", "8 mặt, là hình vuông", "6 mặt, là hình chữ nhật", "12 mặt, là hình vuông"],
+    "correctAnswer": "6 mặt, là hình vuông"
+  },
+  {
+    "question": "Kết quả của phép tính 24 x 3 là:",
+    "options": ["72", "62", "74", "69"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Gấp 15 lên 4 lần ta được:",
+    "options": ["60", "19", "11", "50"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Phép chia 23 : 4 có số dư là:",
+    "options": ["3", "1", "2", "0"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Kết quả của phép tính 84 : 6 là:",
+    "options": ["14", "13", "15", "12"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Giảm 45 đi 9 lần ta được:",
+    "options": ["5", "36", "54", "9"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một cửa hàng có 5 thùng sữa, mỗi thùng có 12 hộp. Cửa hàng đã bán 20 hộp. Hỏi còn lại bao nhiêu hộp sữa?",
+    "options": ["40 hộp", "60 hộp", "50 hộp", "30 hộp"],
+    "correctAnswer": "40 hộp"
+  },
+  {
+    "question": "1 cm bằng bao nhiêu mm?",
+    "options": ["10 mm", "100 mm", "1 mm", "1000 mm"],
+    "correctAnswer": "10 mm"
+  },
+  {
+    "question": "1 kg bằng bao nhiêu gam?",
+    "options": ["1000 g", "100 g", "10 g", "1 g"],
+    "correctAnswer": "1000 g"
+  },
+  {
+    "question": "1 lít bằng bao nhiêu mi-li-lít?",
+    "options": ["1000 ml", "100 ml", "10 ml", "1 ml"],
+    "correctAnswer": "1000 ml"
+  },
+  {
+    "question": "Nước sôi ở nhiệt độ bao nhiêu độ C?",
+    "options": ["100°C", "0°C", "37°C", "50°C"],
+    "correctAnswer": "100°C"
+  },
+  {
+    "question": "Kết quả của phép tính 125 x 4 là:",
+    "options": ["500", "400", "480", "520"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Kết quả của phép tính 648 : 6 là:",
+    "options": ["108", "18", "106", "180"],
+    "correctAnswer": "108"
+  },
+  {
+    "question": "Giá trị của biểu thức 100 - 25 x 3 là:",
+    "options": ["25", "75", "225", "100"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Sợi dây thứ nhất dài 36m. Sợi dây thứ hai dài 9m. Sợi dây thứ nhất dài gấp mấy lần sợi dây thứ hai?",
+    "options": ["4 lần", "27 lần", "45 lần", "3 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Số liền trước của 1000 là:",
+    "options": ["999", "1001", "990", "900"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Tìm y, biết: 600 - y = 250.",
+    "options": ["y = 350", "y = 850", "y = 450", "y = 250"],
+    "correctAnswer": "y = 350"
+  },
+  {
+    "question": "5 x 7 = ?",
+    "options": ["35", "12", "30", "40"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "24 : 4 = ?",
+    "options": ["6", "5", "7", "20"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Chu vi hình chữ nhật có chiều dài 12cm và chiều rộng 8cm là:",
+    "options": ["40 cm", "20 cm", "96 cm", "4 cm"],
+    "correctAnswer": "40 cm"
+  },
+  {
+    "question": "7 x 9 = ?",
+    "options": ["63", "16", "56", "70"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "56 : 8 = ?",
+    "options": ["7", "6", "8", "48"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Một phần năm (1/5) của 45 là:",
+    "options": ["9", "5", "40", "50"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một hình tròn có đường kính 12 cm. Bán kính của nó là:",
+    "options": ["6 cm", "12 cm", "24 cm", "4 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Góc tù là góc...",
+    "options": ["Lớn hơn góc vuông", "Bé hơn góc vuông", "Bằng góc vuông", "Bằng góc bẹt"],
+    "correctAnswer": "Lớn hơn góc vuông"
+  },
+  {
+    "question": "Khối hộp chữ nhật có bao nhiêu cạnh?",
+    "options": ["12", "8", "6", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tính: 32 x 3",
+    "options": ["96", "93", "69", "66"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Giảm 48 đi 8 lần ta được:",
+    "options": ["6", "40", "56", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Có 3 túi kẹo, mỗi túi có 15 cái. Chia đều số kẹo đó cho 5 bạn. Mỗi bạn được bao nhiêu cái kẹo?",
+    "options": ["9 cái", "45 cái", "10 cái", "5 cái"],
+    "correctAnswer": "9 cái"
+  },
+  {
+    "question": "4 cm 5 mm = ... mm",
+    "options": ["45", "405", "9", "450"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "2 kg 200 g = ... g",
+    "options": ["2200", "2020", "220", "2002"],
+    "correctAnswer": "2200"
+  },
+  {
+    "question": "Nhiệt độ của nước đá đang tan là:",
+    "options": ["0°C", "100°C", "10°C", "-1°C"],
+    "correctAnswer": "0°C"
+  },
+  {
+    "question": "Tính: 109 x 7",
+    "options": ["763", "709", "767", "773"],
+    "correctAnswer": "763"
+  },
+  {
+    "question": "Tính: 847 : 7",
+    "options": ["121", "120", "112", "122"],
+    "correctAnswer": "121"
+  },
+  {
+    "question": "Giá trị của biểu thức 12 + 8 x 5 là:",
+    "options": ["52", "100", "25", "48"],
+    "correctAnswer": "52"
+  },
+  {
+    "question": "An cao 120cm. Bố cao 180cm. Bố cao hơn An bao nhiêu cm?",
+    "options": ["60 cm", "300 cm", "1.5 cm", "6 cm"],
+    "correctAnswer": "60 cm"
+  },
+  {
+    "question": "Số bé nhất có 3 chữ số là:",
+    "options": ["100", "101", "111", "999"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Tìm x, biết: 45 + x = 100",
+    "options": ["x = 55", "x = 145", "x = 45", "x = 100"],
+    "correctAnswer": "x = 55"
+  },
+  {
+    "question": "3 x 8 = ?",
+    "options": ["24", "11", "5", "27"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "36 : 4 = ?",
+    "options": ["9", "8", "7", "32"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một hình tam giác có 3 cạnh bằng nhau, mỗi cạnh dài 8cm. Chu vi hình tam giác đó là:",
+    "options": ["24 cm", "11 cm", "5 cm", "30 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "8 x 8 = ?",
+    "options": ["64", "16", "56", "72"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "63 : 9 = ?",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "1/6 của 42 là:",
+    "options": ["7", "6", "36", "48"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "O là trung điểm của MN. Biết MN = 20 dm. Độ dài ON là:",
+    "options": ["10 dm", "20 dm", "40 dm", "5 dm"],
+    "correctAnswer": "10 dm"
+  },
+  {
+    "question": "Hình chữ nhật có mấy cặp cạnh đối diện song song?",
+    "options": ["2 cặp", "1 cặp", "4 cặp", "Không có"],
+    "correctAnswer": "2 cặp"
+  },
+  {
+    "question": "Vật nào có dạng khối cầu?",
+    "options": ["Quả đất", "Hộp phấn", "Viên gạch", "Cái bàn"],
+    "correctAnswer": "Quả đất"
+  },
+  {
+    "question": "Tính: 17 x 5",
+    "options": ["85", "75", "22", "12"],
+    "correctAnswer": "85"
+  },
+  {
+    "question": "Gấp 25 lên 3 lần ta được:",
+    "options": ["75", "28", "22", "65"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Phép chia 50 : 7 có số dư là:",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 96 : 4",
+    "options": ["24", "23", "25", "26"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Giảm 80 đi 4 lần ta được:",
+    "options": ["20", "76", "84", "10"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Một vườn cây có 45 cây, trong đó 1/3 là cây cam, còn lại là cây bưởi. Hỏi có bao nhiêu cây bưởi?",
+    "options": ["30 cây", "15 cây", "42 cây", "20 cây"],
+    "correctAnswer": "30 cây"
+  },
+  {
+    "question": "30 mm = ... cm",
+    "options": ["3", "300", "0.3", "30"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "500g + 500g = ... kg",
+    "options": ["1", "10", "100", "1000"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Nhiệt độ nào lạnh hơn: -2°C hay 2°C?",
+    "options": ["-2°C", "2°C", "Bằng nhau", "Không xác định"],
+    "correctAnswer": "-2°C"
+  },
+  {
+    "question": "Tính: 205 x 4",
+    "options": ["820", "802", "824", "840"],
+    "correctAnswer": "820"
+  },
+  {
+    "question": "Tính: 777 : 7",
+    "options": ["111", "110", "101", "117"],
+    "correctAnswer": "111"
+  },
+  {
+    "question": "Giá trị của biểu thức 60 : 6 + 40 là:",
+    "options": ["50", "10", "6", "100"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Can to có 20 lít, can bé có 5 lít. Can to chứa gấp mấy lần can bé?",
+    "options": ["4 lần", "15 lần", "25 lần", "3 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Số 999 là số liền sau của số nào?",
+    "options": ["998", "1000", "990", "900"],
+    "correctAnswer": "998"
+  },
+  {
+    "question": "Tìm y, biết: y + 111 = 999",
+    "options": ["y = 888", "y = 1110", "y = 999", "y = 111"],
+    "correctAnswer": "y = 888"
+  },
+  {
+    "question": "2 x 9 = ?",
+    "options": ["18", "11", "7", "20"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "40 : 4 = ?",
+    "options": ["10", "44", "36", "4"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một hình tứ giác có 4 cạnh bằng nhau, 4 góc không vuông là hình gì?",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Hình bình hành"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "9 x 8 = ?",
+    "options": ["72", "17", "81", "63"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "54 : 6 = ?",
+    "options": ["9", "8", "7", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "1/8 của 64 là:",
+    "options": ["8", "9", "56", "72"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một hình tròn tâm O có bán kính OA. Đoạn thẳng đi qua O và cắt đường tròn tại hai điểm M, N được gọi là gì?",
+    "options": ["Đường kính", "Bán kính", "Dây cung", "Tiếp tuyến"],
+    "correctAnswer": "Đường kính"
+  },
+  {
+    "question": "Hình tam giác có 3 góc nhọn là tam giác gì?",
+    "options": ["Tam giác nhọn", "Tam giác vuông", "Tam giác tù", "Tam giác cân"],
+    "correctAnswer": "Tam giác nhọn"
+  },
+  {
+    "question": "Hộp phấn viết bảng có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Tính: 45 x 2",
+    "options": ["90", "80", "47", "43"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Giảm 64 đi 8 lần ta được:",
+    "options": ["8", "56", "72", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Có 20 bông hoa cắm vào các lọ, mỗi lọ 5 bông. Sau đó lấy đi 2 lọ. Hỏi còn lại mấy lọ hoa?",
+    "options": ["2 lọ", "4 lọ", "10 bông", "3 lọ"],
+    "correctAnswer": "2 lọ"
+  },
+  {
+    "question": "2 lít 50 ml = ... ml",
+    "options": ["2050", "250", "2005", "2500"],
+    "correctAnswer": "2050"
+  },
+  {
+    "question": "Nhiệt độ của một cốc nước đá là:",
+    "options": ["Khoảng 0°C", "Khoảng 100°C", "Khoảng 37°C", "Khoảng 50°C"],
+    "correctAnswer": "Khoảng 0°C"
+  },
+  {
+    "question": "Tính: 151 x 6",
+    "options": ["906", "900", "606", "916"],
+    "correctAnswer": "906"
+  },
+  {
+    "question": "Tính: 842 : 2",
+    "options": ["421", "420", "412", "422"],
+    "correctAnswer": "421"
+  },
+  {
+    "question": "Giá trị của biểu thức (100 - 28) : 8 là:",
+    "options": ["9", "72", "8", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Bao ngô nặng 25kg. Bao gạo nặng 75kg. Bao gạo nặng gấp mấy lần bao ngô?",
+    "options": ["3 lần", "50 lần", "100 lần", "2 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Số lớn nhất có ba chữ số khác nhau là:",
+    "options": ["987", "999", "102", "998"],
+    "correctAnswer": "987"
+  },
+  {
+    "question": "Tìm x, biết: x : 7 = 9.",
+    "options": ["x = 63", "x = 2", "x = 16", "x = 7"],
+    "correctAnswer": "x = 63"
+  },
+  {
+    "question": "4 x 9 = ?",
+    "options": ["36", "13", "32", "40"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "18 : 3 = ?",
+    "options": ["6", "5", "7", "15"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Chu vi hình chữ nhật có chiều dài 20cm, chiều rộng 15cm là:",
+    "options": ["70 cm", "35 cm", "300 cm", "5 cm"],
+    "correctAnswer": "70 cm"
+  },
+  {
+    "question": "9 x 9 = ?",
+    "options": ["81", "18", "72", "90"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "48 : 6 = ?",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "1/9 của 90 là:",
+    "options": ["10", "9", "81", "99"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một hình tròn có bán kính 1dm. Đường kính của nó là:",
+    "options": ["20 cm", "10 cm", "2 cm", "1 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "Hình vuông có mấy góc vuông?",
+    "options": ["4", "2", "3", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Khối lập phương có bao nhiêu cạnh bằng nhau?",
+    "options": ["12", "6", "8", "4"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Tính: 49 x 2",
+    "options": ["98", "88", "96", "86"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Giảm 99 đi 3 lần ta được:",
+    "options": ["33", "96", "102", "30"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Mẹ mua 10 quả trứng, mẹ dùng 4 quả để rán. Sau đó mẹ mua thêm 6 quả nữa. Hỏi lúc này mẹ có bao nhiêu quả trứng?",
+    "options": ["12 quả", "6 quả", "16 quả", "10 quả"],
+    "correctAnswer": "12 quả"
+  },
+  {
+    "question": "5m 5cm = ... cm",
+    "options": ["505", "55", "550", "5005"],
+    "correctAnswer": "505"
+  },
+  {
+    "question": "3kg 3g = ... g",
+    "options": ["3003", "33", "303", "330"],
+    "correctAnswer": "3003"
+  },
+  {
+    "question": "Nhiệt độ của một ngày mùa hè ở sa mạc có thể lên tới:",
+    "options": ["50°C", "30°C", "20°C", "10°C"],
+    "correctAnswer": "50°C"
+  },
+  {
+    "question": "Tính: 222 x 4",
+    "options": ["888", "884", "848", "488"],
+    "correctAnswer": "888"
+  },
+  {
+    "question": "Tính: 906 : 3",
+    "options": ["302", "32", "301", "320"],
+    "correctAnswer": "302"
+  },
+  {
+    "question": "Giá trị của biểu thức 15 x 6 : 9 là:",
+    "options": ["10", "90", "15", "9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Băng giấy xanh dài 81cm. Băng giấy đỏ dài 9cm. Băng giấy xanh dài gấp mấy lần băng giấy đỏ?",
+    "options": ["9 lần", "72 lần", "90 lần", "8 lần"],
+    "correctAnswer": "9 lần"
+  }
+]
+
