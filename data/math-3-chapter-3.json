@@ -1,0 +1,463 @@
+[
+  {
+    "question": "Cho 3 điểm A, B, C thẳng hàng. Nếu B nằm giữa A và C, ta nói B là ... của đoạn thẳng AC.",
+    "options": ["Điểm ở giữa", "Trung điểm", "Điểm đầu", "Điểm cuối"],
+    "correctAnswer": "Điểm ở giữa"
+  },
+  {
+    "question": "M là trung điểm của đoạn thẳng PQ. Biết đoạn thẳng PQ dài 10 cm. Đoạn thẳng PM dài bao nhiêu?",
+    "options": ["5 cm", "10 cm", "20 cm", "2 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Để một điểm I là trung điểm của đoạn thẳng MN, điều kiện cần là gì?",
+    "options": ["I nằm giữa M, N và IM = IN", "I nằm giữa M, N", "IM = IN", "I gần M hơn N"],
+    "correctAnswer": "I nằm giữa M, N và IM = IN"
+  },
+  {
+    "question": "Tâm của hình tròn là điểm...",
+    "options": ["Cách đều tất cả các điểm trên đường tròn", "Nằm trên đường tròn", "Nằm ngoài đường tròn", "Bất kỳ điểm nào trong hình tròn"],
+    "correctAnswer": "Cách đều tất cả các điểm trên đường tròn"
+  },
+  {
+    "question": "Đoạn thẳng nối từ tâm đến một điểm trên đường tròn được gọi là gì?",
+    "options": ["Bán kính", "Đường kính", "Dây cung", "Tiếp tuyến"],
+    "correctAnswer": "Bán kính"
+  },
+  {
+    "question": "Đường kính của một hình tròn thì gấp mấy lần bán kính?",
+    "options": ["2 lần", "3 lần", "1 lần", "4 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Một hình tròn có bán kính 4 cm. Đường kính của hình tròn đó là:",
+    "options": ["8 cm", "4 cm", "12 cm", "2 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Góc vuông có số đo bằng bao nhiêu độ?",
+    "options": ["90°", "180°", "45°", "0°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Để kiểm tra một góc có phải là góc vuông hay không, ta dùng dụng cụ nào?",
+    "options": ["Ê-ke", "Com-pa", "Thước kẻ", "Thước đo độ"],
+    "correctAnswer": "Ê-ke"
+  },
+  {
+    "question": "Góc bé hơn góc vuông được gọi là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc lớn hơn góc vuông được gọi là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "options": ["3 cạnh", "4 cạnh", "2 cạnh", "5 cạnh"],
+    "correctAnswer": "3 cạnh"
+  },
+  {
+    "question": "Hình tứ giác có mấy đỉnh?",
+    "options": ["4 đỉnh", "3 đỉnh", "5 đỉnh", "6 đỉnh"],
+    "correctAnswer": "4 đỉnh"
+  },
+  {
+    "question": "Hình chữ nhật có mấy góc vuông?",
+    "options": ["4 góc vuông", "2 góc vuông", "1 góc vuông", "Không có góc vuông nào"],
+    "correctAnswer": "4 góc vuông"
+  },
+  {
+    "question": "Hình vuông có đặc điểm gì?",
+    "options": ["4 cạnh bằng nhau và 4 góc vuông", "Chỉ có 4 cạnh bằng nhau", "Chỉ có 4 góc vuông", "Các cạnh đối bằng nhau"],
+    "correctAnswer": "4 cạnh bằng nhau và 4 góc vuông"
+  },
+  {
+    "question": "Dụng cụ nào dùng để vẽ hình tròn?",
+    "options": ["Com-pa", "Ê-ke", "Thước kẻ", "Thước đo độ"],
+    "correctAnswer": "Com-pa"
+  },
+  {
+    "question": "Khối lập phương có mấy mặt?",
+    "options": ["6 mặt", "4 mặt", "8 mặt", "12 mặt"],
+    "correctAnswer": "6 mặt"
+  },
+  {
+    "question": "Các mặt của khối lập phương là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình tam giác", "Hình tròn"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Khối hộp chữ nhật có mấy đỉnh?",
+    "options": ["8 đỉnh", "6 đỉnh", "12 đỉnh", "4 đỉnh"],
+    "correctAnswer": "8 đỉnh"
+  },
+  {
+    "question": "Khối hộp chữ nhật có mấy cạnh?",
+    "options": ["12 cạnh", "8 cạnh", "6 cạnh", "10 cạnh"],
+    "correctAnswer": "12 cạnh"
+  },
+  {
+    "question": "Cho đoạn thẳng AB dài 12 cm. M là trung điểm của AB. Độ dài đoạn AM là:",
+    "options": ["6 cm", "12 cm", "24 cm", "4 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Một hình tròn có đường kính 10 cm. Bán kính của hình tròn đó là:",
+    "options": ["5 cm", "10 cm", "20 cm", "2 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 3 giờ là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Hình chữ nhật có các cạnh đối...",
+    "options": ["Song song và bằng nhau", "Vuông góc", "Chỉ bằng nhau", "Chỉ song song"],
+    "correctAnswer": "Song song và bằng nhau"
+  },
+  {
+    "question": "Một viên gạch men hình vuông có cạnh 20 cm. Chu vi viên gạch đó là:",
+    "options": ["80 cm", "40 cm", "400 cm", "60 cm"],
+    "correctAnswer": "80 cm"
+  },
+  {
+    "question": "Vật nào sau đây có dạng khối lập phương?",
+    "options": ["Con xúc xắc (rubik)", "Hộp sữa", "Quả bóng", "Viên gạch"],
+    "correctAnswer": "Con xúc xắc (rubik)"
+  },
+  {
+    "question": "Vật nào sau đây có dạng khối hộp chữ nhật?",
+    "options": ["Hộp diêm", "Quả địa cầu", "Cái nón", "Đồng xu"],
+    "correctAnswer": "Hộp diêm"
+  },
+  {
+    "question": "Trong hình tròn, đường kính là đoạn thẳng dài nhất. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "O là trung điểm của đoạn thẳng DE. Biết OD = 7 cm. Độ dài đoạn thẳng DE là:",
+    "options": ["14 cm", "7 cm", "3.5 cm", "21 cm"],
+    "correctAnswer": "14 cm"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 1 giờ là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 5 giờ là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Hình tam giác có 3 cạnh bằng nhau được gọi là tam giác gì?",
+    "options": ["Tam giác đều", "Tam giác vuông", "Tam giác cân", "Tam giác tù"],
+    "correctAnswer": "Tam giác đều"
+  },
+  {
+    "question": "Một hình tứ giác có 4 cạnh bằng nhau có thể là hình gì?",
+    "options": ["Hình thoi hoặc hình vuông", "Chỉ hình vuông", "Chỉ hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Hình thoi hoặc hình vuông"
+  },
+  {
+    "question": "Để vẽ một hình chữ nhật, ta cần mấy góc vuông?",
+    "options": ["4 góc vuông", "1 góc vuông", "2 góc vuông", "Không cần góc vuông"],
+    "correctAnswer": "4 góc vuông"
+  },
+  {
+    "question": "Khối lập phương có bao nhiêu đỉnh?",
+    "options": ["8 đỉnh", "6 đỉnh", "12 đỉnh", "10 đỉnh"],
+    "correctAnswer": "8 đỉnh"
+  },
+  {
+    "question": "Khối hộp chữ nhật có các mặt là hình gì?",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình tam giác", "Hình tròn"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Cho 3 điểm M, N, P không thẳng hàng. Nối 3 điểm đó lại ta được hình gì?",
+    "options": ["Hình tam giác", "Đoạn thẳng", "Đường thẳng", "Hình tứ giác"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Bán kính của một hình tròn là 6 cm. Đường kính của hình tròn đó là:",
+    "options": ["12 cm", "6 cm", "18 cm", "3 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Góc ở góc quyển vở là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Chu vi hình chữ nhật có chiều dài 8cm, chiều rộng 5cm là:",
+    "options": ["26 cm", "13 cm", "40 cm", "3 cm"],
+    "correctAnswer": "26 cm"
+  },
+  {
+    "question": "Tất cả các bán kính của một hình tròn thì...",
+    "options": ["Bằng nhau", "Không bằng nhau", "Gấp đôi nhau", "Luôn vuông góc"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "I là trung điểm của đoạn thẳng HK. Câu nào sau đây sai?",
+    "options": ["HI > IK", "H, I, K thẳng hàng", "HI = IK", "I là điểm ở giữa H và K"],
+    "correctAnswer": "HI > IK"
+  },
+  {
+    "question": "Góc tạo bởi hai cạnh của một cái kéo đang mở hé là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Hình vuông có phải là một hình chữ nhật đặc biệt không?",
+    "options": ["Có", "Không", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một khối rubik có dạng hình gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Các cạnh của khối lập phương có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ các cạnh đối bằng nhau", "Chỉ các cạnh đáy bằng nhau"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Cho đoạn thẳng CD = 20 cm. Điểm M nằm trên đoạn CD sao cho CM = 10 cm. M có phải là trung điểm của CD không?",
+    "options": ["Có", "Không", "Không thể xác định", "M là điểm ở giữa"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Đường kính đi qua đâu của hình tròn?",
+    "options": ["Tâm", "Điểm bất kỳ trên đường tròn", "Bên ngoài hình tròn", "Không đi qua điểm nào"],
+    "correctAnswer": "Tâm"
+  },
+  {
+    "question": "Trong một hình tam giác, có thể có 2 góc vuông không?",
+    "options": ["Không", "Có", "Chỉ trong tam giác đều", "Chỉ trong tam giác cân"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Một hình tứ giác có 4 góc vuông là hình gì?",
+    "options": ["Hình chữ nhật hoặc hình vuông", "Chỉ hình vuông", "Chỉ hình chữ nhật", "Hình thoi"],
+    "correctAnswer": "Hình chữ nhật hoặc hình vuông"
+  },
+  {
+    "question": "Khi vẽ đường tròn bằng com-pa, đầu có kim nhọn đặt ở đâu?",
+    "options": ["Tâm của đường tròn", "Một điểm trên đường tròn", "Bên ngoài đường tròn", "Đâu cũng được"],
+    "correctAnswer": "Tâm của đường tròn"
+  },
+  {
+    "question": "Một viên gạch có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối trụ", "Khối cầu"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Quả bóng đá có dạng khối gì?",
+    "options": ["Khối cầu", "Khối tròn", "Hình tròn", "Khối lập phương"],
+    "correctAnswer": "Khối cầu"
+  },
+  {
+    "question": "A, B, C là 3 đỉnh của một...",
+    "options": ["Hình tam giác", "Hình tứ giác", "Đoạn thẳng", "Đường thẳng"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Đường kính 14dm thì bán kính là bao nhiêu?",
+    "options": ["7 dm", "14 dm", "28 dm", "12 dm"],
+    "correctAnswer": "7 dm"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 6 giờ là góc gì?",
+    "options": ["Góc bẹt", "Góc vuông", "Góc tù", "Góc nhọn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Chu vi hình vuông có cạnh 9m là:",
+    "options": ["36 m", "81 m", "18 m", "27 m"],
+    "correctAnswer": "36 m"
+  },
+  {
+    "question": "Khối hộp chữ nhật có bao nhiêu cặp mặt đối diện bằng nhau?",
+    "options": ["3 cặp", "2 cặp", "1 cặp", "6 cặp"],
+    "correctAnswer": "3 cặp"
+  },
+  {
+    "question": "Cho đoạn thẳng MN = 18cm. I là trung điểm của MN. K là trung điểm của MI. Đoạn KI dài bao nhiêu?",
+    "options": ["4.5 cm", "9 cm", "3 cm", "6 cm"],
+    "correctAnswer": "4.5 cm"
+  },
+  {
+    "question": "Để vẽ đường tròn có đường kính 10cm, ta phải mở com-pa có khoảng cách giữa hai đầu là bao nhiêu?",
+    "options": ["5 cm", "10 cm", "20 cm", "2.5 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Hình tam giác có một góc vuông được gọi là tam giác gì?",
+    "options": ["Tam giác vuông", "Tam giác đều", "Tam giác cân", "Tam giác nhọn"],
+    "correctAnswer": "Tam giác vuông"
+  },
+  {
+    "question": "Hình chữ nhật có chiều dài 10cm, chiều rộng 6cm. Chu vi của nó là:",
+    "options": ["32 cm", "16 cm", "60 cm", "4 cm"],
+    "correctAnswer": "32 cm"
+  },
+  {
+    "question": "Lon sữa bò có dạng khối gì?",
+    "options": ["Khối trụ", "Khối cầu", "Khối hộp chữ nhật", "Khối lập phương"],
+    "correctAnswer": "Khối trụ"
+  },
+  {
+    "question": "Tất cả các cạnh của khối hộp chữ nhật đều bằng nhau. Đúng hay sai?",
+    "options": ["Sai", "Đúng", "Chỉ đúng khi nó là khối lập phương", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Trong đoạn thẳng AB, có bao nhiêu trung điểm?",
+    "options": ["1", "2", "Vô số", "Không có"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Trong một hình tròn, có bao nhiêu bán kính?",
+    "options": ["Vô số", "1", "2", "4"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Trong một hình tròn, có bao nhiêu đường kính?",
+    "options": ["Vô số", "1", "2", "4"],
+    "correctAnswer": "Vô số"
+  },
+  {
+    "question": "Góc ở đỉnh của một cái thước ê-ke thường là góc gì?",
+    "options": ["Góc vuông và góc nhọn", "Chỉ góc vuông", "Chỉ góc nhọn", "Góc tù"],
+    "correctAnswer": "Góc vuông và góc nhọn"
+  },
+  {
+    "question": "Một hình tứ giác có 4 cạnh là 5cm, 6cm, 7cm, 8cm. Chu vi của nó là:",
+    "options": ["26 cm", "20 cm", "30 cm", "24 cm"],
+    "correctAnswer": "26 cm"
+  },
+  {
+    "question": "Mặt bàn học thường có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình tròn", "Hình tam giác"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Khối lập phương có 6 mặt, 8 đỉnh và ... cạnh.",
+    "options": ["12", "6", "8", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Cho đoạn thẳng XY. Lấy điểm O sao cho XO = OY. O có phải là trung điểm của XY không?",
+    "options": ["Chưa chắc, cần thêm điều kiện X, O, Y thẳng hàng", "Chắc chắn là trung điểm", "Không phải trung điểm", "O là điểm ở giữa"],
+    "correctAnswer": "Chưa chắc, cần thêm điều kiện X, O, Y thẳng hàng"
+  },
+  {
+    "question": "Bán kính là 3m. Đường kính là:",
+    "options": ["6 m", "3 m", "9 m", "1.5 m"],
+    "correctAnswer": "6 m"
+  },
+  {
+    "question": "Góc tạo bởi hai trang sách đang mở thẳng là góc gì?",
+    "options": ["Góc bẹt", "Góc vuông", "Góc tù", "Góc nhọn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Hình nào có 2 cặp cạnh đối diện song song và bằng nhau?",
+    "options": ["Hình chữ nhật, hình vuông", "Chỉ hình chữ nhật", "Chỉ hình vuông", "Hình tam giác"],
+    "correctAnswer": "Hình chữ nhật, hình vuông"
+  },
+  {
+    "question": "Để vẽ một hình vuông, ta có thể dùng những dụng cụ nào?",
+    "options": ["Ê-ke và thước kẻ", "Chỉ com-pa", "Chỉ thước kẻ", "Chỉ ê-ke"],
+    "correctAnswer": "Ê-ke và thước kẻ"
+  },
+  {
+    "question": "Tủ quần áo thường có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Số mặt của khối hộp chữ nhật là:",
+    "options": ["6", "8", "12", "4"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Trung điểm chia một đoạn thẳng thành mấy phần bằng nhau?",
+    "options": ["2 phần", "3 phần", "1 phần", "4 phần"],
+    "correctAnswer": "2 phần"
+  },
+  {
+    "question": "Đường kính của một hình tròn phải đi qua đâu?",
+    "options": ["Tâm", "Điểm bất kỳ", "Bán kính", "Đường tròn"],
+    "correctAnswer": "Tâm"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 9 giờ là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Hình tam giác có 3 góc nhọn được gọi là tam giác gì?",
+    "options": ["Tam giác nhọn", "Tam giác vuông", "Tam giác tù", "Tam giác đều"],
+    "correctAnswer": "Tam giác nhọn"
+  },
+  {
+    "question": "Chu vi hình vuông bằng chu vi hình chữ nhật có chiều dài 6cm, chiều rộng 4cm. Cạnh hình vuông đó là:",
+    "options": ["5 cm", "10 cm", "20 cm", "24 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Một cái hộp bánh có dạng khối hộp chữ nhật. Nó có bao nhiêu cạnh?",
+    "options": ["12 cạnh", "6 cạnh", "8 cạnh", "10 cạnh"],
+    "correctAnswer": "12 cạnh"
+  },
+  {
+    "question": "Mặt của quả bóng bàn là một...",
+    "options": ["Mặt cong", "Mặt phẳng", "Hình tròn", "Khối cầu"],
+    "correctAnswer": "Mặt cong"
+  },
+  {
+    "question": "Trên đoạn thẳng AC, lấy điểm B sao cho AB = 5cm, BC = 5cm. B là gì của AC?",
+    "options": ["Trung điểm", "Điểm ở giữa", "Điểm đầu", "Điểm cuối"],
+    "correctAnswer": "Trung điểm"
+  },
+  {
+    "question": "Một hình tròn tâm O, có đường kính AB = 16cm. Bán kính OM của hình tròn đó dài bao nhiêu?",
+    "options": ["8 cm", "16 cm", "32 cm", "4 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Góc nào là góc không vuông?",
+    "options": ["Góc nhọn và góc tù", "Chỉ góc nhọn", "Chỉ góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn và góc tù"
+  },
+  {
+    "question": "Hình tứ giác ABCD có các cạnh AB, BC, CD, DA. Chu vi của nó được tính bằng công thức nào?",
+    "options": ["AB + BC + CD + DA", "AB x 4", "(AB + BC) x 2", "AB x BC"],
+    "correctAnswer": "AB + BC + CD + DA"
+  },
+  {
+    "question": "Để vẽ trang trí bằng các đường cong tròn, ta dùng dụng cụ gì?",
+    "options": ["Com-pa", "Ê-ke", "Thước kẻ", "Bút chì"],
+    "correctAnswer": "Com-pa"
+  },
+  {
+    "question": "Một viên xúc xắc có 6 mặt, các mặt là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình tròn", "Hình tam giác"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Khối hộp chữ nhật và khối lập phương, khối nào có tất cả các mặt đều là hình vuông?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Cả hai", "Không có khối nào"],
+    "correctAnswer": "Khối lập phương"
+  }
+]
+
