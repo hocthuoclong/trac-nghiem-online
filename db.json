@@ -44,6 +44,10 @@
                 {
                   "name": "Chương 10: Phân số",
                   "file": "./data/math-4-chapter-10.json"
+                },
+                {
+                  "name": "Chương 11: Phép cộng, phép trừ phân số",
+                  "file": "./data/math-4-chapter-11.json"
                 }
               ]
             },
