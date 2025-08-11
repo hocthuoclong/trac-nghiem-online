@@ -16,6 +16,10 @@
                 {
                   "name": "Chương 2: Góc và đơn vị đo góc",
                   "file": "./data/math-4-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Số có nhiều chữ số",
+                  "file": "./data/math-4-chapter-3.json"
                 }
               ]
             }
