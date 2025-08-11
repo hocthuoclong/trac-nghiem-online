@@ -62,6 +62,10 @@
             "midterm-2": {
               "name": "Ôn tập học kỳ 2",
               "file": "./data/math-4-midterm-2.json"
+            },
+            "final": {
+              "name": "Ôn tập cuối năm",
+              "file": "./data/math-4-final.json"
             }
           }
         }
