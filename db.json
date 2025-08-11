@@ -28,6 +28,10 @@
                 {
                   "name": "Chương 5: Phép cộng và phép trừ",
                   "file": "./data/math-4-chapter-5.json"
+                },
+                {
+                  "name": "Chương 6: Đường thẳng vuông góc. Đường thẳng song song",
+                  "file": "./data/math-4-chapter-6.json"
                 }
               ]
             }
