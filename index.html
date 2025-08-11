@@ -4,6 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ứng dụng Ôn tập Trắc nghiệm</title>
+
+    <!-- BƯỚC 3: DÁN MÃ GOOGLE ANALYTICS CỦA BẠN VÀO ĐÂY -->
+    <!-- Google tag (gtag.js) - Bắt đầu -->
+    <!-- Dán mã của bạn ở đây. Nó sẽ trông giống như sau:
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-93QSXDCS1P"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-93QSXDCS1P');
+    </script>
+    -->
+    <!-- Google tag (gtag.js) - Kết thúc -->
+
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,7 +70,6 @@
                     <label for="chapter-select" class="block mb-2 text-sm font-medium text-gray-900">Chọn chương</label>
                     <select id="chapter-select" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"></select>
                 </div>
-                <!-- THÊM Ô NHẬP TÊN -->
                 <div id="name-container">
                     <label for="name-input" class="block mb-2 text-sm font-medium text-gray-900">Tên của bạn (tùy chọn)</label>
                     <input type="text" id="name-input" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Hãy nhập tên để hiển thị trong kết quả">
@@ -107,7 +121,6 @@
         <div id="result-screen" class="card hidden text-center">
             <h2 class="text-3xl font-bold text-gray-800 mb-2">Hoàn thành!</h2>
             <p class="text-lg text-gray-600 mb-2">Đây là kết quả của bạn:</p>
-            <!-- THÊM TÊN VÀ THỜI GIAN BẮT ĐẦU -->
             <p id="user-name-display" class="text-2xl font-bold text-gray-700 mb-1"></p>
             <p id="start-time-display" class="text-xs text-gray-500 mb-6"></p>
 
@@ -122,7 +135,6 @@
                     <p id="time-taken" class="text-4xl font-bold text-blue-600">05:32</p>
                 </div>
             </div>
-            <!-- THÊM LỜI NHẬN XÉT -->
             <p id="result-remark" class="text-xl font-semibold mb-6"></p>
 
             <div class="flex flex-col sm:flex-row gap-4">
@@ -193,7 +205,6 @@
         const confirmSubmitBtn = document.getElementById('confirm-submit-btn');
         const cancelSubmitBtn = document.getElementById('cancel-submit-btn');
         const debugInfoEl = document.getElementById('debug-info');
-        // CÁC ELEMENT MỚI
         const nameInput = document.getElementById('name-input');
         const userNameDisplay = document.getElementById('user-name-display');
         const startTimeDisplay = document.getElementById('start-time-display');
@@ -209,7 +220,7 @@
         let score = 0;
         let timerInterval;
         let startTime;
-        let testStartTimeString = ''; // BIẾN MỚI: Lưu chuỗi thời gian bắt đầu
+        let testStartTimeString = '';
         let lastSelections = {};
 
         // --- Utility Functions ---
@@ -234,6 +245,7 @@
         }
 
         // --- Population Functions ---
+
         async function initializeApp() {
             gradeData = await fetchData('./db-grade.json');
             subjectListData = await fetchData('./db-subject.json');
@@ -303,6 +315,7 @@
         }
 
         // --- Test Logic ---
+
         async function startTest(isRetry = false) {
             let questionFilePath;
             let userName;
@@ -322,14 +335,11 @@
                     questionFilePath = testData?.file;
                 }
                 
-                // Lấy tên người dùng, nếu trống thì mặc định là "Bạn"
                 userName = nameInput.value.trim() || 'Bạn';
                 
-                // Lấy và định dạng thời gian bắt đầu
                 const now = new Date();
                 testStartTimeString = `${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')} - Ngày ${now.getDate()}/${now.getMonth() + 1}/${now.getFullYear()}`;
 
-                // Lưu các lựa chọn để làm lại
                 lastSelections = { 
                     filePath: questionFilePath,
                     userName: userName,
@@ -448,7 +458,6 @@
             clearInterval(timerInterval);
             const timeTaken = timerEl.textContent;
             
-            // TÍNH TOÁN VÀ HIỂN THỊ CÁC THÔNG TIN MỚI
             const percentage = (score / currentQuestions.length) * 100;
             let remark = '';
             let remarkColorClass = '';
@@ -472,7 +481,7 @@
             scoreEl.textContent = `${score}/${currentQuestions.length}`;
             timeTakenEl.textContent = timeTaken;
             resultRemark.textContent = remark;
-            resultRemark.className = `text-xl font-semibold mb-6 ${remarkColorClass}`; // Gán class màu
+            resultRemark.className = `text-xl font-semibold mb-6 ${remarkColorClass}`;
 
             testScreen.classList.add('hidden');
             resultScreen.classList.remove('hidden');
