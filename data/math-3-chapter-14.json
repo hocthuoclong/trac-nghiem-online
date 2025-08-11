@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Kết quả của phép tính 12 123 x 3 là:",
+    "options": ["36 369", "36 366", "36 396", "36 363"],
+    "correctAnswer": "36 369"
+  },
+  {
+    "question": "Đặt tính rồi tính: 21 012 x 4",
+    "options": ["84 048", "84 046", "84 480", "84 084"],
+    "correctAnswer": "84 048"
+  },
+  {
+    "question": "Kết quả của phép tính 48 264 : 2 là:",
+    "options": ["24 132", "24 130", "23 132", "24 123"],
+    "correctAnswer": "24 132"
+  },
+  {
+    "question": "Đặt tính rồi tính: 93 639 : 3",
+    "options": ["31 213", "31 212", "32 131", "31 231"],
+    "correctAnswer": "31 213"
+  },
+  {
+    "question": "Tính: 10 200 x 5",
+    "options": ["51 000", "50 100", "5100", "50 000"],
+    "correctAnswer": "51 000"
+  },
+  {
+    "question": "Tính: 64 000 : 8",
+    "options": ["8 000", "800", "80 000", "80"],
+    "correctAnswer": "8 000"
+  },
+  {
+    "question": "Một sân vận động có 15 000 chỗ ngồi. Nếu có 3 trận đấu diễn ra và tất cả các vé đều được bán hết, tổng số vé bán ra là bao nhiêu?",
+    "options": ["45 000 vé", "35 000 vé", "18 000 vé", "40 000 vé"],
+    "correctAnswer": "45 000 vé"
+  },
+  {
+    "question": "Một công ty sản xuất được 25 500 sản phẩm và đóng đều vào 5 container. Mỗi container chứa bao nhiêu sản phẩm?",
+    "options": ["5 100 sản phẩm", "5 010 sản phẩm", "5 001 sản phẩm", "5 110 sản phẩm"],
+    "correctAnswer": "5 100 sản phẩm"
+  },
+  {
+    "question": "Kết quả của phép tính 11 111 x 9 là:",
+    "options": ["99 999", "99 990", "90 999", "99 099"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "Kết quả của phép tính 84 000 : 7 là:",
+    "options": ["12 000", "1 200", "120 000", "120"],
+    "correctAnswer": "12 000"
+  },
+  {
+    "question": "Tìm x, biết: x : 4 = 10 200",
+    "options": ["x = 40 800", "x = 2 550", "x = 10 204", "x = 10 196"],
+    "correctAnswer": "x = 40 800"
+  },
+  {
+    "question": "Tìm y, biết: y x 6 = 60 120",
+    "options": ["y = 10 020", "y = 60 126", "y = 60 114", "y = 10 002"],
+    "correctAnswer": "y = 10 020"
+  },
+  {
+    "question": "Một người đi bộ 5 ngày, mỗi ngày đi được 12 000 bước. Hỏi trong 5 ngày người đó đi được bao nhiêu bước?",
+    "options": ["60 000 bước", "50 000 bước", "17 000 bước", "7 000 bước"],
+    "correctAnswer": "60 000 bước"
+  },
+  {
+    "question": "Có 36 900 kg gạo chia đều cho 3 kho. Mỗi kho chứa bao nhiêu ki-lô-gam gạo?",
+    "options": ["12 300 kg", "12 100 kg", "13 200 kg", "12 200 kg"],
+    "correctAnswer": "12 300 kg"
+  },
+  {
+    "question": "Tính: 14 000 x 3",
+    "options": ["42 000", "43 000", "32 000", "41 000"],
+    "correctAnswer": "42 000"
+  },
+  {
+    "question": "Tính: 50 000 : 2",
+    "options": ["25 000", "100 000", "49 998", "50 002"],
+    "correctAnswer": "25 000"
+  },
+  {
+    "question": "Một người nông dân thu hoạch được 12 500 kg lúa. Số lúa nếp bằng 1/5 số lúa đó. Hỏi người đó thu hoạch được bao nhiêu kg lúa nếp?",
+    "options": ["2 500 kg", "10 000 kg", "15 000 kg", "2 000 kg"],
+    "correctAnswer": "2 500 kg"
+  },
+  {
+    "question": "Một khu đất hình vuông có chu vi 8000 m. Cạnh của khu đất đó dài bao nhiêu mét?",
+    "options": ["2000 m", "4000 m", "1000 m", "32000 m"],
+    "correctAnswer": "2000 m"
+  },
+  {
+    "question": "Tính: 10 101 x 8",
+    "options": ["80 808", "88 888", "80 800", "80 008"],
+    "correctAnswer": "80 808"
+  },
+  {
+    "question": "Tính: 48 024 : 6",
+    "options": ["8 004", "804", "8 040", "8 400"],
+    "correctAnswer": "8 004"
+  },
+  {
+    "question": "Tìm x, biết: x x 7 = 14 000",
+    "options": ["x = 2 000", "x = 98 000", "x = 14 007", "x = 13 993"],
+    "correctAnswer": "x = 2 000"
+  },
+  {
+    "question": "Tìm y, biết: 45 000 : y = 9",
+    "options": ["y = 5 000", "y = 405 000", "y = 44 991", "y = 500"],
+    "correctAnswer": "y = 5 000"
+  },
+  {
+    "question": "Một chiếc máy bay bay với vận tốc 800 km/giờ. Hỏi trong 3 giờ máy bay bay được bao nhiêu ki-lô-mét?",
+    "options": ["2400 km", "240 km", "803 km", "797 km"],
+    "correctAnswer": "2400 km"
+  },
+  {
+    "question": "Một công ty có 15 000 nhân viên, được chia đều cho 3 chi nhánh. Mỗi chi nhánh có bao nhiêu nhân viên?",
+    "options": ["5 000 nhân viên", "45 000 nhân viên", "12 000 nhân viên", "18 000 nhân viên"],
+    "correctAnswer": "5 000 nhân viên"
+  },
+  {
+    "question": "Tính: 20 000 x 5",
+    "options": ["100 000", "20 005", "19 995", "10 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tính: 100 000 : 5",
+    "options": ["20 000", "500 000", "99 995", "100 005"],
+    "correctAnswer": "20 000"
+  },
+  {
+    "question": "Một quyển sách dày 240 trang. An đã đọc được 1/3 quyển sách. Hỏi An còn phải đọc bao nhiêu trang nữa?",
+    "options": ["160 trang", "80 trang", "237 trang", "243 trang"],
+    "correctAnswer": "160 trang"
+  },
+  {
+    "question": "Một người có 84 000 đồng, mua 7 món quà giống nhau. Giá mỗi món quà là bao nhiêu?",
+    "options": ["12 000 đồng", "1200 đồng", "120 000 đồng", "14 000 đồng"],
+    "correctAnswer": "12 000 đồng"
+  },
+  {
+    "question": "Tính: 13 214 x 2",
+    "options": ["26 428", "26 426", "26 228", "24 628"],
+    "correctAnswer": "26 428"
+  },
+  {
+    "question": "Tính: 66 066 : 6",
+    "options": ["11 011", "11 111", "10 101", "11 001"],
+    "correctAnswer": "11 011"
+  },
+  {
+    "question": "Một người chạy bộ 4 vòng quanh một cái hồ có chu vi 2500m. Hỏi người đó đã chạy bao nhiêu ki-lô-mét?",
+    "options": ["10 km", "10000 km", "1 km", "100 km"],
+    "correctAnswer": "10 km"
+  },
+  {
+    "question": "Một số chia cho 8 được 1200. Số đó là:",
+    "options": ["9600", "150", "1208", "1192"],
+    "correctAnswer": "9600"
+  },
+  {
+    "question": "Tính: 10 000 - 2 000 x 3",
+    "options": ["4 000", "24 000", "8 000", "6 000"],
+    "correctAnswer": "4 000"
+  },
+  {
+    "question": "Tính: (15 000 + 5 000) : 4",
+    "options": ["5 000", "20 000", "16 250", "4 000"],
+    "correctAnswer": "5 000"
+  },
+  {
+    "question": "Một người có 50 000 đồng. Mua 3 kg cam, mỗi kg giá 15 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["5 000 đồng", "45 000 đồng", "35 000 đồng", "10 000 đồng"],
+    "correctAnswer": "5 000 đồng"
+  },
+  {
+    "question": "Một đội công nhân trong 5 ngày làm được 10 500 sản phẩm. Hỏi trung bình mỗi ngày đội đó làm được bao nhiêu sản phẩm?",
+    "options": ["2 100 sản phẩm", "52 500 sản phẩm", "10 505 sản phẩm", "10 495 sản phẩm"],
+    "correctAnswer": "2 100 sản phẩm"
+  },
+  {
+    "question": "Tính: 12 000 + 8 000",
+    "options": ["20 000", "4 000", "10 000", "22 000"],
+    "correctAnswer": "20 000"
+  },
+  {
+    "question": "Tính: 75 000 - 25 000",
+    "options": ["50 000", "100 000", "60 000", "40 000"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Tính: 18 000 x 2",
+    "options": ["36 000", "16 000", "20 000", "30 000"],
+    "correctAnswer": "36 000"
+  },
+  {
+    "question": "Tính: 42 000 : 6",
+    "options": ["7 000", "6 000", "8 000", "700"],
+    "correctAnswer": "7 000"
+  },
+  {
+    "question": "Một người đi xe đạp 3 giờ đi được 36km. Hỏi 2 giờ người đó đi được bao nhiêu mét?",
+    "options": ["24 000 m", "24 km", "12 000 m", "12 km"],
+    "correctAnswer": "24 000 m"
+  },
+  {
+    "question": "Một cửa hàng nhập về 10 000 quyển vở, đã bán 1/5 số đó. Cửa hàng còn lại bao nhiêu quyển vở?",
+    "options": ["8 000 quyển", "2 000 quyển", "9 995 quyển", "9 000 quyển"],
+    "correctAnswer": "8 000 quyển"
+  },
+  {
+    "question": "Tìm x, biết: x - 15 000 = 25 000",
+    "options": ["x = 40 000", "x = 10 000", "x = 30 000", "x = 50 000"],
+    "correctAnswer": "x = 40 000"
+  },
+  {
+    "question": "Tìm y, biết: 4 x y = 16 000",
+    "options": ["y = 4 000", "y = 64 000", "y = 16 004", "y = 15 996"],
+    "correctAnswer": "y = 4 000"
+  },
+  {
+    "question": "Tính: 12 003 x 3",
+    "options": ["36 009", "36 006", "36 090", "36 900"],
+    "correctAnswer": "36 009"
+  },
+  {
+    "question": "Tính: 24 084 : 4",
+    "options": ["6 021", "621", "6 020", "6 210"],
+    "correctAnswer": "6 021"
+  },
+  {
+    "question": "Một người có 60 000 đồng, mua 2 quyển sách giống nhau thì vừa hết tiền. Giá mỗi quyển sách là:",
+    "options": ["30 000 đồng", "120 000 đồng", "59 998 đồng", "60 002 đồng"],
+    "correctAnswer": "30 000 đồng"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 20 000m, chiều rộng 4 000m. Chiều dài là:",
+    "options": ["6 000 m", "10 000 m", "16 000 m", "5 000 m"],
+    "correctAnswer": "6 000 m"
+  },
+  {
+    "question": "Tính: 10 000 + 100 + 1",
+    "options": ["10 101", "111", "10 100", "10 011"],
+    "correctAnswer": "10 101"
+  },
+  {
+    "question": "Tính: 50 000 - 5 000 - 500",
+    "options": ["44 500", "45 000", "45 500", "40 000"],
+    "correctAnswer": "44 500"
+  },
+  {
+    "question": "Tính: 11 000 x 5",
+    "options": ["55 000", "50 000", "55 500", "50 500"],
+    "correctAnswer": "55 000"
+  },
+  {
+    "question": "Tính: 36 000 : 9",
+    "options": ["4 000", "400", "40 000", "40"],
+    "correctAnswer": "4 000"
+  },
+  {
+    "question": "Một đội công nhân có 8 người, mỗi người làm được 120 sản phẩm. Tổng số sản phẩm đội đó làm được là:",
+    "options": ["960 sản phẩm", "128 sản phẩm", "112 sản phẩm", "96 sản phẩm"],
+    "correctAnswer": "960 sản phẩm"
+  },
+  {
+    "question": "Có 12 600 kg xi măng chia đều cho 6 xe tải. Mỗi xe tải chở bao nhiêu kg xi măng?",
+    "options": ["2 100 kg", "2 600 kg", "2 010 kg", "2 110 kg"],
+    "correctAnswer": "2 100 kg"
+  },
+  {
+    "question": "Tìm x, biết: x + 10 200 = 20 400",
+    "options": ["x = 10 200", "x = 30 600", "x = 20 400", "x = 10 000"],
+    "correctAnswer": "x = 10 200"
+  },
+  {
+    "question": "Tìm y, biết: 50 000 - y = 50 000",
+    "options": ["y = 0", "y = 100 000", "y = 50 000", "y = 1"],
+    "correctAnswer": "y = 0"
+  },
+  {
+    "question": "Tìm z, biết: z x 10 = 10 000",
+    "options": ["z = 1 000", "z = 100 000", "z = 10 010", "z = 9 990"],
+    "correctAnswer": "z = 1 000"
+  },
+  {
+    "question": "Tìm a, biết: 24 000 : a = 8",
+    "options": ["a = 3 000", "a = 192 000", "a = 23 992", "a = 300"],
+    "correctAnswer": "a = 3 000"
+  },
+  {
+    "question": "Một người đi làm 8 giờ mỗi ngày. Hỏi 5 ngày người đó làm bao nhiêu giờ?",
+    "options": ["40 giờ", "13 giờ", "3 giờ", "45 giờ"],
+    "correctAnswer": "40 giờ"
+  },
+  {
+    "question": "Một người có 10 000 đồng, mua 2 cái bút, mỗi cái giá 2 000 đồng, và 1 quyển vở giá 5 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["1 000 đồng", "4 000 đồng", "5 000 đồng", "3 000 đồng"],
+    "correctAnswer": "1 000 đồng"
+  },
+  {
+    "question": "Tính: 10 000 + 2 500",
+    "options": ["12 500", "12 000", "13 000", "11 500"],
+    "correctAnswer": "12 500"
+  },
+  {
+    "question": "Tính: 30 000 - 15 000",
+    "options": ["15 000", "45 000", "25 000", "20 000"],
+    "correctAnswer": "15 000"
+  },
+  {
+    "question": "Tính: 12 500 x 2",
+    "options": ["25 000", "24 000", "25 500", "24 500"],
+    "correctAnswer": "25 000"
+  },
+  {
+    "question": "Tính: 48 000 : 4",
+    "options": ["12 000", "1200", "120 000", "14 000"],
+    "correctAnswer": "12 000"
+  },
+  {
+    "question": "Một người đi du lịch 3 ngày, mỗi ngày đi được 15 km. Quãng đường người đó đã đi là:",
+    "options": ["45 000 m", "45 km", "Cả A và B đều đúng", "35 km"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một kho có 10 000 bao xi măng, đã bán 1/2 số đó. Trong kho còn lại bao nhiêu bao?",
+    "options": ["5 000 bao", "20 000 bao", "9 998 bao", "8 000 bao"],
+    "correctAnswer": "5 000 bao"
+  },
+  {
+    "question": "Tìm x, biết: x - 10 000 = 10 000",
+    "options": ["x = 20 000", "x = 0", "x = 10 000", "x = 1"],
+    "correctAnswer": "x = 20 000"
+  },
+  {
+    "question": "Tìm y, biết: 25 000 + y = 75 000",
+    "options": ["y = 50 000", "y = 100 000", "y = 25 000", "y = 75 000"],
+    "correctAnswer": "y = 50 000"
+  },
+  {
+    "question": "Tìm z, biết: z x 9 = 27 000",
+    "options": ["z = 3 000", "z = 243 000", "z = 27 009", "z = 26 991"],
+    "correctAnswer": "z = 3 000"
+  },
+  {
+    "question": "Tìm a, biết: a : 2 = 14 000",
+    "options": ["a = 28 000", "a = 7 000", "a = 14 002", "a = 13 998"],
+    "correctAnswer": "a = 28 000"
+  },
+  {
+    "question": "Một người có 50 000 đồng, mua 5 kg gạo, mỗi kg giá 9 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["5 000 đồng", "45 000 đồng", "10 000 đồng", "0 đồng"],
+    "correctAnswer": "5 000 đồng"
+  },
+  {
+    "question": "Một đội công nhân có 10 người, mỗi người trồng được 150 cây. Hỏi cả đội trồng được bao nhiêu cây?",
+    "options": ["1 500 cây", "15 cây", "160 cây", "140 cây"],
+    "correctAnswer": "1 500 cây"
+  },
+  {
+    "question": "Tính: 12 345 + 5 432",
+    "options": ["17 777", "17 776", "17 787", "16 777"],
+    "correctAnswer": "17 777"
+  },
+  {
+    "question": "Tính: 20 000 - 1234",
+    "options": ["18 766", "18 776", "19 766", "18 866"],
+    "correctAnswer": "18 766"
+  },
+  {
+    "question": "Tính: 10 100 x 9",
+    "options": ["90 900", "90 090", "99 000", "90 009"],
+    "correctAnswer": "90 900"
+  },
+  {
+    "question": "Tính: 12 300 : 3",
+    "options": ["4 100", "410", "4 010", "4 110"],
+    "correctAnswer": "4 100"
+  },
+  {
+    "question": "Một người mua 2 cái quạt, mỗi cái giá 150 000 đồng. Người đó đưa 500 000 đồng. Hỏi được trả lại bao nhiêu?",
+    "options": ["200 000 đồng", "300 000 đồng", "350 000 đồng", "100 000 đồng"],
+    "correctAnswer": "200 000 đồng"
+  },
+  {
+    "question": "Một khu rừng có 12 500 cây thông. Sau một trận bão, 1/5 số cây bị đổ. Hỏi khu rừng còn lại bao nhiêu cây thông?",
+    "options": ["10 000 cây", "2 500 cây", "12 495 cây", "12 000 cây"],
+    "correctAnswer": "10 000 cây"
+  },
+  {
+    "question": "Tính: 10 000 + 20 000 - 5 000",
+    "options": ["25 000", "30 000", "15 000", "35 000"],
+    "correctAnswer": "25 000"
+  },
+  {
+    "question": "Tính: 50 000 - (10 000 + 15 000)",
+    "options": ["25 000", "40 000", "35 000", "75 000"],
+    "correctAnswer": "25 000"
+  },
+  {
+    "question": "Tính: 12 000 x 2 + 6 000",
+    "options": ["30 000", "24 000", "18 000", "36 000"],
+    "correctAnswer": "30 000"
+  },
+  {
+    "question": "Tính: 40 000 : 4 - 2 000",
+    "options": ["8 000", "10 000", "12 000", "6 000"],
+    "correctAnswer": "8 000"
+  },
+  {
+    "question": "Một người có 20 000 đồng, mua 3 quyển vở, mỗi quyển giá 5 000 đồng. Người đó còn lại:",
+    "options": ["5 000 đồng", "15 000 đồng", "17 000 đồng", "10 000 đồng"],
+    "correctAnswer": "5 000 đồng"
+  },
+  {
+    "question": "Một đội xe chở 12 000 kg hàng, chia đều cho 4 xe. Mỗi xe chở bao nhiêu tấn hàng?",
+    "options": ["3 tấn", "3000 tấn", "30 tấn", "300 tấn"],
+    "correctAnswer": "3 tấn"
+  }
+]
+
