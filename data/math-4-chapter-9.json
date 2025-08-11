@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Cho dãy số liệu về chiều cao của 5 bạn (đơn vị cm): 135, 140, 132, 145, 138. Bạn nào cao nhất?",
+    "options": ["Bạn cao 145 cm", "Bạn cao 135 cm", "Bạn cao 132 cm", "Bạn cao 140 cm"],
+    "correctAnswer": "Bạn cao 145 cm"
+  },
+  {
+    "question": "Cho dãy số liệu về cân nặng của 4 bạn (đơn vị kg): 35, 32, 38, 30. Bạn nào nhẹ nhất?",
+    "options": ["Bạn nặng 30 kg", "Bạn nặng 32 kg", "Bạn nặng 35 kg", "Bạn nặng 38 kg"],
+    "correctAnswer": "Bạn nặng 30 kg"
+  },
+  {
+    "question": "Biểu đồ cột thường được dùng để làm gì?",
+    "options": ["So sánh, đối chiếu các số liệu thống kê", "Vẽ hình học", "Giải toán cộng trừ", "Đo góc"],
+    "correctAnswer": "So sánh, đối chiếu các số liệu thống kê"
+  },
+  {
+    "question": "Tung một đồng xu 10 lần, có 6 lần xuất hiện mặt ngửa. Số lần xuất hiện mặt sấp là bao nhiêu?",
+    "options": ["4 lần", "6 lần", "10 lần", "16 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Gieo một con xúc xắc 20 lần. Số lần xuất hiện mặt 5 chấm là 3 lần. Ta nói sự kiện 'xuất hiện mặt 5 chấm' có số lần xuất hiện là:",
+    "options": ["3", "20", "5", "17"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Dãy số liệu thống kê là gì?",
+    "options": ["Một dãy các số liệu được thu thập về một vấn đề nào đó", "Một dãy số tự nhiên", "Một dãy các phép tính", "Một dãy các hình học"],
+    "correctAnswer": "Một dãy các số liệu được thu thập về một vấn đề nào đó"
+  },
+  {
+    "question": "Nhìn vào biểu đồ cột, cột cao nhất thể hiện điều gì?",
+    "options": ["Số liệu lớn nhất", "Số liệu bé nhất", "Số liệu trung bình", "Tổng các số liệu"],
+    "correctAnswer": "Số liệu lớn nhất"
+  },
+  {
+    "question": "Trong một hộp có 5 quả bóng xanh và 3 quả bóng đỏ. Nếu không nhìn vào hộp, sự kiện nào có khả năng xảy ra nhiều hơn?",
+    "options": ["Lấy được bóng xanh", "Lấy được bóng đỏ", "Khả năng như nhau", "Không thể xác định"],
+    "correctAnswer": "Lấy được bóng xanh"
+  },
+  {
+    "question": "Cho dãy số liệu: 2, 5, 3, 2, 4, 2, 5. Số 2 xuất hiện bao nhiêu lần?",
+    "options": ["3 lần", "2 lần", "4 lần", "5 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Một biểu đồ cột cho thấy số học sinh giỏi của các lớp 4A, 4B, 4C lần lượt là 15, 20, 18. Lớp nào có nhiều học sinh giỏi nhất?",
+    "options": ["Lớp 4B", "Lớp 4A", "Lớp 4C", "Cả 3 lớp bằng nhau"],
+    "correctAnswer": "Lớp 4B"
+  },
+  {
+    "question": "Khi gieo một con xúc xắc, có bao nhiêu khả năng có thể xảy ra về số chấm xuất hiện?",
+    "options": ["6 khả năng (từ 1 đến 6 chấm)", "1 khả năng", "2 khả năng", "Vô số khả năng"],
+    "correctAnswer": "6 khả năng (từ 1 đến 6 chấm)"
+  },
+  {
+    "question": "Cho dãy số liệu về số cây trồng được của 4 tổ: 25, 30, 28, 32. Tổ nào trồng được ít cây nhất?",
+    "options": ["Tổ trồng được 25 cây", "Tổ trồng được 30 cây", "Tổ trồng được 28 cây", "Tổ trồng được 32 cây"],
+    "correctAnswer": "Tổ trồng được 25 cây"
+  },
+  {
+    "question": "Biểu đồ cột có các cột cách đều nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Trong một hộp có 10 viên bi cùng kích thước, trong đó có 1 viên bi màu đen, còn lại là bi trắng. Khi lấy ngẫu nhiên 1 viên bi, sự kiện nào khó xảy ra hơn?",
+    "options": ["Lấy được bi đen", "Lấy được bi trắng", "Khả năng như nhau", "Không thể xác định"],
+    "correctAnswer": "Lấy được bi đen"
+  },
+  {
+    "question": "Cho dãy số liệu: 10, 20, 15, 20, 25, 20. Số nào xuất hiện nhiều lần nhất?",
+    "options": ["20", "10", "15", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số con gà của 3 nhà: An (10 con), Bình (15 con), Cường (12 con). Tổng số gà của cả ba nhà là bao nhiêu?",
+    "options": ["37 con", "25 con", "27 con", "35 con"],
+    "correctAnswer": "37 con"
+  },
+  {
+    "question": "Tung một đồng xu 50 lần, có 24 lần mặt sấp. Số lần xuất hiện mặt ngửa là:",
+    "options": ["26 lần", "24 lần", "50 lần", "74 lần"],
+    "correctAnswer": "26 lần"
+  },
+  {
+    "question": "Dãy số liệu về điểm kiểm tra của một học sinh: 8, 9, 7, 10, 8. Điểm cao nhất là bao nhiêu?",
+    "options": ["10", "8", "9", "7"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Dãy số liệu về điểm kiểm tra của một học sinh: 8, 9, 7, 10, 8. Điểm thấp nhất là bao nhiêu?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Trên biểu đồ cột, trục đứng thường biểu diễn điều gì?",
+    "options": ["Độ lớn của số liệu", "Tên của các đối tượng", "Đơn vị", "Tiêu đề biểu đồ"],
+    "correctAnswer": "Độ lớn của số liệu"
+  },
+  {
+    "question": "Trên biểu đồ cột, trục ngang thường biểu diễn điều gì?",
+    "options": ["Tên của các đối tượng", "Độ lớn của số liệu", "Đơn vị", "Tiêu đề biểu đồ"],
+    "correctAnswer": "Tên của các đối tượng"
+  },
+  {
+    "question": "Trong một túi có 3 viên bi xanh, 3 viên bi đỏ. Lấy ngẫu nhiên 1 viên. Khả năng lấy được bi xanh và bi đỏ là:",
+    "options": ["Như nhau", "Lấy bi xanh dễ hơn", "Lấy bi đỏ dễ hơn", "Không thể xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Cho dãy số liệu: 1, 1, 2, 2, 2, 3, 3. Tổng số lần xuất hiện của số 1 và số 3 là:",
+    "options": ["4 lần", "2 lần", "3 lần", "5 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng hoa trong vườn: Hoa hồng (20 bông), Hoa cúc (15 bông). Hoa hồng nhiều hơn hoa cúc bao nhiêu bông?",
+    "options": ["5 bông", "35 bông", "15 bông", "20 bông"],
+    "correctAnswer": "5 bông"
+  },
+  {
+    "question": "Gieo xúc xắc 15 lần, kết quả là: 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 1, 2, 3. Mặt 1 chấm xuất hiện mấy lần?",
+    "options": ["3 lần", "2 lần", "4 lần", "1 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Số liệu thống kê có thể được biểu diễn dưới dạng nào?",
+    "options": ["Dãy số liệu hoặc biểu đồ", "Chỉ dãy số liệu", "Chỉ biểu đồ", "Chỉ văn bản"],
+    "correctAnswer": "Dãy số liệu hoặc biểu đồ"
+  },
+  {
+    "question": "Độ rộng của các cột trong biểu đồ cột phải...",
+    "options": ["Bằng nhau", "Khác nhau", "Tùy ý", "Cột cao thì rộng hơn"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Một sự kiện chắc chắn xảy ra có xác suất là bao nhiêu?",
+    "options": ["1 (hoặc 100%)", "0", "0.5", "Không xác định"],
+    "correctAnswer": "1 (hoặc 100%)"
+  },
+  {
+    "question": "Một sự kiện không thể xảy ra có xác suất là bao nhiêu?",
+    "options": ["0", "1", "0.5", "Không xác định"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Cho dãy số liệu về nhiệt độ trong tuần (°C): 30, 32, 31, 29, 30, 33, 34. Có mấy ngày nhiệt độ là 30°C?",
+    "options": ["2 ngày", "1 ngày", "3 ngày", "Không có"],
+    "correctAnswer": "2 ngày"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số kẹo của 4 bạn: Mai (5), Lan (8), Hùng (6), Dũng (5). Ai có nhiều kẹo nhất?",
+    "options": ["Lan", "Mai", "Hùng", "Dũng"],
+    "correctAnswer": "Lan"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số kẹo của 4 bạn: Mai (5), Lan (8), Hùng (6), Dũng (5). Những ai có số kẹo bằng nhau?",
+    "options": ["Mai và Dũng", "Mai và Lan", "Hùng và Dũng", "Không có ai"],
+    "correctAnswer": "Mai và Dũng"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có 7 chấm' có số lần xảy ra là:",
+    "options": ["0 lần", "1 lần", "6 lần", "7 lần"],
+    "correctAnswer": "0 lần"
+  },
+  {
+    "question": "Dãy số liệu về số học sinh vắng trong tuần: 2, 0, 1, 0, 3. Ngày nào có học sinh đi học đầy đủ?",
+    "options": ["Ngày có 0 học sinh vắng", "Ngày có 1 học sinh vắng", "Ngày có 2 học sinh vắng", "Ngày có 3 học sinh vắng"],
+    "correctAnswer": "Ngày có 0 học sinh vắng"
+  },
+  {
+    "question": "Dãy số liệu về số học sinh vắng trong tuần: 2, 0, 1, 0, 3. Tổng số học sinh vắng trong tuần là:",
+    "options": ["6 học sinh", "5 học sinh", "4 học sinh", "7 học sinh"],
+    "correctAnswer": "6 học sinh"
+  },
+  {
+    "question": "Biểu đồ cột có thể vẽ theo chiều đứng hoặc chiều ngang. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ được vẽ chiều đứng", "Chỉ được vẽ chiều ngang"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Trong hộp có 1 bi xanh, 1 bi đỏ, 1 bi vàng. Lấy ra 1 bi. Có mấy khả năng về màu sắc có thể xảy ra?",
+    "options": ["3 khả năng", "1 khả năng", "2 khả năng", "Không có khả năng nào"],
+    "correctAnswer": "3 khả năng"
+  },
+  {
+    "question": "Cho dãy số: 100, 200, 150, 100, 250. Dãy này có bao nhiêu số liệu?",
+    "options": ["5", "4", "6", "100"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số sách 3 bạn đọc trong hè: An (10), Ba (12), Cảnh (8). Trung bình mỗi bạn đọc bao nhiêu quyển?",
+    "options": ["10 quyển", "30 quyển", "12 quyển", "8 quyển"],
+    "correctAnswer": "10 quyển"
+  },
+  {
+    "question": "Một vòng quay có 4 ô màu: Xanh, Đỏ, Vàng, Tím. Quay 1 lần, sự kiện nào không thể xảy ra?",
+    "options": ["Mũi tên chỉ vào ô màu Cam", "Mũi tên chỉ vào ô màu Xanh", "Mũi tên chỉ vào ô màu Đỏ", "Mũi tên chỉ vào ô màu Vàng"],
+    "correctAnswer": "Mũi tên chỉ vào ô màu Cam"
+  },
+  {
+    "question": "Số lần xuất hiện của một sự kiện là gì?",
+    "options": ["Là số lần mà sự kiện đó xảy ra trong một số lần thực hiện thí nghiệm", "Là tổng số lần thực hiện thí nghiệm", "Là khả năng xảy ra của sự kiện", "Là tên của sự kiện"],
+    "correctAnswer": "Là số lần mà sự kiện đó xảy ra trong một số lần thực hiện thí nghiệm"
+  },
+  {
+    "question": "Dãy số liệu về tuổi của các thành viên trong gia đình: 40, 38, 12, 8. Người lớn tuổi nhất là bao nhiêu tuổi?",
+    "options": ["40 tuổi", "38 tuổi", "12 tuổi", "8 tuổi"],
+    "correctAnswer": "40 tuổi"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng xe bán ra trong 3 tháng: T1 (20 xe), T2 (30 xe), T3 (25 xe). Tháng nào bán được ít xe nhất?",
+    "options": ["Tháng 1", "Tháng 2", "Tháng 3", "Cả 3 tháng bằng nhau"],
+    "correctAnswer": "Tháng 1"
+  },
+  {
+    "question": "Khi tung đồng xu, có mấy kết quả có thể xảy ra?",
+    "options": ["2 (sấp hoặc ngửa)", "1 (sấp)", "1 (ngửa)", "Không có"],
+    "correctAnswer": "2 (sấp hoặc ngửa)"
+  },
+  {
+    "question": "Cho dãy số liệu: 5, 10, 15, 20, 25. Số lớn nhất hơn số bé nhất bao nhiêu đơn vị?",
+    "options": ["20", "25", "5", "15"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số cây lớp 4A trồng là 35 cây, lớp 4B trồng 40 cây. Cả hai lớp trồng được bao nhiêu cây?",
+    "options": ["75 cây", "5 cây", "35 cây", "40 cây"],
+    "correctAnswer": "75 cây"
+  },
+  {
+    "question": "Trong một hộp có 100 viên bi trắng. Lấy ngẫu nhiên 1 viên. Sự kiện 'lấy được bi đen' xuất hiện bao nhiêu lần?",
+    "options": ["0 lần", "1 lần", "100 lần", "50 lần"],
+    "correctAnswer": "0 lần"
+  },
+  {
+    "question": "Số liệu thống kê về số học sinh các khối của một trường tiểu học được gọi là gì?",
+    "options": ["Dãy số liệu thống kê", "Bài toán", "Phép tính", "Hình vẽ"],
+    "correctAnswer": "Dãy số liệu thống kê"
+  },
+  {
+    "question": "Mục đích chính của việc vẽ biểu đồ cột là gì?",
+    "options": ["Giúp dễ dàng so sánh các số liệu", "Làm cho bài trình bày đẹp hơn", "Để tính toán", "Để trang trí"],
+    "correctAnswer": "Giúp dễ dàng so sánh các số liệu"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có số chấm là số chẵn' có thể là những mặt nào?",
+    "options": ["2 chấm, 4 chấm, 6 chấm", "1 chấm, 3 chấm, 5 chấm", "Chỉ 2 chấm", "Chỉ 6 chấm"],
+    "correctAnswer": "2 chấm, 4 chấm, 6 chấm"
+  },
+  {
+    "question": "Cho dãy số liệu: 8, 8, 9, 10, 7, 8. Số lần xuất hiện của số 8 là:",
+    "options": ["3 lần", "2 lần", "1 lần", "4 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Biểu đồ cột có cột của lớp 4A cao 10 đơn vị, cột của lớp 4B cao 15 đơn vị. Điều này có nghĩa là:",
+    "options": ["Số liệu của lớp 4B lớn hơn lớp 4A", "Số liệu của lớp 4A lớn hơn lớp 4B", "Số liệu hai lớp bằng nhau", "Không thể kết luận"],
+    "correctAnswer": "Số liệu của lớp 4B lớn hơn lớp 4A"
+  },
+  {
+    "question": "Trong một hộp kín có 5 quả táo và 1 quả cam. Lấy ngẫu nhiên một quả. Khả năng cao hơn sẽ lấy được quả gì?",
+    "options": ["Quả táo", "Quả cam", "Khả năng như nhau", "Không xác định"],
+    "correctAnswer": "Quả táo"
+  },
+  {
+    "question": "Dãy số liệu về cân nặng của 5 bao gạo (kg): 50, 48, 50, 52, 50. Cân nặng nào xuất hiện nhiều nhất?",
+    "options": ["50 kg", "48 kg", "52 kg", "Không có"],
+    "correctAnswer": "50 kg"
+  },
+  {
+    "question": "Biểu đồ thống kê số ngày nắng trong 4 tuần: Tuần 1 (5 ngày), Tuần 2 (6 ngày), Tuần 3 (4 ngày), Tuần 4 (5 ngày). Tuần nào có ít ngày nắng nhất?",
+    "options": ["Tuần 3", "Tuần 1", "Tuần 2", "Tuần 4"],
+    "correctAnswer": "Tuần 3"
+  },
+  {
+    "question": "Biểu đồ thống kê số ngày nắng trong 4 tuần: Tuần 1 (5 ngày), Tuần 2 (6 ngày), Tuần 3 (4 ngày), Tuần 4 (5 ngày). Có mấy tuần có 5 ngày nắng?",
+    "options": ["2 tuần", "1 tuần", "3 tuần", "4 tuần"],
+    "correctAnswer": "2 tuần"
+  },
+  {
+    "question": "Tung một đồng xu 2 lần. Có mấy khả năng có thể xảy ra?",
+    "options": ["4 (SS, SN, NS, NN)", "2 (S, N)", "3 (SS, SN, NN)", "1 (SS)"],
+    "correctAnswer": "4 (SS, SN, NS, NN)"
+  },
+  {
+    "question": "Cho dãy số liệu: 3, 6, 9, 12, 15. Dãy này có bao nhiêu số hạng?",
+    "options": ["5", "3", "15", "12"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số tiền tiết kiệm của 2 bạn: An (50 000 đồng), Bình (70 000 đồng). Bình có nhiều hơn An bao nhiêu tiền?",
+    "options": ["20 000 đồng", "120 000 đồng", "50 000 đồng", "70 000 đồng"],
+    "correctAnswer": "20 000 đồng"
+  },
+  {
+    "question": "Gieo một con xúc xắc 30 lần. Số lần xuất hiện mặt 6 chấm là 5. Số lần xuất hiện các mặt còn lại là:",
+    "options": ["25 lần", "30 lần", "5 lần", "35 lần"],
+    "correctAnswer": "25 lần"
+  },
+  {
+    "question": "Dãy số liệu về chiều dài các con đường (km): 12, 15, 10, 18. Con đường ngắn nhất dài bao nhiêu?",
+    "options": ["10 km", "12 km", "15 km", "18 km"],
+    "correctAnswer": "10 km"
+  },
+  {
+    "question": "Để so sánh số học sinh nam và nữ trong một lớp, ta có thể dùng biểu đồ gì?",
+    "options": ["Biểu đồ cột", "Hình tròn", "Đoạn thẳng", "Hình vuông"],
+    "correctAnswer": "Biểu đồ cột"
+  },
+  {
+    "question": "Trong một hộp có 2 bi đỏ và 8 bi xanh. Lấy ra 1 bi. Sự kiện nào có khả năng xảy ra thấp hơn?",
+    "options": ["Lấy được bi đỏ", "Lấy được bi xanh", "Khả năng như nhau", "Không xác định"],
+    "correctAnswer": "Lấy được bi đỏ"
+  },
+  {
+    "question": "Cho dãy số liệu: 7, 8, 9, 7, 8, 7. Số lần xuất hiện của số 7 nhiều hơn số 8 là mấy lần?",
+    "options": ["1 lần", "2 lần", "3 lần", "Bằng nhau"],
+    "correctAnswer": "1 lần"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy chiều cao của 2 cây: Cây A (150 cm), Cây B (120 cm). Cây A cao hơn cây B bao nhiêu?",
+    "options": ["30 cm", "270 cm", "150 cm", "120 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có số chấm lớn hơn 4' có thể là những mặt nào?",
+    "options": ["5 chấm, 6 chấm", "4 chấm, 5 chấm, 6 chấm", "Chỉ 6 chấm", "Chỉ 5 chấm"],
+    "correctAnswer": "5 chấm, 6 chấm"
+  },
+  {
+    "question": "Dãy số liệu về số quả táo trong 5 rổ: 20, 25, 20, 30, 20. Tổng số táo trong 5 rổ là:",
+    "options": ["115 quả", "105 quả", "110 quả", "120 quả"],
+    "correctAnswer": "115 quả"
+  },
+  {
+    "question": "Biểu đồ cột có thể giúp ta làm gì?",
+    "options": ["Rút ra nhận xét, kết luận từ số liệu", "Tính toán chính xác", "Vẽ các hình phức tạp", "Đo độ dài"],
+    "correctAnswer": "Rút ra nhận xét, kết luận từ số liệu"
+  },
+  {
+    "question": "Trong một hộp có 5 bi trắng. Lấy ra 1 bi. Sự kiện 'lấy được bi trắng' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Ngẫu nhiên"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu: 1, 2, 3, 4, 5. Số nào ở vị trí thứ ba trong dãy?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng 3 loại quả: Táo (10), Cam (15), Chuối (20). Loại quả nào có số lượng nhiều nhất?",
+    "options": ["Chuối", "Táo", "Cam", "Táo và Cam"],
+    "correctAnswer": "Chuối"
+  },
+  {
+    "question": "Tung đồng xu 100 lần, có 52 lần mặt ngửa. Xác suất thực nghiệm của sự kiện mặt ngửa là:",
+    "options": ["52/100", "100/52", "48/100", "100/48"],
+    "correctAnswer": "52/100"
+  },
+  {
+    "question": "Dãy số liệu về số trang sách đã đọc mỗi ngày: 10, 15, 12, 10, 18. Ngày nào đọc được nhiều trang nhất?",
+    "options": ["Ngày đọc được 18 trang", "Ngày đọc được 10 trang", "Ngày đọc được 15 trang", "Ngày đọc được 12 trang"],
+    "correctAnswer": "Ngày đọc được 18 trang"
+  },
+  {
+    "question": "Biểu đồ cột có các cột càng cao thì số liệu biểu diễn càng...",
+    "options": ["Lớn", "Nhỏ", "Không đổi", "Chính xác"],
+    "correctAnswer": "Lớn"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có số chấm là số nguyên tố' có thể là những mặt nào?",
+    "options": ["2, 3, 5", "1, 2, 3, 5", "2, 4, 6", "1, 3, 5"],
+    "correctAnswer": "2, 3, 5"
+  },
+  {
+    "question": "Cho dãy số liệu: 9, 8, 7, 6, 5. Sắp xếp dãy theo thứ tự tăng dần.",
+    "options": ["5, 6, 7, 8, 9", "9, 8, 7, 6, 5", "5, 7, 6, 9, 8", "6, 5, 8, 7, 9"],
+    "correctAnswer": "5, 6, 7, 8, 9"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số học sinh nữ của 2 lớp: 4A (18 bạn), 4B (20 bạn). Lớp 4B nhiều hơn lớp 4A bao nhiêu học sinh nữ?",
+    "options": ["2 bạn", "38 bạn", "18 bạn", "20 bạn"],
+    "correctAnswer": "2 bạn"
+  },
+  {
+    "question": "Trong một hộp có 5 bi xanh và 5 bi đỏ. Lấy ra 1 bi. Khả năng lấy được bi xanh so với bi đỏ là:",
+    "options": ["Bằng nhau", "Lấy bi xanh dễ hơn", "Lấy bi đỏ dễ hơn", "Không xác định"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Dãy số liệu về số giờ ngủ mỗi đêm của An: 8, 7, 8, 9, 8. Trung bình mỗi đêm An ngủ bao nhiêu giờ?",
+    "options": ["8 giờ", "7 giờ", "9 giờ", "8.5 giờ"],
+    "correctAnswer": "8 giờ"
+  },
+  {
+    "question": "Biểu đồ cột có cần ghi tên biểu đồ không?",
+    "options": ["Có, để người đọc hiểu biểu đồ nói về cái gì", "Không cần", "Tùy ý", "Chỉ cần khi có nhiều cột"],
+    "correctAnswer": "Có, để người đọc hiểu biểu đồ nói về cái gì"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có số chấm chia hết cho 3' có thể là những mặt nào?",
+    "options": ["3 chấm, 6 chấm", "Chỉ 3 chấm", "Chỉ 6 chấm", "1, 2, 3"],
+    "correctAnswer": "3 chấm, 6 chấm"
+  },
+  {
+    "question": "Cho dãy số liệu: 14, 21, 14, 35, 14. Số lần xuất hiện của số 14 là:",
+    "options": ["3 lần", "2 lần", "1 lần", "4 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số cá trong 2 bể: Bể 1 (30 con), Bể 2 (25 con). Cả hai bể có bao nhiêu con cá?",
+    "options": ["55 con", "5 con", "30 con", "25 con"],
+    "correctAnswer": "55 con"
+  },
+  {
+    "question": "Tung đồng xu 20 lần, mặt ngửa xuất hiện 12 lần. Tần suất xuất hiện mặt sấp là:",
+    "options": ["8 lần", "12 lần", "20 lần", "32 lần"],
+    "correctAnswer": "8 lần"
+  },
+  {
+    "question": "Dãy số liệu về lượng mưa các tháng (mm): 100, 120, 150, 110. Tháng nào có lượng mưa cao nhất?",
+    "options": ["Tháng có 150 mm", "Tháng có 100 mm", "Tháng có 120 mm", "Tháng có 110 mm"],
+    "correctAnswer": "Tháng có 150 mm"
+  },
+  {
+    "question": "Tiêu đề của biểu đồ cột cho biết điều gì?",
+    "options": ["Nội dung chính mà biểu đồ thể hiện", "Số liệu lớn nhất", "Số liệu bé nhất", "Tên các cột"],
+    "correctAnswer": "Nội dung chính mà biểu đồ thể hiện"
+  },
+  {
+    "question": "Trong một hộp có 1 bi xanh, 99 bi đỏ. Lấy ra 1 bi. Sự kiện nào gần như chắc chắn xảy ra?",
+    "options": ["Lấy được bi đỏ", "Lấy được bi xanh", "Khả năng như nhau", "Không xác định"],
+    "correctAnswer": "Lấy được bi đỏ"
+  },
+  {
+    "question": "Cho dãy số liệu: 50, 60, 50, 70, 50, 80. Số 50 xuất hiện nhiều hơn các số khác bao nhiêu lần?",
+    "options": ["2 lần", "1 lần", "3 lần", "4 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số điểm 10 của 3 tổ: Tổ 1 (5 điểm), Tổ 2 (8 điểm), Tổ 3 (6 điểm). Tổng số điểm 10 của cả 3 tổ là:",
+    "options": ["19 điểm", "13 điểm", "14 điểm", "11 điểm"],
+    "correctAnswer": "19 điểm"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có số chấm bé hơn 3' có thể là những mặt nào?",
+    "options": ["1 chấm, 2 chấm", "1, 2, 3", "Chỉ 1 chấm", "Chỉ 2 chấm"],
+    "correctAnswer": "1 chấm, 2 chấm"
+  },
+  {
+    "question": "Dãy số liệu về số tiền tiết kiệm hàng ngày (nghìn đồng): 5, 10, 5, 15, 5. Tổng số tiền tiết kiệm được là:",
+    "options": ["40 nghìn đồng", "35 nghìn đồng", "30 nghìn đồng", "45 nghìn đồng"],
+    "correctAnswer": "40 nghìn đồng"
+  },
+  {
+    "question": "Biểu đồ cột có thể dùng để biểu diễn số liệu của bao nhiêu đối tượng?",
+    "options": ["Nhiều đối tượng", "Chỉ 1 đối tượng", "Chỉ 2 đối tượng", "Chỉ 3 đối tượng"],
+    "correctAnswer": "Nhiều đối tượng"
+  },
+  {
+    "question": "Một sự kiện có thể xảy ra hoặc không thể xảy ra được gọi là gì?",
+    "options": ["Sự kiện ngẫu nhiên", "Sự kiện chắc chắn", "Sự kiện không thể", "Sự kiện hiếm"],
+    "correctAnswer": "Sự kiện ngẫu nhiên"
+  }
+]
+
