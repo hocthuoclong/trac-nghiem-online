@@ -48,6 +48,10 @@
                 {
                   "name": "Chương 11: Các số đến 100000",
                   "file": "./data/math-3-chapter-11.json"
+                },
+                {
+                  "name": "Chương 12: Cộng, trừ trong phạm vi 100000",
+                  "file": "./data/math-3-chapter-12.json"
                 }
               ]
             },
