@@ -118,7 +118,7 @@
         <!-- Màn hình kết quả -->
         <div id="result-screen" class="card hidden text-center">
             <h2 class="text-3xl font-bold text-gray-800 mb-2">Hoàn thành!</h2>
-            <p class="text-lg text-gray-600 mb-2">Đây là kết quả của bạn:</p>
+            <p id="result-title" class="text-lg text-gray-600 mb-2">Đây là kết quả của bạn:</p>
             <p id="user-name-display" class="text-2xl font-bold text-gray-700 mb-1"></p>
             <p id="start-time-display" class="text-xs text-gray-500 mb-6"></p>
 
@@ -207,6 +207,7 @@
         const userNameDisplay = document.getElementById('user-name-display');
         const startTimeDisplay = document.getElementById('start-time-display');
         const resultRemark = document.getElementById('result-remark');
+        const resultTitle = document.getElementById('result-title'); // Lấy phần tử tiêu đề kết quả
 
         // --- State ---
         let gradeData = {};
@@ -224,7 +225,7 @@
         // --- Utility Functions ---
         async function fetchData(path) {
             try {
-                const response = await fetch(path);
+                const response = await fetch(`${path}?v=${new Date().getTime()}`); // Cache busting
                 if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
                 return await response.json();
             } catch (error) {
@@ -322,6 +323,7 @@
                 questionFilePath = lastSelections.filePath;
                 userName = lastSelections.userName;
                 testStartTimeString = lastSelections.startTimeString;
+                // Không cần lấy lại gradeName, subjectName vì đã có trong lastSelections
             } else {
                 const gradeId = gradeSelect.value;
                 const testType = testTypeSelect.value;
@@ -338,10 +340,16 @@
                 const now = new Date();
                 testStartTimeString = `${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')} - Ngày ${now.getDate()}/${now.getMonth() + 1}/${now.getFullYear()}`;
 
+                // Lấy tên lớp và tên môn học
+                const gradeName = gradeSelect.options[gradeSelect.selectedIndex].text;
+                const subjectName = subjectSelect.options[subjectSelect.selectedIndex].text;
+
                 lastSelections = { 
                     filePath: questionFilePath,
                     userName: userName,
-                    startTimeString: testStartTimeString
+                    startTimeString: testStartTimeString,
+                    gradeName: gradeName, // Lưu tên lớp
+                    subjectName: subjectName // Lưu tên môn
                 };
             }
 
@@ -473,6 +481,9 @@
                 remark = 'Cố gắng hơn nữa nhé!';
                 remarkColorClass = 'text-red-500';
             }
+
+            // Cập nhật tiêu đề kết quả
+            resultTitle.textContent = `Kết quả môn ${lastSelections.subjectName} ${lastSelections.gradeName} của:`;
 
             userNameDisplay.textContent = lastSelections.userName;
             startTimeDisplay.textContent = `Thời gian bắt đầu: ${lastSelections.startTimeString}`;
