@@ -179,11 +179,13 @@
         const homeBtn = document.getElementById('home-btn');
         const confirmSubmitBtn = document.getElementById('confirm-submit-btn');
         const cancelSubmitBtn = document.getElementById('cancel-submit-btn');
-        // Thay đổi element cho thông tin bài kiểm tra
         const debugInfoEl = document.getElementById('debug-info');
 
         // --- State ---
-        let dbStructure = {};
+        let gradeData = {}; // db-grade.json
+        let subjectListData = {}; // db-subject.json
+        let currentSubjectDb = {}; // db-math.json, db-physics.json, ...
+        
         let currentQuestions = [];
         let currentQuestionIndex = 0;
         let score = 0;
@@ -191,7 +193,19 @@
         let startTime;
         let lastSelections = {};
 
-        // --- Functions ---
+        // --- Utility Functions ---
+        async function fetchData(path) {
+            try {
+                const response = await fetch(path);
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                return await response.json();
+            } catch (error) {
+                console.error(`Không thể tải dữ liệu từ: ${path}`, error);
+                alert(`Đã xảy ra lỗi khi tải dữ liệu. Vui lòng kiểm tra lại đường dẫn file.`);
+                return null;
+            }
+        }
+
         function shuffleArray(array) {
             for (let i = array.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
@@ -199,124 +213,122 @@
             }
             return array;
         }
-        
-        async function initializeApp() {
-            try {
-                const response = await fetch('./db.json');
-                if (!response.ok) throw new Error('Không thể tải file cấu trúc db.json');
-                dbStructure = await response.json();
-                
-                populateGrades();
-                updateSubjectSelection();
-            } catch (error) {
-                console.error("Lỗi khởi tạo ứng dụng:", error);
-                alert("Không thể tải dữ liệu cấu trúc. Vui lòng đảm bảo bạn đang chạy ứng dụng trên một máy chủ web (như Live Server hoặc GitHub Pages).");
-            }
-        }
 
-        function populateGrades() {
+        // --- Population Functions ---
+
+        async function initializeApp() {
+            gradeData = await fetchData('./db-grade.json');
+            subjectListData = await fetchData('./db-subject.json');
+
+            if (!gradeData || !subjectListData) return;
+
+            // Populate Grades
             gradeSelect.innerHTML = '';
-            Object.keys(dbStructure.grades).forEach(gradeKey => {
+            gradeData.grades.forEach(grade => {
                 const option = document.createElement('option');
-                option.value = gradeKey;
-                option.textContent = dbStructure.grades[gradeKey].name;
+                option.value = grade.id;
+                option.textContent = grade.name;
                 gradeSelect.appendChild(option);
             });
-        }
 
-        function updateSubjectSelection() {
-            const grade = gradeSelect.value;
+            // Populate Subjects
             subjectSelect.innerHTML = '';
-            Object.keys(dbStructure.grades[grade].subjects).forEach(subjectKey => {
+            subjectListData.subjects.forEach(subject => {
                 const option = document.createElement('option');
-                option.value = subjectKey;
-                option.textContent = dbStructure.grades[grade].subjects[subjectKey].name;
+                option.value = subject.path;
+                option.textContent = subject.name;
                 subjectSelect.appendChild(option);
             });
-            updateTestTypeSelection();
+            
+            await populateTestTypes();
         }
 
-        function updateTestTypeSelection() {
-            const grade = gradeSelect.value;
-            const subject = subjectSelect.value;
+        async function populateTestTypes() {
+            const subjectPath = subjectSelect.value;
+            const gradeId = gradeSelect.value;
+            if (!subjectPath || !gradeId) return;
+
+            currentSubjectDb = await fetchData(subjectPath);
+            const gradeContent = currentSubjectDb?.grades?.[gradeId];
+
+            if (!gradeContent || !gradeContent.tests) {
+                testTypeSelect.innerHTML = '<option>Không có bài kiểm tra</option>';
+                chapterSelectionContainer.classList.add('hidden');
+                return;
+            };
+
             testTypeSelect.innerHTML = '';
-            Object.keys(dbStructure.grades[grade].subjects[subject].tests).forEach(testKey => {
+            Object.keys(gradeContent.tests).forEach(testKey => {
                 const option = document.createElement('option');
                 option.value = testKey;
-                option.textContent = dbStructure.grades[grade].subjects[subject].tests[testKey].name;
+                option.textContent = gradeContent.tests[testKey].name;
                 testTypeSelect.appendChild(option);
             });
-            updateChapterSelection();
+            populateChapters();
         }
 
-        function updateChapterSelection() {
-            const grade = gradeSelect.value;
-            const subject = subjectSelect.value;
+        function populateChapters() {
+            const gradeId = gradeSelect.value;
             const testType = testTypeSelect.value;
+            const testData = currentSubjectDb?.grades?.[gradeId]?.tests?.[testType];
 
-            if (testType === 'chapter') {
-                const chapters = dbStructure.grades[grade].subjects[subject].tests.chapter.chapters || [];
+            if (testType === 'chapter' && testData?.chapters) {
                 chapterSelect.innerHTML = '';
-                if (chapters.length > 0) {
-                    chapters.forEach((chapter, index) => {
-                        const option = document.createElement('option');
-                        option.value = index;
-                        option.textContent = chapter.name;
-                        chapterSelect.appendChild(option);
-                    });
-                    chapterSelectionContainer.classList.remove('hidden');
-                } else {
-                    chapterSelectionContainer.classList.add('hidden');
-                }
+                testData.chapters.forEach((chapter, index) => {
+                    const option = document.createElement('option');
+                    option.value = chapter.file; 
+                    option.textContent = chapter.name;
+                    chapterSelect.appendChild(option);
+                });
+                chapterSelectionContainer.classList.remove('hidden');
             } else {
                 chapterSelectionContainer.classList.add('hidden');
             }
         }
 
+        // --- Test Logic ---
+
         async function startTest(isRetry = false) {
-            let grade, subject, testType, chapterIndex;
+            let questionFilePath;
+
             if (isRetry) {
-                ({ grade, subject, testType, chapterIndex } = lastSelections);
+                questionFilePath = lastSelections.filePath;
             } else {
-                grade = gradeSelect.value;
-                subject = subjectSelect.value;
-                testType = testTypeSelect.value;
-                chapterIndex = chapterSelect.value;
-                lastSelections = { grade, subject, testType, chapterIndex };
+                const gradeId = gradeSelect.value;
+                const testType = testTypeSelect.value;
+                const testData = currentSubjectDb?.grades?.[gradeId]?.tests?.[testType];
+
+                if (testType === 'chapter') {
+                    questionFilePath = chapterSelect.value;
+                } else {
+                    questionFilePath = testData?.file;
+                }
+                lastSelections = { filePath: questionFilePath };
+            }
+
+            if (!questionFilePath) {
+                alert('Không tìm thấy bài kiểm tra cho lựa chọn này.');
+                return;
             }
 
             startBtn.disabled = true;
             startBtn.innerHTML = 'Đang tải dữ liệu...';
 
             try {
-                let questionFilePath;
-                const testInfo = dbStructure.grades[grade].subjects[subject].tests[testType];
-                if (testType === 'chapter') {
-                    questionFilePath = testInfo.chapters[chapterIndex]?.file;
-                } else {
-                    questionFilePath = testInfo.file;
-                }
-
-                if (!questionFilePath) throw new Error('Không tìm thấy đường dẫn tệp câu hỏi.');
-                
-                lastSelections.filePath = questionFilePath;
-
-                const questionsResponse = await fetch(questionFilePath);
-                if (!questionsResponse.ok) throw new Error(`Không thể tải tệp câu hỏi: ${questionFilePath}`);
-                const questionBank = await questionsResponse.json();
-
-                const indexedQuestionBank = questionBank.map((q, index) => ({ ...q, originalIndex: index + 1 }));
-
-                if (!indexedQuestionBank || indexedQuestionBank.length === 0) {
+                const questionBank = await fetchData(questionFilePath);
+                if (!questionBank || questionBank.length === 0) {
                     alert('Ngân hàng câu hỏi cho lựa chọn này đang trống.');
                     return;
                 }
+
+                const indexedQuestionBank = questionBank.map((q, index) => ({ ...q, originalIndex: index + 1 }));
                 
                 currentQuestions = shuffleArray([...indexedQuestionBank]).slice(0, 20);
                 if (currentQuestions.length === 0) {
                     alert('Không đủ câu hỏi trong ngân hàng để tạo bài kiểm tra.');
                     return;
                 }
+
                 currentQuestionIndex = 0;
                 score = 0;
 
@@ -328,27 +340,13 @@
 
                 displayQuestion();
                 startTimer();
-                
+
             } catch (error) {
                 console.error('Lỗi khi bắt đầu bài kiểm tra:', error);
-                alert('Đã xảy ra lỗi khi tải dữ liệu. Vui lòng kiểm tra lại đường dẫn tệp và đảm bảo bạn đang chạy ứng dụng trên một máy chủ web.');
             } finally {
                 startBtn.disabled = false;
                 startBtn.innerHTML = 'Bắt đầu làm bài';
             }
-        }
-        
-        // Cập nhật hàm để hiển thị thông tin thân thiện hơn
-        function updateDebugInfo() {
-            if (!currentQuestions[currentQuestionIndex]) return;
-
-            const question = currentQuestions[currentQuestionIndex];
-            const filePath = lastSelections.filePath || 'unknown_file';
-            // Lấy tên tệp từ đường dẫn, ví dụ: './data/math-8-chapter-10.json' -> 'math-8-chapter-10.json'
-            const fileName = filePath.substring(filePath.lastIndexOf('/') + 1);
-            const questionId = question.originalIndex || 'N/A';
-            
-            debugInfoEl.textContent = `${fileName} - câu số ${questionId}`;
         }
 
         function displayQuestion() {
@@ -371,7 +369,12 @@
                 button.addEventListener('click', () => selectAnswer(button, option, question.correctAnswer));
                 answersContainer.appendChild(button);
             });
+            
             nextBtn.classList.add('hidden');
+            nextBtn.textContent = "Câu tiếp theo";
+            if (currentQuestionIndex === currentQuestions.length - 1) {
+                nextBtn.textContent = "Hoàn thành";
+            }
             
             updateDebugInfo();
         }
@@ -393,9 +396,6 @@
             });
 
             nextBtn.classList.remove('hidden');
-            if (currentQuestionIndex === currentQuestions.length - 1) {
-                nextBtn.textContent = "Hoàn thành";
-            }
         }
 
         function nextQuestion() {
@@ -425,10 +425,22 @@
             confirmModal.classList.add('hidden');
         }
         
+        function updateDebugInfo() {
+            if (!currentQuestions[currentQuestionIndex]) return;
+
+            const question = currentQuestions[currentQuestionIndex];
+            const filePath = lastSelections.filePath || 'unknown_file';
+            const fileName = filePath.substring(filePath.lastIndexOf('/') + 1);
+            const questionId = question.originalIndex || 'N/A';
+            
+            debugInfoEl.textContent = `${fileName} - câu số ${questionId}`;
+        }
+
+        // --- Navigation and UI Functions ---
+
         function goHome() {
             resultScreen.classList.add('hidden');
             selectionScreen.classList.remove('hidden');
-            updateChapterSelection();
         }
         
         function showConfirmModal() {
@@ -439,11 +451,10 @@
             confirmModal.classList.add('hidden');
         }
 
-
         // --- Event Listeners ---
-        gradeSelect.addEventListener('change', updateSubjectSelection);
-        subjectSelect.addEventListener('change', updateTestTypeSelection);
-        testTypeSelect.addEventListener('change', updateChapterSelection);
+        gradeSelect.addEventListener('change', populateTestTypes);
+        subjectSelect.addEventListener('change', populateTestTypes);
+        testTypeSelect.addEventListener('change', populateChapters);
         startBtn.addEventListener('click', () => startTest(false));
         nextBtn.addEventListener('click', nextQuestion);
         retryBtn.addEventListener('click', () => startTest(true));
