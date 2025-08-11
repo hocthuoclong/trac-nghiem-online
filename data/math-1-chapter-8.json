@@ -1,0 +1,503 @@
+[
+  {
+    "question": "25 + 3 =",
+    "options": ["28", "27", "29", "22"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "41 + 7 =",
+    "options": ["48", "47", "49", "46"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "60 + 5 =",
+    "options": ["65", "60", "55", "75"],
+    "correctAnswer": "65"
+  },
+  {
+    "question": "82 + 6 =",
+    "options": ["88", "87", "89", "86"],
+    "correctAnswer": "88"
+  },
+  {
+    "question": "Lớp 1A có 30 bạn, thêm 5 bạn mới. Lớp có tất cả bao nhiêu bạn?",
+    "options": ["35 bạn", "25 bạn", "30 bạn", "40 bạn"],
+    "correctAnswer": "35 bạn"
+  },
+  {
+    "question": "30 + 20 =",
+    "options": ["50", "40", "60", "10"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "40 + 50 =",
+    "options": ["90", "80", "100", "10"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "23 + 14 =",
+    "options": ["37", "36", "38", "27"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "51 + 45 =",
+    "options": ["96", "95", "97", "86"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "An có 12 viên bi, Bình có 15 viên bi. Cả hai bạn có bao nhiêu viên bi?",
+    "options": ["27 viên", "26 viên", "28 viên", "3 viên"],
+    "correctAnswer": "27 viên"
+  },
+  {
+    "question": "29 - 4 =",
+    "options": ["25", "24", "26", "33"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "38 - 7 =",
+    "options": ["31", "30", "32", "45"],
+    "correctAnswer": "31"
+  },
+  {
+    "question": "56 - 6 =",
+    "options": ["50", "51", "62", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "79 - 0 =",
+    "options": ["79", "0", "70", "89"],
+    "correctAnswer": "79"
+  },
+  {
+    "question": "Có 18 cái bánh, đã ăn 5 cái. Còn lại mấy cái?",
+    "options": ["13 cái", "23 cái", "12 cái", "14 cái"],
+    "correctAnswer": "13 cái"
+  },
+  {
+    "question": "60 - 20 =",
+    "options": ["40", "80", "30", "50"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "90 - 50 =",
+    "options": ["40", "30", "50", "140"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "45 - 12 =",
+    "options": ["33", "32", "34", "57"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "87 - 35 =",
+    "options": ["52", "51", "53", "62"],
+    "correctAnswer": "52"
+  },
+  {
+    "question": "Sợi dây dài 35 cm, cắt đi 15 cm. Sợi dây còn lại dài bao nhiêu?",
+    "options": ["20 cm", "50 cm", "10 cm", "25 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "15 + 2 =",
+    "options": ["17", "16", "18", "13"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "72 + 5 =",
+    "options": ["77", "76", "78", "75"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "10 + 60 =",
+    "options": ["70", "60", "50", "80"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "34 + 23 =",
+    "options": ["57", "56", "58", "47"],
+    "correctAnswer": "57"
+  },
+  {
+    "question": "19 - 8 =",
+    "options": ["11", "10", "12", "27"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "67 - 3 =",
+    "options": ["64", "63", "65", "70"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "80 - 40 =",
+    "options": ["40", "120", "30", "50"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "55 - 22 =",
+    "options": ["33", "32", "34", "77"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Điền số: 21 + ... = 28",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Điền số: 50 + ... = 90",
+    "options": ["40", "30", "50", "60"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Điền số: 36 - ... = 31",
+    "options": ["5", "6", "4", "7"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Điền số: 78 - ... = 48",
+    "options": ["30", "20", "40", "50"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "So sánh: 25 + 4 và 30",
+    "options": ["<", ">", "=", " "],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "So sánh: 42 + 15 và 57",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "So sánh: 39 - 5 và 33",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "So sánh: 66 - 22 và 40",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Phép tính nào đúng?",
+    "options": ["20 + 10 = 30", "15 + 3 = 17", "40 + 20 = 50", "31 + 5 = 35"],
+    "correctAnswer": "20 + 10 = 30"
+  },
+  {
+    "question": "Phép tính nào sai?",
+    "options": ["45 - 5 = 30", "38 - 2 = 36", "70 - 10 = 60", "99 - 9 = 90"],
+    "correctAnswer": "45 - 5 = 30"
+  },
+  {
+    "question": "Vườn nhà An có 20 cây cam và 15 cây bưởi. Vườn có tất cả bao nhiêu cây?",
+    "options": ["35 cây", "5 cây", "30 cây", "45 cây"],
+    "correctAnswer": "35 cây"
+  },
+  {
+    "question": "Lớp 1A có 32 bạn, lớp 1B có 30 bạn. Lớp 1A hơn lớp 1B mấy bạn?",
+    "options": ["2 bạn", "62 bạn", "1 bạn", "3 bạn"],
+    "correctAnswer": "2 bạn"
+  },
+  {
+    "question": "91 + 8 =",
+    "options": ["99", "98", "97", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "22 + 22 =",
+    "options": ["44", "22", "0", "42"],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "88 - 8 =",
+    "options": ["80", "8", "88", "96"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "99 - 11 =",
+    "options": ["88", "87", "89", "98"],
+    "correctAnswer": "88"
+  },
+  {
+    "question": "Số nào cộng với 10 thì được 40?",
+    "options": ["30", "50", "20", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Số nào trừ đi 20 thì còn 50?",
+    "options": ["70", "30", "60", "80"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "65 trừ đi số nào thì còn 60?",
+    "options": ["5", "125", "15", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tính: 10 + 20 + 30 =",
+    "options": ["60", "50", "70", "40"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Tính: 80 - 30 - 20 =",
+    "options": ["30", "50", "60", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tính: 21 + 12 + 33 =",
+    "options": ["66", "65", "67", "56"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Tính: 99 - 11 - 22 =",
+    "options": ["66", "77", "88", "55"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Phép tính nào có kết quả là 55?",
+    "options": ["50 + 5", "60 - 10", "51 + 3", "58 - 4"],
+    "correctAnswer": "50 + 5"
+  },
+  {
+    "question": "Phép tính nào có kết quả là 20?",
+    "options": ["35 - 15", "10 + 20", "25 - 10", "15 + 10"],
+    "correctAnswer": "35 - 15"
+  },
+  {
+    "question": "Trong phép cộng, tổng là 48, một số hạng là 20. Số hạng kia là:",
+    "options": ["28", "68", "27", "29"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "Trong phép trừ, số bị trừ là 56, hiệu là 30. Số trừ là:",
+    "options": ["26", "86", "25", "27"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "Trong phép trừ, số trừ là 15, hiệu là 40. Số bị trừ là:",
+    "options": ["55", "25", "54", "56"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "14 + 3 =",
+    "options": ["17", "16", "18", "11"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "61 + 8 =",
+    "options": ["69", "68", "70", "67"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "20 + 70 =",
+    "options": ["90", "80", "100", "60"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "44 + 44 =",
+    "options": ["88", "80", "44", "84"],
+    "correctAnswer": "88"
+  },
+  {
+    "question": "28 - 6 =",
+    "options": ["22", "21", "23", "34"],
+    "correctAnswer": "22"
+  },
+  {
+    "question": "59 - 9 =",
+    "options": ["50", "51", "68", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "70 - 30 =",
+    "options": ["40", "100", "30", "50"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "68 - 25 =",
+    "options": ["43", "42", "44", "53"],
+    "correctAnswer": "43"
+  },
+  {
+    "question": "Điền số: 42 + ... = 49",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Điền số: 60 + ... = 100",
+    "options": ["40", "30", "50", "60"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Điền số: 18 - ... = 11",
+    "options": ["7", "8", "6", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Điền số: 95 - ... = 55",
+    "options": ["40", "30", "50", "60"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "So sánh: 15 + 13 và 28",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "So sánh: 79 - 15 và 60",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Bố 40 tuổi, mẹ 35 tuổi. Bố hơn mẹ mấy tuổi?",
+    "options": ["5 tuổi", "75 tuổi", "4 tuổi", "6 tuổi"],
+    "correctAnswer": "5 tuổi"
+  },
+  {
+    "question": "Cành trên có 12 quả, cành dưới có 10 quả. Cả hai cành có mấy quả?",
+    "options": ["22 quả", "2 quả", "21 quả", "23 quả"],
+    "correctAnswer": "22 quả"
+  },
+  {
+    "question": "31 + 5 =",
+    "options": ["36", "35", "37", "34"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "50 + 30 =",
+    "options": ["80", "70", "90", "20"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "62 + 17 =",
+    "options": ["79", "78", "89", "75"],
+    "correctAnswer": "79"
+  },
+  {
+    "question": "47 - 2 =",
+    "options": ["45", "44", "46", "49"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "88 - 88 =",
+    "options": ["0", "176", "1", "88"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "96 - 54 =",
+    "options": ["42", "41", "43", "52"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "Phép tính nào có tổng là 68?",
+    "options": ["61 + 7", "60 + 9", "62 + 5", "63 + 6"],
+    "correctAnswer": "61 + 7"
+  },
+  {
+    "question": "Phép tính nào có hiệu là 30?",
+    "options": ["55 - 25", "40 - 20", "60 - 40", "70 - 50"],
+    "correctAnswer": "55 - 25"
+  },
+  {
+    "question": "Tính: 40 + 10 + 20 =",
+    "options": ["70", "60", "80", "50"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Tính: 90 - 50 - 30 =",
+    "options": ["10", "40", "20", "0"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số nào lớn hơn 50 là 25 đơn vị?",
+    "options": ["75", "25", "70", "85"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Số nào bé hơn 88 là 11 đơn vị?",
+    "options": ["77", "99", "76", "78"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "33 + 33 =",
+    "options": ["66", "65", "67", "56"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "100 - 10 =",
+    "options": ["90", "110", "80", "99"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Điền số: ... + 15 = 35",
+    "options": ["20", "10", "30", "50"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Điền số: 86 - ... = 81",
+    "options": ["5", "6", "4", "7"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "So sánh: 30 + 40 và 80 - 10",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "So sánh: 99 - 9 và 80 + 5",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Đàn gà có 25 con gà mái và 10 con gà trống. Đàn gà có tất cả bao nhiêu con?",
+    "options": ["35 con", "15 con", "30 con", "45 con"],
+    "correctAnswer": "35 con"
+  },
+  {
+    "question": "Bà 65 tuổi, mẹ kém bà 30 tuổi. Mẹ bao nhiêu tuổi?",
+    "options": ["35 tuổi", "95 tuổi", "30 tuổi", "45 tuổi"],
+    "correctAnswer": "35 tuổi"
+  },
+  {
+    "question": "26 + 13 =",
+    "options": ["39", "38", "49", "37"],
+    "correctAnswer": "39"
+  },
+  {
+    "question": "78 - 28 =",
+    "options": ["50", "51", "60", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Phép tính nào có kết quả là 100?",
+    "options": ["50 + 50", "90 + 20", "10 + 80", "70 + 20"],
+    "correctAnswer": "50 + 50"
+  },
+  {
+    "question": "Phép tính nào có kết quả là 10?",
+    "options": ["25 - 15", "10 + 1", "30 - 10", "5 + 6"],
+    "correctAnswer": "25 - 15"
+  },
+  {
+    "question": "Tính: 11 + 22 + 33 =",
+    "options": ["66", "65", "67", "56"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Tính: 77 - 33 - 44 =",
+    "options": ["0", "11", "22", "44"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Tìm một số biết rằng lấy số đó cộng với 25 thì được 55.",
+    "options": ["30", "80", "20", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tìm một số biết rằng lấy 98 trừ đi số đó thì được 10.",
+    "options": ["88", "108", "87", "89"],
+    "correctAnswer": "88"
+  }
+]
+

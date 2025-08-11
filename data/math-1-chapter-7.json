@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Bút chì nào dài hơn?",
+    "options": ["(Tùy hình vẽ)", "Bút A", "Bút B", "Bằng nhau"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Sợi dây nào ngắn hơn?",
+    "options": ["(Tùy hình vẽ)", "Dây xanh", "Dây đỏ", "Bằng nhau"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Cái thước nào dài nhất?",
+    "options": ["(Tùy hình vẽ)", "Thước A", "Thước B", "Thước C"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Cái thìa nào ngắn nhất?",
+    "options": ["(Tùy hình vẽ)", "Thìa A", "Thìa B", "Thìa C"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "So sánh hai cái bút: Bút xanh dài hơn bút đỏ. Đúng hay sai?",
+    "options": ["(Tùy hình vẽ)", "Đúng", "Sai", "Bằng nhau"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "So sánh hai con sâu: Con sâu A ngắn hơn con sâu B. Đúng hay sai?",
+    "options": ["(Tùy hình vẽ)", "Đúng", "Sai", "Bằng nhau"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Chọn vật dài hơn.",
+    "options": ["Cái thước kẻ", "Cục tẩy", "Bằng nhau", "Không có"],
+    "correctAnswer": "Cái thước kẻ"
+  },
+  {
+    "question": "Chọn vật ngắn hơn.",
+    "options": ["Ngón tay", "Cánh tay", "Bằng nhau", "Không có"],
+    "correctAnswer": "Ngón tay"
+  },
+  {
+    "question": "Cây cau và cây nấm, cây nào cao hơn?",
+    "options": ["Cây cau", "Cây nấm", "Bằng nhau", "Không có"],
+    "correctAnswer": "Cây cau"
+  },
+  {
+    "question": "Con hươu cao cổ và con chó, con nào thấp hơn?",
+    "options": ["Con chó", "Con hươu cao cổ", "Bằng nhau", "Không có"],
+    "correctAnswer": "Con chó"
+  },
+  {
+    "question": "Đơn vị đo độ dài thường dùng trên thước kẻ là gì?",
+    "options": ["Xăng-ti-mét", "Ki-lô-gam", "Lít", "Giờ"],
+    "correctAnswer": "Xăng-ti-mét"
+  },
+  {
+    "question": "Xăng-ti-mét viết tắt là gì?",
+    "options": ["cm", "kg", "l", "m"],
+    "correctAnswer": "cm"
+  },
+  {
+    "question": "Cái bút dài 10 cm. Số 10 chỉ gì?",
+    "options": ["Độ dài", "Cân nặng", "Màu sắc", "Giá tiền"],
+    "correctAnswer": "Độ dài"
+  },
+  {
+    "question": "Nhìn thước đo, cục tẩy dài mấy cm?",
+    "options": ["(Tùy hình vẽ)", "2 cm", "3 cm", "4 cm"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Nhìn thước đo, cái kẹp giấy dài mấy cm?",
+    "options": ["(Tùy hình vẽ)", "3 cm", "4 cm", "5 cm"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Đoạn thẳng AB dài 5 cm. Đúng hay sai?",
+    "options": ["(Tùy hình vẽ)", "Đúng", "Sai", "Không biết"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Ước lượng: Quyển sách toán dài khoảng mấy gang tay?",
+    "options": ["2 gang tay", "5 gang tay", "10 gang tay", "1 gang tay"],
+    "correctAnswer": "2 gang tay"
+  },
+  {
+    "question": "Ước lượng: Bàn học dài khoảng mấy gang tay?",
+    "options": ["5 gang tay", "2 gang tay", "1 gang tay", "10 gang tay"],
+    "correctAnswer": "5 gang tay"
+  },
+  {
+    "question": "Ước lượng: Bảng lớp dài khoảng mấy bước chân?",
+    "options": ["10 bước chân", "2 bước chân", "5 bước chân", "1 bước chân"],
+    "correctAnswer": "10 bước chân"
+  },
+  {
+    "question": "Để đo độ dài, em dùng gì?",
+    "options": ["Thước kẻ", "Cái cân", "Cái ca", "Đồng hồ"],
+    "correctAnswer": "Thước kẻ"
+  },
+  {
+    "question": "So sánh: 5 cm và 8 cm",
+    "options": ["5 cm < 8 cm", "5 cm > 8 cm", "5 cm = 8 cm", "Không so sánh được"],
+    "correctAnswer": "5 cm < 8 cm"
+  },
+  {
+    "question": "So sánh: 10 cm và 7 cm",
+    "options": ["10 cm > 7 cm", "10 cm < 7 cm", "10 cm = 7 cm", "Không so sánh được"],
+    "correctAnswer": "10 cm > 7 cm"
+  },
+  {
+    "question": "Tính: 3 cm + 4 cm =",
+    "options": ["7 cm", "7", "1 cm", "1"],
+    "correctAnswer": "7 cm"
+  },
+  {
+    "question": "Tính: 9 cm - 5 cm =",
+    "options": ["4 cm", "4", "14 cm", "14"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Băng giấy xanh dài 10 cm, băng giấy đỏ ngắn hơn 3 cm. Băng giấy đỏ dài mấy cm?",
+    "options": ["7 cm", "13 cm", "6 cm", "8 cm"],
+    "correctAnswer": "7 cm"
+  },
+  {
+    "question": "Cành cây dài 8 cm, cành hoa dài hơn 2 cm. Cành hoa dài mấy cm?",
+    "options": ["10 cm", "6 cm", "9 cm", "7 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Vật nào dài nhất?",
+    "options": ["Cái giường", "Cái bút", "Cục tẩy", "Quyển vở"],
+    "correctAnswer": "Cái giường"
+  },
+  {
+    "question": "Vật nào ngắn nhất?",
+    "options": ["Cái kẹp tóc", "Cái lược", "Cái bàn", "Cái tủ"],
+    "correctAnswer": "Cái kẹp tóc"
+  },
+  {
+    "question": "So sánh: Chiều cao của em và chiều cao của bố.",
+    "options": ["Em thấp hơn bố", "Em cao hơn bố", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Em thấp hơn bố"
+  },
+  {
+    "question": "Gang tay của ai dài hơn?",
+    "options": ["Của người lớn", "Của em bé", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Của người lớn"
+  },
+  {
+    "question": "Đo độ dài ngón tay trỏ của em. Dài khoảng mấy cm?",
+    "options": ["(Tùy bé)", "5 cm", "10 cm", "1 cm"],
+    "correctAnswer": "(Tùy bé)"
+  },
+  {
+    "question": "Đo độ dài cục tẩy của em. Dài mấy cm?",
+    "options": ["(Tùy bé)", "3 cm", "5 cm", "10 cm"],
+    "correctAnswer": "(Tùy bé)"
+  },
+  {
+    "question": "Tính: 1 cm + 2 cm + 3 cm =",
+    "options": ["6 cm", "5 cm", "7 cm", "4 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Tính: 10 cm - 4 cm - 2 cm =",
+    "options": ["4 cm", "6 cm", "8 cm", "5 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Sợi dây dài 10 cm. Cắt đi một đoạn 6 cm. Còn lại mấy cm?",
+    "options": ["4 cm", "16 cm", "3 cm", "5 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "An cao hơn Bình. Bình cao hơn Nam. Ai cao nhất?",
+    "options": ["An", "Bình", "Nam", "Bằng nhau"],
+    "correctAnswer": "An"
+  },
+  {
+    "question": "An cao hơn Bình. Bình cao hơn Nam. Ai thấp nhất?",
+    "options": ["Nam", "Bình", "An", "Bằng nhau"],
+    "correctAnswer": "Nam"
+  },
+  {
+    "question": "Để đo chiều rộng lớp học, dùng gang tay hay bước chân sẽ nhanh hơn?",
+    "options": ["Bước chân", "Gang tay", "Như nhau", "Không đo được"],
+    "correctAnswer": "Bước chân"
+  },
+  {
+    "question": "Đơn vị 'cm' đọc là gì?",
+    "options": ["Xăng-ti-mét", "Đề-xi-mét", "Mét", "Ki-lô-mét"],
+    "correctAnswer": "Xăng-ti-mét"
+  },
+  {
+    "question": "So sánh: 10 cm và 1 dm",
+    "options": ["10 cm = 1 dm", "10 cm > 1 dm", "10 cm < 1 dm", "Không so sánh được"],
+    "correctAnswer": "10 cm = 1 dm"
+  },
+  {
+    "question": "Bút chì của bạn dài 1 gang tay. Gang tay của bạn dài 10 cm. Bút chì dài mấy cm?",
+    "options": ["10 cm", "1 cm", "11 cm", "9 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Tính: 8 cm + 2 cm =",
+    "options": ["10 cm", "6 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Tính: 7 cm - 5 cm =",
+    "options": ["2 cm", "12 cm", "3 cm", "1 cm"],
+    "correctAnswer": "2 cm"
+  },
+  {
+    "question": "Đoạn thẳng AB dài 4 cm. Đoạn thẳng CD dài 6 cm. Đoạn thẳng nào dài hơn?",
+    "options": ["Đoạn thẳng CD", "Đoạn thẳng AB", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Đoạn thẳng CD"
+  },
+  {
+    "question": "Đoạn thẳng AB dài 4 cm. Đoạn thẳng CD dài 6 cm. Cả hai đoạn dài bao nhiêu?",
+    "options": ["10 cm", "2 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Ước lượng chiều dài bàn chân của em.",
+    "options": ["Khoảng 15 cm", "Khoảng 5 cm", "Khoảng 30 cm", "Khoảng 1 cm"],
+    "correctAnswer": "Khoảng 15 cm"
+  },
+  {
+    "question": "Khi đo, em đọc số ở đâu trên thước?",
+    "options": ["Ở cuối vật", "Ở đầu vật", "Ở giữa vật", "Không cần đọc"],
+    "correctAnswer": "Ở cuối vật"
+  },
+  {
+    "question": "Cái bút dài hơn cục tẩy. Cục tẩy dài hơn cái gọt bút chì. Vật nào dài nhất?",
+    "options": ["Cái bút", "Cục tẩy", "Cái gọt bút chì", "Bằng nhau"],
+    "correctAnswer": "Cái bút"
+  },
+  {
+    "question": "Cái bút dài hơn cục tẩy. Cục tẩy dài hơn cái gọt bút chì. Vật nào ngắn nhất?",
+    "options": ["Cái gọt bút chì", "Cục tẩy", "Cái bút", "Bằng nhau"],
+    "correctAnswer": "Cái gọt bút chì"
+  },
+  {
+    "question": "Tính: 5 cm + 5 cm =",
+    "options": ["10 cm", "0 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Tính: 10 cm - 10 cm =",
+    "options": ["0 cm", "20 cm", "1 cm", "10 cm"],
+    "correctAnswer": "0 cm"
+  },
+  {
+    "question": "Băng giấy dài 10 cm. Cắt làm 2 đoạn bằng nhau. Mỗi đoạn dài mấy cm?",
+    "options": ["5 cm", "8 cm", "12 cm", "20 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Cái nhà cao hơn cái cây. Cái cây cao hơn bụi cỏ. Cái gì cao nhất?",
+    "options": ["Cái nhà", "Cái cây", "Bụi cỏ", "Bằng nhau"],
+    "correctAnswer": "Cái nhà"
+  },
+  {
+    "question": "Cái nhà cao hơn cái cây. Cái cây cao hơn bụi cỏ. Cái gì thấp nhất?",
+    "options": ["Bụi cỏ", "Cái cây", "Cái nhà", "Bằng nhau"],
+    "correctAnswer": "Bụi cỏ"
+  },
+  {
+    "question": "So sánh: 1 dm và 9 cm",
+    "options": ["1 dm > 9 cm", "1 dm < 9 cm", "1 dm = 9 cm", "Không so sánh được"],
+    "correctAnswer": "1 dm > 9 cm"
+  },
+  {
+    "question": "Tính: 10 cm - 3 cm =",
+    "options": ["7 cm", "13 cm", "6 cm", "8 cm"],
+    "correctAnswer": "7 cm"
+  },
+  {
+    "question": "Tính: 2 cm + 8 cm =",
+    "options": ["10 cm", "6 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Đoạn thẳng MN dài 9 cm. Đoạn thẳng PQ ngắn hơn 4 cm. Đoạn PQ dài mấy cm?",
+    "options": ["5 cm", "13 cm", "4 cm", "6 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Ước lượng chiều rộng quyển vở của em.",
+    "options": ["Khoảng 15 cm", "Khoảng 5 cm", "Khoảng 30 cm", "Khoảng 1 cm"],
+    "correctAnswer": "Khoảng 15 cm"
+  },
+  {
+    "question": "Khi đo độ dài, ta phải đặt thước như thế nào so với vật?",
+    "options": ["Sát vào vật", "Xa vật", "Chéo với vật", "Vuông góc với vật"],
+    "correctAnswer": "Sát vào vật"
+  },
+  {
+    "question": "Tính: 6 cm + 3 cm =",
+    "options": ["9 cm", "3 cm", "8 cm", "10 cm"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "Tính: 8 cm - 6 cm =",
+    "options": ["2 cm", "14 cm", "3 cm", "1 cm"],
+    "correctAnswer": "2 cm"
+  },
+  {
+    "question": "Sợi dây thứ nhất dài 5 cm. Sợi dây thứ hai dài 5 cm. Hai sợi dây thế nào?",
+    "options": ["Bằng nhau", "Sợi thứ nhất dài hơn", "Sợi thứ hai dài hơn", "Không biết"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Con đường làng dài hơn hay ngắn hơn con đường cao tốc?",
+    "options": ["Ngắn hơn", "Dài hơn", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Ngắn hơn"
+  },
+  {
+    "question": "Để đo chiều dài cái bút, em dùng thước có đơn vị gì?",
+    "options": ["cm", "m", "km", "kg"],
+    "correctAnswer": "cm"
+  },
+  {
+    "question": "Tính: 1 cm + 9 cm =",
+    "options": ["10 cm", "8 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Tính: 10 cm - 1 cm =",
+    "options": ["9 cm", "11 cm", "8 cm", "10 cm"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "Đoạn thẳng dài 7 cm. Vẽ thêm 3 cm nữa. Đoạn thẳng mới dài mấy cm?",
+    "options": ["10 cm", "4 cm", "9 cm", "8 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "So sánh: 10 cm và 1 gang tay của em.",
+    "options": ["(Tùy bé)", "10 cm dài hơn", "1 gang tay dài hơn", "Bằng nhau"],
+    "correctAnswer": "(Tùy bé)"
+  },
+  {
+    "question": "Cái bàn cao hơn cái ghế. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Tóc bạn nam thường ngắn hơn tóc bạn nữ. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Tính: 4 cm + 4 cm =",
+    "options": ["8 cm", "0 cm", "7 cm", "9 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Tính: 8 cm - 4 cm =",
+    "options": ["4 cm", "12 cm", "3 cm", "5 cm"],
+    "correctAnswer": "4 cm"
+  },
+  {
+    "question": "Đoạn thẳng A dài 3 cm. Đoạn thẳng B dài 5 cm. Đoạn thẳng C dài 2 cm. Đoạn nào dài nhất?",
+    "options": ["Đoạn thẳng B", "Đoạn thẳng A", "Đoạn thẳng C", "Bằng nhau"],
+    "correctAnswer": "Đoạn thẳng B"
+  },
+  {
+    "question": "Đoạn thẳng A dài 3 cm. Đoạn thẳng B dài 5 cm. Đoạn thẳng C dài 2 cm. Đoạn nào ngắn nhất?",
+    "options": ["Đoạn thẳng C", "Đoạn thẳng A", "Đoạn thẳng B", "Bằng nhau"],
+    "correctAnswer": "Đoạn thẳng C"
+  },
+  {
+    "question": "Ước lượng chiều cao cửa ra vào.",
+    "options": ["Khoảng 2 m", "Khoảng 1 m", "Khoảng 20 cm", "Khoảng 2 km"],
+    "correctAnswer": "Khoảng 2 m"
+  },
+  {
+    "question": "Tính: 10 cm - 2 cm - 3 cm =",
+    "options": ["5 cm", "8 cm", "7 cm", "6 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Tính: 2 cm + 2 cm + 2 cm =",
+    "options": ["6 cm", "4 cm", "8 cm", "5 cm"],
+    "correctAnswer": "6 cm"
+  },
+  {
+    "question": "Sợi dây dài 9 cm. Cần thêm mấy cm nữa để được 10 cm?",
+    "options": ["1 cm", "19 cm", "8 cm", "2 cm"],
+    "correctAnswer": "1 cm"
+  },
+  {
+    "question": "So sánh: 1 m và 10 dm",
+    "options": ["1 m = 10 dm", "1 m > 10 dm", "1 m < 10 dm", "Không so sánh được"],
+    "correctAnswer": "1 m = 10 dm"
+  },
+  {
+    "question": "Cái bút chì dài hơn hay ngắn hơn cái thước kẻ?",
+    "options": ["Ngắn hơn", "Dài hơn", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Ngắn hơn"
+  },
+  {
+    "question": "Tính: 6 cm + 2 cm =",
+    "options": ["8 cm", "4 cm", "7 cm", "9 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Tính: 9 cm - 7 cm =",
+    "options": ["2 cm", "16 cm", "3 cm", "1 cm"],
+    "correctAnswer": "2 cm"
+  },
+  {
+    "question": "Đoạn thẳng dài 5 cm. Vẽ một đoạn thẳng khác dài hơn 2 cm. Đoạn thẳng mới dài mấy cm?",
+    "options": ["7 cm", "3 cm", "6 cm", "8 cm"],
+    "correctAnswer": "7 cm"
+  },
+  {
+    "question": "Đoạn thẳng dài 8 cm. Vẽ một đoạn thẳng khác ngắn hơn 3 cm. Đoạn thẳng mới dài mấy cm?",
+    "options": ["5 cm", "11 cm", "4 cm", "6 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Ước lượng chiều dài một viên gạch.",
+    "options": ["Khoảng 20 cm", "Khoảng 2 cm", "Khoảng 2 m", "Khoảng 2 dm"],
+    "correctAnswer": "Khoảng 20 cm"
+  },
+  {
+    "question": "Tính: 10 cm - 0 cm =",
+    "options": ["10 cm", "0 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Tính: 0 cm + 5 cm =",
+    "options": ["5 cm", "0 cm", "4 cm", "6 cm"],
+    "correctAnswer": "5 cm"
+  },
+  {
+    "question": "Cái cây cao 5 m. Con kiến bò từ gốc lên đến ngọn. Con kiến đã bò bao nhiêu mét?",
+    "options": ["5 m", "5 cm", "5 dm", "5 km"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "So sánh: 1 gang tay của em và 1 gang tay của mẹ.",
+    "options": ["Gang tay mẹ dài hơn", "Gang tay em dài hơn", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Gang tay mẹ dài hơn"
+  },
+  {
+    "question": "Con đường đến trường dài hơn hay ngắn hơn con đường trong sân trường?",
+    "options": ["Dài hơn", "Ngắn hơn", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Dài hơn"
+  },
+  {
+    "question": "Tính: 3 cm + 7 cm =",
+    "options": ["10 cm", "4 cm", "9 cm", "11 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Tính: 9 cm - 9 cm =",
+    "options": ["0 cm", "18 cm", "1 cm", "9 cm"],
+    "correctAnswer": "0 cm"
+  }
+]
+

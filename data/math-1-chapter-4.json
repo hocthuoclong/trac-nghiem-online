@@ -1,0 +1,468 @@
+[
+  {
+    "question": "Đây là khối gì? (Hình khối lập phương)",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Đây là khối gì? (Hình khối hộp chữ nhật)",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Hộp diêm có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Con súc sắc (xúc xắc) có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Khối rubik có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Tủ quần áo có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Khối lập phương có các mặt là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình tròn", "Hình tam giác"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Khối hộp chữ nhật có các mặt là hình gì?",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình tròn", "Hình tam giác"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Khối lập phương có lăn được không?",
+    "options": ["Không", "Có", "Lăn rất dễ", "Chỉ lăn được khi đẩy mạnh"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Khối hộp chữ nhật có thể trượt được không?",
+    "options": ["Có", "Không", "Chỉ trượt trên dốc", "Không bao giờ trượt"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Vật ở bên phải của em là vật nào?",
+    "options": ["(Tùy vị trí của bé)", "Cái bàn", "Cái ghế", "Cửa sổ"],
+    "correctAnswer": "(Tùy vị trí của bé)"
+  },
+  {
+    "question": "Vật ở bên trái của em là vật nào?",
+    "options": ["(Tùy vị trí của bé)", "Cái giường", "Cái tủ", "Bức tranh"],
+    "correctAnswer": "(Tùy vị trí của bé)"
+  },
+  {
+    "question": "Vật nào ở phía trên?",
+    "options": ["Cái quạt trần", "Sàn nhà", "Cái bàn", "Đôi dép"],
+    "correctAnswer": "Cái quạt trần"
+  },
+  {
+    "question": "Vật nào ở phía dưới?",
+    "options": ["Nền nhà", "Bóng đèn", "Mái nhà", "Trần nhà"],
+    "correctAnswer": "Nền nhà"
+  },
+  {
+    "question": "Vật nào ở phía trước?",
+    "options": ["Màn hình máy tính", "Lưng ghế", "Tường sau lưng", "Gáy sách"],
+    "correctAnswer": "Màn hình máy tính"
+  },
+  {
+    "question": "Vật nào ở phía sau?",
+    "options": ["Bức tường sau lưng", "Cái bàn trước mặt", "Quyển vở đang mở", "Bát cơm"],
+    "correctAnswer": "Bức tường sau lưng"
+  },
+  {
+    "question": "Trong tranh, con mèo ở đâu so với cái cây?",
+    "options": ["(Tùy tranh vẽ)", "Bên phải", "Bên trái", "Trên", "Dưới"],
+    "correctAnswer": "(Tùy tranh vẽ)"
+  },
+  {
+    "question": "Trong tranh, quả táo ở đâu so với cái đĩa?",
+    "options": ["(Tùy tranh vẽ)", "Ở trên", "Ở dưới", "Bên cạnh", "Ở xa"],
+    "correctAnswer": "(Tùy tranh vẽ)"
+  },
+  {
+    "question": "Khối lập phương có mấy mặt?",
+    "options": ["6 mặt", "4 mặt", "5 mặt", "8 mặt"],
+    "correctAnswer": "6 mặt"
+  },
+  {
+    "question": "Khối hộp chữ nhật có mấy mặt?",
+    "options": ["6 mặt", "4 mặt", "5 mặt", "8 mặt"],
+    "correctAnswer": "6 mặt"
+  },
+  {
+    "question": "Các mặt của khối lập phương có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ có 2 mặt bằng nhau", "Chỉ có 4 mặt bằng nhau"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Các mặt của khối hộp chữ nhật có bằng nhau không?",
+    "options": ["Không, chỉ các mặt đối diện bằng nhau", "Có, tất cả bằng nhau", "Không có mặt nào bằng nhau", "Chỉ có 2 mặt bằng nhau"],
+    "correctAnswer": "Không, chỉ các mặt đối diện bằng nhau"
+  },
+  {
+    "question": "Hộp quà có dạng khối gì?",
+    "options": ["Khối lập phương hoặc khối hộp chữ nhật", "Khối cầu", "Khối trụ", "Khối tam giác"],
+    "correctAnswer": "Khối lập phương hoặc khối hộp chữ nhật"
+  },
+  {
+    "question": "Viên gạch xây nhà có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Quyển sách là khối hộp chữ nhật. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Là khối lập phương", "Là khối cầu"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Quả bóng là khối lập phương. Đúng hay sai?",
+    "options": ["Sai", "Đúng", "Là khối hộp chữ nhật", "Là khối trụ"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Tay phải của em ở đâu?",
+    "options": ["Bên phải", "Bên trái", "Ở giữa", "Phía trên"],
+    "correctAnswer": "Bên phải"
+  },
+  {
+    "question": "Tay trái của em ở đâu?",
+    "options": ["Bên trái", "Bên phải", "Ở giữa", "Phía dưới"],
+    "correctAnswer": "Bên trái"
+  },
+  {
+    "question": "Đầu của em ở đâu?",
+    "options": ["Ở trên", "Ở dưới", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Chân của em ở đâu?",
+    "options": ["Ở dưới", "Ở trên", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Trong hình, bạn nam đứng bên nào so với bạn nữ?",
+    "options": ["(Tùy hình vẽ)", "Bên trái", "Bên phải", "Phía sau", "Phía trước"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Trong hình, cái mũ ở đâu so với cái đầu?",
+    "options": ["Ở trên", "Ở dưới", "Bên trong", "Bên ngoài"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Khối nào có thể xếp chồng lên nhau?",
+    "options": ["Khối lập phương", "Khối cầu", "Cả hai", "Không khối nào"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Khối nào có thể xếp chồng lên nhau?",
+    "options": ["Khối hộp chữ nhật", "Khối cầu", "Cả hai", "Không khối nào"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Vật nào không có dạng khối hộp chữ nhật?",
+    "options": ["Cái bánh xe", "Hộp sữa giấy", "Cái tủ lạnh", "Viên gạch"],
+    "correctAnswer": "Cái bánh xe"
+  },
+  {
+    "question": "Vật nào không có dạng khối lập phương?",
+    "options": ["Quả dưa hấu", "Con súc sắc", "Khối rubik", "Hộp quà vuông"],
+    "correctAnswer": "Quả dưa hấu"
+  },
+  {
+    "question": "Mắt của em ở đâu so với miệng?",
+    "options": ["Ở trên", "Ở dưới", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Mũi của em ở đâu so với tai?",
+    "options": ["Ở giữa", "Ở trên", "Ở dưới", "Bên ngoài"],
+    "correctAnswer": "Ở giữa"
+  },
+  {
+    "question": "Đếm số khối lập phương trong hình.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Đếm số khối hộp chữ nhật trong hình.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Để đi thẳng, em đi về phía nào?",
+    "options": ["Phía trước", "Phía sau", "Bên trái", "Bên phải"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Để đi lùi, em đi về phía nào?",
+    "options": ["Phía sau", "Phía trước", "Bên trái", "Bên phải"],
+    "correctAnswer": "Phía sau"
+  },
+  {
+    "question": "Khi cô giáo nói 'Bên phải quay!', em quay về hướng nào?",
+    "options": ["Bên phải", "Bên trái", "Phía sau", "Phía trước"],
+    "correctAnswer": "Bên phải"
+  },
+  {
+    "question": "Khi cô giáo nói 'Bên trái quay!', em quay về hướng nào?",
+    "options": ["Bên trái", "Bên phải", "Phía sau", "Phía trước"],
+    "correctAnswer": "Bên trái"
+  },
+  {
+    "question": "Khối lập phương và khối hộp chữ nhật, khối nào chắc chắn có các mặt bằng nhau?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Cả hai", "Không khối nào"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Hộp bánh Chocopie có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Một tòa nhà chung cư có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Trong hàng, bạn An đứng trước bạn Bình. Vậy bạn Bình đứng đâu so với bạn An?",
+    "options": ["Phía sau", "Phía trước", "Bên cạnh", "Ở trên"],
+    "correctAnswer": "Phía sau"
+  },
+  {
+    "question": "Trong hàng, bạn Mai đứng sau bạn Lan. Vậy bạn Lan đứng đâu so với bạn Mai?",
+    "options": ["Phía trước", "Phía sau", "Bên cạnh", "Ở dưới"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Quyển vở đặt trên bàn. Quyển vở ở đâu so với cái bàn?",
+    "options": ["Ở trên", "Ở dưới", "Bên trong", "Bên ngoài"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Gầm bàn ở đâu so với mặt bàn?",
+    "options": ["Ở dưới", "Ở trên", "Bên cạnh", "Phía trước"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Khối nào có 6 mặt đều là hình vuông?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Khối nào có 6 mặt đều là hình chữ nhật?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Vật nào có dạng khối lập phương?",
+    "options": ["Hộp đựng khăn giấy vuông", "Quả bóng", "Lon nước", "Cái bút"],
+    "correctAnswer": "Hộp đựng khăn giấy vuông"
+  },
+  {
+    "question": "Vật nào có dạng khối hộp chữ nhật?",
+    "options": ["Thùng mì tôm", "Viên bi", "Cái đĩa", "Quả cam"],
+    "correctAnswer": "Thùng mì tôm"
+  },
+  {
+    "question": "Bên phải của số 5 trên một dòng là số 6. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Là số 4", "Không có số nào"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Bên trái của số 9 trên một dòng là số 8. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Là số 10", "Không có số nào"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Con chim đậu trên cành cây. Con chim ở đâu so với cành cây?",
+    "options": ["Ở trên", "Ở dưới", "Bên trong", "Bên ngoài"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Con cá bơi dưới nước. Con cá ở đâu so với mặt nước?",
+    "options": ["Ở dưới", "Ở trên", "Bên cạnh", "Phía trước"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Khối nào không lăn được?",
+    "options": ["Khối hộp chữ nhật", "Khối cầu", "Khối trụ", "Quả bóng"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Khối nào có các góc vuông?",
+    "options": ["Khối lập phương", "Khối cầu", "Khối trụ", "Quả bóng"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Cái tủ lạnh có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Một viên đường phèn vuông có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Để chỉ đường, người ta nói 'Rẽ phải'. Em sẽ đi về hướng nào?",
+    "options": ["Bên phải", "Bên trái", "Đi thẳng", "Đi lùi"],
+    "correctAnswer": "Bên phải"
+  },
+  {
+    "question": "Để chỉ đường, người ta nói 'Rẽ trái'. Em sẽ đi về hướng nào?",
+    "options": ["Bên trái", "Bên phải", "Đi thẳng", "Đi lùi"],
+    "correctAnswer": "Bên trái"
+  },
+  {
+    "question": "Trong lớp học, bảng đen ở đâu so với em?",
+    "options": ["Phía trước", "Phía sau", "Bên trái", "Bên phải"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Trong lớp học, bức tường có cửa sổ ở bên nào của em?",
+    "options": ["(Tùy lớp học)", "Bên trái", "Bên phải", "Phía sau"],
+    "correctAnswer": "(Tùy lớp học)"
+  },
+  {
+    "question": "Khối lập phương có bao nhiêu đỉnh?",
+    "options": ["8 đỉnh", "6 đỉnh", "4 đỉnh", "12 đỉnh"],
+    "correctAnswer": "8 đỉnh"
+  },
+  {
+    "question": "Khối hộp chữ nhật có bao nhiêu cạnh?",
+    "options": ["12 cạnh", "8 cạnh", "6 cạnh", "4 cạnh"],
+    "correctAnswer": "12 cạnh"
+  },
+  {
+    "question": "Hộp bút có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Cục tẩy có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Khi ngồi vào bàn học, quyển vở ở đâu so với em?",
+    "options": ["Phía trước", "Phía sau", "Bên trên", "Bên dưới"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Khi ngồi trên ghế, cái ghế ở đâu so với em?",
+    "options": ["Ở dưới", "Ở trên", "Phía trước", "Phía sau"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Trong hình, ngôi nhà ở bên phải cái cây. Vậy cái cây ở đâu so với ngôi nhà?",
+    "options": ["Bên trái", "Bên phải", "Phía trên", "Phía dưới"],
+    "correctAnswer": "Bên trái"
+  },
+  {
+    "question": "Trong hình, mặt trời ở trên đám mây. Vậy đám mây ở đâu so với mặt trời?",
+    "options": ["Ở dưới", "Ở trên", "Bên cạnh", "Phía sau"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Khối nào có tất cả các mặt đều bằng nhau?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Khối nào có các mặt đối diện bằng nhau?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Cả hai", "Không khối nào"],
+    "correctAnswer": "Cả hai"
+  },
+  {
+    "question": "Hộp đựng giày có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Một viên xúc xắc đồ chơi có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Để đi về phía trước, em bước chân nào trước?",
+    "options": ["Chân nào cũng được", "Chỉ chân phải", "Chỉ chân trái", "Không bước"],
+    "correctAnswer": "Chân nào cũng được"
+  },
+  {
+    "question": "Bút của em ở bên tay nào khi em viết?",
+    "options": ["(Tùy bé thuận tay nào)", "Tay phải", "Tay trái", "Cả hai tay"],
+    "correctAnswer": "(Tùy bé thuận tay nào)"
+  },
+  {
+    "question": "Trong hình, bông hoa ở bên trái cái lá. Cái lá ở đâu so với bông hoa?",
+    "options": ["Bên phải", "Bên trái", "Ở trên", "Ở dưới"],
+    "correctAnswer": "Bên phải"
+  },
+  {
+    "question": "Trong hình, con chó ở phía trước ngôi nhà. Ngôi nhà ở đâu so với con chó?",
+    "options": ["Phía sau", "Phía trước", "Bên cạnh", "Ở trên"],
+    "correctAnswer": "Phía sau"
+  },
+  {
+    "question": "Khối nào được tạo bởi 6 hình vuông?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Khối nào được tạo bởi 6 hình chữ nhật?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Cái giường ngủ có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Một thùng carton vuông có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Để nhìn thấy vật ở sau lưng, em phải làm gì?",
+    "options": ["Quay người lại", "Nhắm mắt lại", "Nhìn thẳng", "Nhìn lên"],
+    "correctAnswer": "Quay người lại"
+  },
+  {
+    "question": "Bầu trời ở đâu so với em?",
+    "options": ["Ở trên", "Ở dưới", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Trong hình, quyển sách ở dưới cái bút. Cái bút ở đâu so với quyển sách?",
+    "options": ["Ở trên", "Ở dưới", "Bên trong", "Bên ngoài"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Khối lập phương và khối hộp chữ nhật có gì giống nhau?",
+    "options": ["Đều có 6 mặt, 8 đỉnh, 12 cạnh", "Đều có các mặt bằng nhau", "Đều lăn được", "Đều có mặt tròn"],
+    "correctAnswer": "Đều có 6 mặt, 8 đỉnh, 12 cạnh"
+  },
+  {
+    "question": "Loa thùng có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Để chỉ vị trí của một vật, ta có thể dùng các từ nào?",
+    "options": ["Trên, dưới, trái, phải, trước, sau", "To, nhỏ, cao, thấp", "Xanh, đỏ, tím, vàng", "Nhanh, chậm"],
+    "correctAnswer": "Trên, dưới, trái, phải, trước, sau"
+  }
+]
+

@@ -1,0 +1,488 @@
+[
+  {
+    "question": "Số 3 đọc là:",
+    "options": ["Ba", "Bốn", "Hai", "Năm"],
+    "correctAnswer": "Ba"
+  },
+  {
+    "question": "Viết số: Năm",
+    "options": ["5", "4", "3", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Viết số: Không",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 1 đọc là:",
+    "options": ["Một", "Hai", "Ba", "Không"],
+    "correctAnswer": "Một"
+  },
+  {
+    "question": "Có 4 quả táo. Chọn số:",
+    "options": ["4", "3", "5", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số 2 đọc là:",
+    "options": ["Hai", "Ba", "Một", "Bốn"],
+    "correctAnswer": "Hai"
+  },
+  {
+    "question": "Không có quả cam nào. Chọn số:",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Viết số: Bốn",
+    "options": ["4", "5", "2", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số 8 đọc là:",
+    "options": ["Tám", "Bảy", "Chín", "Sáu"],
+    "correctAnswer": "Tám"
+  },
+  {
+    "question": "Viết số: Sáu",
+    "options": ["6", "7", "8", "9"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Viết số: Mười",
+    "options": ["10", "9", "8", "7"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số 7 đọc là:",
+    "options": ["Bảy", "Sáu", "Tám", "Chín"],
+    "correctAnswer": "Bảy"
+  },
+  {
+    "question": "Có 9 ngôi sao. Chọn số:",
+    "options": ["9", "8", "10", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Viết số: Chín",
+    "options": ["9", "10", "8", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một bàn tay có mấy ngón?",
+    "options": ["5", "4", "6", "10"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Hai bàn tay có mấy ngón?",
+    "options": ["10", "8", "9", "5"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Nhóm nào nhiều hơn? (A: 3 quả, B: 5 quả)",
+    "options": ["Nhóm B", "Nhóm A", "Bằng nhau", "Không có"],
+    "correctAnswer": "Nhóm B"
+  },
+  {
+    "question": "Nhóm nào ít hơn? (A: 7 hoa, B: 4 hoa)",
+    "options": ["Nhóm B", "Nhóm A", "Bằng nhau", "Không có"],
+    "correctAnswer": "Nhóm B"
+  },
+  {
+    "question": "Hai nhóm có bằng nhau không? (A: 6 kẹo, B: 6 kẹo)",
+    "options": ["Có", "Không", "Nhóm A nhiều hơn", "Nhóm B nhiều hơn"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Điền dấu: 5 ... 3",
+    "options": [">", "<", "=", "+"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Điền dấu: 7 ... 9",
+    "options": ["<", ">", "=", "-"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Điền dấu: 8 ... 8",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Số lớn hơn: 4 và 6",
+    "options": ["6", "4", "Bằng nhau", "Không có"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số bé hơn: 10 và 9",
+    "options": ["9", "10", "Bằng nhau", "Không có"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "5 gồm 2 và mấy?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "7 gồm 4 và mấy?",
+    "options": ["3", "4", "2", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "10 gồm 6 và mấy?",
+    "options": ["4", "5", "3", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "3 và 1 được mấy?",
+    "options": ["4", "2", "3", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "5 và 5 được mấy?",
+    "options": ["10", "9", "8", "0"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Điền số: 1, 2, 3, ... , 5",
+    "options": ["4", "6", "3", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Điền số: 6, 7, ... , 9, 10",
+    "options": ["8", "7", "10", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số liền sau của 4 là:",
+    "options": ["5", "3", "6", "2"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số liền trước của 7 là:",
+    "options": ["6", "8", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số ở giữa 8 và 10 là:",
+    "options": ["9", "8", "10", "7"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số lớn nhất: 2, 5, 1, 4",
+    "options": ["5", "2", "1", "4"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số bé nhất: 8, 6, 9, 7",
+    "options": ["6", "8", "9", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Sắp xếp từ bé đến lớn: 3, 1, 5, 2",
+    "options": ["1, 2, 3, 5", "5, 3, 2, 1", "1, 3, 2, 5", "2, 5, 1, 3"],
+    "correctAnswer": "1, 2, 3, 5"
+  },
+  {
+    "question": "Sắp xếp từ lớn đến bé: 10, 7, 9, 6",
+    "options": ["10, 9, 7, 6", "6, 7, 9, 10", "10, 7, 9, 6", "9, 10, 6, 7"],
+    "correctAnswer": "10, 9, 7, 6"
+  },
+  {
+    "question": "9 gồm 5 và mấy?",
+    "options": ["4", "3", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "8 gồm mấy và 2?",
+    "options": ["6", "7", "5", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Có 7 con cá. Chọn số:",
+    "options": ["7", "6", "8", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Viết số: Ba",
+    "options": ["3", "2", "4", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Số 6 đọc là:",
+    "options": ["Sáu", "Bảy", "Tám", "Năm"],
+    "correctAnswer": "Sáu"
+  },
+  {
+    "question": "A: 8 quả, B: 6 quả. A nhiều hơn B mấy quả?",
+    "options": ["2 quả", "14 quả", "8 quả", "6 quả"],
+    "correctAnswer": "2 quả"
+  },
+  {
+    "question": "Điền dấu: 10 ... 1",
+    "options": [">", "<", "=", "-"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Điền dấu: 0 ... 2",
+    "options": ["<", ">", "=", " "],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "6 và 2 được mấy?",
+    "options": ["8", "4", "7", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số liền trước của 1 là:",
+    "options": ["0", "2", "1", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số liền sau của 9 là:",
+    "options": ["10", "8", "9", "7"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số lớn nhất có một chữ số là:",
+    "options": ["9", "10", "8", "1"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số bé nhất khác 0 là số nào?",
+    "options": ["1", "0", "2", "10"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "4 gồm 3 và mấy?",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "2 và 5 được mấy?",
+    "options": ["7", "3", "6", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Có mấy số từ 0 đến 5?",
+    "options": ["6 số", "5 số", "4 số", "7 số"],
+    "correctAnswer": "6 số"
+  },
+  {
+    "question": "Có mấy số từ 6 đến 10?",
+    "options": ["5 số", "4 số", "6 số", "7 số"],
+    "correctAnswer": "5 số"
+  },
+  {
+    "question": "An: 5 kẹo, Bình: 7 kẹo. Ai ít kẹo hơn?",
+    "options": ["An", "Bình", "Bằng nhau", "Không biết"],
+    "correctAnswer": "An"
+  },
+  {
+    "question": "So sánh: 2 và 2",
+    "options": ["2 = 2", "2 > 2", "2 < 2", "Không so sánh được"],
+    "correctAnswer": "2 = 2"
+  },
+  {
+    "question": "10 gồm mấy và 1?",
+    "options": ["9", "8", "7", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "7 và 0 được mấy?",
+    "options": ["7", "0", "6", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số nào ở giữa 3 và 5?",
+    "options": ["4", "3", "5", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số liền trước của 10 là:",
+    "options": ["9", "11", "8", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số liền sau của 0 là:",
+    "options": ["1", "0", "2", "-1"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Sắp xếp từ bé đến lớn: 0, 5, 2, 4",
+    "options": ["0, 2, 4, 5", "5, 4, 2, 0", "0, 4, 2, 5", "2, 5, 0, 4"],
+    "correctAnswer": "0, 2, 4, 5"
+  },
+  {
+    "question": "Sắp xếp từ lớn đến bé: 8, 9, 5, 7",
+    "options": ["9, 8, 7, 5", "5, 7, 8, 9", "9, 7, 8, 5", "8, 9, 5, 7"],
+    "correctAnswer": "9, 8, 7, 5"
+  },
+  {
+    "question": "6 gồm 3 và mấy?",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "4 và 4 được mấy?",
+    "options": ["8", "0", "7", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Có 1 mặt trời. Chọn số:",
+    "options": ["1", "0", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Viết số: Hai",
+    "options": ["2", "3", "1", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Số 10 đọc là:",
+    "options": ["Mười", "Một không", "Chín", "Tám"],
+    "correctAnswer": "Mười"
+  },
+  {
+    "question": "4 bút và 4 vở. Số bút và số vở thế nào?",
+    "options": ["Bằng nhau", "Bút nhiều hơn", "Vở nhiều hơn", "Không biết"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Điền dấu: 6 ... 9",
+    "options": ["<", ">", "=", "+"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Điền dấu: 7 ... 5",
+    "options": [">", "<", "=", "-"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "9 gồm mấy và 3?",
+    "options": ["6", "7", "5", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "1 và 5 được mấy?",
+    "options": ["6", "4", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số liền trước của 5 là:",
+    "options": ["4", "6", "3", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số liền sau của 6 là:",
+    "options": ["7", "5", "8", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số bé nhất: 3, 0, 1, 2",
+    "options": ["0", "1", "2", "3"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số lớn nhất: 10, 8, 7, 9",
+    "options": ["10", "9", "8", "7"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "8 gồm 1 và mấy?",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "3 và 3 được mấy?",
+    "options": ["6", "5", "7", "9"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Có mấy số chẵn? (0, 2, 4, 6, 8, 10)",
+    "options": ["6 số", "5 số", "4 số", "7 số"],
+    "correctAnswer": "6 số"
+  },
+  {
+    "question": "Có mấy số lẻ? (1, 3, 5, 7, 9)",
+    "options": ["5 số", "6 số", "4 số", "7 số"],
+    "correctAnswer": "5 số"
+  },
+  {
+    "question": "Lan: 10 bi, Hùng: 8 bi. Ai nhiều bi hơn?",
+    "options": ["Lan", "Hùng", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Lan"
+  },
+  {
+    "question": "So sánh: 1 + 2 và 3",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "So sánh: 5 + 4 và 8",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "7 gồm 3 và mấy?",
+    "options": ["4", "5", "2", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "6 và 4 được mấy?",
+    "options": ["10", "2", "9", "8"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tìm số lớn hơn 3 và bé hơn 5.",
+    "options": ["4", "3", "5", "2"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số liền trước của 0 là số nào?",
+    "options": ["Không có", "1", "-1", "0"],
+    "correctAnswer": "Không có"
+  },
+  {
+    "question": "Số liền sau của 9 là số nào?",
+    "options": ["10", "9", "8", "11"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Sắp xếp từ bé đến lớn: 4, 8, 1, 6",
+    "options": ["1, 4, 6, 8", "8, 6, 4, 1", "1, 6, 4, 8", "4, 1, 8, 6"],
+    "correctAnswer": "1, 4, 6, 8"
+  },
+  {
+    "question": "Sắp xếp từ lớn đến bé: 2, 0, 3, 1",
+    "options": ["3, 2, 1, 0", "0, 1, 2, 3", "3, 1, 2, 0", "2, 3, 0, 1"],
+    "correctAnswer": "3, 2, 1, 0"
+  },
+  {
+    "question": "5 gồm 4 và mấy?",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "2 và 8 được mấy?",
+    "options": ["10", "6", "9", "7"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Có 2 con mắt. Chọn số:",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Viết số: Bảy",
+    "options": ["7", "6", "8", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số 5 đọc là:",
+    "options": ["Năm", "Sáu", "Bốn", "Ba"],
+    "correctAnswer": "Năm"
+  }
+]
+

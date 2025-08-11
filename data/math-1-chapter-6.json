@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Số 'Hai mươi ba' viết là:",
+    "options": ["23", "32", "20", "230"],
+    "correctAnswer": "23"
+  },
+  {
+    "question": "Số 45 đọc là:",
+    "options": ["Bốn mươi lăm", "Bốn năm", "Năm mươi bốn", "Bốn mươi năm"],
+    "correctAnswer": "Bốn mươi lăm"
+  },
+  {
+    "question": "Số gồm 3 chục và 5 đơn vị là số nào?",
+    "options": ["35", "53", "30", "5"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Số 62 gồm mấy chục và mấy đơn vị?",
+    "options": ["6 chục và 2 đơn vị", "2 chục và 6 đơn vị", "60 chục và 2 đơn vị", "6 chục và 20 đơn vị"],
+    "correctAnswer": "6 chục và 2 đơn vị"
+  },
+  {
+    "question": "Viết số: Năm mươi",
+    "options": ["50", "15", "51", "5"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số 99 đọc là:",
+    "options": ["Chín mươi chín", "Chín chín", "Mười chín", "Chín mươi"],
+    "correctAnswer": "Chín mươi chín"
+  },
+  {
+    "question": "Số gồm 1 chục và 1 đơn vị là số nào?",
+    "options": ["11", "10", "1", "2"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Số 70 gồm mấy chục và mấy đơn vị?",
+    "options": ["7 chục và 0 đơn vị", "0 chục và 7 đơn vị", "7 chục và 7 đơn vị", "70 chục và 0 đơn vị"],
+    "correctAnswer": "7 chục và 0 đơn vị"
+  },
+  {
+    "question": "Điền dấu: 25 ... 31",
+    "options": ["<", ">", "=", "+"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Điền dấu: 47 ... 42",
+    "options": [">", "<", "=", "-"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Điền dấu: 60 ... 60",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Số lớn hơn: 58 và 85",
+    "options": ["85", "58", "Bằng nhau", "Không có"],
+    "correctAnswer": "85"
+  },
+  {
+    "question": "Số bé hơn: 39 và 36",
+    "options": ["36", "39", "Bằng nhau", "Không có"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "So sánh: 19 và 91",
+    "options": ["19 < 91", "19 > 91", "19 = 91", "Không so sánh được"],
+    "correctAnswer": "19 < 91"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 21, 12, 20, 19",
+    "options": ["21", "12", "20", "19"],
+    "correctAnswer": "21"
+  },
+  {
+    "question": "Số bé nhất trong các số: 75, 57, 77, 55",
+    "options": ["55", "57", "75", "77"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Số liền sau của 29 là:",
+    "options": ["30", "28", "31", "20"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Số liền trước của 60 là:",
+    "options": ["59", "61", "50", "62"],
+    "correctAnswer": "59"
+  },
+  {
+    "question": "Số liền sau của 99 là:",
+    "options": ["100", "98", "90", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số liền trước của 100 là:",
+    "options": ["99", "101", "90", "98"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số ở giữa 45 và 47 là:",
+    "options": ["46", "45", "47", "44"],
+    "correctAnswer": "46"
+  },
+  {
+    "question": "Trong bảng các số từ 1 đến 100, số cuối cùng là:",
+    "options": ["100", "99", "1", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Trong bảng các số từ 1 đến 100, số nào đứng trước số 50?",
+    "options": ["49", "51", "40", "60"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "Trong bảng các số từ 1 đến 100, số nào đứng sau số 89?",
+    "options": ["90", "88", "91", "80"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số 'Sáu mươi mốt' viết là:",
+    "options": ["61", "16", "60", "62"],
+    "correctAnswer": "61"
+  },
+  {
+    "question": "Số 88 đọc là:",
+    "options": ["Tám mươi tám", "Tám tám", "Tám mươi", "Mười tám"],
+    "correctAnswer": "Tám mươi tám"
+  },
+  {
+    "question": "Số gồm 9 chục và 0 đơn vị là:",
+    "options": ["90", "9", "99", "19"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số 15 gồm mấy chục và mấy đơn vị?",
+    "options": ["1 chục và 5 đơn vị", "5 chục và 1 đơn vị", "10 chục và 5 đơn vị", "1 chục và 15 đơn vị"],
+    "correctAnswer": "1 chục và 5 đơn vị"
+  },
+  {
+    "question": "So sánh: 78 và 87",
+    "options": ["78 < 87", "78 > 87", "78 = 87", "Không so sánh được"],
+    "correctAnswer": "78 < 87"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số là:",
+    "options": ["99", "10", "90", "100"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số là:",
+    "options": ["10", "11", "99", "1"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số tròn chục liền sau 40 là:",
+    "options": ["50", "41", "30", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số tròn chục liền trước 80 là:",
+    "options": ["70", "79", "90", "60"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Sắp xếp từ bé đến lớn: 31, 13, 30, 10",
+    "options": ["10, 13, 30, 31", "31, 30, 13, 10", "10, 30, 13, 31", "13, 10, 31, 30"],
+    "correctAnswer": "10, 13, 30, 31"
+  },
+  {
+    "question": "Sắp xếp từ lớn đến bé: 56, 65, 55, 66",
+    "options": ["66, 65, 56, 55", "55, 56, 65, 66", "66, 56, 65, 55", "56, 55, 66, 65"],
+    "correctAnswer": "66, 65, 56, 55"
+  },
+  {
+    "question": "Viết số: Bốn mươi hai",
+    "options": ["42", "24", "40", "43"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "Số 18 đọc là:",
+    "options": ["Mười tám", "Một tám", "Tám mươi một", "Tám mươi"],
+    "correctAnswer": "Mười tám"
+  },
+  {
+    "question": "Số 55 gồm mấy chục và mấy đơn vị?",
+    "options": ["5 chục và 5 đơn vị", "50 chục và 5 đơn vị", "5 chục và 50 đơn vị", "10 chục"],
+    "correctAnswer": "5 chục và 5 đơn vị"
+  },
+  {
+    "question": "Số lớn hơn: 98 và 89",
+    "options": ["98", "89", "Bằng nhau", "Không có"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Số bé hơn: 22 và 33",
+    "options": ["22", "33", "Bằng nhau", "Không có"],
+    "correctAnswer": "22"
+  },
+  {
+    "question": "Số liền trước của 20 là:",
+    "options": ["19", "21", "10", "30"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Số liền sau của 79 là:",
+    "options": ["80", "78", "81", "70"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Số nào có chữ số hàng chục là 5?",
+    "options": ["52", "25", "5", "15"],
+    "correctAnswer": "52"
+  },
+  {
+    "question": "Số nào có chữ số hàng đơn vị là 9?",
+    "options": ["49", "94", "9", "90"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "Viết số: Mười bốn",
+    "options": ["14", "41", "10", "40"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Số 30 đọc là:",
+    "options": ["Ba mươi", "Ba không", "Mười ba", "Ba chục"],
+    "correctAnswer": "Ba mươi"
+  },
+  {
+    "question": "Số gồm 8 chục và 1 đơn vị là:",
+    "options": ["81", "18", "80", "8"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Điền dấu: 51 ... 15",
+    "options": [">", "<", "=", "+"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Điền dấu: 77 ... 77",
+    "options": ["=", ">", "<", "-"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Số liền trước của 41 là:",
+    "options": ["40", "42", "39", "50"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Số liền sau của 80 là:",
+    "options": ["81", "79", "82", "90"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Trong các số: 34, 43, 33, 44. Số nào lớn nhất?",
+    "options": ["44", "34", "43", "33"],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "Trong các số: 89, 98, 90, 80. Số nào bé nhất?",
+    "options": ["80", "89", "98", "90"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Số tròn chục là số có chữ số hàng đơn vị là mấy?",
+    "options": ["0", "5", "9", "1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số nào là số tròn chục?",
+    "options": ["70", "71", "75", "17"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Viết số: Chín mươi lăm",
+    "options": ["95", "59", "90", "96"],
+    "correctAnswer": "95"
+  },
+  {
+    "question": "Số 28 đọc là:",
+    "options": ["Hai mươi tám", "Hai tám", "Tám mươi hai", "Hai mươi"],
+    "correctAnswer": "Hai mươi tám"
+  },
+  {
+    "question": "Số 40 gồm mấy chục?",
+    "options": ["4 chục", "40 chục", "0 chục", "10 chục"],
+    "correctAnswer": "4 chục"
+  },
+  {
+    "question": "So sánh: 69 và 96",
+    "options": ["69 < 96", "69 > 96", "69 = 96", "Không so sánh được"],
+    "correctAnswer": "69 < 96"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số giống nhau là:",
+    "options": ["11", "10", "22", "99"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số giống nhau là:",
+    "options": ["99", "88", "100", "11"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số liền trước của 11 là:",
+    "options": ["10", "12", "9", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số liền sau của 68 là:",
+    "options": ["69", "67", "70", "60"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "Số nào ở giữa 98 và 100?",
+    "options": ["99", "97", "101", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Viết số: Bảy mươi bảy",
+    "options": ["77", "70", "7", "17"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "Số 52 đọc là:",
+    "options": ["Năm mươi hai", "Năm hai", "Hai mươi lăm", "Năm mươi"],
+    "correctAnswer": "Năm mươi hai"
+  },
+  {
+    "question": "Số gồm 2 chục và 9 đơn vị là:",
+    "options": ["29", "92", "20", "9"],
+    "correctAnswer": "29"
+  },
+  {
+    "question": "Điền dấu: 38 ... 38",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Điền dấu: 81 ... 18",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Số liền trước của 90 là:",
+    "options": ["89", "91", "80", "100"],
+    "correctAnswer": "89"
+  },
+  {
+    "question": "Số liền sau của 30 là:",
+    "options": ["31", "29", "32", "40"],
+    "correctAnswer": "31"
+  },
+  {
+    "question": "Số có hai chữ số mà chữ số hàng chục là 7, chữ số hàng đơn vị là 2 là:",
+    "options": ["72", "27", "70", "2"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Số có hai chữ số mà chữ số hàng đơn vị là 8, chữ số hàng chục là 4 là:",
+    "options": ["48", "84", "40", "8"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Trong các số tròn chục, số nào bé nhất?",
+    "options": ["10", "20", "90", "100"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Trong các số tròn chục, số nào lớn nhất?",
+    "options": ["90", "100", "80", "10"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Viết số: Một trăm",
+    "options": ["100", "10", "1", "1000"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số 12 gồm 1 chục và mấy đơn vị?",
+    "options": ["2 đơn vị", "1 đơn vị", "10 đơn vị", "12 đơn vị"],
+    "correctAnswer": "2 đơn vị"
+  },
+  {
+    "question": "Số 36 có chữ số hàng chục là:",
+    "options": ["3", "6", "30", "36"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Số 94 có chữ số hàng đơn vị là:",
+    "options": ["4", "9", "90", "94"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "So sánh: 50 và 49",
+    "options": ["50 > 49", "50 < 49", "50 = 49", "Không so sánh được"],
+    "correctAnswer": "50 > 49"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số khác nhau là:",
+    "options": ["10", "12", "11", "21"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số khác nhau là:",
+    "options": ["98", "99", "89", "97"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Số liền trước của 70 là:",
+    "options": ["69", "71", "60", "80"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "Số liền sau của 49 là:",
+    "options": ["50", "48", "51", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số nào ở giữa 77 và 79?",
+    "options": ["78", "76", "80", "70"],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "Viết số: Ba mươi mốt",
+    "options": ["31", "13", "30", "32"],
+    "correctAnswer": "31"
+  },
+  {
+    "question": "Số 11 đọc là:",
+    "options": ["Mười một", "Một một", "Mười", "Hai"],
+    "correctAnswer": "Mười một"
+  },
+  {
+    "question": "Số gồm 4 chục và 4 đơn vị là:",
+    "options": ["44", "40", "4", "8"],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "Điền dấu: 89 ... 90",
+    "options": ["<", ">", "=", " "],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Điền dấu: 21 ... 12",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Số liền trước của 100 là:",
+    "options": ["99", "101", "98", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số liền sau của 10 là:",
+    "options": ["11", "9", "12", "20"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Số có hai chữ số giống nhau là số nào?",
+    "options": ["66", "67", "76", "16"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "Số có hai chữ số mà tổng hai chữ số bằng 5 là:",
+    "options": ["23", "50", "14", "Tất cả đều đúng"],
+    "correctAnswer": "Tất cả đều đúng"
+  },
+  {
+    "question": "Trong các số từ 1 đến 100, có bao nhiêu số tròn chục?",
+    "options": ["10", "9", "11", "100"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số 100 có mấy chữ số?",
+    "options": ["3", "2", "1", "4"],
+    "correctAnswer": "3"
+  }
+]
+

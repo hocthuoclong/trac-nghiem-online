@@ -1,0 +1,493 @@
+[
+  {
+    "question": "Kim ngắn chỉ số 3, kim dài chỉ số 12. Là mấy giờ?",
+    "options": ["3 giờ", "12 giờ", "4 giờ", "2 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Kim ngắn chỉ số 9, kim dài chỉ số 12. Là mấy giờ?",
+    "options": ["9 giờ", "12 giờ", "8 giờ", "10 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Lúc 1 giờ đúng, kim dài chỉ số mấy?",
+    "options": ["Số 12", "Số 1", "Số 6", "Số 3"],
+    "correctAnswer": "Số 12"
+  },
+  {
+    "question": "Lúc 6 giờ đúng, kim ngắn chỉ số mấy?",
+    "options": ["Số 6", "Số 12", "Số 5", "Số 7"],
+    "correctAnswer": "Số 6"
+  },
+  {
+    "question": "Đồng hồ chỉ 5 giờ. Kim ngắn ở đâu?",
+    "options": ["Chỉ số 5", "Chỉ số 12", "Chỉ số 6", "Chỉ số 4"],
+    "correctAnswer": "Chỉ số 5"
+  },
+  {
+    "question": "Đồng hồ chỉ 11 giờ. Kim dài ở đâu?",
+    "options": ["Chỉ số 12", "Chỉ số 11", "Chỉ số 10", "Chỉ số 1"],
+    "correctAnswer": "Chỉ số 12"
+  },
+  {
+    "question": "Em đi học lúc 7 giờ. Lúc đó kim ngắn chỉ số mấy?",
+    "options": ["Số 7", "Số 12", "Số 6", "Số 8"],
+    "correctAnswer": "Số 7"
+  },
+  {
+    "question": "Em ăn cơm trưa lúc 12 giờ. Lúc đó hai kim đồng hồ ở đâu?",
+    "options": ["Cùng chỉ số 12", "Cùng chỉ số 6", "Kim ngắn ở số 12, kim dài ở số 1", "Kim ngắn ở số 1, kim dài ở số 12"],
+    "correctAnswer": "Cùng chỉ số 12"
+  },
+  {
+    "question": "Một tuần có mấy ngày?",
+    "options": ["7 ngày", "5 ngày", "6 ngày", "8 ngày"],
+    "correctAnswer": "7 ngày"
+  },
+  {
+    "question": "Ngày đầu tiên trong tuần là thứ mấy?",
+    "options": ["Thứ Hai", "Chủ Nhật", "Thứ Ba", "Thứ Bảy"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Ngày cuối cùng trong tuần là ngày nào?",
+    "options": ["Chủ Nhật", "Thứ Bảy", "Thứ Hai", "Thứ Sáu"],
+    "correctAnswer": "Chủ Nhật"
+  },
+  {
+    "question": "Hôm nay là thứ Ba. Ngày mai là thứ mấy?",
+    "options": ["Thứ Tư", "Thứ Hai", "Thứ Năm", "Chủ Nhật"],
+    "correctAnswer": "Thứ Tư"
+  },
+  {
+    "question": "Hôm nay là thứ Sáu. Hôm qua là thứ mấy?",
+    "options": ["Thứ Năm", "Thứ Bảy", "Thứ Tư", "Chủ Nhật"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Sau ngày Chủ Nhật là ngày nào?",
+    "options": ["Thứ Hai", "Thứ Bảy", "Thứ Sáu", "Chủ Nhật"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Trước ngày thứ Bảy là ngày nào?",
+    "options": ["Thứ Sáu", "Chủ Nhật", "Thứ Năm", "Thứ Hai"],
+    "correctAnswer": "Thứ Sáu"
+  },
+  {
+    "question": "Em được nghỉ học vào những ngày nào trong tuần?",
+    "options": ["Thứ Bảy và Chủ Nhật", "Thứ Hai và Thứ Ba", "Thứ Tư và Thứ Năm", "Tất cả các ngày"],
+    "correctAnswer": "Thứ Bảy và Chủ Nhật"
+  },
+  {
+    "question": "Nhìn lịch: Hôm nay là thứ Hai, ngày 10. Ngày mai là ngày mấy?",
+    "options": ["Ngày 11", "Ngày 9", "Ngày 12", "Ngày 10"],
+    "correctAnswer": "Ngày 11"
+  },
+  {
+    "question": "Nhìn lịch: Hôm nay là thứ Tư, ngày 15. Hôm qua là ngày mấy?",
+    "options": ["Ngày 14", "Ngày 16", "Ngày 13", "Ngày 15"],
+    "correctAnswer": "Ngày 14"
+  },
+  {
+    "question": "Bây giờ là 2 giờ. 1 giờ nữa là mấy giờ?",
+    "options": ["3 giờ", "1 giờ", "2 giờ", "4 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Bây giờ là 8 giờ. 2 giờ nữa là mấy giờ?",
+    "options": ["10 giờ", "6 giờ", "9 giờ", "7 giờ"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Bây giờ là 5 giờ. 1 giờ trước là mấy giờ?",
+    "options": ["4 giờ", "6 giờ", "5 giờ", "3 giờ"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Bây giờ là 11 giờ. 3 giờ trước là mấy giờ?",
+    "options": ["8 giờ", "14 giờ", "9 giờ", "10 giờ"],
+    "correctAnswer": "8 giờ"
+  },
+  {
+    "question": "Kim ngắn chỉ số 10, kim dài chỉ số 12. Là mấy giờ?",
+    "options": ["10 giờ", "12 giờ", "11 giờ", "9 giờ"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Lúc 4 giờ đúng, kim dài chỉ số mấy?",
+    "options": ["Số 12", "Số 4", "Số 3", "Số 5"],
+    "correctAnswer": "Số 12"
+  },
+  {
+    "question": "Lúc 8 giờ đúng, kim ngắn chỉ số mấy?",
+    "options": ["Số 8", "Số 12", "Số 7", "Số 9"],
+    "correctAnswer": "Số 8"
+  },
+  {
+    "question": "Hôm nay là Chủ Nhật. Ngày mai là thứ mấy?",
+    "options": ["Thứ Hai", "Thứ Bảy", "Thứ Sáu", "Thứ Ba"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Hôm nay là thứ Hai. Hôm qua là ngày nào?",
+    "options": ["Chủ Nhật", "Thứ Ba", "Thứ Bảy", "Thứ Hai"],
+    "correctAnswer": "Chủ Nhật"
+  },
+  {
+    "question": "Em đi ngủ lúc 9 giờ tối. Lúc đó kim ngắn chỉ số mấy?",
+    "options": ["Số 9", "Số 12", "Số 8", "Số 10"],
+    "correctAnswer": "Số 9"
+  },
+  {
+    "question": "Em thức dậy lúc 6 giờ sáng. Lúc đó kim dài chỉ số mấy?",
+    "options": ["Số 12", "Số 6", "Số 5", "Số 7"],
+    "correctAnswer": "Số 12"
+  },
+  {
+    "question": "Thứ nào ở giữa thứ Ba và thứ Năm?",
+    "options": ["Thứ Tư", "Thứ Hai", "Thứ Sáu", "Thứ Ba"],
+    "correctAnswer": "Thứ Tư"
+  },
+  {
+    "question": "Nhìn lịch: Ngày 5 là thứ Sáu. Vậy ngày 6 là thứ mấy?",
+    "options": ["Thứ Bảy", "Chủ Nhật", "Thứ Năm", "Thứ Hai"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Nhìn lịch: Ngày 20 là Chủ Nhật. Vậy ngày 19 là thứ mấy?",
+    "options": ["Thứ Bảy", "Thứ Sáu", "Thứ Hai", "Chủ Nhật"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Bây giờ là 7 giờ. 3 giờ nữa là mấy giờ?",
+    "options": ["10 giờ", "4 giờ", "9 giờ", "8 giờ"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Bây giờ là 10 giờ. 2 giờ trước là mấy giờ?",
+    "options": ["8 giờ", "12 giờ", "9 giờ", "7 giờ"],
+    "correctAnswer": "8 giờ"
+  },
+  {
+    "question": "Kim ngắn và kim dài cùng chỉ số 12. Là mấy giờ?",
+    "options": ["12 giờ", "6 giờ", "1 giờ", "2 giờ"],
+    "correctAnswer": "12 giờ"
+  },
+  {
+    "question": "Lúc 2 giờ đúng, kim ngắn chỉ số mấy?",
+    "options": ["Số 2", "Số 12", "Số 1", "Số 3"],
+    "correctAnswer": "Số 2"
+  },
+  {
+    "question": "Trong tuần, có mấy ngày em phải đi học?",
+    "options": ["5 ngày", "2 ngày", "7 ngày", "6 ngày"],
+    "correctAnswer": "5 ngày"
+  },
+  {
+    "question": "Trong tuần, có mấy ngày em được nghỉ?",
+    "options": ["2 ngày", "5 ngày", "1 ngày", "0 ngày"],
+    "correctAnswer": "2 ngày"
+  },
+  {
+    "question": "Hôm nay là thứ Năm. 2 ngày nữa là thứ mấy?",
+    "options": ["Thứ Bảy", "Thứ Sáu", "Chủ Nhật", "Thứ Tư"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Hôm nay là thứ Tư. 2 ngày trước là thứ mấy?",
+    "options": ["Thứ Hai", "Thứ Ba", "Thứ Năm", "Thứ Sáu"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "An bắt đầu học lúc 8 giờ. An học trong 1 giờ. An học xong lúc mấy giờ?",
+    "options": ["9 giờ", "8 giờ", "10 giờ", "7 giờ"],
+    "correctAnswer": "9 giờ"
+  },
+  {
+    "question": "Bình xem phim lúc 4 giờ. Phim hết lúc 5 giờ. Phim dài mấy giờ?",
+    "options": ["1 giờ", "2 giờ", "3 giờ", "4 giờ"],
+    "correctAnswer": "1 giờ"
+  },
+  {
+    "question": "Kim ngắn chỉ giữa số 7 và 8, kim dài chỉ số 6. Là mấy giờ?",
+    "options": ["7 giờ rưỡi", "6 giờ rưỡi", "8 giờ rưỡi", "7 giờ"],
+    "correctAnswer": "7 giờ rưỡi"
+  },
+  {
+    "question": "2 giờ rưỡi là mấy giờ 30 phút?",
+    "options": ["2 giờ 30 phút", "3 giờ 30 phút", "1 giờ 30 phút", "4 giờ 30 phút"],
+    "correctAnswer": "2 giờ 30 phút"
+  },
+  {
+    "question": "Thứ Hai, ..., Thứ Tư. Điền vào chỗ trống.",
+    "options": ["Thứ Ba", "Thứ Năm", "Chủ Nhật", "Thứ Sáu"],
+    "correctAnswer": "Thứ Ba"
+  },
+  {
+    "question": "Thứ Sáu, ..., Chủ Nhật. Điền vào chỗ trống.",
+    "options": ["Thứ Bảy", "Thứ Năm", "Thứ Hai", "Thứ Tư"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Nhìn lịch: Tháng này có bao nhiêu ngày Chủ Nhật?",
+    "options": ["(Tùy lịch)", "4", "5", "3"],
+    "correctAnswer": "(Tùy lịch)"
+  },
+  {
+    "question": "Nhìn lịch: Ngày 1 của tháng là thứ mấy?",
+    "options": ["(Tùy lịch)", "Thứ Hai", "Thứ Ba", "Thứ Tư"],
+    "correctAnswer": "(Tùy lịch)"
+  },
+  {
+    "question": "Bây giờ là 3 giờ. Mấy giờ nữa thì đến 5 giờ?",
+    "options": ["2 giờ", "1 giờ", "3 giờ", "4 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Bây giờ là 9 giờ. 3 giờ trước là mấy giờ?",
+    "options": ["6 giờ", "12 giờ", "7 giờ", "8 giờ"],
+    "correctAnswer": "6 giờ"
+  },
+  {
+    "question": "7 giờ tối còn gọi là mấy giờ?",
+    "options": ["19 giờ", "7 giờ", "17 giờ", "20 giờ"],
+    "correctAnswer": "19 giờ"
+  },
+  {
+    "question": "1 giờ chiều còn gọi là mấy giờ?",
+    "options": ["13 giờ", "1 giờ", "12 giờ", "14 giờ"],
+    "correctAnswer": "13 giờ"
+  },
+  {
+    "question": "Ngày hôm qua là thứ Bảy. Hôm nay là thứ mấy?",
+    "options": ["Chủ Nhật", "Thứ Sáu", "Thứ Hai", "Thứ Năm"],
+    "correctAnswer": "Chủ Nhật"
+  },
+  {
+    "question": "Ngày mai là thứ Tư. Hôm nay là thứ mấy?",
+    "options": ["Thứ Ba", "Thứ Năm", "Thứ Hai", "Thứ Sáu"],
+    "correctAnswer": "Thứ Ba"
+  },
+  {
+    "question": "Một bộ phim bắt đầu lúc 8 giờ tối và kết thúc lúc 9 giờ tối. Phim dài mấy giờ?",
+    "options": ["1 giờ", "2 giờ", "3 giờ", "4 giờ"],
+    "correctAnswer": "1 giờ"
+  },
+  {
+    "question": "Lúc 12 giờ trưa, mặt trời ở đâu?",
+    "options": ["Trên đỉnh đầu", "Phía Đông", "Phía Tây", "Ở dưới đất"],
+    "correctAnswer": "Trên đỉnh đầu"
+  },
+  {
+    "question": "Kim ngắn chỉ số 6, kim dài chỉ số 12. Là mấy giờ?",
+    "options": ["6 giờ", "12 giờ", "5 giờ", "7 giờ"],
+    "correctAnswer": "6 giờ"
+  },
+  {
+    "question": "Lúc 10 giờ đúng, kim dài ở đâu?",
+    "options": ["Số 12", "Số 10", "Số 11", "Số 9"],
+    "correctAnswer": "Số 12"
+  },
+  {
+    "question": "Thứ nào là ngày đi học đầu tiên trong tuần?",
+    "options": ["Thứ Hai", "Thứ Ba", "Chủ Nhật", "Thứ Bảy"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Thứ nào là ngày đi học cuối cùng trong tuần?",
+    "options": ["Thứ Sáu", "Thứ Năm", "Thứ Bảy", "Chủ Nhật"],
+    "correctAnswer": "Thứ Sáu"
+  },
+  {
+    "question": "Nhìn lịch: Ngày 25 là thứ Ba. Vậy ngày 26 là thứ mấy?",
+    "options": ["Thứ Tư", "Thứ Hai", "Thứ Năm", "Thứ Sáu"],
+    "correctAnswer": "Thứ Tư"
+  },
+  {
+    "question": "Bây giờ là 1 giờ. 5 giờ nữa là mấy giờ?",
+    "options": ["6 giờ", "4 giờ", "5 giờ", "7 giờ"],
+    "correctAnswer": "6 giờ"
+  },
+  {
+    "question": "Bây giờ là 6 giờ. 4 giờ trước là mấy giờ?",
+    "options": ["2 giờ", "10 giờ", "3 giờ", "5 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "10 giờ sáng và 10 giờ tối có giống nhau trên đồng hồ kim không?",
+    "options": ["Có", "Không", "Chỉ giống kim ngắn", "Chỉ giống kim dài"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hôm nay là thứ Tư. 3 ngày nữa là thứ mấy?",
+    "options": ["Thứ Bảy", "Thứ Sáu", "Chủ Nhật", "Thứ Năm"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Hôm nay là Chủ Nhật. 3 ngày trước là thứ mấy?",
+    "options": ["Thứ Năm", "Thứ Sáu", "Thứ Tư", "Thứ Ba"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "An chơi đá bóng từ 4 giờ đến 5 giờ. An chơi trong bao lâu?",
+    "options": ["1 giờ", "2 giờ", "3 giờ", "4 giờ"],
+    "correctAnswer": "1 giờ"
+  },
+  {
+    "question": "Lúc 12 giờ 30 phút, kim dài chỉ số mấy?",
+    "options": ["Số 6", "Số 12", "Số 3", "Số 9"],
+    "correctAnswer": "Số 6"
+  },
+  {
+    "question": "5 giờ rưỡi là mấy giờ 30 phút?",
+    "options": ["5 giờ 30 phút", "6 giờ 30 phút", "4 giờ 30 phút", "5 giờ"],
+    "correctAnswer": "5 giờ 30 phút"
+  },
+  {
+    "question": "Thứ Tư, ..., Thứ Sáu. Điền vào chỗ trống.",
+    "options": ["Thứ Năm", "Thứ Ba", "Thứ Bảy", "Thứ Hai"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Chủ Nhật, ..., Thứ Ba. Điền vào chỗ trống.",
+    "options": ["Thứ Hai", "Thứ Bảy", "Thứ Tư", "Thứ Năm"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Nhìn lịch: Tháng này có bao nhiêu ngày thứ Bảy?",
+    "options": ["(Tùy lịch)", "4", "5", "3"],
+    "correctAnswer": "(Tùy lịch)"
+  },
+  {
+    "question": "Nhìn lịch: Ngày cuối cùng của tháng là ngày mấy?",
+    "options": ["(Tùy lịch)", "30", "31", "28"],
+    "correctAnswer": "(Tùy lịch)"
+  },
+  {
+    "question": "Bây giờ là 6 giờ. Mấy giờ nữa thì đến 9 giờ?",
+    "options": ["3 giờ", "2 giờ", "4 giờ", "5 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Bây giờ là 12 giờ. 6 giờ trước là mấy giờ?",
+    "options": ["6 giờ", "18 giờ", "5 giờ", "7 giờ"],
+    "correctAnswer": "6 giờ"
+  },
+  {
+    "question": "3 giờ chiều còn gọi là mấy giờ?",
+    "options": ["15 giờ", "3 giờ", "13 giờ", "16 giờ"],
+    "correctAnswer": "15 giờ"
+  },
+  {
+    "question": "8 giờ sáng và 8 giờ tối. Lúc nào trời sáng?",
+    "options": ["8 giờ sáng", "8 giờ tối", "Cả hai", "Không lúc nào"],
+    "correctAnswer": "8 giờ sáng"
+  },
+  {
+    "question": "Ngày hôm kia là thứ Năm. Hôm nay là thứ mấy?",
+    "options": ["Thứ Bảy", "Thứ Sáu", "Chủ Nhật", "Thứ Tư"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Ngày mai là Chủ Nhật. Hôm qua là thứ mấy?",
+    "options": ["Thứ Sáu", "Thứ Bảy", "Thứ Năm", "Thứ Hai"],
+    "correctAnswer": "Thứ Sáu"
+  },
+  {
+    "question": "Một tiết học dài 30 phút. Hai tiết học dài mấy giờ?",
+    "options": ["1 giờ", "2 giờ", "30 phút", "60 giờ"],
+    "correctAnswer": "1 giờ"
+  },
+  {
+    "question": "Lúc 9 giờ 30 phút, kim ngắn ở đâu?",
+    "options": ["Giữa số 9 và 10", "Chỉ số 9", "Chỉ số 10", "Chỉ số 6"],
+    "correctAnswer": "Giữa số 9 và 10"
+  },
+  {
+    "question": "Kim ngắn chỉ số 12, kim dài chỉ số 12. Là mấy giờ?",
+    "options": ["12 giờ", "1 giờ", "2 giờ", "3 giờ"],
+    "correctAnswer": "12 giờ"
+  },
+  {
+    "question": "Lúc 7 giờ đúng, kim dài ở đâu?",
+    "options": ["Số 12", "Số 7", "Số 6", "Số 1"],
+    "correctAnswer": "Số 12"
+  },
+  {
+    "question": "Thứ nào có tên bắt đầu bằng chữ 'B'?",
+    "options": ["Thứ Ba, Thứ Bảy", "Thứ Hai", "Thứ Tư", "Thứ Năm"],
+    "correctAnswer": "Thứ Ba, Thứ Bảy"
+  },
+  {
+    "question": "Thứ nào có tên bắt đầu bằng chữ 'N'?",
+    "options": ["Thứ Năm", "Thứ Hai", "Thứ Sáu", "Chủ Nhật"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Nhìn lịch: Ngày 15 là thứ Tư. Vậy ngày 17 là thứ mấy?",
+    "options": ["Thứ Sáu", "Thứ Năm", "Thứ Bảy", "Thứ Hai"],
+    "correctAnswer": "Thứ Sáu"
+  },
+  {
+    "question": "Bây giờ là 4 giờ. 6 giờ nữa là mấy giờ?",
+    "options": ["10 giờ", "2 giờ", "9 giờ", "8 giờ"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Bây giờ là 8 giờ. 8 giờ trước là mấy giờ?",
+    "options": ["12 giờ đêm", "16 giờ", "0 giờ", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Buổi sáng em chào cờ lúc mấy giờ?",
+    "options": ["7 giờ", "9 giờ", "12 giờ", "6 giờ"],
+    "correctAnswer": "7 giờ"
+  },
+  {
+    "question": "Hôm nay là thứ Năm. Tuần sau cũng vào thứ Năm là ngày em đi dã ngoại. Đúng hay sai?",
+    "options": ["(Tùy tình huống)", "Đúng", "Sai", "Không biết"],
+    "correctAnswer": "(Tùy tình huống)"
+  },
+  {
+    "question": "Một tuần có mấy ngày thứ Hai?",
+    "options": ["1 ngày", "2 ngày", "7 ngày", "0 ngày"],
+    "correctAnswer": "1 ngày"
+  },
+  {
+    "question": "Bình đi ngủ lúc 9 giờ tối. An đi ngủ lúc 10 giờ tối. Ai đi ngủ sớm hơn?",
+    "options": ["Bình", "An", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Bình"
+  },
+  {
+    "question": "Lúc 6 giờ 30 phút, kim dài chỉ số mấy?",
+    "options": ["Số 6", "Số 12", "Số 3", "Số 9"],
+    "correctAnswer": "Số 6"
+  },
+  {
+    "question": "10 giờ rưỡi là mấy giờ 30 phút?",
+    "options": ["10 giờ 30 phút", "9 giờ 30 phút", "11 giờ 30 phút", "10 giờ"],
+    "correctAnswer": "10 giờ 30 phút"
+  },
+  {
+    "question": "Thứ Bảy, ..., Thứ Hai. Điền vào chỗ trống.",
+    "options": ["Chủ Nhật", "Thứ Sáu", "Thứ Ba", "Thứ Tư"],
+    "correctAnswer": "Chủ Nhật"
+  },
+  {
+    "question": "Nhìn lịch: Tháng này có bao nhiêu ngày?",
+    "options": ["(Tùy lịch)", "30", "31", "28"],
+    "correctAnswer": "(Tùy lịch)"
+  },
+  {
+    "question": "Bây giờ là 11 giờ trưa. 1 giờ nữa là mấy giờ?",
+    "options": ["12 giờ trưa", "10 giờ", "1 giờ", "2 giờ"],
+    "correctAnswer": "12 giờ trưa"
+  },
+  {
+    "question": "1 ngày có 24 giờ. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ có 12 giờ", "Chỉ có 60 giờ"],
+    "correctAnswer": "Đúng"
+  }
+]
+

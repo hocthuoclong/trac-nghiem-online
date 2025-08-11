@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Đây là hình gì? (Hình vuông)",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Đây là hình gì? (Hình tròn)",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Đây là hình gì? (Hình tam giác)",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Đây là hình gì? (Hình chữ nhật)",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Quả bóng có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Cái bánh xe có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Viên gạch có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Cái khăn tay vuông có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Mái nhà thường có dạng hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Cửa ra vào thường có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình vuông có mấy cạnh?",
+    "options": ["4 cạnh", "3 cạnh", "Không có cạnh", "2 cạnh"],
+    "correctAnswer": "4 cạnh"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "options": ["3 cạnh", "4 cạnh", "Không có cạnh", "2 cạnh"],
+    "correctAnswer": "3 cạnh"
+  },
+  {
+    "question": "Hình tròn có cạnh không?",
+    "options": ["Không", "Có", "Có 1 cạnh", "Có 2 cạnh"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Hình chữ nhật có mấy cạnh?",
+    "options": ["4 cạnh", "3 cạnh", "5 cạnh", "6 cạnh"],
+    "correctAnswer": "4 cạnh"
+  },
+  {
+    "question": "Các cạnh của hình vuông như thế nào?",
+    "options": ["Bằng nhau", "Không bằng nhau", "Cong", "Tròn"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Ghép một hình vuông và một hình tam giác, em có thể tạo thành hình gì?",
+    "options": ["Ngôi nhà", "Ô tô", "Cái cây", "Quả bóng"],
+    "correctAnswer": "Ngôi nhà"
+  },
+  {
+    "question": "Ghép hai hình chữ nhật, em có thể tạo thành hình gì?",
+    "options": ["Cửa sổ", "Mặt trời", "Bông hoa", "Con cá"],
+    "correctAnswer": "Cửa sổ"
+  },
+  {
+    "question": "Dùng các hình tròn, em có thể xếp thành hình gì?",
+    "options": ["Con sâu", "Cái bàn", "Quyển sách", "Ngôi sao"],
+    "correctAnswer": "Con sâu"
+  },
+  {
+    "question": "Xếp một hình vuông ở dưới, một hình tam giác ở trên. Đó là hình gì?",
+    "options": ["Ngôi nhà", "Cái cây", "Ô tô", "Thuyền buồm"],
+    "correctAnswer": "Ngôi nhà"
+  },
+  {
+    "question": "Xếp hai hình tròn làm bánh xe, một hình chữ nhật làm thân xe. Đó là hình gì?",
+    "options": ["Ô tô", "Ngôi nhà", "Cái cây", "Con cá"],
+    "correctAnswer": "Ô tô"
+  },
+  {
+    "question": "Vật nào không có dạng hình tròn?",
+    "options": ["Quyển vở", "Đồng xu", "Cái đĩa", "Nắp chai"],
+    "correctAnswer": "Quyển vở"
+  },
+  {
+    "question": "Vật nào không có dạng hình vuông?",
+    "options": ["Quả cam", "Gạch hoa", "Bàn cờ vua", "Khăn vuông"],
+    "correctAnswer": "Quả cam"
+  },
+  {
+    "question": "Vật nào có dạng hình tam giác?",
+    "options": ["Cờ thi đua", "Bánh xe", "Viên gạch", "Hộp sữa"],
+    "correctAnswer": "Cờ thi đua"
+  },
+  {
+    "question": "Vật nào có dạng hình chữ nhật?",
+    "options": ["Phong bì thư", "Đồng hồ treo tường", "Cái mâm", "Quả bóng"],
+    "correctAnswer": "Phong bì thư"
+  },
+  {
+    "question": "Đếm số hình vuông trong hình.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Đếm số hình tròn trong hình.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Đếm số hình tam giác trong hình.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Đếm số hình chữ nhật trong hình.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Hình nào có 3 cạnh?",
+    "options": ["Hình tam giác", "Hình vuông", "Hình tròn", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Hình nào có 4 cạnh bằng nhau?",
+    "options": ["Hình vuông", "Hình tam giác", "Hình tròn", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hình nào lăn được?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Hình nào có 4 cạnh nhưng không bằng nhau?",
+    "options": ["Hình chữ nhật", "Hình vuông", "Hình tam giác", "Hình tròn"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Ghép 2 hình tam giác vuông nhỏ, ta được hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác lớn", "Cả A và C"],
+    "correctAnswer": "Cả A và C"
+  },
+  {
+    "question": "Cái đĩa có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Bức tranh treo tường có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Biển báo giao thông hình tam giác dùng để làm gì?",
+    "options": ["Cảnh báo nguy hiểm", "Chỉ dẫn", "Cấm", "Ra lệnh"],
+    "correctAnswer": "Cảnh báo nguy hiểm"
+  },
+  {
+    "question": "Biển báo giao thông hình tròn dùng để làm gì?",
+    "options": ["Báo cấm hoặc hiệu lệnh", "Cảnh báo", "Chỉ dẫn", "Không có ý nghĩa"],
+    "correctAnswer": "Báo cấm hoặc hiệu lệnh"
+  },
+  {
+    "question": "Hình nào khác với các hình còn lại?",
+    "options": ["(Tùy hình vẽ)", "Hình vuông", "Hình tròn", "Hình tam giác"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Trong hình vẽ con cá, mắt cá có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Trong hình vẽ ngôi nhà, cửa sổ có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hình tam giác có mấy góc?",
+    "options": ["3 góc", "4 góc", "Không có góc", "2 góc"],
+    "correctAnswer": "3 góc"
+  },
+  {
+    "question": "Hình vuông có mấy góc?",
+    "options": ["4 góc", "3 góc", "Không có góc", "2 góc"],
+    "correctAnswer": "4 góc"
+  },
+  {
+    "question": "Hình chữ nhật có mấy góc?",
+    "options": ["4 góc", "3 góc", "5 góc", "6 góc"],
+    "correctAnswer": "4 góc"
+  },
+  {
+    "question": "Mặt đồng hồ có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Quyển sách giáo khoa có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Dùng các que tính để xếp thành hình vuông. Cần mấy que?",
+    "options": ["4 que", "3 que", "5 que", "2 que"],
+    "correctAnswer": "4 que"
+  },
+  {
+    "question": "Dùng các que tính để xếp thành hình tam giác. Cần mấy que?",
+    "options": ["3 que", "4 que", "5 que", "2 que"],
+    "correctAnswer": "3 que"
+  },
+  {
+    "question": "Có thể dùng que tính để xếp thành hình tròn không?",
+    "options": ["Không", "Có", "Rất khó", "Dễ dàng"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Hình nào có các cạnh đều thẳng?",
+    "options": ["Hình vuông", "Hình tròn", "Hình bầu dục", "Hình trái tim"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hình nào có đường bao quanh là đường cong khép kín?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Trong các hình: vuông, tròn, tam giác, chữ nhật. Hình nào không có góc?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Ghép 2 hình vuông nhỏ cạnh nhau, ta được hình gì?",
+    "options": ["Hình chữ nhật", "Hình vuông lớn", "Hình tam giác", "Hình tròn"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Ghép 4 hình vuông nhỏ, ta được hình gì?",
+    "options": ["Hình vuông lớn", "Hình chữ nhật", "Cả A và B", "Hình tam giác"],
+    "correctAnswer": "Cả A và B"
+  },
+  {
+    "question": "Cắt đôi một hình chữ nhật theo đường chéo, ta được 2 hình gì?",
+    "options": ["Hình tam giác", "Hình chữ nhật nhỏ", "Hình vuông", "Hình tròn"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Cái bánh chưng có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Đồng xu có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Lá cờ Tổ quốc có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Ngôi sao năm cánh ở giữa lá cờ có phải hình tam giác không?",
+    "options": ["Không", "Có", "Là hình vuông", "Là hình tròn"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Trong bộ đồ chơi lắp ghép, khối nào dễ lăn nhất?",
+    "options": ["Khối tròn", "Khối vuông", "Khối tam giác", "Khối chữ nhật"],
+    "correctAnswer": "Khối tròn"
+  },
+  {
+    "question": "Để xây tường, chú thợ xây dùng các viên gạch dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Chọn hình tiếp theo trong dãy: ☐, O, △, ☐, O, ...",
+    "options": ["△", "☐", "O", " "],
+    "correctAnswer": "△"
+  },
+  {
+    "question": "Chọn hình tiếp theo trong dãy: △, △, O, △, △, ...",
+    "options": ["O", "△", "☐", " "],
+    "correctAnswer": "O"
+  },
+  {
+    "question": "Hình vuông và hình chữ nhật cùng có mấy cạnh?",
+    "options": ["4 cạnh", "3 cạnh", "5 cạnh", "6 cạnh"],
+    "correctAnswer": "4 cạnh"
+  },
+  {
+    "question": "Điểm khác nhau giữa hình vuông và hình chữ nhật là gì?",
+    "options": ["Hình vuông có 4 cạnh bằng nhau", "Hình chữ nhật có 4 cạnh bằng nhau", "Hình vuông có 3 cạnh", "Hình chữ nhật không có góc"],
+    "correctAnswer": "Hình vuông có 4 cạnh bằng nhau"
+  },
+  {
+    "question": "Miếng bánh pizza thường được cắt thành dạng hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Cái bánh sinh nhật nguyên vẹn có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Trong hình vẽ một đoàn tàu, các toa tàu có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Trong hình vẽ một đoàn tàu, bánh tàu có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Tìm tất cả các hình tam giác trong hình vẽ.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Tìm tất cả các hình vuông trong hình vẽ.",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Hình nào có thể xếp chồng lên nhau dễ dàng?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Tất cả các hình"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cái thớt tròn có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Màn hình tivi có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Kim tự tháp có các mặt bên là hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Bàn cờ vua có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Ghép 2 hình tam giác có thể tạo thành hình thoi không?",
+    "options": ["Có", "Không", "Chỉ thành hình vuông", "Chỉ thành hình tròn"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình nào không có cạnh thẳng?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Cái khung ảnh có dạng hình gì?",
+    "options": ["Hình chữ nhật hoặc hình vuông", "Hình tròn", "Hình tam giác", "Chỉ hình tròn"],
+    "correctAnswer": "Hình chữ nhật hoặc hình vuông"
+  },
+  {
+    "question": "Cái phao bơi có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Miếng dưa hấu được bổ ra có dạng hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Tờ tiền giấy có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình nào có số cạnh ít nhất?",
+    "options": ["Hình tam giác", "Hình vuông", "Hình chữ nhật", "Hình tròn"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Hình nào có 4 góc vuông?",
+    "options": ["Hình vuông và hình chữ nhật", "Hình tam giác", "Hình tròn", "Chỉ hình vuông"],
+    "correctAnswer": "Hình vuông và hình chữ nhật"
+  },
+  {
+    "question": "Ghép một hình chữ nhật và hai hình tròn, em có thể tạo thành hình gì?",
+    "options": ["Cái xe tải", "Ngôi nhà", "Cái cây", "Con cá"],
+    "correctAnswer": "Cái xe tải"
+  },
+  {
+    "question": "Cái bánh quy tròn có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Cái bánh quy vuông có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cái móc treo quần áo có dạng hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Điện thoại di động có dạng hình gì?",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Có bao nhiêu hình tròn trong hình vẽ người tuyết?",
+    "options": ["(Tùy hình vẽ)", "1", "2", "3"],
+    "correctAnswer": "(Tùy hình vẽ)"
+  },
+  {
+    "question": "Để vẽ một hình vuông, em cần mấy đoạn thẳng bằng nhau?",
+    "options": ["4", "3", "2", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Để vẽ một hình tam giác, em cần mấy đoạn thẳng?",
+    "options": ["3", "4", "2", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hình nào có tất cả các điểm cách đều một điểm gọi là tâm?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Cắt một quả chanh theo chiều ngang, mặt cắt có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Một viên gạch hoa văn có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Cánh buồm của con thuyền có dạng hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Thân của con thuyền có dạng hình gì?",
+    "options": ["Hình chữ nhật hoặc hình thang", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật hoặc hình thang"
+  }
+]
+

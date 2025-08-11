@@ -1,0 +1,678 @@
+[
+  {
+    "question": "Số 'Năm' viết là:",
+    "options": ["5", "4", "6", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số 8 đọc là:",
+    "options": ["Tám", "Bảy", "Chín", "Sáu"],
+    "correctAnswer": "Tám"
+  },
+  {
+    "question": "Điền dấu: 7 ... 9",
+    "options": ["<", ">", "=", " "],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Số liền sau của 6 là:",
+    "options": ["7", "5", "8", "6"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Đây là hình gì? (Hình tròn)",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Hình vuông có mấy cạnh?",
+    "options": ["4 cạnh", "3 cạnh", "5 cạnh", "Không có"],
+    "correctAnswer": "4 cạnh"
+  },
+  {
+    "question": "Tính: 4 + 3 =",
+    "options": ["7", "1", "6", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính: 10 - 6 =",
+    "options": ["4", "16", "5", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Trong phép cộng 5 + 2 = 7, số 5 và 2 gọi là gì?",
+    "options": ["Số hạng", "Tổng", "Hiệu", "Số trừ"],
+    "correctAnswer": "Số hạng"
+  },
+  {
+    "question": "Có 5 quả bóng, thêm 3 quả nữa. Có tất cả mấy quả?",
+    "options": ["8 quả", "2 quả", "7 quả", "9 quả"],
+    "correctAnswer": "8 quả"
+  },
+  {
+    "question": "Hộp quà vuông có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Viên gạch có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Cái mũ ở đâu so với cái đầu?",
+    "options": ["Ở trên", "Ở dưới", "Bên cạnh", "Phía sau"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Tay phải của em ở bên nào?",
+    "options": ["Bên phải", "Bên trái", "Ở giữa", "Ở trên"],
+    "correctAnswer": "Bên phải"
+  },
+  {
+    "question": "Số 'Bốn mươi hai' viết là:",
+    "options": ["42", "24", "40", "43"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "Số 68 đọc là:",
+    "options": ["Sáu mươi tám", "Sáu tám", "Tám mươi sáu", "Sáu mươi"],
+    "correctAnswer": "Sáu mươi tám"
+  },
+  {
+    "question": "Số gồm 7 chục và 3 đơn vị là:",
+    "options": ["73", "37", "70", "10"],
+    "correctAnswer": "73"
+  },
+  {
+    "question": "So sánh: 59 và 61",
+    "options": ["59 < 61", "59 > 61", "59 = 61", "Không so sánh được"],
+    "correctAnswer": "59 < 61"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số là:",
+    "options": ["99", "10", "90", "100"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số là:",
+    "options": ["10", "11", "99", "1"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Bút chì và thước kẻ, vật nào thường dài hơn?",
+    "options": ["Thước kẻ", "Bút chì", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Thước kẻ"
+  },
+  {
+    "question": "Xăng-ti-mét viết tắt là gì?",
+    "options": ["cm", "m", "dm", "kg"],
+    "correctAnswer": "cm"
+  },
+  {
+    "question": "Tính: 12 cm + 5 cm =",
+    "options": ["17 cm", "7 cm", "17", "7"],
+    "correctAnswer": "17 cm"
+  },
+  {
+    "question": "Tính: 18 cm - 6 cm =",
+    "options": ["12 cm", "24 cm", "12", "24"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "34 + 5 =",
+    "options": ["39", "38", "40", "30"],
+    "correctAnswer": "39"
+  },
+  {
+    "question": "50 + 20 =",
+    "options": ["70", "60", "80", "30"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "21 + 33 =",
+    "options": ["54", "53", "55", "44"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "47 - 6 =",
+    "options": ["41", "40", "42", "53"],
+    "correctAnswer": "41"
+  },
+  {
+    "question": "80 - 30 =",
+    "options": ["50", "110", "40", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "65 - 22 =",
+    "options": ["43", "42", "44", "87"],
+    "correctAnswer": "43"
+  },
+  {
+    "question": "Kim ngắn chỉ số 4, kim dài chỉ số 12. Là mấy giờ?",
+    "options": ["4 giờ", "12 giờ", "3 giờ", "5 giờ"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Lúc 10 giờ đúng, kim ngắn chỉ số mấy?",
+    "options": ["Số 10", "Số 12", "Số 9", "Số 11"],
+    "correctAnswer": "Số 10"
+  },
+  {
+    "question": "Một tuần có mấy ngày?",
+    "options": ["7 ngày", "5 ngày", "6 ngày", "8 ngày"],
+    "correctAnswer": "7 ngày"
+  },
+  {
+    "question": "Hôm nay là thứ Sáu. Ngày mai là thứ mấy?",
+    "options": ["Thứ Bảy", "Thứ Năm", "Chủ Nhật", "Thứ Hai"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Số liền trước của 1 là:",
+    "options": ["0", "2", "1", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 8, 5, 9, 2",
+    "options": ["9", "8", "5", "2"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Hình tam giác có mấy cạnh?",
+    "options": ["3 cạnh", "4 cạnh", "5 cạnh", "Không có"],
+    "correctAnswer": "3 cạnh"
+  },
+  {
+    "question": "Tính: 6 + 2 =",
+    "options": ["8", "4", "7", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tính: 9 - 5 =",
+    "options": ["4", "14", "3", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Con súc sắc có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Cái bàn ở phía nào của em khi em ngồi học?",
+    "options": ["Phía trước", "Phía sau", "Bên trên", "Bên dưới"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Số 55 đọc là:",
+    "options": ["Năm mươi lăm", "Năm năm", "Năm mươi", "Mười lăm"],
+    "correctAnswer": "Năm mươi lăm"
+  },
+  {
+    "question": "Số liền trước của 70 là:",
+    "options": ["69", "71", "60", "80"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "Cái thước kẻ và cục tẩy, vật nào ngắn hơn?",
+    "options": ["Cục tẩy", "Thước kẻ", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Cục tẩy"
+  },
+  {
+    "question": "Tính: 15 cm - 5 cm =",
+    "options": ["10 cm", "20 cm", "10", "20"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "62 + 7 =",
+    "options": ["69", "68", "70", "67"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "45 + 30 =",
+    "options": ["75", "70", "15", "65"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "88 - 8 =",
+    "options": ["80", "8", "88", "96"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "36 - 12 =",
+    "options": ["24", "23", "25", "48"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Lúc 12 giờ trưa, kim ngắn và kim dài ở đâu?",
+    "options": ["Cùng chỉ số 12", "Cùng chỉ số 6", "Đối nhau", "Vuông góc"],
+    "correctAnswer": "Cùng chỉ số 12"
+  },
+  {
+    "question": "Trước Chủ Nhật là thứ mấy?",
+    "options": ["Thứ Bảy", "Thứ Sáu", "Thứ Hai", "Thứ Năm"],
+    "correctAnswer": "Thứ Bảy"
+  },
+  {
+    "question": "Số 10 gồm 7 và mấy?",
+    "options": ["3", "4", "2", "17"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hình chữ nhật có mấy góc vuông?",
+    "options": ["4 góc", "2 góc", "3 góc", "Không có"],
+    "correctAnswer": "4 góc"
+  },
+  {
+    "question": "Phép tính nào có tổng bằng 10?",
+    "options": ["4 + 6", "5 + 4", "10 + 1", "8 + 1"],
+    "correctAnswer": "4 + 6"
+  },
+  {
+    "question": "Phép tính nào có hiệu bằng 5?",
+    "options": ["9 - 4", "8 - 2", "7 - 1", "6 - 2"],
+    "correctAnswer": "9 - 4"
+  },
+  {
+    "question": "Khối nào có 6 mặt là hình vuông?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Đôi dép ở đâu so với chân em?",
+    "options": ["Ở dưới", "Ở trên", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Số 19 và 91, số nào bé hơn?",
+    "options": ["19", "91", "Bằng nhau", "Không có"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Số tròn chục liền sau 70 là:",
+    "options": ["80", "71", "60", "90"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Sợi tóc dài hơn hay ngắn hơn sợi dây?",
+    "options": ["Ngắn hơn", "Dài hơn", "Bằng nhau", "Không biết"],
+    "correctAnswer": "Ngắn hơn"
+  },
+  {
+    "question": "Tính: 20 cm + 15 cm =",
+    "options": ["35 cm", "5 cm", "30 cm", "45 cm"],
+    "correctAnswer": "35 cm"
+  },
+  {
+    "question": "22 + 44 =",
+    "options": ["66", "65", "67", "22"],
+    "correctAnswer": "66"
+  },
+  {
+    "question": "78 - 18 =",
+    "options": ["60", "61", "96", "50"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Lúc 6 giờ tối còn gọi là mấy giờ?",
+    "options": ["18 giờ", "6 giờ", "16 giờ", "20 giờ"],
+    "correctAnswer": "18 giờ"
+  },
+  {
+    "question": "Hôm nay là thứ Ba. Hôm qua là thứ mấy?",
+    "options": ["Thứ Hai", "Thứ Tư", "Chủ Nhật", "Thứ Ba"],
+    "correctAnswer": "Thứ Hai"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số khác nhau là:",
+    "options": ["10", "12", "11", "21"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hình nào không có cạnh thẳng?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Tính: 1 + 2 + 5 =",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Tính: 10 - 3 - 4 =",
+    "options": ["3", "7", "6", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Khối rubik có lăn được không?",
+    "options": ["Không", "Có", "Lăn được", "Chỉ trượt"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Bên trái, bên phải là những từ chỉ...",
+    "options": ["Vị trí", "Màu sắc", "Số lượng", "Hình dạng"],
+    "correctAnswer": "Vị trí"
+  },
+  {
+    "question": "Số 100 có mấy chữ số?",
+    "options": ["3", "2", "1", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "So sánh: 1m và 100cm",
+    "options": ["1m = 100cm", "1m > 100cm", "1m < 100cm", "Không so sánh được"],
+    "correctAnswer": "1m = 100cm"
+  },
+  {
+    "question": "Tính: 11 + 22 =",
+    "options": ["33", "32", "34", "11"],
+    "correctAnswer": "33"
+  },
+  {
+    "question": "Tính: 45 - 40 =",
+    "options": ["5", "85", "4", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Lúc 3 giờ, kim ngắn và kim dài tạo thành góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Đường thẳng"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Thứ Hai tuần này là ngày 10. Thứ Hai tuần sau là ngày mấy?",
+    "options": ["Ngày 17", "Ngày 11", "Ngày 16", "Ngày 18"],
+    "correctAnswer": "Ngày 17"
+  },
+  {
+    "question": "Số liền sau của 99 là:",
+    "options": ["100", "98", "90", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Sắp xếp từ lớn đến bé: 50, 15, 51, 10",
+    "options": ["51, 50, 15, 10", "10, 15, 50, 51", "51, 15, 50, 10", "50, 51, 10, 15"],
+    "correctAnswer": "51, 50, 15, 10"
+  },
+  {
+    "question": "Cái bảng lớp dài khoảng mấy bước chân của em?",
+    "options": ["Khoảng 10 bước chân", "Khoảng 2 bước chân", "Khoảng 5 bước chân", "Khoảng 1 bước chân"],
+    "correctAnswer": "Khoảng 10 bước chân"
+  },
+  {
+    "question": "Tính: 25 cm + 10 cm =",
+    "options": ["35 cm", "15 cm", "30 cm", "45 cm"],
+    "correctAnswer": "35 cm"
+  },
+  {
+    "question": "60 + 18 =",
+    "options": ["78", "77", "79", "58"],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "95 - 5 =",
+    "options": ["90", "91", "100", "80"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Bây giờ là 7 giờ. 3 giờ nữa là mấy giờ?",
+    "options": ["10 giờ", "4 giờ", "9 giờ", "8 giờ"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Số gồm 4 chục và 0 đơn vị là:",
+    "options": ["40", "4", "44", "14"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Điền dấu: 88 ... 80",
+    "options": [">", "<", "=", " "],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Tính: 9 cm - 9 cm =",
+    "options": ["0 cm", "18 cm", "1 cm", "9 cm"],
+    "correctAnswer": "0 cm"
+  },
+  {
+    "question": "20 + 20 + 20 =",
+    "options": ["60", "40", "80", "50"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Lúc 9 giờ tối còn gọi là mấy giờ?",
+    "options": ["21 giờ", "9 giờ", "19 giờ", "20 giờ"],
+    "correctAnswer": "21 giờ"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số mà chữ số hàng chục là 5:",
+    "options": ["59", "50", "55", "95"],
+    "correctAnswer": "59"
+  },
+  {
+    "question": "Sợi dây dài 10 cm. Sợi dây kia dài 1 dm. Hai sợi dây thế nào?",
+    "options": ["Bằng nhau", "Sợi thứ nhất dài hơn", "Sợi thứ hai dài hơn", "Không biết"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tính: 32 + 10 + 5 =",
+    "options": ["47", "46", "48", "45"],
+    "correctAnswer": "47"
+  },
+  {
+    "question": "Tính: 58 - 8 - 20 =",
+    "options": ["30", "50", "40", "20"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Hôm nay là thứ Năm. Hôm kia là thứ mấy?",
+    "options": ["Thứ Ba", "Thứ Tư", "Thứ Sáu", "Thứ Bảy"],
+    "correctAnswer": "Thứ Ba"
+  },
+  {
+    "question": "Số 100 là số liền sau của số nào?",
+    "options": ["99", "98", "101", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "So sánh: 1 chục và 9 đơn vị",
+    "options": ["1 chục > 9 đơn vị", "1 chục < 9 đơn vị", "Bằng nhau", "Không so sánh được"],
+    "correctAnswer": "1 chục > 9 đơn vị"
+  },
+  {
+    "question": "An có 15 cái kẹo, An cho Bình 5 cái. An còn lại mấy cái?",
+    "options": ["10 cái", "20 cái", "5 cái", "12 cái"],
+    "correctAnswer": "10 cái"
+  },
+  {
+    "question": "Lúc 6 giờ, kim ngắn và kim dài thế nào?",
+    "options": ["Thẳng hàng", "Trùng nhau", "Vuông góc", "Không biết"],
+    "correctAnswer": "Thẳng hàng"
+  },
+  {
+    "question": "Số 36 có mấy chục và mấy đơn vị?",
+    "options": ["3 chục và 6 đơn vị", "6 chục và 3 đơn vị", "30 chục và 6 đơn vị", "3 chục và 60 đơn vị"],
+    "correctAnswer": "3 chục và 6 đơn vị"
+  },
+  {
+    "question": "Tính: 10 + 80 =",
+    "options": ["90", "80", "70", "100"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Tính: 100 - 1 =",
+    "options": ["99", "98", "101", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Bây giờ là 10 giờ. 30 phút nữa là mấy giờ?",
+    "options": ["10 giờ rưỡi", "10 giờ", "11 giờ", "9 giờ rưỡi"],
+    "correctAnswer": "10 giờ rưỡi"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số mà tổng hai chữ số bằng 8 là:",
+    "options": ["17", "26", "35", "80"],
+    "correctAnswer": "17"
+  },
+  {
+    "question": "Tính: 19 cm - 10 cm =",
+    "options": ["9 cm", "29 cm", "9", "29"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "45 + 11 =",
+    "options": ["56", "55", "57", "34"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "89 - 25 =",
+    "options": ["64", "63", "65", "74"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "Hôm nay là ngày 30. Ngày mai là ngày 1 của tháng sau. Đúng hay sai?",
+    "options": ["Có thể đúng", "Luôn đúng", "Luôn sai", "Không biết"],
+    "correctAnswer": "Có thể đúng"
+  },
+  {
+    "question": "Số 66 có chữ số hàng chục và hàng đơn vị giống nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ hàng chục đúng", "Chỉ hàng đơn vị đúng"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Tính: 50 + 25 =",
+    "options": ["75", "74", "85", "25"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Tính: 75 - 25 =",
+    "options": ["50", "100", "40", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Bây giờ là 12 giờ. 1 giờ sau là mấy giờ?",
+    "options": ["1 giờ", "11 giờ", "13 giờ", "Cả A và C"],
+    "correctAnswer": "1 giờ"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số mà chữ số hàng đơn vị là 5:",
+    "options": ["95", "85", "59", "55"],
+    "correctAnswer": "95"
+  },
+  {
+    "question": "Tính: 20 + 20 + 20 + 20 =",
+    "options": ["80", "60", "100", "40"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Tính: 100 - 20 - 30 =",
+    "options": ["50", "60", "40", "150"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Số nào ở giữa 98 và 100?",
+    "options": ["99", "97", "101", "90"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Sợi dây dài 1m. Cắt đi 50cm. Sợi dây còn lại dài bao nhiêu?",
+    "options": ["50 cm", "150 cm", "50 dm", "50 m"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "10 + 10 =",
+    "options": ["20", "0", "10", "11"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "20 - 10 =",
+    "options": ["10", "30", "0", "20"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Lúc 9 giờ, kim ngắn và kim dài tạo thành góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Đường thẳng"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Thứ Hai, ..., Thứ Tư. Điền vào chỗ trống.",
+    "options": ["Thứ Ba", "Thứ Năm", "Chủ Nhật", "Thứ Sáu"],
+    "correctAnswer": "Thứ Ba"
+  },
+  {
+    "question": "Số 'Năm mươi lăm' viết là:",
+    "options": ["55", "50", "5", "15"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "So sánh: 11 và 10",
+    "options": ["11 > 10", "11 < 10", "11 = 10", "Không so sánh được"],
+    "correctAnswer": "11 > 10"
+  },
+  {
+    "question": "Tính: 10 cm + 20 cm =",
+    "options": ["30 cm", "10 cm", "30", "10"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "30 + 30 =",
+    "options": ["60", "0", "50", "70"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "60 - 30 =",
+    "options": ["30", "90", "20", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Bây giờ là 8 giờ. 30 phút nữa là mấy giờ?",
+    "options": ["8 giờ rưỡi", "8 giờ", "9 giờ", "7 giờ rưỡi"],
+    "correctAnswer": "8 giờ rưỡi"
+  },
+  {
+    "question": "Hôm nay là thứ Bảy. Hôm kia là thứ mấy?",
+    "options": ["Thứ Năm", "Thứ Sáu", "Chủ Nhật", "Thứ Hai"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Số bé nhất có hai chữ số mà chữ số hàng chục là 8:",
+    "options": ["80", "81", "88", "18"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Tính: 15 + 15 =",
+    "options": ["30", "20", "40", "29"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Tính: 50 - 25 =",
+    "options": ["25", "75", "24", "26"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "An có 20 cái kẹo, Bình có 30 cái kẹo. Cả hai bạn có bao nhiêu cái kẹo?",
+    "options": ["50 cái", "10 cái", "40 cái", "60 cái"],
+    "correctAnswer": "50 cái"
+  },
+  {
+    "question": "Sợi dây dài 50 cm, cắt đi 20 cm. Sợi dây còn lại dài bao nhiêu?",
+    "options": ["30 cm", "70 cm", "20 cm", "40 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Lúc 1 giờ rưỡi, kim dài chỉ số mấy?",
+    "options": ["Số 6", "Số 1", "Số 12", "Số 2"],
+    "correctAnswer": "Số 6"
+  },
+  {
+    "question": "Số liền sau của 99 là:",
+    "options": ["100", "98", "90", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số 100 có mấy chữ số 0?",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  }
+]
+

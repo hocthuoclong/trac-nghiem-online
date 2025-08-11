@@ -1,0 +1,663 @@
+[
+  {
+    "question": "Số 5 đọc là:",
+    "options": ["Năm", "Sáu", "Bốn", "Ba"],
+    "correctAnswer": "Năm"
+  },
+  {
+    "question": "Viết số: Bảy",
+    "options": ["7", "6", "8", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Số liền sau của 8 là:",
+    "options": ["9", "7", "10", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số liền trước của 3 là:",
+    "options": ["2", "4", "1", "3"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Điền dấu: 6 ... 9",
+    "options": ["<", ">", "=", "+"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Điền dấu: 10 ... 8",
+    "options": [">", "<", "=", "-"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "5 và 3 được mấy?",
+    "options": ["8", "2", "7", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "9 gồm 4 và mấy?",
+    "options": ["5", "6", "3", "13"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Đây là hình gì? (Hình vuông)",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Đây là hình gì? (Hình tròn)",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Đây là hình gì? (Hình tam giác)",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Đây là hình gì? (Hình chữ nhật)",
+    "options": ["Hình chữ nhật", "Hình tròn", "Hình tam giác", "Hình vuông"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình nào có 3 cạnh?",
+    "options": ["Hình tam giác", "Hình vuông", "Hình tròn", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Hình nào lăn được?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Ghép 1 hình vuông và 1 hình tam giác có thể thành hình gì?",
+    "options": ["Ngôi nhà", "Ô tô", "Cái cây", "Bông hoa"],
+    "correctAnswer": "Ngôi nhà"
+  },
+  {
+    "question": "Tính: 3 + 4 =",
+    "options": ["7", "6", "8", "1"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính: 5 + 5 =",
+    "options": ["10", "9", "8", "0"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tính: 8 - 3 =",
+    "options": ["5", "11", "4", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tính: 9 - 6 =",
+    "options": ["3", "15", "2", "4"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Trong phép cộng 2 + 5 = 7, số 7 gọi là gì?",
+    "options": ["Tổng", "Số hạng", "Hiệu", "Số trừ"],
+    "correctAnswer": "Tổng"
+  },
+  {
+    "question": "Trong phép trừ 10 - 4 = 6, số 10 gọi là gì?",
+    "options": ["Số bị trừ", "Số trừ", "Hiệu", "Tổng"],
+    "correctAnswer": "Số bị trừ"
+  },
+  {
+    "question": "Có 6 quả bóng, thêm 2 quả nữa. Có tất cả mấy quả?",
+    "options": ["8 quả", "4 quả", "7 quả", "9 quả"],
+    "correctAnswer": "8 quả"
+  },
+  {
+    "question": "Có 7 cái kẹo, ăn hết 3 cái. Còn lại mấy cái?",
+    "options": ["4 cái", "10 cái", "3 cái", "5 cái"],
+    "correctAnswer": "4 cái"
+  },
+  {
+    "question": "Đây là khối gì? (Khối lập phương)",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Đây là khối gì? (Khối hộp chữ nhật)",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Con súc sắc có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Hộp sữa giấy có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Vật nào ở phía trên đầu em?",
+    "options": ["Trần nhà", "Sàn nhà", "Cái bàn", "Cái ghế"],
+    "correctAnswer": "Trần nhà"
+  },
+  {
+    "question": "Vật nào ở phía dưới chân em?",
+    "options": ["Sàn nhà", "Bóng đèn", "Quạt trần", "Mái nhà"],
+    "correctAnswer": "Sàn nhà"
+  },
+  {
+    "question": "Khi viết, em cầm bút bằng tay nào?",
+    "options": ["(Tùy bé)", "Tay phải", "Tay trái", "Cả hai tay"],
+    "correctAnswer": "(Tùy bé)"
+  },
+  {
+    "question": "Số bé nhất trong các số: 5, 2, 8, 1",
+    "options": ["1", "2", "5", "8"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 6, 9, 7, 10",
+    "options": ["10", "9", "7", "6"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Sắp xếp từ bé đến lớn: 4, 1, 3, 0",
+    "options": ["0, 1, 3, 4", "4, 3, 1, 0", "1, 3, 0, 4", "0, 4, 1, 3"],
+    "correctAnswer": "0, 1, 3, 4"
+  },
+  {
+    "question": "Hình nào có 4 cạnh bằng nhau?",
+    "options": ["Hình vuông", "Hình tam giác", "Hình tròn", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Điền số: 4 + ... = 9",
+    "options": ["5", "4", "6", "3"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Điền số: 8 - ... = 2",
+    "options": ["6", "10", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Khối nào không lăn được?",
+    "options": ["Khối lập phương", "Khối cầu", "Khối trụ", "Quả bóng"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Trong hình, con chó ở bên trái ngôi nhà. Ngôi nhà ở đâu so với con chó?",
+    "options": ["Bên phải", "Bên trái", "Phía trên", "Phía dưới"],
+    "correctAnswer": "Bên phải"
+  },
+  {
+    "question": "Số 0 đọc là:",
+    "options": ["Không", "Một", "Hai", "Mười"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Viết số: Tám",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số ở giữa 6 và 8 là:",
+    "options": ["7", "6", "8", "5"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "A: 9 kẹo, B: 9 kẹo. Số kẹo hai nhóm thế nào?",
+    "options": ["Bằng nhau", "A nhiều hơn", "B nhiều hơn", "Không biết"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Cái đĩa có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Tính: 1 + 2 + 3 =",
+    "options": ["6", "5", "7", "4"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tính: 10 - 5 - 1 =",
+    "options": ["4", "5", "6", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Hộp quà vuông có dạng khối gì?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Quyển vở ở trên bàn. Cái bàn ở đâu so với quyển vở?",
+    "options": ["Ở dưới", "Ở trên", "Bên cạnh", "Phía sau"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Số liền trước của 1 là:",
+    "options": ["0", "2", "1", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số liền sau của 9 là:",
+    "options": ["10", "8", "7", "9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "So sánh: 5 và 0",
+    "options": ["5 > 0", "5 < 0", "5 = 0", "Không so sánh được"],
+    "correctAnswer": "5 > 0"
+  },
+  {
+    "question": "10 gồm 8 và mấy?",
+    "options": ["2", "3", "1", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Cái cửa sổ có dạng hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tính: 6 + 4 =",
+    "options": ["10", "9", "2", "8"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tính: 7 - 7 =",
+    "options": ["0", "14", "1", "7"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Viên gạch có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Bầu trời ở đâu?",
+    "options": ["Ở trên", "Ở dưới", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Số lớn nhất có một chữ số là:",
+    "options": ["9", "10", "8", "1"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Số bé nhất trong các số từ 0 đến 10 là:",
+    "options": ["0", "1", "10", "2"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Hình nào không có góc?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Phép tính nào có kết quả bằng 9?",
+    "options": ["3 + 6", "10 - 2", "4 + 4", "8 - 1"],
+    "correctAnswer": "3 + 6"
+  },
+  {
+    "question": "Phép tính nào có kết quả bằng 1?",
+    "options": ["5 - 4", "1 + 1", "2 - 0", "3 - 1"],
+    "correctAnswer": "5 - 4"
+  },
+  {
+    "question": "Khối nào có 6 mặt là hình chữ nhật?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Em đang ngồi phía trước hay phía sau cái bàn?",
+    "options": ["Phía trước", "Phía sau", "Bên trên", "Bên dưới"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Số 4 đọc là:",
+    "options": ["Bốn", "Ba", "Năm", "Sáu"],
+    "correctAnswer": "Bốn"
+  },
+  {
+    "question": "Viết số: Một",
+    "options": ["1", "0", "2", "3"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "A: 2 sao, B: 5 sao. Nhóm nào ít hơn?",
+    "options": ["Nhóm A", "Nhóm B", "Bằng nhau", "Không có"],
+    "correctAnswer": "Nhóm A"
+  },
+  {
+    "question": "Mái nhà có dạng hình gì?",
+    "options": ["Hình tam giác", "Hình tròn", "Hình vuông", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Tính: 0 + 7 =",
+    "options": ["7", "0", "6", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính: 8 - 0 =",
+    "options": ["8", "0", "7", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Khối rubik có phải khối hộp chữ nhật không?",
+    "options": ["Không", "Có", "Là khối cầu", "Là khối trụ"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Bên phải, bên trái, trên, dưới là những từ chỉ...",
+    "options": ["Vị trí", "Màu sắc", "Số lượng", "Hình dạng"],
+    "correctAnswer": "Vị trí"
+  },
+  {
+    "question": "Số nào vừa lớn hơn 7, vừa bé hơn 9?",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Sắp xếp từ lớn đến bé: 1, 5, 3, 2",
+    "options": ["5, 3, 2, 1", "1, 2, 3, 5", "1, 3, 2, 5", "5, 2, 3, 1"],
+    "correctAnswer": "5, 3, 2, 1"
+  },
+  {
+    "question": "Hình nào có 4 góc vuông?",
+    "options": ["Hình vuông", "Hình tam giác", "Hình tròn", "Cả A và D"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Điền số: 10 = 7 + ...",
+    "options": ["3", "2", "4", "1"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Điền số: 4 = 9 - ...",
+    "options": ["5", "4", "6", "13"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Khối nào có thể trượt?",
+    "options": ["Khối lập phương", "Khối cầu", "Quả bóng", "Viên bi"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Trong hình, cái cây ở phía sau ngôi nhà. Ngôi nhà ở đâu so với cái cây?",
+    "options": ["Phía trước", "Phía sau", "Bên trên", "Bên dưới"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Viết số: Mười",
+    "options": ["10", "1", "0", "01"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Số 9 đọc là:",
+    "options": ["Chín", "Tám", "Mười", "Bảy"],
+    "correctAnswer": "Chín"
+  },
+  {
+    "question": "So sánh: 6 và 6",
+    "options": ["6 = 6", "6 > 6", "6 < 6", "Không so sánh được"],
+    "correctAnswer": "6 = 6"
+  },
+  {
+    "question": "7 gồm 1 và mấy?",
+    "options": ["6", "7", "8", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Bánh xe ô tô có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Tính: 2 + 2 + 2 =",
+    "options": ["6", "4", "8", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Tính: 9 - 3 - 3 =",
+    "options": ["3", "6", "9", "0"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hộp quà hình chữ nhật có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Cái gối của em ở đâu khi em ngủ?",
+    "options": ["Ở trên", "Ở dưới", "Bên cạnh", "Phía sau"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Số liền trước của 2 là:",
+    "options": ["1", "3", "0", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Số liền sau của 5 là:",
+    "options": ["6", "4", "7", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Hình nào có 4 cạnh?",
+    "options": ["Hình chữ nhật", "Hình tam giác", "Hình tròn", "Cả A và D"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Phép tính nào có kết quả bằng 10?",
+    "options": ["1 + 9", "10 - 1", "5 + 4", "8 - 2"],
+    "correctAnswer": "1 + 9"
+  },
+  {
+    "question": "Phép tính nào có kết quả bằng 0?",
+    "options": ["5 - 5", "5 + 5", "5 - 0", "0 + 5"],
+    "correctAnswer": "5 - 5"
+  },
+  {
+    "question": "Khối nào có 6 mặt bằng nhau?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Em đang ở trong hay ngoài nhà?",
+    "options": ["(Tùy bé)", "Trong nhà", "Ngoài sân", "Trên cây"],
+    "correctAnswer": "(Tùy bé)"
+  },
+  {
+    "question": "Số 0 có phải là số bé nhất không?",
+    "options": ["Có", "Không", "Là số 1", "Là số 10"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Điền dấu: 4 ... 4",
+    "options": ["=", ">", "<", " "],
+    "correctAnswer": "="
+  },
+  {
+    "question": "8 gồm 5 và mấy?",
+    "options": ["3", "4", "2", "13"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Cờ vua được chơi trên bàn cờ hình gì?",
+    "options": ["Hình vuông", "Hình tròn", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tính: 10 - 9 =",
+    "options": ["1", "19", "0", "2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 3 + 0 =",
+    "options": ["3", "0", "4", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Khối nào có thể xếp chồng lên nhau một cách vững chãi?",
+    "options": ["Khối hộp chữ nhật", "Khối cầu", "Quả bóng", "Viên bi"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Cái bảng trong lớp ở đâu?",
+    "options": ["Phía trước", "Phía sau", "Bên trên", "Bên dưới"],
+    "correctAnswer": "Phía trước"
+  },
+  {
+    "question": "Số liền trước của 6 là:",
+    "options": ["5", "7", "4", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số liền sau của 1 là:",
+    "options": ["2", "0", "3", "1"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "So sánh: 8 và 10",
+    "options": ["8 < 10", "8 > 10", "8 = 10", "Không so sánh được"],
+    "correctAnswer": "8 < 10"
+  },
+  {
+    "question": "5 và 1 được mấy?",
+    "options": ["6", "4", "5", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Cái tủ có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Tính: 9 - 5 =",
+    "options": ["4", "14", "3", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tính: 2 + 7 =",
+    "options": ["9", "8", "5", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Trong hình, quyển sách ở trên bàn. Cái bàn ở đâu?",
+    "options": ["Ở dưới", "Ở trên", "Bên cạnh", "Phía sau"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Số lớn nhất trong các số 0, 1, 2, 3, 4, 5 là:",
+    "options": ["5", "0", "4", "6"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số bé nhất trong các số 6, 7, 8, 9, 10 là:",
+    "options": ["6", "10", "7", "5"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Hình nào có 3 góc?",
+    "options": ["Hình tam giác", "Hình vuông", "Hình tròn", "Hình chữ nhật"],
+    "correctAnswer": "Hình tam giác"
+  },
+  {
+    "question": "Phép tính nào có tổng bằng 8?",
+    "options": ["2 + 6", "3 + 4", "5 + 2", "1 + 8"],
+    "correctAnswer": "2 + 6"
+  },
+  {
+    "question": "Phép tính nào có hiệu bằng 2?",
+    "options": ["10 - 8", "9 - 6", "7 - 4", "5 - 2"],
+    "correctAnswer": "10 - 8"
+  },
+  {
+    "question": "Khối nào có các mặt là hình vuông?",
+    "options": ["Khối lập phương", "Khối hộp chữ nhật", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối lập phương"
+  },
+  {
+    "question": "Đôi dép của em ở đâu?",
+    "options": ["Ở dưới", "Ở trên", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở dưới"
+  },
+  {
+    "question": "Số 0 có phải là số tự nhiên không?",
+    "options": ["Có", "Không", "Là số âm", "Là số thập phân"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Điền dấu: 3 ... 1",
+    "options": [">", "<", "=", "+"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "10 gồm 3 và mấy?",
+    "options": ["7", "6", "8", "13"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Biển báo cấm đi ngược chiều có dạng hình gì?",
+    "options": ["Hình tròn", "Hình vuông", "Hình tam giác", "Hình chữ nhật"],
+    "correctAnswer": "Hình tròn"
+  },
+  {
+    "question": "Tính: 10 - 0 =",
+    "options": ["10", "0", "9", "11"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tính: 4 + 6 =",
+    "options": ["10", "9", "2", "8"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Hộp phấn có dạng khối gì?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Tóc của em ở đâu?",
+    "options": ["Ở trên", "Ở dưới", "Bên phải", "Bên trái"],
+    "correctAnswer": "Ở trên"
+  },
+  {
+    "question": "Số liền trước của 9 là:",
+    "options": ["8", "10", "7", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số liền sau của 2 là:",
+    "options": ["3", "1", "4", "2"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Hình nào có 4 cạnh?",
+    "options": ["Hình vuông", "Hình tam giác", "Hình tròn", "Cả A và D"],
+    "correctAnswer": "Cả A và D"
+  },
+  {
+    "question": "Phép tính nào có tổng bằng 5?",
+    "options": ["2 + 3", "1 + 5", "4 + 2", "5 + 1"],
+    "correctAnswer": "2 + 3"
+  },
+  {
+    "question": "Phép tính nào có hiệu bằng 6?",
+    "options": ["9 - 3", "8 - 1", "10 - 5", "7 - 2"],
+    "correctAnswer": "9 - 3"
+  },
+  {
+    "question": "Khối nào có các mặt là hình chữ nhật?",
+    "options": ["Khối hộp chữ nhật", "Khối lập phương", "Khối cầu", "Khối trụ"],
+    "correctAnswer": "Khối hộp chữ nhật"
+  },
+  {
+    "question": "Khi em nhìn thẳng, em thấy gì?",
+    "options": ["Phía trước", "Phía sau", "Bên trên", "Bên dưới"],
+    "correctAnswer": "Phía trước"
+  }
+]
+
