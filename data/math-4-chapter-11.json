@@ -1,0 +1,438 @@
+[
+  {
+    "question": "Kết quả của phép tính 1/5 + 3/5 là:",
+    "options": ["4/5", "4/10", "2/5", "3/25"],
+    "correctAnswer": "4/5"
+  },
+  {
+    "question": "Muốn cộng hai phân số có cùng mẫu số, ta làm thế nào?",
+    "options": ["Cộng hai tử số với nhau và giữ nguyên mẫu số", "Cộng hai tử số và cộng hai mẫu số", "Nhân hai tử số và giữ nguyên mẫu số", "Giữ nguyên tử số và cộng hai mẫu số"],
+    "correctAnswer": "Cộng hai tử số với nhau và giữ nguyên mẫu số"
+  },
+  {
+    "question": "Kết quả của phép tính 7/9 - 2/9 là:",
+    "options": ["5/9", "5/0", "9/9", "5/18"],
+    "correctAnswer": "5/9"
+  },
+  {
+    "question": "Muốn trừ hai phân số có cùng mẫu số, ta làm thế nào?",
+    "options": ["Trừ hai tử số cho nhau và giữ nguyên mẫu số", "Trừ hai tử số và trừ hai mẫu số", "Giữ nguyên tử số và trừ hai mẫu số", "Nhân hai tử số với nhau"],
+    "correctAnswer": "Trừ hai tử số cho nhau và giữ nguyên mẫu số"
+  },
+  {
+    "question": "Tính: 2/11 + 5/11 + 3/11",
+    "options": ["10/11", "10/33", "11/10", "1"],
+    "correctAnswer": "10/11"
+  },
+  {
+    "question": "Tính: 1 - 3/4",
+    "options": ["1/4", "3/4", "4/3", "1"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 1/3 là:",
+    "options": ["5/6", "2/5", "1/6", "2/6"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Muốn cộng hai phân số khác mẫu số, bước đầu tiên ta phải làm gì?",
+    "options": ["Quy đồng mẫu số hai phân số", "Cộng hai tử số với nhau", "Cộng hai mẫu số với nhau", "Rút gọn phân số"],
+    "correctAnswer": "Quy đồng mẫu số hai phân số"
+  },
+  {
+    "question": "Kết quả của phép tính 3/4 - 1/2 là:",
+    "options": ["1/4", "2/2", "1", "2/4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Muốn trừ hai phân số khác mẫu số, ta làm thế nào?",
+    "options": ["Quy đồng mẫu số rồi trừ hai phân số đó", "Trừ tử cho tử, mẫu cho mẫu", "Giữ nguyên mẫu số, trừ hai tử số", "Nhân chéo rồi trừ"],
+    "correctAnswer": "Quy đồng mẫu số rồi trừ hai phân số đó"
+  },
+  {
+    "question": "Một sợi dây dài 7/8 mét. Người ta cắt đi 3/8 mét. Sợi dây còn lại dài bao nhiêu mét?",
+    "options": ["4/8 mét (hoặc 1/2 mét)", "10/8 mét", "4/0 mét", "1 mét"],
+    "correctAnswer": "4/8 mét (hoặc 1/2 mét)"
+  },
+  {
+    "question": "Tính: 2/5 + 3/10",
+    "options": ["7/10", "5/15", "5/10", "1/2"],
+    "correctAnswer": "7/10"
+  },
+  {
+    "question": "Tính: 5/6 - 2/3",
+    "options": ["1/6", "3/3", "1", "3/6"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "An đọc một quyển sách. Ngày đầu An đọc được 1/3 quyển, ngày thứ hai đọc được 1/4 quyển. Hỏi cả hai ngày An đọc được mấy phần của quyển sách?",
+    "options": ["7/12", "2/7", "1/12", "1/7"],
+    "correctAnswer": "7/12"
+  },
+  {
+    "question": "Tìm x, biết x + 1/5 = 4/5",
+    "options": ["x = 3/5", "x = 1", "x = 5/5", "x = 4/25"],
+    "correctAnswer": "x = 3/5"
+  },
+  {
+    "question": "Tìm y, biết y - 2/7 = 3/7",
+    "options": ["y = 5/7", "y = 1/7", "y = 6/49", "y = 1"],
+    "correctAnswer": "y = 5/7"
+  },
+  {
+    "question": "Tính: 3 + 1/2",
+    "options": ["7/2", "4/2", "3/2", "2"],
+    "correctAnswer": "7/2"
+  },
+  {
+    "question": "Tính: 2 - 3/5",
+    "options": ["7/5", "1/5", "5/5", "1"],
+    "correctAnswer": "7/5"
+  },
+  {
+    "question": "Kết quả của phép tính 5/12 + 1/4 là:",
+    "options": ["8/12 (hoặc 2/3)", "6/16", "6/12", "1/2"],
+    "correctAnswer": "8/12 (hoặc 2/3)"
+  },
+  {
+    "question": "Kết quả của phép tính 9/10 - 3/5 là:",
+    "options": ["3/10", "6/5", "6/10", "12/15"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Một thùng nước có 5/6 thùng. Sau khi dùng, còn lại 1/3 thùng. Đã dùng hết mấy phần của thùng nước?",
+    "options": ["3/6 thùng (hoặc 1/2 thùng)", "4/3 thùng", "6/9 thùng", "1/6 thùng"],
+    "correctAnswer": "3/6 thùng (hoặc 1/2 thùng)"
+  },
+  {
+    "question": "Tính: 3/2 + 1/4 + 1/8",
+    "options": ["15/8", "5/14", "5/8", "1"],
+    "correctAnswer": "15/8"
+  },
+  {
+    "question": "Tìm x, biết 3/4 - x = 1/2",
+    "options": ["x = 1/4", "x = 5/4", "x = 2/2", "x = 1"],
+    "correctAnswer": "x = 1/4"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả bằng 1?",
+    "options": ["3/7 + 4/7", "1 - 1/7", "5/7 + 1/7", "7/7 - 1"],
+    "correctAnswer": "3/7 + 4/7"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả lớn hơn 1?",
+    "options": ["4/5 + 3/5", "1 - 1/5", "3/5 + 1/5", "1/5 + 2/5"],
+    "correctAnswer": "4/5 + 3/5"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả bé hơn 1/2?",
+    "options": ["3/4 - 1/3", "1/2 + 1/4", "1 - 1/3", "1/3 + 1/5"],
+    "correctAnswer": "3/4 - 1/3"
+  },
+  {
+    "question": "Tính: 1/2 + 3/8",
+    "options": ["7/8", "4/10", "4/8", "1/2"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Tính: 7/10 - 1/5",
+    "options": ["5/10 (hoặc 1/2)", "6/5", "8/15", "6/10"],
+    "correctAnswer": "5/10 (hoặc 1/2)"
+  },
+  {
+    "question": "Một mảnh vườn hình chữ nhật có chiều dài 1/2 km, chiều rộng 1/3 km. Chu vi mảnh vườn là:",
+    "options": ["5/3 km", "5/6 km", "1/6 km", "10/12 km"],
+    "correctAnswer": "5/3 km"
+  },
+  {
+    "question": "Tổng của 1/2 và 1/4 là:",
+    "options": ["3/4", "2/6", "1/8", "1/4"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Hiệu của 1 và 5/8 là:",
+    "options": ["3/8", "13/8", "8/8", "1"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "2/3 + ... = 1. Số cần điền là:",
+    "options": ["1/3", "2/3", "3/3", "0"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "5/4 - ... = 1. Số cần điền là:",
+    "options": ["1/4", "5/4", "4/4", "0"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Một công việc, đội I làm được 2/5 công việc, đội II làm được 3/10 công việc. Cả hai đội làm được bao nhiêu phần công việc?",
+    "options": ["7/10", "5/15", "1/10", "1/2"],
+    "correctAnswer": "7/10"
+  },
+  {
+    "question": "Tính: 4/9 + 1/3",
+    "options": ["7/9", "5/12", "5/9", "1"],
+    "correctAnswer": "7/9"
+  },
+  {
+    "question": "Tính: 1/2 - 1/6",
+    "options": ["2/6 (hoặc 1/3)", "0", "1/4", "1/12"],
+    "correctAnswer": "2/6 (hoặc 1/3)"
+  },
+  {
+    "question": "Một quả dưa hấu nặng 3 kg. Mẹ cắt ra 1/4 quả. Quả dưa hấu còn lại nặng bao nhiêu?",
+    "options": ["9/4 kg (hoặc 2 và 1/4 kg)", "11/4 kg", "3/4 kg", "2 kg"],
+    "correctAnswer": "9/4 kg (hoặc 2 và 1/4 kg)"
+  },
+  {
+    "question": "Tìm x, biết x - 1/3 = 1/6",
+    "options": ["x = 3/6 (hoặc 1/2)", "x = 1/18", "x = 1/3", "x = 1/6"],
+    "correctAnswer": "x = 3/6 (hoặc 1/2)"
+  },
+  {
+    "question": "Tìm y, biết 1/2 + y = 5/8",
+    "options": ["y = 1/8", "y = 9/8", "y = 6/10", "y = 1/2"],
+    "correctAnswer": "y = 1/8"
+  },
+  {
+    "question": "So sánh: 1/2 + 1/3 và 1",
+    "options": ["1/2 + 1/3 < 1", "1/2 + 1/3 > 1", "1/2 + 1/3 = 1", "Không so sánh được"],
+    "correctAnswer": "1/2 + 1/3 < 1"
+  },
+  {
+    "question": "So sánh: 3/4 + 1/2 và 1",
+    "options": ["3/4 + 1/2 > 1", "3/4 + 1/2 < 1", "3/4 + 1/2 = 1", "Không so sánh được"],
+    "correctAnswer": "3/4 + 1/2 > 1"
+  },
+  {
+    "question": "Tính: 5/2 - 3/4",
+    "options": ["7/4", "2/2", "1", "2/4"],
+    "correctAnswer": "7/4"
+  },
+  {
+    "question": "Một đàn gà có 2/5 là gà trống, còn lại là gà mái. Phân số chỉ số gà mái trong đàn là:",
+    "options": ["3/5", "2/5", "5/5", "1"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Tính: 3/5 + 2/5 + 1/5",
+    "options": ["6/5", "6/15", "5/6", "1"],
+    "correctAnswer": "6/5"
+  },
+  {
+    "question": "Tính: 1 - (1/2 + 1/4)",
+    "options": ["1/4", "3/4", "1/2", "0"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Kết quả của phép tính 1/8 + 5/8 là:",
+    "options": ["6/8 (hoặc 3/4)", "6/16", "5/64", "1"],
+    "correctAnswer": "6/8 (hoặc 3/4)"
+  },
+  {
+    "question": "Kết quả của phép tính 11/12 - 5/12 là:",
+    "options": ["6/12 (hoặc 1/2)", "6/0", "16/12", "1"],
+    "correctAnswer": "6/12 (hoặc 1/2)"
+  },
+  {
+    "question": "Tính: 2/7 + 3/14",
+    "options": ["7/14 (hoặc 1/2)", "5/21", "5/14", "1"],
+    "correctAnswer": "7/14 (hoặc 1/2)"
+  },
+  {
+    "question": "Tính: 4/5 - 3/10",
+    "options": ["5/10 (hoặc 1/2)", "1/5", "7/15", "1/10"],
+    "correctAnswer": "5/10 (hoặc 1/2)"
+  },
+  {
+    "question": "Một người nông dân dành 1/2 diện tích để trồng rau, 1/5 diện tích để trồng hoa. Diện tích còn lại để làm lối đi. Phân số chỉ diện tích làm lối đi là:",
+    "options": ["3/10", "7/10", "3/7", "1/10"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Tìm x, biết x + 1/4 = 1",
+    "options": ["x = 3/4", "x = 5/4", "x = 1/4", "x = 1"],
+    "correctAnswer": "x = 3/4"
+  },
+  {
+    "question": "Tìm y, biết 2 - y = 5/3",
+    "options": ["y = 1/3", "y = 11/3", "y = 1", "y = 5/3"],
+    "correctAnswer": "y = 1/3"
+  },
+  {
+    "question": "Tính: 1/10 + 2/10 + 3/10 + 4/10",
+    "options": ["10/10 (hoặc 1)", "10/40", "1", "4/10"],
+    "correctAnswer": "10/10 (hoặc 1)"
+  },
+  {
+    "question": "Tính: 1/2 + 1/4 + 1/8 + 1/16",
+    "options": ["15/16", "4/30", "1", "1/16"],
+    "correctAnswer": "15/16"
+  },
+  {
+    "question": "Một ô tô giờ đầu đi được 1/3 quãng đường, giờ thứ hai đi được 2/5 quãng đường. Hỏi ô tô còn phải đi bao nhiêu phần quãng đường nữa?",
+    "options": ["4/15", "11/15", "1/15", "3/8"],
+    "correctAnswer": "4/15"
+  },
+  {
+    "question": "Kết quả của phép tính 3/8 + 1/2 là:",
+    "options": ["7/8", "4/10", "4/8", "1"],
+    "correctAnswer": "7/8"
+  },
+  {
+    "question": "Kết quả của phép tính 5/7 - 2/7 là:",
+    "options": ["3/7", "3/0", "7/7", "1"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Tính: 4/15 + 2/5",
+    "options": ["10/15 (hoặc 2/3)", "6/20", "6/15", "1"],
+    "correctAnswer": "10/15 (hoặc 2/3)"
+  },
+  {
+    "question": "Tính: 7/8 - 3/4",
+    "options": ["1/8", "4/4", "1", "10/12"],
+    "correctAnswer": "1/8"
+  },
+  {
+    "question": "Một tấm vải dài 2 mét. Lần đầu mẹ cắt 1/2 mét, lần sau mẹ cắt 3/4 mét. Tấm vải còn lại dài bao nhiêu mét?",
+    "options": ["3/4 mét", "5/4 mét", "1/4 mét", "1 mét"],
+    "correctAnswer": "3/4 mét"
+  },
+  {
+    "question": "Tìm x, biết 1/6 + x = 5/6",
+    "options": ["x = 4/6 (hoặc 2/3)", "x = 1", "x = 6/6", "x = 1/6"],
+    "correctAnswer": "x = 4/6 (hoặc 2/3)"
+  },
+  {
+    "question": "Tìm y, biết y - 1/8 = 1/4",
+    "options": ["y = 3/8", "y = 1/8", "y = 2/12", "y = 1/4"],
+    "correctAnswer": "y = 3/8"
+  },
+  {
+    "question": "Tính: 5 + 2/3",
+    "options": ["17/3", "7/3", "10/3", "5"],
+    "correctAnswer": "17/3"
+  },
+  {
+    "question": "Tính: 4 - 5/6",
+    "options": ["19/6", "1/6", "9/6", "3"],
+    "correctAnswer": "19/6"
+  },
+  {
+    "question": "Tổng của hai phân số là 5/7. Một phân số là 2/7. Phân số còn lại là:",
+    "options": ["3/7", "7/7", "1", "2/7"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Hiệu của hai phân số là 1/4. Số trừ là 1/2. Số bị trừ là:",
+    "options": ["3/4", "1/4", "1/2", "1"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Tính: 2/9 + 5/9 + 4/9",
+    "options": ["11/9", "11/27", "1", "11/18"],
+    "correctAnswer": "11/9"
+  },
+  {
+    "question": "Tính: 2 - 1/2 - 1/4",
+    "options": ["5/4", "1/4", "3/4", "1"],
+    "correctAnswer": "5/4"
+  },
+  {
+    "question": "Một cái bánh được chia làm 6 phần bằng nhau. Lan ăn 1/6 cái bánh, Hoa ăn 2/6 cái bánh. Còn lại mấy phần cái bánh?",
+    "options": ["3/6 (hoặc 1/2)", "3/12", "1/6", "2/6"],
+    "correctAnswer": "3/6 (hoặc 1/2)"
+  },
+  {
+    "question": "Kết quả của phép tính 1/3 + 1/4 + 1/5 là:",
+    "options": ["47/60", "3/12", "3/60", "1"],
+    "correctAnswer": "47/60"
+  },
+  {
+    "question": "Tìm x, biết x + 2/5 = 1",
+    "options": ["x = 3/5", "x = 7/5", "x = 2/5", "x = 1"],
+    "correctAnswer": "x = 3/5"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả là 1/2?",
+    "options": ["1/4 + 1/4", "1 - 1/4", "1/3 + 1/3", "3/4 - 1/2"],
+    "correctAnswer": "1/4 + 1/4"
+  },
+  {
+    "question": "So sánh: 2/5 + 1/5 và 4/5",
+    "options": ["2/5 + 1/5 < 4/5", "2/5 + 1/5 > 4/5", "2/5 + 1/5 = 4/5", "Không so sánh được"],
+    "correctAnswer": "2/5 + 1/5 < 4/5"
+  },
+  {
+    "question": "So sánh: 1 - 1/10 và 9/10",
+    "options": ["1 - 1/10 = 9/10", "1 - 1/10 > 9/10", "1 - 1/10 < 9/10", "Không so sánh được"],
+    "correctAnswer": "1 - 1/10 = 9/10"
+  },
+  {
+    "question": "Tính: 3/10 + 4/10 + 5/10",
+    "options": ["12/10 (hoặc 6/5)", "12/30", "1", "12/100"],
+    "correctAnswer": "12/10 (hoặc 6/5)"
+  },
+  {
+    "question": "Một xô nước chứa 10 lít. Buổi sáng dùng 1/2 xô, buổi chiều dùng 1/5 xô. Trong xô còn lại bao nhiêu lít nước?",
+    "options": ["3 lít", "7 lít", "5 lít", "2 lít"],
+    "correctAnswer": "3 lít"
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 + 2/3 là:",
+    "options": ["7/6", "3/5", "2/6", "1"],
+    "correctAnswer": "7/6"
+  },
+  {
+    "question": "Kết quả của phép tính 5/4 - 1/3 là:",
+    "options": ["11/12", "4/1", "4/12", "1"],
+    "correctAnswer": "11/12"
+  },
+  {
+    "question": "Tính: 1/2 + 1/3 + 1/6",
+    "options": ["1", "3/11", "6/6", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tìm y, biết 5/9 + y = 1",
+    "options": ["y = 4/9", "y = 14/9", "y = 1", "y = 5/9"],
+    "correctAnswer": "y = 4/9"
+  },
+  {
+    "question": "Một kho gạo có 1 tấn. Lần đầu bán 1/4 tấn, lần sau bán 3/8 tấn. Kho còn lại bao nhiêu tấn gạo?",
+    "options": ["3/8 tấn", "5/8 tấn", "1/2 tấn", "1/8 tấn"],
+    "correctAnswer": "3/8 tấn"
+  },
+  {
+    "question": "Phép tính nào có kết quả là phân số tối giản?",
+    "options": ["1/5 + 2/5", "1/6 + 2/6", "1/8 + 3/8", "1/4 + 1/4"],
+    "correctAnswer": "1/5 + 2/5"
+  },
+  {
+    "question": "Tính: 1/100 + 9/100",
+    "options": ["10/100 (hoặc 1/10)", "10/200", "9/10000", "1"],
+    "correctAnswer": "10/100 (hoặc 1/10)"
+  },
+  {
+    "question": "Tính: 1 - 99/100",
+    "options": ["1/100", "199/100", "1", "0"],
+    "correctAnswer": "1/100"
+  },
+  {
+    "question": "Tính: 2/5 + 1/2",
+    "options": ["9/10", "3/7", "3/10", "1"],
+    "correctAnswer": "9/10"
+  },
+  {
+    "question": "Tính: 2/3 - 1/2",
+    "options": ["1/6", "1/1", "1", "3/5"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Hùng cao 4/3 mét, Dũng cao hơn Hùng 1/6 mét. Hỏi Dũng cao bao nhiêu mét?",
+    "options": ["9/6 mét (hoặc 3/2 mét)", "7/6 mét", "1 mét", "5/9 mét"],
+    "correctAnswer": "9/6 mét (hoặc 3/2 mét)"
+  }
+]
+
