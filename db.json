@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Số có nhiều chữ số",
                   "file": "./data/math-4-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Một số đơn vị đo đại lượng",
+                  "file": "./data/math-4-chapter-4.json"
                 }
               ]
             }
