@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Kết quả của phép tính 1234 + 5678 là:",
+    "options": ["6912", "6812", "6902", "7000"],
+    "correctAnswer": "6912"
+  },
+  {
+    "question": "Đặt tính rồi tính: 4567 + 2345",
+    "options": ["6912", "6812", "6902", "7000"],
+    "correctAnswer": "6912"
+  },
+  {
+    "question": "Kết quả của phép tính 9876 - 5432 là:",
+    "options": ["4444", "4344", "5444", "4440"],
+    "correctAnswer": "4444"
+  },
+  {
+    "question": "Đặt tính rồi tính: 8000 - 2550",
+    "options": ["5450", "5550", "6450", "6550"],
+    "correctAnswer": "5450"
+  },
+  {
+    "question": "Kết quả của phép tính 1234 x 2 là:",
+    "options": ["2468", "2466", "2268", "2488"],
+    "correctAnswer": "2468"
+  },
+  {
+    "question": "Đặt tính rồi tính: 2015 x 4",
+    "options": ["8060", "8040", "8050", "8600"],
+    "correctAnswer": "8060"
+  },
+  {
+    "question": "Kết quả của phép tính 4826 : 2 là:",
+    "options": ["2413", "2412", "2431", "2143"],
+    "correctAnswer": "2413"
+  },
+  {
+    "question": "Đặt tính rồi tính: 9630 : 3",
+    "options": ["3210", "321", "3201", "3120"],
+    "correctAnswer": "3210"
+  },
+  {
+    "question": "Một trang trại có 2500 con gà và 1500 con vịt. Hỏi trang trại có tất cả bao nhiêu con gà và vịt?",
+    "options": ["4000 con", "3000 con", "1000 con", "4500 con"],
+    "correctAnswer": "4000 con"
+  },
+  {
+    "question": "Một kho chứa 5000 kg gạo, đã xuất đi 1200 kg. Hỏi trong kho còn lại bao nhiêu ki-lô-gam gạo?",
+    "options": ["3800 kg", "6200 kg", "4800 kg", "4200 kg"],
+    "correctAnswer": "3800 kg"
+  },
+  {
+    "question": "Mỗi thùng chứa 1050 lít dầu. 5 thùng như thế chứa bao nhiêu lít dầu?",
+    "options": ["5250 lít", "5050 lít", "5255 lít", "5000 lít"],
+    "correctAnswer": "5250 lít"
+  },
+  {
+    "question": "Có 4800 quyển vở chia đều cho 4 trường. Mỗi trường nhận được bao nhiêu quyển vở?",
+    "options": ["1200 quyển", "1400 quyển", "1020 quyển", "120 quyển"],
+    "correctAnswer": "1200 quyển"
+  },
+  {
+    "question": "Tính: 3500 + 2500",
+    "options": ["6000", "5000", "5500", "6500"],
+    "correctAnswer": "6000"
+  },
+  {
+    "question": "Tính: 10000 - 4500",
+    "options": ["5500", "6500", "5000", "4500"],
+    "correctAnswer": "5500"
+  },
+  {
+    "question": "Tính: 1008 x 8",
+    "options": ["8064", "864", "8084", "8864"],
+    "correctAnswer": "8064"
+  },
+  {
+    "question": "Tính: 6050 : 5",
+    "options": ["1210", "121", "1021", "1201"],
+    "correctAnswer": "1210"
+  },
+  {
+    "question": "Tìm x, biết: x - 4000 = 5000",
+    "options": ["x = 9000", "x = 1000", "x = 4000", "x = 5000"],
+    "correctAnswer": "x = 9000"
+  },
+  {
+    "question": "Tìm y, biết: y + 1500 = 3000",
+    "options": ["y = 1500", "y = 4500", "y = 2500", "y = 3000"],
+    "correctAnswer": "y = 1500"
+  },
+  {
+    "question": "Tìm z, biết: z x 6 = 1200",
+    "options": ["z = 200", "z = 7200", "z = 1206", "z = 1194"],
+    "correctAnswer": "z = 200"
+  },
+  {
+    "question": "Tìm a, biết: a : 7 = 1000",
+    "options": ["a = 7000", "a = 1007", "a = 993", "a = 700"],
+    "correctAnswer": "a = 7000"
+  },
+  {
+    "question": "Một đội công nhân trồng được 1350 cây bạch đàn và 2450 cây thông. Hỏi đội đó trồng được tất cả bao nhiêu cây?",
+    "options": ["3800 cây", "3700 cây", "1100 cây", "4000 cây"],
+    "correctAnswer": "3800 cây"
+  },
+  {
+    "question": "Một thư viện có 8000 quyển sách. Người ta đã cho mượn 2500 quyển. Hỏi thư viện còn lại bao nhiêu quyển sách?",
+    "options": ["5500 quyển", "10500 quyển", "6500 quyển", "5000 quyển"],
+    "correctAnswer": "5500 quyển"
+  },
+  {
+    "question": "Mỗi chuyến xe buýt chở được 45 hành khách. Hỏi 100 chuyến như vậy chở được bao nhiêu hành khách?",
+    "options": ["4500 hành khách", "145 hành khách", "55 hành khách", "450 hành khách"],
+    "correctAnswer": "4500 hành khách"
+  },
+  {
+    "question": "Một công ty sản xuất 3600 sản phẩm trong 3 ngày. Hỏi trung bình mỗi ngày công ty sản xuất được bao nhiêu sản phẩm?",
+    "options": ["1200 sản phẩm", "10800 sản phẩm", "3603 sản phẩm", "3597 sản phẩm"],
+    "correctAnswer": "1200 sản phẩm"
+  },
+  {
+    "question": "Tính: 2040 + 3060",
+    "options": ["5100", "5000", "5060", "5160"],
+    "correctAnswer": "5100"
+  },
+  {
+    "question": "Tính: 7500 - 1250",
+    "options": ["6250", "6350", "8750", "6200"],
+    "correctAnswer": "6250"
+  },
+  {
+    "question": "Tính: 1122 x 4",
+    "options": ["4488", "4484", "4448", "4848"],
+    "correctAnswer": "4488"
+  },
+  {
+    "question": "Tính: 8408 : 4",
+    "options": ["2102", "212", "2120", "2012"],
+    "correctAnswer": "2102"
+  },
+  {
+    "question": "Một cửa hàng buổi sáng bán được 1200 kg gạo, buổi chiều bán được 1500 kg gạo. Hỏi cả ngày cửa hàng bán được bao nhiêu kg gạo?",
+    "options": ["2700 kg", "300 kg", "2500 kg", "3000 kg"],
+    "correctAnswer": "2700 kg"
+  },
+  {
+    "question": "Một người có 9000 đồng, mua một món đồ hết 4500 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["4500 đồng", "13500 đồng", "5500 đồng", "5000 đồng"],
+    "correctAnswer": "4500 đồng"
+  },
+  {
+    "question": "Một trường học có 1200 học sinh. 1/3 số đó là học sinh nam. Hỏi trường có bao nhiêu học sinh nữ?",
+    "options": ["800 học sinh", "400 học sinh", "1600 học sinh", "900 học sinh"],
+    "correctAnswer": "800 học sinh"
+  },
+  {
+    "question": "Có 5400 viên kẹo chia đều vào 9 hộp. Hỏi mỗi hộp có bao nhiêu viên kẹo?",
+    "options": ["600 viên", "60 viên", "540 viên", "500 viên"],
+    "correctAnswer": "600 viên"
+  },
+  {
+    "question": "Tính: 1999 + 1",
+    "options": ["2000", "1998", "2001", "1990"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Tính: 6000 - 999",
+    "options": ["5001", "5000", "5111", "5011"],
+    "correctAnswer": "5001"
+  },
+  {
+    "question": "Tính: 1300 x 5",
+    "options": ["6500", "5500", "650", "6000"],
+    "correctAnswer": "6500"
+  },
+  {
+    "question": "Tính: 7000 : 7",
+    "options": ["1000", "100", "10", "1"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 2000m, chiều rộng 1500m. Chu vi của hình chữ nhật đó là:",
+    "options": ["7000 m", "3500 m", "500 m", "8000 m"],
+    "correctAnswer": "7000 m"
+  },
+  {
+    "question": "Một hình vuông có cạnh 1200m. Chu vi của hình vuông đó là:",
+    "options": ["4800 m", "2400 m", "1204 m", "4000 m"],
+    "correctAnswer": "4800 m"
+  },
+  {
+    "question": "Tìm x, biết: x : 4 = 1500",
+    "options": ["x = 6000", "x = 375", "x = 1504", "x = 1496"],
+    "correctAnswer": "x = 6000"
+  },
+  {
+    "question": "Tìm y, biết: 3 x y = 9300",
+    "options": ["y = 3100", "y = 9303", "y = 9297", "y = 310"],
+    "correctAnswer": "y = 3100"
+  },
+  {
+    "question": "Tính: 4560 + 1230",
+    "options": ["5790", "5780", "5690", "5890"],
+    "correctAnswer": "5790"
+  },
+  {
+    "question": "Tính: 8765 - 4321",
+    "options": ["4444", "4344", "4440", "4434"],
+    "correctAnswer": "4444"
+  },
+  {
+    "question": "Tính: 1111 x 8",
+    "options": ["8888", "8880", "8808", "8088"],
+    "correctAnswer": "8888"
+  },
+  {
+    "question": "Tính: 8080 : 8",
+    "options": ["1010", "110", "1001", "1100"],
+    "correctAnswer": "1010"
+  },
+  {
+    "question": "Một xưởng may có 2400m vải, đã dùng 1/3 số vải để may quần. Số vải còn lại là:",
+    "options": ["1600 m", "800 m", "2000 m", "1800 m"],
+    "correctAnswer": "1600 m"
+  },
+  {
+    "question": "Một người đi bộ 2 giờ được 8000m. Hỏi trung bình mỗi giờ người đó đi được bao nhiêu mét?",
+    "options": ["4000 m", "16000 m", "6000 m", "2000 m"],
+    "correctAnswer": "4000 m"
+  },
+  {
+    "question": "Tính: 2345 + 3456",
+    "options": ["5801", "5701", "5811", "5791"],
+    "correctAnswer": "5801"
+  },
+  {
+    "question": "Tính: 9000 - 1001",
+    "options": ["7999", "8000", "8999", "7990"],
+    "correctAnswer": "7999"
+  },
+  {
+    "question": "Tính: 1023 x 4",
+    "options": ["4092", "4082", "492", "4096"],
+    "correctAnswer": "4092"
+  },
+  {
+    "question": "Tính: 5005 : 5",
+    "options": ["1001", "101", "11", "1000"],
+    "correctAnswer": "1001"
+  },
+  {
+    "question": "Một đội tình nguyện có 1200 người, trong đó 1/2 là sinh viên. Số người không phải sinh viên là:",
+    "options": ["600 người", "1800 người", "1000 người", "800 người"],
+    "correctAnswer": "600 người"
+  },
+  {
+    "question": "Có 4 thùng sách, mỗi thùng có 1250 quyển. Tổng số sách là:",
+    "options": ["5000 quyển", "4000 quyển", "4250 quyển", "5250 quyển"],
+    "correctAnswer": "5000 quyển"
+  },
+  {
+    "question": "Tổng của 5000 và 2500 là:",
+    "options": ["7500", "2500", "7000", "8000"],
+    "correctAnswer": "7500"
+  },
+  {
+    "question": "Hiệu của 8000 và 3500 là:",
+    "options": ["4500", "11500", "5500", "5000"],
+    "correctAnswer": "4500"
+  },
+  {
+    "question": "Tích của 1500 và 6 là:",
+    "options": ["9000", "6000", "1506", "1494"],
+    "correctAnswer": "9000"
+  },
+  {
+    "question": "Thương của 8400 và 4 là:",
+    "options": ["2100", "210", "2010", "2001"],
+    "correctAnswer": "2100"
+  },
+  {
+    "question": "Một người đi xe máy quãng đường dài 120km trong 3 giờ. Vận tốc trung bình của người đó là:",
+    "options": ["40 km/giờ", "360 km/giờ", "123 km/giờ", "117 km/giờ"],
+    "correctAnswer": "40 km/giờ"
+  },
+  {
+    "question": "Một cửa hàng có 3000 quả trứng, đã bán 1/3 số trứng. Cửa hàng còn lại bao nhiêu quả trứng?",
+    "options": ["2000 quả", "1000 quả", "2700 quả", "1500 quả"],
+    "correctAnswer": "2000 quả"
+  },
+  {
+    "question": "Tính: 1010 + 2020 + 3030",
+    "options": ["6060", "6000", "6600", "6050"],
+    "correctAnswer": "6060"
+  },
+  {
+    "question": "Tính: 10000 - 1234 - 5678",
+    "options": ["3088", "4322", "6912", "4000"],
+    "correctAnswer": "3088"
+  },
+  {
+    "question": "Tính: 1012 x 5",
+    "options": ["5060", "5050", "560", "5006"],
+    "correctAnswer": "5060"
+  },
+  {
+    "question": "Tính: 9999 : 9",
+    "options": ["1111", "1110", "1011", "1101"],
+    "correctAnswer": "1111"
+  },
+  {
+    "question": "Một cái sân hình vuông có chu vi 4000m. Cạnh của sân là:",
+    "options": ["1000 m", "2000 m", "4004 m", "3996 m"],
+    "correctAnswer": "1000 m"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 2500m, chiều rộng kém chiều dài 500m. Chiều rộng là:",
+    "options": ["2000 m", "3000 m", "1250000 m", "5 m"],
+    "correctAnswer": "2000 m"
+  },
+  {
+    "question": "Tìm x, biết: x + 2345 = 6789",
+    "options": ["x = 4444", "x = 9134", "x = 4344", "x = 4440"],
+    "correctAnswer": "x = 4444"
+  },
+  {
+    "question": "Tìm y, biết: 8765 - y = 1234",
+    "options": ["y = 7531", "y = 9999", "y = 7530", "y = 7541"],
+    "correctAnswer": "y = 7531"
+  },
+  {
+    "question": "Tìm z, biết: z x 8 = 8000",
+    "options": ["z = 1000", "z = 8008", "z = 7992", "z = 100"],
+    "correctAnswer": "z = 1000"
+  },
+  {
+    "question": "Tìm a, biết: a : 5 = 1200",
+    "options": ["a = 6000", "a = 240", "a = 1205", "a = 1195"],
+    "correctAnswer": "a = 6000"
+  },
+  {
+    "question": "Một người có 10000 đồng, mua 3 kg táo, mỗi kg giá 3000 đồng. Người đó còn lại bao nhiêu tiền?",
+    "options": ["1000 đồng", "9000 đồng", "7000 đồng", "4000 đồng"],
+    "correctAnswer": "1000 đồng"
+  },
+  {
+    "question": "Một đội công nhân có 5 người, làm trong 2 ngày được 100 sản phẩm. Hỏi trung bình mỗi người làm được bao nhiêu sản phẩm trong một ngày?",
+    "options": ["10 sản phẩm", "20 sản phẩm", "50 sản phẩm", "100 sản phẩm"],
+    "correctAnswer": "10 sản phẩm"
+  },
+  {
+    "question": "Tính: 3400 + 1600",
+    "options": ["5000", "4000", "4800", "5200"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Tính: 7000 - 2050",
+    "options": ["4950", "5050", "4900", "5000"],
+    "correctAnswer": "4950"
+  },
+  {
+    "question": "Tính: 1400 x 7",
+    "options": ["9800", "7800", "980", "9100"],
+    "correctAnswer": "9800"
+  },
+  {
+    "question": "Tính: 6300 : 9",
+    "options": ["700", "70", "7000", "7"],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Một người đi du lịch quãng đường dài 1500km. Người đó đã đi được 1/3 quãng đường. Hỏi người đó còn phải đi bao nhiêu km nữa?",
+    "options": ["1000 km", "500 km", "1200 km", "1497 km"],
+    "correctAnswer": "1000 km"
+  },
+  {
+    "question": "Một cửa hàng có 2000 bút chì, chia đều vào 100 hộp. Hỏi mỗi hộp có bao nhiêu bút chì?",
+    "options": ["20 bút", "200 bút", "10 bút", "2 bút"],
+    "correctAnswer": "20 bút"
+  },
+  {
+    "question": "Tổng của số lớn nhất có 4 chữ số và 1 là:",
+    "options": ["10000", "9998", "1000", "9999"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Hiệu của 5000 và 5 là:",
+    "options": ["4995", "5005", "4990", "4900"],
+    "correctAnswer": "4995"
+  },
+  {
+    "question": "Tích của 2500 và 4 là:",
+    "options": ["10000", "8000", "2504", "2496"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Thương của 10000 và 2 là:",
+    "options": ["5000", "20000", "9998", "10002"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Một người nông dân thu hoạch được 1200 kg khoai tây và 1500 kg cà rốt. Khối lượng cà rốt nhiều hơn khoai tây là:",
+    "options": ["300 kg", "2700 kg", "1300 kg", "1000 kg"],
+    "correctAnswer": "300 kg"
+  },
+  {
+    "question": "Một quyển sách có 120 trang. An đọc mỗi ngày 10 trang. Hỏi sau 1 tuần (7 ngày) An còn phải đọc bao nhiêu trang?",
+    "options": ["50 trang", "70 trang", "113 trang", "60 trang"],
+    "correctAnswer": "50 trang"
+  },
+  {
+    "question": "Tính: 1111 + 2222 + 3333",
+    "options": ["6666", "6660", "6606", "6066"],
+    "correctAnswer": "6666"
+  },
+  {
+    "question": "Tính: 9876 - 1234 - 2345",
+    "options": ["6297", "8642", "7531", "6000"],
+    "correctAnswer": "6297"
+  },
+  {
+    "question": "Tính: 1002 x 8",
+    "options": ["8016", "816", "8006", "8018"],
+    "correctAnswer": "8016"
+  },
+  {
+    "question": "Tính: 7209 : 9",
+    "options": ["801", "81", "800", "810"],
+    "correctAnswer": "801"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 6000m, chiều dài 2000m. Chiều rộng là:",
+    "options": ["1000 m", "4000 m", "3000 m", "500 m"],
+    "correctAnswer": "1000 m"
+  },
+  {
+    "question": "Một hình vuông có diện tích 2500 m². Cạnh của hình vuông đó là:",
+    "options": ["50 m", "500 m", "25 m", "100 m"],
+    "correctAnswer": "50 m"
+  }
+]
+
