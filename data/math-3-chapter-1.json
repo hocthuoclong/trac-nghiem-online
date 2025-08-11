@@ -1,0 +1,458 @@
+[
+  {
+    "question": "Số 'Bốn trăm năm mươi hai' được viết là:",
+    "options": ["452", "402", "450", "542"],
+    "correctAnswer": "452"
+  },
+  {
+    "question": "Số 891 được đọc là:",
+    "options": ["Tám trăm chín mươi mốt", "Tám chín một", "Tám trăm chín một", "Tám trăm chín mươi"],
+    "correctAnswer": "Tám trăm chín mươi mốt"
+  },
+  {
+    "question": "Trong số 673, chữ số 7 có giá trị là:",
+    "options": ["70", "7", "700", "670"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Số liền sau của số 599 là:",
+    "options": ["600", "598", "590", "601"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Kết quả của phép tính 345 + 123 là:",
+    "options": ["468", "458", "467", "368"],
+    "correctAnswer": "468"
+  },
+  {
+    "question": "Kết quả của phép tính 789 - 456 là:",
+    "options": ["333", "323", "433", "334"],
+    "correctAnswer": "333"
+  },
+  {
+    "question": "Tìm x, biết: x + 150 = 400",
+    "options": ["x = 250", "x = 550", "x = 150", "x = 350"],
+    "correctAnswer": "x = 250"
+  },
+  {
+    "question": "Tìm y, biết: 500 - y = 200",
+    "options": ["y = 300", "y = 700", "y = 200", "y = 500"],
+    "correctAnswer": "y = 300"
+  },
+  {
+    "question": "Kết quả của phép tính 2 x 8 là:",
+    "options": ["16", "10", "6", "28"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Kết quả của phép tính 35 : 5 là:",
+    "options": ["7", "5", "6", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Kết quả của phép tính 3 x 7 là:",
+    "options": ["21", "10", "24", "18"],
+    "correctAnswer": "21"
+  },
+  {
+    "question": "Kết quả của phép tính 24 : 3 là:",
+    "options": ["8", "7", "6", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Kết quả của phép tính 4 x 6 là:",
+    "options": ["24", "10", "20", "28"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Kết quả của phép tính 32 : 4 là:",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Đoạn thẳng AB dài 15 cm, đoạn thẳng CD dài 20 cm. Cả hai đoạn thẳng dài bao nhiêu xăng-ti-mét?",
+    "options": ["35 cm", "5 cm", "15 cm", "20 cm"],
+    "correctAnswer": "35 cm"
+  },
+  {
+    "question": "Hình vuông có mấy cạnh bằng nhau?",
+    "options": ["4", "2", "3", "Không có"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số gồm 5 trăm, 0 chục và 9 đơn vị được viết là:",
+    "options": ["509", "590", "905", "59"],
+    "correctAnswer": "509"
+  },
+  {
+    "question": "Số lớn nhất có ba chữ số là:",
+    "options": ["999", "100", "987", "990"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Tính: 450 + 250",
+    "options": ["700", "600", "650", "750"],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Tính: 800 - 350",
+    "options": ["450", "550", "400", "500"],
+    "correctAnswer": "450"
+  },
+  {
+    "question": "Tìm x, biết: x - 120 = 80",
+    "options": ["x = 200", "x = 40", "x = 120", "x = 80"],
+    "correctAnswer": "x = 200"
+  },
+  {
+    "question": "Tìm y, biết: 300 + y = 700",
+    "options": ["y = 400", "y = 1000", "y = 300", "y = 700"],
+    "correctAnswer": "y = 400"
+  },
+  {
+    "question": "5 x 9 = ?",
+    "options": ["45", "14", "40", "50"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "18 : 2 = ?",
+    "options": ["9", "8", "7", "16"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "3 x 6 = ?",
+    "options": ["18", "9", "21", "15"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "27 : 3 = ?",
+    "options": ["9", "8", "7", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "4 x 9 = ?",
+    "options": ["36", "13", "32", "40"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "20 : 4 = ?",
+    "options": ["5", "4", "6", "16"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Một giờ có 60 phút. 1 giờ 15 phút có tất cả bao nhiêu phút?",
+    "options": ["75 phút", "60 phút", "15 phút", "90 phút"],
+    "correctAnswer": "75 phút"
+  },
+  {
+    "question": "Chu vi của hình vuông có cạnh 5 cm là:",
+    "options": ["20 cm", "25 cm", "10 cm", "15 cm"],
+    "correctAnswer": "20 cm"
+  },
+  {
+    "question": "Số liền trước của số 700 là:",
+    "options": ["699", "701", "690", "600"],
+    "correctAnswer": "699"
+  },
+  {
+    "question": "So sánh: 567 và 576",
+    "options": ["567 < 576", "567 > 576", "567 = 576", "Không so sánh được"],
+    "correctAnswer": "567 < 576"
+  },
+  {
+    "question": "Tính: 234 + 456",
+    "options": ["690", "680", "790", "689"],
+    "correctAnswer": "690"
+  },
+  {
+    "question": "Tính: 901 - 109",
+    "options": ["792", "892", "802", "782"],
+    "correctAnswer": "792"
+  },
+  {
+    "question": "Trong phép cộng 123 + 456 = 579, số 123 được gọi là gì?",
+    "options": ["Số hạng", "Tổng", "Số bị trừ", "Số trừ"],
+    "correctAnswer": "Số hạng"
+  },
+  {
+    "question": "Trong phép trừ 500 - 200 = 300, số 500 được gọi là gì?",
+    "options": ["Số bị trừ", "Số trừ", "Hiệu", "Số hạng"],
+    "correctAnswer": "Số bị trừ"
+  },
+  {
+    "question": "2 x 7 = ?",
+    "options": ["14", "9", "5", "12"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "40 : 5 = ?",
+    "options": ["8", "7", "9", "35"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "3 x 9 = ?",
+    "options": ["27", "12", "30", "24"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "15 : 3 = ?",
+    "options": ["5", "4", "6", "12"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "4 x 7 = ?",
+    "options": ["28", "11", "24", "32"],
+    "correctAnswer": "28"
+  },
+  {
+    "question": "36 : 4 = ?",
+    "options": ["9", "8", "7", "32"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "1 mét bằng bao nhiêu xăng-ti-mét?",
+    "options": ["100 cm", "10 cm", "1000 cm", "1 cm"],
+    "correctAnswer": "100 cm"
+  },
+  {
+    "question": "Hình chữ nhật có mấy cặp cạnh đối diện bằng nhau?",
+    "options": ["2 cặp", "1 cặp", "4 cặp", "Không có"],
+    "correctAnswer": "2 cặp"
+  },
+  {
+    "question": "Số bé nhất có ba chữ số khác nhau là:",
+    "options": ["102", "100", "111", "123"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Tổng của 315 và 285 là:",
+    "options": ["600", "500", "590", "690"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Hiệu của 1000 và 1 là:",
+    "options": ["999", "990", "900", "1001"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Tìm x, biết x là hiệu của 560 và 160.",
+    "options": ["x = 400", "x = 720", "x = 500", "x = 300"],
+    "correctAnswer": "x = 400"
+  },
+  {
+    "question": "Tìm y, biết y là tổng của 250 và 350.",
+    "options": ["y = 600", "y = 100", "y = 500", "y = 700"],
+    "correctAnswer": "y = 600"
+  },
+  {
+    "question": "Trong phép nhân 5 x 6 = 30, số 30 được gọi là gì?",
+    "options": ["Tích", "Thừa số", "Thương", "Tổng"],
+    "correctAnswer": "Tích"
+  },
+  {
+    "question": "Trong phép chia 20 : 2 = 10, số 20 được gọi là gì?",
+    "options": ["Số bị chia", "Số chia", "Thương", "Số dư"],
+    "correctAnswer": "Số bị chia"
+  },
+  {
+    "question": "Mỗi hộp có 3 cái bánh. 8 hộp như thế có bao nhiêu cái bánh?",
+    "options": ["24 cái", "11 cái", "5 cái", "30 cái"],
+    "correctAnswer": "24 cái"
+  },
+  {
+    "question": "Có 28 bông hoa cắm đều vào 4 lọ. Mỗi lọ có bao nhiêu bông hoa?",
+    "options": ["7 bông", "24 bông", "32 bông", "6 bông"],
+    "correctAnswer": "7 bông"
+  },
+  {
+    "question": "1 km bằng bao nhiêu mét?",
+    "options": ["1000 m", "100 m", "10 m", "1 m"],
+    "correctAnswer": "1000 m"
+  },
+  {
+    "question": "Một hình tam giác có 3 cạnh dài 10cm, 12cm, 15cm. Chu vi hình tam giác đó là:",
+    "options": ["37 cm", "30 cm", "27 cm", "25 cm"],
+    "correctAnswer": "37 cm"
+  },
+  {
+    "question": "Số 789 được viết thành tổng là:",
+    "options": ["700 + 80 + 9", "70 + 80 + 9", "700 + 8 + 9", "7 + 8 + 9"],
+    "correctAnswer": "700 + 80 + 9"
+  },
+  {
+    "question": "Kết quả của 123 + 45 + 567 là:",
+    "options": ["735", "725", "734", "635"],
+    "correctAnswer": "735"
+  },
+  {
+    "question": "Kết quả của 987 - 123 - 456 là:",
+    "options": ["408", "864", "531", "308"],
+    "correctAnswer": "408"
+  },
+  {
+    "question": "Tìm x, biết x là số hạng chưa biết trong phép cộng: x + 25 = 75",
+    "options": ["x = 50", "x = 100", "x = 25", "x = 75"],
+    "correctAnswer": "x = 50"
+  },
+  {
+    "question": "Tìm y, biết y là số trừ trong phép trừ: 100 - y = 60",
+    "options": ["y = 40", "y = 160", "y = 100", "y = 60"],
+    "correctAnswer": "y = 40"
+  },
+  {
+    "question": "2 x 10 = ?",
+    "options": ["20", "12", "8", "22"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "50 : 5 = ?",
+    "options": ["10", "5", "45", "55"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "3 x 10 = ?",
+    "options": ["30", "13", "7", "33"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "30 : 3 = ?",
+    "options": ["10", "33", "27", "3"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "4 x 10 = ?",
+    "options": ["40", "14", "6", "44"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "40 : 4 = ?",
+    "options": ["10", "44", "36", "4"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một tuần có 7 ngày. 4 tuần có bao nhiêu ngày?",
+    "options": ["28 ngày", "11 ngày", "3 ngày", "30 ngày"],
+    "correctAnswer": "28 ngày"
+  },
+  {
+    "question": "Đồng hồ chỉ 3 giờ. Kim giờ và kim phút tạo thành một góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Số tròn trăm liền sau số 450 là:",
+    "options": ["500", "400", "460", "600"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Tổng của số bé nhất có 3 chữ số và số lớn nhất có 2 chữ số là:",
+    "options": ["199", "109", "999", "100"],
+    "correctAnswer": "199"
+  },
+  {
+    "question": "Hiệu của 505 và 150 là:",
+    "options": ["355", "655", "455", "350"],
+    "correctAnswer": "355"
+  },
+  {
+    "question": "Tìm x, biết x là số bị trừ trong phép trừ: x - 250 = 100",
+    "options": ["x = 350", "x = 150", "x = 250", "x = 100"],
+    "correctAnswer": "x = 350"
+  },
+  {
+    "question": "An có 10 viên bi, Bình có số bi gấp 5 lần An. Cả hai bạn có bao nhiêu viên bi?",
+    "options": ["60 viên", "50 viên", "15 viên", "5 viên"],
+    "correctAnswer": "60 viên"
+  },
+  {
+    "question": "Có 30 học sinh xếp thành 3 hàng đều nhau. Mỗi hàng có bao nhiêu học sinh?",
+    "options": ["10 học sinh", "33 học sinh", "27 học sinh", "3 học sinh"],
+    "correctAnswer": "10 học sinh"
+  },
+  {
+    "question": "Một con gà có 2 chân. 9 con gà có bao nhiêu chân?",
+    "options": ["18 chân", "11 chân", "7 chân", "20 chân"],
+    "correctAnswer": "18 chân"
+  },
+  {
+    "question": "Một bàn có 4 cái ghế. 8 bàn có bao nhiêu cái ghế?",
+    "options": ["32 cái", "12 cái", "4 cái", "40 cái"],
+    "correctAnswer": "32 cái"
+  },
+  {
+    "question": "Trong các đơn vị đo độ dài: m, dm, cm, mm, đơn vị nào lớn nhất?",
+    "options": ["m", "dm", "cm", "mm"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "Chu vi hình chữ nhật có chiều dài 15cm, chiều rộng 10cm là:",
+    "options": ["50 cm", "25 cm", "150 cm", "30 cm"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "Số 1000 được đọc là:",
+    "options": ["Một nghìn", "Một trăm", "Mười trăm", "Một không không không"],
+    "correctAnswer": "Một nghìn"
+  },
+  {
+    "question": "Tính: 123 + 234 + 345",
+    "options": ["702", "602", "712", "692"],
+    "correctAnswer": "702"
+  },
+  {
+    "question": "Tính: 1000 - 100 - 200",
+    "options": ["700", "800", "600", "1300"],
+    "correctAnswer": "700"
+  },
+  {
+    "question": "Tìm x, biết x là số hạng chưa biết: 450 + x = 900",
+    "options": ["x = 450", "x = 1350", "x = 550", "x = 900"],
+    "correctAnswer": "x = 450"
+  },
+  {
+    "question": "Tìm y, biết y là số trừ: 888 - y = 111",
+    "options": ["y = 777", "y = 999", "y = 888", "y = 111"],
+    "correctAnswer": "y = 777"
+  },
+  {
+    "question": "2 x 6 = ?",
+    "options": ["12", "8", "4", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "25 : 5 = ?",
+    "options": ["5", "4", "6", "20"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "3 x 8 = ?",
+    "options": ["24", "11", "5", "27"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "12 : 3 = ?",
+    "options": ["4", "3", "5", "9"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "4 x 8 = ?",
+    "options": ["32", "12", "4", "36"],
+    "correctAnswer": "32"
+  },
+  {
+    "question": "24 : 4 = ?",
+    "options": ["6", "5", "7", "20"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một quyển sách dày 120 trang. An đã đọc 80 trang. An còn phải đọc bao nhiêu trang nữa?",
+    "options": ["40 trang", "200 trang", "80 trang", "120 trang"],
+    "correctAnswer": "40 trang"
+  },
+  {
+    "question": "Một hình tứ giác có 4 cạnh bằng nhau và 4 góc vuông là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  }
+]
+
