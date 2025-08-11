@@ -32,6 +32,10 @@
                 {
                   "name": "Chương 6: Đường thẳng vuông góc. Đường thẳng song song",
                   "file": "./data/math-4-chapter-6.json"
+                },
+                {
+                  "name": "Chương 8: Phép nhân và phép chia",
+                  "file": "./data/math-4-chapter-8.json"
                 }
               ]
             },
