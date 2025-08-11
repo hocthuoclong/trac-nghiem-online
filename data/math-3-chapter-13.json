@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Khi kim dài chỉ vào số 12, kim ngắn chỉ vào số 8 thì đồng hồ chỉ mấy giờ?",
+    "options": ["8 giờ", "12 giờ", "8 giờ 12 phút", "12 giờ 8 phút"],
+    "correctAnswer": "8 giờ"
+  },
+  {
+    "question": "Đồng hồ chỉ 9 giờ 15 phút. Lúc này kim dài chỉ vào số mấy?",
+    "options": ["Số 3", "Số 9", "Số 12", "Số 1"],
+    "correctAnswer": "Số 3"
+  },
+  {
+    "question": "Tháng nào sau đây có 31 ngày?",
+    "options": ["Tháng Một", "Tháng Hai", "Tháng Tư", "Tháng Sáu"],
+    "correctAnswer": "Tháng Một"
+  },
+  {
+    "question": "Một năm (không nhuận) có bao nhiêu ngày?",
+    "options": ["365 ngày", "366 ngày", "356 ngày", "355 ngày"],
+    "correctAnswer": "365 ngày"
+  },
+  {
+    "question": "Tờ tiền nào sau đây có giá trị lớn nhất?",
+    "options": ["50 000 đồng", "20 000 đồng", "10 000 đồng", "5 000 đồng"],
+    "correctAnswer": "50 000 đồng"
+  },
+  {
+    "question": "An có 2 tờ 10 000 đồng. An có tất cả bao nhiêu tiền?",
+    "options": ["20 000 đồng", "12 000 đồng", "2 000 đồng", "10 000 đồng"],
+    "correctAnswer": "20 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 10 giờ kém 10 phút. Cách đọc giờ nào sau đây là đúng?",
+    "options": ["9 giờ 50 phút", "10 giờ 10 phút", "10 giờ 50 phút", "9 giờ 10 phút"],
+    "correctAnswer": "9 giờ 50 phút"
+  },
+  {
+    "question": "Tháng 11 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Để mua một quyển vở giá 8 000 đồng, em cần đưa cho cô bán hàng tờ tiền nào?",
+    "options": ["10 000 đồng", "5 000 đồng", "2 000 đồng", "1 000 đồng"],
+    "correctAnswer": "10 000 đồng"
+  },
+  {
+    "question": "Một trận bóng đá bắt đầu lúc 15 giờ và kết thúc lúc 16 giờ 30 phút. Trận đấu kéo dài bao lâu?",
+    "options": ["90 phút", "60 phút", "30 phút", "120 phút"],
+    "correctAnswer": "90 phút"
+  },
+  {
+    "question": "Hôm nay là thứ Ba, ngày 10 tháng 5. Thứ Ba tuần sau là ngày bao nhiêu?",
+    "options": ["Ngày 17 tháng 5", "Ngày 16 tháng 5", "Ngày 18 tháng 5", "Ngày 15 tháng 5"],
+    "correctAnswer": "Ngày 17 tháng 5"
+  },
+  {
+    "question": "Tờ tiền 20 000 đồng có màu gì?",
+    "options": ["Xanh nước biển", "Đỏ", "Xanh lá cây", "Vàng"],
+    "correctAnswer": "Xanh nước biển"
+  },
+  {
+    "question": "Đồng hồ chỉ 3 giờ 30 phút. Cách đọc nào khác là đúng?",
+    "options": ["3 rưỡi", "3 giờ kém 30 phút", "4 giờ kém 30 phút", "3 giờ 6 phút"],
+    "correctAnswer": "3 rưỡi"
+  },
+  {
+    "question": "Tháng Hai của năm nhuận có bao nhiêu ngày?",
+    "options": ["29 ngày", "28 ngày", "30 ngày", "31 ngày"],
+    "correctAnswer": "29 ngày"
+  },
+  {
+    "question": "Bình mua một cái bút giá 5 000 đồng. Bình đưa tờ 10 000 đồng. Cô bán hàng trả lại bao nhiêu tiền?",
+    "options": ["5 000 đồng", "15 000 đồng", "10 000 đồng", "Không trả lại"],
+    "correctAnswer": "5 000 đồng"
+  },
+  {
+    "question": "Một bộ phim hoạt hình dài 25 phút. Nếu bắt đầu xem lúc 8 giờ 10 phút thì sẽ kết thúc lúc mấy giờ?",
+    "options": ["8 giờ 35 phút", "8 giờ 30 phút", "8 giờ 40 phút", "8 giờ 25 phút"],
+    "correctAnswer": "8 giờ 35 phút"
+  },
+  {
+    "question": "Tháng 7 và tháng 8 có điểm gì chung?",
+    "options": ["Cả hai đều có 31 ngày", "Cả hai đều có 30 ngày", "Một tháng có 30, một tháng có 31 ngày", "Cả hai đều là tháng hè"],
+    "correctAnswer": "Cả hai đều có 31 ngày"
+  },
+  {
+    "question": "Để có 15 000 đồng, em cần ít nhất mấy tờ 5 000 đồng?",
+    "options": ["3 tờ", "2 tờ", "4 tờ", "5 tờ"],
+    "correctAnswer": "3 tờ"
+  },
+  {
+    "question": "Đồng hồ chỉ 6 giờ kém 5 phút. Lúc đó là mấy giờ?",
+    "options": ["5 giờ 55 phút", "6 giờ 5 phút", "6 giờ 55 phút", "5 giờ 5 phút"],
+    "correctAnswer": "5 giờ 55 phút"
+  },
+  {
+    "question": "Ngày 30 tháng 4 là ngày lễ gì?",
+    "options": ["Giải phóng miền Nam, thống nhất đất nước", "Quốc tế Lao động", "Quốc khánh", "Giỗ tổ Hùng Vương"],
+    "correctAnswer": "Giải phóng miền Nam, thống nhất đất nước"
+  },
+  {
+    "question": "An có 22 000 đồng. An có thể mua được món đồ nào sau đây?",
+    "options": ["Quyển truyện giá 20 000 đồng", "Hộp bút giá 25 000 đồng", "Cái cặp giá 50 000 đồng", "Đôi giày giá 100 000 đồng"],
+    "correctAnswer": "Quyển truyện giá 20 000 đồng"
+  },
+  {
+    "question": "Kim phút đi một vòng đầy đủ trên mặt đồng hồ là bao nhiêu phút?",
+    "options": ["60 phút", "12 phút", "30 phút", "1 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "Tháng nào có số ngày ít nhất trong năm?",
+    "options": ["Tháng Hai", "Tháng Tư", "Tháng Chín", "Tháng Mười Một"],
+    "correctAnswer": "Tháng Hai"
+  },
+  {
+    "question": "5 tờ 2 000 đồng có giá trị bằng mấy tờ 10 000 đồng?",
+    "options": ["1 tờ", "2 tờ", "5 tờ", "10 tờ"],
+    "correctAnswer": "1 tờ"
+  },
+  {
+    "question": "Một chương trình TV bắt đầu lúc 19 giờ và kéo dài 45 phút. Chương trình kết thúc lúc mấy giờ?",
+    "options": ["19 giờ 45 phút", "20 giờ", "19 giờ 30 phút", "20 giờ 15 phút"],
+    "correctAnswer": "19 giờ 45 phút"
+  },
+  {
+    "question": "Ngày cuối cùng của năm là ngày nào?",
+    "options": ["Ngày 31 tháng 12", "Ngày 30 tháng 12", "Ngày 1 tháng 1", "Ngày 29 tháng 2"],
+    "correctAnswer": "Ngày 31 tháng 12"
+  },
+  {
+    "question": "Mẹ có 50 000 đồng. Mẹ mua rau hết 12 000 đồng và mua thịt hết 35 000 đồng. Mẹ còn lại bao nhiêu tiền?",
+    "options": ["3 000 đồng", "47 000 đồng", "15 000 đồng", "5 000 đồng"],
+    "correctAnswer": "3 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 12 giờ 30 phút. Kim giờ và kim phút ở vị trí nào?",
+    "options": ["Kim giờ ở giữa số 12 và 1, kim phút ở số 6", "Kim giờ ở số 12, kim phút ở số 6", "Kim giờ ở số 1, kim phút ở số 6", "Kim giờ và kim phút cùng ở số 6"],
+    "correctAnswer": "Kim giờ ở giữa số 12 và 1, kim phút ở số 6"
+  },
+  {
+    "question": "Các tháng có 30 ngày là:",
+    "options": ["Tháng 4, 6, 9, 11", "Tháng 1, 3, 5, 7", "Tháng 2, 4, 6, 8", "Tháng 8, 10, 12"],
+    "correctAnswer": "Tháng 4, 6, 9, 11"
+  },
+  {
+    "question": "Tờ tiền 100 000 đồng có hình gì ở mặt sau?",
+    "options": ["Văn Miếu - Quốc Tử Giám", "Vịnh Hạ Long", "Chùa Cầu Hội An", "Nhà sàn Bác Hồ"],
+    "correctAnswer": "Văn Miếu - Quốc Tử Giám"
+  },
+  {
+    "question": "Bây giờ là 7 giờ sáng. 45 phút nữa là mấy giờ?",
+    "options": ["7 giờ 45 phút", "8 giờ", "7 giờ 30 phút", "8 giờ kém 15 phút"],
+    "correctAnswer": "7 giờ 45 phút"
+  },
+  {
+    "question": "Ngày Quốc tế thiếu nhi 1/6 năm 2025 là thứ mấy?",
+    "options": ["Chủ nhật", "Thứ hai", "Thứ bảy", "Thứ sáu"],
+    "correctAnswer": "Chủ nhật"
+  },
+  {
+    "question": "Một cái bánh giá 7 000 đồng. Mua 3 cái bánh như thế hết bao nhiêu tiền?",
+    "options": ["21 000 đồng", "20 000 đồng", "10 000 đồng", "14 000 đồng"],
+    "correctAnswer": "21 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 1 giờ kém 20 phút. Tức là:",
+    "options": ["12 giờ 40 phút", "1 giờ 20 phút", "1 giờ 40 phút", "12 giờ 20 phút"],
+    "correctAnswer": "12 giờ 40 phút"
+  },
+  {
+    "question": "Một quý có mấy tháng?",
+    "options": ["3 tháng", "4 tháng", "6 tháng", "12 tháng"],
+    "correctAnswer": "3 tháng"
+  },
+  {
+    "question": "Lan có 32 000 đồng. Lan mua một hộp bút màu giá 25 000 đồng. Lan còn lại bao nhiêu tiền?",
+    "options": ["7 000 đồng", "57 000 đồng", "17 000 đồng", "10 000 đồng"],
+    "correctAnswer": "7 000 đồng"
+  },
+  {
+    "question": "Kim giờ đi hết một vòng đồng hồ là bao nhiêu giờ?",
+    "options": ["12 giờ", "24 giờ", "60 giờ", "1 giờ"],
+    "correctAnswer": "12 giờ"
+  },
+  {
+    "question": "Tháng 10 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Tờ tiền 500 000 đồng là tờ tiền có mệnh giá lớn nhất hiện nay. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy lúc", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Một tiết học kéo dài 40 phút. Nếu bắt đầu lúc 8 giờ thì kết thúc lúc mấy giờ?",
+    "options": ["8 giờ 40 phút", "8 giờ 30 phút", "9 giờ", "8 giờ 20 phút"],
+    "correctAnswer": "8 giờ 40 phút"
+  },
+  {
+    "question": "Ngày Nhà giáo Việt Nam là ngày nào?",
+    "options": ["20/11", "20/10", "19/11", "21/11"],
+    "correctAnswer": "20/11"
+  },
+  {
+    "question": "Để có 30 000 đồng, em có thể dùng những tờ tiền nào?",
+    "options": ["Một tờ 20 000 và một tờ 10 000", "Hai tờ 20 000", "Ba tờ 5 000", "Năm tờ 10 000"],
+    "correctAnswer": "Một tờ 20 000 và một tờ 10 000"
+  },
+  {
+    "question": "Đồng hồ chỉ 4 giờ 45 phút. Còn bao nhiêu phút nữa thì đến 5 giờ?",
+    "options": ["15 phút", "45 phút", "5 phút", "10 phút"],
+    "correctAnswer": "15 phút"
+  },
+  {
+    "question": "Tháng nào nằm giữa tháng 6 và tháng 8?",
+    "options": ["Tháng 7", "Tháng 5", "Tháng 9", "Không có"],
+    "correctAnswer": "Tháng 7"
+  },
+  {
+    "question": "Một ly trà sữa giá 25 000 đồng. An có 2 tờ 10 000 đồng và 1 tờ 5 000 đồng. An có đủ tiền mua không?",
+    "options": ["Có", "Không", "Còn thừa", "Còn thiếu"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một ngày có bao nhiêu giờ?",
+    "options": ["24 giờ", "12 giờ", "60 giờ", "30 giờ"],
+    "correctAnswer": "24 giờ"
+  },
+  {
+    "question": "Tháng 12 là tháng cuối cùng trong năm. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy năm", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Hai tờ 50 000 đồng có giá trị bằng mấy tờ 20 000 đồng?",
+    "options": ["5 tờ", "2 tờ", "4 tờ", "10 tờ"],
+    "correctAnswer": "5 tờ"
+  },
+  {
+    "question": "Bây giờ là 10 giờ 30 phút. 30 phút trước là mấy giờ?",
+    "options": ["10 giờ", "11 giờ", "10 giờ 15 phút", "9 giờ 30 phút"],
+    "correctAnswer": "10 giờ"
+  },
+  {
+    "question": "Ngày sinh nhật Bác Hồ là ngày nào?",
+    "options": ["19/5", "19/4", "19/6", "2/9"],
+    "correctAnswer": "19/5"
+  },
+  {
+    "question": "Một cái bánh mì giá 15 000 đồng. Một chai nước giá 8 000 đồng. Mua cả hai hết bao nhiêu tiền?",
+    "options": ["23 000 đồng", "7 000 đồng", "20 000 đồng", "25 000 đồng"],
+    "correctAnswer": "23 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 7 giờ 20 phút. Sau 20 phút nữa là mấy giờ?",
+    "options": ["7 giờ 40 phút", "7 giờ", "8 giờ", "7 giờ 50 phút"],
+    "correctAnswer": "7 giờ 40 phút"
+  },
+  {
+    "question": "Tháng 5 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Tờ tiền 1000 đồng và 2000 đồng làm bằng chất liệu gì?",
+    "options": ["Giấy", "Polymer", "Nhựa", "Vải"],
+    "correctAnswer": "Giấy"
+  },
+  {
+    "question": "Một giờ có 60 phút. 1/4 giờ có bao nhiêu phút?",
+    "options": ["15 phút", "20 phút", "30 phút", "10 phút"],
+    "correctAnswer": "15 phút"
+  },
+  {
+    "question": "Năm nay là năm 2025. Năm sau là năm nào?",
+    "options": ["2026", "2024", "2023", "2020"],
+    "correctAnswer": "2026"
+  },
+  {
+    "question": "An tiết kiệm được 45 000 đồng. An muốn mua một con gấu bông giá 60 000 đồng. An còn thiếu bao nhiêu tiền?",
+    "options": ["15 000 đồng", "105 000 đồng", "25 000 đồng", "20 000 đồng"],
+    "correctAnswer": "15 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 2 giờ kém 5 phút. Tức là:",
+    "options": ["1 giờ 55 phút", "2 giờ 5 phút", "2 giờ 55 phút", "1 giờ 5 phút"],
+    "correctAnswer": "1 giờ 55 phút"
+  },
+  {
+    "question": "Tháng nào có 28 hoặc 29 ngày?",
+    "options": ["Tháng 2", "Tháng 3", "Tháng 4", "Tháng 12"],
+    "correctAnswer": "Tháng 2"
+  },
+  {
+    "question": "Tờ tiền 5000 đồng có màu gì?",
+    "options": ["Xanh lơ", "Đỏ", "Vàng", "Xanh lá"],
+    "correctAnswer": "Xanh lơ"
+  },
+  {
+    "question": "Một tập phim dài 30 phút. Xem 3 tập liên tiếp hết bao nhiêu thời gian?",
+    "options": ["1 giờ 30 phút", "1 giờ", "2 giờ", "90 giờ"],
+    "correctAnswer": "1 giờ 30 phút"
+  },
+  {
+    "question": "Ngày 20 tháng 11 năm 2025 là thứ mấy?",
+    "options": ["Thứ Năm", "Thứ Sáu", "Thứ Tư", "Thứ Ba"],
+    "correctAnswer": "Thứ Năm"
+  },
+  {
+    "question": "Bốn tờ 5 000 đồng có giá trị bằng mấy tờ 10 000 đồng?",
+    "options": ["2 tờ", "1 tờ", "3 tờ", "4 tờ"],
+    "correctAnswer": "2 tờ"
+  },
+  {
+    "question": "Đồng hồ chỉ 11 giờ 5 phút. 10 phút trước là mấy giờ?",
+    "options": ["10 giờ 55 phút", "11 giờ 15 phút", "11 giờ", "10 giờ 50 phút"],
+    "correctAnswer": "10 giờ 55 phút"
+  },
+  {
+    "question": "Tháng 9 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Một cây kem giá 6 000 đồng. Mua 2 cây kem và đưa tờ 20 000 đồng thì được trả lại bao nhiêu?",
+    "options": ["8 000 đồng", "12 000 đồng", "14 000 đồng", "10 000 đồng"],
+    "correctAnswer": "8 000 đồng"
+  },
+  {
+    "question": "Một ngày có bao nhiêu phút?",
+    "options": ["1440 phút", "60 phút", "24 phút", "1200 phút"],
+    "correctAnswer": "1440 phút"
+  },
+  {
+    "question": "Tháng 1 là tháng đầu tiên của năm. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Tùy năm", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Để có 100 000 đồng, em cần mấy tờ 20 000 đồng?",
+    "options": ["5 tờ", "4 tờ", "6 tờ", "10 tờ"],
+    "correctAnswer": "5 tờ"
+  },
+  {
+    "question": "Bây giờ là 1 giờ rưỡi chiều. 30 phút nữa là mấy giờ?",
+    "options": ["2 giờ chiều", "1 giờ chiều", "1 giờ 45 phút chiều", "2 giờ 30 phút chiều"],
+    "correctAnswer": "2 giờ chiều"
+  },
+  {
+    "question": "Ngày Tết Dương lịch là ngày nào?",
+    "options": ["1/1", "1/2", "30/4", "2/9"],
+    "correctAnswer": "1/1"
+  },
+  {
+    "question": "Một vé xem phim giá 45 000 đồng. Mua 2 vé hết bao nhiêu tiền?",
+    "options": ["90 000 đồng", "80 000 đồng", "100 000 đồng", "47 000 đồng"],
+    "correctAnswer": "90 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 10 giờ 50 phút. Còn bao nhiêu phút nữa thì đến 11 giờ?",
+    "options": ["10 phút", "50 phút", "5 phút", "20 phút"],
+    "correctAnswer": "10 phút"
+  },
+  {
+    "question": "Tháng 6 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Tờ tiền 200 000 đồng có hình gì ở mặt sau?",
+    "options": ["Vịnh Hạ Long", "Văn Miếu - Quốc Tử Giám", "Chùa Cầu Hội An", "Nhà sàn Bác Hồ"],
+    "correctAnswer": "Vịnh Hạ Long"
+  },
+  {
+    "question": "Một giờ có 60 phút. 1/3 giờ có bao nhiêu phút?",
+    "options": ["20 phút", "15 phút", "30 phút", "10 phút"],
+    "correctAnswer": "20 phút"
+  },
+  {
+    "question": "Năm 2024 có phải là năm nhuận không?",
+    "options": ["Có", "Không", "Không xác định", "Tùy tháng"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Bình có 50 000 đồng. Bình mua một món đồ chơi hết 38 000 đồng. Bình còn lại:",
+    "options": ["12 000 đồng", "88 000 đồng", "22 000 đồng", "10 000 đồng"],
+    "correctAnswer": "12 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 12 giờ kém 15 phút. Tức là:",
+    "options": ["11 giờ 45 phút", "12 giờ 15 phút", "12 giờ 45 phút", "11 giờ 15 phút"],
+    "correctAnswer": "11 giờ 45 phút"
+  },
+  {
+    "question": "Tháng 8 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Tờ tiền 10 000 đồng làm bằng chất liệu gì?",
+    "options": ["Polymer", "Giấy", "Nhựa", "Vải"],
+    "correctAnswer": "Polymer"
+  },
+  {
+    "question": "Một giờ rưỡi bằng bao nhiêu phút?",
+    "options": ["90 phút", "60 phút", "150 phút", "120 phút"],
+    "correctAnswer": "90 phút"
+  },
+  {
+    "question": "Ngày Quốc Khánh nước ta là ngày nào?",
+    "options": ["2/9", "30/4", "1/5", "1/6"],
+    "correctAnswer": "2/9"
+  },
+  {
+    "question": "Một tô phở giá 35 000 đồng. Một ly nước mía giá 5 000 đồng. Ăn một tô phở và uống một ly nước mía hết bao nhiêu tiền?",
+    "options": ["40 000 đồng", "30 000 đồng", "45 000 đồng", "35 000 đồng"],
+    "correctAnswer": "40 000 đồng"
+  },
+  {
+    "question": "Đồng hồ chỉ 5 giờ 15 phút. Sau 30 phút nữa là mấy giờ?",
+    "options": ["5 giờ 45 phút", "5 giờ 30 phút", "6 giờ kém 15 phút", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tháng 4 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Để có 50 000 đồng, em cần mấy tờ 10 000 đồng?",
+    "options": ["5 tờ", "4 tờ", "6 tờ", "10 tờ"],
+    "correctAnswer": "5 tờ"
+  },
+  {
+    "question": "Bây giờ là 2 giờ chiều. 2 giờ trước là mấy giờ?",
+    "options": ["12 giờ trưa", "4 giờ chiều", "1 giờ chiều", "3 giờ chiều"],
+    "correctAnswer": "12 giờ trưa"
+  },
+  {
+    "question": "Tháng nào sau đây có 30 ngày?",
+    "options": ["Tháng 9", "Tháng 1", "Tháng 3", "Tháng 5"],
+    "correctAnswer": "Tháng 9"
+  },
+  {
+    "question": "Một cây bút mực giá 12 000 đồng, một quyển vở giá 7 000 đồng. Mua 1 bút và 2 vở hết bao nhiêu tiền?",
+    "options": ["26 000 đồng", "19 000 đồng", "31 000 đồng", "25 000 đồng"],
+    "correctAnswer": "26 000 đồng"
+  }
+]
+
