@@ -1,0 +1,533 @@
+[
+  {
+    "question": "Số 'Hai mươi ba nghìn bốn trăm năm mươi sáu' được viết là:",
+    "options": ["23 456", "23 450", "2 3456", "23 406"],
+    "correctAnswer": "23 456"
+  },
+  {
+    "question": "So sánh: 45 876 và 45 867.",
+    "options": ["45 876 > 45 867", "45 876 < 45 867", "45 876 = 45 867", "Không so sánh được"],
+    "correctAnswer": "45 876 > 45 867"
+  },
+  {
+    "question": "Làm tròn số 8 765 đến hàng nghìn ta được:",
+    "options": ["9 000", "8 000", "8 800", "8 700"],
+    "correctAnswer": "9 000"
+  },
+  {
+    "question": "Số La Mã XIX biểu thị số mấy?",
+    "options": ["19", "21", "18", "20"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Kết quả của phép tính 2154 + 3425 là:",
+    "options": ["5579", "5569", "5578", "5679"],
+    "correctAnswer": "5579"
+  },
+  {
+    "question": "Kết quả của phép tính 8765 - 4321 là:",
+    "options": ["4444", "4344", "4440", "4434"],
+    "correctAnswer": "4444"
+  },
+  {
+    "question": "Kết quả của phép tính 1204 x 4 là:",
+    "options": ["4816", "4812", "4806", "4826"],
+    "correctAnswer": "4816"
+  },
+  {
+    "question": "Kết quả của phép tính 5050 : 5 là:",
+    "options": ["1010", "110", "1001", "1100"],
+    "correctAnswer": "1010"
+  },
+  {
+    "question": "Chu vi hình chữ nhật có chiều dài 15cm và chiều rộng 10cm là:",
+    "options": ["50 cm", "25 cm", "150 cm", "30 cm"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "Diện tích hình vuông có cạnh 8cm là:",
+    "options": ["64 cm²", "32 cm", "16 cm²", "64 cm"],
+    "correctAnswer": "64 cm²"
+  },
+  {
+    "question": "Số 100 000 được đọc là:",
+    "options": ["Một trăm nghìn", "Mười nghìn", "Một triệu", "Một vạn"],
+    "correctAnswer": "Một trăm nghìn"
+  },
+  {
+    "question": "So sánh: 89 999 và 90 000.",
+    "options": ["89 999 < 90 000", "89 999 > 90 000", "89 999 = 90 000", "Không so sánh được"],
+    "correctAnswer": "89 999 < 90 000"
+  },
+  {
+    "question": "Làm tròn số 25 000 đến hàng chục nghìn:",
+    "options": ["30 000", "20 000", "25 000", "100 000"],
+    "correctAnswer": "30 000"
+  },
+  {
+    "question": "Kết quả của phép tính 24 500 + 13 500 là:",
+    "options": ["38 000", "37 000", "39 000", "38 500"],
+    "correctAnswer": "38 000"
+  },
+  {
+    "question": "Kết quả của phép tính 70 000 - 12 000 là:",
+    "options": ["58 000", "82 000", "68 000", "62 000"],
+    "correctAnswer": "58 000"
+  },
+  {
+    "question": "Kết quả của phép tính 10 200 x 5 là:",
+    "options": ["51 000", "50 100", "5100", "50 000"],
+    "correctAnswer": "51 000"
+  },
+  {
+    "question": "Kết quả của phép tính 48 024 : 6 là:",
+    "options": ["8 004", "804", "8 040", "8 400"],
+    "correctAnswer": "8 004"
+  },
+  {
+    "question": "Đồng hồ chỉ 3 giờ 30 phút. Cách đọc nào khác là đúng?",
+    "options": ["3 rưỡi", "3 giờ kém 30 phút", "4 giờ kém 30 phút", "3 giờ 6 phút"],
+    "correctAnswer": "3 rưỡi"
+  },
+  {
+    "question": "Tháng 2 của năm không nhuận có bao nhiêu ngày?",
+    "options": ["28 ngày", "29 ngày", "30 ngày", "31 ngày"],
+    "correctAnswer": "28 ngày"
+  },
+  {
+    "question": "Bình mua một quyển sách giá 12 000 đồng. Bình đưa tờ 20 000 đồng. Cô bán hàng trả lại bao nhiêu tiền?",
+    "options": ["8 000 đồng", "32 000 đồng", "10 000 đồng", "5 000 đồng"],
+    "correctAnswer": "8 000 đồng"
+  },
+  {
+    "question": "Cho dãy số liệu về số học sinh giỏi: 10, 12, 15, 12, 11. Số nào xuất hiện nhiều lần nhất?",
+    "options": ["12", "10", "15", "11"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Trong một hộp có 20 bi xanh và 5 bi đỏ. Lấy ra 1 viên bi. Sự kiện nào có khả năng xảy ra cao hơn?",
+    "options": ["Lấy được bi xanh", "Lấy được bi đỏ", "Như nhau", "Không xác định"],
+    "correctAnswer": "Lấy được bi xanh"
+  },
+  {
+    "question": "Số liền sau của 49 999 là:",
+    "options": ["50 000", "49 998", "50 001", "49 990"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Làm tròn số 65 432 đến hàng chục nghìn:",
+    "options": ["70 000", "60 000", "65 000", "66 000"],
+    "correctAnswer": "70 000"
+  },
+  {
+    "question": "Tính: 34 567 + 9 876",
+    "options": ["44 443", "44 433", "43 443", "44 343"],
+    "correctAnswer": "44 443"
+  },
+  {
+    "question": "Tính: 100 000 - 54 321",
+    "options": ["45 679", "46 679", "45 779", "45 689"],
+    "correctAnswer": "45 679"
+  },
+  {
+    "question": "Tính: 11 021 x 7",
+    "options": ["77 147", "77 141", "77 047", "77 177"],
+    "correctAnswer": "77 147"
+  },
+  {
+    "question": "Tính: 56 049 : 7",
+    "options": ["8 007", "807", "8 070", "8 700"],
+    "correctAnswer": "8 007"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 120 cm², chiều rộng 8 cm. Chu vi của nó là:",
+    "options": ["46 cm", "15 cm", "23 cm", "50 cm"],
+    "correctAnswer": "46 cm"
+  },
+  {
+    "question": "Một giờ có 60 phút. 1/5 giờ có bao nhiêu phút?",
+    "options": ["12 phút", "10 phút", "15 phút", "20 phút"],
+    "correctAnswer": "12 phút"
+  },
+  {
+    "question": "Một năm có bao nhiêu tháng có 31 ngày?",
+    "options": ["7 tháng", "6 tháng", "5 tháng", "4 tháng"],
+    "correctAnswer": "7 tháng"
+  },
+  {
+    "question": "5 tờ 20 000 đồng có giá trị bằng mấy tờ 50 000 đồng?",
+    "options": ["2 tờ", "1 tờ", "3 tờ", "4 tờ"],
+    "correctAnswer": "2 tờ"
+  },
+  {
+    "question": "Bảng số liệu về số vật nuôi: Gà (50), Vịt (45), Ngan (30). Tổng số gia cầm là:",
+    "options": ["125 con", "115 con", "135 con", "100 con"],
+    "correctAnswer": "125 con"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm là một số chẵn' có thể là những mặt nào?",
+    "options": ["2, 4, 6", "1, 3, 5", "Chỉ 2", "Chỉ 6"],
+    "correctAnswer": "2, 4, 6"
+  },
+  {
+    "question": "Số bé nhất có năm chữ số khác nhau là:",
+    "options": ["10 234", "10 000", "11 111", "12 340"],
+    "correctAnswer": "10 234"
+  },
+  {
+    "question": "Làm tròn số 9 500 đến hàng nghìn:",
+    "options": ["10 000", "9 000", "9 500", "1 000"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Tính: 10 234 + 23 456 + 34 567",
+    "options": ["68 257", "67 257", "68 247", "68 157"],
+    "correctAnswer": "68 257"
+  },
+  {
+    "question": "Tính: 50 000 - 12 345",
+    "options": ["37 655", "38 655", "37 755", "37 665"],
+    "correctAnswer": "37 655"
+  },
+  {
+    "question": "Tính: 15 000 x 6",
+    "options": ["90 000", "80 000", "75 000", "60 000"],
+    "correctAnswer": "90 000"
+  },
+  {
+    "question": "Tính: 72 000 : 9",
+    "options": ["8 000", "800", "80 000", "80"],
+    "correctAnswer": "8 000"
+  },
+  {
+    "question": "Một hình vuông có chu vi 36 000 cm. Cạnh của hình vuông đó dài bao nhiêu mét?",
+    "options": ["90 m", "900 m", "9 m", "9000 m"],
+    "correctAnswer": "90 m"
+  },
+  {
+    "question": "Một trận đấu bóng đá bắt đầu lúc 20 giờ, kéo dài 90 phút. Trận đấu kết thúc lúc mấy giờ?",
+    "options": ["21 giờ 30 phút", "21 giờ", "20 giờ 90 phút", "22 giờ"],
+    "correctAnswer": "21 giờ 30 phút"
+  },
+  {
+    "question": "Ngày 30 tháng 4 năm 2025 là thứ mấy?",
+    "options": ["Thứ Tư", "Thứ Ba", "Thứ Năm", "Thứ Sáu"],
+    "correctAnswer": "Thứ Tư"
+  },
+  {
+    "question": "Một cái bánh giá 12 000 đồng. Mua 4 cái bánh hết bao nhiêu tiền?",
+    "options": ["48 000 đồng", "42 000 đồng", "40 000 đồng", "50 000 đồng"],
+    "correctAnswer": "48 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về chiều cao của 4 bạn: An(132cm), Bình(135cm), Cường(130cm), Dũng(132cm). Ai thấp nhất?",
+    "options": ["Cường", "An", "Bình", "Dũng"],
+    "correctAnswer": "Cường"
+  },
+  {
+    "question": "Trong một túi có 3 kẹo cam, 5 kẹo chanh, 2 kẹo dâu. Lấy ngẫu nhiên 1 cái. Khả năng lấy được kẹo nào là thấp nhất?",
+    "options": ["Kẹo dâu", "Kẹo cam", "Kẹo chanh", "Như nhau"],
+    "correctAnswer": "Kẹo dâu"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số mà tổng các chữ số bằng 10 là:",
+    "options": ["91 000", "10 009", "12 340", "55 000"],
+    "correctAnswer": "91 000"
+  },
+  {
+    "question": "Làm tròn số 99 500 đến hàng chục nghìn:",
+    "options": ["100 000", "90 000", "99 000", "95 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tìm x, biết: x + 12 345 = 20 000",
+    "options": ["x = 7 655", "x = 32 345", "x = 8 655", "x = 7 755"],
+    "correctAnswer": "x = 7 655"
+  },
+  {
+    "question": "Tìm y, biết: 65 432 - y = 23 456",
+    "options": ["y = 41 976", "y = 88 888", "y = 42 976", "y = 41 876"],
+    "correctAnswer": "y = 41 976"
+  },
+  {
+    "question": "Tìm z, biết: z x 8 = 24 000",
+    "options": ["z = 3 000", "z = 192 000", "z = 24 008", "z = 23 992"],
+    "correctAnswer": "z = 3 000"
+  },
+  {
+    "question": "Tìm a, biết: 56 000 : a = 7",
+    "options": ["a = 8 000", "a = 392 000", "a = 55 993", "a = 800"],
+    "correctAnswer": "a = 8 000"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 50 000 cm², chiều dài 200 cm. Chiều rộng của nó là:",
+    "options": ["250 cm", "25 cm", "2500 cm", "100 cm"],
+    "correctAnswer": "250 cm"
+  },
+  {
+    "question": "Một giờ có 3600 giây. 1/4 giờ có bao nhiêu giây?",
+    "options": ["900 giây", "600 giây", "15 giây", "1200 giây"],
+    "correctAnswer": "900 giây"
+  },
+  {
+    "question": "Tháng 7 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "An có 100 000 đồng. An mua một món quà giá 75 000 đồng. An còn lại bao nhiêu tiền?",
+    "options": ["25 000 đồng", "175 000 đồng", "35 000 đồng", "20 000 đồng"],
+    "correctAnswer": "25 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số lượng học sinh tham gia thể thao: Bóng đá (25), Cầu lông (15), Bơi (10). Môn nào có ít học sinh tham gia nhất?",
+    "options": ["Bơi", "Bóng đá", "Cầu lông", "Bằng nhau"],
+    "correctAnswer": "Bơi"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm lớn hơn 0' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Số 99 999 là số liền trước của số nào?",
+    "options": ["100 000", "99 998", "100 001", "99 990"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Làm tròn số 10 500 đến hàng nghìn:",
+    "options": ["11 000", "10 000", "10 500", "12 000"],
+    "correctAnswer": "11 000"
+  },
+  {
+    "question": "Tính: 12 345 + 87 655",
+    "options": ["100 000", "99 990", "99 000", "110 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tính: 90 000 - 1234",
+    "options": ["88 766", "89 766", "88 866", "88 776"],
+    "correctAnswer": "88 766"
+  },
+  {
+    "question": "Tính: 14 200 x 5",
+    "options": ["71 000", "70 000", "70 100", "71 100"],
+    "correctAnswer": "71 000"
+  },
+  {
+    "question": "Tính: 42 063 : 3",
+    "options": ["14 021", "14 210", "14 020", "14 21"],
+    "correctAnswer": "14 021"
+  },
+  {
+    "question": "Một hình vuông có diện tích 8100 m². Cạnh của hình vuông đó là:",
+    "options": ["90 m", "9 m", "900 m", "81 m"],
+    "correctAnswer": "90 m"
+  },
+  {
+    "question": "Bây giờ là 2 giờ 15 phút chiều. 30 phút nữa là mấy giờ?",
+    "options": ["2 giờ 45 phút chiều", "2 giờ 30 phút chiều", "3 giờ kém 15 phút chiều", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tháng 1, 3, 5, 7, 8, 10, 12 có bao nhiêu ngày?",
+    "options": ["31 ngày", "30 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "31 ngày"
+  },
+  {
+    "question": "Một người mua 3 kg cam giá 15 000 đồng/kg và 2 kg táo giá 20 000 đồng/kg. Người đó phải trả tất cả bao nhiêu tiền?",
+    "options": ["85 000 đồng", "45 000 đồng", "40 000 đồng", "75 000 đồng"],
+    "correctAnswer": "85 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số hoa điểm tốt của 3 bạn: An(15), Bình(20), Cúc(10). Trung bình mỗi bạn có bao nhiêu hoa điểm tốt?",
+    "options": ["15 hoa", "45 hoa", "20 hoa", "10 hoa"],
+    "correctAnswer": "15 hoa"
+  },
+  {
+    "question": "Trong một hộp có 50 bi trắng và 50 bi đen. Lấy ngẫu nhiên 1 viên. Khả năng lấy được bi trắng và bi đen là:",
+    "options": ["Như nhau", "Lấy bi trắng dễ hơn", "Lấy bi đen dễ hơn", "Không xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Số 'Chín mươi nghìn không trăm linh chín' được viết là:",
+    "options": ["90 009", "90 090", "9 009", "90 900"],
+    "correctAnswer": "90 009"
+  },
+  {
+    "question": "Làm tròn số 49 500 đến hàng chục nghìn:",
+    "options": ["50 000", "40 000", "49 000", "100 000"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Tìm x, biết: x - 1 = 99 999",
+    "options": ["x = 100 000", "x = 99 998", "x = 99 999", "x = 1"],
+    "correctAnswer": "x = 100 000"
+  },
+  {
+    "question": "Tìm y, biết: 50 000 + y = 50 000",
+    "options": ["y = 0", "y = 100 000", "y = 50 000", "y = 1"],
+    "correctAnswer": "y = 0"
+  },
+  {
+    "question": "Tìm z, biết: z x 10 = 50 000",
+    "options": ["z = 5 000", "z = 500 000", "z = 50 010", "z = 49 990"],
+    "correctAnswer": "z = 5 000"
+  },
+  {
+    "question": "Tìm a, biết: 81 000 : a = 9",
+    "options": ["a = 9 000", "a = 729 000", "a = 80 991", "a = 900"],
+    "correctAnswer": "a = 9 000"
+  },
+  {
+    "question": "Một hình vuông có chu vi 20 000 mm. Cạnh của hình vuông đó dài bao nhiêu mét?",
+    "options": ["5 m", "50 m", "500 m", "5000 m"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "Một ngày có 24 giờ. 1/3 của một ngày là bao nhiêu giờ?",
+    "options": ["8 giờ", "6 giờ", "12 giờ", "4 giờ"],
+    "correctAnswer": "8 giờ"
+  },
+  {
+    "question": "Tháng 6 và tháng 9 có điểm gì chung?",
+    "options": ["Cùng có 30 ngày", "Cùng có 31 ngày", "Là tháng hè", "Là tháng thu"],
+    "correctAnswer": "Cùng có 30 ngày"
+  },
+  {
+    "question": "Để có 75 000 đồng, em cần 1 tờ 50 000 đồng, 1 tờ 20 000 đồng và ...",
+    "options": ["1 tờ 5 000 đồng", "1 tờ 10 000 đồng", "2 tờ 2 000 đồng", "5 tờ 1 000 đồng"],
+    "correctAnswer": "1 tờ 5 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số học sinh các khối: K1(200), K2(250), K3(220), K4(250), K5(280). Khối nào có số học sinh bằng nhau?",
+    "options": ["Khối 2 và Khối 4", "Khối 1 và Khối 3", "Khối 3 và Khối 5", "Không có"],
+    "correctAnswer": "Khối 2 và Khối 4"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm chia hết cho 5' có thể là mặt nào?",
+    "options": ["5 chấm", "1, 5", "5, 10", "Không có"],
+    "correctAnswer": "5 chấm"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số khác nhau mà chữ số hàng chục nghìn là 5 là:",
+    "options": ["59 876", "50 123", "58 769", "59 999"],
+    "correctAnswer": "59 876"
+  },
+  {
+    "question": "Làm tròn số 19 500 đến hàng nghìn:",
+    "options": ["20 000", "19 000", "19 500", "20 500"],
+    "correctAnswer": "20 000"
+  },
+  {
+    "question": "Tính: 10 000 + 20 000 + 30 000 + 40 000",
+    "options": ["100 000", "90 000", "80 000", "110 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tính: 100 000 - 10 000 - 20 000",
+    "options": ["70 000", "80 000", "60 000", "130 000"],
+    "correctAnswer": "70 000"
+  },
+  {
+    "question": "Tính: 12 500 x 8",
+    "options": ["100 000", "90 000", "80 000", "110 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tính: 75 000 : 3",
+    "options": ["25 000", "20 000", "30 000", "2500"],
+    "correctAnswer": "25 000"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 10 000 cm², chiều rộng 50 cm. Chiều dài là:",
+    "options": ["200 cm", "20 cm", "2 m", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một giờ có 60 phút. 2/3 giờ là bao nhiêu phút?",
+    "options": ["40 phút", "30 phút", "20 phút", "50 phút"],
+    "correctAnswer": "40 phút"
+  },
+  {
+    "question": "Ngày 1 tháng 6 là ngày gì?",
+    "options": ["Quốc tế thiếu nhi", "Quốc tế lao động", "Ngày nhà giáo Việt Nam", "Ngày thành lập quân đội"],
+    "correctAnswer": "Quốc tế thiếu nhi"
+  },
+  {
+    "question": "Một người có 100 000 đồng. Mua 3 món hàng, mỗi món giá 25 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["25 000 đồng", "75 000 đồng", "50 000 đồng", "0 đồng"],
+    "correctAnswer": "25 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số quả trong 3 rổ: Rổ 1 (25), Rổ 2 (30), Rổ 3 (20). Trung bình mỗi rổ có bao nhiêu quả?",
+    "options": ["25 quả", "75 quả", "30 quả", "20 quả"],
+    "correctAnswer": "25 quả"
+  },
+  {
+    "question": "Trong một hộp có 10 bi xanh, 20 bi đỏ, 30 bi vàng. Lấy ra 1 viên bi. Khả năng lấy được bi màu gì là cao nhất?",
+    "options": ["Màu vàng", "Màu xanh", "Màu đỏ", "Như nhau"],
+    "correctAnswer": "Màu vàng"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số mà các chữ số đều chẵn và khác nhau là:",
+    "options": ["20 468", "10 234", "22 222", "20 000"],
+    "correctAnswer": "20 468"
+  },
+  {
+    "question": "Làm tròn số 99 999 đến hàng chục nghìn:",
+    "options": ["100 000", "90 000", "99 000", "99 990"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tìm x, biết: x - 50 000 = 50 000",
+    "options": ["x = 100 000", "x = 0", "x = 50 000", "x = 1"],
+    "correctAnswer": "x = 100 000"
+  },
+  {
+    "question": "Tìm y, biết: 100 000 - y = 1",
+    "options": ["y = 99 999", "y = 100 001", "y = 99 990", "y = 99 000"],
+    "correctAnswer": "y = 99 999"
+  },
+  {
+    "question": "Tìm z, biết: z x 100 = 10 000",
+    "options": ["z = 100", "z = 1 000 000", "z = 10 100", "z = 9 900"],
+    "correctAnswer": "z = 100"
+  },
+  {
+    "question": "Tìm a, biết: a : 10 = 10 000",
+    "options": ["a = 100 000", "a = 1 000", "a = 10 010", "a = 9 990"],
+    "correctAnswer": "a = 100 000"
+  },
+  {
+    "question": "Một hình vuông có diện tích 10 000 m². Chu vi của nó là:",
+    "options": ["400 m", "100 m", "200 m", "1000 m"],
+    "correctAnswer": "400 m"
+  },
+  {
+    "question": "Một ngày có 24 giờ. 1/6 của một ngày là bao nhiêu giờ?",
+    "options": ["4 giờ", "6 giờ", "8 giờ", "12 giờ"],
+    "correctAnswer": "4 giờ"
+  },
+  {
+    "question": "Tháng 3 và tháng 5 có điểm gì chung?",
+    "options": ["Cùng có 31 ngày", "Cùng có 30 ngày", "Là tháng mùa xuân", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Để có 80 000 đồng, em có thể dùng 1 tờ 50 000 đồng, 1 tờ 20 000 đồng và ...",
+    "options": ["1 tờ 10 000 đồng", "2 tờ 5 000 đồng", "Cả A và B đều đúng", "1 tờ 5000 đồng"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Bảng số liệu về số học sinh giỏi 3 môn: Toán(15), TV(12), TA(10). Môn nào có nhiều học sinh giỏi nhất?",
+    "options": ["Toán", "Tiếng Việt", "Tiếng Anh", "Bằng nhau"],
+    "correctAnswer": "Toán"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm chia hết cho 7' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  }
+]
+
