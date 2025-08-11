@@ -23,7 +23,8 @@
         .answer-btn:not([disabled]):hover { background-color: #f0f9ff; border-color: #3b82f6; }
         .answer-btn.correct { background-color: #dcfce7; border-color: #22c55e; color: #166534; }
         .answer-btn.incorrect { background-color: #fee2e2; border-color: #ef4444; color: #991b1b; }
-        select { -webkit-appearance: none; -moz-appearance: none; appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='%236b7280'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='m19.5 8.25-7.5 7.5-7.5-7.5' /%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 0.75rem center; background-size: 1.5em 1.5em; padding-right: 2.5rem; }
+        select, input[type="text"] { -webkit-appearance: none; -moz-appearance: none; appearance: none; }
+        select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='%236b7280'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='m19.5 8.25-7.5 7.5-7.5-7.5' /%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 0.75rem center; background-size: 1.5em 1.5em; padding-right: 2.5rem; }
         .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0, 0, 0, 0.5); display: flex; align-items: center; justify-content: center; z-index: 50; }
     </style>
 </head>
@@ -53,6 +54,11 @@
                  <div id="chapter-selection-container" class="hidden">
                     <label for="chapter-select" class="block mb-2 text-sm font-medium text-gray-900">Chọn chương</label>
                     <select id="chapter-select" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"></select>
+                </div>
+                <!-- THÊM Ô NHẬP TÊN -->
+                <div id="name-container">
+                    <label for="name-input" class="block mb-2 text-sm font-medium text-gray-900">Tên của bạn (tùy chọn)</label>
+                    <input type="text" id="name-input" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="Hãy nhập tên để hiển thị trong kết quả">
                 </div>
             </div>
             <button id="start-btn" class="btn btn-primary mt-8 w-full">Bắt đầu làm bài</button>
@@ -99,9 +105,13 @@
         
         <!-- Màn hình kết quả -->
         <div id="result-screen" class="card hidden text-center">
-            <h2 class="text-3xl font-bold text-gray-800 mb-4">Hoàn thành!</h2>
-            <p class="text-lg text-gray-600 mb-6">Đây là kết quả của bạn:</p>
-            <div class="flex justify-around items-center bg-blue-50 p-6 rounded-lg mb-8">
+            <h2 class="text-3xl font-bold text-gray-800 mb-2">Hoàn thành!</h2>
+            <p class="text-lg text-gray-600 mb-2">Đây là kết quả của bạn:</p>
+            <!-- THÊM TÊN VÀ THỜI GIAN BẮT ĐẦU -->
+            <p id="user-name-display" class="text-2xl font-bold text-gray-700 mb-1"></p>
+            <p id="start-time-display" class="text-xs text-gray-500 mb-6"></p>
+
+            <div class="flex justify-around items-center bg-blue-50 p-6 rounded-lg mb-6">
                 <div>
                     <p class="text-sm text-blue-800">Điểm số</p>
                     <p id="score" class="text-4xl font-bold text-blue-600">18/20</p>
@@ -112,6 +122,9 @@
                     <p id="time-taken" class="text-4xl font-bold text-blue-600">05:32</p>
                 </div>
             </div>
+            <!-- THÊM LỜI NHẬN XÉT -->
+            <p id="result-remark" class="text-xl font-semibold mb-6"></p>
+
             <div class="flex flex-col sm:flex-row gap-4">
                 <button id="retry-btn" class="btn btn-primary flex-1">Làm lại bài này</button>
                 <button id="home-btn" class="btn btn-secondary flex-1">Về trang chủ</button>
@@ -180,17 +193,23 @@
         const confirmSubmitBtn = document.getElementById('confirm-submit-btn');
         const cancelSubmitBtn = document.getElementById('cancel-submit-btn');
         const debugInfoEl = document.getElementById('debug-info');
+        // CÁC ELEMENT MỚI
+        const nameInput = document.getElementById('name-input');
+        const userNameDisplay = document.getElementById('user-name-display');
+        const startTimeDisplay = document.getElementById('start-time-display');
+        const resultRemark = document.getElementById('result-remark');
 
         // --- State ---
-        let gradeData = {}; // db-grade.json
-        let subjectListData = {}; // db-subject.json
-        let currentSubjectDb = {}; // db-math.json, db-physics.json, ...
+        let gradeData = {};
+        let subjectListData = {};
+        let currentSubjectDb = {};
         
         let currentQuestions = [];
         let currentQuestionIndex = 0;
         let score = 0;
         let timerInterval;
         let startTime;
+        let testStartTimeString = ''; // BIẾN MỚI: Lưu chuỗi thời gian bắt đầu
         let lastSelections = {};
 
         // --- Utility Functions ---
@@ -215,14 +234,12 @@
         }
 
         // --- Population Functions ---
-
         async function initializeApp() {
             gradeData = await fetchData('./db-grade.json');
             subjectListData = await fetchData('./db-subject.json');
 
             if (!gradeData || !subjectListData) return;
 
-            // Populate Grades
             gradeSelect.innerHTML = '';
             gradeData.grades.forEach(grade => {
                 const option = document.createElement('option');
@@ -231,7 +248,6 @@
                 gradeSelect.appendChild(option);
             });
 
-            // Populate Subjects
             subjectSelect.innerHTML = '';
             subjectListData.subjects.forEach(subject => {
                 const option = document.createElement('option');
@@ -287,12 +303,14 @@
         }
 
         // --- Test Logic ---
-
         async function startTest(isRetry = false) {
             let questionFilePath;
+            let userName;
 
             if (isRetry) {
                 questionFilePath = lastSelections.filePath;
+                userName = lastSelections.userName;
+                testStartTimeString = lastSelections.startTimeString;
             } else {
                 const gradeId = gradeSelect.value;
                 const testType = testTypeSelect.value;
@@ -303,7 +321,20 @@
                 } else {
                     questionFilePath = testData?.file;
                 }
-                lastSelections = { filePath: questionFilePath };
+                
+                // Lấy tên người dùng, nếu trống thì mặc định là "Bạn"
+                userName = nameInput.value.trim() || 'Bạn';
+                
+                // Lấy và định dạng thời gian bắt đầu
+                const now = new Date();
+                testStartTimeString = `${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')} - Ngày ${now.getDate()}/${now.getMonth() + 1}/${now.getFullYear()}`;
+
+                // Lưu các lựa chọn để làm lại
+                lastSelections = { 
+                    filePath: questionFilePath,
+                    userName: userName,
+                    startTimeString: testStartTimeString
+                };
             }
 
             if (!questionFilePath) {
@@ -416,9 +447,32 @@
         function endTest() {
             clearInterval(timerInterval);
             const timeTaken = timerEl.textContent;
+            
+            // TÍNH TOÁN VÀ HIỂN THỊ CÁC THÔNG TIN MỚI
+            const percentage = (score / currentQuestions.length) * 100;
+            let remark = '';
+            let remarkColorClass = '';
 
+            if (percentage === 100) {
+                remark = '🎉 Quá xuất sắc! 🎉';
+                remarkColorClass = 'text-green-500';
+            } else if (percentage >= 66) {
+                remark = 'Làm rất tốt!';
+                remarkColorClass = 'text-blue-500';
+            } else if (percentage >= 50) {
+                remark = 'Làm khá lắm!';
+                remarkColorClass = 'text-yellow-500';
+            } else {
+                remark = 'Cố gắng hơn nữa nhé!';
+                remarkColorClass = 'text-red-500';
+            }
+
+            userNameDisplay.textContent = lastSelections.userName;
+            startTimeDisplay.textContent = `Thời gian bắt đầu: ${lastSelections.startTimeString}`;
             scoreEl.textContent = `${score}/${currentQuestions.length}`;
             timeTakenEl.textContent = timeTaken;
+            resultRemark.textContent = remark;
+            resultRemark.className = `text-xl font-semibold mb-6 ${remarkColorClass}`; // Gán class màu
 
             testScreen.classList.add('hidden');
             resultScreen.classList.remove('hidden');
@@ -437,7 +491,6 @@
         }
 
         // --- Navigation and UI Functions ---
-
         function goHome() {
             resultScreen.classList.add('hidden');
             selectionScreen.classList.remove('hidden');
