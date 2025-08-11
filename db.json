@@ -56,6 +56,10 @@
                 {
                   "name": "Chương 13: Xem đồng hồ. Tháng - năm. Tiền Việt Nam",
                   "file": "./data/math-3-chapter-13.json"
+                },
+                {
+                  "name": "Chương 14: Nhân, chia trong phạm vi 100000",
+                  "file": "./data/math-3-chapter-14.json"
                 }
               ]
             },
@@ -354,7 +358,7 @@
                 },
                 {
                   "name": "Chương 3: Tứ giác",
-                  "file": "./data/math-8-chapter-3.json"
+                  "file": "./data/math-8-chapter-4.json"
                 },
                 {
                   "name": "Chương 4: Định lí Thalès",
