@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Phép nhân, phép chia trong phạm vi 100",
                   "file": "./data/math-3-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
+                  "file": "./data/math-3-chapter-5.json"
                 }
               ]
             }
