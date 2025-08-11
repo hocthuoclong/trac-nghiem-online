@@ -36,6 +36,10 @@
                 {
                   "name": "Chương 8: Phép nhân và phép chia",
                   "file": "./data/math-4-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Làm quen với yếu tố thống kê, xác suất",
+                  "file": "./data/math-4-chapter-9.json"
                 }
               ]
             },
