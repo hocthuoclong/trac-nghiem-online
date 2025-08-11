@@ -1,20 +1,7 @@
 {
   "subjects": [
-    { "id": "math", "name": "Toán", "path": "./db-math.json" },
-    { "id": "physics", "name": "Lý", "path": "./db-physics.json" },
-    { "id": "chemistry", "name": "Hóa", "path": "./db-chemistry.json" },
-    { "id": "biology", "name": "Sinh", "path": "./db-biology.json" },
-    { "id": "literature", "name": "Văn", "path": "./db-literature.json" },
-    { "id": "history", "name": "Sử", "path": "./db-history.json" },
-    { "id": "geography", "name": "Địa", "path": "./db-geography.json" },
-    { "id": "english", "name": "Anh văn", "path": "./db-english.json" },
-    { "id": "natural-social-sciences", "name": "Tự nhiên & xã hội", "path": "./db-natural-social-sciences.json" },
-    { "id": "ethics", "name": "Đạo đức", "path": "./db-ethics.json" },
-    { "id": "civic-education", "name": "Giáo dục công dân", "path": "./db-civic-education.json" },
-    { "id": "technology", "name": "Công nghệ", "path": "./db-technology.json" },
-    { "id": "informatics", "name": "Tin học", "path": "./db-informatics.json" },
-    { "id": "science", "name": "Khoa học", "path": "./db-science.json" },
-    { "id": "economics-law", "name": "Kinh tế & pháp luật", "path": "./db-economics-law.json" }
+    { "id": "math", "name": "Toán", "path": "./db-math.json" }
+   
   ]
 }
 
