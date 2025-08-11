@@ -1,0 +1,523 @@
+[
+  {
+    "question": "Số 'Bảy trăm linh chín' được viết là:",
+    "options": ["709", "790", "79", "907"],
+    "correctAnswer": "709"
+  },
+  {
+    "question": "Kết quả của phép tính 456 + 234 là:",
+    "options": ["690", "680", "699", "700"],
+    "correctAnswer": "690"
+  },
+  {
+    "question": "Tìm x, biết: 500 - x = 150.",
+    "options": ["x = 350", "x = 650", "x = 450", "x = 250"],
+    "correctAnswer": "x = 350"
+  },
+  {
+    "question": "Kết quả của phép tính 8 x 7 là:",
+    "options": ["56", "15", "54", "63"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "Kết quả của phép tính 48 : 6 là:",
+    "options": ["8", "7", "9", "6"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Một phần ba (1/3) của 27 là:",
+    "options": ["9", "3", "30", "24"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Chu vi hình vuông có cạnh 8 cm là:",
+    "options": ["32 cm", "64 cm", "16 cm", "24 cm"],
+    "correctAnswer": "32 cm"
+  },
+  {
+    "question": "Một hình tròn có bán kính 7 cm. Đường kính của nó là:",
+    "options": ["14 cm", "7 cm", "21 cm", "3.5 cm"],
+    "correctAnswer": "14 cm"
+  },
+  {
+    "question": "Khối lập phương có bao nhiêu đỉnh?",
+    "options": ["8", "6", "12", "10"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Kết quả của phép tính 24 x 4 là:",
+    "options": ["96", "86", "92", "88"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Giảm 54 đi 6 lần ta được:",
+    "options": ["9", "48", "60", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "1 mét bằng bao nhiêu mi-li-mét?",
+    "options": ["1000 mm", "100 mm", "10 mm", "1 mm"],
+    "correctAnswer": "1000 mm"
+  },
+  {
+    "question": "Nước đóng băng ở nhiệt độ nào?",
+    "options": ["0°C", "100°C", "-10°C", "10°C"],
+    "correctAnswer": "0°C"
+  },
+  {
+    "question": "Kết quả của phép tính 135 x 5 là:",
+    "options": ["675", "655", "575", "670"],
+    "correctAnswer": "675"
+  },
+  {
+    "question": "Kết quả của phép tính 848 : 4 là:",
+    "options": ["212", "211", "221", "214"],
+    "correctAnswer": "212"
+  },
+  {
+    "question": "Giá trị của biểu thức 200 - 50 x 2 là:",
+    "options": ["100", "300", "150", "50"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Bao gạo nặng 50 kg. Bao ngô nặng 10 kg. Bao gạo nặng gấp mấy lần bao ngô?",
+    "options": ["5 lần", "40 lần", "60 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Số 'Mười lăm nghìn hai trăm' được viết là:",
+    "options": ["15 200", "1520", "15 020", "1 5200"],
+    "correctAnswer": "15 200"
+  },
+  {
+    "question": "So sánh: 8765 và 8756.",
+    "options": ["8765 > 8756", "8765 < 8756", "8765 = 8756", "Không so sánh được"],
+    "correctAnswer": "8765 > 8756"
+  },
+  {
+    "question": "Làm tròn số 4500 đến hàng nghìn:",
+    "options": ["5000", "4000", "4500", "10000"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Số La Mã XXIII biểu thị số mấy?",
+    "options": ["23", "22", "24", "18"],
+    "correctAnswer": "23"
+  },
+  {
+    "question": "Kết quả của phép tính 12345 + 23456 là:",
+    "options": ["35 801", "35 701", "35 811", "35 791"],
+    "correctAnswer": "35 801"
+  },
+  {
+    "question": "Kết quả của phép tính 50 000 - 12 345 là:",
+    "options": ["37 655", "38 655", "37 755", "37 665"],
+    "correctAnswer": "37 655"
+  },
+  {
+    "question": "Kết quả của phép tính 10 102 x 5 là:",
+    "options": ["50 510", "50 500", "55 100", "50 520"],
+    "correctAnswer": "50 510"
+  },
+  {
+    "question": "Kết quả của phép tính 48 048 : 8 là:",
+    "options": ["6 006", "606", "6 060", "6 600"],
+    "correctAnswer": "6 006"
+  },
+  {
+    "question": "Đồng hồ chỉ 10 giờ kém 15 phút. Đó là mấy giờ?",
+    "options": ["9 giờ 45 phút", "10 giờ 15 phút", "10 giờ 45 phút", "9 giờ 15 phút"],
+    "correctAnswer": "9 giờ 45 phút"
+  },
+  {
+    "question": "Tháng 11 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "28 ngày", "29 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "An có 50 000 đồng. An mua một hộp màu giá 28 000 đồng. An còn lại bao nhiêu tiền?",
+    "options": ["22 000 đồng", "78 000 đồng", "32 000 đồng", "20 000 đồng"],
+    "correctAnswer": "22 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số học sinh giỏi của 3 lớp: 3A(15), 3B(18), 3C(12). Trung bình mỗi lớp có bao nhiêu học sinh giỏi?",
+    "options": ["15 học sinh", "45 học sinh", "18 học sinh", "12 học sinh"],
+    "correctAnswer": "15 học sinh"
+  },
+  {
+    "question": "Trong một hộp có 1 bi xanh, 1 bi đỏ, 1 bi vàng. Lấy ra 1 bi. Sự kiện 'lấy được bi tím' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Ngẫu nhiên"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Số liền trước của 45 000 là:",
+    "options": ["44 999", "45 001", "44 990", "44 000"],
+    "correctAnswer": "44 999"
+  },
+  {
+    "question": "Làm tròn số 18 500 đến hàng chục nghìn:",
+    "options": ["20 000", "10 000", "18 000", "19 000"],
+    "correctAnswer": "20 000"
+  },
+  {
+    "question": "Tính: 25 123 + 32 456",
+    "options": ["57 579", "57 569", "57 589", "58 579"],
+    "correctAnswer": "57 579"
+  },
+  {
+    "question": "Tính: 80 000 - 1",
+    "options": ["79 999", "79 990", "79 900", "79 000"],
+    "correctAnswer": "79 999"
+  },
+  {
+    "question": "Tính: 14 000 x 6",
+    "options": ["84 000", "80 000", "74 000", "94 000"],
+    "correctAnswer": "84 000"
+  },
+  {
+    "question": "Tính: 63 000 : 7",
+    "options": ["9 000", "900", "90 000", "90"],
+    "correctAnswer": "9 000"
+  },
+  {
+    "question": "Một hình vuông có diện tích 49 m². Chu vi của nó là:",
+    "options": ["28 m", "7 m", "14 m", "49 m"],
+    "correctAnswer": "28 m"
+  },
+  {
+    "question": "Một giờ học bắt đầu lúc 8 giờ và kết thúc lúc 8 giờ 40 phút. Giờ học đó kéo dài bao lâu?",
+    "options": ["40 phút", "30 phút", "50 phút", "1 giờ"],
+    "correctAnswer": "40 phút"
+  },
+  {
+    "question": "Ngày Quốc tế Phụ nữ là ngày nào?",
+    "options": ["8/3", "20/10", "1/6", "20/11"],
+    "correctAnswer": "8/3"
+  },
+  {
+    "question": "Một quyển truyện giá 18 000 đồng, một cái bút giá 6 000 đồng. Mua 1 truyện và 2 bút hết bao nhiêu tiền?",
+    "options": ["30 000 đồng", "24 000 đồng", "42 000 đồng", "36 000 đồng"],
+    "correctAnswer": "30 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số cây mỗi tổ trồng: T1(10), T2(12), T3(10), T4(14). Tổ nào trồng được nhiều cây nhất?",
+    "options": ["Tổ 4", "Tổ 1", "Tổ 2", "Tổ 3"],
+    "correctAnswer": "Tổ 4"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm nhỏ hơn 7' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Số lớn nhất có 4 chữ số khác nhau là:",
+    "options": ["9876", "9999", "1023", "9870"],
+    "correctAnswer": "9876"
+  },
+  {
+    "question": "Tìm x, biết: 345 + x = 800",
+    "options": ["x = 455", "x = 1145", "x = 555", "x = 450"],
+    "correctAnswer": "x = 455"
+  },
+  {
+    "question": "6 x 9 = ?",
+    "options": ["54", "15", "45", "60"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "72 : 8 = ?",
+    "options": ["9", "8", "7", "6"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi bằng chu vi hình vuông cạnh 10cm. Biết chiều dài hình chữ nhật là 12cm. Chiều rộng là:",
+    "options": ["8 cm", "28 cm", "20 cm", "10 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Một hình tròn có đường kính 20mm. Bán kính của nó là:",
+    "options": ["1 cm", "2 cm", "10 cm", "20 cm"],
+    "correctAnswer": "1 cm"
+  },
+  {
+    "question": "Góc nhọn là góc...",
+    "options": ["Bé hơn góc vuông", "Lớn hơn góc vuông", "Bằng góc vuông", "Bằng góc bẹt"],
+    "correctAnswer": "Bé hơn góc vuông"
+  },
+  {
+    "question": "Tính: 32 x 3",
+    "options": ["96", "93", "69", "66"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Giảm 81 đi 9 lần ta được:",
+    "options": ["9", "72", "90", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "3 kg 50g = ... g",
+    "options": ["3050", "350", "3005", "3500"],
+    "correctAnswer": "3050"
+  },
+  {
+    "question": "Nhiệt độ cơ thể người khỏe mạnh là khoảng bao nhiêu?",
+    "options": ["37°C", "100°C", "0°C", "50°C"],
+    "correctAnswer": "37°C"
+  },
+  {
+    "question": "Tính: 105 x 8",
+    "options": ["840", "804", "848", "850"],
+    "correctAnswer": "840"
+  },
+  {
+    "question": "Tính: 966 : 3",
+    "options": ["322", "321", "332", "312"],
+    "correctAnswer": "322"
+  },
+  {
+    "question": "Giá trị của biểu thức 45 : 5 + 15 là:",
+    "options": ["24", "9", "4", "20"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Số 100 gấp mấy lần số 10?",
+    "options": ["10 lần", "90 lần", "110 lần", "9 lần"],
+    "correctAnswer": "10 lần"
+  },
+  {
+    "question": "Số 10000 là số bé nhất có mấy chữ số?",
+    "options": ["5", "4", "6", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Làm tròn số 999 đến hàng trăm:",
+    "options": ["1000", "900", "990", "950"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Tính: 12 345 + 987",
+    "options": ["13 332", "13 232", "12 332", "13 322"],
+    "correctAnswer": "13 332"
+  },
+  {
+    "question": "Tính: 30 000 - 123",
+    "options": ["29 877", "29 887", "28 877", "29 977"],
+    "correctAnswer": "29 877"
+  },
+  {
+    "question": "Tính: 10 001 x 9",
+    "options": ["90 009", "90 000", "90 090", "99 009"],
+    "correctAnswer": "90 009"
+  },
+  {
+    "question": "Tính: 50 005 : 5",
+    "options": ["10 001", "1001", "101", "11"],
+    "correctAnswer": "10 001"
+  },
+  {
+    "question": "Một giờ có 60 phút. 90 phút bằng bao nhiêu giờ?",
+    "options": ["1 giờ rưỡi", "1 giờ", "2 giờ", "1 giờ 30 phút"],
+    "correctAnswer": "1 giờ rưỡi"
+  },
+  {
+    "question": "Tháng nào sau đây có 30 ngày?",
+    "options": ["Tháng 4", "Tháng 1", "Tháng 3", "Tháng 5"],
+    "correctAnswer": "Tháng 4"
+  },
+  {
+    "question": "Một vé xem xiếc giá 25 000 đồng. Mua 3 vé hết bao nhiêu tiền?",
+    "options": ["75 000 đồng", "65 000 đồng", "70 000 đồng", "80 000 đồng"],
+    "correctAnswer": "75 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số bạn thích các môn học: Toán(15), TV(12), TNXH(8). Môn nào được ít bạn thích nhất?",
+    "options": ["TNXH", "Toán", "Tiếng Việt", "Bằng nhau"],
+    "correctAnswer": "TNXH"
+  },
+  {
+    "question": "Trong một hộp có 10 bi đỏ. Lấy ra 1 viên bi. Sự kiện 'lấy được bi xanh' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Ngẫu nhiên"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Số 98 700 được đọc là:",
+    "options": ["Chín mươi tám nghìn bảy trăm", "Chín tám bảy không không", "Chín mươi tám nghìn bảy chục", "Chín mươi tám nghìn bảy trăm linh không"],
+    "correctAnswer": "Chín mươi tám nghìn bảy trăm"
+  },
+  {
+    "question": "Làm tròn số 12 501 đến hàng nghìn:",
+    "options": ["13 000", "12 000", "12 500", "12 600"],
+    "correctAnswer": "13 000"
+  },
+  {
+    "question": "Tìm x, biết: x + 10 001 = 10 002",
+    "options": ["x = 1", "x = 20 003", "x = 10 000", "x = 2"],
+    "correctAnswer": "x = 1"
+  },
+  {
+    "question": "Tìm y, biết: 100 000 - y = 99 999",
+    "options": ["y = 1", "y = 199 999", "y = 100 000", "y = 99 999"],
+    "correctAnswer": "y = 1"
+  },
+  {
+    "question": "Tìm z, biết: z x 100 = 50 000",
+    "options": ["z = 500", "z = 5 000 000", "z = 50 100", "z = 49 900"],
+    "correctAnswer": "z = 500"
+  },
+  {
+    "question": "Tìm a, biết: 64 000 : a = 8",
+    "options": ["a = 8 000", "a = 512 000", "a = 63 992", "a = 800"],
+    "correctAnswer": "a = 8 000"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích bằng diện tích hình vuông cạnh 10m. Biết chiều dài hình chữ nhật là 20m. Chiều rộng là:",
+    "options": ["5 m", "100 m", "10 m", "20 m"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "Bây giờ là 13 giờ. 30 phút nữa là mấy giờ?",
+    "options": ["13 giờ 30 phút", "1 giờ 30 phút", "Cả A và B đều đúng", "14 giờ"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tháng 10 và tháng 12 có điểm gì chung?",
+    "options": ["Cùng có 31 ngày", "Cùng có 30 ngày", "Là tháng mùa đông", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Một người có 100 000 đồng, mua 2 kg thịt giá 40 000 đồng/kg. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["20 000 đồng", "80 000 đồng", "60 000 đồng", "10 000 đồng"],
+    "correctAnswer": "20 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số bạn nữ trong 3 lớp: 3A(16), 3B(14), 3C(15). Tổng số bạn nữ của 3 lớp là:",
+    "options": ["45 bạn", "40 bạn", "50 bạn", "35 bạn"],
+    "correctAnswer": "45 bạn"
+  },
+  {
+    "question": "Trong một hộp có 10 bi xanh. Lấy ra 1 viên bi. Sự kiện 'lấy được bi xanh' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Ngẫu nhiên"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Số 10 000 là số lớn nhất có mấy chữ số?",
+    "options": ["4", "5", "6", "Không phải"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Làm tròn số 12345 đến hàng chục nghìn:",
+    "options": ["10 000", "20 000", "12 000", "13 000"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Tính: 50 000 + 12 345",
+    "options": ["62 345", "62 340", "63 345", "62 445"],
+    "correctAnswer": "62 345"
+  },
+  {
+    "question": "Tính: 45 678 - 12 345",
+    "options": ["33 333", "33 334", "34 333", "33 433"],
+    "correctAnswer": "33 333"
+  },
+  {
+    "question": "Tính: 13 000 x 4",
+    "options": ["52 000", "50 000", "42 000", "54 000"],
+    "correctAnswer": "52 000"
+  },
+  {
+    "question": "Tính: 81 000 : 9",
+    "options": ["9 000", "900", "90 000", "90"],
+    "correctAnswer": "9 000"
+  },
+  {
+    "question": "Một hình vuông có chu vi 1000m. Diện tích của nó là:",
+    "options": ["62 500 m²", "250 m", "1000 m²", "4000 m"],
+    "correctAnswer": "62 500 m²"
+  },
+  {
+    "question": "Một bộ phim bắt đầu lúc 19 giờ 30 phút và kết thúc lúc 21 giờ. Phim kéo dài bao lâu?",
+    "options": ["1 giờ 30 phút", "2 giờ", "1 giờ", "90 giờ"],
+    "correctAnswer": "1 giờ 30 phút"
+  },
+  {
+    "question": "Tháng 9 và tháng 11 có bao nhiêu ngày?",
+    "options": ["30 ngày", "31 ngày", "29 ngày", "28 ngày"],
+    "correctAnswer": "30 ngày"
+  },
+  {
+    "question": "Một người có 60 000 đồng, mua 3 hộp bút, mỗi hộp giá 18 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["6 000 đồng", "54 000 đồng", "12 000 đồng", "0 đồng"],
+    "correctAnswer": "6 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số điểm 10 trong tháng: Tuần 1(5), Tuần 2(8), Tuần 3(6), Tuần 4(5). Tổng số điểm 10 trong tháng là:",
+    "options": ["24 điểm", "20 điểm", "25 điểm", "30 điểm"],
+    "correctAnswer": "24 điểm"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm là 3' là sự kiện gì?",
+    "options": ["Có thể xảy ra", "Chắc chắn xảy ra", "Không thể xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Có thể xảy ra"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số mà các chữ số đều chẵn là:",
+    "options": ["20 000", "10 000", "22 222", "20 222"],
+    "correctAnswer": "20 000"
+  },
+  {
+    "question": "Làm tròn số 99 999 đến hàng chục nghìn:",
+    "options": ["100 000", "90 000", "99 000", "99 990"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tìm x, biết: x - 9999 = 1",
+    "options": ["x = 10 000", "x = 9998", "x = 1000", "x = 1"],
+    "correctAnswer": "x = 10 000"
+  },
+  {
+    "question": "Tìm y, biết: 10 000 + y = 10 000",
+    "options": ["y = 0", "y = 20 000", "y = 10 000", "y = 1"],
+    "correctAnswer": "y = 0"
+  },
+  {
+    "question": "Tìm z, biết: z x 1000 = 80 000",
+    "options": ["z = 80", "z = 800", "z = 8", "z = 80 000"],
+    "correctAnswer": "z = 80"
+  },
+  {
+    "question": "Tìm a, biết: 100 000 : a = 10",
+    "options": ["a = 10 000", "a = 1 000 000", "a = 100 010", "a = 99 990"],
+    "correctAnswer": "a = 10 000"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 100m, chiều dài gấp 4 lần chiều rộng. Diện tích hình chữ nhật đó là:",
+    "options": ["400 m²", "50 m", "10 m", "200 m²"],
+    "correctAnswer": "400 m²"
+  },
+  {
+    "question": "Một ngày có 24 giờ. 1/8 của một ngày là bao nhiêu giờ?",
+    "options": ["3 giờ", "4 giờ", "6 giờ", "12 giờ"],
+    "correctAnswer": "3 giờ"
+  },
+  {
+    "question": "Tháng nào sau đây có 31 ngày?",
+    "options": ["Tháng 12", "Tháng 2", "Tháng 4", "Tháng 6"],
+    "correctAnswer": "Tháng 12"
+  },
+  {
+    "question": "Một người có 100 000 đồng, mua 5 món hàng, mỗi món giá 18 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["10 000 đồng", "90 000 đồng", "20 000 đồng", "5 000 đồng"],
+    "correctAnswer": "10 000 đồng"
+  },
+  {
+    "question": "Bảng số liệu về số học sinh giỏi 3 môn: Toán(15), TV(12), TA(10). Trung bình mỗi môn có bao nhiêu học sinh giỏi?",
+    "options": ["12.33 (Không thể là số nguyên)", "12", "13", "14"],
+    "correctAnswer": "12.33 (Không thể là số nguyên)"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm là một số tự nhiên bé hơn 1' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  }
+]
+
