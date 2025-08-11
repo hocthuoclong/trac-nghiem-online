@@ -1,0 +1,478 @@
+[
+  {
+    "question": "Số 'Bốn mươi lăm nghìn hai trăm mười bảy' được viết là:",
+    "options": ["45 217", "40 527", "4527", "452 017"],
+    "correctAnswer": "45 217"
+  },
+  {
+    "question": "Số 89 356 được đọc là:",
+    "options": ["Tám mươi chín nghìn ba trăm năm mươi sáu", "Tám mươi chín triệu ba trăm năm mươi sáu", "Tám chín ba năm sáu", "Tám mươi nghìn chín trăm ba mươi lăm sáu"],
+    "correctAnswer": "Tám mươi chín nghìn ba trăm năm mươi sáu"
+  },
+  {
+    "question": "Trong số 67 891, chữ số 8 có giá trị là:",
+    "options": ["800", "80", "8000", "8"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Số liền sau của số 99 999 là:",
+    "options": ["100 000", "99 998", "10 000", "999 990"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 45 678, 45 876, 45 768, 45 687 là:",
+    "options": ["45 876", "45 678", "45 768", "45 687"],
+    "correctAnswer": "45 876"
+  },
+  {
+    "question": "Kết quả của phép tính 34 567 + 12 345 là:",
+    "options": ["46 912", "46 812", "47 912", "45 912"],
+    "correctAnswer": "46 912"
+  },
+  {
+    "question": "Kết quả của phép tính 87 654 - 32 109 là:",
+    "options": ["55 545", "55 555", "54 545", "55 454"],
+    "correctAnswer": "55 545"
+  },
+  {
+    "question": "Kết quả của phép tính 12 300 x 3 là:",
+    "options": ["36 900", "36 600", "39 300", "36 300"],
+    "correctAnswer": "36 900"
+  },
+  {
+    "question": "Kết quả của phép tính 48 000 : 4 là:",
+    "options": ["12 000", "1 200", "120", "120 000"],
+    "correctAnswer": "12 000"
+  },
+  {
+    "question": "Trong các số sau, số nào là số chẵn?",
+    "options": ["12 346", "23 451", "67 893", "98 765"],
+    "correctAnswer": "12 346"
+  },
+  {
+    "question": "Trong các số sau, số nào là số lẻ?",
+    "options": ["77 777", "22 222", "44 444", "88 888"],
+    "correctAnswer": "77 777"
+  },
+  {
+    "question": "Giá trị của biểu thức 250 + m với m = 50 là:",
+    "options": ["300", "200", "255", "350"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Giá trị của biểu thức 1000 - n với n = 250 là:",
+    "options": ["750", "850", "1250", "700"],
+    "correctAnswer": "750"
+  },
+  {
+    "question": "Một đội công nhân sửa đường, ngày đầu sửa được 1250m, ngày thứ hai sửa được nhiều hơn ngày đầu 300m. Hỏi cả hai ngày đội đó sửa được bao nhiêu mét đường?",
+    "options": ["2800m", "1550m", "950m", "2500m"],
+    "correctAnswer": "2800m"
+  },
+  {
+    "question": "Số gồm 5 chục nghìn, 3 nghìn, 6 trăm, 2 chục và 9 đơn vị được viết là:",
+    "options": ["53 629", "5362", "92 635", "530 629"],
+    "correctAnswer": "53 629"
+  },
+  {
+    "question": "Số liền trước của số 54 321 là:",
+    "options": ["54 320", "54 322", "54 319", "54 300"],
+    "correctAnswer": "54 320"
+  },
+  {
+    "question": "Làm tròn số 67 853 đến hàng nghìn ta được:",
+    "options": ["68 000", "67 000", "67 900", "67 800"],
+    "correctAnswer": "68 000"
+  },
+  {
+    "question": "Tìm x, biết: x + 15 000 = 40 000",
+    "options": ["x = 25 000", "x = 55 000", "x = 15 000", "x = 40 000"],
+    "correctAnswer": "x = 25 000"
+  },
+  {
+    "question": "Tìm y, biết: 65 000 - y = 20 000",
+    "options": ["y = 45 000", "y = 85 000", "y = 20 000", "y = 65 000"],
+    "correctAnswer": "y = 45 000"
+  },
+  {
+    "question": "Tổng của số chẵn lớn nhất có 4 chữ số và số bé nhất có 5 chữ số là:",
+    "options": ["19 998", "10 998", "19 999", "11 000"],
+    "correctAnswer": "19 998"
+  },
+  {
+    "question": "Giá trị của biểu thức a x 5 với a = 10 200 là:",
+    "options": ["51 000", "50 100", "5100", "5010"],
+    "correctAnswer": "51 000"
+  },
+  {
+    "question": "Giá trị của biểu thức c : 8 với c = 32 000 là:",
+    "options": ["4000", "400", "40", "40 000"],
+    "correctAnswer": "4000"
+  },
+  {
+    "question": "Một cửa hàng có 5 thùng kẹo, mỗi thùng chứa 1500 cái. Cửa hàng đã bán hết 3 thùng. Hỏi cửa hàng còn lại bao nhiêu cái kẹo?",
+    "options": ["3000 cái", "4500 cái", "7500 cái", "1500 cái"],
+    "correctAnswer": "3000 cái"
+  },
+  {
+    "question": "Dãy số nào sau đây được viết theo thứ tự từ bé đến lớn?",
+    "options": ["12345, 23456, 34567, 45678", "45678, 34567, 23456, 12345", "12345, 34567, 23456, 45678", "23456, 12345, 45678, 34567"],
+    "correctAnswer": "12345, 23456, 34567, 45678"
+  },
+  {
+    "question": "Giá trị của chữ số 7 trong số 75 432 là:",
+    "options": ["70 000", "7000", "700", "70"],
+    "correctAnswer": "70 000"
+  },
+  {
+    "question": "Kết quả của phép tính 20 500 x 4 là:",
+    "options": ["82 000", "80 200", "80 000", "8200"],
+    "correctAnswer": "82 000"
+  },
+  {
+    "question": "Kết quả của phép tính 96 300 : 3 là:",
+    "options": ["32 100", "31 200", "3210", "3120"],
+    "correctAnswer": "32 100"
+  },
+  {
+    "question": "Dãy số nào chỉ gồm các số chẵn?",
+    "options": ["2, 14, 26, 38, 50", "1, 3, 5, 7, 9", "2, 13, 24, 35, 46", "10, 15, 20, 25, 30"],
+    "correctAnswer": "2, 14, 26, 38, 50"
+  },
+  {
+    "question": "Dãy số nào chỉ gồm các số lẻ?",
+    "options": ["11, 23, 35, 47, 59", "10, 12, 14, 16, 18", "11, 22, 33, 44, 55", "5, 10, 15, 20, 25"],
+    "correctAnswer": "11, 23, 35, 47, 59"
+  },
+  {
+    "question": "Giá trị của biểu thức 15 000 + 5000 x 2 là:",
+    "options": ["25 000", "40 000", "20 000", "35 000"],
+    "correctAnswer": "25 000"
+  },
+  {
+    "question": "Giá trị của biểu thức (15 000 + 5000) x 2 là:",
+    "options": ["40 000", "25 000", "20 000", "35 000"],
+    "correctAnswer": "40 000"
+  },
+  {
+    "question": "Có 3 xe ô tô, mỗi xe chở 1500kg gạo. Người ta dỡ xuống 2000kg gạo. Hỏi trên 3 xe còn lại bao nhiêu ki-lô-gam gạo?",
+    "options": ["2500kg", "4500kg", "3500kg", "1500kg"],
+    "correctAnswer": "2500kg"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số khác nhau là:",
+    "options": ["10 234", "10 000", "11 111", "12 345"],
+    "correctAnswer": "10 234"
+  },
+  {
+    "question": "So sánh: 56 789 ___ 56 798",
+    "options": ["<", ">", "=", "Không so sánh được"],
+    "correctAnswer": "<"
+  },
+  {
+    "question": "Tìm x, biết: x : 5 = 10 500",
+    "options": ["x = 52 500", "x = 2 100", "x = 10 505", "x = 10 495"],
+    "correctAnswer": "x = 52 500"
+  },
+  {
+    "question": "Tổng của hai số là 5000, một trong hai số là 1500. Số còn lại là:",
+    "options": ["3500", "6500", "5000", "1500"],
+    "correctAnswer": "3500"
+  },
+  {
+    "question": "Hiệu của hai số là 2000. Số trừ là 8000. Số bị trừ là:",
+    "options": ["10 000", "6000", "2000", "8000"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Tổng của số lẻ bé nhất có 5 chữ số và 100 là:",
+    "options": ["10 101", "10 001", "10 100", "10 000"],
+    "correctAnswer": "10 101"
+  },
+  {
+    "question": "Giá trị của biểu thức 25 + a + b với a = 10 và b = 15 là:",
+    "options": ["50", "25", "35", "40"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một kho chứa 25 000kg thóc. Lần đầu người ta lấy ra 10 000kg, lần sau lấy ra 8 000kg. Hỏi trong kho còn lại bao nhiêu ki-lô-gam thóc?",
+    "options": ["7 000kg", "15 000kg", "17 000kg", "18 000kg"],
+    "correctAnswer": "7 000kg"
+  },
+  {
+    "question": "Số 100 000 được đọc là:",
+    "options": ["Một trăm nghìn", "Mười nghìn", "Một triệu", "Một trăm"],
+    "correctAnswer": "Một trăm nghìn"
+  },
+  {
+    "question": "Số tròn chục liền sau số 45 678 là:",
+    "options": ["45 680", "45 670", "45 700", "45 679"],
+    "correctAnswer": "45 680"
+  },
+  {
+    "question": "Kết quả của phép tính 11 111 x 9 là:",
+    "options": ["99 999", "99 990", "90 999", "99 099"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "Tìm y, biết: y x 6 = 72 000",
+    "options": ["y = 12 000", "y = 432 000", "y = 72 006", "y = 71 994"],
+    "correctAnswer": "y = 12 000"
+  },
+  {
+    "question": "Hiệu của số chẵn lớn nhất có 5 chữ số và số chẵn bé nhất có 5 chữ số là:",
+    "options": ["89 998", "89 999", "99 998", "10 000"],
+    "correctAnswer": "89 998"
+  },
+  {
+    "question": "Giá trị của biểu thức m - n với m = 50 000 và n = 12 000 là:",
+    "options": ["38 000", "62 000", "50 012", "49 988"],
+    "correctAnswer": "38 000"
+  },
+  {
+    "question": "Một sân vận động có 10 000 chỗ ngồi. Đã có 8 500 khán giả vào sân. Hỏi còn lại bao nhiêu chỗ trống?",
+    "options": ["1 500", "18 500", "2 500", "500"],
+    "correctAnswer": "1 500"
+  },
+  {
+    "question": "Một cửa hàng nhập về 3 đợt dầu, mỗi đợt 1200 lít. Cửa hàng đã bán được 2500 lít. Hỏi cửa hàng còn lại bao nhiêu lít dầu?",
+    "options": ["1100 lít", "3600 lít", "3700 lít", "6100 lít"],
+    "correctAnswer": "1100 lít"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số là:",
+    "options": ["99 999", "10 000", "98 765", "99 990"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số là:",
+    "options": ["10 000", "99 999", "10 001", "11 111"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Số 60 009 được đọc là:",
+    "options": ["Sáu mươi nghìn không trăm linh chín", "Sáu mươi nghìn chín", "Sáu không không không chín", "Sáu mươi triệu linh chín"],
+    "correctAnswer": "Sáu mươi nghìn không trăm linh chín"
+  },
+  {
+    "question": "Tích của 15 000 và 5 là:",
+    "options": ["75 000", "20 000", "15 005", "3 000"],
+    "correctAnswer": "75 000"
+  },
+  {
+    "question": "Thương của 80 000 và 8 là:",
+    "options": ["10 000", "80 008", "79 992", "640 000"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Tổng của hai số chẵn liên tiếp là 22. Hai số đó là:",
+    "options": ["10 và 12", "8 và 14", "6 và 16", "11 và 11"],
+    "correctAnswer": "10 và 12"
+  },
+  {
+    "question": "Giá trị của biểu thức 45 : x + 10 với x = 5 là:",
+    "options": ["19", "11", "9", "45"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "An có 20 viên bi. Bình có số bi gấp 3 lần số bi của An. Cả hai bạn có tất cả bao nhiêu viên bi?",
+    "options": ["80 viên", "60 viên", "23 viên", "40 viên"],
+    "correctAnswer": "80 viên"
+  },
+  {
+    "question": "Số gồm 9 chục nghìn và 9 đơn vị được viết là:",
+    "options": ["90 009", "9009", "909", "99"],
+    "correctAnswer": "90 009"
+  },
+  {
+    "question": "Làm tròn số 12 345 đến hàng trăm ta được:",
+    "options": ["12 300", "12 400", "12 000", "13 000"],
+    "correctAnswer": "12 300"
+  },
+  {
+    "question": "Kết quả của phép tính 23 456 + 9 876 là:",
+    "options": ["33 332", "32 332", "33 232", "33 322"],
+    "correctAnswer": "33 332"
+  },
+  {
+    "question": "Kết quả của phép tính 50 000 - 12 345 là:",
+    "options": ["37 655", "38 765", "37 755", "47 655"],
+    "correctAnswer": "37 655"
+  },
+  {
+    "question": "Số lẻ liền trước số 10 001 là:",
+    "options": ["9 999", "10 000", "10 003", "9 997"],
+    "correctAnswer": "9 999"
+  },
+  {
+    "question": "Số chẵn liền sau số 99 998 là:",
+    "options": ["100 000", "99 996", "99 999", "100 002"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Giá trị của biểu thức (a + b) : 2 với a = 1000 và b = 2000 là:",
+    "options": ["1500", "3000", "1000", "2000"],
+    "correctAnswer": "1500"
+  },
+  {
+    "question": "Một trang trại nuôi 1200 con gà. Số con vịt bằng một nửa số con gà. Trang trại đó nuôi tất cả bao nhiêu con gà và vịt?",
+    "options": ["1800 con", "600 con", "1200 con", "2400 con"],
+    "correctAnswer": "1800 con"
+  },
+  {
+    "question": "Một đội xe có 5 xe tải, mỗi xe chở được 30 bao gạo. Mỗi bao gạo nặng 50kg. Hỏi đội xe đó chở được tất cả bao nhiêu tạ gạo?",
+    "options": ["75 tạ", "150 tạ", "7500 tạ", "750 tạ"],
+    "correctAnswer": "75 tạ"
+  },
+  {
+    "question": "Số 34 567 được phân tích thành tổng là:",
+    "options": ["30000 + 4000 + 500 + 60 + 7", "3000 + 400 + 50 + 6 + 7", "30000 + 4000 + 500 + 67", "34000 + 567"],
+    "correctAnswer": "30000 + 4000 + 500 + 60 + 7"
+  },
+  {
+    "question": "So sánh: 10 000 + 2000 ___ 15 000 - 4000",
+    "options": [">", "<", "=", "Không so sánh được"],
+    "correctAnswer": ">"
+  },
+  {
+    "question": "Tìm x, biết: x - 2500 = 1500 x 2",
+    "options": ["x = 5500", "x = 3000", "x = 4000", "x = 500"],
+    "correctAnswer": "x = 5500"
+  },
+  {
+    "question": "Hiệu của 90 000 và 9 000 là:",
+    "options": ["81 000", "99 000", "90 009", "89 000"],
+    "correctAnswer": "81 000"
+  },
+  {
+    "question": "Trong một phép chia có số chia là 8, số dư lớn nhất có thể là:",
+    "options": ["7", "8", "6", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Giá trị của biểu thức 100 - c x 9 với c = 11 là:",
+    "options": ["1", "99", "891", "10"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một người đi bộ trong 3 giờ được 12 000m. Hỏi trung bình mỗi giờ người đó đi được bao nhiêu ki-lô-mét?",
+    "options": ["4 km", "4000 km", "12 km", "36 km"],
+    "correctAnswer": "4 km"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số chẵn khác nhau là:",
+    "options": ["10 234", "10 246", "20 468", "12 340"],
+    "correctAnswer": "10 234"
+  },
+  {
+    "question": "Số 20 000 + 300 + 5 được viết là:",
+    "options": ["20 305", "2305", "2035", "235"],
+    "correctAnswer": "20 305"
+  },
+  {
+    "question": "Tìm y, biết: 100 000 - y = 50 000",
+    "options": ["y = 50 000", "y = 150 000", "y = 2", "y = 100 000"],
+    "correctAnswer": "y = 50 000"
+  },
+  {
+    "question": "Tích của số lớn nhất có 4 chữ số và 9 là:",
+    "options": ["89 991", "99 999", "90 000", "81 000"],
+    "correctAnswer": "89 991"
+  },
+  {
+    "question": "Số nào vừa là số chẵn, vừa chia hết cho 5?",
+    "options": ["20", "15", "22", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Giá trị của biểu thức 50 + 50 : k với k = 5 là:",
+    "options": ["60", "20", "100", "55"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Mua 5 quyển vở hết 40 000 đồng. Hỏi mua 8 quyển vở như thế hết bao nhiêu tiền?",
+    "options": ["64 000 đồng", "8 000 đồng", "40 000 đồng", "72 000 đồng"],
+    "correctAnswer": "64 000 đồng"
+  },
+  {
+    "question": "Có 1000 cái bánh được xếp đều vào 50 hộp. Hỏi 10 hộp như vậy có bao nhiêu cái bánh?",
+    "options": ["200 cái", "20 cái", "500 cái", "100 cái"],
+    "correctAnswer": "200 cái"
+  },
+  {
+    "question": "Số liền sau của số lớn nhất có 5 chữ số là:",
+    "options": ["100 000", "99 998", "99 999", "99 990"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "So sánh: 25 000 : 5 ___ 1000 x 5",
+    "options": ["=", ">", "<", "Không so sánh được"],
+    "correctAnswer": "="
+  },
+  {
+    "question": "Tìm x, biết x là số tròn nghìn và 20 000 < x < 22 000.",
+    "options": ["21 000", "20 001", "21 999", "20 500"],
+    "correctAnswer": "21 000"
+  },
+  {
+    "question": "Hiệu của hai số là 1500. Nếu giữ nguyên số bị trừ và tăng số trừ lên 500 đơn vị thì hiệu mới là:",
+    "options": ["1000", "2000", "1500", "500"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Tổng của hai số là 8000. Nếu tăng số hạng thứ nhất lên 1000 và giảm số hạng thứ hai đi 500 thì tổng mới là:",
+    "options": ["8500", "7500", "9000", "9500"],
+    "correctAnswer": "8500"
+  },
+  {
+    "question": "Giá trị của biểu thức a - b : c với a = 100, b = 50, c = 2 là:",
+    "options": ["75", "25", "100", "50"],
+    "correctAnswer": "75"
+  },
+  {
+    "question": "Có 3 bao đường, bao thứ nhất nặng 25kg, bao thứ hai nặng hơn bao thứ nhất 5kg, bao thứ ba nhẹ hơn bao thứ hai 10kg. Hỏi cả ba bao nặng bao nhiêu ki-lô-gam?",
+    "options": ["75kg", "30kg", "20kg", "80kg"],
+    "correctAnswer": "75kg"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 20cm, chiều rộng bằng một nửa chiều dài. Chu vi hình chữ nhật đó là:",
+    "options": ["60cm", "30cm", "10cm", "200cm"],
+    "correctAnswer": "60cm"
+  },
+  {
+    "question": "Số nhỏ nhất có 5 chữ số khác nhau mà tổng các chữ số bằng 15 là:",
+    "options": ["10 239", "10 248", "10 347", "12 345"],
+    "correctAnswer": "10 239"
+  },
+  {
+    "question": "Tìm y, biết: y + 1234 + 5678 = 10 000",
+    "options": ["y = 3088", "y = 6912", "y = 16 912", "y = 4322"],
+    "correctAnswer": "y = 3088"
+  },
+  {
+    "question": "Trong các phép tính sau, phép tính nào có kết quả là số lẻ?",
+    "options": ["123 + 456", "234 + 568", "987 - 654", "777 - 111"],
+    "correctAnswer": "987 - 654"
+  },
+  {
+    "question": "Giá trị của biểu thức 10 x a với a = 1234 là:",
+    "options": ["12 340", "1234", "123 400", "1235"],
+    "correctAnswer": "12 340"
+  },
+  {
+    "question": "Một người bán được 5 rổ cam, mỗi rổ có 60 quả. Sau đó người đó mua thêm 100 quả nữa. Hỏi lúc này người đó có tất cả bao nhiêu quả cam?",
+    "options": ["400 quả", "300 quả", "200 quả", "500 quả"],
+    "correctAnswer": "400 quả"
+  },
+  {
+    "question": "Một năm không nhuận có bao nhiêu giờ?",
+    "options": ["8760 giờ", "365 giờ", "8784 giờ", "366 giờ"],
+    "correctAnswer": "8760 giờ"
+  },
+  {
+    "question": "Số gồm 2 chục nghìn, 5 trăm và 3 đơn vị được viết là:",
+    "options": ["20 503", "2503", "2053", "253"],
+    "correctAnswer": "20 503"
+  }
+]
+
