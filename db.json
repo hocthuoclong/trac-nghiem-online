@@ -44,6 +44,10 @@
                 {
                   "name": "Chương 10: Cộng, trừ, nhân, chia trong phạm vi 10000",
                   "file": "./data/math-3-chapter-10.json"
+                },
+                {
+                  "name": "Chương 11: Các số đến 100000",
+                  "file": "./data/math-3-chapter-11.json"
                 }
               ]
             },
