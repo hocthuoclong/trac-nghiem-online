@@ -34,6 +34,10 @@
                   "file": "./data/math-4-chapter-6.json"
                 }
               ]
+            },
+            "midterm-1": {
+              "name": "Ôn tập học kỳ 1",
+              "file": "./data/math-4-midterm-1.json"
             }
           }
         }
