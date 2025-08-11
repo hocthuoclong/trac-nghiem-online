@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Số 'Mười hai nghìn ba trăm bốn mươi lăm' được viết là:",
+    "options": ["12 345", "1234", "12 340", "1 2345"],
+    "correctAnswer": "12 345"
+  },
+  {
+    "question": "Số 54 321 được đọc là:",
+    "options": ["Năm mươi tư nghìn ba trăm hai mươi mốt", "Năm bốn ba hai một", "Năm mươi nghìn bốn trăm ba hai một", "Năm mươi tư nghìn ba trăm hai mươi một"],
+    "correctAnswer": "Năm mươi tư nghìn ba trăm hai mươi mốt"
+  },
+  {
+    "question": "Số 100 000 được đọc là:",
+    "options": ["Một trăm nghìn", "Mười nghìn", "Một triệu", "Một vạn"],
+    "correctAnswer": "Một trăm nghìn"
+  },
+  {
+    "question": "Trong số 67 891, chữ số 6 thuộc hàng nào?",
+    "options": ["Hàng chục nghìn", "Hàng nghìn", "Hàng trăm", "Hàng triệu"],
+    "correctAnswer": "Hàng chục nghìn"
+  },
+  {
+    "question": "So sánh: 23 456 và 23 546.",
+    "options": ["23 456 < 23 546", "23 456 > 23 546", "23 456 = 23 546", "Không so sánh được"],
+    "correctAnswer": "23 456 < 23 546"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 58 765, 58 675, 58 756, 58 657 là:",
+    "options": ["58 765", "58 675", "58 756", "58 657"],
+    "correctAnswer": "58 765"
+  },
+  {
+    "question": "Làm tròn số 4 567 đến hàng nghìn ta được:",
+    "options": ["5 000", "4 000", "4 600", "4 500"],
+    "correctAnswer": "5 000"
+  },
+  {
+    "question": "Làm tròn số 8 234 đến hàng nghìn ta được:",
+    "options": ["8 000", "9 000", "8 200", "8 300"],
+    "correctAnswer": "8 000"
+  },
+  {
+    "question": "Làm tròn số 23 456 đến hàng chục nghìn ta được:",
+    "options": ["20 000", "30 000", "23 000", "24 000"],
+    "correctAnswer": "20 000"
+  },
+  {
+    "question": "Làm tròn số 87 654 đến hàng chục nghìn ta được:",
+    "options": ["90 000", "80 000", "88 000", "87 000"],
+    "correctAnswer": "90 000"
+  },
+  {
+    "question": "Số liền sau của số 45 678 là:",
+    "options": ["45 679", "45 677", "45 680", "45 670"],
+    "correctAnswer": "45 679"
+  },
+  {
+    "question": "Số liền trước của số 10 000 là:",
+    "options": ["9 999", "10 001", "9 990", "9 000"],
+    "correctAnswer": "9 999"
+  },
+  {
+    "question": "Số gồm 7 chục nghìn, 5 nghìn, 0 trăm, 2 chục và 9 đơn vị được viết là:",
+    "options": ["75 029", "75 290", "70 529", "75 020"],
+    "correctAnswer": "75 029"
+  },
+  {
+    "question": "Giá trị của chữ số 3 trong số 34 567 là:",
+    "options": ["30 000", "3000", "300", "30"],
+    "correctAnswer": "30 000"
+  },
+  {
+    "question": "Số bé nhất có năm chữ số là:",
+    "options": ["10 000", "10 001", "11 111", "99 999"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "So sánh: 65 432 và 65 423.",
+    "options": ["65 432 > 65 423", "65 432 < 65 423", "65 432 = 65 423", "Không so sánh được"],
+    "correctAnswer": "65 432 > 65 423"
+  },
+  {
+    "question": "Làm tròn số 6 500 đến hàng nghìn:",
+    "options": ["7 000", "6 000", "6 500", "10 000"],
+    "correctAnswer": "7 000"
+  },
+  {
+    "question": "Làm tròn số 45 000 đến hàng chục nghìn:",
+    "options": ["50 000", "40 000", "45 000", "100 000"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Số 20 005 được đọc là:",
+    "options": ["Hai mươi nghìn không trăm linh năm", "Hai mươi nghìn linh năm", "Hai mươi nghìn năm", "Hai không không không năm"],
+    "correctAnswer": "Hai mươi nghìn không trăm linh năm"
+  },
+  {
+    "question": "Số lớn nhất có năm chữ số là:",
+    "options": ["99 999", "10 000", "98 765", "99 990"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "Số bé nhất trong các số: 78 901, 78 109, 78 910, 78 091 là:",
+    "options": ["78 091", "78 901", "78 109", "78 910"],
+    "correctAnswer": "78 091"
+  },
+  {
+    "question": "Làm tròn số 12 345 đến hàng nghìn:",
+    "options": ["12 000", "13 000", "12 300", "12 400"],
+    "correctAnswer": "12 000"
+  },
+  {
+    "question": "Làm tròn số 98 765 đến hàng chục nghìn:",
+    "options": ["100 000", "90 000", "99 000", "98 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Số 100 000 có mấy chữ số?",
+    "options": ["6", "5", "1", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số 45 678 được viết thành tổng là:",
+    "options": ["40000 + 5000 + 600 + 70 + 8", "4000 + 500 + 60 + 7 + 8", "45000 + 678", "40000 + 5678"],
+    "correctAnswer": "40000 + 5000 + 600 + 70 + 8"
+  },
+  {
+    "question": "Số liền trước của 20 000 là:",
+    "options": ["19 999", "20 001", "19 990", "19 000"],
+    "correctAnswer": "19 999"
+  },
+  {
+    "question": "So sánh: 87 654 và 87 654.",
+    "options": ["87 654 = 87 654", "87 654 > 87 654", "87 654 < 87 654", "Không so sánh được"],
+    "correctAnswer": "87 654 = 87 654"
+  },
+  {
+    "question": "Làm tròn số 9 876 đến hàng nghìn:",
+    "options": ["10 000", "9 000", "9 900", "9 800"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Làm tròn số 14 999 đến hàng chục nghìn:",
+    "options": ["10 000", "20 000", "15 000", "14 000"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Số 'Ba mươi nghìn không trăm mười lăm' được viết là:",
+    "options": ["30 015", "30 150", "3 015", "30 005"],
+    "correctAnswer": "30 015"
+  },
+  {
+    "question": "Giá trị của chữ số 9 trong số 19 876 là:",
+    "options": ["9000", "90 000", "900", "90"],
+    "correctAnswer": "9000"
+  },
+  {
+    "question": "Số bé nhất có năm chữ số khác nhau là:",
+    "options": ["10 234", "10 000", "11 111", "12 340"],
+    "correctAnswer": "10 234"
+  },
+  {
+    "question": "Dãy số nào được sắp xếp theo thứ tự từ lớn đến bé?",
+    "options": ["8765, 7865, 6875, 5876", "5876, 6875, 7865, 8765", "8765, 6875, 7865, 5876", "6875, 8765, 5876, 7865"],
+    "correctAnswer": "8765, 7865, 6875, 5876"
+  },
+  {
+    "question": "Làm tròn số 3456 đến hàng nghìn:",
+    "options": ["3000", "4000", "3500", "3400"],
+    "correctAnswer": "3000"
+  },
+  {
+    "question": "Làm tròn số 55 555 đến hàng chục nghìn:",
+    "options": ["60 000", "50 000", "55 000", "56 000"],
+    "correctAnswer": "60 000"
+  },
+  {
+    "question": "Số 10 000 là số liền sau của số nào?",
+    "options": ["9 999", "9 998", "10 001", "9 990"],
+    "correctAnswer": "9 999"
+  },
+  {
+    "question": "Số lớn nhất có năm chữ số khác nhau là:",
+    "options": ["98 765", "99 999", "10 234", "98 760"],
+    "correctAnswer": "98 765"
+  },
+  {
+    "question": "So sánh: 12 345 và 12 354.",
+    "options": ["12 345 < 12 354", "12 345 > 12 354", "12 345 = 12 354", "Không so sánh được"],
+    "correctAnswer": "12 345 < 12 354"
+  },
+  {
+    "question": "Làm tròn số 7500 đến hàng nghìn:",
+    "options": ["8000", "7000", "7500", "10000"],
+    "correctAnswer": "8000"
+  },
+  {
+    "question": "Làm tròn số 1234 đến hàng chục:",
+    "options": ["1230", "1240", "1200", "1300"],
+    "correctAnswer": "1230"
+  },
+  {
+    "question": "Số 98 760 được đọc là:",
+    "options": ["Chín mươi tám nghìn bảy trăm sáu mươi", "Chín tám bảy sáu không", "Chín mươi tám nghìn bảy trăm sáu chục", "Chín mươi tám nghìn bảy trăm sáu"],
+    "correctAnswer": "Chín mươi tám nghìn bảy trăm sáu mươi"
+  },
+  {
+    "question": "Trong số 10 000, có mấy chữ số 0?",
+    "options": ["4", "5", "3", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Số tròn nghìn lớn nhất có 4 chữ số là:",
+    "options": ["9000", "9999", "1000", "9900"],
+    "correctAnswer": "9000"
+  },
+  {
+    "question": "Số La Mã XII tương ứng với số nào?",
+    "options": ["12", "11", "21", "8"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Làm tròn số 888 đến hàng chục:",
+    "options": ["890", "880", "900", "800"],
+    "correctAnswer": "890"
+  },
+  {
+    "question": "Làm tròn số 888 đến hàng trăm:",
+    "options": ["900", "800", "890", "880"],
+    "correctAnswer": "900"
+  },
+  {
+    "question": "Số liền sau của 23 459 là:",
+    "options": ["23 460", "23 458", "23 450", "23 500"],
+    "correctAnswer": "23 460"
+  },
+  {
+    "question": "Số 100 000 là số có mấy chữ số?",
+    "options": ["6", "5", "1", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số mà các chữ số đều lẻ là:",
+    "options": ["99 999", "97 531", "13 579", "99 991"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "So sánh: 56 789 và 56 780 + 9.",
+    "options": ["Bằng nhau", "Lớn hơn", "Bé hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số La Mã XIX tương ứng với số nào?",
+    "options": ["19", "21", "18", "20"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Làm tròn số 4500 đến hàng nghìn:",
+    "options": ["5000", "4000", "4500", "10000"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Làm tròn số 45 001 đến hàng chục nghìn:",
+    "options": ["50 000", "40 000", "45 000", "100 000"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Số 12 034 được đọc là:",
+    "options": ["Mười hai nghìn không trăm ba mươi tư", "Mười hai nghìn ba mươi tư", "Mười hai nghìn không trăm ba bốn", "Một hai không ba tư"],
+    "correctAnswer": "Mười hai nghìn không trăm ba mươi tư"
+  },
+  {
+    "question": "Giá trị của chữ số 1 trong số 10000 là:",
+    "options": ["10000", "1000", "100", "1"],
+    "correctAnswer": "10000"
+  },
+  {
+    "question": "Số tròn chục liền trước số 5678 là:",
+    "options": ["5670", "5680", "5600", "5700"],
+    "correctAnswer": "5670"
+  },
+  {
+    "question": "Số La Mã XXI tương ứng với số nào?",
+    "options": ["21", "19", "20", "11"],
+    "correctAnswer": "21"
+  },
+  {
+    "question": "Làm tròn số 1001 đến hàng chục:",
+    "options": ["1000", "1010", "1100", "2000"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Làm tròn số 1001 đến hàng trăm:",
+    "options": ["1000", "1100", "1010", "2000"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số liền trước của 80 000 là:",
+    "options": ["79 999", "80 001", "79 990", "79 000"],
+    "correctAnswer": "79 999"
+  },
+  {
+    "question": "Số 100 000 là số chẵn hay lẻ?",
+    "options": ["Chẵn", "Lẻ", "Vừa chẵn vừa lẻ", "Không phải chẵn cũng không phải lẻ"],
+    "correctAnswer": "Chẵn"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số mà tổng các chữ số bằng 3 là:",
+    "options": ["10002", "10020", "10200", "12000"],
+    "correctAnswer": "10002"
+  },
+  {
+    "question": "Số La Mã XIV tương ứng với số nào?",
+    "options": ["14", "16", "9", "15"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Làm tròn số 549 đến hàng chục:",
+    "options": ["550", "540", "500", "600"],
+    "correctAnswer": "550"
+  },
+  {
+    "question": "Làm tròn số 549 đến hàng trăm:",
+    "options": ["500", "600", "550", "540"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Số 50 000 được đọc là:",
+    "options": ["Năm mươi nghìn", "Năm nghìn", "Năm trăm nghìn", "Năm triệu"],
+    "correctAnswer": "Năm mươi nghìn"
+  },
+  {
+    "question": "Giá trị của chữ số 7 trong số 70 000 là:",
+    "options": ["70 000", "7000", "700", "70"],
+    "correctAnswer": "70 000"
+  },
+  {
+    "question": "Số tròn trăm liền sau số 8950 là:",
+    "options": ["9000", "8900", "8800", "8960"],
+    "correctAnswer": "9000"
+  },
+  {
+    "question": "Số La Mã VIII tương ứng với số nào?",
+    "options": ["8", "7", "9", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Làm tròn số 2024 đến hàng chục:",
+    "options": ["2020", "2030", "2000", "2100"],
+    "correctAnswer": "2020"
+  },
+  {
+    "question": "Làm tròn số 2024 đến hàng trăm:",
+    "options": ["2000", "2100", "2020", "2030"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Số 10000 gồm mấy nghìn?",
+    "options": ["10 nghìn", "1 nghìn", "100 nghìn", "0 nghìn"],
+    "correctAnswer": "10 nghìn"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số mà các chữ số đều chẵn và khác nhau là:",
+    "options": ["86420", "98765", "88888", "99998"],
+    "correctAnswer": "86420"
+  },
+  {
+    "question": "So sánh: 9999 và 1000 + 8000 + 900 + 90 + 9",
+    "options": ["Bằng nhau", "Lớn hơn", "Bé hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số La Mã XVI tương ứng với số nào?",
+    "options": ["16", "14", "15", "26"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Làm tròn số 999 đến hàng chục:",
+    "options": ["1000", "990", "900", "995"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Làm tròn số 999 đến hàng trăm:",
+    "options": ["1000", "900", "990", "950"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số liền sau của 99 999 là:",
+    "options": ["100 000", "99 998", "100 001", "99 990"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Số 10000 là số bé nhất có mấy chữ số?",
+    "options": ["5", "4", "6", "1"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số mà các chữ số đều lẻ là:",
+    "options": ["11 111", "13 579", "10 357", "11 113"],
+    "correctAnswer": "11 111"
+  },
+  {
+    "question": "So sánh: 20000 và 2000 x 10",
+    "options": ["Bằng nhau", "Lớn hơn", "Bé hơn", "Không so sánh được"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Số La Mã nào không tồn tại?",
+    "options": ["VV", "V", "X", "I"],
+    "correctAnswer": "VV"
+  },
+  {
+    "question": "Làm tròn số 1 đến hàng chục:",
+    "options": ["0", "10", "1", "5"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Làm tròn số 49 đến hàng trăm:",
+    "options": ["0", "100", "50", "40"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Số 10 001 được đọc là:",
+    "options": ["Mười nghìn không trăm linh một", "Mười nghìn linh một", "Một vạn linh một", "Một không không không một"],
+    "correctAnswer": "Mười nghìn không trăm linh một"
+  },
+  {
+    "question": "Giá trị của chữ số 0 trong số 4056 là:",
+    "options": ["0", "0 trăm", "Cả A và B đều đúng", "Không có giá trị"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Số tròn chục nghìn liền trước số 54321 là:",
+    "options": ["50 000", "60 000", "54 000", "55 000"],
+    "correctAnswer": "50 000"
+  },
+  {
+    "question": "Số La Mã XXI có giá trị bằng tổng của hai số La Mã nào?",
+    "options": ["X và XI", "XX và I", "Cả A và B đều đúng", "XV và VI"],
+    "correctAnswer": "Cả A và B đều đúng"
+  }
+]
+
