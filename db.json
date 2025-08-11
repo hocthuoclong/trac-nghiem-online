@@ -20,6 +20,10 @@
                 {
                   "name": "Chương 3: Làm quen với hình phẳng, hình khối",
                   "file": "./data/math-3-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Phép nhân, phép chia trong phạm vi 100",
+                  "file": "./data/math-3-chapter-4.json"
                 }
               ]
             }
