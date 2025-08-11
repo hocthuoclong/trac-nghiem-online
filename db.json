@@ -48,6 +48,10 @@
                 {
                   "name": "Chương 11: Phép cộng, phép trừ phân số",
                   "file": "./data/math-4-chapter-11.json"
+                },
+                {
+                  "name": "Chương 12: Phép nhân, phép chia phân số",
+                  "file": "./data/math-4-chapter-12.json"
                 }
               ]
             },
