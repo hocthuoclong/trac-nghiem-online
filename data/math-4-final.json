@@ -1,0 +1,693 @@
+[
+  {
+    "question": "Số 'Năm trăm linh sáu nghìn bốn trăm ba mươi hai' được viết là:",
+    "options": ["506 432", "560 432", "506 402", "500 643"],
+    "correctAnswer": "506 432"
+  },
+  {
+    "question": "Giá trị của chữ số 8 trong số 7 895 123 là:",
+    "options": ["800 000", "8 000 000", "80 000", "8000"],
+    "correctAnswer": "800 000"
+  },
+  {
+    "question": "Số lớn nhất trong các số: 456 789; 465 789; 456 879; 465 879 là:",
+    "options": ["465 879", "456 789", "465 789", "456 879"],
+    "correctAnswer": "465 879"
+  },
+  {
+    "question": "Kết quả của phép tính 345 678 + 154 322 là:",
+    "options": ["500 000", "499 990", "500 001", "400 000"],
+    "correctAnswer": "500 000"
+  },
+  {
+    "question": "Kết quả của phép tính 1 000 000 - 250 000 là:",
+    "options": ["750 000", "850 000", "700 000", "1 250 000"],
+    "correctAnswer": "750 000"
+  },
+  {
+    "question": "Tổng của hai số là 150, hiệu của hai số đó là 30. Số bé là:",
+    "options": ["60", "90", "120", "75"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Góc có số đo 135° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Hai đường thẳng cùng vuông góc với một đường thẳng thứ ba thì chúng...",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Hình nào có 4 cạnh bằng nhau và 4 góc vuông?",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Chu vi của hình thoi có cạnh 7 cm là:",
+    "options": ["28 cm", "14 cm", "49 cm", "21 cm"],
+    "correctAnswer": "28 cm"
+  },
+  {
+    "question": "5 tấn 6 tạ bằng bao nhiêu ki-lô-gam?",
+    "options": ["5600 kg", "5060 kg", "560 kg", "5006 kg"],
+    "correctAnswer": "5600 kg"
+  },
+  {
+    "question": "3 m² 5 dm² = ... dm².",
+    "options": ["305", "35", "350", "3005"],
+    "correctAnswer": "305"
+  },
+  {
+    "question": "Năm 1492 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XV (15)", "Thế kỉ XIV (14)", "Thế kỉ XVI (16)", "Thế kỉ XIII (13)"],
+    "correctAnswer": "Thế kỉ XV (15)"
+  },
+  {
+    "question": "Kết quả của phép tính 25 120 x 5 là:",
+    "options": ["125 600", "125 500", "105 600", "125 100"],
+    "correctAnswer": "125 600"
+  },
+  {
+    "question": "Kết quả của phép tính 120 600 : 6 là:",
+    "options": ["20 100", "2100", "2010", "20 010"],
+    "correctAnswer": "20 100"
+  },
+  {
+    "question": "Tính nhanh: 50 x 123 x 2",
+    "options": ["12 300", "1230", "123 000", "100"],
+    "correctAnswer": "12 300"
+  },
+  {
+    "question": "Kết quả của phép tính 345 x 23 là:",
+    "options": ["7935", "7835", "7925", "7825"],
+    "correctAnswer": "7935"
+  },
+  {
+    "question": "Tìm số trung bình cộng của các số: 100, 150, 200.",
+    "options": ["150", "450", "100", "200"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Một ô tô trong 4 giờ đi được 240 km. Hỏi trong 7 giờ ô tô đi được bao nhiêu ki-lô-mét?",
+    "options": ["420 km", "60 km", "300 km", "360 km"],
+    "correctAnswer": "420 km"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số hoa điểm 10 của 4 tổ: T1(15), T2(20), T3(18), T4(15). Tổ nào có nhiều điểm 10 nhất?",
+    "options": ["Tổ 2", "Tổ 1", "Tổ 3", "Tổ 4"],
+    "correctAnswer": "Tổ 2"
+  },
+  {
+    "question": "Rút gọn phân số 25/75.",
+    "options": ["1/3", "1/4", "1/5", "3/5"],
+    "correctAnswer": "1/3"
+  },
+  {
+    "question": "So sánh hai phân số 5/8 và 3/4.",
+    "options": ["5/8 < 3/4", "5/8 > 3/4", "5/8 = 3/4", "Không so sánh được"],
+    "correctAnswer": "5/8 < 3/4"
+  },
+  {
+    "question": "Kết quả của phép tính 3/8 + 1/4 là:",
+    "options": ["5/8", "4/12", "1/2", "1"],
+    "correctAnswer": "5/8"
+  },
+  {
+    "question": "Kết quả của phép tính 5/6 - 2/3 là:",
+    "options": ["1/6", "3/3", "1", "3/6"],
+    "correctAnswer": "1/6"
+  },
+  {
+    "question": "Kết quả của phép tính 3/4 x 5/7 là:",
+    "options": ["15/28", "8/11", "1", "20/21"],
+    "correctAnswer": "15/28"
+  },
+  {
+    "question": "Kết quả của phép tính 4/5 : 2 là:",
+    "options": ["4/10 (hoặc 2/5)", "8/5", "2/5", "1"],
+    "correctAnswer": "4/10 (hoặc 2/5)"
+  },
+  {
+    "question": "2/5 của 30 là:",
+    "options": ["12", "75", "10", "15"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 1/2 m, chiều rộng 1/4 m. Chu vi của nó là:",
+    "options": ["6/4 m (hoặc 3/2 m)", "3/4 m", "1/8 m²", "1 m"],
+    "correctAnswer": "6/4 m (hoặc 3/2 m)"
+  },
+  {
+    "question": "Số gồm 5 triệu, 2 chục nghìn và 6 đơn vị được viết là:",
+    "options": ["5 020 006", "5 200 006", "5 002 006", "5 020 600"],
+    "correctAnswer": "5 020 006"
+  },
+  {
+    "question": "Làm tròn số 4 567 890 đến hàng trăm nghìn:",
+    "options": ["4 600 000", "4 500 000", "5 000 000", "4 570 000"],
+    "correctAnswer": "4 600 000"
+  },
+  {
+    "question": "Tìm x, biết: x - 125 000 = 375 000",
+    "options": ["x = 500 000", "x = 250 000", "x = 400 000", "x = 600 000"],
+    "correctAnswer": "x = 500 000"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 2 giờ đúng là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Hình bình hành có hai cạnh kề bằng nhau là hình gì?",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "120 phút bằng bao nhiêu giờ?",
+    "options": ["2 giờ", "1.5 giờ", "3 giờ", "1 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Tìm số dư của phép chia 2469 : 5.",
+    "options": ["4", "1", "2", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tính nhanh: 134 x 12 - 134 x 2",
+    "options": ["1340", "134", "10", "13400"],
+    "correctAnswer": "1340"
+  },
+  {
+    "question": "Trung bình cộng của hai số là 150, một số là 120. Số còn lại là:",
+    "options": ["180", "30", "270", "135"],
+    "correctAnswer": "180"
+  },
+  {
+    "question": "Dãy số liệu về điểm thi: 8, 9, 7, 10, 8, 9, 9. Điểm nào xuất hiện nhiều nhất?",
+    "options": ["9", "8", "7", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Phân số 4/4 có giá trị bằng:",
+    "options": ["1", "4", "0", "Không xác định"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 3/10 + 2/5",
+    "options": ["7/10", "5/15", "1/2", "1"],
+    "correctAnswer": "7/10"
+  },
+  {
+    "question": "Tính: 1 - 5/9",
+    "options": ["4/9", "14/9", "1", "5/9"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Tính: 5/8 x 2/5",
+    "options": ["10/40 (hoặc 1/4)", "7/13", "1", "1/4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Tính: 6/7 : 3",
+    "options": ["6/21 (hoặc 2/7)", "18/7", "1", "2/7"],
+    "correctAnswer": "6/21 (hoặc 2/7)"
+  },
+  {
+    "question": "Một số biết 3/4 của nó là 12. Số đó là:",
+    "options": ["16", "9", "15", "20"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Số liền trước của 1 000 000 là:",
+    "options": ["999 999", "1 000 001", "999 990", "999 000"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Tổng của hai số là 250, hiệu là 50. Tích của hai số đó là:",
+    "options": ["15000", "100", "150", "12500"],
+    "correctAnswer": "15000"
+  },
+  {
+    "question": "Góc bẹt có số đo là:",
+    "options": ["180°", "90°", "360°", "0°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Hai đường chéo của hình chữ nhật thì...",
+    "options": ["Bằng nhau và cắt nhau tại trung điểm", "Vuông góc với nhau", "Không bằng nhau", "Song song"],
+    "correctAnswer": "Bằng nhau và cắt nhau tại trung điểm"
+  },
+  {
+    "question": "2 yến 5 kg = ... kg.",
+    "options": ["25", "205", "250", "7"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Kết quả của phép tính 100 000 : 25 là:",
+    "options": ["4000", "400", "40", "40000"],
+    "correctAnswer": "4000"
+  },
+  {
+    "question": "Tính nhanh: 25 x 19 x 4",
+    "options": ["1900", "190", "100", "2000"],
+    "correctAnswer": "1900"
+  },
+  {
+    "question": "Một số chia cho 10 được thương là 123 và số dư là 4. Số đó là:",
+    "options": ["1234", "1230", "123.4", "127"],
+    "correctAnswer": "1234"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số cây 3 lớp trồng: 4A(30), 4B(35), 4C(25). Trung bình mỗi lớp trồng được bao nhiêu cây?",
+    "options": ["30 cây", "90 cây", "35 cây", "25 cây"],
+    "correctAnswer": "30 cây"
+  },
+  {
+    "question": "Trong hộp có 1 bi xanh, 1 bi đỏ, 10 bi vàng. Lấy 1 bi. Khả năng lấy được bi màu gì là cao nhất?",
+    "options": ["Màu vàng", "Màu xanh", "Màu đỏ", "Như nhau"],
+    "correctAnswer": "Màu vàng"
+  },
+  {
+    "question": "Phân số nào bằng phân số 3/5?",
+    "options": ["18/30", "15/20", "12/15", "9/20"],
+    "correctAnswer": "18/30"
+  },
+  {
+    "question": "Tính: 2/3 + 1/6",
+    "options": ["5/6", "3/9", "1/2", "1"],
+    "correctAnswer": "5/6"
+  },
+  {
+    "question": "Tính: 3/2 - 1/4",
+    "options": ["5/4", "2/2", "1", "1/2"],
+    "correctAnswer": "5/4"
+  },
+  {
+    "question": "Tính: 3 x 4/9",
+    "options": ["12/9 (hoặc 4/3)", "12/27", "7/9", "1"],
+    "correctAnswer": "12/9 (hoặc 4/3)"
+  },
+  {
+    "question": "Tính: 1/5 : 1/10",
+    "options": ["2", "10/5", "Cả A và B đều đúng", "1/50"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một sân trường có 500 học sinh, trong đó số học sinh nữ chiếm 3/5. Hỏi có bao nhiêu học sinh nam?",
+    "options": ["200 học sinh", "300 học sinh", "250 học sinh", "150 học sinh"],
+    "correctAnswer": "200 học sinh"
+  },
+  {
+    "question": "Giá trị của chữ số 1 trong số 12 345 678 là:",
+    "options": ["10 000 000", "1 000 000", "100 000", "1"],
+    "correctAnswer": "10 000 000"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 60cm, chiều dài hơn chiều rộng 10cm. Diện tích hình chữ nhật đó là:",
+    "options": ["200 cm²", "100 cm²", "300 cm²", "150 cm²"],
+    "correctAnswer": "200 cm²"
+  },
+  {
+    "question": "Góc có số đo 90° là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Hình bình hành có một góc vuông là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Hình thang"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "500 năm bằng bao nhiêu thế kỉ?",
+    "options": ["5 thế kỉ", "50 thế kỉ", "0.5 thế kỉ", "500 thế kỉ"],
+    "correctAnswer": "5 thế kỉ"
+  },
+  {
+    "question": "Tìm thương của 1212 và 12.",
+    "options": ["101", "11", "100", "120"],
+    "correctAnswer": "101"
+  },
+  {
+    "question": "Tính nhanh: 98 x 15",
+    "options": ["1470", "1500", "1450", "1480"],
+    "correctAnswer": "1470"
+  },
+  {
+    "question": "Trung bình cộng của 1, 2, 3, 4, 5 là:",
+    "options": ["3", "15", "5", "2.5"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Dãy số liệu về số cây mỗi lớp trồng: 35, 40, 32, 35, 38. Tổng số cây 5 lớp trồng được là:",
+    "options": ["180 cây", "170 cây", "190 cây", "200 cây"],
+    "correctAnswer": "180 cây"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'xuất hiện mặt có số chấm là một số lẻ' có thể là những mặt nào?",
+    "options": ["1, 3, 5", "2, 4, 6", "Chỉ 1", "Chỉ 5"],
+    "correctAnswer": "1, 3, 5"
+  },
+  {
+    "question": "Phân số 10/1 bằng số tự nhiên nào?",
+    "options": ["10", "1", "11", "Không có"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tính: 4/5 + 1/10",
+    "options": ["9/10", "5/15", "1/2", "1"],
+    "correctAnswer": "9/10"
+  },
+  {
+    "question": "Tính: 7/8 - 1/2",
+    "options": ["3/8", "6/6", "1", "6/8"],
+    "correctAnswer": "3/8"
+  },
+  {
+    "question": "Tính: 2/9 x 3",
+    "options": ["6/9 (hoặc 2/3)", "6/27", "5/9", "1"],
+    "correctAnswer": "6/9 (hoặc 2/3)"
+  },
+  {
+    "question": "Tính: 4 : 2/3",
+    "options": ["6", "8/3", "12/2", "1"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một số biết 1/5 của nó là 20. Số đó là:",
+    "options": ["100", "4", "25", "15"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số bé nhất có 6 chữ số khác nhau là:",
+    "options": ["102 345", "100 000", "111 111", "123 450"],
+    "correctAnswer": "102 345"
+  },
+  {
+    "question": "Tìm y, biết: 1 200 000 - y = 800 000",
+    "options": ["y = 400 000", "y = 2 000 000", "y = 1 000 000", "y = 800 000"],
+    "correctAnswer": "y = 400 000"
+  },
+  {
+    "question": "Góc có số đo 180° là góc gì?",
+    "options": ["Góc bẹt", "Góc tù", "Góc vuông", "Góc tròn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Hai đường chéo của hình thoi thì...",
+    "options": ["Vuông góc và cắt nhau tại trung điểm", "Bằng nhau", "Song song", "Không cắt nhau"],
+    "correctAnswer": "Vuông góc và cắt nhau tại trung điểm"
+  },
+  {
+    "question": "3000 kg bằng bao nhiêu tấn?",
+    "options": ["3 tấn", "30 tấn", "0.3 tấn", "300 tấn"],
+    "correctAnswer": "3 tấn"
+  },
+  {
+    "question": "Kết quả của phép tính 2020 x 25 là:",
+    "options": ["50500", "50000", "50250", "50400"],
+    "correctAnswer": "50500"
+  },
+  {
+    "question": "Một số nhân với 100 rồi cộng 100 thì được 2100. Số đó là:",
+    "options": ["20", "200", "21", "22"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Trung bình cộng của 10 và 20 là:",
+    "options": ["15", "30", "10", "20"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số con vật nuôi: Gà (20), Vịt (15), Ngan (10). Số gà nhiều hơn tổng số vịt và ngan là bao nhiêu?",
+    "options": ["Nhiều hơn 5 con", "Ít hơn 5 con", "Bằng nhau", "Nhiều hơn 15 con"],
+    "correctAnswer": "Ít hơn 5 con"
+  },
+  {
+    "question": "Trong một hộp có 5 bi xanh, 10 bi đỏ. Tỉ số của số bi xanh so với tổng số bi là:",
+    "options": ["5/15 (hoặc 1/3)", "5/10", "10/15", "1/2"],
+    "correctAnswer": "5/15 (hoặc 1/3)"
+  },
+  {
+    "question": "Rút gọn phân số 45/105.",
+    "options": ["3/7", "5/9", "9/21", "15/35"],
+    "correctAnswer": "3/7"
+  },
+  {
+    "question": "Tính: 1/2 + 1/3 + 1/6",
+    "options": ["1", "3/11", "6/6", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tính: 2 - 1/2 - 1/3",
+    "options": ["7/6", "1", "5/6", "1/6"],
+    "correctAnswer": "7/6"
+  },
+  {
+    "question": "Tính: 1/2 x 2/3 x 3/4 x 4/5",
+    "options": ["1/5", "1", "24/120", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tính: 1/2 : 1/3 x 3/4",
+    "options": ["9/8", "1/8", "1", "3/2"],
+    "correctAnswer": "9/8"
+  },
+  {
+    "question": "Một mảnh đất hình chữ nhật có chiều dài 20m, chiều rộng 15m. 2/5 diện tích mảnh đất dùng để trồng rau. Diện tích trồng rau là:",
+    "options": ["120 m²", "300 m²", "100 m²", "150 m²"],
+    "correctAnswer": "120 m²"
+  },
+  {
+    "question": "Số 'Mười triệu không trăm mười nghìn không trăm linh một' được viết là:",
+    "options": ["10 010 001", "10 100 001", "10 001 001", "1 010 001"],
+    "correctAnswer": "10 010 001"
+  },
+  {
+    "question": "Hiệu của số lớn nhất có 6 chữ số và số lớn nhất có 5 chữ số là:",
+    "options": ["900 000", "1", "899 999", "900 001"],
+    "correctAnswer": "900 000"
+  },
+  {
+    "question": "Góc có số đo 1 độ là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Hình thoi có hai đường chéo bằng nhau là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Vẫn là hình thoi"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "2 giờ 30 phút bằng bao nhiêu phút?",
+    "options": ["150 phút", "120 phút", "90 phút", "230 phút"],
+    "correctAnswer": "150 phút"
+  },
+  {
+    "question": "Kết quả của phép tính 123 x 101 là:",
+    "options": ["12423", "12323", "12300", "12400"],
+    "correctAnswer": "12423"
+  },
+  {
+    "question": "Một số chia cho 25 dư 24. Số dư lớn nhất có thể của phép chia đó là bao nhiêu?",
+    "options": ["24", "25", "23", "Không xác định"],
+    "correctAnswer": "24"
+  },
+  {
+    "question": "Trung bình cộng của ba số là 20. Biết tổng của hai số đầu là 35. Số thứ ba là:",
+    "options": ["25", "60", "15", "30"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Biểu đồ cột cho thấy số lượng 3 loại sách: Toán(50), TV(60), TNXH(40). Số sách TV nhiều hơn tổng số sách TNXH và Toán là bao nhiêu?",
+    "options": ["Nhiều hơn 30 quyển", "Ít hơn 30 quyển", "Bằng nhau", "Ít hơn 20 quyển"],
+    "correctAnswer": "Ít hơn 30 quyển"
+  },
+  {
+    "question": "Trong một hộp có 20 viên bi, trong đó có 5 viên bi xanh. Phân số chỉ số bi không phải màu xanh là:",
+    "options": ["15/20 (hoặc 3/4)", "5/20", "1/4", "4/5"],
+    "correctAnswer": "15/20 (hoặc 3/4)"
+  },
+  {
+    "question": "So sánh 1/2 và 2/4.",
+    "options": ["1/2 = 2/4", "1/2 > 2/4", "1/2 < 2/4", "Không so sánh được"],
+    "correctAnswer": "1/2 = 2/4"
+  },
+  {
+    "question": "Tính: 3/5 + 1/2",
+    "options": ["11/10", "4/7", "1", "1/2"],
+    "correctAnswer": "11/10"
+  },
+  {
+    "question": "Tính: 1/2 - 1/5",
+    "options": ["3/10", "1/3", "1", "1/10"],
+    "correctAnswer": "3/10"
+  },
+  {
+    "question": "Tính: 5/9 x 9/5",
+    "options": ["1", "45/45", "Cả A và B đều đúng", "0"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 7 : 1/7",
+    "options": ["49", "1", "7/7", "1/49"],
+    "correctAnswer": "49"
+  },
+  {
+    "question": "Một số biết 1/10 của nó bằng 100. Số đó là:",
+    "options": ["1000", "10", "1", "100"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Số liền sau của số lớn nhất có 6 chữ số là:",
+    "options": ["1 000 000", "999 998", "999 999", "1 000 001"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Tính nhanh: 123 + 456 + 765 + 877 + 544 + 235",
+    "options": ["3000", "2000", "2500", "3500"],
+    "correctAnswer": "3000"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 4 giờ đúng là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo vuông góc là hình gì?",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "1/4 thế kỉ bằng bao nhiêu năm?",
+    "options": ["25 năm", "20 năm", "50 năm", "10 năm"],
+    "correctAnswer": "25 năm"
+  },
+  {
+    "question": "Kết quả của phép tính 1111 x 11 là:",
+    "options": ["12221", "11111", "12121", "12211"],
+    "correctAnswer": "12221"
+  },
+  {
+    "question": "Một số chia cho 100 dư 1. Số đó có thể là số nào?",
+    "options": ["101", "100", "99", "1"],
+    "correctAnswer": "101"
+  },
+  {
+    "question": "Trung bình cộng của hai số là 200. Hiệu hai số là 100. Tìm số bé.",
+    "options": ["150", "250", "100", "300"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Gieo một con xúc xắc 60 lần. Mặt 1 chấm xuất hiện 10 lần, mặt 2 chấm 12 lần, mặt 3 chấm 8 lần, mặt 4 chấm 11 lần, mặt 5 chấm 9 lần. Hỏi mặt 6 chấm xuất hiện bao nhiêu lần?",
+    "options": ["10 lần", "12 lần", "8 lần", "11 lần"],
+    "correctAnswer": "10 lần"
+  },
+  {
+    "question": "Phân số 1 bằng phân số nào dưới đây?",
+    "options": ["100/100", "99/100", "100/99", "1/100"],
+    "correctAnswer": "100/100"
+  },
+  {
+    "question": "Tính: 1/8 + 3/8 + 5/8",
+    "options": ["9/8", "9/24", "1", "8/9"],
+    "correctAnswer": "9/8"
+  },
+  {
+    "question": "Tính: 3/4 - 1/2 + 1/4",
+    "options": ["1/2", "1", "0", "2/4"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Tính: 2/3 x 3/4 x 4/5",
+    "options": ["2/5", "1", "24/60", "Cả A và C đều đúng"],
+    "correctAnswer": "Cả A và C đều đúng"
+  },
+  {
+    "question": "Tính: 6 : 2/3",
+    "options": ["9", "4", "12/3", "1"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một số biết 5/4 của nó là 20. Số đó là:",
+    "options": ["16", "25", "100", "20"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Số 999 999 999 là số liền trước của số nào?",
+    "options": ["1 000 000 000 (Một tỉ)", "999 999 998", "10 000 000 000", "999 999 990"],
+    "correctAnswer": "1 000 000 000 (Một tỉ)"
+  },
+  {
+    "question": "Tính nhanh: 1+2-3-4+5+6-7-8+...+97+98-99-100",
+    "options": ["-100", "100", "0", "-50"],
+    "correctAnswer": "-100"
+  },
+  {
+    "question": "Góc có số đo 360° là góc gì?",
+    "options": ["Góc đầy (tròn)", "Góc bẹt", "Góc tù", "Không có tên"],
+    "correctAnswer": "Góc đầy (tròn)"
+  },
+  {
+    "question": "Một hình thoi có chu vi bằng chu vi hình vuông cạnh 10cm. Cạnh hình thoi là:",
+    "options": ["10 cm", "40 cm", "20 cm", "5 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "1/2 của 1/2 là bao nhiêu?",
+    "options": ["1/4", "1", "1/2", "2"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Kết quả của phép tính 1234 x 1001 là:",
+    "options": ["1235234", "12341234", "1234000", "1234234"],
+    "correctAnswer": "1235234"
+  },
+  {
+    "question": "Một số chia hết cho 2 và 5 thì có chữ số tận cùng là:",
+    "options": ["0", "2", "5", "Không có"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Trung bình cộng của hai số là 1/2. Tổng của hai số đó là:",
+    "options": ["1", "1/4", "2", "1/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Một vòng quay có 3 màu Xanh, Đỏ, Vàng. Quay 30 lần, màu Xanh xuất hiện 10 lần, màu Đỏ 12 lần. Hỏi màu Vàng xuất hiện bao nhiêu lần?",
+    "options": ["8 lần", "10 lần", "12 lần", "22 lần"],
+    "correctAnswer": "8 lần"
+  },
+  {
+    "question": "Phân số 1/1000 bé hơn phân số nào sau đây?",
+    "options": ["1/100", "1/1001", "1/2000", "Không có"],
+    "correctAnswer": "1/100"
+  },
+  {
+    "question": "Tính: 1/2 + 1/4 + 1/8 + ... + 1/128",
+    "options": ["127/128", "1", "128/128", "1/2"],
+    "correctAnswer": "127/128"
+  },
+  {
+    "question": "Tìm x, biết 1 - x = 1/2 : 2",
+    "options": ["x = 3/4", "x = 1/4", "x = 1/2", "x = 1"],
+    "correctAnswer": "x = 3/4"
+  },
+  {
+    "question": "Tính: 1/1x2 + 1/2x3 + 1/3x4",
+    "options": ["3/4", "1/4", "1", "2/3"],
+    "correctAnswer": "3/4"
+  },
+  {
+    "question": "Một số biết 1/3 của nó bằng 1/2. Số đó là:",
+    "options": ["3/2", "2/3", "1/6", "1"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Một khu đất hình chữ nhật có chiều dài 1/4 km, chiều rộng 1/5 km. Diện tích khu đất đó là:",
+    "options": ["1/20 km²", "9/20 km", "1", "2/9 km²"],
+    "correctAnswer": "1/20 km²"
+  }
+]
+
