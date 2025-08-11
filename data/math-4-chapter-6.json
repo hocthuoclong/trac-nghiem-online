@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Hai đường thẳng vuông góc với nhau tạo thành mấy góc vuông?",
+    "options": ["4 góc vuông", "1 góc vuông", "2 góc vuông", "Không có góc vuông nào"],
+    "correctAnswer": "4 góc vuông"
+  },
+  {
+    "question": "Để kiểm tra hai đường thẳng có vuông góc với nhau hay không, ta dùng dụng cụ nào?",
+    "options": ["Ê-ke", "Com-pa", "Thước kẻ", "Thước đo độ"],
+    "correctAnswer": "Ê-ke"
+  },
+  {
+    "question": "Hai đường thẳng song song là hai đường thẳng...",
+    "options": ["Không bao giờ cắt nhau", "Cắt nhau tại một điểm", "Vuông góc với nhau", "Trùng nhau"],
+    "correctAnswer": "Không bao giờ cắt nhau"
+  },
+  {
+    "question": "Hình nào sau đây có các cặp cạnh đối diện song song và bằng nhau?",
+    "options": ["Hình bình hành", "Hình tam giác", "Hình thang", "Hình tròn"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Hình thoi có đặc điểm gì?",
+    "options": ["Bốn cạnh bằng nhau", "Bốn góc bằng nhau", "Hai đường chéo bằng nhau", "Chỉ có hai cạnh song song"],
+    "correctAnswer": "Bốn cạnh bằng nhau"
+  },
+  {
+    "question": "Trong hình chữ nhật, hai cạnh kề nhau thì...",
+    "options": ["Vuông góc với nhau", "Song song với nhau", "Bằng nhau", "Cắt nhau nhưng không vuông góc"],
+    "correctAnswer": "Vuông góc với nhau"
+  },
+  {
+    "question": "Trong hình chữ nhật, hai cạnh đối diện thì...",
+    "options": ["Song song và bằng nhau", "Vuông góc với nhau", "Chỉ song song", "Chỉ bằng nhau"],
+    "correctAnswer": "Song song và bằng nhau"
+  },
+  {
+    "question": "Để vẽ hai đường thẳng song song, ta có thể vẽ chúng cùng vuông góc với đường thẳng thứ mấy?",
+    "options": ["Đường thẳng thứ ba", "Đường thẳng thứ nhất", "Đường thẳng thứ hai", "Không cần đường thẳng nào"],
+    "correctAnswer": "Đường thẳng thứ ba"
+  },
+  {
+    "question": "Hình bình hành có mấy cặp cạnh song song?",
+    "options": ["2 cặp", "1 cặp", "4 cặp", "Không có cặp nào"],
+    "correctAnswer": "2 cặp"
+  },
+  {
+    "question": "Hai đường chéo của hình thoi có tính chất gì?",
+    "options": ["Vuông góc với nhau", "Bằng nhau", "Song song với nhau", "Không cắt nhau"],
+    "correctAnswer": "Vuông góc với nhau"
+  },
+  {
+    "question": "Qua một điểm nằm ngoài một đường thẳng, ta có thể vẽ được mấy đường thẳng song song với đường thẳng đó?",
+    "options": ["Một và chỉ một", "Hai", "Vô số", "Không có đường nào"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Qua một điểm, ta có thể vẽ được bao nhiêu đường thẳng vuông góc với một đường thẳng cho trước?",
+    "options": ["Một và chỉ một", "Hai", "Vô số", "Không có đường nào"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Hình vuông có phải là một dạng đặc biệt của hình thoi không?",
+    "options": ["Có, vì nó có 4 cạnh bằng nhau", "Không, vì các góc của nó vuông", "Có, vì nó có 2 đường chéo bằng nhau", "Không, vì nó không có cạnh song song"],
+    "correctAnswer": "Có, vì nó có 4 cạnh bằng nhau"
+  },
+  {
+    "question": "Hình vuông có phải là một dạng đặc biệt của hình bình hành không?",
+    "options": ["Có", "Không", "Chỉ đôi khi", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Các góc đối của hình bình hành có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ bằng nhau ở hình thoi", "Chỉ bằng nhau ở hình chữ nhật"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì chúng...",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì chúng...",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Trong hình thoi, các cạnh đối có song song với nhau không?",
+    "options": ["Có", "Không", "Chỉ một cặp", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Chu vi của hình bình hành có cạnh 5cm và 7cm là:",
+    "options": ["24 cm", "35 cm", "12 cm", "14 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Chu vi của hình thoi có cạnh 6cm là:",
+    "options": ["24 cm", "12 cm", "36 cm", "18 cm"],
+    "correctAnswer": "24 cm"
+  },
+  {
+    "question": "Hai đường thẳng cắt nhau nhưng không vuông góc thì tạo thành mấy góc nhọn và mấy góc tù?",
+    "options": ["2 góc nhọn, 2 góc tù", "4 góc nhọn", "4 góc tù", "4 góc vuông"],
+    "correctAnswer": "2 góc nhọn, 2 góc tù"
+  },
+  {
+    "question": "Hình ảnh nào sau đây gợi lên hai đường thẳng song song?",
+    "options": ["Hai cạnh đối của quyển vở", "Hai kim đồng hồ lúc 3 giờ", "Hai cạnh của một cái ê-ke", "Hai đường chéo của hình thoi"],
+    "correctAnswer": "Hai cạnh đối của quyển vở"
+  },
+  {
+    "question": "Hình ảnh nào sau đây gợi lên hai đường thẳng vuông góc?",
+    "options": ["Góc của một khung cửa sổ", "Hai đường ray xe lửa", "Hai cạnh đối của thước kẻ", "Hai dây đàn song song"],
+    "correctAnswer": "Góc của một khung cửa sổ"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo bằng nhau thì nó là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Vẫn là hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình bình hành có một góc vuông thì nó là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Vẫn là hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Hình thoi có một góc vuông thì nó là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Vẫn là hình thoi"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Công thức tính chu vi hình bình hành là:",
+    "options": ["(dài + rộng) x 2", "cạnh x 4", "dài x rộng", "(đáy lớn + đáy bé) x chiều cao : 2"],
+    "correctAnswer": "(dài + rộng) x 2"
+  },
+  {
+    "question": "Công thức tính chu vi hình thoi là:",
+    "options": ["cạnh x 4", "(dài + rộng) x 2", "đường chéo 1 x đường chéo 2 : 2", "cạnh x cạnh"],
+    "correctAnswer": "cạnh x 4"
+  },
+  {
+    "question": "Để vẽ đường thẳng đi qua điểm A và vuông góc với đường thẳng d, ta dùng dụng cụ gì?",
+    "options": ["Ê-ke và thước thẳng", "Chỉ com-pa", "Chỉ thước đo độ", "Chỉ thước thẳng"],
+    "correctAnswer": "Ê-ke và thước thẳng"
+  },
+  {
+    "question": "Hai đường thẳng song song có bao nhiêu điểm chung?",
+    "options": ["0", "1", "2", "Vô số"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Các góc kề một cạnh của hình bình hành có tổng số đo bằng bao nhiêu?",
+    "options": ["180°", "90°", "360°", "100°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Nếu một đường thẳng cắt hai đường thẳng song song thì các góc so le trong có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ đôi khi", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Nếu một đường thẳng cắt hai đường thẳng song song thì các góc đồng vị có bằng nhau không?",
+    "options": ["Có", "Không", "Chỉ đôi khi", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Trong hình thoi ABCD, cạnh AB song song với cạnh nào?",
+    "options": ["Cạnh DC", "Cạnh BC", "Cạnh AD", "Cạnh AC"],
+    "correctAnswer": "Cạnh DC"
+  },
+  {
+    "question": "Trong hình bình hành MNPQ, cạnh MN bằng cạnh nào?",
+    "options": ["Cạnh PQ", "Cạnh NP", "Cạnh MQ", "Cạnh MP"],
+    "correctAnswer": "Cạnh PQ"
+  },
+  {
+    "question": "Một mảnh đất hình bình hành có độ dài một cạnh là 25m và cạnh kề với nó là 15m. Chu vi mảnh đất là:",
+    "options": ["80 m", "40 m", "375 m", "50 m"],
+    "correctAnswer": "80 m"
+  },
+  {
+    "question": "Một khung ảnh hình thoi có cạnh 20cm. Chu vi khung ảnh đó là:",
+    "options": ["80 cm", "40 cm", "400 cm", "100 cm"],
+    "correctAnswer": "80 cm"
+  },
+  {
+    "question": "Hai đường chéo của hình bình hành có tính chất gì?",
+    "options": ["Cắt nhau tại trung điểm của mỗi đường", "Vuông góc với nhau", "Bằng nhau", "Song song với nhau"],
+    "correctAnswer": "Cắt nhau tại trung điểm của mỗi đường"
+  },
+  {
+    "question": "Hình nào vừa là hình bình hành, vừa là hình thoi?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình thang cân", "Hình tam giác đều"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Hai đường thẳng trùng nhau có phải là hai đường thẳng song song không?",
+    "options": ["Không", "Có", "Tùy trường hợp", "Không xác định"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Cho đường thẳng a song song với đường thẳng b. Đường thẳng c vuông góc với a. Hỏi c có vuông góc với b không?",
+    "options": ["Có", "Không", "Song song", "Trùng nhau"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Trong hình bình hành, hai góc đối bằng nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng với hình chữ nhật", "Chỉ đúng với hình thoi"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Trong hình thoi, bốn cạnh bằng nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng với hình vuông", "Chỉ đúng khi có góc vuông"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Một hình bình hành có thể có 3 góc nhọn không?",
+    "options": ["Không", "Có", "Chỉ có 2 góc nhọn", "Chỉ có 1 góc nhọn"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Một hình bình hành có thể có 3 góc tù không?",
+    "options": ["Không", "Có", "Chỉ có 2 góc tù", "Chỉ có 1 góc tù"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "Hai đường chéo của hình chữ nhật có vuông góc với nhau không?",
+    "options": ["Không, trừ khi đó là hình vuông", "Có, luôn luôn", "Không bao giờ", "Chỉ vuông góc ở tâm"],
+    "correctAnswer": "Không, trừ khi đó là hình vuông"
+  },
+  {
+    "question": "Vẽ hai đường thẳng song song cách nhau 3cm. Đây là bài toán thuộc dạng nào?",
+    "options": ["Thực hành vẽ hai đường thẳng song song", "Thực hành vẽ hai đường thẳng vuông góc", "Tính chu vi", "Tính diện tích"],
+    "correctAnswer": "Thực hành vẽ hai đường thẳng song song"
+  },
+  {
+    "question": "Hình bình hành có hai cạnh kề bằng nhau thì nó là hình gì?",
+    "options": ["Hình thoi", "Hình chữ nhật", "Hình vuông", "Vẫn là hình bình hành"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Trong các biển báo giao thông, biển nào có dạng hình thoi?",
+    "options": ["Biển báo chỉ dẫn hướng đi trên đường ưu tiên", "Biển báo cấm đi ngược chiều", "Biển báo dừng lại", "Biển báo khu dân cư"],
+    "correctAnswer": "Biển báo chỉ dẫn hướng đi trên đường ưu tiên"
+  },
+  {
+    "question": "Để vẽ một đường thẳng vuông góc với một đoạn thẳng tại trung điểm của nó, ta cần làm gì trước tiên?",
+    "options": ["Xác định trung điểm của đoạn thẳng đó", "Dùng ê-ke vẽ ngay", "Dùng com-pa vẽ ngay", "Đo độ dài đoạn thẳng"],
+    "correctAnswer": "Xác định trung điểm của đoạn thẳng đó"
+  },
+  {
+    "question": "Hai đường thẳng không có điểm chung và cùng nằm trên một mặt phẳng thì...",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Chéo nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Hình thoi có hai đường chéo bằng nhau thì nó là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Vẫn là hình thoi"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Tổng các góc trong của một hình bình hành là bao nhiêu độ?",
+    "options": ["360°", "180°", "270°", "540°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Tổng các góc trong của một hình thoi là bao nhiêu độ?",
+    "options": ["360°", "180°", "270°", "540°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Một hình bình hành có một góc bằng 60°. Góc kề với nó bằng bao nhiêu độ?",
+    "options": ["120°", "60°", "90°", "30°"],
+    "correctAnswer": "120°"
+  },
+  {
+    "question": "Một hình bình hành có một góc bằng 60°. Góc đối với nó bằng bao nhiêu độ?",
+    "options": ["60°", "120°", "90°", "30°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Hai đường thẳng vuông góc là trường hợp đặc biệt của hai đường thẳng cắt nhau. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Các song cửa sổ là hình ảnh của các đường thẳng...",
+    "options": ["Song song", "Vuông góc", "Cắt nhau", "Chéo nhau"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Trong hình thoi ABCD, đường chéo AC vuông góc với đường chéo nào?",
+    "options": ["Đường chéo BD", "Cạnh AB", "Cạnh BC", "Không có"],
+    "correctAnswer": "Đường chéo BD"
+  },
+  {
+    "question": "Hình chữ nhật có phải là hình bình hành không?",
+    "options": ["Có", "Không", "Chỉ khi nó là hình vuông", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hình thoi có phải là hình bình hành không?",
+    "options": ["Có", "Không", "Chỉ khi nó là hình vuông", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một tứ giác có hai cặp cạnh đối song song là hình gì?",
+    "options": ["Hình bình hành", "Hình thang", "Hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Một tứ giác có bốn cạnh bằng nhau là hình gì?",
+    "options": ["Hình thoi", "Hình bình hành", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Để vẽ đường thẳng a song song với đường thẳng b, ta có thể dùng dụng cụ nào?",
+    "options": ["Ê-ke và thước thẳng", "Chỉ com-pa", "Chỉ thước đo độ", "Chỉ thước kẻ"],
+    "correctAnswer": "Ê-ke và thước thẳng"
+  },
+  {
+    "question": "Khoảng cách giữa hai đường thẳng song song là...",
+    "options": ["Không đổi", "Thay đổi", "Bằng 0", "Luôn tăng"],
+    "correctAnswer": "Không đổi"
+  },
+  {
+    "question": "Một cái thang dựa vào tường, các bậc thang thường được thiết kế... với hai thanh dọc của thang.",
+    "options": ["Song song", "Vuông góc", "Cắt nhau", "Không liên quan"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Hai đường thẳng cùng vuông góc với một đường thẳng thì song song với nhau. Đây là một cách để...",
+    "options": ["Vẽ hai đường thẳng song song", "Vẽ hai đường thẳng vuông góc", "Kiểm tra hai đường thẳng cắt nhau", "Đo góc"],
+    "correctAnswer": "Vẽ hai đường thẳng song song"
+  },
+  {
+    "question": "Hình bình hành có chu vi 40cm, một cạnh dài 12cm. Cạnh kề với nó dài bao nhiêu?",
+    "options": ["8 cm", "28 cm", "20 cm", "16 cm"],
+    "correctAnswer": "8 cm"
+  },
+  {
+    "question": "Hình thoi có chu vi 36cm. Cạnh của hình thoi đó dài bao nhiêu?",
+    "options": ["9 cm", "18 cm", "6 cm", "12 cm"],
+    "correctAnswer": "9 cm"
+  },
+  {
+    "question": "Hai đường chéo của hình thoi cắt nhau tại trung điểm của mỗi đường. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Chỉ đúng với hình vuông", "Không xác định"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Một tứ giác có hai đường chéo vuông góc với nhau là hình gì?",
+    "options": ["Có thể là hình thoi", "Chắc chắn là hình vuông", "Chắc chắn là hình chữ nhật", "Chắc chắn là hình bình hành"],
+    "correctAnswer": "Có thể là hình thoi"
+  },
+  {
+    "question": "Trong các hình đã học, hình nào có 4 trục đối xứng?",
+    "options": ["Hình vuông", "Hình thoi", "Hình chữ nhật", "Hình bình hành"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Trong các hình đã học, hình nào có 2 trục đối xứng?",
+    "options": ["Hình chữ nhật và hình thoi", "Chỉ hình chữ nhật", "Chỉ hình thoi", "Hình bình hành"],
+    "correctAnswer": "Hình chữ nhật và hình thoi"
+  },
+  {
+    "question": "Đường thẳng và đoạn thẳng có gì khác nhau?",
+    "options": ["Đường thẳng không bị giới hạn ở hai phía, đoạn thẳng thì có", "Đoạn thẳng không bị giới hạn", "Chúng giống hệt nhau", "Đường thẳng là một phần của đoạn thẳng"],
+    "correctAnswer": "Đường thẳng không bị giới hạn ở hai phía, đoạn thẳng thì có"
+  },
+  {
+    "question": "Cho hình bình hành ABCD. Góc A = 70°. Góc C bằng bao nhiêu?",
+    "options": ["70°", "110°", "90°", "20°"],
+    "correctAnswer": "70°"
+  },
+  {
+    "question": "Cho hình bình hành ABCD. Góc A = 70°. Góc B bằng bao nhiêu?",
+    "options": ["110°", "70°", "90°", "20°"],
+    "correctAnswer": "110°"
+  },
+  {
+    "question": "Nếu hai đường thẳng không song song thì chúng sẽ...",
+    "options": ["Cắt nhau", "Vuông góc", "Trùng nhau", "Không có điểm chung"],
+    "correctAnswer": "Cắt nhau"
+  },
+  {
+    "question": "Cạnh của một ô vuông trong vở ô li thường... với lề vở.",
+    "options": ["Song song hoặc vuông góc", "Chỉ song song", "Chỉ vuông góc", "Cắt nhau"],
+    "correctAnswer": "Song song hoặc vuông góc"
+  },
+  {
+    "question": "Để vẽ một hình thoi, ta có thể vẽ hai đường chéo...",
+    "options": ["Vuông góc và cắt nhau tại trung điểm", "Song song và bằng nhau", "Bằng nhau và cắt nhau tại trung điểm", "Vuông góc và bằng nhau"],
+    "correctAnswer": "Vuông góc và cắt nhau tại trung điểm"
+  },
+  {
+    "question": "Một hình bình hành cũng là một hình thang. Đúng hay sai?",
+    "options": ["Đúng, vì nó có một cặp cạnh đối song song", "Sai, vì nó có hai cặp cạnh đối song song", "Chỉ đúng khi nó là hình chữ nhật", "Không xác định"],
+    "correctAnswer": "Đúng, vì nó có một cặp cạnh đối song song"
+  },
+  {
+    "question": "Một hình thoi có các góc không vuông. Nó có phải là hình bình hành không?",
+    "options": ["Có", "Không", "Chỉ khi các cạnh bằng nhau", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Hai đường thẳng vuông góc chia mặt phẳng thành mấy phần?",
+    "options": ["4 phần", "2 phần", "3 phần", "Vô số phần"],
+    "correctAnswer": "4 phần"
+  },
+  {
+    "question": "Hai đường thẳng song song chia mặt phẳng thành mấy phần?",
+    "options": ["3 phần", "2 phần", "4 phần", "Vô số phần"],
+    "correctAnswer": "3 phần"
+  },
+  {
+    "question": "Giao điểm của hai đường thẳng là gì?",
+    "options": ["Điểm chung của hai đường thẳng đó", "Đoạn thẳng nối hai đường thẳng", "Góc tạo bởi hai đường thẳng", "Khoảng cách giữa hai đường thẳng"],
+    "correctAnswer": "Điểm chung của hai đường thẳng đó"
+  },
+  {
+    "question": "Một tứ giác có các cạnh đối bằng nhau là hình gì?",
+    "options": ["Hình bình hành", "Hình thang", "Hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Một tứ giác có các góc đối bằng nhau là hình gì?",
+    "options": ["Hình bình hành", "Hình thang cân", "Hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Trong thực tế, mép bàn thường... với chân bàn.",
+    "options": ["Vuông góc", "Song song", "Cắt nhau", "Không liên quan"],
+    "correctAnswer": "Vuông góc"
+  },
+  {
+    "question": "Hai cạnh đối của một hình bình hành thì...",
+    "options": ["Song song và bằng nhau", "Chỉ song song", "Chỉ bằng nhau", "Vuông góc"],
+    "correctAnswer": "Song song và bằng nhau"
+  },
+  {
+    "question": "Một hình thoi có chu vi 40cm. Độ dài cạnh của nó là:",
+    "options": ["10 cm", "20 cm", "5 cm", "8 cm"],
+    "correctAnswer": "10 cm"
+  },
+  {
+    "question": "Một hình bình hành có độ dài hai cạnh là 6cm và 9cm. Chu vi của nó là:",
+    "options": ["30 cm", "15 cm", "54 cm", "21 cm"],
+    "correctAnswer": "30 cm"
+  },
+  {
+    "question": "Để vẽ đường thẳng đi qua điểm M và song song với đường thẳng d, ta có thể vẽ đường thẳng đi qua M và... với một đường thẳng vuông góc với d.",
+    "options": ["Vuông góc", "Song song", "Cắt", "Trùng"],
+    "correctAnswer": "Vuông góc"
+  },
+  {
+    "question": "Tất cả các góc của hình thoi đều bằng nhau. Đúng hay sai?",
+    "options": ["Sai, trừ khi nó là hình vuông", "Đúng", "Luôn luôn sai", "Không xác định"],
+    "correctAnswer": "Sai, trừ khi nó là hình vuông"
+  },
+  {
+    "question": "Tất cả các cạnh của hình bình hành đều bằng nhau. Đúng hay sai?",
+    "options": ["Sai, trừ khi nó là hình thoi", "Đúng", "Luôn luôn sai", "Không xác định"],
+    "correctAnswer": "Sai, trừ khi nó là hình thoi"
+  },
+  {
+    "question": "Hai đường thẳng không cắt nhau thì chúng song song. Mệnh đề này đúng với hai đường thẳng...",
+    "options": ["Cùng nằm trong một mặt phẳng", "Trong không gian", "Bất kỳ", "Chỉ khi chúng vuông góc"],
+    "correctAnswer": "Cùng nằm trong một mặt phẳng"
+  },
+  {
+    "question": "Trong một hình thoi, hai đường chéo có phải là các trục đối xứng không?",
+    "options": ["Có", "Không", "Chỉ một đường", "Chỉ khi là hình vuông"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Trong một hình bình hành không phải là hình thoi hay hình chữ nhật, có bao nhiêu trục đối xứng?",
+    "options": ["0", "1", "2", "4"],
+    "correctAnswer": "0"
+  }
+]
+
