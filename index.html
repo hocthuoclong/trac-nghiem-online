@@ -323,7 +323,7 @@
                 questionFilePath = lastSelections.filePath;
                 userName = lastSelections.userName;
                 testStartTimeString = lastSelections.startTimeString;
-                // Không cần lấy lại gradeName, subjectName vì đã có trong lastSelections
+                // Không cần lấy lại gradeName, subjectName, testName vì đã có trong lastSelections
             } else {
                 const gradeId = gradeSelect.value;
                 const testType = testTypeSelect.value;
@@ -340,16 +340,27 @@
                 const now = new Date();
                 testStartTimeString = `${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')} - Ngày ${now.getDate()}/${now.getMonth() + 1}/${now.getFullYear()}`;
 
-                // Lấy tên lớp và tên môn học
+                // Lấy tên lớp, tên môn học và tên bài kiểm tra
                 const gradeName = gradeSelect.options[gradeSelect.selectedIndex].text;
                 const subjectName = subjectSelect.options[subjectSelect.selectedIndex].text;
+                let testName = '';
+
+                if (testType === 'chapter') {
+                    const fullChapterName = chapterSelect.options[chapterSelect.selectedIndex].text;
+                    // Lấy phần "Chương X" bằng cách tách chuỗi tại dấu ":"
+                    testName = fullChapterName.split(':')[0].trim();
+                } else {
+                    // Lấy tên của loại bài kiểm tra (Giữa kỳ, Cuối kỳ)
+                    testName = testTypeSelect.options[testTypeSelect.selectedIndex].text;
+                }
 
                 lastSelections = { 
                     filePath: questionFilePath,
                     userName: userName,
                     startTimeString: testStartTimeString,
-                    gradeName: gradeName, // Lưu tên lớp
-                    subjectName: subjectName // Lưu tên môn
+                    gradeName: gradeName,
+                    subjectName: subjectName,
+                    testName: testName // Lưu tên bài kiểm tra đã được xử lý
                 };
             }
 
@@ -483,7 +494,7 @@
             }
 
             // Cập nhật tiêu đề kết quả
-            resultTitle.textContent = `Kết quả môn ${lastSelections.subjectName} ${lastSelections.gradeName} của:`;
+            resultTitle.textContent = `Kết quả kiểm tra ${lastSelections.gradeName} ${lastSelections.subjectName} ${lastSelections.testName} của:`;
 
             userNameDisplay.textContent = lastSelections.userName;
             startTimeDisplay.textContent = `Thời gian bắt đầu: ${lastSelections.startTimeString}`;
