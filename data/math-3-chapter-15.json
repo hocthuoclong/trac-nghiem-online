@@ -1,0 +1,423 @@
+[
+  {
+    "question": "Bạn An ghi lại số cây mỗi tổ trồng được như sau: Tổ 1: 5 cây, Tổ 2: 7 cây, Tổ 3: 6 cây. Đây được gọi là gì?",
+    "options": ["Thu thập số liệu", "Tính toán", "Vẽ hình", "Đo lường"],
+    "correctAnswer": "Thu thập số liệu"
+  },
+  {
+    "question": "Cho dãy số liệu: 10, 20, 15, 20, 10. Số 10 xuất hiện mấy lần?",
+    "options": ["2 lần", "1 lần", "3 lần", "4 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Bảng số liệu cho biết số học sinh các lớp: Lớp 3A: 30, Lớp 3B: 32, Lớp 3C: 29. Lớp nào có ít học sinh nhất?",
+    "options": ["Lớp 3C", "Lớp 3A", "Lớp 3B", "Cả 3 lớp bằng nhau"],
+    "correctAnswer": "Lớp 3C"
+  },
+  {
+    "question": "Trong một hộp kín chỉ có các viên bi màu đỏ. Nếu lấy ra một viên bi, sự kiện 'lấy được viên bi màu xanh' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Ngẫu nhiên"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Trong một hộp kín chỉ có các viên bi màu đỏ. Nếu lấy ra một viên bi, sự kiện 'lấy được viên bi màu đỏ' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Trong một hộp kín có cả bi xanh và bi đỏ. Nếu lấy ra một viên bi, sự kiện 'lấy được viên bi màu xanh' là sự kiện gì?",
+    "options": ["Có thể xảy ra", "Chắc chắn xảy ra", "Không thể xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Có thể xảy ra"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có 7 chấm' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Thường xuyên xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho bảng số liệu về số quả trong rổ: Táo: 5 quả, Cam: 8 quả, Xoài: 5 quả. Loại quả nào có số lượng nhiều nhất?",
+    "options": ["Cam", "Táo", "Xoài", "Táo và Xoài"],
+    "correctAnswer": "Cam"
+  },
+  {
+    "question": "Cho bảng số liệu về số quả trong rổ: Táo: 5 quả, Cam: 8 quả, Xoài: 5 quả. Có tất cả bao nhiêu quả trong rổ?",
+    "options": ["18 quả", "13 quả", "10 quả", "20 quả"],
+    "correctAnswer": "18 quả"
+  },
+  {
+    "question": "Bạn Mai ghi chép các con vật nuôi trong nhà: 2 con chó, 3 con mèo, 5 con gà. Mai đang làm công việc gì?",
+    "options": ["Thu thập và phân loại số liệu", "Chơi với thú cưng", "Vẽ tranh", "Làm toán"],
+    "correctAnswer": "Thu thập và phân loại số liệu"
+  },
+  {
+    "question": "Mặt Trời mọc ở đằng Đông. Đây là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Ngày mai trời sẽ mưa. Đây là sự kiện gì?",
+    "options": ["Có thể xảy ra", "Chắc chắn xảy ra", "Không thể xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Có thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu về chiều cao (cm) của 4 bạn: 125, 130, 128, 125. Chiều cao nào được lặp lại?",
+    "options": ["125 cm", "130 cm", "128 cm", "Không có"],
+    "correctAnswer": "125 cm"
+  },
+  {
+    "question": "Bảng số liệu cho thấy số bạn yêu thích các màu: Xanh (10), Đỏ (8), Vàng (12). Màu nào được yêu thích nhất?",
+    "options": ["Vàng", "Xanh", "Đỏ", "Cả 3 màu"],
+    "correctAnswer": "Vàng"
+  },
+  {
+    "question": "Trong một túi có 10 viên kẹo chanh và 2 viên kẹo dâu. Nếu lấy ngẫu nhiên một viên, khả năng lấy được kẹo nào cao hơn?",
+    "options": ["Kẹo chanh", "Kẹo dâu", "Như nhau", "Không xác định"],
+    "correctAnswer": "Kẹo chanh"
+  },
+  {
+    "question": "Khi tung một đồng xu, sự kiện 'đồng xu đứng yên trên cạnh của nó' là sự kiện gì?",
+    "options": ["Rất khó xảy ra (gần như không thể)", "Chắc chắn xảy ra", "Có thể xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Rất khó xảy ra (gần như không thể)"
+  },
+  {
+    "question": "Bạn Lan kiểm đếm số bút trong hộp: 5 bút xanh, 4 bút đỏ, 2 bút đen. Tổng số bút trong hộp là bao nhiêu?",
+    "options": ["11 bút", "9 bút", "6 bút", "10 bút"],
+    "correctAnswer": "11 bút"
+  },
+  {
+    "question": "Từ bảng số liệu: Bút xanh (5), Bút đỏ (4), Bút đen (2). Loại bút nào có số lượng ít nhất?",
+    "options": ["Bút đen", "Bút xanh", "Bút đỏ", "Bằng nhau"],
+    "correctAnswer": "Bút đen"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm nhỏ hơn 7' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Tháng sau có 32 ngày. Đây là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Thường xuyên xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu về cân nặng (kg): 25, 28, 25, 30, 25, 29. Cân nặng 25kg xuất hiện mấy lần?",
+    "options": ["3 lần", "2 lần", "4 lần", "1 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Bảng số liệu về thời tiết trong tuần: Nắng (4 ngày), Mưa (2 ngày), Mây (1 ngày). Loại thời tiết nào chiếm nhiều ngày nhất?",
+    "options": ["Nắng", "Mưa", "Mây", "Bằng nhau"],
+    "correctAnswer": "Nắng"
+  },
+  {
+    "question": "Trong một hộp có 5 viên bi trắng và 5 viên bi đen. Lấy ngẫu nhiên 1 viên. Khả năng lấy được bi trắng và bi đen là:",
+    "options": ["Như nhau", "Lấy bi trắng dễ hơn", "Lấy bi đen dễ hơn", "Không xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Bạn Nam ghi lại số bạn đi học muộn trong tuần: 1, 0, 2, 0, 1. Có mấy ngày không có bạn nào đi học muộn?",
+    "options": ["2 ngày", "1 ngày", "3 ngày", "0 ngày"],
+    "correctAnswer": "2 ngày"
+  },
+  {
+    "question": "Bạn Nam ghi lại số bạn đi học muộn trong tuần: 1, 0, 2, 0, 1. Tổng số lượt bạn đi học muộn trong tuần là:",
+    "options": ["4 lượt", "3 lượt", "2 lượt", "5 lượt"],
+    "correctAnswer": "4 lượt"
+  },
+  {
+    "question": "Một con gà đẻ ra trứng vịt. Đây là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Nếu hôm nay là thứ Hai, thì ngày mai là thứ Ba. Đây là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Ngẫu nhiên"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Cho bảng số liệu về các loại trái cây trong cửa hàng: Cam (20kg), Táo (15kg), Nho (10kg). Cửa hàng có tất cả bao nhiêu ki-lô-gam trái cây?",
+    "options": ["45 kg", "35 kg", "30 kg", "50 kg"],
+    "correctAnswer": "45 kg"
+  },
+  {
+    "question": "Cho bảng số liệu về các loại trái cây trong cửa hàng: Cam (20kg), Táo (15kg), Nho (10kg). Cam nhiều hơn Nho bao nhiêu ki-lô-gam?",
+    "options": ["10 kg", "5 kg", "30 kg", "35 kg"],
+    "correctAnswer": "10 kg"
+  },
+  {
+    "question": "Trong một cuộc thi, bạn có thể thắng hoặc thua. Đây là sự kiện gì?",
+    "options": ["Có thể xảy ra", "Chắc chắn xảy ra", "Không thể xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Có thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu: 1, 2, 3, 4, 5. Dãy này có bao nhiêu số liệu?",
+    "options": ["5", "4", "6", "15"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Bảng số liệu về số học sinh giỏi của 3 lớp 3: 3A(10), 3B(12), 3C(10). Lớp nào có nhiều học sinh giỏi nhất?",
+    "options": ["Lớp 3B", "Lớp 3A", "Lớp 3C", "3A và 3C"],
+    "correctAnswer": "Lớp 3B"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Khả năng mặt 1 chấm xuất hiện và mặt 6 chấm xuất hiện là:",
+    "options": ["Như nhau", "Mặt 1 chấm dễ hơn", "Mặt 6 chấm dễ hơn", "Không xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Bạn An cao hơn bạn Bình. Đây là một...",
+    "options": ["Số liệu", "Phép tính", "Hình học", "Đơn vị đo"],
+    "correctAnswer": "Số liệu"
+  },
+  {
+    "question": "Để biết trong lớp có bao nhiêu bạn nam, bao nhiêu bạn nữ, em sẽ làm gì?",
+    "options": ["Đếm và ghi chép lại", "Đoán", "Hỏi một bạn", "Nhìn xung quanh"],
+    "correctAnswer": "Đếm và ghi chép lại"
+  },
+  {
+    "question": "Trong các sự kiện sau, sự kiện nào là không thể xảy ra?",
+    "options": ["Rút được lá bài cơ từ bộ bài chỉ có lá bích", "Tung đồng xu được mặt sấp", "Gieo xúc xắc được mặt 6 chấm", "Ngày mai có nắng"],
+    "correctAnswer": "Rút được lá bài cơ từ bộ bài chỉ có lá bích"
+  },
+  {
+    "question": "Cho dãy số: 11, 22, 33, 22, 11, 22. Số nào xuất hiện nhiều nhất?",
+    "options": ["22", "11", "33", "Bằng nhau"],
+    "correctAnswer": "22"
+  },
+  {
+    "question": "Bảng số liệu về số lượng bút trong 3 hộp: Hộp 1(12), Hộp 2(10), Hộp 3(15). Hộp 3 nhiều hơn Hộp 2 bao nhiêu cái bút?",
+    "options": ["5 cái", "25 cái", "3 cái", "2 cái"],
+    "correctAnswer": "5 cái"
+  },
+  {
+    "question": "Một vòng quay có 3 màu: xanh, đỏ, vàng, diện tích 3 màu bằng nhau. Sự kiện nào có khả năng xảy ra như nhau?",
+    "options": ["Quay vào màu xanh, đỏ hoặc vàng", "Quay vào màu xanh và đỏ", "Quay vào màu đỏ và vàng", "Không có"],
+    "correctAnswer": "Quay vào màu xanh, đỏ hoặc vàng"
+  },
+  {
+    "question": "Bạn có 2 cái quần và 3 cái áo. Bạn có thể tạo ra mấy bộ quần áo khác nhau?",
+    "options": ["6 bộ", "5 bộ", "2 bộ", "3 bộ"],
+    "correctAnswer": "6 bộ"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm là một số tự nhiên' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu về số tuổi của các anh chị em: 15, 12, 15, 10. Có mấy người 15 tuổi?",
+    "options": ["2 người", "1 người", "3 người", "4 người"],
+    "correctAnswer": "2 người"
+  },
+  {
+    "question": "Bảng số liệu về số cá trong bể: Cá vàng (8), Cá bảy màu (15). Bể có tất cả bao nhiêu con cá?",
+    "options": ["23 con", "7 con", "15 con", "8 con"],
+    "correctAnswer": "23 con"
+  },
+  {
+    "question": "Trong một hộp có 100 bi trắng và 1 bi đen. Lấy ngẫu nhiên 1 viên. Sự kiện nào có khả năng xảy ra cao hơn?",
+    "options": ["Lấy được bi trắng", "Lấy được bi đen", "Như nhau", "Không xác định"],
+    "correctAnswer": "Lấy được bi trắng"
+  },
+  {
+    "question": "Khi bạn đi ngủ, Mặt Trời sẽ lặn. Đây là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Bạn gieo một hạt cam xuống đất, nó sẽ mọc thành cây táo. Đây là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Thường xuyên xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu: 5, 5, 5, 5, 5. Dãy này có mấy số liệu?",
+    "options": ["5", "1", "25", "0"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Bảng số liệu về số bạn tham gia các câu lạc bộ: Cờ vua (15), Võ (20), Nhạc (15). Câu lạc bộ nào có ít thành viên nhất?",
+    "options": ["Cờ vua và Nhạc", "Võ", "Cờ vua", "Nhạc"],
+    "correctAnswer": "Cờ vua và Nhạc"
+  },
+  {
+    "question": "Tung một đồng xu. Khả năng được mặt sấp và mặt ngửa là:",
+    "options": ["Như nhau", "Mặt sấp dễ hơn", "Mặt ngửa dễ hơn", "Không xác định"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Phân loại các loại quả sau: Táo, Cam, Táo, Lê, Táo. Có mấy loại quả khác nhau?",
+    "options": ["3 loại (Táo, Cam, Lê)", "5 loại", "2 loại", "1 loại"],
+    "correctAnswer": "3 loại (Táo, Cam, Lê)"
+  },
+  {
+    "question": "Phân loại các loại quả sau: Táo, Cam, Táo, Lê, Táo. Quả táo xuất hiện mấy lần?",
+    "options": ["3 lần", "2 lần", "1 lần", "5 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm lớn hơn 6' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu về số kẹo mỗi bạn có: 5, 7, 6, 5, 8. Bạn có nhiều kẹo nhất có bao nhiêu cái?",
+    "options": ["8 cái", "5 cái", "7 cái", "6 cái"],
+    "correctAnswer": "8 cái"
+  },
+  {
+    "question": "Bảng số liệu về phương tiện đến trường: Xe đạp (10), Đi bộ (15), Xe buýt (5). Hình thức nào được nhiều bạn sử dụng nhất?",
+    "options": ["Đi bộ", "Xe đạp", "Xe buýt", "Bằng nhau"],
+    "correctAnswer": "Đi bộ"
+  },
+  {
+    "question": "Bảng số liệu về phương tiện đến trường: Xe đạp (10), Đi bộ (15), Xe buýt (5). Có tất cả bao nhiêu bạn được thống kê?",
+    "options": ["30 bạn", "25 bạn", "20 bạn", "35 bạn"],
+    "correctAnswer": "30 bạn"
+  },
+  {
+    "question": "Trong một hộp có 3 bi xanh và 7 bi đỏ. Lấy ngẫu nhiên 1 viên. Khả năng lấy được bi nào thấp hơn?",
+    "options": ["Bi xanh", "Bi đỏ", "Như nhau", "Không xác định"],
+    "correctAnswer": "Bi xanh"
+  },
+  {
+    "question": "Bạn thả một hòn đá vào nước, nó sẽ chìm. Đây là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Bạn sẽ gặp một con khủng long trên đường đi học. Đây là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Thường xuyên xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu: 100, 150, 120, 150, 100, 150. Số 150 xuất hiện nhiều hơn số 100 mấy lần?",
+    "options": ["1 lần", "2 lần", "3 lần", "Bằng nhau"],
+    "correctAnswer": "1 lần"
+  },
+  {
+    "question": "Bảng số liệu về cân nặng của 3 con vật: Chó (15kg), Mèo (5kg), Thỏ (2kg). Con chó nặng hơn con thỏ bao nhiêu?",
+    "options": ["13 kg", "10 kg", "17 kg", "20 kg"],
+    "correctAnswer": "13 kg"
+  },
+  {
+    "question": "Một vòng quay có 2 ô màu đỏ và 1 ô màu xanh. Quay một lần. Khả năng mũi tên chỉ vào màu nào cao hơn?",
+    "options": ["Màu đỏ", "Màu xanh", "Như nhau", "Không xác định"],
+    "correctAnswer": "Màu đỏ"
+  },
+  {
+    "question": "Việc ghi chép lại số liệu sau khi thu thập giúp chúng ta làm gì?",
+    "options": ["Dễ dàng quan sát và so sánh", "Làm cho số liệu đẹp hơn", "Thay đổi số liệu", "Quên đi số liệu"],
+    "correctAnswer": "Dễ dàng quan sát và so sánh"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm là số chẵn hoặc lẻ' là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu về số giờ học trong ngày của An: 2, 3, 2, 4, 2. Ngày học ít nhất An học mấy giờ?",
+    "options": ["2 giờ", "3 giờ", "4 giờ", "1 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "Bảng số liệu về số học sinh trong một gia đình: 1 con (5 gđ), 2 con (10 gđ), 3 con (3 gđ). Loại gia đình nào là phổ biến nhất?",
+    "options": ["Gia đình có 2 con", "Gia đình có 1 con", "Gia đình có 3 con", "Bằng nhau"],
+    "correctAnswer": "Gia đình có 2 con"
+  },
+  {
+    "question": "Trong một hộp có 1 bi vàng, 1 bi xanh, 1 bi đỏ. Lấy ra 1 bi. Khả năng lấy được các màu là:",
+    "options": ["Như nhau", "Vàng dễ hơn", "Xanh dễ hơn", "Đỏ dễ hơn"],
+    "correctAnswer": "Như nhau"
+  },
+  {
+    "question": "Nếu bạn không học bài, bạn có thể bị điểm kém. Đây là sự kiện gì?",
+    "options": ["Có thể xảy ra", "Chắc chắn xảy ra", "Không thể xảy ra", "Luôn luôn xảy ra"],
+    "correctAnswer": "Có thể xảy ra"
+  },
+  {
+    "question": "Bạn có thể nhảy lên mặt trăng từ mặt đất. Đây là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Thường xuyên xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4. Số nào xuất hiện nhiều nhất?",
+    "options": ["4", "3", "2", "1"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Bảng số liệu về số lít nước mỗi bình chứa: Bình A (5 lít), Bình B (3 lít), Bình C (5 lít). Bình nào chứa ít nước nhất?",
+    "options": ["Bình B", "Bình A", "Bình C", "A và C"],
+    "correctAnswer": "Bình B"
+  },
+  {
+    "question": "Trong một hộp có 99 viên bi đỏ và 1 viên bi xanh. Lấy ngẫu nhiên 1 viên. Sự kiện nào rất khó xảy ra?",
+    "options": ["Lấy được bi xanh", "Lấy được bi đỏ", "Như nhau", "Không xác định"],
+    "correctAnswer": "Lấy được bi xanh"
+  },
+  {
+    "question": "Thu thập số liệu là bước ... trong thống kê.",
+    "options": ["Đầu tiên", "Cuối cùng", "Thứ hai", "Không quan trọng"],
+    "correctAnswer": "Đầu tiên"
+  },
+  {
+    "question": "Phân loại số liệu giúp chúng ta làm gì?",
+    "options": ["Sắp xếp số liệu một cách có tổ chức", "Làm cho số liệu nhiều hơn", "Thay đổi số liệu", "Xóa bớt số liệu"],
+    "correctAnswer": "Sắp xếp số liệu một cách có tổ chức"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm là 0' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu về số bạn trong mỗi nhóm: 4, 5, 4, 6, 4. Tổng số bạn trong 5 nhóm là:",
+    "options": ["23 bạn", "20 bạn", "19 bạn", "24 bạn"],
+    "correctAnswer": "23 bạn"
+  },
+  {
+    "question": "Bảng số liệu về số tiền tiết kiệm: An (10 000đ), Ba (15 000đ), Chi (12 000đ). Ai tiết kiệm được nhiều tiền nhất?",
+    "options": ["Ba", "An", "Chi", "Bằng nhau"],
+    "correctAnswer": "Ba"
+  },
+  {
+    "question": "Một vòng quay có 4 ô, trong đó có 3 ô màu vàng và 1 ô màu tím. Quay 1 lần. Khả năng mũi tên chỉ vào màu nào cao hơn?",
+    "options": ["Màu vàng", "Màu tím", "Như nhau", "Không xác định"],
+    "correctAnswer": "Màu vàng"
+  },
+  {
+    "question": "Bạn có thể uống hết 10 lít nước trong 1 phút. Đây là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Thường xuyên xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  },
+  {
+    "question": "Sau khi ăn, bạn sẽ cảm thấy no. Đây là sự kiện gì?",
+    "options": ["Chắc chắn xảy ra", "Không thể xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Chắc chắn xảy ra"
+  },
+  {
+    "question": "Cho dãy số liệu: 7, 9, 11, 13, 15. Số lớn nhất là:",
+    "options": ["15", "7", "9", "11"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Bảng số liệu về số con vật trong trang trại: Bò (10), Lợn (25), Gà (50). Con vật nào có số lượng nhiều nhất?",
+    "options": ["Gà", "Bò", "Lợn", "Bằng nhau"],
+    "correctAnswer": "Gà"
+  },
+  {
+    "question": "Bảng số liệu về số con vật trong trang trại: Bò (10), Lợn (25), Gà (50). Gà nhiều hơn Lợn bao nhiêu con?",
+    "options": ["25 con", "75 con", "40 con", "15 con"],
+    "correctAnswer": "25 con"
+  },
+  {
+    "question": "Trong một hộp có 5 bi xanh và 1 bi đỏ. Lấy ngẫu nhiên 1 viên. Sự kiện nào có khả năng xảy ra thấp hơn?",
+    "options": ["Lấy được bi đỏ", "Lấy được bi xanh", "Như nhau", "Không xác định"],
+    "correctAnswer": "Lấy được bi đỏ"
+  },
+  {
+    "question": "Gieo một con xúc xắc. Sự kiện 'mặt trên có số chấm nhỏ hơn 1' là sự kiện gì?",
+    "options": ["Không thể xảy ra", "Chắc chắn xảy ra", "Có thể xảy ra", "Hiếm khi xảy ra"],
+    "correctAnswer": "Không thể xảy ra"
+  }
+]
+
