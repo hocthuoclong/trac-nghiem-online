@@ -1,0 +1,488 @@
+[
+  {
+    "question": "Đơn vị dùng để đo góc là gì?",
+    "options": ["Độ (°)", "Mét (m)", "Ki-lô-gam (kg)", "Lít (l)"],
+    "correctAnswer": "Độ (°)"
+  },
+  {
+    "question": "Dụng cụ dùng để đo góc có tên là gì?",
+    "options": ["Thước đo góc (êke)", "Com-pa", "Thước kẻ", "Cân"],
+    "correctAnswer": "Thước đo góc (êke)"
+  },
+  {
+    "question": "Góc vuông có số đo bằng bao nhiêu độ?",
+    "options": ["90°", "0°", "180°", "45°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Góc có số đo lớn hơn 0° và bé hơn 90° được gọi là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo lớn hơn 90° và bé hơn 180° được gọi là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc bẹt có số đo bằng bao nhiêu độ?",
+    "options": ["180°", "90°", "360°", "0°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Góc có số đo 45° là loại góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo 120° là loại góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Hai cạnh của một góc bẹt tạo thành một...",
+    "options": ["Đường thẳng", "Đường cong", "Đường gấp khúc", "Hình vuông"],
+    "correctAnswer": "Đường thẳng"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 3 giờ đúng là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc nào sau đây là góc nhọn?",
+    "options": ["Góc 89°", "Góc 90°", "Góc 91°", "Góc 180°"],
+    "correctAnswer": "Góc 89°"
+  },
+  {
+    "question": "Góc nào sau đây là góc tù?",
+    "options": ["Góc 179°", "Góc 90°", "Góc 89°", "Góc 180°"],
+    "correctAnswer": "Góc 179°"
+  },
+  {
+    "question": "Để đo một góc, ta đặt tâm của thước đo góc trùng với...",
+    "options": ["Đỉnh của góc", "Một cạnh của góc", "Điểm bất kỳ trên góc", "Bên ngoài góc"],
+    "correctAnswer": "Đỉnh của góc"
+  },
+  {
+    "question": "Khi đo góc, một cạnh của góc phải trùng với vạch nào của thước?",
+    "options": ["Vạch 0°", "Vạch 90°", "Vạch 180°", "Vạch bất kỳ"],
+    "correctAnswer": "Vạch 0°"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 6 giờ đúng là góc gì?",
+    "options": ["Góc bẹt", "Góc vuông", "Góc tù", "Góc nhọn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Góc có số đo 1° là loại góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo 95° là loại góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "So sánh góc 75° và góc 85°.",
+    "options": ["Góc 75° < Góc 85°", "Góc 75° > Góc 85°", "Góc 75° = Góc 85°", "Không so sánh được"],
+    "correctAnswer": "Góc 75° < Góc 85°"
+  },
+  {
+    "question": "So sánh góc 110° và góc vuông.",
+    "options": ["Góc 110° > Góc vuông", "Góc 110° < Góc vuông", "Góc 110° = Góc vuông", "Không so sánh được"],
+    "correctAnswer": "Góc 110° > Góc vuông"
+  },
+  {
+    "question": "Góc nào là góc lớn nhất?",
+    "options": ["Góc bẹt", "Góc tù", "Góc nhọn", "Góc vuông"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Góc nào là góc bé nhất (lớn hơn 0°)?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 1 giờ đúng là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 4 giờ đúng là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Tổng số đo của hai góc vuông là bao nhiêu?",
+    "options": ["180°", "90°", "270°", "360°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Một góc bẹt bằng mấy lần góc vuông?",
+    "options": ["2 lần", "1 lần", "3 lần", "4 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Góc có số đo 150° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 15° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Một góc nhọn cộng thêm một góc nhọn khác thì kết quả có thể là góc gì?",
+    "options": ["Góc nhọn, góc vuông hoặc góc tù", "Chỉ là góc nhọn", "Chỉ là góc vuông", "Chỉ là góc tù"],
+    "correctAnswer": "Góc nhọn, góc vuông hoặc góc tù"
+  },
+  {
+    "question": "Góc được tạo bởi một trang sách đang mở thẳng là góc gì?",
+    "options": ["Góc bẹt", "Góc vuông", "Góc tù", "Góc nhọn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Góc ở mỗi góc của một hình chữ nhật là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Kí hiệu của độ là gì?",
+    "options": ["°", "'", "\"", "%"],
+    "correctAnswer": "°"
+  },
+  {
+    "question": "Góc 100° lớn hơn góc nào sau đây?",
+    "options": ["Góc 90°", "Góc 110°", "Góc 180°", "Góc 101°"],
+    "correctAnswer": "Góc 90°"
+  },
+  {
+    "question": "Góc 30° bé hơn góc nào sau đây?",
+    "options": ["Góc 40°", "Góc 20°", "Góc 10°", "Góc 1°"],
+    "correctAnswer": "Góc 40°"
+  },
+  {
+    "question": "Số đo của góc bẹt là:",
+    "options": ["180°", "90°", "Lớn hơn 90°", "Bé hơn 90°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Số đo của góc nhọn thì...",
+    "options": ["Bé hơn 90°", "Lớn hơn 90°", "Bằng 90°", "Bằng 180°"],
+    "correctAnswer": "Bé hơn 90°"
+  },
+  {
+    "question": "Số đo của góc tù thì...",
+    "options": ["Lớn hơn 90° và bé hơn 180°", "Bé hơn 90°", "Bằng 90°", "Bằng 180°"],
+    "correctAnswer": "Lớn hơn 90° và bé hơn 180°"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 2 giờ đúng là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 5 giờ đúng là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 90° được gọi là gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Trong một tam giác đều, mỗi góc có số đo là bao nhiêu?",
+    "options": ["60°", "90°", "180°", "45°"],
+    "correctAnswer": "60°"
+  },
+  {
+    "question": "Góc được tạo bởi các cạnh của một cái thước eke thường là:",
+    "options": ["Góc vuông và góc nhọn", "Chỉ có góc vuông", "Chỉ có góc nhọn", "Góc tù và góc nhọn"],
+    "correctAnswer": "Góc vuông và góc nhọn"
+  },
+  {
+    "question": "Một góc tù trừ đi một góc nhọn thì kết quả có thể là:",
+    "options": ["Góc nhọn hoặc góc vuông hoặc góc tù", "Chỉ là góc nhọn", "Chỉ là góc tù", "Không xác định được"],
+    "correctAnswer": "Góc nhọn hoặc góc vuông hoặc góc tù"
+  },
+  {
+    "question": "Góc có số đo 135° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 60° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Nếu một góc lớn hơn góc vuông thì đó là góc gì?",
+    "options": ["Góc tù hoặc góc bẹt", "Chỉ là góc tù", "Chỉ là góc bẹt", "Góc nhọn"],
+    "correctAnswer": "Góc tù hoặc góc bẹt"
+  },
+  {
+    "question": "Nếu một góc bé hơn góc vuông thì đó là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Không xác định"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 9 giờ đúng là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 10 giờ đúng là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Tổng số đo 3 góc trong một hình tam giác là bao nhiêu?",
+    "options": ["180°", "90°", "360°", "100°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Góc có số đo bằng một nửa góc vuông là bao nhiêu độ?",
+    "options": ["45°", "90°", "30°", "60°"],
+    "correctAnswer": "45°"
+  },
+  {
+    "question": "Góc có số đo bằng một nửa góc bẹt là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc có số đo 170° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 25° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Trong các góc sau, góc nào lớn nhất: 35°, 95°, 155°, 85°?",
+    "options": ["155°", "35°", "95°", "85°"],
+    "correctAnswer": "155°"
+  },
+  {
+    "question": "Trong các góc sau, góc nào bé nhất: 15°, 90°, 105°, 180°?",
+    "options": ["15°", "90°", "105°", "180°"],
+    "correctAnswer": "15°"
+  },
+  {
+    "question": "Một góc vuông cộng với một góc nhọn sẽ tạo thành góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc tạo bởi hai cạnh của một cái kéo khi cắt là góc gì?",
+    "options": ["Thường là góc nhọn", "Luôn là góc tù", "Luôn là góc vuông", "Luôn là góc bẹt"],
+    "correctAnswer": "Thường là góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 12 giờ 15 phút là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo 105° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 85° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Hai góc vuông có tổng số đo bằng góc nào?",
+    "options": ["Góc bẹt", "Góc tù", "Góc nhọn", "Một góc vuông khác"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Góc ở đỉnh của một mái nhà thường là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc tạo bởi kim giờ và kim phút lúc 8 giờ đúng là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Một vòng tròn có bao nhiêu độ?",
+    "options": ["360°", "180°", "90°", "100°"],
+    "correctAnswer": "360°"
+  },
+  {
+    "question": "Loại góc nào có số đo nằm giữa góc vuông và góc bẹt?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 1° lớn hơn góc có số đo 0°. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Góc có số đo 180° là góc tù. Đúng hay sai?",
+    "options": ["Sai", "Đúng", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Góc có số đo 90° là góc nhọn. Đúng hay sai?",
+    "options": ["Sai", "Đúng", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Sai"
+  },
+  {
+    "question": "Góc có số đo 91° là góc tù. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Góc có số đo 89° là góc nhọn. Đúng hay sai?",
+    "options": ["Đúng", "Sai", "Không xác định", "Tùy trường hợp"],
+    "correctAnswer": "Đúng"
+  },
+  {
+    "question": "Góc được tạo bởi 2 cạnh liền kề của hình vuông là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc tạo bởi kim giờ và kim phút lúc 7 giờ đúng là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc tạo bởi kim giờ và kim phút lúc 11 giờ đúng là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo bằng 2 lần góc 60° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo bằng 1/3 góc bẹt là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo 175° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 5° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Khi một cánh cửa mở hé, góc tạo bởi cánh cửa và tường là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Khi một cánh cửa mở rộng, góc tạo bởi cánh cửa và tường là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Tổng của một góc nhọn và một góc vuông là:",
+    "options": ["Một góc tù", "Một góc nhọn", "Một góc vuông", "Một góc bẹt"],
+    "correctAnswer": "Một góc tù"
+  },
+  {
+    "question": "Hiệu của một góc bẹt và một góc nhọn là:",
+    "options": ["Một góc tù", "Một góc nhọn", "Một góc vuông", "Không xác định"],
+    "correctAnswer": "Một góc tù"
+  },
+  {
+    "question": "Hiệu của một góc bẹt và một góc tù là:",
+    "options": ["Một góc nhọn", "Một góc tù", "Một góc vuông", "Không xác định"],
+    "correctAnswer": "Một góc nhọn"
+  },
+  {
+    "question": "Góc có số đo 180° còn được gọi là gì?",
+    "options": ["Góc bẹt", "Góc tù", "Góc tròn", "Góc vuông"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Góc có số đo 90° còn được gọi là gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc thẳng", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc tạo bởi hai đường chéo của hình vuông là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Góc có số đo 115° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 70° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Trong một hình tam giác vuông, có mấy góc nhọn?",
+    "options": ["2 góc nhọn", "1 góc nhọn", "3 góc nhọn", "Không có góc nhọn"],
+    "correctAnswer": "2 góc nhọn"
+  },
+  {
+    "question": "Trong một hình tam giác tù, có mấy góc nhọn?",
+    "options": ["2 góc nhọn", "1 góc nhọn", "3 góc nhọn", "Không có góc nhọn"],
+    "correctAnswer": "2 góc nhọn"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 12 giờ 30 phút là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo bằng tổng của góc 30° và 40° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc có số đo bằng hiệu của góc 120° và 20° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 165° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc có số đo 40° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Góc nào sau đây không phải là góc nhọn?",
+    "options": ["Góc 92°", "Góc 29°", "Góc 82°", "Góc 2°"],
+    "correctAnswer": "Góc 92°"
+  },
+  {
+    "question": "Góc nào sau đây không phải là góc tù?",
+    "options": ["Góc 88°", "Góc 98°", "Góc 108°", "Góc 178°"],
+    "correctAnswer": "Góc 88°"
+  },
+  {
+    "question": "Góc được tạo bởi hai trang vở khi mở ra một góc vuông là bao nhiêu độ?",
+    "options": ["90°", "180°", "45°", "100°"],
+    "correctAnswer": "90°"
+  }
+]
+
