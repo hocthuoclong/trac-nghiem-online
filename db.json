@@ -28,6 +28,10 @@
                 {
                   "name": "Chương 5: Một số đơn vị đo độ dài, khối lượng, dung tích, nhiệt độ",
                   "file": "./data/math-3-chapter-5.json"
+                },
+                {
+                  "name": "Chương 6: Phép nhân, phép chia trang phạm vi 1000",
+                  "file": "./data/math-3-chapter-6.json"
                 }
               ]
             }
