@@ -24,6 +24,10 @@
                 {
                   "name": "Chương 4: Một số đơn vị đo đại lượng",
                   "file": "./data/math-4-chapter-4.json"
+                },
+                {
+                  "name": "Chương 5: Phép cộng và phép trừ",
+                  "file": "./data/math-4-chapter-5.json"
                 }
               ]
             }
