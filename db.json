@@ -1,5 +1,24 @@
 {
   "grades": {
+    "3": {
+      "name": "Lớp 3",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Ôn tập và bổ sung",
+                  "file": "./data/math-3-chapter-1.json"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "4": {
       "name": "Lớp 4",
       "subjects": {
