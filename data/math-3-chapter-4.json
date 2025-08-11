@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Kết quả của phép tính 12 x 4 là:",
+    "options": ["48", "16", "8", "42"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Đặt tính rồi tính: 23 x 3",
+    "options": ["69", "66", "26", "96"],
+    "correctAnswer": "69"
+  },
+  {
+    "question": "Gấp 8 lên 6 lần ta được:",
+    "options": ["48", "14", "2", "50"],
+    "correctAnswer": "48"
+  },
+  {
+    "question": "Phép chia 17 : 3 có số dư là mấy?",
+    "options": ["2", "1", "3", "0"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Trong các phép chia sau, phép chia nào là phép chia hết?",
+    "options": ["20 : 5", "21 : 5", "22 : 5", "23 : 5"],
+    "correctAnswer": "20 : 5"
+  },
+  {
+    "question": "Kết quả của phép tính 48 : 4 là:",
+    "options": ["12", "11", "14", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Đặt tính rồi tính: 69 : 3",
+    "options": ["23", "22", "21", "32"],
+    "correctAnswer": "23"
+  },
+  {
+    "question": "Giảm 24 đi 6 lần ta được:",
+    "options": ["4", "18", "30", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Có 10 quả cam, chia đều cho 2 bạn. Sau đó mỗi bạn được cho thêm 3 quả. Hỏi mỗi bạn có bao nhiêu quả cam?",
+    "options": ["8 quả", "5 quả", "13 quả", "7 quả"],
+    "correctAnswer": "8 quả"
+  },
+  {
+    "question": "Một cửa hàng có 5 hộp bánh, mỗi hộp có 8 cái bánh. Cửa hàng đã bán đi 10 cái. Hỏi cửa hàng còn lại bao nhiêu cái bánh?",
+    "options": ["30 cái", "40 cái", "50 cái", "20 cái"],
+    "correctAnswer": "30 cái"
+  },
+  {
+    "question": "Tính: 15 x 6",
+    "options": ["90", "60", "75", "80"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số 7 gấp lên 9 lần thì bằng:",
+    "options": ["63", "16", "2", "70"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "Phép chia 25 : 4 có thương là 6 và số dư là:",
+    "options": ["1", "2", "3", "0"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Kết quả của phép tính 84 : 2 là:",
+    "options": ["42", "41", "40", "82"],
+    "correctAnswer": "42"
+  },
+  {
+    "question": "Số 45 giảm đi 5 lần thì bằng:",
+    "options": ["9", "40", "50", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Mẹ có 30 cái kẹo, mẹ cho An 1/3 số kẹo. Sau đó mẹ cho Bình 5 cái. Hỏi mẹ còn lại bao nhiêu cái kẹo?",
+    "options": ["15 cái", "10 cái", "20 cái", "5 cái"],
+    "correctAnswer": "15 cái"
+  },
+  {
+    "question": "Tính: 34 x 2",
+    "options": ["68", "66", "36", "32"],
+    "correctAnswer": "68"
+  },
+  {
+    "question": "Gấp 12 lên 5 lần ta được:",
+    "options": ["60", "17", "7", "50"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Trong phép chia có dư, số dư phải như thế nào so với số chia?",
+    "options": ["Bé hơn số chia", "Lớn hơn số chia", "Bằng số chia", "Bằng 0"],
+    "correctAnswer": "Bé hơn số chia"
+  },
+  {
+    "question": "Tính: 99 : 9",
+    "options": ["11", "10", "9", "12"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Giảm 72 đi 8 lần ta được:",
+    "options": ["9", "64", "80", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một cuộn vải dài 50m. Người ta cắt ra 5 đoạn, mỗi đoạn dài 8m. Hỏi cuộn vải còn lại bao nhiêu mét?",
+    "options": ["10 m", "40 m", "42 m", "20 m"],
+    "correctAnswer": "10 m"
+  },
+  {
+    "question": "Tính: 18 x 5",
+    "options": ["90", "80", "50", "95"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số 9 gấp lên 9 lần thì bằng:",
+    "options": ["81", "18", "0", "90"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Phép chia 32 : 6 có số dư là:",
+    "options": ["2", "0", "4", "5"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Tính: 75 : 3",
+    "options": ["25", "24", "26", "15"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Số 63 giảm đi 7 lần thì bằng:",
+    "options": ["9", "56", "70", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Có 3 thùng dầu, mỗi thùng chứa 15 lít. Người ta đã dùng hết 20 lít. Hỏi còn lại bao nhiêu lít dầu?",
+    "options": ["25 lít", "45 lít", "35 lít", "15 lít"],
+    "correctAnswer": "25 lít"
+  },
+  {
+    "question": "Tính: 27 x 3",
+    "options": ["81", "61", "84", "69"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "Gấp 25 lên 4 lần ta được:",
+    "options": ["100", "29", "21", "80"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số bị chia là 47, số chia là 5. Thương và số dư lần lượt là:",
+    "options": ["9 và 2", "9 và 0", "8 và 7", "10 và -3"],
+    "correctAnswer": "9 và 2"
+  },
+  {
+    "question": "Tính: 56 : 4",
+    "options": ["14", "13", "15", "16"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Giảm 100 đi 10 lần ta được:",
+    "options": ["10", "90", "110", "1000"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "An mua 4 quyển vở, mỗi quyển giá 5 nghìn đồng. An đưa cô bán hàng 25 nghìn đồng. Hỏi cô bán hàng phải trả lại An bao nhiêu tiền?",
+    "options": ["5 nghìn đồng", "20 nghìn đồng", "1 nghìn đồng", "10 nghìn đồng"],
+    "correctAnswer": "5 nghìn đồng"
+  },
+  {
+    "question": "Tính: 42 x 2",
+    "options": ["84", "82", "44", "40"],
+    "correctAnswer": "84"
+  },
+  {
+    "question": "Số 15 gấp lên 3 lần thì bằng:",
+    "options": ["45", "18", "12", "5"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Phép chia nào sau đây có số dư là 3?",
+    "options": ["23 : 5", "20 : 5", "21 : 6", "22 : 7"],
+    "correctAnswer": "23 : 5"
+  },
+  {
+    "question": "Tính: 68 : 2",
+    "options": ["34", "33", "32", "30"],
+    "correctAnswer": "34"
+  },
+  {
+    "question": "Số 81 giảm đi 9 lần thì bằng:",
+    "options": ["9", "72", "90", "8"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Một lớp học có 30 học sinh. Cô giáo chia thành các nhóm, mỗi nhóm có 5 học sinh. Sau đó cô giáo chia thêm cho mỗi nhóm 2 quyển sách. Hỏi cô đã chia tất cả bao nhiêu quyển sách?",
+    "options": ["12 quyển", "6 quyển", "30 quyển", "60 quyển"],
+    "correctAnswer": "12 quyển"
+  },
+  {
+    "question": "Tính: 19 x 4",
+    "options": ["76", "72", "46", "66"],
+    "correctAnswer": "76"
+  },
+  {
+    "question": "Gấp 30 lên 3 lần ta được:",
+    "options": ["90", "33", "27", "10"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Số lớn nhất có hai chữ số chia cho 8 có số dư là mấy?",
+    "options": ["7", "0", "8", "1"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính: 96 : 8",
+    "options": ["12", "11", "13", "14"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Giảm 56 đi 7 lần ta được:",
+    "options": ["8", "49", "63", "7"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Bà có 20 quả cam. Bà cho Lan 1/4 số cam. Sau đó bà cho Huy 5 quả. Hỏi bà còn lại bao nhiêu quả cam?",
+    "options": ["10 quả", "5 quả", "15 quả", "0 quả"],
+    "correctAnswer": "10 quả"
+  },
+  {
+    "question": "Tính: 11 x 9",
+    "options": ["99", "90", "100", "20"],
+    "correctAnswer": "99"
+  },
+  {
+    "question": "Số 10 gấp lên 8 lần thì bằng:",
+    "options": ["80", "18", "2", "88"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Tìm số bị chia trong một phép chia có số chia là 7, thương là 5 và số dư là 3.",
+    "options": ["38", "35", "32", "40"],
+    "correctAnswer": "38"
+  },
+  {
+    "question": "Tính: 80 : 5",
+    "options": ["16", "15", "14", "17"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Số 48 giảm đi 4 lần thì bằng:",
+    "options": ["12", "44", "52", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Trong vườn có 12 cây cam, số cây bưởi gấp 3 lần số cây cam. Hỏi trong vườn có tất cả bao nhiêu cây cam và bưởi?",
+    "options": ["48 cây", "36 cây", "15 cây", "24 cây"],
+    "correctAnswer": "48 cây"
+  },
+  {
+    "question": "Tính: 14 x 7",
+    "options": ["98", "91", "78", "108"],
+    "correctAnswer": "98"
+  },
+  {
+    "question": "Gấp 16 lên 6 lần ta được:",
+    "options": ["96", "86", "22", "10"],
+    "correctAnswer": "96"
+  },
+  {
+    "question": "Phép chia 50 : 6 có thương và số dư là:",
+    "options": ["Thương 8, dư 2", "Thương 8, dư 0", "Thương 7, dư 8", "Thương 9, dư -4"],
+    "correctAnswer": "Thương 8, dư 2"
+  },
+  {
+    "question": "Tính: 91 : 7",
+    "options": ["13", "12", "14", "11"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Giảm 90 đi 9 lần ta được:",
+    "options": ["10", "81", "99", "9"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một quyển truyện có 80 trang. An đọc được 1/4 số trang. Hỏi An còn phải đọc bao nhiêu trang nữa?",
+    "options": ["60 trang", "20 trang", "76 trang", "40 trang"],
+    "correctAnswer": "60 trang"
+  },
+  {
+    "question": "Tính: 13 x 5",
+    "options": ["65", "55", "18", "8"],
+    "correctAnswer": "65"
+  },
+  {
+    "question": "Số 20 gấp lên 5 lần thì bằng:",
+    "options": ["100", "25", "15", "4"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Một lớp học có 33 học sinh. Nếu chia thành các nhóm, mỗi nhóm có 5 học sinh thì còn thừa mấy học sinh?",
+    "options": ["3 học sinh", "0 học sinh", "1 học sinh", "2 học sinh"],
+    "correctAnswer": "3 học sinh"
+  },
+  {
+    "question": "Tính: 78 : 6",
+    "options": ["13", "12", "14", "11"],
+    "correctAnswer": "13"
+  },
+  {
+    "question": "Số 36 giảm đi 3 lần thì bằng:",
+    "options": ["12", "33", "39", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Có 5 chuồng gà, mỗi chuồng có 12 con. Người ta bán đi 15 con. Hỏi còn lại bao nhiêu con gà?",
+    "options": ["45 con", "60 con", "55 con", "30 con"],
+    "correctAnswer": "45 con"
+  },
+  {
+    "question": "Tính: 26 x 3",
+    "options": ["78", "68", "76", "66"],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "Gấp 18 lên 4 lần ta được:",
+    "options": ["72", "62", "22", "14"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "Phép chia 65 : 8 có số dư là:",
+    "options": ["1", "0", "3", "5"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 95 : 5",
+    "options": ["19", "18", "17", "16"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Giảm 84 đi 7 lần ta được:",
+    "options": ["12", "77", "91", "10"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Mẹ mua 2 chục quả trứng. Mẹ đã dùng 1/4 số trứng đó. Hỏi mẹ còn lại bao nhiêu quả trứng?",
+    "options": ["15 quả", "5 quả", "20 quả", "10 quả"],
+    "correctAnswer": "15 quả"
+  },
+  {
+    "question": "Tính: 17 x 5",
+    "options": ["85", "75", "22", "12"],
+    "correctAnswer": "85"
+  },
+  {
+    "question": "Số 11 gấp lên 7 lần thì bằng:",
+    "options": ["77", "18", "4", "70"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "Tìm số bị chia, biết số chia là 9, thương là 8 và số dư là 5.",
+    "options": ["77", "72", "67", "80"],
+    "correctAnswer": "77"
+  },
+  {
+    "question": "Tính: 88 : 8",
+    "options": ["11", "10", "12", "80"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "Số 60 giảm đi 6 lần thì bằng:",
+    "options": ["10", "54", "66", "6"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Một cửa hàng có 45 kg gạo, chia đều vào 9 túi. Cửa hàng đã bán 5 túi. Hỏi cửa hàng còn lại bao nhiêu kg gạo?",
+    "options": ["20 kg", "25 kg", "5 kg", "30 kg"],
+    "correctAnswer": "20 kg"
+  },
+  {
+    "question": "Tính: 35 x 2",
+    "options": ["70", "60", "37", "33"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Gấp 14 lên 6 lần ta được:",
+    "options": ["84", "74", "20", "8"],
+    "correctAnswer": "84"
+  },
+  {
+    "question": "Phép chia 70 : 9 có số dư là:",
+    "options": ["7", "0", "1", "9"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Tính: 90 : 6",
+    "options": ["15", "14", "16", "13"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Giảm 96 đi 6 lần ta được:",
+    "options": ["16", "90", "102", "15"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Có 40 học sinh, 1/5 số đó là học sinh giỏi, còn lại là học sinh khá. Hỏi có bao nhiêu học sinh khá?",
+    "options": ["32 học sinh", "8 học sinh", "35 học sinh", "20 học sinh"],
+    "correctAnswer": "32 học sinh"
+  },
+  {
+    "question": "Tính: 16 x 4",
+    "options": ["64", "60", "20", "12"],
+    "correctAnswer": "64"
+  },
+  {
+    "question": "Số 50 gấp lên 2 lần thì bằng:",
+    "options": ["100", "52", "48", "25"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Một số chia cho 6 được 7 dư 5. Số đó là:",
+    "options": ["47", "42", "37", "50"],
+    "correctAnswer": "47"
+  },
+  {
+    "question": "Tính: 84 : 7",
+    "options": ["12", "11", "13", "14"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Số 70 giảm đi 5 lần thì bằng:",
+    "options": ["14", "65", "75", "12"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Một đội có 12 người, sau đó được bổ sung thêm 8 người. Cả đội được chia thành 4 nhóm. Hỏi mỗi nhóm có bao nhiêu người?",
+    "options": ["5 người", "20 người", "3 người", "4 người"],
+    "correctAnswer": "5 người"
+  }
+]
+
