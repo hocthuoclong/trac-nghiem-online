@@ -1,5 +1,64 @@
 {
   "grades": {
+    "1": {
+      "name": "Lớp 1",
+      "subjects": {
+        "math": {
+          "name": "Toán",
+          "tests": {
+            "chapter": {
+              "name": "Ôn tập chương",
+              "chapters": [
+                {
+                  "name": "Chương 1: Các số từ 0 đến 10",
+                  "file": "./data/math-1-chapter-1.json"
+                },
+                {
+                  "name": "Chương 2: Làm quen với một số hình phẳng",
+                  "file": "./data/math-1-chapter-2.json"
+                },
+                {
+                  "name": "Chương 3: Phép cộng, phép trừ trong phạm vi 10",
+                  "file": "./data/math-1-chapter-3.json"
+                },
+                {
+                  "name": "Chương 4: Làm quen với một số hình khối",
+                  "file": "./data/math-1-chapter-4.json"
+                },
+                {
+                  "name": "Chương 6: Các số đến 100",
+                  "file": "./data/math-1-chapter-6.json"
+                },
+                {
+                  "name": "Chương 7: Độ dài và đo độ dài",
+                  "file": "./data/math-1-chapter-7.json"
+                },
+                {
+                  "name": "Chương 8: Phép cộng, phép trừ (không nhớ) trong phạm vi 100",
+                  "file": "./data/math-1-chapter-8.json"
+                },
+                {
+                  "name": "Chương 9: Thời gian. Giờ và lịch",
+                  "file": "./data/math-1-chapter-9.json"
+                }
+              ]
+            },
+            "midterm-1": {
+              "name": "Ôn tập học kỳ 1",
+              "file": "./data/math-1-midterm-1.json"
+            },
+            "midterm-2": {
+              "name": "Ôn tập học kỳ 2",
+              "file": "./data/math-1-midterm-2.json"
+            },
+            "final": {
+              "name": "Ôn tập cuối năm",
+              "file": "./data/math-1-final.json"
+            }
+          }
+        }
+      }
+    },
     "2": {
       "name": "Lớp 2",
       "subjects": {
