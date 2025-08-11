@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Kết quả của phép tính 2/3 x 4/5 là:",
+    "options": ["8/15", "6/8", "10/12", "2/15"],
+    "correctAnswer": "8/15"
+  },
+  {
+    "question": "Muốn nhân hai phân số, ta làm thế nào?",
+    "options": ["Lấy tử số nhân với tử số, mẫu số nhân với mẫu số.", "Lấy tử số nhân với mẫu số, mẫu số nhân với tử số.", "Lấy tử số cộng tử số, mẫu số nhân mẫu số.", "Giữ nguyên mẫu số, nhân hai tử số."],
+    "correctAnswer": "Lấy tử số nhân với tử số, mẫu số nhân với mẫu số."
+  },
+  {
+    "question": "Kết quả của phép tính 1/2 : 3/4 là:",
+    "options": ["4/6 (hoặc 2/3)", "3/8", "4/5", "1/8"],
+    "correctAnswer": "4/6 (hoặc 2/3)"
+  },
+  {
+    "question": "Muốn chia một phân số cho một phân số khác, ta làm thế nào?",
+    "options": ["Lấy phân số thứ nhất nhân với phân số thứ hai đảo ngược.", "Lấy phân số thứ nhất chia cho tử số của phân số thứ hai.", "Lấy tử số chia tử số, mẫu số chia mẫu số.", "Lấy phân số thứ nhất nhân với chính phân số thứ hai."],
+    "correctAnswer": "Lấy phân số thứ nhất nhân với phân số thứ hai đảo ngược."
+  },
+  {
+    "question": "Phân số đảo ngược của 5/8 là:",
+    "options": ["8/5", "5/8", "1", "0"],
+    "correctAnswer": "8/5"
+  },
+  {
+    "question": "2/3 của 12 là:",
+    "options": ["8", "18", "6", "24"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Muốn tìm phân số của một số, ta làm thế nào?",
+    "options": ["Lấy số đó nhân với phân số.", "Lấy số đó chia cho phân số.", "Lấy phân số chia cho số đó.", "Lấy số đó cộng với phân số."],
+    "correctAnswer": "Lấy số đó nhân với phân số."
+  },
+  {
+    "question": "Tính: 3/7 x 2/5",
+    "options": ["6/35", "5/12", "21/10", "1"],
+    "correctAnswer": "6/35"
+  },
+  {
+    "question": "Tính: 4/5 : 2/3",
+    "options": ["12/10 (hoặc 6/5)", "8/15", "6/8", "1"],
+    "correctAnswer": "12/10 (hoặc 6/5)"
+  },
+  {
+    "question": "3/4 của 20 kg là bao nhiêu ki-lô-gam?",
+    "options": ["15 kg", "20 kg", "12 kg", "25 kg"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Một hình chữ nhật có chiều dài 3/4 m và chiều rộng 1/2 m. Diện tích hình chữ nhật đó là:",
+    "options": ["3/8 m²", "1 m²", "4/6 m²", "2/3 m²"],
+    "correctAnswer": "3/8 m²"
+  },
+  {
+    "question": "Tính: 5 x 2/3",
+    "options": ["10/3", "10/15", "7/3", "2/15"],
+    "correctAnswer": "10/3"
+  },
+  {
+    "question": "Tính: 6 : 1/2",
+    "options": ["12", "3", "6/2", "1/12"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Lớp 4A có 35 học sinh, 2/5 số học sinh là học sinh nữ. Hỏi lớp 4A có bao nhiêu học sinh nữ?",
+    "options": ["14 học sinh", "10 học sinh", "21 học sinh", "7 học sinh"],
+    "correctAnswer": "14 học sinh"
+  },
+  {
+    "question": "Kết quả của phép tính 1/5 x 1/6 là:",
+    "options": ["1/30", "2/11", "1/11", "1"],
+    "correctAnswer": "1/30"
+  },
+  {
+    "question": "Kết quả của phép tính 3/8 : 2 là:",
+    "options": ["3/16", "6/8", "3/4", "3/10"],
+    "correctAnswer": "3/16"
+  },
+  {
+    "question": "Một mảnh vườn có diện tích 120 m², trong đó 3/4 diện tích dùng để trồng hoa. Diện tích trồng hoa là:",
+    "options": ["90 m²", "80 m²", "160 m²", "100 m²"],
+    "correctAnswer": "90 m²"
+  },
+  {
+    "question": "Tìm x, biết x : 1/2 = 4/5",
+    "options": ["x = 4/10 (hoặc 2/5)", "x = 8/5", "x = 5/8", "x = 1"],
+    "correctAnswer": "x = 4/10 (hoặc 2/5)"
+  },
+  {
+    "question": "Tìm y, biết y x 2/3 = 1",
+    "options": ["y = 3/2", "y = 2/3", "y = 1", "y = 5/3"],
+    "correctAnswer": "y = 3/2"
+  },
+  {
+    "question": "Tính: 2/3 x 3/2",
+    "options": ["1", "6/6", "Cả A và B đều đúng", "0"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 7/8 : 7/8",
+    "options": ["1", "49/64", "0", "7/8"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "2/5 của một giờ là bao nhiêu phút?",
+    "options": ["24 phút", "30 phút", "12 phút", "20 phút"],
+    "correctAnswer": "24 phút"
+  },
+  {
+    "question": "Một tấm vải dài 15m. Người ta đã dùng 2/3 tấm vải đó để may quần áo. Hỏi còn lại bao nhiêu mét vải?",
+    "options": ["5 m", "10 m", "3 m", "7 m"],
+    "correctAnswer": "5 m"
+  },
+  {
+    "question": "Kết quả của phép tính 4/9 x 3 là:",
+    "options": ["12/9 (hoặc 4/3)", "4/27", "7/9", "1"],
+    "correctAnswer": "12/9 (hoặc 4/3)"
+  },
+  {
+    "question": "Kết quả của phép tính 5/7 : 10 là:",
+    "options": ["5/70 (hoặc 1/14)", "50/7", "1", "15/7"],
+    "correctAnswer": "5/70 (hoặc 1/14)"
+  },
+  {
+    "question": "Một rổ có 50 quả trứng, trong đó 1/10 là trứng vịt. Hỏi có bao nhiêu quả trứng gà?",
+    "options": ["45 quả", "5 quả", "10 quả", "40 quả"],
+    "correctAnswer": "45 quả"
+  },
+  {
+    "question": "Tính: 1/2 x 2/3 x 3/4",
+    "options": ["6/24 (hoặc 1/4)", "6/9", "1", "1/4"],
+    "correctAnswer": "1/4"
+  },
+  {
+    "question": "Tính: 8/9 : 4/3",
+    "options": ["24/36 (hoặc 2/3)", "32/27", "12/12", "1"],
+    "correctAnswer": "24/36 (hoặc 2/3)"
+  },
+  {
+    "question": "Tìm 3/5 của 100.",
+    "options": ["60", "50", "30", "80"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Một hình vuông có cạnh 2/5 m. Chu vi của hình vuông đó là:",
+    "options": ["8/5 m", "4/25 m²", "4/5 m", "1"],
+    "correctAnswer": "8/5 m"
+  },
+  {
+    "question": "Một hình vuông có cạnh 2/5 m. Diện tích của hình vuông đó là:",
+    "options": ["4/25 m²", "8/5 m", "4/5 m", "1"],
+    "correctAnswer": "4/25 m²"
+  },
+  {
+    "question": "Phân số đảo ngược của 7 là:",
+    "options": ["1/7", "7", "-7", "0"],
+    "correctAnswer": "1/7"
+  },
+  {
+    "question": "Tính: 3/4 x 8/9",
+    "options": ["24/36 (hoặc 2/3)", "27/32", "1", "11/13"],
+    "correctAnswer": "24/36 (hoặc 2/3)"
+  },
+  {
+    "question": "Tính: 1 : 5/6",
+    "options": ["6/5", "5/6", "1", "1/6"],
+    "correctAnswer": "6/5"
+  },
+  {
+    "question": "Một bao gạo nặng 50kg. Người ta lấy ra 3/10 bao gạo. Hỏi đã lấy ra bao nhiêu ki-lô-gam gạo?",
+    "options": ["15 kg", "5 kg", "30 kg", "10 kg"],
+    "correctAnswer": "15 kg"
+  },
+  {
+    "question": "Tìm x, biết 2/7 : x = 1/3",
+    "options": ["x = 6/7", "x = 2/21", "x = 7/6", "x = 1"],
+    "correctAnswer": "x = 6/7"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 5/8 m², chiều dài 3/4 m. Chiều rộng của hình chữ nhật là:",
+    "options": ["20/24 m (hoặc 5/6 m)", "15/32 m²", "1", "8/12 m"],
+    "correctAnswer": "20/24 m (hoặc 5/6 m)"
+  },
+  {
+    "question": "Tính: 4/5 x 5/4",
+    "options": ["1", "20/20", "Cả A và B đều đúng", "0"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 9/10 : 3/5",
+    "options": ["45/30 (hoặc 3/2)", "27/50", "1", "12/15"],
+    "correctAnswer": "45/30 (hoặc 3/2)"
+  },
+  {
+    "question": "Một thùng dầu có 60 lít. Lần đầu người ta lấy 1/3 thùng, lần sau lấy 1/4 thùng. Hỏi thùng còn lại bao nhiêu lít dầu?",
+    "options": ["25 lít", "20 lít", "15 lít", "35 lít"],
+    "correctAnswer": "25 lít"
+  },
+  {
+    "question": "Kết quả của phép tính 2/5 x 3/4 là:",
+    "options": ["6/20 (hoặc 3/10)", "8/15", "5/9", "1"],
+    "correctAnswer": "6/20 (hoặc 3/10)"
+  },
+  {
+    "question": "Kết quả của phép tính 5/6 : 2/3 là:",
+    "options": ["15/12 (hoặc 5/4)", "10/18", "7/9", "1"],
+    "correctAnswer": "15/12 (hoặc 5/4)"
+  },
+  {
+    "question": "1/4 của 100 là:",
+    "options": ["25", "400", "50", "20"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Một sân trường hình chữ nhật có chiều dài 50m, chiều rộng bằng 3/5 chiều dài. Diện tích sân trường là:",
+    "options": ["1500 m²", "30 m", "80 m", "160 m²"],
+    "correctAnswer": "1500 m²"
+  },
+  {
+    "question": "Tính: (1/2 + 1/3) x 2/5",
+    "options": ["10/30 (hoặc 1/3)", "5/6", "2/5", "1"],
+    "correctAnswer": "10/30 (hoặc 1/3)"
+  },
+  {
+    "question": "Tính: 1/2 : 1/3 : 1/4",
+    "options": ["6", "1/24", "1", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Một số biết 2/3 của nó bằng 10. Số đó là:",
+    "options": ["15", "20/3", "30", "5"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả bằng 1?",
+    "options": ["3/4 : 3/4", "3/4 x 3/4", "3/4 + 3/4", "3/4 - 3/4"],
+    "correctAnswer": "3/4 : 3/4"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả lớn hơn 1?",
+    "options": ["5/4 x 2/1", "1/2 x 1/3", "2/3 : 3/2", "5/6 x 1"],
+    "correctAnswer": "5/4 x 2/1"
+  },
+  {
+    "question": "Phép tính nào sau đây có kết quả bé hơn 1?",
+    "options": ["1/2 x 3/4", "5/4 : 1/2", "2 x 3/5", "7/8 : 1/2"],
+    "correctAnswer": "1/2 x 3/4"
+  },
+  {
+    "question": "Tính: 3/5 x 1",
+    "options": ["3/5", "1", "5/3", "8/5"],
+    "correctAnswer": "3/5"
+  },
+  {
+    "question": "Tính: 4/7 : 1",
+    "options": ["4/7", "1", "7/4", "3/7"],
+    "correctAnswer": "4/7"
+  },
+  {
+    "question": "Tính: 2/9 x 0",
+    "options": ["0", "2/9", "9/2", "1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Có thể thực hiện phép chia một phân số cho 0 không?",
+    "options": ["Không", "Có", "Chỉ khi tử số là 0", "Chỉ khi mẫu số là 0"],
+    "correctAnswer": "Không"
+  },
+  {
+    "question": "2/3 quãng đường dài 12km. Cả quãng đường dài bao nhiêu ki-lô-mét?",
+    "options": ["18 km", "8 km", "24 km", "36 km"],
+    "correctAnswer": "18 km"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 20/3 m, chiều dài 7/3 m. Diện tích hình chữ nhật đó là:",
+    "options": ["7/3 m²", "1 m²", "10/3 m", "3 m"],
+    "correctAnswer": "7/3 m²"
+  },
+  {
+    "question": "Tính: 5/9 x 3/10",
+    "options": ["15/90 (hoặc 1/6)", "8/19", "1", "15/19"],
+    "correctAnswer": "15/90 (hoặc 1/6)"
+  },
+  {
+    "question": "Tính: 6/7 : 3",
+    "options": ["6/21 (hoặc 2/7)", "18/7", "1", "2/7"],
+    "correctAnswer": "6/21 (hoặc 2/7)"
+  },
+  {
+    "question": "3/5 của 1 tấn là bao nhiêu tạ?",
+    "options": ["6 tạ", "3 tạ", "5 tạ", "10 tạ"],
+    "correctAnswer": "6 tạ"
+  },
+  {
+    "question": "Tìm x, biết 4/5 x x = 8/5",
+    "options": ["x = 2", "x = 32/25", "x = 1", "x = 4/5"],
+    "correctAnswer": "x = 2"
+  },
+  {
+    "question": "Một vòi nước chảy vào bể. Giờ đầu chảy được 1/3 bể, giờ sau chảy được 2/5 bể. Hỏi sau hai giờ vòi chảy được mấy phần bể?",
+    "options": ["11/15", "3/8", "1/15", "1"],
+    "correctAnswer": "11/15"
+  },
+  {
+    "question": "Tính: (1 - 1/3) x 3/4",
+    "options": ["6/12 (hoặc 1/2)", "2/3", "3/4", "1"],
+    "correctAnswer": "6/12 (hoặc 1/2)"
+  },
+  {
+    "question": "Tính: 3/5 : (1 - 1/10)",
+    "options": ["30/45 (hoặc 2/3)", "9/10", "3/5", "1"],
+    "correctAnswer": "30/45 (hoặc 2/3)"
+  },
+  {
+    "question": "Một số biết 1/2 của nó bằng 20. Vậy 1/4 của số đó bằng bao nhiêu?",
+    "options": ["10", "40", "20", "5"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "So sánh: 2/3 x 4/5 và 1",
+    "options": ["2/3 x 4/5 < 1", "2/3 x 4/5 > 1", "2/3 x 4/5 = 1", "Không so sánh được"],
+    "correctAnswer": "2/3 x 4/5 < 1"
+  },
+  {
+    "question": "So sánh: 5/4 : 2/3 và 1",
+    "options": ["5/4 : 2/3 > 1", "5/4 : 2/3 < 1", "5/4 : 2/3 = 1", "Không so sánh được"],
+    "correctAnswer": "5/4 : 2/3 > 1"
+  },
+  {
+    "question": "Một người bán 120 quả trứng, trong đó số trứng gà bằng 2/3 số trứng vịt. Hỏi người đó bán bao nhiêu quả trứng gà?",
+    "options": ["48 quả", "72 quả", "80 quả", "40 quả"],
+    "correctAnswer": "48 quả"
+  },
+  {
+    "question": "Tính: 1/10 x 100",
+    "options": ["10", "1", "1000", "1/1000"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tính: 50 : 1/2",
+    "options": ["100", "25", "50/2", "1/100"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Tìm 5/8 của 64.",
+    "options": ["40", "8", "320", "50"],
+    "correctAnswer": "40"
+  },
+  {
+    "question": "Một ô tô đi được 60km với vận tốc 40 km/giờ. Thời gian ô tô đã đi là:",
+    "options": ["3/2 giờ (hoặc 1,5 giờ)", "2/3 giờ", "1 giờ", "2 giờ"],
+    "correctAnswer": "3/2 giờ (hoặc 1,5 giờ)"
+  },
+  {
+    "question": "Tính: 2/5 x 3/7 + 2/5 x 4/7",
+    "options": ["2/5", "1", "14/35", "2/7"],
+    "correctAnswer": "2/5"
+  },
+  {
+    "question": "Tính: 7/9 : 2/3 - 1/3",
+    "options": ["15/18 (hoặc 5/6)", "7/6", "1", "6/6"],
+    "correctAnswer": "15/18 (hoặc 5/6)"
+  },
+  {
+    "question": "Một số biết 3/4 của nó bằng 15. Số đó là:",
+    "options": ["20", "45/4", "15", "25"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Phép tính nào có kết quả là một số tự nhiên?",
+    "options": ["1/2 x 10", "1/3 x 10", "1/4 x 10", "1/6 x 10"],
+    "correctAnswer": "1/2 x 10"
+  },
+  {
+    "question": "Phép tính nào có kết quả là một phân số lớn hơn 1?",
+    "options": ["3/2 : 1/2", "1/2 : 3/2", "1/2 x 1/2", "3/2 - 1/2"],
+    "correctAnswer": "3/2 : 1/2"
+  },
+  {
+    "question": "Một cửa hàng có 200kg gạo. Buổi sáng bán được 1/4 số gạo. Buổi chiều bán được 1/5 số gạo còn lại. Cửa hàng còn lại bao nhiêu kg gạo?",
+    "options": ["120 kg", "150 kg", "50 kg", "30 kg"],
+    "correctAnswer": "120 kg"
+  },
+  {
+    "question": "Tính: 1/2 x 2/3 : 3/4",
+    "options": ["4/9", "1/4", "1", "6/9"],
+    "correctAnswer": "4/9"
+  },
+  {
+    "question": "Tính: 10 x 2/5",
+    "options": ["4", "20/5", "Cả A và B đều đúng", "25"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Tính: 12 : 3/4",
+    "options": ["16", "9", "36/4", "1"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "2/7 của 49 là:",
+    "options": ["14", "7", "98", "20"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Một người đi bộ 15 phút được 1/4 quãng đường. Để đi hết quãng đường người đó cần bao nhiêu phút?",
+    "options": ["60 phút", "15 phút", "30 phút", "45 phút"],
+    "correctAnswer": "60 phút"
+  },
+  {
+    "question": "Tính: (1/2 + 1/4) : 3/4",
+    "options": ["1", "3/4", "9/16", "1/2"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Tính: 5/3 - 1/3 x 2",
+    "options": ["1", "3/3", "Cả A và B đều đúng", "8/3"],
+    "correctAnswer": "Cả A và B đều đúng"
+  },
+  {
+    "question": "Một số biết 1/5 của nó bằng 4. Vậy 3/4 của số đó bằng bao nhiêu?",
+    "options": ["15", "20", "10", "12"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Phép tính 2/5 x 5/2 cho kết quả là:",
+    "options": ["1", "10/10", "Một số nhân với nghịch đảo của nó", "Tất cả các đáp án trên đều đúng"],
+    "correctAnswer": "Tất cả các đáp án trên đều đúng"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích là 1 m², chiều rộng là 2/3 m. Chu vi của hình chữ nhật đó là:",
+    "options": ["13/3 m", "3/2 m", "1", "5/3 m"],
+    "correctAnswer": "13/3 m"
+  },
+  {
+    "question": "Một can dầu chứa 20 lít. Người ta rót ra 3/5 số dầu. Hỏi trong can còn lại bao nhiêu lít dầu?",
+    "options": ["8 lít", "12 lít", "10 lít", "5 lít"],
+    "correctAnswer": "8 lít"
+  }
+]
+
