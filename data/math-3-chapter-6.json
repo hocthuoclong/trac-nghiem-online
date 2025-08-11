@@ -1,0 +1,453 @@
+[
+  {
+    "question": "Kết quả của phép tính 123 x 3 là:",
+    "options": ["369", "366", "396", "363"],
+    "correctAnswer": "369"
+  },
+  {
+    "question": "Đặt tính rồi tính: 214 x 2",
+    "options": ["428", "426", "248", "482"],
+    "correctAnswer": "428"
+  },
+  {
+    "question": "Kết quả của phép tính 484 : 4 là:",
+    "options": ["121", "120", "112", "122"],
+    "correctAnswer": "121"
+  },
+  {
+    "question": "Đặt tính rồi tính: 639 : 3",
+    "options": ["213", "212", "231", "312"],
+    "correctAnswer": "213"
+  },
+  {
+    "question": "Giá trị của biểu thức 50 + 20 x 2 là:",
+    "options": ["90", "140", "72", "100"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Giá trị của biểu thức (50 + 20) x 2 là:",
+    "options": ["140", "90", "70", "100"],
+    "correctAnswer": "140"
+  },
+  {
+    "question": "Số 18 gấp số 6 mấy lần?",
+    "options": ["3 lần", "12 lần", "24 lần", "2 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Số 40 gấp mấy lần số 8?",
+    "options": ["5 lần", "32 lần", "48 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Một cửa hàng có 120 kg gạo. Số ngô ít hơn số gạo 30 kg. Hỏi cửa hàng có tất cả bao nhiêu ki-lô-gam gạo và ngô?",
+    "options": ["210 kg", "90 kg", "150 kg", "240 kg"],
+    "correctAnswer": "210 kg"
+  },
+  {
+    "question": "Mẹ có 50 000 đồng. Mẹ mua một quyển sách giá 25 000 đồng và một cái bút giá 5 000 đồng. Hỏi mẹ còn lại bao nhiêu tiền?",
+    "options": ["20 000 đồng", "30 000 đồng", "25 000 đồng", "15 000 đồng"],
+    "correctAnswer": "20 000 đồng"
+  },
+  {
+    "question": "Tính: 112 x 5",
+    "options": ["560", "550", "510", "555"],
+    "correctAnswer": "560"
+  },
+  {
+    "question": "Tính: 369 : 3",
+    "options": ["123", "132", "121", "133"],
+    "correctAnswer": "123"
+  },
+  {
+    "question": "Giá trị của biểu thức 100 - 60 : 3 là:",
+    "options": ["80", "40", "20", "13"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Con chó nặng 12 kg. Con lợn nặng 60 kg. Hỏi con lợn nặng gấp mấy lần con chó?",
+    "options": ["5 lần", "48 lần", "72 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Một đội công nhân sửa được 150m đường trong 3 ngày. Hỏi mỗi ngày đội đó sửa được bao nhiêu mét đường?",
+    "options": ["50 m", "450 m", "147 m", "153 m"],
+    "correctAnswer": "50 m"
+  },
+  {
+    "question": "Tính: 241 x 4",
+    "options": ["964", "864", "961", "861"],
+    "correctAnswer": "964"
+  },
+  {
+    "question": "Tính: 848 : 2",
+    "options": ["424", "422", "442", "444"],
+    "correctAnswer": "424"
+  },
+  {
+    "question": "Giá trị của biểu thức 6 x (20 - 10) là:",
+    "options": ["60", "120", "110", "10"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Sợi dây xanh dài 45 cm. Sợi dây đỏ dài 9 cm. Hỏi sợi dây xanh dài gấp mấy lần sợi dây đỏ?",
+    "options": ["5 lần", "36 lần", "54 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Có 3 thùng dầu, mỗi thùng chứa 25 lít. Người ta lấy ra 40 lít. Hỏi còn lại bao nhiêu lít dầu?",
+    "options": ["35 lít", "75 lít", "28 lít", "22 lít"],
+    "correctAnswer": "35 lít"
+  },
+  {
+    "question": "Tính: 105 x 6",
+    "options": ["630", "603", "636", "600"],
+    "correctAnswer": "630"
+  },
+  {
+    "question": "Tính: 720 : 8",
+    "options": ["90", "80", "70", "60"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Giá trị của biểu thức 24 : 4 + 2 là:",
+    "options": ["8", "6", "4", "12"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Cây cau cao 12m. Cây dừa cao 4m. Cây cau cao gấp mấy lần cây dừa?",
+    "options": ["3 lần", "8 lần", "16 lần", "2 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Một cửa hàng có 100 kg đường, đã bán 1/5 số đường đó. Sau đó bán thêm 30 kg nữa. Hỏi cửa hàng còn lại bao nhiêu kg đường?",
+    "options": ["50 kg", "20 kg", "80 kg", "70 kg"],
+    "correctAnswer": "50 kg"
+  },
+  {
+    "question": "Tính: 135 x 3",
+    "options": ["405", "395", "402", "305"],
+    "correctAnswer": "405"
+  },
+  {
+    "question": "Tính: 525 : 5",
+    "options": ["105", "15", "101", "115"],
+    "correctAnswer": "105"
+  },
+  {
+    "question": "Giá trị của biểu thức 30 x 3 - 30 là:",
+    "options": ["60", "90", "0", "30"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Bao gạo nặng 50 kg. Bao ngô nặng 10 kg. Bao gạo nặng gấp mấy lần bao ngô?",
+    "options": ["5 lần", "40 lần", "60 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "An có 15 viên bi. Bình có số bi gấp 3 lần số bi của An. Hỏi cả hai bạn có bao nhiêu viên bi?",
+    "options": ["60 viên", "45 viên", "18 viên", "30 viên"],
+    "correctAnswer": "60 viên"
+  },
+  {
+    "question": "Tính: 111 x 9",
+    "options": ["999", "990", "909", "1000"],
+    "correctAnswer": "999"
+  },
+  {
+    "question": "Tính: 816 : 8",
+    "options": ["102", "12", "101", "120"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Giá trị của biểu thức 72 : 9 + 12 là:",
+    "options": ["20", "8", "15", "21"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Mẹ 36 tuổi, con 9 tuổi. Tuổi mẹ gấp mấy lần tuổi con?",
+    "options": ["4 lần", "27 lần", "45 lần", "3 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Có 45 học sinh xếp thành 5 hàng. Sau đó 2 hàng đi lao động. Hỏi còn lại mấy hàng?",
+    "options": ["3 hàng", "9 học sinh", "27 học sinh", "2 hàng"],
+    "correctAnswer": "3 hàng"
+  },
+  {
+    "question": "Tính: 142 x 6",
+    "options": ["852", "842", "642", "856"],
+    "correctAnswer": "852"
+  },
+  {
+    "question": "Tính: 606 : 6",
+    "options": ["101", "11", "100", "110"],
+    "correctAnswer": "101"
+  },
+  {
+    "question": "Giá trị của biểu thức 5 x (15 + 5) là:",
+    "options": ["100", "80", "25", "75"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Đoạn thẳng AB dài 10 cm. Đoạn thẳng CD dài 50 cm. Đoạn thẳng CD dài gấp mấy lần đoạn thẳng AB?",
+    "options": ["5 lần", "40 lần", "60 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Một thùng có 100 lít nước mắm, chia đều vào 5 can. Người ta đã bán 2 can. Hỏi còn lại bao nhiêu lít nước mắm?",
+    "options": ["60 lít", "20 lít", "40 lít", "80 lít"],
+    "correctAnswer": "60 lít"
+  },
+  {
+    "question": "Tính: 250 x 3",
+    "options": ["750", "650", "753", "653"],
+    "correctAnswer": "750"
+  },
+  {
+    "question": "Tính: 420 : 7",
+    "options": ["60", "70", "50", "80"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Giá trị của biểu thức 100 : 5 x 4 là:",
+    "options": ["80", "5", "20", "100"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Anh có 24 cái kẹo. Em có 8 cái kẹo. Số kẹo của anh gấp mấy lần số kẹo của em?",
+    "options": ["3 lần", "16 lần", "32 lần", "2 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Một người nuôi 40 con gà. Người đó đã bán đi 1/4 số gà. Hỏi người đó còn lại bao nhiêu con gà?",
+    "options": ["30 con", "10 con", "36 con", "20 con"],
+    "correctAnswer": "30 con"
+  },
+  {
+    "question": "Tính: 115 x 7",
+    "options": ["805", "705", "775", "815"],
+    "correctAnswer": "805"
+  },
+  {
+    "question": "Tính: 963 : 3",
+    "options": ["321", "331", "312", "323"],
+    "correctAnswer": "321"
+  },
+  {
+    "question": "Giá trị của biểu thức 200 - 100 : 2 là:",
+    "options": ["150", "50", "100", "198"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Quyển sách Toán dày 120 trang. Quyển sách Tiếng Việt dày 60 trang. Sách Toán dày gấp mấy lần sách Tiếng Việt?",
+    "options": ["2 lần", "60 lần", "180 lần", "3 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Có 5 túi bi, mỗi túi có 12 viên. Chia đều số bi đó cho 6 bạn. Hỏi mỗi bạn được bao nhiêu viên bi?",
+    "options": ["10 viên", "60 viên", "5 viên", "12 viên"],
+    "correctAnswer": "10 viên"
+  },
+  {
+    "question": "Tính: 108 x 8",
+    "options": ["864", "808", "884", "868"],
+    "correctAnswer": "864"
+  },
+  {
+    "question": "Tính: 728 : 7",
+    "options": ["104", "14", "103", "140"],
+    "correctAnswer": "104"
+  },
+  {
+    "question": "Giá trị của biểu thức 36 : (2 + 4) là:",
+    "options": ["6", "22", "18", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Bút chì giá 2 nghìn đồng. Bút mực giá 10 nghìn đồng. Bút mực đắt gấp mấy lần bút chì?",
+    "options": ["5 lần", "8 lần", "12 lần", "4 lần"],
+    "correctAnswer": "5 lần"
+  },
+  {
+    "question": "Một đội xe có 5 xe tải, mỗi xe chở 20 bao gạo. Người ta dỡ xuống 30 bao. Hỏi trên xe còn lại bao nhiêu bao gạo?",
+    "options": ["70 bao", "100 bao", "25 bao", "80 bao"],
+    "correctAnswer": "70 bao"
+  },
+  {
+    "question": "Tính: 150 x 5",
+    "options": ["750", "550", "755", "650"],
+    "correctAnswer": "750"
+  },
+  {
+    "question": "Tính: 640 : 8",
+    "options": ["80", "70", "90", "60"],
+    "correctAnswer": "80"
+  },
+  {
+    "question": "Giá trị của biểu thức 40 + 60 : 2 là:",
+    "options": ["70", "50", "80", "100"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "Số 6 gấp số 2 mấy lần?",
+    "options": ["3 lần", "4 lần", "8 lần", "2 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Bố 40 tuổi, con bằng 1/5 tuổi bố. Hỏi bố hơn con bao nhiêu tuổi?",
+    "options": ["32 tuổi", "8 tuổi", "48 tuổi", "35 tuổi"],
+    "correctAnswer": "32 tuổi"
+  },
+  {
+    "question": "Tính: 125 x 8",
+    "options": ["1000", "900", "100", "800"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Tính: 918 : 9",
+    "options": ["102", "12", "101", "120"],
+    "correctAnswer": "102"
+  },
+  {
+    "question": "Giá trị của biểu thức 12 x 3 + 12 x 7 là:",
+    "options": ["120", "36", "84", "100"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Số 72 gấp mấy lần số 9?",
+    "options": ["8 lần", "63 lần", "81 lần", "7 lần"],
+    "correctAnswer": "8 lần"
+  },
+  {
+    "question": "Một cửa hàng có 6 thùng bánh, mỗi thùng có 12 hộp. Cửa hàng đã bán hết một nửa số bánh. Hỏi cửa hàng còn lại bao nhiêu hộp bánh?",
+    "options": ["36 hộp", "72 hộp", "6 hộp", "30 hộp"],
+    "correctAnswer": "36 hộp"
+  },
+  {
+    "question": "Tính: 113 x 6",
+    "options": ["678", "668", "676", "666"],
+    "correctAnswer": "678"
+  },
+  {
+    "question": "Tính: 535 : 5",
+    "options": ["107", "17", "105", "170"],
+    "correctAnswer": "107"
+  },
+  {
+    "question": "Giá trị của biểu thức 80 - 20 x 3 là:",
+    "options": ["20", "60", "180", "100"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Thùng to có 21 lít dầu, thùng bé có 7 lít dầu. Thùng to có số dầu gấp mấy lần thùng bé?",
+    "options": ["3 lần", "14 lần", "28 lần", "2 lần"],
+    "correctAnswer": "3 lần"
+  },
+  {
+    "question": "Có 60 quyển vở chia đều cho 5 bạn. Sau đó mỗi bạn mua thêm 3 quyển. Hỏi mỗi bạn có bao nhiêu quyển vở?",
+    "options": ["15 quyển", "12 quyển", "9 quyển", "18 quyển"],
+    "correctAnswer": "15 quyển"
+  },
+  {
+    "question": "Tính: 160 x 4",
+    "options": ["640", "604", "460", "644"],
+    "correctAnswer": "640"
+  },
+  {
+    "question": "Tính: 810 : 9",
+    "options": ["90", "80", "100", "70"],
+    "correctAnswer": "90"
+  },
+  {
+    "question": "Giá trị của biểu thức (15 + 25) : 5 là:",
+    "options": ["8", "20", "40", "5"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Số 49 gấp số 7 mấy lần?",
+    "options": ["7 lần", "42 lần", "56 lần", "6 lần"],
+    "correctAnswer": "7 lần"
+  },
+  {
+    "question": "Một rổ có 36 quả cam. Người ta bán đi 1/3 số cam. Hỏi trong rổ còn lại bao nhiêu quả cam?",
+    "options": ["24 quả", "12 quả", "33 quả", "30 quả"],
+    "correctAnswer": "24 quả"
+  },
+  {
+    "question": "Tính: 107 x 9",
+    "options": ["963", "907", "973", "969"],
+    "correctAnswer": "963"
+  },
+  {
+    "question": "Tính: 840 : 7",
+    "options": ["120", "110", "130", "102"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "Giá trị của biểu thức 10 x 5 - 20 là:",
+    "options": ["30", "50", "3", "40"],
+    "correctAnswer": "30"
+  },
+  {
+    "question": "Bao gạo to nặng 40kg, bao gạo nhỏ nặng 10kg. Bao gạo to nặng gấp mấy lần bao gạo nhỏ?",
+    "options": ["4 lần", "30 lần", "50 lần", "3 lần"],
+    "correctAnswer": "4 lần"
+  },
+  {
+    "question": "Một người đi xe đạp 2 giờ đi được 24km. Hỏi trong 3 giờ người đó đi được bao nhiêu km?",
+    "options": ["36 km", "12 km", "48 km", "30 km"],
+    "correctAnswer": "36 km"
+  },
+  {
+    "question": "Tính: 130 x 7",
+    "options": ["910", "901", "710", "917"],
+    "correctAnswer": "910"
+  },
+  {
+    "question": "Tính: 650 : 5",
+    "options": ["130", "120", "140", "150"],
+    "correctAnswer": "130"
+  },
+  {
+    "question": "Giá trị của biểu thức 500 : 5 + 50 là:",
+    "options": ["150", "100", "60", "20"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Số 56 gấp mấy lần số 8?",
+    "options": ["7 lần", "48 lần", "64 lần", "6 lần"],
+    "correctAnswer": "7 lần"
+  },
+  {
+    "question": "Một đàn vịt có 60 con, trong đó 1/6 là vịt đực. Hỏi có bao nhiêu con vịt cái?",
+    "options": ["50 con", "10 con", "54 con", "40 con"],
+    "correctAnswer": "50 con"
+  },
+  {
+    "question": "Tính: 112 x 8",
+    "options": ["896", "886", "898", "888"],
+    "correctAnswer": "896"
+  },
+  {
+    "question": "Tính: 960 : 6",
+    "options": ["160", "150", "140", "170"],
+    "correctAnswer": "160"
+  },
+  {
+    "question": "Giá trị của biểu thức 40 x 5 : 2 là:",
+    "options": ["100", "200", "40", "10"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Số 81 gấp mấy lần số 9?",
+    "options": ["9 lần", "72 lần", "90 lần", "8 lần"],
+    "correctAnswer": "9 lần"
+  },
+  {
+    "question": "Một cửa hàng có 120m vải, đã bán 1/3 số vải. Sau đó bán thêm 20m nữa. Hỏi cửa hàng còn lại bao nhiêu mét vải?",
+    "options": ["60 m", "40 m", "80 m", "100 m"],
+    "correctAnswer": "60 m"
+  }
+]
+
