@@ -1,0 +1,448 @@
+[
+  {
+    "question": "Kết quả của phép tính 12 345 x 3 là:",
+    "options": ["37 035", "36 035", "37 135", "36 925"],
+    "correctAnswer": "37 035"
+  },
+  {
+    "question": "Đặt tính rồi tính: 20 150 x 4",
+    "options": ["80 600", "80 400", "84 600", "80 500"],
+    "correctAnswer": "80 600"
+  },
+  {
+    "question": "Kết quả của phép tính 48 624 : 2 là:",
+    "options": ["24 312", "24 310", "23 412", "24 412"],
+    "correctAnswer": "24 312"
+  },
+  {
+    "question": "Tìm thương của phép chia 96 309 cho 3.",
+    "options": ["32 103", "32 130", "31 203", "32 100"],
+    "correctAnswer": "32 103"
+  },
+  {
+    "question": "Tính chất giao hoán của phép nhân được phát biểu là:",
+    "options": ["Khi đổi chỗ các thừa số trong một tích thì tích không thay đổi.", "Khi nhân một tích hai số với số thứ ba, ta có thể nhân số thứ nhất với tích của số thứ hai và số thứ ba.", "Khi nhân một số với một tổng, ta có thể nhân số đó với từng số hạng của tổng.", "Tích của một số với 1 bằng chính nó."],
+    "correctAnswer": "Khi đổi chỗ các thừa số trong một tích thì tích không thay đổi."
+  },
+  {
+    "question": "Áp dụng tính chất giao hoán, 25 x 100 = ...",
+    "options": ["100 x 25", "25 + 100", "100 : 25", "2500"],
+    "correctAnswer": "100 x 25"
+  },
+  {
+    "question": "Tính chất kết hợp của phép nhân được viết dưới dạng công thức là:",
+    "options": ["(a x b) x c = a x (b x c)", "a x b = b x a", "a x (b + c) = a x b + a x c", "a x 1 = a"],
+    "correctAnswer": "(a x b) x c = a x (b x c)"
+  },
+  {
+    "question": "Kết quả của phép tính 456 x 10 là:",
+    "options": ["4560", "456", "45600", "45610"],
+    "correctAnswer": "4560"
+  },
+  {
+    "question": "Kết quả của phép tính 7800 : 100 là:",
+    "options": ["78", "780", "780000", "7.8"],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "Tính chất phân phối của phép nhân đối với phép cộng được viết là:",
+    "options": ["a x (b + c) = a x b + a x c", "(a + b) x c = a + b x c", "a x b + c = a x (b + c)", "a x b + c = a + b + c"],
+    "correctAnswer": "a x (b + c) = a x b + a x c"
+  },
+  {
+    "question": "Kết quả của phép tính 123 x 23 là:",
+    "options": ["2829", "2729", "2819", "2719"],
+    "correctAnswer": "2829"
+  },
+  {
+    "question": "Đặt tính rồi tính: 405 x 15",
+    "options": ["6075", "6025", "5075", "6175"],
+    "correctAnswer": "6075"
+  },
+  {
+    "question": "Kết quả của phép tính 864 : 24 là:",
+    "options": ["36", "34", "26", "35"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "Tìm thương của 1350 và 50.",
+    "options": ["27", "25", "37", "26"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "Ước lượng kết quả của phép tính 498 x 5.",
+    "options": ["Khoảng 2500", "Khoảng 2000", "Khoảng 3000", "Khoảng 2400"],
+    "correctAnswer": "Khoảng 2500"
+  },
+  {
+    "question": "Tìm số trung bình cộng của các số: 10, 20, 30.",
+    "options": ["20", "60", "30", "15"],
+    "correctAnswer": "20"
+  },
+  {
+    "question": "Mua 5 quyển vở hết 40 000 đồng. Hỏi mua 1 quyển vở như thế hết bao nhiêu tiền?",
+    "options": ["8 000 đồng", "5 000 đồng", "4 000 đồng", "10 000 đồng"],
+    "correctAnswer": "8 000 đồng"
+  },
+  {
+    "question": "Một ô tô trong 3 giờ đi được 150 km. Hỏi trung bình mỗi giờ ô tô đi được bao nhiêu ki-lô-mét?",
+    "options": ["50 km", "30 km", "450 km", "60 km"],
+    "correctAnswer": "50 km"
+  },
+  {
+    "question": "Tính nhẩm: 32 000 x 3",
+    "options": ["96 000", "93 000", "69 000", "9600"],
+    "correctAnswer": "96 000"
+  },
+  {
+    "question": "Tìm số dư của phép chia 45 124 : 5.",
+    "options": ["4", "1", "2", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tính bằng cách thuận tiện nhất: 2 x 45 x 50",
+    "options": ["4500", "450", "2450", "5000"],
+    "correctAnswer": "4500"
+  },
+  {
+    "question": "Một số nhân với 1000 được 78 000. Số đó là:",
+    "options": ["78", "780", "7800", "7.8"],
+    "correctAnswer": "78"
+  },
+  {
+    "question": "Áp dụng tính chất phân phối để tính nhanh: 25 x 12 + 25 x 88",
+    "options": ["2500", "100", "2200", "2400"],
+    "correctAnswer": "2500"
+  },
+  {
+    "question": "Một đội công nhân trong 5 ngày sửa được 250m đường. Hỏi trong 10 ngày đội đó sửa được bao nhiêu mét đường (sức làm như nhau)?",
+    "options": ["500m", "50m", "1250m", "2500m"],
+    "correctAnswer": "500m"
+  },
+  {
+    "question": "Tìm số trung bình cộng của bốn số: 10, 15, 20, 25.",
+    "options": ["17.5", "70", "17", "18"],
+    "correctAnswer": "17.5"
+  },
+  {
+    "question": "Ước lượng thương của phép chia 999 : 11.",
+    "options": ["Khoảng 90", "Khoảng 100", "Khoảng 80", "Khoảng 110"],
+    "correctAnswer": "Khoảng 90"
+  },
+  {
+    "question": "Kết quả của phép tính 215 x 34 là:",
+    "options": ["7310", "7210", "6310", "7300"],
+    "correctAnswer": "7310"
+  },
+  {
+    "question": "Tìm thương và số dư của phép chia 1234 : 12.",
+    "options": ["Thương 102, dư 10", "Thương 102, dư 0", "Thương 103, dư 10", "Thương 101, dư 22"],
+    "correctAnswer": "Thương 102, dư 10"
+  },
+  {
+    "question": "Một cửa hàng có 12 thùng sữa, mỗi thùng có 48 hộp. Cửa hàng đã bán được 1/4 số hộp sữa đó. Hỏi cửa hàng còn lại bao nhiêu hộp sữa?",
+    "options": ["432 hộp", "144 hộp", "576 hộp", "288 hộp"],
+    "correctAnswer": "432 hộp"
+  },
+  {
+    "question": "Tính nhẩm: 101 x 50",
+    "options": ["5050", "5005", "5500", "5000"],
+    "correctAnswer": "5050"
+  },
+  {
+    "question": "Một số chia cho 100 được 45. Số đó là:",
+    "options": ["4500", "450", "4.5", "0.45"],
+    "correctAnswer": "4500"
+  },
+  {
+    "question": "Tính chất nào cho phép ta tính 125 x 8 = 1000?",
+    "options": ["Tính chất kết hợp (ví dụ: 125 x (2x4))", "Tính chất giao hoán", "Tính chất phân phối", "Không có tính chất nào"],
+    "correctAnswer": "Tính chất kết hợp (ví dụ: 125 x (2x4))"
+  },
+  {
+    "question": "Có 120 quả cam chia đều vào 10 rổ. Hỏi 5 rổ như vậy có bao nhiêu quả cam?",
+    "options": ["60 quả", "12 quả", "50 quả", "70 quả"],
+    "correctAnswer": "60 quả"
+  },
+  {
+    "question": "Chiều cao của 3 bạn An, Bình, Cường lần lượt là 130cm, 135cm, 140cm. Chiều cao trung bình của ba bạn là:",
+    "options": ["135 cm", "405 cm", "130 cm", "140 cm"],
+    "correctAnswer": "135 cm"
+  },
+  {
+    "question": "Ước lượng tích của 199 và 21.",
+    "options": ["Khoảng 4000", "Khoảng 2000", "Khoảng 3000", "Khoảng 4200"],
+    "correctAnswer": "Khoảng 4000"
+  },
+  {
+    "question": "Kết quả của phép tính 10 000 : 25 là:",
+    "options": ["400", "40", "4000", "250"],
+    "correctAnswer": "400"
+  },
+  {
+    "question": "Một xưởng may, mỗi ngày may được 120 bộ quần áo. Hỏi trong 15 ngày xưởng đó may được bao nhiêu bộ quần áo?",
+    "options": ["1800 bộ", "1500 bộ", "1200 bộ", "2000 bộ"],
+    "correctAnswer": "1800 bộ"
+  },
+  {
+    "question": "Tính nhanh: 125 x 45 - 125 x 35",
+    "options": ["1250", "125", "10", "1000"],
+    "correctAnswer": "1250"
+  },
+  {
+    "question": "Một số nhân với 10 rồi cộng với 5 thì được 105. Số đó là:",
+    "options": ["10", "100", "5", "15"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Trung bình cộng của hai số là 50. Một trong hai số là 40. Số còn lại là:",
+    "options": ["60", "10", "90", "50"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "May 3 bộ quần áo hết 9m vải. Hỏi may 12 bộ quần áo như thế hết bao nhiêu mét vải?",
+    "options": ["36 m", "27 m", "30 m", "40 m"],
+    "correctAnswer": "36 m"
+  },
+  {
+    "question": "Kết quả của phép tính 45 000 : 9 là:",
+    "options": ["5000", "500", "50", "50000"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Tính: 123 x (10 - 1)",
+    "options": ["1107", "1230", "1219", "1231"],
+    "correctAnswer": "1107"
+  },
+  {
+    "question": "Tích của 25 và 40 là:",
+    "options": ["1000", "100", "65", "10000"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Một đoàn xe có 12 xe, mỗi xe chở 25 bao gạo, mỗi bao nặng 50kg. Hỏi đoàn xe chở được bao nhiêu tấn gạo?",
+    "options": ["15 tấn", "30 tấn", "1.5 tấn", "150 tấn"],
+    "correctAnswer": "15 tấn"
+  },
+  {
+    "question": "Tìm số dư trong phép chia 2024 cho 15.",
+    "options": ["14", "4", "9", "0"],
+    "correctAnswer": "14"
+  },
+  {
+    "question": "Trung bình cộng của ba số là 60. Tổng của ba số đó là:",
+    "options": ["180", "20", "60", "120"],
+    "correctAnswer": "180"
+  },
+  {
+    "question": "Một đội trồng cây có 12 người, trong 2 ngày trồng được 480 cây. Hỏi mỗi người trong một ngày trồng được bao nhiêu cây?",
+    "options": ["20 cây", "40 cây", "240 cây", "60 cây"],
+    "correctAnswer": "20 cây"
+  },
+  {
+    "question": "Ước lượng kết quả: 8123 : 19",
+    "options": ["Khoảng 400", "Khoảng 800", "Khoảng 200", "Khoảng 100"],
+    "correctAnswer": "Khoảng 400"
+  },
+  {
+    "question": "Kết quả của phép tính 132 x 11 là:",
+    "options": ["1452", "1352", "1422", "13211"],
+    "correctAnswer": "1452"
+  },
+  {
+    "question": "Một số chia cho 25 được thương là 10 và số dư là 5. Số đó là:",
+    "options": ["255", "250", "55", "260"],
+    "correctAnswer": "255"
+  },
+  {
+    "question": "Tính nhanh: 5 x 25 x 2 x 4",
+    "options": ["1000", "100", "500", "2000"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "Một số chia cho 10 được 123. Số đó là:",
+    "options": ["1230", "12.3", "123", "12300"],
+    "correctAnswer": "1230"
+  },
+  {
+    "question": "Tính giá trị biểu thức: 15 x (100 + 2)",
+    "options": ["1530", "1502", "1520", "1700"],
+    "correctAnswer": "1530"
+  },
+  {
+    "question": "Một ô tô đi 100km thì tiêu thụ hết 8 lít xăng. Nếu ô tô đi 250km thì tiêu thụ hết bao nhiêu lít xăng?",
+    "options": ["20 lít", "16 lít", "25 lít", "30 lít"],
+    "correctAnswer": "20 lít"
+  },
+  {
+    "question": "Tuần đầu cửa hàng bán được 120kg gạo. Tuần thứ hai bán được 150kg gạo. Tuần thứ ba bán được 180kg gạo. Trung bình mỗi tuần cửa hàng bán được bao nhiêu kg gạo?",
+    "options": ["150 kg", "450 kg", "120 kg", "180 kg"],
+    "correctAnswer": "150 kg"
+  },
+  {
+    "question": "Kết quả của phép tính 20 406 : 6 là:",
+    "options": ["3401", "341", "3041", "3400"],
+    "correctAnswer": "3401"
+  },
+  {
+    "question": "Một hình chữ nhật có diện tích 120 cm², chiều rộng 10 cm. Chiều dài hình chữ nhật là:",
+    "options": ["12 cm", "1200 cm", "22 cm", "10 cm"],
+    "correctAnswer": "12 cm"
+  },
+  {
+    "question": "Tính: 1234 x 100",
+    "options": ["123400", "12340", "1234", "1234000"],
+    "correctAnswer": "123400"
+  },
+  {
+    "question": "Tính: 56000 : 1000",
+    "options": ["56", "560", "5.6", "5600"],
+    "correctAnswer": "56"
+  },
+  {
+    "question": "Tính nhanh: 134 x 4 + 134 x 6",
+    "options": ["1340", "134", "10", "1300"],
+    "correctAnswer": "1340"
+  },
+  {
+    "question": "Kết quả của phép tính 305 x 28 là:",
+    "options": ["8540", "8440", "8530", "8430"],
+    "correctAnswer": "8540"
+  },
+  {
+    "question": "Tìm thương của 2500 và 25.",
+    "options": ["100", "10", "1000", "25"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Ước lượng thương của 4015 : 21.",
+    "options": ["Khoảng 200", "Khoảng 400", "Khoảng 100", "Khoảng 20"],
+    "correctAnswer": "Khoảng 200"
+  },
+  {
+    "question": "Trung bình cộng của hai số là số lớn nhất có 2 chữ số. Tổng của hai số đó là:",
+    "options": ["198", "99", "100", "199"],
+    "correctAnswer": "198"
+  },
+  {
+    "question": "Mua 10 cái bút hết 50 000 đồng. Hỏi mua 4 cái bút như thế hết bao nhiêu tiền?",
+    "options": ["20 000 đồng", "5 000 đồng", "25 000 đồng", "10 000 đồng"],
+    "correctAnswer": "20 000 đồng"
+  },
+  {
+    "question": "Một đội công nhân có 8 người, sửa xong một đoạn đường trong 6 ngày. Nếu muốn sửa xong trong 4 ngày thì cần bao nhiêu người?",
+    "options": ["12 người", "10 người", "14 người", "16 người"],
+    "correctAnswer": "12 người"
+  },
+  {
+    "question": "Kết quả của phép tính 10 101 x 5 là:",
+    "options": ["50 505", "50 500", "55 555", "50 005"],
+    "correctAnswer": "50 505"
+  },
+  {
+    "question": "Tìm số dư của phép chia 1000 cho 33.",
+    "options": ["10", "30", "3", "0"],
+    "correctAnswer": "10"
+  },
+  {
+    "question": "Tính nhanh: 25 x 12",
+    "options": ["300", "250", "350", "275"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Một số nhân với 100 được 12 300. Số đó là:",
+    "options": ["123", "1230", "12.3", "1.23"],
+    "correctAnswer": "123"
+  },
+  {
+    "question": "Tính giá trị biểu thức: 45 x (10 - 1)",
+    "options": ["405", "450", "449", "440"],
+    "correctAnswer": "405"
+  },
+  {
+    "question": "Kết quả của phép tính 201 x 45 là:",
+    "options": ["9045", "9005", "8045", "9145"],
+    "correctAnswer": "9045"
+  },
+  {
+    "question": "Tìm thương và số dư của phép chia 2525 : 25.",
+    "options": ["Thương 101, dư 0", "Thương 100, dư 25", "Thương 11, dư 0", "Thương 10, dư 25"],
+    "correctAnswer": "Thương 101, dư 0"
+  },
+  {
+    "question": "Ước lượng kết quả của 32 x 48.",
+    "options": ["Khoảng 1500", "Khoảng 1200", "Khoảng 2000", "Khoảng 1600"],
+    "correctAnswer": "Khoảng 1500"
+  },
+  {
+    "question": "Trung bình cộng của 5 số là 30. Tổng của 5 số đó là:",
+    "options": ["150", "6", "35", "25"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Có 48kg kẹo chia đều vào 12 hộp. Hỏi 5 hộp như vậy có bao nhiêu ki-lô-gam kẹo?",
+    "options": ["20 kg", "4 kg", "24 kg", "17 kg"],
+    "correctAnswer": "20 kg"
+  },
+  {
+    "question": "Một người đi xe đạp trong 3 giờ đi được 36km. Hỏi với tốc độ đó, trong 5 giờ người đó đi được bao nhiêu ki-lô-mét?",
+    "options": ["60 km", "12 km", "48 km", "72 km"],
+    "correctAnswer": "60 km"
+  },
+  {
+    "question": "Tích của số lớn nhất có 3 chữ số và số bé nhất có 2 chữ số là:",
+    "options": ["9990", "999", "1000", "99900"],
+    "correctAnswer": "9990"
+  },
+  {
+    "question": "Tìm số dư của phép chia 12 345 : 7.",
+    "options": ["4", "1", "2", "3"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Tính nhanh: 125 x 5 x 8 x 2",
+    "options": ["10 000", "1000", "2000", "5000"],
+    "correctAnswer": "10 000"
+  },
+  {
+    "question": "Một số chia cho 1000 được 5. Số đó là:",
+    "options": ["5000", "500", "50", "0.005"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Tính nhanh: 99 x 15",
+    "options": ["1485", "1500", "1400", "1450"],
+    "correctAnswer": "1485"
+  },
+  {
+    "question": "Kết quả của phép tính 111 x 55 là:",
+    "options": ["6105", "5555", "6005", "6115"],
+    "correctAnswer": "6105"
+  },
+  {
+    "question": "Tìm thương trong phép chia có số bị chia là 1024 và số chia là 32.",
+    "options": ["32", "30", "34", "31"],
+    "correctAnswer": "32"
+  },
+  {
+    "question": "Ước lượng tích 102 x 88.",
+    "options": ["Khoảng 9000", "Khoảng 8000", "Khoảng 8800", "Khoảng 10000"],
+    "correctAnswer": "Khoảng 9000"
+  },
+  {
+    "question": "Trung bình cộng của hai số là 100. Hiệu của hai số là 20. Tìm số lớn.",
+    "options": ["110", "90", "120", "80"],
+    "correctAnswer": "110"
+  },
+  {
+    "question": "6 công nhân dệt được 300 cái áo trong 1 ngày. Hỏi 12 công nhân trong 1 ngày dệt được bao nhiêu cái áo?",
+    "options": ["600 cái", "50 cái", "312 cái", "150 cái"],
+    "correctAnswer": "600 cái"
+  },
+  {
+    "question": "Một máy bơm trong 1 giờ 30 phút bơm được 90 mét khối nước. Hỏi trung bình mỗi phút máy bơm đó bơm được bao nhiêu mét khối nước?",
+    "options": ["1 mét khối", "60 mét khối", "1.5 mét khối", "90 mét khối"],
+    "correctAnswer": "1 mét khối"
+  }
+]
+

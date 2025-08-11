@@ -1,0 +1,648 @@
+[
+  {
+    "question": "Số 'Bảy mươi sáu nghìn năm trăm hai mươi mốt' được viết là:",
+    "options": ["76 521", "70 652", "7652", "76 501"],
+    "correctAnswer": "76 521"
+  },
+  {
+    "question": "Trong số 84 932, giá trị của chữ số 4 là:",
+    "options": ["4000", "40", "400", "4"],
+    "correctAnswer": "4000"
+  },
+  {
+    "question": "Số liền sau của 89 999 là:",
+    "options": ["90 000", "89 998", "90 001", "89 990"],
+    "correctAnswer": "90 000"
+  },
+  {
+    "question": "Kết quả của phép tính 45 123 + 21 876 là:",
+    "options": ["66 999", "66 989", "67 099", "66 899"],
+    "correctAnswer": "66 999"
+  },
+  {
+    "question": "Trong các số sau, số nào là số lẻ?",
+    "options": ["55 555", "12 340", "67 892", "98 764"],
+    "correctAnswer": "55 555"
+  },
+  {
+    "question": "Giá trị của biểu thức 5000 - n với n = 1200 là:",
+    "options": ["3800", "6200", "4800", "3200"],
+    "correctAnswer": "3800"
+  },
+  {
+    "question": "Góc vuông có số đo bằng bao nhiêu độ?",
+    "options": ["90°", "180°", "45°", "0°"],
+    "correctAnswer": "90°"
+  },
+  {
+    "question": "Góc có số đo 110° được gọi là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 6 giờ đúng là góc gì?",
+    "options": ["Góc bẹt", "Góc vuông", "Góc tù", "Góc nhọn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Một góc bẹt bằng mấy lần góc vuông?",
+    "options": ["2 lần", "1 lần", "3 lần", "4 lần"],
+    "correctAnswer": "2 lần"
+  },
+  {
+    "question": "Số 1 000 000 được đọc là gì?",
+    "options": ["Một triệu", "Một trăm nghìn", "Mười triệu", "Một tỉ"],
+    "correctAnswer": "Một triệu"
+  },
+  {
+    "question": "Trong số 6 543 210, chữ số 5 thuộc hàng nào, lớp nào?",
+    "options": ["Hàng trăm nghìn, lớp nghìn", "Hàng triệu, lớp triệu", "Hàng chục nghìn, lớp nghìn", "Hàng trăm, lớp đơn vị"],
+    "correctAnswer": "Hàng trăm nghìn, lớp nghìn"
+  },
+  {
+    "question": "Làm tròn số 678 123 đến hàng trăm nghìn ta được:",
+    "options": ["700 000", "600 000", "680 000", "670 000"],
+    "correctAnswer": "700 000"
+  },
+  {
+    "question": "So sánh hai số: 8 765 432 và 8 756 432.",
+    "options": ["8 765 432 > 8 756 432", "8 765 432 < 8 756 432", "8 765 432 = 8 756 432", "Không so sánh được"],
+    "correctAnswer": "8 765 432 > 8 756 432"
+  },
+  {
+    "question": "Số liền trước của số tự nhiên bé nhất có 7 chữ số là:",
+    "options": ["999 999", "1 000 000", "1 000 001", "999 990"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "1 tạ bằng bao nhiêu ki-lô-gam?",
+    "options": ["100 kg", "10 kg", "1000 kg", "1 kg"],
+    "correctAnswer": "100 kg"
+  },
+  {
+    "question": "1 m² bằng bao nhiêu dm²?",
+    "options": ["100 dm²", "10 dm²", "1000 dm²", "1 dm²"],
+    "correctAnswer": "100 dm²"
+  },
+  {
+    "question": "1 thế kỉ bằng bao nhiêu năm?",
+    "options": ["100 năm", "10 năm", "1000 năm", "50 năm"],
+    "correctAnswer": "100 năm"
+  },
+  {
+    "question": "3 tấn 5 yến = ... kg. Số thích hợp là:",
+    "options": ["3050", "350", "3005", "3500"],
+    "correctAnswer": "3050"
+  },
+  {
+    "question": "Năm 1975 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XX (20)", "Thế kỉ XIX (19)", "Thế kỉ XXI (21)", "Thế kỉ XVIII (18)"],
+    "correctAnswer": "Thế kỉ XX (20)"
+  },
+  {
+    "question": "Kết quả của phép tính 876 543 - 123 123 là:",
+    "options": ["753 420", "753 320", "763 420", "853 420"],
+    "correctAnswer": "753 420"
+  },
+  {
+    "question": "Tính chất giao hoán của phép cộng được viết là:",
+    "options": ["a + b = b + a", "(a + b) + c = a + (b + c)", "a + 0 = a", "a - a = 0"],
+    "correctAnswer": "a + b = b + a"
+  },
+  {
+    "question": "Tính bằng cách thuận tiện nhất: 125 + 789 + 875",
+    "options": ["1789", "1000", "1664", "1800"],
+    "correctAnswer": "1789"
+  },
+  {
+    "question": "Tổng của hai số là 200, hiệu của hai số đó là 50. Số lớn là:",
+    "options": ["125", "75", "150", "100"],
+    "correctAnswer": "125"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 120m, chiều dài hơn chiều rộng 20m. Chiều rộng của hình chữ nhật là:",
+    "options": ["20m", "40m", "60m", "30m"],
+    "correctAnswer": "20m"
+  },
+  {
+    "question": "Hai đường thẳng vuông góc với nhau tạo thành mấy góc vuông?",
+    "options": ["4 góc vuông", "1 góc vuông", "2 góc vuông", "Không có góc vuông nào"],
+    "correctAnswer": "4 góc vuông"
+  },
+  {
+    "question": "Hai đường thẳng không bao giờ cắt nhau được gọi là hai đường thẳng...",
+    "options": ["Song song", "Vuông góc", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song"
+  },
+  {
+    "question": "Hình nào sau đây có bốn cạnh bằng nhau?",
+    "options": ["Hình thoi", "Hình bình hành", "Hình chữ nhật", "Hình thang"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Hai đường chéo của hình thoi có tính chất gì?",
+    "options": ["Vuông góc với nhau", "Bằng nhau", "Song song với nhau", "Không cắt nhau"],
+    "correctAnswer": "Vuông góc với nhau"
+  },
+  {
+    "question": "Chu vi của hình bình hành có hai cạnh là 10cm và 15cm là:",
+    "options": ["50 cm", "25 cm", "150 cm", "30 cm"],
+    "correctAnswer": "50 cm"
+  },
+  {
+    "question": "Số 543 210 được phân tích thành:",
+    "options": ["500000 + 40000 + 3000 + 200 + 10", "50000 + 4000 + 300 + 20 + 1", "5 + 4 + 3 + 2 + 1 + 0", "543 + 210"],
+    "correctAnswer": "500000 + 40000 + 3000 + 200 + 10"
+  },
+  {
+    "question": "Kết quả của phép tính 25 000 : 5 là:",
+    "options": ["5000", "500", "50", "50000"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Góc có số đo 15° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Số 'Ba triệu không trăm năm mươi nghìn' được viết là:",
+    "options": ["3 050 000", "3 500 000", "3 000 050", "3 005 000"],
+    "correctAnswer": "3 050 000"
+  },
+  {
+    "question": "2 tấn 5 tạ bằng bao nhiêu ki-lô-gam?",
+    "options": ["2500 kg", "2050 kg", "250 kg", "2005 kg"],
+    "correctAnswer": "2500 kg"
+  },
+  {
+    "question": "Tìm y, biết: y + 150 000 = 450 000",
+    "options": ["y = 300 000", "y = 600 000", "y = 400 000", "y = 200 000"],
+    "correctAnswer": "y = 300 000"
+  },
+  {
+    "question": "Tổng hai số là 50, hiệu hai số là 10. Tích hai số đó là:",
+    "options": ["600", "400", "500", "200"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Trong hình chữ nhật, hai cạnh đối diện thì...",
+    "options": ["Song song và bằng nhau", "Vuông góc với nhau", "Chỉ song song", "Chỉ bằng nhau"],
+    "correctAnswer": "Song song và bằng nhau"
+  },
+  {
+    "question": "Chu vi hình thoi có cạnh 8cm là:",
+    "options": ["32 cm", "16 cm", "64 cm", "24 cm"],
+    "correctAnswer": "32 cm"
+  },
+  {
+    "question": "Số lớn nhất có 5 chữ số khác nhau là:",
+    "options": ["98 765", "99 999", "10 234", "98 760"],
+    "correctAnswer": "98 765"
+  },
+  {
+    "question": "Kết quả của phép tính 10 200 x 4 là:",
+    "options": ["40 800", "48 000", "40 200", "40 080"],
+    "correctAnswer": "40 800"
+  },
+  {
+    "question": "Góc có số đo 175° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc bẹt", "Góc vuông"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Làm tròn số 1 234 567 đến hàng trăm nghìn:",
+    "options": ["1 200 000", "1 000 000", "1 300 000", "1 230 000"],
+    "correctAnswer": "1 200 000"
+  },
+  {
+    "question": "5 m² 25 dm² = ... dm². Số thích hợp là:",
+    "options": ["525", "5025", "5250", "505"],
+    "correctAnswer": "525"
+  },
+  {
+    "question": "1/2 thế kỉ bằng bao nhiêu năm?",
+    "options": ["50 năm", "20 năm", "5 năm", "100 năm"],
+    "correctAnswer": "50 năm"
+  },
+  {
+    "question": "Tính nhanh: 456 + (123 - 56)",
+    "options": ["523", "400", "635", "533"],
+    "correctAnswer": "523"
+  },
+  {
+    "question": "Hai chị em có tổng cộng 40 cái kẹo. Chị có nhiều hơn em 6 cái. Hỏi em có bao nhiêu cái kẹo?",
+    "options": ["17 cái", "23 cái", "20 cái", "14 cái"],
+    "correctAnswer": "17 cái"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng vuông góc với đường thẳng thứ ba thì chúng...",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Hình bình hành có hai đường chéo bằng nhau thì nó là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Vẫn là hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Tìm tổng của số bé nhất có 6 chữ số và số lớn nhất có 5 chữ số.",
+    "options": ["199 999", "109 999", "200 000", "999 999"],
+    "correctAnswer": "199 999"
+  },
+  {
+    "question": "Giá trị của chữ số 9 trong số 1 987 654 là:",
+    "options": ["900 000", "9 000 000", "90 000", "9000"],
+    "correctAnswer": "900 000"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 9 giờ đúng là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Lớp nghìn của số 1 234 567 gồm các chữ số nào?",
+    "options": ["2, 3, 4", "1, 2, 3", "4, 5, 6", "5, 6, 7"],
+    "correctAnswer": "2, 3, 4"
+  },
+  {
+    "question": "4000 kg bằng bao nhiêu tấn?",
+    "options": ["4 tấn", "40 tấn", "0.4 tấn", "400 tấn"],
+    "correctAnswer": "4 tấn"
+  },
+  {
+    "question": "180 giây bằng bao nhiêu phút?",
+    "options": ["3 phút", "2 phút", "4 phút", "6 phút"],
+    "correctAnswer": "3 phút"
+  },
+  {
+    "question": "Tìm hiệu của 2 000 000 và 1 234 567.",
+    "options": ["765 433", "765 423", "865 433", "755 433"],
+    "correctAnswer": "765 433"
+  },
+  {
+    "question": "Tính nhanh: 1 + 2 + 3 + ... + 10",
+    "options": ["55", "50", "60", "45"],
+    "correctAnswer": "55"
+  },
+  {
+    "question": "Hai đường thẳng song song có mấy điểm chung?",
+    "options": ["0", "1", "2", "Vô số"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Hình vuông có phải là một dạng đặc biệt của hình thoi không?",
+    "options": ["Có", "Không", "Chỉ đôi khi", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Số 'Hai mươi triệu không trăm linh hai' được viết là:",
+    "options": ["20 000 002", "20 002 000", "2 000 002", "20 000 200"],
+    "correctAnswer": "20 000 002"
+  },
+  {
+    "question": "Kết quả của phép tính 99 999 + 100 001 là:",
+    "options": ["200 000", "199 990", "200 001", "199 999"],
+    "correctAnswer": "200 000"
+  },
+  {
+    "question": "Góc có số đo 91° là góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Số liền sau của số tự nhiên a là:",
+    "options": ["a + 1", "a - 1", "a", "a x 2"],
+    "correctAnswer": "a + 1"
+  },
+  {
+    "question": "3 yến 8 kg = ... kg. Số thích hợp là:",
+    "options": ["38", "308", "11", "380"],
+    "correctAnswer": "38"
+  },
+  {
+    "question": "Lý Thái Tổ dời đô về Thăng Long năm 1010. Năm đó thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XI (11)", "Thế kỉ X (10)", "Thế kỉ XII (12)", "Thế kỉ IX (9)"],
+    "correctAnswer": "Thế kỉ XI (11)"
+  },
+  {
+    "question": "Hiệu của hai số là 500. Nếu giữ nguyên số trừ và tăng số bị trừ lên 100 thì hiệu mới là:",
+    "options": ["600", "400", "500", "700"],
+    "correctAnswer": "600"
+  },
+  {
+    "question": "Tuổi bố và tuổi con cộng lại là 50. Con kém bố 30 tuổi. Tuổi của bố là:",
+    "options": ["40 tuổi", "10 tuổi", "20 tuổi", "30 tuổi"],
+    "correctAnswer": "40 tuổi"
+  },
+  {
+    "question": "Trong hình bình hành, các cặp cạnh đối...",
+    "options": ["Song song và bằng nhau", "Chỉ song song", "Chỉ bằng nhau", "Vuông góc"],
+    "correctAnswer": "Song song và bằng nhau"
+  },
+  {
+    "question": "Hình thoi có một góc vuông thì nó là hình gì?",
+    "options": ["Hình vuông", "Hình chữ nhật", "Hình bình hành", "Vẫn là hình thoi"],
+    "correctAnswer": "Hình vuông"
+  },
+  {
+    "question": "Số chẵn lớn nhất có 4 chữ số là:",
+    "options": ["9998", "9999", "1000", "9990"],
+    "correctAnswer": "9998"
+  },
+  {
+    "question": "Kết quả của phép tính 123 000 x 3 là:",
+    "options": ["369 000", "366 000", "393 000", "363 000"],
+    "correctAnswer": "369 000"
+  },
+  {
+    "question": "Góc có số đo 89° là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Giá trị của chữ số 7 trong số 12 345 678 là:",
+    "options": ["70", "7", "700", "7000"],
+    "correctAnswer": "70"
+  },
+  {
+    "question": "1/4 phút bằng bao nhiêu giây?",
+    "options": ["15 giây", "25 giây", "20 giây", "10 giây"],
+    "correctAnswer": "15 giây"
+  },
+  {
+    "question": "2 m² 2 dm² = ... dm²",
+    "options": ["202", "22", "2002", "220"],
+    "correctAnswer": "202"
+  },
+  {
+    "question": "Tổng của hai số là 1000. Nếu một số hạng là 450 thì số hạng còn lại là:",
+    "options": ["550", "1450", "650", "500"],
+    "correctAnswer": "550"
+  },
+  {
+    "question": "Áp dụng tính chất kết hợp: (123 + 456) + 789 = ...",
+    "options": ["123 + (456 + 789)", "123 + 456", "456 + 789", "1368"],
+    "correctAnswer": "123 + (456 + 789)"
+  },
+  {
+    "question": "Qua một điểm nằm ngoài một đường thẳng, ta có thể vẽ được mấy đường thẳng song song với đường thẳng đó?",
+    "options": ["Một và chỉ một", "Hai", "Vô số", "Không có đường nào"],
+    "correctAnswer": "Một và chỉ một"
+  },
+  {
+    "question": "Các góc đối của hình bình hành thì...",
+    "options": ["Bằng nhau", "Bù nhau", "Phụ nhau", "Không bằng nhau"],
+    "correctAnswer": "Bằng nhau"
+  },
+  {
+    "question": "Tìm x, biết x là số tròn chục và 45 < x < 65.",
+    "options": ["50 hoặc 60", "Chỉ 50", "Chỉ 60", "46"],
+    "correctAnswer": "50 hoặc 60"
+  },
+  {
+    "question": "Kết quả của phép tính 88 888 : 8 là:",
+    "options": ["11 111", "11 110", "10 111", "11 011"],
+    "correctAnswer": "11 111"
+  },
+  {
+    "question": "Một góc vuông cộng thêm một góc nhọn sẽ tạo thành góc gì?",
+    "options": ["Góc tù", "Góc nhọn", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc tù"
+  },
+  {
+    "question": "Số bé nhất có 7 chữ số khác nhau là:",
+    "options": ["1 023 456", "1 000 000", "1 111 111", "1 234 560"],
+    "correctAnswer": "1 023 456"
+  },
+  {
+    "question": "5 tấn 5 kg = ... kg",
+    "options": ["5005", "55", "505", "5050"],
+    "correctAnswer": "5005"
+  },
+  {
+    "question": "1/5 thế kỉ bằng bao nhiêu năm?",
+    "options": ["20 năm", "25 năm", "10 năm", "50 năm"],
+    "correctAnswer": "20 năm"
+  },
+  {
+    "question": "Tìm một số biết rằng nếu lấy 1 000 000 trừ đi số đó thì được 1.",
+    "options": ["999 999", "1 000 001", "999 990", "999 000"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Tổng của hai số chẵn liên tiếp là 50. Tìm số lớn.",
+    "options": ["26", "24", "25", "28"],
+    "correctAnswer": "26"
+  },
+  {
+    "question": "Hai đường thẳng phân biệt cùng song song với đường thẳng thứ ba thì chúng...",
+    "options": ["Song song với nhau", "Vuông góc với nhau", "Cắt nhau", "Trùng nhau"],
+    "correctAnswer": "Song song với nhau"
+  },
+  {
+    "question": "Hình bình hành có một góc vuông thì nó là hình gì?",
+    "options": ["Hình chữ nhật", "Hình thoi", "Hình vuông", "Vẫn là hình bình hành"],
+    "correctAnswer": "Hình chữ nhật"
+  },
+  {
+    "question": "Số 123 456 có tổng các chữ số là:",
+    "options": ["21", "20", "22", "15"],
+    "correctAnswer": "21"
+  },
+  {
+    "question": "Kết quả của 500 000 - 1 là:",
+    "options": ["499 999", "499 990", "499 000", "490 000"],
+    "correctAnswer": "499 999"
+  },
+  {
+    "question": "Góc có số đo bằng tổng của góc 40° và 50° là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Số gồm 5 triệu, 5 nghìn và 5 đơn vị được viết là:",
+    "options": ["5 005 005", "5 505", "5 000 505", "5 005 050"],
+    "correctAnswer": "5 005 005"
+  },
+  {
+    "question": "10 dm² = ... cm²",
+    "options": ["1000", "100", "10", "10000"],
+    "correctAnswer": "1000"
+  },
+  {
+    "question": "3600 giây bằng bao nhiêu giờ?",
+    "options": ["1 giờ", "60 giờ", "2 giờ", "10 giờ"],
+    "correctAnswer": "1 giờ"
+  },
+  {
+    "question": "Tổng của hai số là 250. Nếu tăng một số hạng lên 50 đơn vị và giữ nguyên số hạng kia thì tổng mới là:",
+    "options": ["300", "200", "250", "350"],
+    "correctAnswer": "300"
+  },
+  {
+    "question": "Hai thùng gạo có 120kg. Thùng thứ nhất nhiều hơn thùng thứ hai 20kg. Hỏi thùng thứ nhất có bao nhiêu ki-lô-gam gạo?",
+    "options": ["70 kg", "50 kg", "60 kg", "80 kg"],
+    "correctAnswer": "70 kg"
+  },
+  {
+    "question": "Trong hình thoi, các cạnh đối có song song với nhau không?",
+    "options": ["Có", "Không", "Chỉ một cặp", "Không xác định"],
+    "correctAnswer": "Có"
+  },
+  {
+    "question": "Một tứ giác có hai đường chéo cắt nhau tại trung điểm của mỗi đường là hình gì?",
+    "options": ["Hình bình hành", "Hình thang", "Hình thoi", "Hình chữ nhật"],
+    "correctAnswer": "Hình bình hành"
+  },
+  {
+    "question": "Số chẵn liền sau số 1 000 000 là:",
+    "options": ["1 000 002", "1 000 001", "999 998", "1 000 000"],
+    "correctAnswer": "1 000 002"
+  },
+  {
+    "question": "Giá trị của biểu thức a + b với a = 1 234 567 và b = 0 là:",
+    "options": ["1 234 567", "0", "1 234 568", "Không tính được"],
+    "correctAnswer": "1 234 567"
+  },
+  {
+    "question": "Góc có số đo 180° là góc gì?",
+    "options": ["Góc bẹt", "Góc tù", "Góc vuông", "Góc tròn"],
+    "correctAnswer": "Góc bẹt"
+  },
+  {
+    "question": "Số liền trước của số 0 là số nào trong tập hợp số tự nhiên?",
+    "options": ["Không có", "-1", "1", "0"],
+    "correctAnswer": "Không có"
+  },
+  {
+    "question": "2 tạ 50 kg = ... yến",
+    "options": ["25", "205", "250", "70"],
+    "correctAnswer": "25"
+  },
+  {
+    "question": "Năm 2001 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XXI (21)", "Thế kỉ XX (20)", "Thế kỉ XIX (19)", "Thế kỉ XXII (22)"],
+    "correctAnswer": "Thế kỉ XXI (21)"
+  },
+  {
+    "question": "Hiệu của hai số là 100. Nếu giảm số bị trừ đi 20 và giảm số trừ đi 20 thì hiệu mới là:",
+    "options": ["100", "80", "120", "60"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Tổng hai số là 99. Hiệu hai số là 9. Tìm số bé.",
+    "options": ["45", "54", "90", "40"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Hai đường chéo của hình chữ nhật có tính chất gì?",
+    "options": ["Bằng nhau và cắt nhau tại trung điểm", "Vuông góc với nhau", "Chỉ bằng nhau", "Chỉ cắt nhau tại trung điểm"],
+    "correctAnswer": "Bằng nhau và cắt nhau tại trung điểm"
+  },
+  {
+    "question": "Một hình bình hành có các cạnh bằng nhau là hình gì?",
+    "options": ["Hình thoi", "Hình vuông", "Hình chữ nhật", "Vẫn là hình bình hành"],
+    "correctAnswer": "Hình thoi"
+  },
+  {
+    "question": "Số bé nhất có 5 chữ số chẵn khác nhau là:",
+    "options": ["10234", "10000", "20468", "10246"],
+    "correctAnswer": "10234"
+  },
+  {
+    "question": "Kết quả của phép tính 123 456 + 987 654 là:",
+    "options": ["1 111 110", "1 111 111", "1 111 100", "1 110 110"],
+    "correctAnswer": "1 111 110"
+  },
+  {
+    "question": "Góc tạo bởi hai kim đồng hồ lúc 1 giờ đúng là góc gì?",
+    "options": ["Góc nhọn", "Góc tù", "Góc vuông", "Góc bẹt"],
+    "correctAnswer": "Góc nhọn"
+  },
+  {
+    "question": "Làm tròn số 9 987 654 đến hàng trăm nghìn:",
+    "options": ["10 000 000", "9 900 000", "9 990 000", "9 000 000"],
+    "correctAnswer": "10 000 000"
+  },
+  {
+    "question": "1 giờ 15 phút bằng bao nhiêu giây?",
+    "options": ["4500 giây", "3615 giây", "900 giây", "75 giây"],
+    "correctAnswer": "4500 giây"
+  },
+  {
+    "question": "500 cm² = ... dm²",
+    "options": ["5", "50", "0.5", "500"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "Tìm x, biết x là tổng của 123 456 và 654 321.",
+    "options": ["x = 777 777", "x = 777 778", "x = 777 787", "x = 787 777"],
+    "correctAnswer": "x = 777 777"
+  },
+  {
+    "question": "Hai số có hiệu là 150. Nếu số bị trừ là 300 thì số trừ là:",
+    "options": ["150", "450", "300", "100"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Hai đường thẳng cắt nhau tạo thành một góc vuông. Ba góc còn lại là góc gì?",
+    "options": ["Góc vuông", "Góc tù", "Góc nhọn", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Hình nào có các cặp cạnh đối song song?",
+    "options": ["Hình bình hành, hình thoi, hình chữ nhật, hình vuông", "Chỉ hình bình hành", "Chỉ hình chữ nhật và hình vuông", "Chỉ hình thoi"],
+    "correctAnswer": "Hình bình hành, hình thoi, hình chữ nhật, hình vuông"
+  },
+  {
+    "question": "Số gồm 1 triệu, 2 trăm nghìn, 3 chục và 4 đơn vị được viết là:",
+    "options": ["1 200 034", "1 200 304", "1 020 034", "1 203 004"],
+    "correctAnswer": "1 200 034"
+  },
+  {
+    "question": "Kết quả của phép tính 1 000 000 - 10 = ?",
+    "options": ["999 990", "999 900", "999 000", "990 000"],
+    "correctAnswer": "999 990"
+  },
+  {
+    "question": "Góc có số đo bằng một nửa góc bẹt là góc gì?",
+    "options": ["Góc vuông", "Góc nhọn", "Góc tù", "Góc bẹt"],
+    "correctAnswer": "Góc vuông"
+  },
+  {
+    "question": "Số liền trước của số bé nhất có 6 chữ số là:",
+    "options": ["99 999", "100 000", "100 001", "99 990"],
+    "correctAnswer": "99 999"
+  },
+  {
+    "question": "1 tấn 2 tạ 3 yến = ... kg",
+    "options": ["1230", "1203", "1023", "123"],
+    "correctAnswer": "1230"
+  },
+  {
+    "question": "2 thế kỉ 5 năm = ... năm",
+    "options": ["205", "25", "250", "2005"],
+    "correctAnswer": "205"
+  },
+  {
+    "question": "Trong một phép trừ, tổng của số bị trừ, số trừ và hiệu là 500. Tìm hiệu, biết số trừ là 100.",
+    "options": ["150", "250", "350", "50"],
+    "correctAnswer": "150"
+  },
+  {
+    "question": "Hai lớp 4A và 4B trồng được 100 cây. Lớp 4A trồng được nhiều hơn lớp 4B 10 cây. Hỏi lớp 4B trồng được bao nhiêu cây?",
+    "options": ["45 cây", "55 cây", "50 cây", "40 cây"],
+    "correctAnswer": "45 cây"
+  },
+  {
+    "question": "Một đường thẳng cắt hai đường thẳng song song thì tạo ra bao nhiêu cặp góc đồng vị?",
+    "options": ["4 cặp", "2 cặp", "1 cặp", "8 cặp"],
+    "correctAnswer": "4 cặp"
+  },
+  {
+    "question": "Hình bình hành có chu vi 50cm. Biết một cạnh dài 15cm. Cạnh còn lại dài bao nhiêu?",
+    "options": ["10 cm", "20 cm", "35 cm", "5 cm"],
+    "correctAnswer": "10 cm"
+  }
+]
+
