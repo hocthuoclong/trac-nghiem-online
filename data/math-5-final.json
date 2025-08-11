@@ -2528,8 +2528,7 @@
     "question": "Một hộp có 20 viên bi, 10 bi đỏ, 5 bi xanh, 5 bi vàng. Tỉ lệ bi đỏ là:",
     "options": ["50%", "25%", "5%", "10%"],
     "correctAnswer": "50%"
-  }
-[
+  },
   {
     "question": "Số 'Năm mươi tám triệu bốn trăm nghìn không trăm linh năm' được viết là:",
     "options": ["58 400 005", "58 040 005", "58 400 500", "508 400 005"],
