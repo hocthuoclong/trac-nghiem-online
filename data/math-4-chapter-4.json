@@ -1,0 +1,473 @@
+[
+  {
+    "question": "1 yến bằng bao nhiêu ki-lô-gam?",
+    "options": ["10 kg", "100 kg", "1000 kg", "1 kg"],
+    "correctAnswer": "10 kg"
+  },
+  {
+    "question": "1 tạ bằng bao nhiêu yến?",
+    "options": ["10 yến", "100 yến", "1 yến", "1000 yến"],
+    "correctAnswer": "10 yến"
+  },
+  {
+    "question": "1 tấn bằng bao nhiêu tạ?",
+    "options": ["10 tạ", "100 tạ", "1 tạ", "1000 tạ"],
+    "correctAnswer": "10 tạ"
+  },
+  {
+    "question": "Đổi 2 tấn ra ki-lô-gam.",
+    "options": ["2000 kg", "200 kg", "20 kg", "20 000 kg"],
+    "correctAnswer": "2000 kg"
+  },
+  {
+    "question": "5 tạ 3 yến bằng bao nhiêu ki-lô-gam?",
+    "options": ["530 kg", "503 kg", "53 kg", "80 kg"],
+    "correctAnswer": "530 kg"
+  },
+  {
+    "question": "1 dm² bằng bao nhiêu cm²?",
+    "options": ["100 cm²", "10 cm²", "1000 cm²", "1 cm²"],
+    "correctAnswer": "100 cm²"
+  },
+  {
+    "question": "1 m² bằng bao nhiêu dm²?",
+    "options": ["100 dm²", "10 dm²", "1000 dm²", "1 dm²"],
+    "correctAnswer": "100 dm²"
+  },
+  {
+    "question": "1 cm² bằng bao nhiêu mm²?",
+    "options": ["100 mm²", "10 mm²", "1000 mm²", "1 mm²"],
+    "correctAnswer": "100 mm²"
+  },
+  {
+    "question": "Để đo diện tích một căn phòng, ta thường dùng đơn vị nào?",
+    "options": ["Mét vuông (m²)", "Xăng-ti-mét vuông (cm²)", "Mi-li-mét vuông (mm²)", "Ki-lô-mét vuông (km²)"],
+    "correctAnswer": "Mét vuông (m²)"
+  },
+  {
+    "question": "1 phút bằng bao nhiêu giây?",
+    "options": ["60 giây", "100 giây", "30 giây", "120 giây"],
+    "correctAnswer": "60 giây"
+  },
+  {
+    "question": "1 thế kỉ bằng bao nhiêu năm?",
+    "options": ["100 năm", "10 năm", "1000 năm", "50 năm"],
+    "correctAnswer": "100 năm"
+  },
+  {
+    "question": "Năm 2000 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XX (20)", "Thế kỉ XIX (19)", "Thế kỉ XXI (21)", "Thế kỉ XVIII (18)"],
+    "correctAnswer": "Thế kỉ XX (20)"
+  },
+  {
+    "question": "3 yến 5 kg = ... kg. Số thích hợp điền vào chỗ trống là:",
+    "options": ["35", "305", "8", "350"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Một con voi nặng 2 tấn. Con voi đó nặng bao nhiêu tạ?",
+    "options": ["20 tạ", "2 tạ", "200 tạ", "2000 tạ"],
+    "correctAnswer": "20 tạ"
+  },
+  {
+    "question": "400 dm² = ... m². Số thích hợp điền vào chỗ trống là:",
+    "options": ["4", "40", "400", "0.4"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "2 phút 10 giây bằng bao nhiêu giây?",
+    "options": ["130 giây", "210 giây", "30 giây", "120 giây"],
+    "correctAnswer": "130 giây"
+  },
+  {
+    "question": "Thế kỉ XXI (21) bắt đầu từ năm nào và kết thúc vào năm nào?",
+    "options": ["Năm 2001 đến năm 2100", "Năm 2000 đến năm 2099", "Năm 2100 đến năm 2199", "Năm 1999 đến năm 2099"],
+    "correctAnswer": "Năm 2001 đến năm 2100"
+  },
+  {
+    "question": "Một bao gạo nặng 5 yến. 10 bao gạo như thế nặng bao nhiêu tạ?",
+    "options": ["5 tạ", "50 tạ", "0.5 tạ", "500 tạ"],
+    "correctAnswer": "5 tạ"
+  },
+  {
+    "question": "Một viên gạch hình vuông có cạnh 40cm. Diện tích viên gạch đó là bao nhiêu đề-xi-mét vuông?",
+    "options": ["16 dm²", "1600 dm²", "160 dm²", "1.6 dm²"],
+    "correctAnswer": "16 dm²"
+  },
+  {
+    "question": "1/2 thế kỉ có bao nhiêu năm?",
+    "options": ["50 năm", "20 năm", "5 năm", "100 năm"],
+    "correctAnswer": "50 năm"
+  },
+  {
+    "question": "So sánh: 5 tấn và 50 tạ.",
+    "options": ["5 tấn = 50 tạ", "5 tấn > 50 tạ", "5 tấn < 50 tạ", "Không so sánh được"],
+    "correctAnswer": "5 tấn = 50 tạ"
+  },
+  {
+    "question": "So sánh: 3 m² 5 dm² và 350 dm².",
+    "options": ["3 m² 5 dm² < 350 dm²", "3 m² 5 dm² > 350 dm²", "3 m² 5 dm² = 350 dm²", "Không so sánh được"],
+    "correctAnswer": "3 m² 5 dm² < 350 dm²"
+  },
+  {
+    "question": "180 giây bằng bao nhiêu phút?",
+    "options": ["3 phút", "2 phút", "4 phút", "6 phút"],
+    "correctAnswer": "3 phút"
+  },
+  {
+    "question": "Bác Hồ sinh năm 1890. Bác sinh vào thế kỉ nào?",
+    "options": ["Thế kỉ XIX (19)", "Thế kỉ XX (20)", "Thế kỉ XVIII (18)", "Thế kỉ XVII (17)"],
+    "correctAnswer": "Thế kỉ XIX (19)"
+  },
+  {
+    "question": "Một thửa ruộng hình chữ nhật có diện tích 200 m². Thửa ruộng đó có diện tích bao nhiêu đề-xi-mét vuông?",
+    "options": ["20 000 dm²", "2000 dm²", "200 dm²", "20 dm²"],
+    "correctAnswer": "20 000 dm²"
+  },
+  {
+    "question": "1 tấn bằng bao nhiêu ki-lô-gam?",
+    "options": ["1000 kg", "100 kg", "10 kg", "10 000 kg"],
+    "correctAnswer": "1000 kg"
+  },
+  {
+    "question": "1 tạ bằng bao nhiêu ki-lô-gam?",
+    "options": ["100 kg", "10 kg", "1000 kg", "1 kg"],
+    "correctAnswer": "100 kg"
+  },
+  {
+    "question": "50 kg bằng bao nhiêu yến?",
+    "options": ["5 yến", "50 yến", "0.5 yến", "500 yến"],
+    "correctAnswer": "5 yến"
+  },
+  {
+    "question": "1 m² bằng bao nhiêu cm²?",
+    "options": ["10 000 cm²", "100 cm²", "1000 cm²", "10 cm²"],
+    "correctAnswer": "10 000 cm²"
+  },
+  {
+    "question": "5 dm² 12 cm² = ... cm². Số thích hợp là:",
+    "options": ["512", "5012", "5120", "502"],
+    "correctAnswer": "512"
+  },
+  {
+    "question": "1 giờ bằng bao nhiêu giây?",
+    "options": ["3600 giây", "60 giây", "360 giây", "36 000 giây"],
+    "correctAnswer": "3600 giây"
+  },
+  {
+    "question": "3 thế kỉ bằng bao nhiêu năm?",
+    "options": ["300 năm", "30 năm", "3000 năm", "3 năm"],
+    "correctAnswer": "300 năm"
+  },
+  {
+    "question": "Năm 1945 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XX (20)", "Thế kỉ XIX (19)", "Thế kỉ XXI (21)", "Thế kỉ XVIII (18)"],
+    "correctAnswer": "Thế kỉ XX (20)"
+  },
+  {
+    "question": "Một xe tải chở được 3 tấn hàng. Xe đó chở được bao nhiêu yến hàng?",
+    "options": ["300 yến", "30 yến", "3000 yến", "3 yến"],
+    "correctAnswer": "300 yến"
+  },
+  {
+    "question": "Diện tích một con tem khoảng 6... Đơn vị thích hợp là:",
+    "options": ["cm²", "m²", "dm²", "mm²"],
+    "correctAnswer": "cm²"
+  },
+  {
+    "question": "1/4 phút bằng bao nhiêu giây?",
+    "options": ["15 giây", "25 giây", "20 giây", "10 giây"],
+    "correctAnswer": "15 giây"
+  },
+  {
+    "question": "So sánh: 2 tạ 5 kg và 250 kg.",
+    "options": ["2 tạ 5 kg < 250 kg", "2 tạ 5 kg > 250 kg", "2 tạ 5 kg = 250 kg", "Không so sánh được"],
+    "correctAnswer": "2 tạ 5 kg < 250 kg"
+  },
+  {
+    "question": "So sánh: 1000 mm² và 10 cm².",
+    "options": ["1000 mm² = 10 cm²", "1000 mm² > 10 cm²", "1000 mm² < 10 cm²", "Không so sánh được"],
+    "correctAnswer": "1000 mm² = 10 cm²"
+  },
+  {
+    "question": "Năm 2024 thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XXI (21)", "Thế kỉ XX (20)", "Thế kỉ XXII (22)", "Thế kỉ XIX (19)"],
+    "correctAnswer": "Thế kỉ XXI (21)"
+  },
+  {
+    "question": "Một con lợn nặng 1 tạ 2 yến. Con lợn đó nặng bao nhiêu kg?",
+    "options": ["120 kg", "102 kg", "12 kg", "30 kg"],
+    "correctAnswer": "120 kg"
+  },
+  {
+    "question": "Một căn phòng có diện tích 25 m². Cần bao nhiêu viên gạch vuông cạnh 50 cm để lát kín sàn?",
+    "options": ["100 viên", "50 viên", "200 viên", "10 viên"],
+    "correctAnswer": "100 viên"
+  },
+  {
+    "question": "1/5 thế kỉ bằng bao nhiêu năm?",
+    "options": ["20 năm", "25 năm", "10 năm", "50 năm"],
+    "correctAnswer": "20 năm"
+  },
+  {
+    "question": "Đơn vị đo khối lượng lớn nhất trong các đơn vị: yến, tạ, tấn, kg là:",
+    "options": ["Tấn", "Tạ", "Yến", "kg"],
+    "correctAnswer": "Tấn"
+  },
+  {
+    "question": "Đơn vị đo diện tích bé nhất trong các đơn vị: m², dm², cm², mm² là:",
+    "options": ["mm²", "cm²", "dm²", "m²"],
+    "correctAnswer": "mm²"
+  },
+  {
+    "question": "Đơn vị đo thời gian lớn nhất trong các đơn vị: giây, phút, giờ, ngày là:",
+    "options": ["Ngày", "Giờ", "Phút", "Giây"],
+    "correctAnswer": "Ngày"
+  },
+  {
+    "question": "4 tấn 5 tạ = ... tạ. Số thích hợp là:",
+    "options": ["45", "405", "9", "450"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "2 m² 2 dm² = ... dm². Số thích hợp là:",
+    "options": ["202", "22", "2002", "220"],
+    "correctAnswer": "202"
+  },
+  {
+    "question": "90 phút bằng bao nhiêu giờ?",
+    "options": ["1,5 giờ (1 giờ rưỡi)", "1 giờ", "2 giờ", "0.5 giờ"],
+    "correctAnswer": "1,5 giờ (1 giờ rưỡi)"
+  },
+  {
+    "question": "Lý Thái Tổ dời đô về Thăng Long năm 1010. Năm đó thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XI (11)", "Thế kỉ X (10)", "Thế kỉ XII (12)", "Thế kỉ IX (9)"],
+    "correctAnswer": "Thế kỉ XI (11)"
+  },
+  {
+    "question": "Một con trâu nặng 5 tạ, một con bò nặng 40 yến. Cả hai con nặng bao nhiêu ki-lô-gam?",
+    "options": ["900 kg", "90 kg", "540 kg", "450 kg"],
+    "correctAnswer": "900 kg"
+  },
+  {
+    "question": "Một tấm bìa hình chữ nhật có chiều dài 20 cm, chiều rộng 10 cm. Diện tích tấm bìa là:",
+    "options": ["200 cm²", "60 cm²", "30 cm²", "2000 cm²"],
+    "correctAnswer": "200 cm²"
+  },
+  {
+    "question": "500 năm bằng bao nhiêu thế kỉ?",
+    "options": ["5 thế kỉ", "50 thế kỉ", "0.5 thế kỉ", "500 thế kỉ"],
+    "correctAnswer": "5 thế kỉ"
+  },
+  {
+    "question": "2000 kg bằng bao nhiêu tấn?",
+    "options": ["2 tấn", "20 tấn", "0.2 tấn", "200 tấn"],
+    "correctAnswer": "2 tấn"
+  },
+  {
+    "question": "300 cm² bằng bao nhiêu dm²?",
+    "options": ["3 dm²", "30 dm²", "0.3 dm²", "300 dm²"],
+    "correctAnswer": "3 dm²"
+  },
+  {
+    "question": "1/10 thế kỉ bằng bao nhiêu năm?",
+    "options": ["10 năm", "1 năm", "100 năm", "5 năm"],
+    "correctAnswer": "10 năm"
+  },
+  {
+    "question": "Một người chạy 100m hết 15 giây. Để ước lượng thời gian này, đơn vị nào là phù hợp nhất?",
+    "options": ["Giây", "Phút", "Giờ", "Ngày"],
+    "correctAnswer": "Giây"
+  },
+  {
+    "question": "Để cân một chiếc xe tải, người ta thường dùng đơn vị nào?",
+    "options": ["Tấn", "Tạ", "Yến", "kg"],
+    "correctAnswer": "Tấn"
+  },
+  {
+    "question": "Để đo diện tích một quyển sách, đơn vị nào là phù hợp nhất?",
+    "options": ["cm²", "m²", "mm²", "dm²"],
+    "correctAnswer": "cm²"
+  },
+  {
+    "question": "Để tính tuổi của một cây cổ thụ, người ta thường dùng đơn vị nào?",
+    "options": ["Năm", "Thế kỉ", "Tháng", "Ngày"],
+    "correctAnswer": "Năm"
+  },
+  {
+    "question": "12 yến = ... kg",
+    "options": ["120", "12", "1200", "1.2"],
+    "correctAnswer": "120"
+  },
+  {
+    "question": "30 tạ = ... tấn",
+    "options": ["3", "30", "0.3", "300"],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "7 m² = ... cm²",
+    "options": ["70 000", "700", "7000", "70"],
+    "correctAnswer": "70 000"
+  },
+  {
+    "question": "500 mm² = ... cm²",
+    "options": ["5", "50", "0.5", "500"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "1/3 giờ bằng bao nhiêu phút?",
+    "options": ["20 phút", "30 phút", "15 phút", "10 phút"],
+    "correctAnswer": "20 phút"
+  },
+  {
+    "question": "Năm 1789, cách mạng Pháp bùng nổ. Sự kiện đó diễn ra ở thế kỉ nào?",
+    "options": ["Thế kỉ XVIII (18)", "Thế kỉ XVII (17)", "Thế kỉ XIX (19)", "Thế kỉ XVI (16)"],
+    "correctAnswer": "Thế kỉ XVIII (18)"
+  },
+  {
+    "question": "Một kho chứa 5 tấn thóc. Người ta lấy đi 20 tạ. Trong kho còn lại bao nhiêu tạ thóc?",
+    "options": ["30 tạ", "3 tạ", "50 tạ", "25 tạ"],
+    "correctAnswer": "30 tạ"
+  },
+  {
+    "question": "Một bức tường hình chữ nhật dài 5m, rộng 3m. Diện tích bức tường đó là:",
+    "options": ["15 m²", "16 m²", "8 m²", "35 m²"],
+    "correctAnswer": "15 m²"
+  },
+  {
+    "question": "Một bộ phim dài 120 phút. Bộ phim đó dài bao nhiêu giờ?",
+    "options": ["2 giờ", "1 giờ", "1.5 giờ", "3 giờ"],
+    "correctAnswer": "2 giờ"
+  },
+  {
+    "question": "So sánh: 1 tấn và 999 kg.",
+    "options": ["1 tấn > 999 kg", "1 tấn < 999 kg", "1 tấn = 999 kg", "Không so sánh được"],
+    "correctAnswer": "1 tấn > 999 kg"
+  },
+  {
+    "question": "So sánh: 2 dm² và 2000 mm².",
+    "options": ["2 dm² > 2000 mm²", "2 dm² < 2000 mm²", "2 dm² = 2000 mm²", "Không so sánh được"],
+    "correctAnswer": "2 dm² > 2000 mm²"
+  },
+  {
+    "question": "So sánh: 1 thế kỉ và 100 năm.",
+    "options": ["1 thế kỉ = 100 năm", "1 thế kỉ > 100 năm", "1 thế kỉ < 100 năm", "Không so sánh được"],
+    "correctAnswer": "1 thế kỉ = 100 năm"
+  },
+  {
+    "question": "Một con cá voi xanh có thể nặng tới 150... Đơn vị thích hợp là:",
+    "options": ["tấn", "tạ", "yến", "kg"],
+    "correctAnswer": "tấn"
+  },
+  {
+    "question": "Diện tích sân trường khoảng 1000... Đơn vị thích hợp là:",
+    "options": ["m²", "dm²", "cm²", "km²"],
+    "correctAnswer": "m²"
+  },
+  {
+    "question": "Một bài hát thường dài khoảng 3... Đơn vị thích hợp là:",
+    "options": ["phút", "giây", "giờ", "ngày"],
+    "correctAnswer": "phút"
+  },
+  {
+    "question": "15 tạ = ... kg",
+    "options": ["1500", "150", "15", "15000"],
+    "correctAnswer": "1500"
+  },
+  {
+    "question": "6 dm² = ... mm²",
+    "options": ["60 000", "600", "6000", "60"],
+    "correctAnswer": "60 000"
+  },
+  {
+    "question": "36 tháng bằng bao nhiêu năm?",
+    "options": ["3 năm", "2 năm", "4 năm", "5 năm"],
+    "correctAnswer": "3 năm"
+  },
+  {
+    "question": "Năm 2101 sẽ thuộc thế kỉ nào?",
+    "options": ["Thế kỉ XXII (22)", "Thế kỉ XXI (21)", "Thế kỉ XXIII (23)", "Thế kỉ XX (20)"],
+    "correctAnswer": "Thế kỉ XXII (22)"
+  },
+  {
+    "question": "Một cửa hàng có 1 tấn đường. Buổi sáng bán được 3 tạ, buổi chiều bán được 5 yến. Cửa hàng còn lại bao nhiêu kg đường?",
+    "options": ["650 kg", "150 kg", "350 kg", "700 kg"],
+    "correctAnswer": "650 kg"
+  },
+  {
+    "question": "Một mảnh đất hình vuông có diện tích 1 m². Cạnh của mảnh đất đó dài bao nhiêu dm?",
+    "options": ["10 dm", "1 dm", "100 dm", "1000 dm"],
+    "correctAnswer": "10 dm"
+  },
+  {
+    "question": "1/6 giờ bằng bao nhiêu phút?",
+    "options": ["10 phút", "6 phút", "15 phút", "20 phút"],
+    "correctAnswer": "10 phút"
+  },
+  {
+    "question": "2 tấn 5 kg = ... kg",
+    "options": ["2005", "25", "205", "2050"],
+    "correctAnswer": "2005"
+  },
+  {
+    "question": "8 m² 4 dm² = ... dm²",
+    "options": ["804", "84", "8004", "840"],
+    "correctAnswer": "804"
+  },
+  {
+    "question": "48 giờ bằng bao nhiêu ngày?",
+    "options": ["2 ngày", "1 ngày", "3 ngày", "4 ngày"],
+    "correctAnswer": "2 ngày"
+  },
+  {
+    "question": "Thế kỉ thứ XV (15) kéo dài từ năm nào đến năm nào?",
+    "options": ["Từ năm 1401 đến năm 1500", "Từ năm 1400 đến năm 1499", "Từ năm 1501 đến năm 1600", "Từ năm 1500 đến năm 1599"],
+    "correctAnswer": "Từ năm 1401 đến năm 1500"
+  },
+  {
+    "question": "Một con gà nặng 2kg, một con ngỗng nặng 5000g. Con ngỗng nặng hơn con gà bao nhiêu kg?",
+    "options": ["3 kg", "2 kg", "4998 kg", "4 kg"],
+    "correctAnswer": "3 kg"
+  },
+  {
+    "question": "Để lát một căn phòng rộng 12 m², người ta dùng các viên gạch hình vuông cạnh 4 dm. Cần bao nhiêu viên gạch?",
+    "options": ["75 viên", "30 viên", "300 viên", "7.5 viên"],
+    "correctAnswer": "75 viên"
+  },
+  {
+    "question": "Một trận bóng đá có 2 hiệp, mỗi hiệp 45 phút, nghỉ giữa hiệp 15 phút. Tổng thời gian từ lúc bắt đầu đến lúc kết thúc là bao nhiêu?",
+    "options": ["105 phút", "90 phút", "60 phút", "120 phút"],
+    "correctAnswer": "105 phút"
+  },
+  {
+    "question": "Đơn vị nào sau đây không phải là đơn vị đo khối lượng?",
+    "options": ["Mét", "Tấn", "Tạ", "Yến"],
+    "correctAnswer": "Mét"
+  },
+  {
+    "question": "Đơn vị nào sau đây không phải là đơn vị đo diện tích?",
+    "options": ["Giây", "Mét vuông", "Đề-xi-mét vuông", "Xăng-ti-mét vuông"],
+    "correctAnswer": "Giây"
+  },
+  {
+    "question": "Đơn vị nào sau đây không phải là đơn vị đo thời gian?",
+    "options": ["Tấn", "Thế kỉ", "Năm", "Giây"],
+    "correctAnswer": "Tấn"
+  },
+  {
+    "question": "Một quả bí ngô nặng 5 kg. Quả bí đó nặng bao nhiêu yến?",
+    "options": ["0,5 yến", "5 yến", "50 yến", "0,05 yến"],
+    "correctAnswer": "0,5 yến"
+  },
+  {
+    "question": "Diện tích của một cái móng tay khoảng 1... Đơn vị thích hợp là:",
+    "options": ["cm²", "dm²", "mm²", "m²"],
+    "correctAnswer": "cm²"
+  },
+  {
+    "question": "1/2 ngày bằng bao nhiêu giờ?",
+    "options": ["12 giờ", "24 giờ", "6 giờ", "10 giờ"],
+    "correctAnswer": "12 giờ"
+  }
+]
+
