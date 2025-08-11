@@ -40,6 +40,10 @@
                 {
                   "name": "Chương 9: Chu vi, diện tích một số hình phẳng",
                   "file": "./data/math-3-chapter-9.json"
+                },
+                {
+                  "name": "Chương 10: Cộng, trừ, nhân, chia trong phạm vi 10000",
+                  "file": "./data/math-3-chapter-10.json"
                 }
               ]
             },
