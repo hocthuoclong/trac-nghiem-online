@@ -1,0 +1,443 @@
+[
+  {
+    "question": "Kết quả của phép tính 123 456 + 789 012 là:",
+    "options": ["912 468", "911 468", "912 458", "812 468"],
+    "correctAnswer": "912 468"
+  },
+  {
+    "question": "Đặt tính rồi tính: 456 789 + 102 304",
+    "options": ["559 093", "558 093", "559 193", "659 093"],
+    "correctAnswer": "559 093"
+  },
+  {
+    "question": "Kết quả của phép tính 987 654 - 123 456 là:",
+    "options": ["864 198", "864 298", "863 198", "874 198"],
+    "correctAnswer": "864 198"
+  },
+  {
+    "question": "Đặt tính rồi tính: 1 000 000 - 543 210",
+    "options": ["456 790", "466 790", "556 790", "457 790"],
+    "correctAnswer": "456 790"
+  },
+  {
+    "question": "Tính chất giao hoán của phép cộng được phát biểu là:",
+    "options": ["Khi đổi chỗ các số hạng trong một tổng thì tổng không thay đổi.", "Khi cộng một tổng hai số với số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.", "Muốn cộng một số với một tổng, ta có thể cộng số đó với từng số hạng của tổng.", "Tổng của hai số luôn lớn hơn mỗi số hạng."],
+    "correctAnswer": "Khi đổi chỗ các số hạng trong một tổng thì tổng không thay đổi."
+  },
+  {
+    "question": "Áp dụng tính chất giao hoán, 125 + 750 = ...",
+    "options": ["750 + 125", "125 x 750", "750 - 125", "875"],
+    "correctAnswer": "750 + 125"
+  },
+  {
+    "question": "Tính chất kết hợp của phép cộng được viết dưới dạng công thức là:",
+    "options": ["(a + b) + c = a + (b + c)", "a + b = b + a", "a x (b + c) = a x b + a x c", "a + 0 = a"],
+    "correctAnswer": "(a + b) + c = a + (b + c)"
+  },
+  {
+    "question": "Tính bằng cách thuận tiện nhất: 450 + 230 + 550",
+    "options": ["1230", "1000", "1130", "1200"],
+    "correctAnswer": "1230"
+  },
+  {
+    "question": "Tổng của hai số là 100, hiệu của hai số đó là 20. Số lớn là:",
+    "options": ["60", "40", "80", "50"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "Tổng của hai số là 80, hiệu của hai số đó là 10. Số bé là:",
+    "options": ["35", "45", "70", "30"],
+    "correctAnswer": "35"
+  },
+  {
+    "question": "Một cửa hàng ngày đầu bán được 1 250 kg gạo, ngày thứ hai bán được nhiều hơn ngày đầu 300 kg. Cả hai ngày cửa hàng bán được bao nhiêu ki-lô-gam gạo?",
+    "options": ["2 800 kg", "1 550 kg", "2 500 kg", "3 100 kg"],
+    "correctAnswer": "2 800 kg"
+  },
+  {
+    "question": "Tìm x, biết: x - 250 000 = 400 000",
+    "options": ["x = 650 000", "x = 150 000", "x = 250 000", "x = 400 000"],
+    "correctAnswer": "x = 650 000"
+  },
+  {
+    "question": "Tìm y, biết: 800 000 - y = 350 000",
+    "options": ["y = 450 000", "y = 1 150 000", "y = 550 000", "y = 350 000"],
+    "correctAnswer": "y = 450 000"
+  },
+  {
+    "question": "Tính bằng cách thuận tiện nhất: 99 + 123 + 1",
+    "options": ["223", "222", "224", "220"],
+    "correctAnswer": "223"
+  },
+  {
+    "question": "Lớp 4A và 4B có tất cả 80 học sinh. Lớp 4A có nhiều hơn lớp 4B là 4 học sinh. Hỏi lớp 4A có bao nhiêu học sinh?",
+    "options": ["42 học sinh", "38 học sinh", "44 học sinh", "36 học sinh"],
+    "correctAnswer": "42 học sinh"
+  },
+  {
+    "question": "Tổng của số lớn nhất có 6 chữ số và số bé nhất có 6 chữ số là:",
+    "options": ["1 099 999", "1 000 000", "999 999", "1 100 000"],
+    "correctAnswer": "1 099 999"
+  },
+  {
+    "question": "Hiệu của số lớn nhất có 7 chữ số và số bé nhất có 7 chữ số là:",
+    "options": ["8 999 999", "9 000 000", "10 999 999", "8 888 888"],
+    "correctAnswer": "8 999 999"
+  },
+  {
+    "question": "Biểu thức nào sau đây thể hiện tính chất kết hợp của phép cộng?",
+    "options": ["(20 + 30) + 40 = 20 + (30 + 40)", "20 + 30 = 30 + 20", "50 + 0 = 50", "90 - 40 = 50"],
+    "correctAnswer": "(20 + 30) + 40 = 20 + (30 + 40)"
+  },
+  {
+    "question": "An và Bình có tổng cộng 50 viên bi. An có ít hơn Bình 10 viên bi. Hỏi Bình có bao nhiêu viên bi?",
+    "options": ["30 viên", "20 viên", "40 viên", "25 viên"],
+    "correctAnswer": "30 viên"
+  },
+  {
+    "question": "Một kho chứa 500 tấn hàng. Người ta đã chuyển đi 150 tấn. Trong kho còn lại bao nhiêu tấn hàng?",
+    "options": ["350 tấn", "650 tấn", "450 tấn", "300 tấn"],
+    "correctAnswer": "350 tấn"
+  },
+  {
+    "question": "Tìm x, biết: x + 120 000 = 300 000",
+    "options": ["x = 180 000", "x = 420 000", "x = 280 000", "x = 120 000"],
+    "correctAnswer": "x = 180 000"
+  },
+  {
+    "question": "Giá trị của biểu thức 123 456 + 78 910 - 100 000 là:",
+    "options": ["102 366", "202 366", "101 366", "201 366"],
+    "correctAnswer": "102 366"
+  },
+  {
+    "question": "Áp dụng tính chất của phép cộng để tính nhanh: 135 + 88 + 65",
+    "options": ["288", "200", "223", "300"],
+    "correctAnswer": "288"
+  },
+  {
+    "question": "Tổng hai số là số chẵn lớn nhất có 2 chữ số. Hiệu hai số là 10. Tìm số bé.",
+    "options": ["44", "54", "49", "39"],
+    "correctAnswer": "44"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi là 100m. Chiều dài hơn chiều rộng 10m. Tính chiều dài.",
+    "options": ["30m", "20m", "40m", "25m"],
+    "correctAnswer": "30m"
+  },
+  {
+    "question": "456 123 + 0 = ?",
+    "options": ["456 123", "0", "456 124", "Không tính được"],
+    "correctAnswer": "456 123"
+  },
+  {
+    "question": "Số nào trừ đi 250 000 thì được 750 000?",
+    "options": ["1 000 000", "500 000", "250 000", "750 000"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Tính nhanh: 2021 + 1999 + 77",
+    "options": ["4097", "4020", "4096", "4100"],
+    "correctAnswer": "4097"
+  },
+  {
+    "question": "Hai thùng dầu chứa tổng cộng 250 lít. Thùng thứ nhất chứa ít hơn thùng thứ hai 30 lít. Hỏi thùng thứ nhất chứa bao nhiêu lít dầu?",
+    "options": ["110 lít", "140 lít", "125 lít", "220 lít"],
+    "correctAnswer": "110 lít"
+  },
+  {
+    "question": "Một huyện có 25 450 nam và 24 550 nữ. Hỏi huyện đó có tất cả bao nhiêu người?",
+    "options": ["50 000 người", "49 000 người", "51 000 người", "900 người"],
+    "correctAnswer": "50 000 người"
+  },
+  {
+    "question": "Kết quả của phép tính 5 432 109 + 2 345 678 là:",
+    "options": ["7 777 787", "7 777 777", "7 777 887", "7 677 787"],
+    "correctAnswer": "7 777 787"
+  },
+  {
+    "question": "Kết quả của phép tính 9 876 543 - 8 765 432 là:",
+    "options": ["1 111 111", "1 000 000", "1 111 112", "1 211 111"],
+    "correctAnswer": "1 111 111"
+  },
+  {
+    "question": "Biểu thức 45 + 55 = 55 + 45 thể hiện tính chất gì của phép cộng?",
+    "options": ["Tính chất giao hoán", "Tính chất kết hợp", "Tính chất phân phối", "Cộng với số 0"],
+    "correctAnswer": "Tính chất giao hoán"
+  },
+  {
+    "question": "Tính nhanh: 123 + 456 + 877 + 544",
+    "options": ["2000", "1900", "2100", "1800"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Tổng hai số là 150, hiệu hai số là 50. Tích của hai số đó là:",
+    "options": ["5000", "100", "50", "7500"],
+    "correctAnswer": "5000"
+  },
+  {
+    "question": "Một công ty sản xuất được 345 000 sản phẩm trong quý I và 455 000 sản phẩm trong quý II. Cả hai quý công ty sản xuất được bao nhiêu sản phẩm?",
+    "options": ["800 000 sản phẩm", "700 000 sản phẩm", "110 000 sản phẩm", "810 000 sản phẩm"],
+    "correctAnswer": "800 000 sản phẩm"
+  },
+  {
+    "question": "Tìm một số biết rằng nếu lấy số đó cộng với 150 000 thì được 500 000.",
+    "options": ["350 000", "650 000", "450 000", "300 000"],
+    "correctAnswer": "350 000"
+  },
+  {
+    "question": "Hiệu của hai số là 120 000. Nếu giữ nguyên số bị trừ và tăng số trừ lên 20 000 thì hiệu mới là:",
+    "options": ["100 000", "140 000", "120 000", "20 000"],
+    "correctAnswer": "100 000"
+  },
+  {
+    "question": "Tổng của hai số là 500 000. Nếu tăng số hạng thứ nhất lên 50 000 và giảm số hạng thứ hai đi 50 000 thì tổng mới là:",
+    "options": ["500 000", "600 000", "400 000", "550 000"],
+    "correctAnswer": "500 000"
+  },
+  {
+    "question": "Tuổi của bố và con cộng lại là 45 tuổi. Bố hơn con 25 tuổi. Tính tuổi của con.",
+    "options": ["10 tuổi", "20 tuổi", "35 tuổi", "15 tuổi"],
+    "correctAnswer": "10 tuổi"
+  },
+  {
+    "question": "Số hạng thứ nhất là 246 810, số hạng thứ hai là 135 790. Tổng là:",
+    "options": ["382 600", "381 600", "372 600", "382 500"],
+    "correctAnswer": "382 600"
+  },
+  {
+    "question": "Số bị trừ là 1 234 567, số trừ là 987 654. Hiệu là:",
+    "options": ["246 913", "256 913", "346 913", "247 913"],
+    "correctAnswer": "246 913"
+  },
+  {
+    "question": "Tính nhanh: 467 + 199 + 533",
+    "options": ["1199", "1000", "1200", "1100"],
+    "correctAnswer": "1199"
+  },
+  {
+    "question": "Hai số có tổng là số bé nhất có 4 chữ số, hiệu là 100. Tìm số lớn.",
+    "options": ["550", "450", "600", "500"],
+    "correctAnswer": "550"
+  },
+  {
+    "question": "Một trang trại có 1200 con gà và vịt. Số gà ít hơn số vịt 200 con. Hỏi trang trại có bao nhiêu con vịt?",
+    "options": ["700 con", "500 con", "600 con", "800 con"],
+    "correctAnswer": "700 con"
+  },
+  {
+    "question": "a + b = c. Trong đó a, b được gọi là gì?",
+    "options": ["Số hạng", "Số bị trừ, số trừ", "Thừa số", "Số bị chia, số chia"],
+    "correctAnswer": "Số hạng"
+  },
+  {
+    "question": "a - b = c. Trong đó a được gọi là gì?",
+    "options": ["Số bị trừ", "Số trừ", "Hiệu", "Số hạng"],
+    "correctAnswer": "Số bị trừ"
+  },
+  {
+    "question": "Giá trị của biểu thức (48 + 52) + 100 là:",
+    "options": ["200", "100", "152", "148"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Tổng của hai số là 200. Nếu gấp số hạng thứ nhất lên 2 lần và giữ nguyên số hạng thứ hai thì tổng mới là 300. Tìm số hạng thứ nhất.",
+    "options": ["100", "50", "150", "200"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Một hình chữ nhật có chu vi 80 cm. Nếu giảm chiều dài đi 10 cm và tăng chiều rộng lên 10 cm thì nó trở thành hình vuông. Tính diện tích hình chữ nhật ban đầu.",
+    "options": ["375 cm²", "400 cm²", "300 cm²", "200 cm²"],
+    "correctAnswer": "375 cm²"
+  },
+  {
+    "question": "Số lớn nhất có 6 chữ số khác nhau cộng với số bé nhất có 6 chữ số khác nhau là:",
+    "options": ["1 089 999", "1 090 000", "1 100 000", "1 089 990"],
+    "correctAnswer": "1 089 999"
+  },
+  {
+    "question": "Hiệu của hai số là 250. Nếu ta cùng thêm vào mỗi số 50 đơn vị thì hiệu mới là:",
+    "options": ["250", "300", "200", "350"],
+    "correctAnswer": "250"
+  },
+  {
+    "question": "Sử dụng tính chất giao hoán và kết hợp để tính: 25 + 78 + 75 + 22",
+    "options": ["200", "100", "178", "222"],
+    "correctAnswer": "200"
+  },
+  {
+    "question": "Trong một phép trừ, tổng của số bị trừ, số trừ và hiệu là 200. Tìm số bị trừ.",
+    "options": ["100", "50", "150", "Không tìm được"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Hai kho chứa 150 tấn thóc. Nếu chuyển 10 tấn từ kho A sang kho B thì hai kho có số thóc bằng nhau. Hỏi lúc đầu kho A có bao nhiêu tấn thóc?",
+    "options": ["85 tấn", "75 tấn", "65 tấn", "80 tấn"],
+    "correctAnswer": "85 tấn"
+  },
+  {
+    "question": "Tìm x, biết 1 000 000 - (x + 100 000) = 500 000",
+    "options": ["x = 400 000", "x = 600 000", "x = 500 000", "x = 1 400 000"],
+    "correctAnswer": "x = 400 000"
+  },
+  {
+    "question": "Một số cộng với 45 600 thì bằng 100 000. Số đó là:",
+    "options": ["54 400", "145 600", "55 400", "64 400"],
+    "correctAnswer": "54 400"
+  },
+  {
+    "question": "Tính: 999 999 + 1",
+    "options": ["1 000 000", "10 000 000", "999 998", "1 000 001"],
+    "correctAnswer": "1 000 000"
+  },
+  {
+    "question": "Khi thực hiện phép cộng các số có nhiều chữ số, ta bắt đầu cộng từ hàng nào?",
+    "options": ["Hàng đơn vị", "Hàng cao nhất (bên trái)", "Hàng nào cũng được", "Hàng chục"],
+    "correctAnswer": "Hàng đơn vị"
+  },
+  {
+    "question": "Khi thực hiện phép trừ các số có nhiều chữ số, ta bắt đầu trừ từ hàng nào?",
+    "options": ["Hàng đơn vị", "Hàng cao nhất (bên trái)", "Hàng nào cũng được", "Hàng chục"],
+    "correctAnswer": "Hàng đơn vị"
+  },
+  {
+    "question": "Tổng của hai số là 125, hiệu là 25. Tìm số bé.",
+    "options": ["50", "75", "100", "60"],
+    "correctAnswer": "50"
+  },
+  {
+    "question": "Một quyển sách dày 250 trang. An đã đọc được 120 trang. Hỏi An cần đọc bao nhiêu trang nữa để hết quyển sách?",
+    "options": ["130 trang", "370 trang", "120 trang", "250 trang"],
+    "correctAnswer": "130 trang"
+  },
+  {
+    "question": "Tìm y, biết: y + 250 = 1000 - 250",
+    "options": ["y = 500", "y = 750", "y = 1000", "y = 1500"],
+    "correctAnswer": "y = 500"
+  },
+  {
+    "question": "Tính nhanh: 345 + 678 - 145",
+    "options": ["878", "200", "778", "978"],
+    "correctAnswer": "878"
+  },
+  {
+    "question": "Cả hai giỏ có 88 quả cam. Nếu lấy 5 quả từ giỏ thứ nhất chuyển sang giỏ thứ hai thì số cam ở hai giỏ bằng nhau. Hỏi lúc đầu giỏ thứ hai có bao nhiêu quả?",
+    "options": ["39 quả", "49 quả", "44 quả", "34 quả"],
+    "correctAnswer": "39 quả"
+  },
+  {
+    "question": "Số A là số lớn nhất có 5 chữ số. Số B là số lớn nhất có 4 chữ số. Hiệu của A và B là:",
+    "options": ["90 000", "90 001", "89 999", "99 000"],
+    "correctAnswer": "90 000"
+  },
+  {
+    "question": "Kết quả của 101 101 + 202 202 + 303 303 là:",
+    "options": ["606 606", "606 605", "605 606", "506 606"],
+    "correctAnswer": "606 606"
+  },
+  {
+    "question": "a + b + c = (a + c) + b. Đây là áp dụng tính chất nào của phép cộng?",
+    "options": ["Giao hoán và kết hợp", "Chỉ giao hoán", "Chỉ kết hợp", "Không phải tính chất nào"],
+    "correctAnswer": "Giao hoán và kết hợp"
+  },
+  {
+    "question": "Tổng của hai số là 300. Tỉ số của hai số đó là 2. Tìm hiệu hai số đó.",
+    "options": ["100", "200", "150", "50"],
+    "correctAnswer": "100"
+  },
+  {
+    "question": "Một người đi từ A đến B dài 120 km. Người đó đã đi được 75 km. Hỏi người đó còn phải đi bao nhiêu ki-lô-mét nữa?",
+    "options": ["45 km", "195 km", "55 km", "75 km"],
+    "correctAnswer": "45 km"
+  },
+  {
+    "question": "Tìm hiệu của 1 000 000 và 1.",
+    "options": ["999 999", "1 000 001", "999 990", "999 000"],
+    "correctAnswer": "999 999"
+  },
+  {
+    "question": "Một số trừ đi tổng của 120 và 80 thì được 300. Số đó là:",
+    "options": ["500", "200", "100", "400"],
+    "correctAnswer": "500"
+  },
+  {
+    "question": "Tính nhanh: 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9",
+    "options": ["45", "55", "40", "50"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "Tuổi của mẹ và tuổi của con cộng lại là 50 tuổi. Mẹ hơn con 30 tuổi. Tính tuổi của mẹ.",
+    "options": ["40 tuổi", "10 tuổi", "20 tuổi", "30 tuổi"],
+    "correctAnswer": "40 tuổi"
+  },
+  {
+    "question": "Một cửa hàng có 1245 áo sơ mi. Cửa hàng nhập thêm 555 cái nữa. Cửa hàng có tất cả bao nhiêu áo sơ mi?",
+    "options": ["1800 cái", "1700 cái", "1790 cái", "1890 cái"],
+    "correctAnswer": "1800 cái"
+  },
+  {
+    "question": "Số bị trừ hơn số trừ 125. Hiệu của hai số đó là:",
+    "options": ["125", "Số bị trừ", "Số trừ", "Không xác định"],
+    "correctAnswer": "125"
+  },
+  {
+    "question": "Tổng của hai số bằng số bị trừ. Tìm số trừ.",
+    "options": ["Số trừ bằng 0", "Không tìm được", "Số trừ bằng hiệu", "Số trừ bằng tổng"],
+    "correctAnswer": "Số trừ bằng 0"
+  },
+  {
+    "question": "Tính nhanh: 5678 - (1678 + 2000)",
+    "options": ["2000", "4000", "3000", "1000"],
+    "correctAnswer": "2000"
+  },
+  {
+    "question": "Hai đội công nhân trồng được 500 cây. Đội I trồng ít hơn đội II là 50 cây. Hỏi đội I trồng được bao nhiêu cây?",
+    "options": ["225 cây", "275 cây", "250 cây", "450 cây"],
+    "correctAnswer": "225 cây"
+  },
+  {
+    "question": "Một thư viện có 20 000 quyển sách. Sau một năm, thư viện mua thêm 2 500 quyển và thanh lý 1 500 quyển sách cũ. Hỏi thư viện có tất cả bao nhiêu quyển sách?",
+    "options": ["21 000 quyển", "24 000 quyển", "19 000 quyển", "22 000 quyển"],
+    "correctAnswer": "21 000 quyển"
+  },
+  {
+    "question": "Tìm tổng của số chẵn lớn nhất có 5 chữ số và số lẻ bé nhất có 5 chữ số.",
+    "options": ["109 999", "110 000", "109 998", "108 999"],
+    "correctAnswer": "109 999"
+  },
+  {
+    "question": "Hiệu của hai số là 1000. Nếu giảm số bị trừ đi 100 và tăng số trừ lên 100 thì hiệu mới là:",
+    "options": ["800", "1200", "1000", "900"],
+    "correctAnswer": "800"
+  },
+  {
+    "question": "Sử dụng tính chất kết hợp để tính: (99 999 + 8765) + 1",
+    "options": ["108 765", "100 000", "108 764", "108 766"],
+    "correctAnswer": "108 765"
+  },
+  {
+    "question": "Trong một phép cộng, nếu một số hạng tăng lên bao nhiêu đơn vị thì tổng sẽ...",
+    "options": ["Tăng lên bấy nhiêu đơn vị", "Giảm đi bấy nhiêu đơn vị", "Không thay đổi", "Tăng lên gấp đôi"],
+    "correctAnswer": "Tăng lên bấy nhiêu đơn vị"
+  },
+  {
+    "question": "Trong một phép trừ, nếu số bị trừ tăng lên bao nhiêu đơn vị thì hiệu sẽ...",
+    "options": ["Tăng lên bấy nhiêu đơn vị", "Giảm đi bấy nhiêu đơn vị", "Không thay đổi", "Giảm đi một nửa"],
+    "correctAnswer": "Tăng lên bấy nhiêu đơn vị"
+  },
+  {
+    "question": "Trong một phép trừ, nếu số trừ tăng lên bao nhiêu đơn vị thì hiệu sẽ...",
+    "options": ["Giảm đi bấy nhiêu đơn vị", "Tăng lên bấy nhiêu đơn vị", "Không thay đổi", "Tăng lên gấp đôi"],
+    "correctAnswer": "Giảm đi bấy nhiêu đơn vị"
+  },
+  {
+    "question": "Tổng của hai số là số lớn nhất có 3 chữ số. Hiệu của hai số là số lớn nhất có 2 chữ số. Tìm số lớn.",
+    "options": ["549", "450", "900", "999"],
+    "correctAnswer": "549"
+  },
+  {
+    "question": "Một người có 1 000 000 đồng. Người đó mua một cái tivi hết 750 000 đồng và một cái quạt hết 150 000 đồng. Hỏi người đó còn lại bao nhiêu tiền?",
+    "options": ["100 000 đồng", "900 000 đồng", "250 000 đồng", "0 đồng"],
+    "correctAnswer": "100 000 đồng"
+  }
+]
+
