@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? You wear it on your body.",
+    "options": ["A shirt", "A hat", "A shoe", "A sock"],
+    "correctAnswer": "A shirt"
+  },
+  {
+    "question": "This is a ____. A girl wears it.",
+    "options": ["dress", "shirt", "trousers", "shorts"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "You wear these on your feet, inside your shoes.",
+    "options": ["Socks", "Shoes", "Hats", "Shirts"],
+    "correctAnswer": "Socks"
+  },
+  {
+    "question": "You wear these on your feet to walk outside.",
+    "options": ["Shoes", "Socks", "Trousers", "Shorts"],
+    "correctAnswer": "Shoes"
+  },
+  {
+    "question": "Spell the word: s-h-i-r-t",
+    "options": ["shirt", "short", "skirt", "sheet"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "question": "These are ____. They are for your legs and are short.",
+    "options": ["shorts", "trousers", "dress", "shirt"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "I am wearing a blue ____.",
+    "options": ["shirt", "dress", "hat", "shoe"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "question": "Find the word: d-r-e-s-s",
+    "options": ["dress", "press", "stress", "chess"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "Are these your shoes?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is a shirt.", "I have a dress."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "This is a pink ____.",
+    "options": ["dress", "shirt", "shorts", "trousers"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "What are these? They are long pants.",
+    "options": ["Trousers", "Shorts", "Socks", "Shoes"],
+    "correctAnswer": "Trousers"
+  },
+  {
+    "question": "I have new ____.",
+    "options": ["shoes", "shirt", "dress", "hat"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "question": "What is the missing letter? soc_",
+    "options": ["k", "s", "t", "p"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "This is my ____. It's yellow.",
+    "options": ["shirt", "dress", "trousers", "shorts"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "question": "My sister is wearing a beautiful ____.",
+    "options": ["dress", "shirt", "shorts", "shoes"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "Let's put on our ____.",
+    "options": ["shoes", "books", "pens", "chairs"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "question": "Spell the word: s-h-o-e-s",
+    "options": ["shoes", "shows", "shops", "shone"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "question": "Are these your socks?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is a shoe.", "I can walk."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "I am wearing green ____.",
+    "options": ["shorts", "dress", "shirt", "shoes"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "What is the missing letter? sh_rt",
+    "options": ["i", "o", "a", "e"],
+    "correctAnswer": "i"
+  },
+  {
+    "question": "These are my ____.",
+    "options": ["clothes", "pets", "toys", "books"],
+    "correctAnswer": "clothes"
+  },
+  {
+    "question": "How many shoes do you have?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
+  },
+  {
+    "question": "This is a pair of ____.",
+    "options": ["trousers", "shirt", "dress", "hat"],
+    "correctAnswer": "trousers"
+  },
+  {
+    "question": "Spell the word: s-o-c-k-s",
+    "options": ["socks", "rocks", "locks", "docks"],
+    "correctAnswer": "socks"
+  },
+  {
+    "question": "Is it your dress?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my shirt.", "I can see a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I wear ____ when it's hot.",
+    "options": ["shorts", "trousers", "a coat", "a sweater"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "What is the missing letter? dre__",
+    "options": ["ss", "sh", "st", "sp"],
+    "correctAnswer": "ss"
+  },
+  {
+    "question": "What is this?",
+    "options": ["My shirt", "My shoes", "My socks", "My shorts"],
+    "correctAnswer": "My shirt"
+  },
+  {
+    "question": "This is a ____. It has two legs.",
+    "options": ["pair of trousers", "shirt", "dress", "hat"],
+    "correctAnswer": "pair of trousers"
+  },
+  {
+    "question": "This is a ____. It is for a girl.",
+    "options": ["dress", "shirt", "shorts", "trousers"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "What are these?",
+    "options": ["Shoes", "Socks", "Shirts", "Dresses"],
+    "correctAnswer": "Shoes"
+  },
+  {
+    "question": "Find the word: t-r-o-u-s-e-r-s",
+    "options": ["trousers", "towers", "trowels", "troupes"],
+    "correctAnswer": "trousers"
+  },
+  {
+    "question": "Are these your shorts?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is my shirt.", "I am a boy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My ____ are new.",
+    "options": ["shoes", "shirt", "dress", "hat"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "question": "What is the missing letter? sho_s",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "These are lovely ____.",
+    "options": ["clothes", "books", "songs", "games"],
+    "correctAnswer": "clothes"
+  },
+  {
+    "question": "Spell the word: c-l-o-t-h-e-s",
+    "options": ["clothes", "closes", "clothe", "cloth"],
+    "correctAnswer": "clothes"
+  },
+  {
+    "question": "Is this your shirt?",
+    "options": ["Yes, it is.", "No, it isn't.", "They are my shoes.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My clothes are in the ____.",
+    "options": ["wardrobe", "kitchen", "bathroom", "living room"],
+    "correctAnswer": "wardrobe"
+  },
+  {
+    "question": "What is the missing letter? _lothes",
+    "options": ["c", "b", "j", "s"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A dress", "A shirt", "Shorts", "Trousers"],
+    "correctAnswer": "A dress"
+  },
+  {
+    "question": "My ____ are clean.",
+    "options": ["socks", "shoes", "shirt", "dress"],
+    "correctAnswer": "socks"
+  },
+  {
+    "question": "Are these your trousers?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is my shirt.", "Hello."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "I have a shirt and ____.",
+    "options": ["shorts", "a dress", "a hat", "a shoe"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "Find the word: s-h-o-r-t-s",
+    "options": ["shorts", "shirts", "shots", "sorts"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "This is my ____. I wear it to school.",
+    "options": ["uniform", "pajamas", "costume", "dress"],
+    "correctAnswer": "uniform"
+  },
+  {
+    "question": "What is the missing letter? trou_ers",
+    "options": ["s", "p", "t", "d"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "Is it your uniform?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my dress.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is nice.",
+    "options": ["dress", "shirt", "shoes", "socks"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "What are these?",
+    "options": ["Socks", "Shoes", "Shirts", "Shorts"],
+    "correctAnswer": "Socks"
+  },
+  {
+    "question": "How many socks are there?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
+  },
+  {
+    "question": "A pair of socks has ____ socks.",
+    "options": ["two", "one", "three", "four"],
+    "correctAnswer": "two"
+  },
+  {
+    "question": "I see ____ shirt.",
+    "options": ["a", "an", "one", "my"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What color is the dress?",
+    "options": ["Pink", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Pink"
+  },
+  {
+    "question": "What color are the shoes?",
+    "options": ["Brown", "Red", "Green", "Yellow"],
+    "correctAnswer": "Brown"
+  },
+  {
+    "question": "The shirt is ____.",
+    "options": ["white", "ugly", "big", "small"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "The trousers are ____.",
+    "options": ["long", "short", "warm", "cold"],
+    "correctAnswer": "long"
+  },
+  {
+    "question": "Are your clothes new or old?",
+    "options": ["New", "Old", "Yes", "No"],
+    "correctAnswer": "New"
+  },
+  {
+    "question": "My clothes are ____.",
+    "options": ["clean", "sad", "angry", "tired"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "What is the missing letter? clea_",
+    "options": ["n", "t", "d", "k"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["shirt", "dress", "shorts", "trousers"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "question": "I love my new ____.",
+    "options": ["dress", "shirt", "shoes", "socks"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "Are these your shorts?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is a dress.", "Hello."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "Let's get dressed.",
+    "options": ["Okay", "No", "I don't know", "Maybe"],
+    "correctAnswer": "Okay"
+  },
+  {
+    "question": "Spell the word: w-e-a-r",
+    "options": ["wear", "where", "were", "we're"],
+    "correctAnswer": "wear"
+  },
+  {
+    "question": "I ____ a shirt.",
+    "options": ["wear", "have", "play", "see"],
+    "correctAnswer": "wear"
+  },
+  {
+    "question": "My favorite piece of clothing is a ____.",
+    "options": ["T-shirt", "dress", "hat", "scarf"],
+    "correctAnswer": "T-shirt"
+  },
+  {
+    "question": "What is the missing letter? T-shi_t",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is a ____. You wear it on your head.",
+    "options": ["hat", "shirt", "shoe", "sock"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "We should keep our clothes ____.",
+    "options": ["tidy", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "tidy"
+  },
+  {
+    "question": "Is it a big hat?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a small shoe.", "I like hats."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: h-a-t",
+    "options": ["hat", "cat", "bat", "mat"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "I wear a ____ when it's sunny.",
+    "options": ["hat", "coat", "scarf", "gloves"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "The girl has a pretty ____.",
+    "options": ["dress", "shirt", "shorts", "trousers"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "What is the missing letter? ha_",
+    "options": ["t", "p", "n", "d"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A T-shirt", "A dress", "Shorts", "Trousers"],
+    "correctAnswer": "A T-shirt"
+  },
+  {
+    "question": "My ____ is comfortable.",
+    "options": ["T-shirt", "shoes", "hat", "dress"],
+    "correctAnswer": "T-shirt"
+  },
+  {
+    "question": "Is it your T-shirt?",
+    "options": ["No, it is my brother's T-shirt.", "Yes, it is.", "She is my sister.", "I have a T-shirt."],
+    "correctAnswer": "No, it is my brother's T-shirt."
+  },
+  {
+    "question": "My father is wearing ____.",
+    "options": ["trousers", "shorts", "a dress", "a skirt"],
+    "correctAnswer": "trousers"
+  },
+  {
+    "question": "Spell the word: s-k-i-r-t",
+    "options": ["skirt", "shirt", "short", "start"],
+    "correctAnswer": "skirt"
+  },
+  {
+    "question": "This is a ____. A girl wears it.",
+    "options": ["skirt", "shirt", "shorts", "trousers"],
+    "correctAnswer": "skirt"
+  },
+  {
+    "question": "What is the missing letter? skir_",
+    "options": ["t", "l", "n", "m"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What are these?",
+    "options": ["Trousers", "Shorts", "Shirts", "Dresses"],
+    "correctAnswer": "Trousers"
+  },
+  {
+    "question": "My mother is wearing a ____.",
+    "options": ["skirt", "shirt", "shorts", "trousers"],
+    "correctAnswer": "skirt"
+  },
+  {
+    "question": "Are these your shoes?",
+    "options": ["Yes, they are.", "No, they aren't.", "He is my brother.", "I have shoes."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My brother is wearing ____.",
+    "options": ["shorts", "a dress", "a skirt", "a hat"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "Spell the word: u-n-i-f-o-r-m",
+    "options": ["uniform", "unicorn", "unify", "unique"],
+    "correctAnswer": "uniform"
+  },
+  {
+    "question": "I am ____ my new clothes.",
+    "options": ["happy with", "sad about", "bored with", "angry at"],
+    "correctAnswer": "happy with"
+  },
+  {
+    "question": "What is the missing letter? u_iform",
+    "options": ["n", "m", "l", "p"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A wardrobe", "A bed", "A desk", "A chair"],
+    "correctAnswer": "A wardrobe"
+  },
+  {
+    "question": "My clothes are in the ____.",
+    "options": ["wardrobe", "box", "bag", "car"],
+    "correctAnswer": "wardrobe"
+  },
+  {
+    "question": "Are these your socks?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is my shirt.", "Hello."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "The socks are ____.",
+    "options": ["red", "blue", "green", "yellow"],
+    "correctAnswer": "red"
+  },
+  {
+    "question": "Spell the word: r-e-d",
+    "options": ["red", "bed", "led", "fed"],
+    "correctAnswer": "red"
+  },
+  {
+    "question": "We wear ____ to school.",
+    "options": ["a uniform", "pajamas", "a costume", "a dress"],
+    "correctAnswer": "a uniform"
+  },
+  {
+    "question": "What is the missing letter? sh_e",
+    "options": ["o", "a", "i", "u"],
+    "correctAnswer": "o"
+  }
+]
+

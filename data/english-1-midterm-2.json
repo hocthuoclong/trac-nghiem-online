@@ -1,0 +1,628 @@
+[
+  {
+    "question": "Unit 6: What is this? It says 'woof woof'.",
+    "options": ["A dog", "A cat", "A bird", "A fish"],
+    "correctAnswer": "A dog"
+  },
+  {
+    "question": "Unit 6: This is my ____. It says 'meow'.",
+    "options": ["cat", "dog", "bird", "fish"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Unit 6: This animal lives in water.",
+    "options": ["A fish", "A bird", "A cat", "A dog"],
+    "correctAnswer": "A fish"
+  },
+  {
+    "question": "Unit 6: This animal has long ears and likes carrots.",
+    "options": ["A rabbit", "A dog", "A cat", "A bird"],
+    "correctAnswer": "A rabbit"
+  },
+  {
+    "question": "Unit 6: Spell the word: d-o-g",
+    "options": ["dog", "cat", "dot", "dig"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "Unit 6: I like to play with my ____.",
+    "options": ["pet", "toy", "book", "friend"],
+    "correctAnswer": "pet"
+  },
+  {
+    "question": "Unit 6: Find the word: c-a-t",
+    "options": ["cat", "car", "can", "cap"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Unit 6: Is this your dog?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a cat.", "I have a bird."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 6: This is my ____. It can swim.",
+    "options": ["fish", "bird", "dog", "cat"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Unit 6: My ____ can fly.",
+    "options": ["bird", "fish", "dog", "cat"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "Unit 6: What is the missing letter? bir_",
+    "options": ["d", "k", "t", "p"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Unit 6: Spell the word: p-e-t",
+    "options": ["pet", "pen", "pot", "peg"],
+    "correctAnswer": "pet"
+  },
+  {
+    "question": "Unit 6: My ____ is friendly.",
+    "options": ["dog", "cat", "bird", "fish"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "Unit 6: A bird lives in a ____.",
+    "options": ["cage", "tank", "house", "box"],
+    "correctAnswer": "cage"
+  },
+  {
+    "question": "Unit 6: A fish lives in a ____.",
+    "options": ["tank", "cage", "house", "box"],
+    "correctAnswer": "tank"
+  },
+  {
+    "question": "Unit 7: What is this? It's where you live.",
+    "options": ["A house", "A school", "A shop", "A park"],
+    "correctAnswer": "A house"
+  },
+  {
+    "question": "Unit 7: This is the ____. You open it to go inside.",
+    "options": ["door", "window", "roof", "wall"],
+    "correctAnswer": "door"
+  },
+  {
+    "question": "Unit 7: You look through this to see outside.",
+    "options": ["A window", "A door", "A wall", "A floor"],
+    "correctAnswer": "A window"
+  },
+  {
+    "question": "Unit 7: This is the room where you sleep.",
+    "options": ["A bedroom", "A kitchen", "A bathroom", "A living room"],
+    "correctAnswer": "A bedroom"
+  },
+  {
+    "question": "Unit 7: Spell the word: h-o-u-s-e",
+    "options": ["house", "horse", "mouse", "blouse"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Unit 7: This is the room where you cook food.",
+    "options": ["A kitchen", "A bedroom", "A living room", "A bathroom"],
+    "correctAnswer": "A kitchen"
+  },
+  {
+    "question": "Unit 7: The family watches TV in the ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "Unit 7: Find the word: d-o-o-r",
+    "options": ["door", "doll", "dog", "dot"],
+    "correctAnswer": "door"
+  },
+  {
+    "question": "Unit 7: Is this your house?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a school.", "I have a pet."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 7: My mom is in the ____.",
+    "options": ["kitchen", "bedroom", "living room", "bathroom"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "Unit 7: What is the missing letter? windo_",
+    "options": ["w", "k", "t", "p"],
+    "correctAnswer": "w"
+  },
+  {
+    "question": "Unit 7: Spell the word: r-o-o-m",
+    "options": ["room", "roof", "root", "roam"],
+    "correctAnswer": "room"
+  },
+  {
+    "question": "Unit 7: I sleep in my ____.",
+    "options": ["bedroom", "kitchen", "living room", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Unit 7: My house has many ____.",
+    "options": ["windows", "doors", "rooms", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Unit 7: The living room has a ____.",
+    "options": ["sofa", "bed", "desk", "toilet"],
+    "correctAnswer": "sofa"
+  },
+  {
+    "question": "Unit 8: What is this? You wear it on your body.",
+    "options": ["A shirt", "A hat", "A shoe", "A sock"],
+    "correctAnswer": "A shirt"
+  },
+  {
+    "question": "Unit 8: This is a ____. A girl wears it.",
+    "options": ["dress", "shirt", "trousers", "shorts"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "Unit 8: You wear these on your feet.",
+    "options": ["Shoes", "Socks", "Trousers", "Shorts"],
+    "correctAnswer": "Shoes"
+  },
+  {
+    "question": "Unit 8: These are ____. They are for your legs and are short.",
+    "options": ["shorts", "trousers", "dress", "shirt"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "Unit 8: Spell the word: s-h-i-r-t",
+    "options": ["shirt", "short", "skirt", "sheet"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "question": "Unit 8: I am wearing a blue ____.",
+    "options": ["shirt", "dress", "hat", "shoe"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "question": "Unit 8: Find the word: d-r-e-s-s",
+    "options": ["dress", "press", "stress", "chess"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "Unit 8: Are these your shoes?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is a shirt.", "I have a dress."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "Unit 8: What are these? They are long pants.",
+    "options": ["Trousers", "Shorts", "Socks", "Shoes"],
+    "correctAnswer": "Trousers"
+  },
+  {
+    "question": "Unit 8: My sister is wearing a beautiful ____.",
+    "options": ["dress", "shirt", "shorts", "shoes"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "Unit 8: What is the missing letter? sh_rt",
+    "options": ["i", "o", "a", "e"],
+    "correctAnswer": "i"
+  },
+  {
+    "question": "Unit 8: These are my ____.",
+    "options": ["clothes", "pets", "toys", "books"],
+    "correctAnswer": "clothes"
+  },
+  {
+    "question": "Unit 8: I wear ____ when it's hot.",
+    "options": ["shorts", "trousers", "a coat", "a sweater"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "Unit 8: My ____ are new.",
+    "options": ["shoes", "shirt", "dress", "hat"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "question": "Unit 8: A pair of socks has ____ socks.",
+    "options": ["two", "one", "three", "four"],
+    "correctAnswer": "two"
+  },
+  {
+    "question": "Unit 9: What colour is an apple?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Red"
+  },
+  {
+    "question": "Unit 9: The sky is ____.",
+    "options": ["blue", "red", "green", "yellow"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Unit 9: Grass is ____.",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "correctAnswer": "Green"
+  },
+  {
+    "question": "Unit 9: The sun is ____.",
+    "options": ["Yellow", "Blue", "Red", "Green"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "Unit 9: Spell the word: r-e-d",
+    "options": ["red", "bed", "led", "fed"],
+    "correctAnswer": "red"
+  },
+  {
+    "question": "Unit 9: This is a ____ flower. It's for a girl.",
+    "options": ["pink", "blue", "black", "brown"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "Unit 9: Find the word: b-l-u-e",
+    "options": ["blue", "glue", "clue", "true"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Unit 9: Is the ball red?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a blue ball.", "I have a ball."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 9: What colour is this? It's like an orange fruit.",
+    "options": ["Orange", "Red", "Yellow", "Green"],
+    "correctAnswer": "Orange"
+  },
+  {
+    "question": "Unit 9: My favorite colour is ____.",
+    "options": ["pink", "black", "white", "brown"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "Unit 9: What is the missing letter? g_een",
+    "options": ["r", "l", "p", "t"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Unit 9: A rainbow has many ____.",
+    "options": ["colours", "lines", "dots", "shapes"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "Unit 9: A banana is ____.",
+    "options": ["yellow", "red", "blue", "green"],
+    "correctAnswer": "yellow"
+  },
+  {
+    "question": "Unit 9: The car is ____.",
+    "options": ["black", "white", "warm", "cold"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "Unit 9: We mix ____ and yellow to make green.",
+    "options": ["blue", "red", "white", "black"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Unit 10: What is this? It's a red fruit.",
+    "options": ["An apple", "A banana", "An orange", "A grape"],
+    "correctAnswer": "An apple"
+  },
+  {
+    "question": "Unit 10: This is a yellow fruit. Monkeys like it.",
+    "options": ["banana", "apple", "orange", "grape"],
+    "correctAnswer": "banana"
+  },
+  {
+    "question": "Unit 10: You drink this. It's white.",
+    "options": ["Milk", "Water", "Juice", "Tea"],
+    "correctAnswer": "Milk"
+  },
+  {
+    "question": "Unit 10: You drink this when you are thirsty.",
+    "options": ["Water", "Milk", "Juice", "Soda"],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Unit 10: Spell the word: m-i-l-k",
+    "options": ["milk", "like", "silk", "mile"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "Unit 10: This is ____. You eat it with many dishes.",
+    "options": ["rice", "bread", "cake", "candy"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Unit 10: I like to eat ____.",
+    "options": ["cake", "book", "pen", "toy"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "Unit 10: Find the word: a-p-p-l-e",
+    "options": ["apple", "apply", "able", "ample"],
+    "correctAnswer": "apple"
+  },
+  {
+    "question": "Unit 10: Do you like milk?",
+    "options": ["Yes, I do.", "No, I don't.", "It is water.", "I have a cake."],
+    "correctAnswer": "Yes, I do."
+  },
+  {
+    "question": "Unit 10: I am hungry. I want some ____.",
+    "options": ["rice", "water", "milk", "juice"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Unit 10: What is the missing letter? cak_",
+    "options": ["e", "k", "t", "p"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "Unit 10: Spell the word: f-o-o-d",
+    "options": ["food", "foot", "good", "mood"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Unit 10: I am thirsty. I want some ____.",
+    "options": ["juice", "rice", "bread", "cake"],
+    "correctAnswer": "juice"
+  },
+  {
+    "question": "Unit 10: The cake is ____.",
+    "options": ["sweet", "sour", "salty", "bitter"],
+    "correctAnswer": "sweet"
+  },
+  {
+    "question": "Unit 10: I ____ an apple.",
+    "options": ["eat", "drink", "play", "see"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "Unit 6: This is my ____. It can hop.",
+    "options": ["rabbit", "dog", "cat", "fish"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "Unit 6: Spell the word: f-i-s-h",
+    "options": ["fish", "dish", "wish", "fist"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Unit 6: My ____ is cute.",
+    "options": ["cat", "dog", "bird", "fish"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Unit 6: Find the word: r-a-b-b-i-t",
+    "options": ["rabbit", "robot", "ribbon", "rubber"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "Unit 6: I have two ____.",
+    "options": ["pets", "books", "toys", "friends"],
+    "correctAnswer": "pets"
+  },
+  {
+    "question": "Unit 6: What colour is the fish?",
+    "options": ["Gold", "Red", "Green", "Yellow"],
+    "correctAnswer": "Gold"
+  },
+  {
+    "question": "Unit 6: A bird can ____.",
+    "options": ["fly", "swim", "run", "hop"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "Unit 6: My dog can ____ fast.",
+    "options": ["run", "fly", "swim", "sing"],
+    "correctAnswer": "run"
+  },
+  {
+    "question": "Unit 6: I love my ____.",
+    "options": ["pet", "toy", "book", "car"],
+    "correctAnswer": "pet"
+  },
+  {
+    "question": "Unit 6: Is it your cat?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a dog.", "I like cats."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 7: Spell the word: k-i-t-c-h-e-n",
+    "options": ["kitchen", "chicken", "kitten", "kicking"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "Unit 7: Is it your kitchen?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my bedroom.", "I can see food."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 7: What is the missing letter? doo_",
+    "options": ["r", "k", "m", "n"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Unit 7: Find the word: b-e-d-r-o-o-m",
+    "options": ["bedroom", "bathroom", "broom", "bed"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Unit 7: My house is ____.",
+    "options": ["beautiful", "sad", "angry", "tired"],
+    "correctAnswer": "beautiful"
+  },
+  {
+    "question": "Unit 7: I have a bed in my ____.",
+    "options": ["bedroom", "kitchen", "living room", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Unit 7: Spell the word: w-i-n-d-o-w",
+    "options": ["window", "winter", "windy", "winner"],
+    "correctAnswer": "window"
+  },
+  {
+    "question": "Unit 7: We should keep our house ____.",
+    "options": ["clean", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "Unit 7: My father is in the ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "Unit 7: This is the room where you wash your hands.",
+    "options": ["A bathroom", "A kitchen", "A bedroom", "A living room"],
+    "correctAnswer": "A bathroom"
+  },
+  {
+    "question": "Unit 8: Spell the word: s-h-o-e-s",
+    "options": ["shoes", "shows", "shops", "shone"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "question": "Unit 8: Are these your socks?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is a shoe.", "I can walk."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "Unit 8: Spell the word: s-o-c-k-s",
+    "options": ["socks", "rocks", "locks", "docks"],
+    "correctAnswer": "socks"
+  },
+  {
+    "question": "Unit 8: Find the word: t-r-o-u-s-e-r-s",
+    "options": ["trousers", "towers", "trowels", "troupes"],
+    "correctAnswer": "trousers"
+  },
+  {
+    "question": "Unit 8: Spell the word: c-l-o-t-h-e-s",
+    "options": ["clothes", "closes", "clothe", "cloth"],
+    "correctAnswer": "clothes"
+  },
+  {
+    "question": "Unit 8: I have a shirt and ____.",
+    "options": ["shorts", "a dress", "a hat", "a shoe"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "Unit 8: Find the word: s-h-o-r-t-s",
+    "options": ["shorts", "shirts", "shots", "sorts"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "Unit 8: The trousers are ____.",
+    "options": ["long", "short", "warm", "cold"],
+    "correctAnswer": "long"
+  },
+  {
+    "question": "Unit 8: I ____ a shirt.",
+    "options": ["wear", "have", "play", "see"],
+    "correctAnswer": "wear"
+  },
+  {
+    "question": "Unit 8: This is a ____. A girl wears it.",
+    "options": ["skirt", "shirt", "shorts", "trousers"],
+    "correctAnswer": "skirt"
+  },
+  {
+    "question": "Unit 9: Spell the word: g-r-e-e-n",
+    "options": ["green", "queen", "seen", "screen"],
+    "correctAnswer": "green"
+  },
+  {
+    "question": "Unit 9: Is the cat black?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a white cat.", "I can see a cat."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 9: Spell the word: y-e-l-l-o-w",
+    "options": ["yellow", "bellow", "fellow", "hollow"],
+    "correctAnswer": "yellow"
+  },
+  {
+    "question": "Unit 9: I like ____ grapes.",
+    "options": ["purple", "orange", "brown", "white"],
+    "correctAnswer": "purple"
+  },
+  {
+    "question": "Unit 9: This is a ____ dog. It's the colour of chocolate.",
+    "options": ["brown", "black", "white", "grey"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "Unit 9: Find the word: o-r-a-n-g-e",
+    "options": ["orange", "arrange", "range", "strange"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "Unit 9: Spell the word: p-i-n-k",
+    "options": ["pink", "sink", "wink", "link"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "Unit 9: My house is painted ____.",
+    "options": ["white", "black", "brown", "grey"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "Unit 9: Find the word: w-h-i-t-e",
+    "options": ["white", "while", "what", "where"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "Unit 9: Spell the word: b-l-a-c-k",
+    "options": ["black", "back", "block", "blank"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "Unit 10: Spell the word: w-a-t-e-r",
+    "options": ["water", "later", "waiter", "watch"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "Unit 10: Is it bread?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is rice.", "I can see food."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Unit 10: What is the missing letter? brea_",
+    "options": ["d", "k", "m", "n"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Unit 10: Find the word: c-a-k-e",
+    "options": ["cake", "case", "cane", "cape"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "Unit 10: Spell the word: r-i-c-e",
+    "options": ["rice", "nice", "mice", "lice"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Unit 10: Find the word: b-a-n-a-n-a",
+    "options": ["banana", "bandana", "bahama", "canada"],
+    "correctAnswer": "banana"
+  },
+  {
+    "question": "Unit 10: I see ____ apple.",
+    "options": ["an", "a", "one", "my"],
+    "correctAnswer": "an"
+  },
+  {
+    "question": "Unit 10: Spell the word: e-a-t",
+    "options": ["eat", "tea", "ate", "neat"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "Unit 10: Spell the word: d-r-i-n-k",
+    "options": ["drink", "drive", "drip", "brink"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "Unit 10: My favorite food is ____.",
+    "options": ["chicken", "cake", "bread", "rice"],
+    "correctAnswer": "chicken"
+  }
+]
+

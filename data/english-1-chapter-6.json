@@ -1,0 +1,484 @@
+[
+  {
+    "question": "What is this? It says 'woof woof'.",
+    "options": ["A dog", "A cat", "A bird", "A fish"],
+    "correctAnswer": "A dog"
+  },
+  {
+    "question": "This is my ____. It says 'meow'.",
+    "options": ["cat", "dog", "bird", "fish"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "You can see this animal flying in the sky.",
+    "options": ["A bird", "A fish", "A dog", "A cat"],
+    "correctAnswer": "A bird"
+  },
+  {
+    "question": "This animal lives in water.",
+    "options": ["A fish", "A bird", "A cat", "A dog"],
+    "correctAnswer": "A fish"
+  },
+  {
+    "question": "Spell the word: d-o-g",
+    "options": ["dog", "cat", "dot", "dig"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "This is my ____. It has long ears and likes carrots.",
+    "options": ["rabbit", "dog", "cat", "bird"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "I like to play with my ____.",
+    "options": ["pet", "toy", "book", "friend"],
+    "correctAnswer": "pet"
+  },
+  {
+    "question": "Find the word: c-a-t",
+    "options": ["cat", "car", "can", "cap"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Is this your dog?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a cat.", "I have a bird."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. It can swim.",
+    "options": ["fish", "bird", "dog", "cat"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "What is this? It's an animal you keep at home.",
+    "options": ["A pet", "A toy", "A book", "A chair"],
+    "correctAnswer": "A pet"
+  },
+  {
+    "question": "I have a brown ____.",
+    "options": ["dog", "cat", "bird", "fish"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "What is the missing letter? bir_",
+    "options": ["d", "k", "t", "p"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "This is my ____. It's black.",
+    "options": ["cat", "dog", "bird", "fish"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "This is my ____. It can sing.",
+    "options": ["bird", "fish", "dog", "cat"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "Let's feed the ____.",
+    "options": ["fish", "book", "pen", "chair"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Spell the word: p-e-t",
+    "options": ["pet", "pen", "pot", "peg"],
+    "correctAnswer": "pet"
+  },
+  {
+    "question": "Is this your rabbit?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a cat.", "I can play."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. It can hop.",
+    "options": ["rabbit", "dog", "cat", "fish"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "What is the missing letter? ca_",
+    "options": ["t", "r", "p", "n"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "These are my ____.",
+    "options": ["pets", "toys", "books", "friends"],
+    "correctAnswer": "pets"
+  },
+  {
+    "question": "How many dogs do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["bird", "fish", "dog", "cat"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "Spell the word: f-i-s-h",
+    "options": ["fish", "dish", "wish", "fist"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Is it your cat?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my dog.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a white ____.",
+    "options": ["rabbit", "dog", "cat", "bird"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "What is the missing letter? do_",
+    "options": ["g", "k", "m", "n"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this?",
+    "options": ["My cat", "My dog", "My bird", "My fish"],
+    "correctAnswer": "My cat"
+  },
+  {
+    "question": "This is my ____. It is loyal.",
+    "options": ["dog", "cat", "bird", "rabbit"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "This is my ____. It is cute.",
+    "options": ["cat", "dog", "bird", "fish"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A fish", "A dog", "A cat", "A bird"],
+    "correctAnswer": "A fish"
+  },
+  {
+    "question": "Find the word: r-a-b-b-i-t",
+    "options": ["rabbit", "robot", "ribbon", "rubber"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "Is it your bird?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my fish.", "I am a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is small.",
+    "options": ["bird", "dog", "cat", "rabbit"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "What is the missing letter? ra__it",
+    "options": ["bb", "pp", "tt", "dd"],
+    "correctAnswer": "bb"
+  },
+  {
+    "question": "This is a lovely ____.",
+    "options": ["pet", "book", "song", "game"],
+    "correctAnswer": "pet"
+  },
+  {
+    "question": "Spell the word: b-i-r-d",
+    "options": ["bird", "beard", "board", "bind"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "Is this your pet?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a toy.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have two ____.",
+    "options": ["pets", "books", "toys", "friends"],
+    "correctAnswer": "pets"
+  },
+  {
+    "question": "What is the missing letter? _et",
+    "options": ["p", "b", "j", "s"],
+    "correctAnswer": "p"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A rabbit", "A dog", "A cat", "A bird"],
+    "correctAnswer": "A rabbit"
+  },
+  {
+    "question": "My ____ is big.",
+    "options": ["dog", "cat", "bird", "fish"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "Is it your fish?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my bird.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a ____ and a dog.",
+    "options": ["cat", "bird", "fish", "rabbit"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Find the word: d-o-g",
+    "options": ["dog", "log", "fog", "bog"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "This is my ____. It can fly.",
+    "options": ["bird", "fish", "dog", "cat"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "What is the missing letter? fi_h",
+    "options": ["s", "p", "t", "d"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "Is it your dog?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my cat.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is friendly.",
+    "options": ["dog", "cat", "bird", "fish"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A bird", "A dog", "A cat", "A fish"],
+    "correctAnswer": "A bird"
+  },
+  {
+    "question": "How many cats do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "How many fish do you have?",
+    "options": ["Many", "One", "Two", "Three"],
+    "correctAnswer": "Many"
+  },
+  {
+    "question": "I see ____ pet.",
+    "options": ["a", "an", "one", "my"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What color is the cat?",
+    "options": ["Black", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Black"
+  },
+  {
+    "question": "What color is the fish?",
+    "options": ["Gold", "Red", "Green", "Yellow"],
+    "correctAnswer": "Gold"
+  },
+  {
+    "question": "The dog is ____.",
+    "options": ["playful", "ugly", "big", "small"],
+    "correctAnswer": "playful"
+  },
+  {
+    "question": "The cat is ____.",
+    "options": ["quiet", "loud", "warm", "cold"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "question": "Is your pet big or small?",
+    "options": ["Small", "Big", "Yes", "No"],
+    "correctAnswer": "Small"
+  },
+  {
+    "question": "My pet is ____.",
+    "options": ["cute", "sad", "angry", "tired"],
+    "correctAnswer": "cute"
+  },
+  {
+    "question": "What is the missing letter? cu_e",
+    "options": ["t", "n", "d", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["dog", "cat", "bird", "fish"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "I love my ____.",
+    "options": ["cat", "dog", "bird", "fish"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Is it your bird?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a fish.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's play with our ____.",
+    "options": ["pets", "friends", "toys", "books"],
+    "correctAnswer": "pets"
+  },
+  {
+    "question": "Spell the word: l-o-v-e",
+    "options": ["love", "live", "leave", "life"],
+    "correctAnswer": "love"
+  },
+  {
+    "question": "I have ____ new pet.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite pet is a ____.",
+    "options": ["dog", "cat", "bird", "fish"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "What is the missing letter? favo_ite",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["rabbit", "dog", "cat", "bird"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "question": "We should take care of our ____.",
+    "options": ["pets", "food", "secrets", "all are correct"],
+    "correctAnswer": "pets"
+  },
+  {
+    "question": "Is it a dog house?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a bird cage.", "I like houses."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: h-o-u-s-e",
+    "options": ["house", "horse", "mouse", "blouse"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "I put my fish in the ____.",
+    "options": ["tank", "bag", "car", "house"],
+    "correctAnswer": "tank"
+  },
+  {
+    "question": "The bird is in the ____.",
+    "options": ["cage", "school", "shop", "park"],
+    "correctAnswer": "cage"
+  },
+  {
+    "question": "What is the missing letter? ca_e",
+    "options": ["g", "k", "t", "d"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A cat", "A dog", "A rabbit", "A bird"],
+    "correctAnswer": "A cat"
+  },
+  {
+    "question": "My ____ is fluffy.",
+    "options": ["cat", "dog", "fish", "bird"],
+    "correctAnswer": "cat"
+  },
+  {
+    "question": "Is it your rabbit?",
+    "options": ["No, it is my cat.", "Yes, it is.", "She is my dog.", "I have a rabbit."],
+    "correctAnswer": "No, it is my cat."
+  },
+  {
+    "question": "My brother likes to play with his ____.",
+    "options": ["dog", "cat", "fish", "bird"],
+    "correctAnswer": "dog"
+  },
+  {
+    "question": "Spell the word: f-l-y",
+    "options": ["fly", "fry", "cry", "dry"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "A bird can ____.",
+    "options": ["fly", "swim", "run", "hop"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "What is the missing letter? rabbi_",
+    "options": ["t", "e", "o", "i"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A dog", "A cat", "A bird", "A fish"],
+    "correctAnswer": "A dog"
+  },
+  {
+    "question": "My ____ can run fast.",
+    "options": ["dog", "cat", "fish", "bird"],
+    "correctAnswer": "dog"
+
+  },
+  {
+    "question": "Is it your fish?",
+    "options": ["Yes, it is.", "No, it isn't.", "He is my dog.", "I have a fish."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My sister likes to feed her ____.",
+    "options": ["fish", "dog", "cat", "bird"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Spell the word: s-w-i-m",
+    "options": ["swim", "slim", "swam", "swing"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "I am ____ with my pets.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? d_g",
+    "options": ["o", "a", "e", "i"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A fish tank", "A school bag", "A lunch box", "A pencil case"],
+    "correctAnswer": "A fish tank"
+  },
+  {
+    "question": "My fish are in the ____.",
+    "options": ["tank", "box", "bed", "chair"],
+    "correctAnswer": "tank"
+  },
+  {
+    "question": "Is it your cat?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my dog.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My cat is ____.",
+    "options": ["white", "black", "brown", "pink"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "Spell the word: w-h-i-t-e",
+    "options": ["white", "while", "what", "where"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "We play with ____ in the garden.",
+    "options": ["pets", "books", "pencils", "chairs"],
+    "correctAnswer": "pets"
+  },
+  {
+    "question": "What is the missing letter? bir_s",
+    "options": ["d", "t", "p", "k"],
+    "correctAnswer": "d"
+  }
+]
+

@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What colour is an apple?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Red"
+  },
+  {
+    "question": "The sky is ____.",
+    "options": ["blue", "red", "green", "yellow"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Grass is ____.",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "correctAnswer": "Green"
+  },
+  {
+    "question": "The sun is ____.",
+    "options": ["Yellow", "Blue", "Red", "Green"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "Spell the word: r-e-d",
+    "options": ["red", "bed", "led", "fed"],
+    "correctAnswer": "red"
+  },
+  {
+    "question": "This is a ____ flower. It's for a girl.",
+    "options": ["pink", "blue", "black", "brown"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "I like the colour ____.",
+    "options": ["blue", "red", "green", "yellow"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Find the word: b-l-u-e",
+    "options": ["blue", "glue", "clue", "true"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Is the ball red?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a blue ball.", "I have a ball."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a ____ car.",
+    "options": ["yellow", "pink", "purple", "orange"],
+    "correctAnswer": "yellow"
+  },
+  {
+    "question": "What colour is this? It's like an orange fruit.",
+    "options": ["Orange", "Red", "Yellow", "Green"],
+    "correctAnswer": "Orange"
+  },
+  {
+    "question": "I have a ____ shirt.",
+    "options": ["green", "red", "blue", "yellow"],
+    "correctAnswer": "green"
+  },
+  {
+    "question": "What is the missing letter? re_",
+    "options": ["d", "t", "p", "b"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "This is a ____ book.",
+    "options": ["blue", "red", "green", "yellow"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "My favorite colour is ____.",
+    "options": ["pink", "black", "white", "brown"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "Let's paint with ____.",
+    "options": ["colours", "books", "pens", "chairs"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "Spell the word: g-r-e-e-n",
+    "options": ["green", "queen", "seen", "screen"],
+    "correctAnswer": "green"
+  },
+  {
+    "question": "Is the cat black?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a white cat.", "I can see a cat."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am wearing a ____ hat.",
+    "options": ["black", "white", "pink", "purple"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "What is the missing letter? blu_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "These are my ____ pencils.",
+    "options": ["colour", "pets", "toys", "books"],
+    "correctAnswer": "colour"
+  },
+  {
+    "question": "How many colours can you see in a rainbow?",
+    "options": ["Seven", "One", "Two", "Three"],
+    "correctAnswer": "Seven"
+  },
+  {
+    "question": "This is the colour ____.",
+    "options": ["purple", "orange", "brown", "white"],
+    "correctAnswer": "purple"
+  },
+  {
+    "question": "Spell the word: y-e-l-l-o-w",
+    "options": ["yellow", "bellow", "fellow", "hollow"],
+    "correctAnswer": "yellow"
+  },
+  {
+    "question": "Is it a green leaf?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a yellow leaf.", "I can see a tree."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I like ____ grapes.",
+    "options": ["purple", "orange", "brown", "white"],
+    "correctAnswer": "purple"
+  },
+  {
+    "question": "What is the missing letter? pin_",
+    "options": ["k", "t", "d", "g"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "What colour is this?",
+    "options": ["White", "Black", "Brown", "Grey"],
+    "correctAnswer": "White"
+  },
+  {
+    "question": "This is a ____ dog. It's the colour of chocolate.",
+    "options": ["brown", "black", "white", "grey"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "This is a ____ cloud.",
+    "options": ["white", "black", "blue", "grey"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "What colour is this?",
+    "options": ["Black", "White", "Brown", "Grey"],
+    "correctAnswer": "Black"
+  },
+  {
+    "question": "Find the word: o-r-a-n-g-e",
+    "options": ["orange", "arrange", "range", "strange"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "Is the pen blue?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a black pen.", "I am a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is red.",
+    "options": ["bag", "shoe", "hat", "sock"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "What is the missing letter? g_een",
+    "options": ["r", "l", "p", "t"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "These are lovely ____.",
+    "options": ["colours", "books", "songs", "games"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "Spell the word: p-i-n-k",
+    "options": ["pink", "sink", "wink", "link"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "Is this a yellow flower?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a red flower.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My house is painted ____.",
+    "options": ["white", "black", "brown", "grey"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "What is the missing letter? _range",
+    "options": ["o", "a", "e", "u"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "What colour is a carrot?",
+    "options": ["Orange", "Red", "Green", "Yellow"],
+    "correctAnswer": "Orange"
+  },
+  {
+    "question": "My ____ is black.",
+    "options": ["hair", "eye", "hand", "foot"],
+    "correctAnswer": "hair"
+  },
+  {
+    "question": "Is the book green?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a blue book.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a red shirt and ____ shorts.",
+    "options": ["blue", "green", "yellow", "pink"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Find the word: w-h-i-t-e",
+    "options": ["white", "while", "what", "where"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "This is the colour ____. It's a mix of red and blue.",
+    "options": ["purple", "green", "orange", "brown"],
+    "correctAnswer": "purple"
+  },
+  {
+    "question": "What is the missing letter? purpl_",
+    "options": ["e", "a", "o", "i"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "Is it a brown bear?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a black bear.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is beautiful.",
+    "options": ["rainbow", "house", "car", "playground"],
+    "correctAnswer": "rainbow"
+  },
+  {
+    "question": "What colour is this?",
+    "options": ["Brown", "Black", "White", "Grey"],
+    "correctAnswer": "Brown"
+  },
+  {
+    "question": "A rainbow has many ____.",
+    "options": ["colours", "lines", "dots", "shapes"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "A banana is ____.",
+    "options": ["yellow", "red", "blue", "green"],
+    "correctAnswer": "yellow"
+  },
+  {
+    "question": "I see a ____ bird.",
+    "options": ["blue", "red", "green", "yellow"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "What colour is the grass?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "correctAnswer": "Green"
+  },
+  {
+    "question": "What colour is the sea?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "The dress is ____.",
+    "options": ["pink", "ugly", "big", "small"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "The car is ____.",
+    "options": ["black", "white", "warm", "cold"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "Is your bike red?",
+    "options": ["Yes, it is.", "No, it is blue.", "Yes", "No"],
+    "correctAnswer": "No, it is blue."
+  },
+  {
+    "question": "My favorite colour is ____.",
+    "options": ["red", "sad", "angry", "tired"],
+    "correctAnswer": "red"
+  },
+  {
+    "question": "What is the missing letter? blac_",
+    "options": ["k", "t", "d", "p"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "This is a ____ crayon.",
+    "options": ["red", "blue", "green", "yellow"],
+    "correctAnswer": "red"
+  },
+  {
+    "question": "I love all ____.",
+    "options": ["colours", "dogs", "cats", "birds"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "Is the flower pink?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a red flower.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's learn about ____.",
+    "options": ["colours", "friends", "pets", "books"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "Spell the word: b-l-a-c-k",
+    "options": ["black", "back", "block", "blank"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "I have ____ new crayons.",
+    "options": ["many", "a", "an", "one"],
+    "correctAnswer": "many"
+  },
+  {
+    "question": "My favorite animal is a ____ panther.",
+    "options": ["black", "white", "pink", "purple"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "What is the missing letter? yello_",
+    "options": ["w", "l", "n", "m"],
+    "correctAnswer": "w"
+  },
+  {
+    "question": "This is the colour ____. It's like a plum.",
+    "options": ["purple", "pink", "orange", "brown"],
+    "correctAnswer": "purple"
+  },
+  {
+    "question": "We should mix ____ and yellow to make green.",
+    "options": ["blue", "red", "white", "black"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Is it a white cloud?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a grey cloud.", "I like clouds."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: p-u-r-p-l-e",
+    "options": ["purple", "pimple", "people", "pupil"],
+    "correctAnswer": "purple"
+  },
+  {
+    "question": "I wear a ____ jacket.",
+    "options": ["brown", "pink", "orange", "purple"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "The tree trunk is ____.",
+    "options": ["brown", "green", "red", "yellow"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "What is the missing letter? bro_n",
+    "options": ["w", "p", "t", "d"],
+    "correctAnswer": "w"
+  },
+  {
+    "question": "What colour is this?",
+    "options": ["Orange", "Purple", "Pink", "Brown"],
+    "correctAnswer": "Orange"
+  },
+  {
+    "question": "My ____ is red.",
+    "options": ["T-shirt", "shoes", "hat", "dress"],
+    "correctAnswer": "T-shirt"
+  },
+  {
+    "question": "Is it a red car?",
+    "options": ["No, it is a blue car.", "Yes, it is.", "She is my sister.", "I have a car."],
+    "correctAnswer": "No, it is a blue car."
+  },
+  {
+    "question": "My father is wearing a ____ shirt.",
+    "options": ["white", "pink", "purple", "orange"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "Spell the word: b-r-o-w-n",
+    "options": ["brown", "clown", "crown", "drown"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "This is a ____ balloon.",
+    "options": ["green", "old", "big", "small"],
+    "correctAnswer": "green"
+  },
+  {
+    "question": "What is the missing letter? _urple",
+    "options": ["p", "b", "t", "d"],
+    "correctAnswer": "p"
+  },
+  {
+    "question": "What colour is this?",
+    "options": ["Pink", "Red", "Orange", "Yellow"],
+    "correctAnswer": "Pink"
+  },
+  {
+    "question": "My mother is wearing a ____ dress.",
+    "options": ["pink", "blue", "green", "yellow"],
+    "correctAnswer": "pink"
+  },
+  {
+    "question": "Are the socks white?",
+    "options": ["Yes, they are.", "No, they are black.", "He is my brother.", "I have socks."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My brother is wearing a ____ cap.",
+    "options": ["blue", "pink", "purple", "orange"],
+    "correctAnswer": "blue"
+  },
+  {
+    "question": "Spell the word: o-r-a-n-g-e",
+    "options": ["orange", "arrange", "range", "strange"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "I am ____ with my new colours.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? whi_e",
+    "options": ["t", "k", "p", "d"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A rainbow", "A cloud", "The sun", "The moon"],
+    "correctAnswer": "A rainbow"
+  },
+  {
+    "question": "A rainbow is ____.",
+    "options": ["colourful", "black", "white", "brown"],
+    "correctAnswer": "colourful"
+  },
+  {
+    "question": "Is the house yellow?",
+    "options": ["Yes, it is.", "No, it is white.", "It is my house.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The shoes are ____.",
+    "options": ["brown", "red", "blue", "green"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "Spell the word: c-o-l-o-u-r",
+    "options": ["colour", "cooler", "column", "collar"],
+    "correctAnswer": "colour"
+  },
+  {
+    "question": "We see with our eyes, we see ____.",
+    "options": ["colours", "sounds", "smells", "tastes"],
+    "correctAnswer": "colours"
+  },
+  {
+    "question": "What is the missing letter? colou_",
+    "options": ["r", "s", "t", "p"],
+    "correctAnswer": "r"
+  }
+]
+

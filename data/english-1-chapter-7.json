@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's where you live.",
+    "options": ["A house", "A school", "A shop", "A park"],
+    "correctAnswer": "A house"
+  },
+  {
+    "question": "This is the ____. You open it to go inside.",
+    "options": ["door", "window", "roof", "wall"],
+    "correctAnswer": "door"
+  },
+  {
+    "question": "You look through this to see outside.",
+    "options": ["A window", "A door", "A wall", "A floor"],
+    "correctAnswer": "A window"
+  },
+  {
+    "question": "This is the room where you sleep.",
+    "options": ["A bedroom", "A kitchen", "A bathroom", "A living room"],
+    "correctAnswer": "A bedroom"
+  },
+  {
+    "question": "Spell the word: h-o-u-s-e",
+    "options": ["house", "horse", "mouse", "blouse"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "This is the room where you cook food.",
+    "options": ["A kitchen", "A bedroom", "A living room", "A bathroom"],
+    "correctAnswer": "A kitchen"
+  },
+  {
+    "question": "I live in a big ____.",
+    "options": ["house", "car", "box", "bag"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Find the word: d-o-o-r",
+    "options": ["door", "doll", "dog", "dot"],
+    "correctAnswer": "door"
+  },
+  {
+    "question": "Is this your house?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a school.", "I have a pet."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is the ____. The family watches TV here.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "What is this? It's where you wash your hands.",
+    "options": ["A bathroom", "A kitchen", "A bedroom", "A living room"],
+    "correctAnswer": "A bathroom"
+  },
+  {
+    "question": "My house has a red ____.",
+    "options": ["door", "window", "roof", "wall"],
+    "correctAnswer": "door"
+  },
+  {
+    "question": "What is the missing letter? windo_",
+    "options": ["w", "k", "t", "p"],
+    "correctAnswer": "w"
+  },
+  {
+    "question": "This is my ____. It's cozy.",
+    "options": ["bedroom", "kitchen", "bathroom", "garden"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "My mom is in the ____.",
+    "options": ["kitchen", "bedroom", "living room", "bathroom"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "Let's go to the ____.",
+    "options": ["living room", "school", "park", "shop"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "Spell the word: r-o-o-m",
+    "options": ["room", "roof", "root", "roam"],
+    "correctAnswer": "room"
+  },
+  {
+    "question": "Is this your bedroom?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a kitchen.", "I can sleep."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. I can see the garden from here.",
+    "options": ["window", "door", "wall", "floor"],
+    "correctAnswer": "window"
+  },
+  {
+    "question": "What is the missing letter? hou_e",
+    "options": ["s", "t", "p", "n"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "These are the ____ of my house.",
+    "options": ["rooms", "pets", "toys", "books"],
+    "correctAnswer": "rooms"
+  },
+  {
+    "question": "How many doors are in your house?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is the ____.",
+    "options": ["bathroom", "kitchen", "bedroom", "living room"],
+    "correctAnswer": "bathroom"
+  },
+  {
+    "question": "Spell the word: k-i-t-c-h-e-n",
+    "options": ["kitchen", "chicken", "kitten", "kicking"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "Is it your kitchen?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my bedroom.", "I can see food."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I sleep in my ____.",
+    "options": ["bedroom", "kitchen", "living room", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "What is the missing letter? doo_",
+    "options": ["r", "k", "m", "n"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this?",
+    "options": ["My house", "My school", "My class", "My garden"],
+    "correctAnswer": "My house"
+  },
+  {
+    "question": "This is the ____. It is comfortable.",
+    "options": ["living room", "kitchen", "bathroom", "bedroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "This is the ____. It is clean.",
+    "options": ["bathroom", "kitchen", "bedroom", "living room"],
+    "correctAnswer": "bathroom"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A window", "A door", "A wall", "A roof"],
+    "correctAnswer": "A window"
+  },
+  {
+    "question": "Find the word: b-e-d-r-o-o-m",
+    "options": ["bedroom", "bathroom", "broom", "bed"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Is it your living room?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my kitchen.", "I am a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is blue.",
+    "options": ["door", "window", "house", "room"],
+    "correctAnswer": "door"
+  },
+  {
+    "question": "What is the missing letter? kit_hen",
+    "options": ["c", "s", "t", "p"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is a lovely ____.",
+    "options": ["house", "book", "song", "game"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Spell the word: w-i-n-d-o-w",
+    "options": ["window", "winter", "windy", "winner"],
+    "correctAnswer": "window"
+  },
+  {
+    "question": "Is this your house?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a toy house.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My house has many ____.",
+    "options": ["windows", "doors", "rooms", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "What is the missing letter? _oom",
+    "options": ["r", "b", "j", "s"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this room?",
+    "options": ["A kitchen", "A bedroom", "A living room", "A bathroom"],
+    "correctAnswer": "A kitchen"
+  },
+  {
+    "question": "My ____ is big.",
+    "options": ["house", "cat", "dog", "ball"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Is it your bathroom?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my bedroom.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a bed in my ____.",
+    "options": ["bedroom", "kitchen", "living room", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Find the word: h-o-u-s-e",
+    "options": ["house", "horse", "hose", "hour"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "This is my ____. It is where I relax.",
+    "options": ["living room", "kitchen", "bathroom", "bedroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "What is the missing letter? bed_oom",
+    "options": ["r", "p", "t", "d"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Is it your door?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my window.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is warm and cozy.",
+    "options": ["house", "school", "car", "playground"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "What is this room?",
+    "options": ["A living room", "A bedroom", "A kitchen", "A bathroom"],
+    "correctAnswer": "A living room"
+  },
+  {
+    "question": "How many rooms are in your house?",
+    "options": ["Four", "One", "Two", "Three"],
+    "correctAnswer": "Four"
+  },
+  {
+    "question": "How many windows do you have?",
+    "options": ["Many", "One", "Two", "Three"],
+    "correctAnswer": "Many"
+  },
+  {
+    "question": "I see ____ house.",
+    "options": ["a", "an", "one", "my"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What color is the house?",
+    "options": ["Yellow", "Blue", "Green", "Red"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "What color is the window?",
+    "options": ["White", "Red", "Green", "Yellow"],
+    "correctAnswer": "White"
+  },
+  {
+    "question": "The bedroom is ____.",
+    "options": ["quiet", "ugly", "big", "small"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "question": "The kitchen is ____.",
+    "options": ["bright", "dark", "warm", "cold"],
+    "correctAnswer": "bright"
+  },
+  {
+    "question": "Is your house new or old?",
+    "options": ["New", "Old", "Yes", "No"],
+    "correctAnswer": "New"
+  },
+  {
+    "question": "My house is ____.",
+    "options": ["beautiful", "sad", "angry", "tired"],
+    "correctAnswer": "beautiful"
+  },
+  {
+    "question": "What is the missing letter? beau_iful",
+    "options": ["t", "n", "d", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["house", "school", "pet", "toy"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "I love my ____.",
+    "options": ["house", "dog", "cat", "bird"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Is it your kitchen?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a bathroom.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go inside the ____.",
+    "options": ["house", "car", "box", "bag"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Spell the word: l-i-v-e",
+    "options": ["live", "love", "leave", "life"],
+    "correctAnswer": "live"
+  },
+  {
+    "question": "I ____ in a house.",
+    "options": ["live", "have", "play", "see"],
+    "correctAnswer": "live"
+  },
+  {
+    "question": "My favorite room is the ____.",
+    "options": ["bedroom", "kitchen", "bathroom", "living room"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "What is the missing letter? livin_ room",
+    "options": ["g", "k", "n", "m"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is the ____.",
+    "options": ["garden", "house", "school", "park"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "We should keep our house ____.",
+    "options": ["clean", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "Is it a big window?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a small door.", "I like windows."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: c-l-e-a-n",
+    "options": ["clean", "clear", "clan", "cleft"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "I help my mom clean the ____.",
+    "options": ["house", "car", "dog", "cat"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "The living room has a ____.",
+    "options": ["sofa", "bed", "desk", "toilet"],
+    "correctAnswer": "sofa"
+  },
+  {
+    "question": "What is the missing letter? so_a",
+    "options": ["f", "p", "t", "d"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "What is this room?",
+    "options": ["A bedroom", "A kitchen", "A living room", "A bathroom"],
+    "correctAnswer": "A bedroom"
+  },
+  {
+    "question": "My ____ is comfortable.",
+    "options": ["bed", "chair", "sofa", "desk"],
+    "correctAnswer": "bed"
+  },
+  {
+    "question": "Is it your house?",
+    "options": ["No, it is my friend's house.", "Yes, it is.", "She is my friend.", "I have a house."],
+    "correctAnswer": "No, it is my friend's house."
+  },
+  {
+    "question": "My father is in the ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "Spell the word: b-a-t-h-r-o-o-m",
+    "options": ["bathroom", "bedroom", "broom", "bath"],
+    "correctAnswer": "bathroom"
+  },
+  {
+    "question": "This is a ____ house.",
+    "options": ["nice", "old", "big", "small"],
+    "correctAnswer": "nice"
+  },
+  {
+    "question": "What is the missing letter? bath_oom",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A door", "A window", "A wall", "A floor"],
+    "correctAnswer": "A door"
+  },
+  {
+    "question": "My house has a green ____.",
+    "options": ["roof", "door", "window", "wall"],
+    "correctAnswer": "roof"
+  },
+  {
+    "question": "Is it your bedroom?",
+    "options": ["Yes, it is.", "No, it isn't.", "He is my brother.", "I have a bed."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My sister is in her ____.",
+    "options": ["bedroom", "kitchen", "living room", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Spell the word: g-a-r-d-e-n",
+    "options": ["garden", "golden", "gargle", "guardian"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "I am ____ in my house.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? w_ndow",
+    "options": ["i", "a", "e", "o"],
+    "correctAnswer": "i"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A house", "A building", "A castle", "A tent"],
+    "correctAnswer": "A house"
+  },
+  {
+    "question": "My family lives in this ____.",
+    "options": ["house", "car", "room", "box"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Is it your living room?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my bedroom.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The house is ____.",
+    "options": ["white", "black", "brown", "pink"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "Spell the word: w-h-i-t-e",
+    "options": ["white", "while", "what", "where"],
+    "correctAnswer": "white"
+  },
+  {
+    "question": "We eat in the ____.",
+    "options": ["kitchen", "bedroom", "bathroom", "living room"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "What is the missing letter? kitche_",
+    "options": ["n", "t", "p", "k"],
+    "correctAnswer": "n"
+  }
+]
+

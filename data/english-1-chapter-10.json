@@ -1,0 +1,484 @@
+[
+  {
+    "question": "What is this? It's a red fruit.",
+    "options": ["An apple", "A banana", "An orange", "A grape"],
+    "correctAnswer": "An apple"
+  },
+  {
+    "question": "This is a yellow fruit. Monkeys like it.",
+    "options": ["banana", "apple", "orange", "grape"],
+    "correctAnswer": "banana"
+  },
+  {
+    "question": "You drink this. It's white.",
+    "options": ["Milk", "Water", "Juice", "Tea"],
+    "correctAnswer": "Milk"
+  },
+  {
+    "question": "You drink this when you are thirsty. It has no colour.",
+    "options": ["Water", "Milk", "Juice", "Soda"],
+    "correctAnswer": "Water"
+  },
+  {
+    "question": "Spell the word: m-i-l-k",
+    "options": ["milk", "like", "silk", "mile"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "This is ____. You eat it with many dishes in Vietnam.",
+    "options": ["rice", "bread", "cake", "candy"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "I like to eat ____.",
+    "options": ["cake", "book", "pen", "toy"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "Find the word: a-p-p-l-e",
+    "options": ["apple", "apply", "able", "ample"],
+    "correctAnswer": "apple"
+  },
+  {
+    "question": "Do you like milk?",
+    "options": ["Yes, I do.", "No, I don't.", "It is water.", "I have a cake."],
+    "correctAnswer": "Yes, I do."
+  },
+  {
+    "question": "This is a sweet ____.",
+    "options": ["cake", "rice", "bread", "water"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "What is this? You eat it for breakfast.",
+    "options": ["Bread", "Rice", "Candy", "Ice cream"],
+    "correctAnswer": "Bread"
+  },
+  {
+    "question": "I am hungry. I want some ____.",
+    "options": ["rice", "water", "milk", "juice"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "What is the missing letter? cak_",
+    "options": ["e", "k", "t", "p"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is my ____. It's orange.",
+    "options": ["juice", "milk", "water", "tea"],
+    "correctAnswer": "juice"
+  },
+  {
+    "question": "My mother is cooking ____.",
+    "options": ["rice", "cake", "bread", "milk"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Let's drink some ____.",
+    "options": ["water", "bread", "rice", "cake"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "Spell the word: f-o-o-d",
+    "options": ["food", "foot", "good", "mood"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Do you like bananas?",
+    "options": ["Yes, I do.", "No, I don't.", "It is an apple.", "I can eat."],
+    "correctAnswer": "Yes, I do."
+  },
+  {
+    "question": "I am thirsty. I want some ____.",
+    "options": ["juice", "rice", "bread", "cake"],
+    "correctAnswer": "juice"
+  },
+  {
+    "question": "What is the missing letter? _pple",
+    "options": ["a", "o", "e", "u"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "This is my ____ and drink.",
+    "options": ["food", "pet", "toy", "book"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "How many apples do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is a glass of ____.",
+    "options": ["milk", "rice", "bread", "cake"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "Spell the word: w-a-t-e-r",
+    "options": ["water", "later", "waiter", "watch"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "Is it bread?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is rice.", "I can see food."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I eat ____ every day.",
+    "options": ["rice", "cake", "candy", "ice cream"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "What is the missing letter? brea_",
+    "options": ["d", "k", "m", "n"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is this?",
+    "options": ["My food", "My drink", "My toy", "My pet"],
+    "correctAnswer": "My food"
+  },
+  {
+    "question": "This is a ____. It's for my birthday.",
+    "options": ["cake", "bread", "rice", "water"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "This is ____. It's healthy.",
+    "options": ["water", "soda", "candy", "cake"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A banana", "An apple", "An orange", "A grape"],
+    "correctAnswer": "A banana"
+  },
+  {
+    "question": "Find the word: c-a-k-e",
+    "options": ["cake", "case", "cane", "cape"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "Is it juice?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is milk.", "I am a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is sweet.",
+    "options": ["cake", "rice", "bread", "water"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "What is the missing letter? jui_e",
+    "options": ["c", "s", "t", "p"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is yummy ____.",
+    "options": ["food", "book", "song", "game"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Spell the word: r-i-c-e",
+    "options": ["rice", "nice", "mice", "lice"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Is this an apple?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a banana.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My breakfast is ____ and milk.",
+    "options": ["bread", "rice", "cake", "candy"],
+    "correctAnswer": "bread"
+  },
+  {
+    "question": "What is the missing letter? _ilk",
+    "options": ["m", "s", "w", "p"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "What is this drink?",
+    "options": ["Juice", "Milk", "Water", "Tea"],
+    "correctAnswer": "Juice"
+  },
+  {
+    "question": "My ____ is white.",
+    "options": ["rice", "juice", "apple", "banana"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Is the cake big?",
+    "options": ["Yes, it is.", "No, it is small.", "It is my cake.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have an apple and a ____.",
+    "options": ["banana", "cake", "bread", "rice"],
+    "correctAnswer": "banana"
+  },
+  {
+    "question": "Find the word: b-a-n-a-n-a",
+    "options": ["banana", "bandana", "bahama", "canada"],
+    "correctAnswer": "banana"
+  },
+  {
+    "question": "This is ____. It's good for you.",
+    "options": ["milk", "soda", "candy", "cake"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "What is the missing letter? bana_a",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Is it water?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is milk.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fresh.",
+    "options": ["juice", "cake", "bread", "rice"],
+    "correctAnswer": "juice"
+  },
+  {
+    "question": "What is this food?",
+    "options": ["Bread", "Rice", "Cake", "Candy"],
+    "correctAnswer": "Bread"
+  },
+  {
+    "question": "I like to eat fruit. I like ____.",
+    "options": ["apples", "cakes", "breads", "rices"],
+    "correctAnswer": "apples"
+  },
+  {
+    "question": "I like to drink ____.",
+    "options": ["milk", "rice", "bread", "cake"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "I see ____ apple.",
+    "options": ["an", "a", "one", "my"],
+    "correctAnswer": "an"
+  },
+  {
+    "question": "What colour is the banana?",
+    "options": ["Yellow", "Blue", "Green", "Red"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "What colour is the milk?",
+    "options": ["White", "Red", "Green", "Yellow"],
+    "correctAnswer": "White"
+  },
+  {
+    "question": "The cake is ____.",
+    "options": ["sweet", "sour", "salty", "bitter"],
+    "correctAnswer": "sweet"
+  },
+  {
+    "question": "The water is ____.",
+    "options": ["cool", "hot", "warm", "cold"],
+    "correctAnswer": "cool"
+  },
+  {
+    "question": "Is your food yummy?",
+    "options": ["Yes, it is.", "No, it isn't.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My food is ____.",
+    "options": ["delicious", "sad", "angry", "tired"],
+    "correctAnswer": "delicious"
+  },
+  {
+    "question": "What is the missing letter? deli_ious",
+    "options": ["c", "t", "d", "k"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is an ____.",
+    "options": ["apple", "banana", "cake", "bread"],
+    "correctAnswer": "apple"
+  },
+  {
+    "question": "I love to eat ____.",
+    "options": ["bananas", "dogs", "cats", "birds"],
+    "correctAnswer": "bananas"
+  },
+  {
+    "question": "Is the bread fresh?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is old bread.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's eat ____.",
+    "options": ["lunch", "friends", "pets", "books"],
+    "correctAnswer": "lunch"
+  },
+  {
+    "question": "Spell the word: e-a-t",
+    "options": ["eat", "tea", "ate", "neat"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "I ____ an apple.",
+    "options": ["eat", "drink", "play", "see"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "My favorite food is ____.",
+    "options": ["chicken", "cake", "bread", "rice"],
+    "correctAnswer": "chicken"
+  },
+  {
+    "question": "What is the missing letter? chic_en",
+    "options": ["k", "l", "n", "m"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "This is ____. It comes from a chicken.",
+    "options": ["an egg", "milk", "juice", "water"],
+    "correctAnswer": "an egg"
+  },
+  {
+    "question": "We should eat healthy ____.",
+    "options": ["food", "toys", "secrets", "all are wrong"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Is it a big cake?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a small cake.", "I like cakes."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: d-r-i-n-k",
+    "options": ["drink", "drive", "drip", "brink"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "I ____ water.",
+    "options": ["drink", "eat", "have", "like"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "The boy is eating ____.",
+    "options": ["an apple", "a cake", "bread", "rice"],
+    "correctAnswer": "an apple"
+  },
+  {
+    "question": "What is the missing letter? ri_e",
+    "options": ["c", "p", "t", "d"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is this?",
+    "options": ["An orange", "An apple", "A banana", "A grape"],
+    "correctAnswer": "An orange"
+  },
+  {
+    "question": "My ____ is juicy.",
+    "options": ["orange", "bread", "rice", "cake"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "Is it an orange?",
+    "options": ["Yes, it is.", "No, it is an apple.", "She is my sister.", "I have an orange."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My father is drinking ____.",
+    "options": ["tea", "milk", "juice", "water"],
+    "correctAnswer": "tea"
+  },
+  {
+    "question": "Spell the word: j-u-i-c-e",
+    "options": ["juice", "judge", "jungle", "just"],
+    "correctAnswer": "juice"
+  },
+  {
+    "question": "This is ____ juice.",
+    "options": ["orange", "old", "big", "small"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "What is the missing letter? _gg",
+    "options": ["e", "a", "o", "i"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this?",
+    "options": ["Chicken", "Fish", "Pork", "Beef"],
+    "correctAnswer": "Chicken"
+  },
+  {
+    "question": "My mother is cooking ____.",
+    "options": ["fish", "cake", "bread", "milk"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Are the grapes sweet?",
+    "options": ["Yes, they are.", "No, they are sour.", "He is my brother.", "I have grapes."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My brother is eating ____.",
+    "options": ["candy", "rice", "bread", "vegetables"],
+    "correctAnswer": "candy"
+
+  },
+  {
+    "question": "Spell the word: c-a-n-d-y",
+    "options": ["candy", "handy", "sandy", "dandy"],
+    "correctAnswer": "candy"
+  },
+  {
+    "question": "I am ____ with my lunch.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? wat_r",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A lunch box", "A school bag", "A toy box", "A pencil case"],
+    "correctAnswer": "A lunch box"
+  },
+  {
+    "question": "My food is in the ____.",
+    "options": ["lunch box", "car", "bed", "chair"],
+    "correctAnswer": "lunch box"
+  },
+  {
+    "question": "Is the milk cold?",
+    "options": ["Yes, it is.", "No, it is warm.", "It is my milk.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The bread is ____.",
+    "options": ["brown", "white", "black", "pink"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "Spell the word: b-r-e-a-d",
+    "options": ["bread", "read", "bead", "braid"],
+    "correctAnswer": "bread"
+  },
+  {
+    "question": "We eat ____ for dinner.",
+    "options": ["rice and fish", "cake and candy", "bread and milk", "fruit and juice"],
+    "correctAnswer": "rice and fish"
+  },
+  {
+    "question": "What is the missing letter? foo_",
+    "options": ["d", "t", "p", "k"],
+    "correctAnswer": "d"
+  }
+]
+
