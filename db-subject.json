@@ -1,7 +1,6 @@
 {
   "subjects": [
-    { "id": "math", "name": "Toán", "path": "./db-math.json" }
-   
+    { "id": "math", "name": "Toán", "path": "./db-math.json" },
+    { "id": "english", "name": "Tiếng Anh", "path": "./db-english.json" }
   ]
 }
-
