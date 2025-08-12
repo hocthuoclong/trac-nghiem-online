@@ -1,0 +1,27 @@
+{
+  "grades": {
+    "1": {
+      "tests": {
+        "chapter": {
+          "name": "Ôn tập theo Unit",
+          "chapters": [
+            { "name": "Unit 1: Hello", "file": "./data/english-1-chapter-1.json" },
+            { "name": "Unit 2: My School", "file": "./data/english-1-chapter-2.json" },
+            { "name": "Unit 3: My Family", "file": "./data/english-1-chapter-3.json" },
+            { "name": "Unit 4: My Body", "file": "./data/english-1-chapter-4.json" },
+            { "name": "Unit 5: My Toys", "file": "./data/english-1-chapter-5.json" },
+            { "name": "Unit 6: My Pets", "file": "./data/english-1-chapter-6.json" },
+            { "name": "Unit 7: My House", "file": "./data/english-1-chapter-7.json" },
+            { "name": "Unit 8: My Clothes", "file": "./data/english-1-chapter-8.json" },
+            { "name": "Unit 9: My Colours", "file": "./data/english-1-chapter-9.json" },
+            { "name": "Unit 10: My Food and Drink", "file": "./data/english-1-chapter-10.json" }
+          ]
+        },
+        "midterm-1": { "name": "Ôn tập học kỳ 1", "file": "./data/english-1-midterm-1.json" },
+        "midterm-2": { "name": "Ôn tập học kỳ 2", "file": "./data/english-1-midterm-2.json" },
+        "final": { "name": "Ôn tập cuối năm", "file": "./data/english-1-final.json" }
+      }
+    }
+  }
+}
+
