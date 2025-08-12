@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Who is this? He is the man in the family.",
+    "options": ["Father", "Mother", "Sister", "Brother"],
+    "correctAnswer": "Father"
+  },
+  {
+    "question": "This is my ____. She is the woman in the family.",
+    "options": ["mother", "father", "brother", "sister"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "He is my ____. He is a boy.",
+    "options": ["brother", "sister", "mother", "father"],
+    "correctAnswer": "brother"
+  },
+  {
+    "question": "She is my ____. She is a girl.",
+    "options": ["sister", "brother", "father", "mother"],
+    "correctAnswer": "sister"
+  },
+  {
+    "question": "Spell the word: f-a-t-h-e-r",
+    "options": ["father", "mother", "fatter", "further"],
+    "correctAnswer": "father"
+  },
+  {
+    "question": "Who is he? He is my father's father.",
+    "options": ["Grandfather", "Grandmother", "Brother", "Sister"],
+    "correctAnswer": "Grandfather"
+  },
+  {
+    "question": "This is my ____. I love her very much.",
+    "options": ["mother", "father", "brother", "friend"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "Find the word: s-i-s-t-e-r",
+    "options": ["sister", "mister", "silver", "listen"],
+    "correctAnswer": "sister"
+  },
+  {
+    "question": "Is he your brother?",
+    "options": ["Yes, he is.", "No, he isn't.", "She is my sister.", "I have a book."],
+    "correctAnswer": "Yes, he is."
+  },
+  {
+    "question": "This is my ____. Her name is Mai.",
+    "options": ["sister", "brother", "father", "grandfather"],
+    "correctAnswer": "sister"
+  },
+  {
+    "question": "What is this? It's a group of people living together.",
+    "options": ["A family", "A school", "A playground", "A house"],
+    "correctAnswer": "A family"
+  },
+  {
+    "question": "I love my ____.",
+    "options": ["family", "school", "book", "pen"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "What is the missing letter? mothe_",
+    "options": ["r", "l", "p", "t"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Who is she? She is my father's mother.",
+    "options": ["Grandmother", "Grandfather", "Mother", "Father"],
+    "correctAnswer": "Grandmother"
+  },
+  {
+    "question": "This is my ____. His name is Nam.",
+    "options": ["brother", "sister", "mother", "grandmother"],
+    "correctAnswer": "brother"
+  },
+  {
+    "question": "Let's draw a picture of my ____.",
+    "options": ["family", "school", "pet", "toy"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "Spell the word: m-o-t-h-e-r",
+    "options": ["mother", "brother", "other", "another"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "Is she your mother?",
+    "options": ["Yes, she is.", "No, she isn't.", "He is my father.", "I am a student."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "This is my ____. He is old.",
+    "options": ["grandfather", "brother", "father", "son"],
+    "correctAnswer": "grandfather"
+  },
+  {
+    "question": "What is the missing letter? bro_her",
+    "options": ["t", "p", "d", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "This is my ____. She is kind.",
+    "options": ["grandmother", "grandfather", "brother", "father"],
+    "correctAnswer": "grandmother"
+  },
+  {
+    "question": "How many people are in your family?",
+    "options": ["Four", "One", "Two", "Three"],
+    "correctAnswer": "Four"
+  },
+  {
+    "question": "This is a photo of my ____.",
+    "options": ["family", "school", "class", "friends"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "Spell the word: b-r-o-t-h-e-r",
+    "options": ["brother", "mother", "other", "bother"],
+    "correctAnswer": "brother"
+  },
+  {
+    "question": "Is he your father?",
+    "options": ["Yes, he is.", "No, he isn't.", "She is my mother.", "I can see a book."],
+    "correctAnswer": "Yes, he is."
+  },
+  {
+    "question": "I have one ____.",
+    "options": ["sister", "sisters", "sister's", "sisteres"],
+    "correctAnswer": "sister"
+  },
+  {
+    "question": "What is the missing letter? fami_y",
+    "options": ["l", "b", "p", "t"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["My father", "My teacher", "My friend", "My doctor"],
+    "correctAnswer": "My father"
+  },
+  {
+    "question": "This is my ____. I love him.",
+    "options": ["father", "mother", "sister", "aunt"],
+    "correctAnswer": "father"
+  },
+  {
+    "question": "This is my ____. She is beautiful.",
+    "options": ["mother", "father", "brother", "uncle"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A brother", "A sister", "A mother", "A father"],
+    "correctAnswer": "A brother"
+  },
+  {
+    "question": "Find the word: g-r-a-n-d-f-a-t-h-e-r",
+    "options": ["grandfather", "grandmother", "father", "grand"],
+    "correctAnswer": "grandfather"
+  },
+  {
+    "question": "Is she your sister?",
+    "options": ["Yes, she is.", "No, she isn't.", "He is my brother.", "I am a boy."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "My ____ is tall.",
+    "options": ["father", "mother", "sister", "baby"],
+    "correctAnswer": "father"
+  },
+  {
+    "question": "What is the missing letter? sist_r",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is a happy ____.",
+    "options": ["family", "school", "day", "song"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "Spell the word: g-r-a-n-d-m-o-t-h-e-r",
+    "options": ["grandmother", "grandfather", "mother", "grand"],
+    "correctAnswer": "grandmother"
+  },
+  {
+    "question": "Is this your family?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a school.", "I can see a house."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a big ____.",
+    "options": ["family", "house", "car", "ball"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "What is the missing letter? f_ther",
+    "options": ["a", "o", "e", "u"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A sister", "A brother", "A father", "A mother"],
+    "correctAnswer": "A sister"
+  },
+  {
+    "question": "My ____ is young.",
+    "options": ["brother", "father", "grandfather", "grandmother"],
+    "correctAnswer": "brother"
+  },
+  {
+    "question": "Is he your grandfather?",
+    "options": ["Yes, he is.", "No, he isn't.", "She is my grandmother.", "Hello."],
+    "correctAnswer": "Yes, he is."
+  },
+  {
+    "question": "I have a ____ and a sister.",
+    "options": ["brother", "father", "mother", "friend"],
+    "correctAnswer": "brother"
+  },
+  {
+    "question": "Find the word: f-a-m-i-l-y",
+    "options": ["family", "fame", "familiar", "famous"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["grandmother", "grandfather", "father", "brother"],
+    "correctAnswer": "grandmother"
+  },
+  {
+    "question": "What is the missing letter? grand_ather",
+    "options": ["f", "p", "t", "d"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "Is she your grandmother?",
+    "options": ["Yes, she is.", "No, she isn't.", "He is my grandfather.", "Goodbye."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "My ____ tells me stories.",
+    "options": ["grandmother", "teacher", "friend", "sister"],
+    "correctAnswer": "grandmother"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A mother", "A father", "A brother", "A sister"],
+    "correctAnswer": "A mother"
+  },
+  {
+    "question": "How many brothers do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "How many sisters do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "I see ____ father.",
+    "options": ["my", "you", "he", "she"],
+    "correctAnswer": "my"
+  },
+  {
+    "question": "Who is she?",
+    "options": ["She is my mother.", "He is my father.", "He is my brother.", "She is my friend."],
+    "correctAnswer": "She is my mother."
+  },
+  {
+    "question": "Who is he?",
+    "options": ["He is my father.", "She is my mother.", "She is my sister.", "He is my teacher."],
+    "correctAnswer": "He is my father."
+  },
+  {
+    "question": "My father is a ____.",
+    "options": ["doctor", "teacher", "student", "baby"],
+    "correctAnswer": "doctor"
+  },
+  {
+    "question": "My mother is a ____.",
+    "options": ["teacher", "doctor", "student", "baby"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "Is your family big or small?",
+    "options": ["Big", "Small", "Yes", "No"],
+    "correctAnswer": "Big"
+  },
+  {
+    "question": "My family is ____.",
+    "options": ["happy", "sad", "angry", "tired"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? ha_py",
+    "options": ["p", "t", "d", "k"],
+    "correctAnswer": "p"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["father", "mother", "sister", "brother"],
+    "correctAnswer": "father"
+  },
+  {
+    "question": "I love my ____.",
+    "options": ["mother", "father", "brother", "sister"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "Is he your brother?",
+    "options": ["Yes, he is.", "No, she isn't.", "It is a cat.", "Hello."],
+    "correctAnswer": "Yes, he is."
+  },
+  {
+    "question": "Let's meet my ____.",
+    "options": ["family", "friends", "pets", "toys"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "Spell the word: l-o-v-e",
+    "options": ["love", "live", "leave", "life"],
+    "correctAnswer": "love"
+  },
+  {
+    "question": "I have ____ father and one mother.",
+    "options": ["one", "a", "an", "two"],
+    "correctAnswer": "one"
+  },
+  {
+    "question": "They are my ____.",
+    "options": ["parents", "friends", "teachers", "students"],
+    "correctAnswer": "parents"
+  },
+  {
+    "question": "What is the missing letter? pa_ents",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["grandfather", "grandmother", "father", "mother"],
+    "correctAnswer": "grandfather"
+  },
+  {
+    "question": "We can ____ with our family.",
+    "options": ["play", "eat", "talk", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Is it a family photo?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a school photo.", "I like photos."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: p-h-o-t-o",
+    "options": ["photo", "phone", "piano", "potato"],
+    "correctAnswer": "photo"
+  },
+  {
+    "question": "I see ____ people in the photo.",
+    "options": ["four", "one", "two", "three"],
+    "correctAnswer": "four"
+  },
+  {
+    "question": "The family lives in a ____.",
+    "options": ["house", "school", "shop", "park"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "What is the missing letter? hou_e",
+    "options": ["s", "c", "p", "t"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A grandmother", "A grandfather", "A mother", "A father"],
+    "correctAnswer": "A grandmother"
+  },
+  {
+    "question": "My ____ is kind and gentle.",
+    "options": ["mother", "father", "brother", "grandfather"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "Is he your uncle?",
+    "options": ["No, he is my father.", "Yes, he is.", "She is my aunt.", "I have an uncle."],
+    "correctAnswer": "No, he is my father."
+  },
+  {
+    "question": "My brother likes to play with ____.",
+    "options": ["me", "you", "him", "her"],
+    "correctAnswer": "me"
+  },
+  {
+    "question": "Spell the word: h-o-u-s-e",
+    "options": ["house", "horse", "mouse", "blouse"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "This is a lovely ____.",
+    "options": ["family", "day", "cat", "dog"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "What is the missing letter? grandm_ther",
+    "options": ["o", "a", "e", "i"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A grandfather", "A grandmother", "A father", "A mother"],
+    "correctAnswer": "A grandfather"
+  },
+  {
+    "question": "My ____ is strong.",
+    "options": ["father", "mother", "sister", "grandmother"],
+    "correctAnswer": "father"
+  },
+  {
+    "question": "Is she your aunt?",
+    "options": ["No, she is my mother.", "Yes, she is.", "He is my uncle.", "I have an aunt."],
+    "correctAnswer": "No, she is my mother."
+  },
+  {
+    "question": "My sister likes to ____.",
+    "options": ["read", "play", "sing", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: h-a-p-p-y",
+    "options": ["happy", "puppy", "hippy", "hoppy"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "I am ____ with my family.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? b_other",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A family", "A team", "A class", "A group"],
+    "correctAnswer": "A family"
+  },
+  {
+    "question": "My family has ____ members.",
+    "options": ["four", "five", "six", "three"],
+    "correctAnswer": "four"
+  },
+  {
+    "question": "Is it your brother?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my sister.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My sister is ____.",
+    "options": ["small", "big", "tall", "old"],
+    "correctAnswer": "small"
+  },
+  {
+    "question": "Spell the word: s-m-a-l-l",
+    "options": ["small", "smell", "smile", "shall"],
+    "correctAnswer": "small"
+  },
+  {
+    "question": "We live in a ____ house.",
+    "options": ["big", "small", "red", "blue"],
+    "correctAnswer": "big"
+  },
+  {
+    "question": "What is the missing letter? si_ter",
+    "options": ["s", "c", "p", "t"],
+    "correctAnswer": "s"
+  }
+]
+

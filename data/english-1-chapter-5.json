@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's a toy car.",
+    "options": ["A car", "A doll", "A ball", "A puzzle"],
+    "correctAnswer": "A car"
+  },
+  {
+    "question": "This is my ____. She is beautiful.",
+    "options": ["doll", "car", "robot", "ball"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "You can throw and catch this.",
+    "options": ["A ball", "A doll", "A car", "A teddy bear"],
+    "correctAnswer": "A ball"
+  },
+  {
+    "question": "This is a soft, brown toy animal.",
+    "options": ["A teddy bear", "A robot", "A puzzle", "A car"],
+    "correctAnswer": "A teddy bear"
+  },
+  {
+    "question": "Spell the word: d-o-l-l",
+    "options": ["doll", "ball", "door", "tall"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "This is my ____. It can walk and talk.",
+    "options": ["robot", "doll", "teddy bear", "puzzle"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "I like to play with my ____.",
+    "options": ["toys", "books", "food", "clothes"],
+    "correctAnswer": "toys"
+  },
+  {
+    "question": "Find the word: c-a-r",
+    "options": ["car", "cat", "can", "cap"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "Is this your ball?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a doll.", "I have a car."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. It has many pieces.",
+    "options": ["puzzle", "robot", "ball", "car"],
+    "correctAnswer": "puzzle"
+  },
+  {
+    "question": "What is this? It's a toy for a baby.",
+    "options": ["A teddy bear", "A car", "A robot", "A puzzle"],
+    "correctAnswer": "A teddy bear"
+  },
+  {
+    "question": "I have a red ____.",
+    "options": ["car", "doll", "ball", "puzzle"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "What is the missing letter? bal_",
+    "options": ["l", "k", "t", "d"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "This is my ____. It's a girl.",
+    "options": ["doll", "robot", "teddy bear", "car"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "This is my ____. It's a boy.",
+    "options": ["robot", "doll", "teddy bear", "puzzle"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "Let's play with the ____.",
+    "options": ["ball", "book", "pen", "chair"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "Spell the word: t-o-y",
+    "options": ["toy", "top", "ton", "tom"],
+    "correctAnswer": "toy"
+  },
+  {
+    "question": "Is this your teddy bear?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a robot.", "I can play."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. I can build things with it.",
+    "options": ["puzzle", "ball", "doll", "car"],
+    "correctAnswer": "puzzle"
+  },
+  {
+    "question": "What is the missing letter? ca_",
+    "options": ["r", "t", "p", "n"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "These are my ____.",
+    "options": ["toys", "pets", "books", "friends"],
+    "correctAnswer": "toys"
+  },
+  {
+    "question": "How many cars do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["robot", "teddy bear", "doll", "ball"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "Spell the word: b-a-l-l",
+    "options": ["ball", "doll", "fall", "call"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "Is it your puzzle?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my car.", "I can think."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a blue ____.",
+    "options": ["robot", "doll", "teddy bear", "car"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "What is the missing letter? dol_",
+    "options": ["l", "k", "m", "n"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this?",
+    "options": ["My doll", "My car", "My ball", "My puzzle"],
+    "correctAnswer": "My doll"
+  },
+  {
+    "question": "This is my ____. I can hug it.",
+    "options": ["teddy bear", "robot", "car", "puzzle"],
+    "correctAnswer": "teddy bear"
+  },
+  {
+    "question": "This is my ____. It is fast.",
+    "options": ["car", "doll", "teddy bear", "puzzle"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A ball", "A doll", "A car", "A robot"],
+    "correctAnswer": "A ball"
+  },
+  {
+    "question": "Find the word: r-o-b-o-t",
+    "options": ["robot", "rabbit", "rocket", "robust"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "Is it your car?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my doll.", "I am a boy."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is big.",
+    "options": ["ball", "doll", "car", "puzzle"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "What is the missing letter? ro_ot",
+    "options": ["b", "p", "t", "d"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "This is a fun ____.",
+    "options": ["toy", "book", "song", "game"],
+    "correctAnswer": "toy"
+  },
+  {
+    "question": "Spell the word: p-u-z-z-l-e",
+    "options": ["puzzle", "puddle", "purple", "puzzling"],
+    "correctAnswer": "puzzle"
+  },
+  {
+    "question": "Is this your doll?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my teddy bear.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have many ____.",
+    "options": ["toys", "books", "pets", "friends"],
+    "correctAnswer": "toys"
+  },
+  {
+    "question": "What is the missing letter? _oy",
+    "options": ["t", "b", "j", "s"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A puzzle", "A ball", "A car", "A doll"],
+    "correctAnswer": "A puzzle"
+  },
+  {
+    "question": "My ____ is small.",
+    "options": ["car", "ball", "robot", "puzzle"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "Is it your robot?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my teddy bear.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a ____ and a doll.",
+    "options": ["ball", "car", "robot", "puzzle"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "Find the word: t-e-d-d-y",
+    "options": ["teddy", "today", "tidy", "tardy"],
+    "correctAnswer": "teddy"
+  },
+  {
+    "question": "This is my ____ bear.",
+    "options": ["teddy", "brown", "big", "small"],
+    "correctAnswer": "teddy"
+  },
+  {
+    "question": "What is the missing letter? ted_y",
+    "options": ["d", "p", "t", "b"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Is it your teddy bear?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my robot.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is soft.",
+    "options": ["teddy bear", "robot", "car", "puzzle"],
+    "correctAnswer": "teddy bear"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A robot", "A doll", "A car", "A ball"],
+    "correctAnswer": "A robot"
+  },
+  {
+    "question": "How many dolls do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "How many balls do you have?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
+  },
+  {
+    "question": "I see ____ toy.",
+    "options": ["a", "an", "one", "my"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What color is the car?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Red"
+  },
+  {
+    "question": "What color is the ball?",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "The doll is ____.",
+    "options": ["pretty", "ugly", "big", "small"],
+    "correctAnswer": "pretty"
+  },
+  {
+    "question": "The robot is ____.",
+    "options": ["cool", "hot", "warm", "cold"],
+    "correctAnswer": "cool"
+  },
+  {
+    "question": "Is your toy new or old?",
+    "options": ["New", "Old", "Yes", "No"],
+    "correctAnswer": "New"
+  },
+  {
+    "question": "My toy is ____.",
+    "options": ["fun", "sad", "angry", "tired"],
+    "correctAnswer": "fun"
+  },
+  {
+    "question": "What is the missing letter? fu_",
+    "options": ["n", "t", "d", "k"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["car", "doll", "ball", "puzzle"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "I love my ____.",
+    "options": ["doll", "car", "ball", "robot"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "Is it your ball?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a car.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's play with our ____.",
+    "options": ["toys", "friends", "pets", "books"],
+    "correctAnswer": "toys"
+  },
+  {
+    "question": "Spell the word: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "I have ____ new toy.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite toy is a ____.",
+    "options": ["robot", "doll", "car", "ball"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "What is the missing letter? favo_ite",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["teddy bear", "robot", "car", "puzzle"],
+    "correctAnswer": "teddy bear"
+  },
+  {
+    "question": "We can share our ____.",
+    "options": ["toys", "food", "secrets", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Is it a toy box?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a toy car.", "I like boxes."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: b-o-x",
+    "options": ["box", "fox", "boy", "bus"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "I put my toys in the ____.",
+    "options": ["box", "bag", "car", "house"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "The toy is in the ____.",
+    "options": ["box", "school", "shop", "park"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "What is the missing letter? bo_",
+    "options": ["x", "y", "t", "g"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A doll", "A robot", "A teddy bear", "A boy"],
+    "correctAnswer": "A doll"
+  },
+  {
+    "question": "My ____ is pretty.",
+    "options": ["doll", "car", "robot", "ball"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "Is it your robot?",
+    "options": ["No, it is my car.", "Yes, it is.", "She is my doll.", "I have a robot."],
+    "correctAnswer": "No, it is my car."
+  },
+  {
+    "question": "My brother likes to play with his ____.",
+    "options": ["car", "doll", "puzzle", "teddy bear"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "Spell the word: n-e-w",
+    "options": ["new", "now", "net", "sew"],
+    "correctAnswer": "new"
+  },
+  {
+    "question": "This is a ____ toy.",
+    "options": ["new", "old", "big", "small"],
+    "correctAnswer": "new"
+  },
+  {
+    "question": "What is the missing letter? puzzl_",
+    "options": ["e", "a", "o", "i"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A car", "A truck", "A bus", "A plane"],
+    "correctAnswer": "A car"
+  },
+  {
+    "question": "My ____ is fast.",
+    "options": ["car", "teddy bear", "doll", "puzzle"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "Is she your doll?",
+    "options": ["Yes, she is.", "No, she isn't.", "He is my robot.", "I have a doll."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "My sister likes to play with her ____.",
+    "options": ["doll", "car", "robot", "ball"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "Spell the word: o-l-d",
+    "options": ["old", "odd", "owl", "oil"],
+    "correctAnswer": "old"
+  },
+  {
+    "question": "I am ____ with my toys.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? b_ll",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A toy box", "A school bag", "A lunch box", "A pencil case"],
+    "correctAnswer": "A toy box"
+  },
+  {
+    "question": "My toys are in the ____.",
+    "options": ["box", "car", "bed", "chair"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "Is it your teddy bear?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my doll.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My teddy bear is ____.",
+    "options": ["brown", "black", "white", "pink"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "Spell the word: b-r-o-w-n",
+    "options": ["brown", "clown", "crown", "drown"],
+    "correctAnswer": "brown"
+  },
+  {
+    "question": "We play with ____ in our free time.",
+    "options": ["toys", "books", "pencils", "chairs"],
+    "correctAnswer": "toys"
+  },
+  {
+    "question": "What is the missing letter? tedd_ bear",
+    "options": ["y", "i", "a", "e"],
+    "correctAnswer": "y"
+  }
+]
+

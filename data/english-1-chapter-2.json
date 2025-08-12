@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's where you sit in the classroom.",
+    "options": ["A chair", "A bed", "A sofa", "A car"],
+    "correctAnswer": "A chair"
+  },
+  {
+    "question": "This is my ____. I write with it.",
+    "options": ["pen", "ball", "doll", "toy"],
+    "correctAnswer": "pen"
+  },
+  {
+    "question": "You put your books in this.",
+    "options": ["A bag", "A box", "A hat", "A shoe"],
+    "correctAnswer": "A bag"
+  },
+  {
+    "question": "What can you see in the classroom?",
+    "options": ["I can see a desk.", "I can see a tree.", "I can see a bird.", "I can see a flower."],
+    "correctAnswer": "I can see a desk."
+  },
+  {
+    "question": "Spell the word: b-o-o-k",
+    "options": ["book", "look", "cook", "hook"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "You read this.",
+    "options": ["A book", "A pen", "A chair", "A desk"],
+    "correctAnswer": "A book"
+  },
+  {
+    "question": "The teacher says: 'Sit ____, please.'",
+    "options": ["down", "up", "on", "in"],
+    "correctAnswer": "down"
+  },
+  {
+    "question": "Find the word: p-e-n-c-i-l",
+    "options": ["pencil", "pen", "paper", "people"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "question": "Is it a desk?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a chair.", "I am a student."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a blue ____.",
+    "options": ["pen", "sun", "apple", "cat"],
+    "correctAnswer": "pen"
+  },
+  {
+    "question": "What is this place?",
+    "options": ["A school", "A playground", "A house", "A shop"],
+    "correctAnswer": "A school"
+  },
+  {
+    "question": "I have a new ____.",
+    "options": ["book", "dog", "fish", "bike"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "What is the missing letter? cha_r",
+    "options": ["i", "a", "e", "o"],
+    "correctAnswer": "i"
+  },
+  {
+    "question": "The teacher says: '____ your book.'",
+    "options": ["Open", "Close", "Eat", "Drink"],
+    "correctAnswer": "Open"
+  },
+  {
+    "question": "This is my school ____.",
+    "options": ["bag", "hat", "shirt", "shoe"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "Let's go to ____.",
+    "options": ["school", "the park", "the zoo", "the beach"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Spell the word: d-e-s-k",
+    "options": ["desk", "disk", "dark", "duck"],
+    "correctAnswer": "desk"
+  },
+  {
+    "question": "Is it a pencil?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a pen.", "I am a teacher."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a ____. It helps me draw lines.",
+    "options": ["ruler", "ball", "swing", "slide"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "What is the missing letter? ru_er",
+    "options": ["l", "b", "p", "t"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "You use this to remove pencil marks.",
+    "options": ["An eraser", "A pen", "A book", "A bag"],
+    "correctAnswer": "An eraser"
+  },
+  {
+    "question": "The teacher says: 'Stand ____, please.'",
+    "options": ["up", "down", "in", "out"],
+    "correctAnswer": "up"
+  },
+  {
+    "question": "This is a yellow ____.",
+    "options": ["pencil", "apple", "sun", "banana"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "question": "Spell the word: c-h-a-i-r",
+    "options": ["chair", "hair", "pair", "fair"],
+    "correctAnswer": "chair"
+  },
+  {
+    "question": "Is it a bag?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a box.", "I can see a pen."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a teacher and a ____.",
+    "options": ["student", "doctor", "farmer", "singer"],
+    "correctAnswer": "student"
+  },
+  {
+    "question": "What is the missing letter? b_g",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "The teacher says: '____ your book.'",
+    "options": ["Close", "Open", "Read", "Write"],
+    "correctAnswer": "Close"
+  },
+  {
+    "question": "This is my ____. I sit here.",
+    "options": ["desk", "bed", "sofa", "car"],
+    "correctAnswer": "desk"
+  },
+  {
+    "question": "This is a red ____.",
+    "options": ["book", "ball", "apple", "flower"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "What is this?",
+    "options": ["An eraser", "An apple", "An egg", "An orange"],
+    "correctAnswer": "An eraser"
+  },
+  {
+    "question": "Find the word: t-e-a-c-h-e-r",
+    "options": ["teacher", "reacher", "bleacher", "peacher"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "Is it a school?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a house.", "I am a boy."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I write in my ____.",
+    "options": ["book", "bag", "chair", "desk"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "What is the missing letter? penci_",
+    "options": ["l", "k", "m", "n"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "This is a big ____.",
+    "options": ["school", "house", "car", "tree"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Spell the word: r-u-l-e-r",
+    "options": ["ruler", "roller", "ruder", "racer"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "Is this a student?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a teacher.", "I can see a book."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We learn at ____.",
+    "options": ["school", "the park", "home", "the shop"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "What is the missing letter? _ook",
+    "options": ["b", "c", "h", "l"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A pencil", "A pen", "A crayon", "A marker"],
+    "correctAnswer": "A pencil"
+  },
+  {
+    "question": "This is a long ____.",
+    "options": ["ruler", "pen", "pencil", "book"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "Is it a teacher?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a student.", "Hello, teacher."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a ____ in my bag.",
+    "options": ["book", "cat", "dog", "fish"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "Find the word: s-t-u-d-e-n-t",
+    "options": ["student", "study", "student's", "studied"],
+    "correctAnswer": "student"
+  },
+  {
+    "question": "I am a ____.",
+    "options": ["student", "teacher", "doctor", "pilot"],
+    "correctAnswer": "student"
+  },
+  {
+    "question": "What is the missing letter? studen_",
+    "options": ["t", "d", "p", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "Is it a ruler?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is an eraser.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is new.",
+    "options": ["bag", "house", "car", "bike"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A book", "A notebook", "A comic", "A magazine"],
+    "correctAnswer": "A book"
+  },
+  {
+    "question": "How many desks?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "How many chairs?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "I see ____ teacher.",
+    "options": ["one", "two", "three", "four"],
+    "correctAnswer": "one"
+  },
+  {
+    "question": "What color is the bag?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "correctAnswer": "Red"
+  },
+  {
+    "question": "What color is the desk?",
+    "options": ["Brown", "Blue", "Red", "Yellow"],
+    "correctAnswer": "Brown"
+  },
+  {
+    "question": "The ruler is ____.",
+    "options": ["long", "short", "big", "small"],
+    "correctAnswer": "long"
+  },
+  {
+    "question": "Spell the word: o-p-e-n",
+    "options": ["open", "pen", "on", "pin"],
+    "correctAnswer": "open"
+  },
+  {
+    "question": "Is the school big?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a classroom.", "I am a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The classroom is ____.",
+    "options": ["nice", "sad", "bad", "ugly"],
+    "correctAnswer": "nice"
+  },
+  {
+    "question": "What is the missing letter? ni_e",
+    "options": ["c", "k", "s", "t"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is a ____.",
+    "options": ["chair", "table", "bed", "sofa"],
+    "correctAnswer": "chair"
+  },
+  {
+    "question": "I like my ____.",
+    "options": ["school", "house", "room", "garden"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Is it a classroom?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a playground.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go into the ____.",
+    "options": ["classroom", "kitchen", "bathroom", "garden"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "Spell the word: c-l-o-s-e",
+    "options": ["close", "class", "rose", "chose"],
+    "correctAnswer": "close"
+  },
+  {
+    "question": "I have ____ pen.",
+    "options": ["a", "an", "two", "three"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "I have ____ eraser.",
+    "options": ["an", "a", "one", "two"],
+    "correctAnswer": "an"
+  },
+  {
+    "question": "What is the missing letter? _raser",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is a ____.",
+    "options": ["desk", "chair", "bed", "table"],
+    "correctAnswer": "desk"
+  },
+  {
+    "question": "We can ____ at school.",
+    "options": ["learn", "play", "sleep", "eat"],
+    "correctAnswer": "learn"
+  },
+  {
+    "question": "Is it a playground?",
+    "options": ["No, it isn't.", "Yes, it is.", "It is a school.", "I like to learn."],
+    "correctAnswer": "No, it isn't."
+  },
+  {
+    "question": "Spell the word: l-e-a-r-n",
+    "options": ["learn", "lean", "leaf", "lend"],
+    "correctAnswer": "learn"
+  },
+  {
+    "question": "I see ____ books.",
+    "options": ["many", "one", "a", "an"],
+    "correctAnswer": "many"
+  },
+  {
+    "question": "The books are on the ____.",
+    "options": ["desk", "chair", "floor", "bag"],
+    "correctAnswer": "desk"
+  },
+  {
+    "question": "What is the missing letter? teache_",
+    "options": ["r", "l", "p", "s"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A classroom", "A kitchen", "A bedroom", "A bathroom"],
+    "correctAnswer": "A classroom"
+  },
+  {
+    "question": "My ____ is kind.",
+    "options": ["teacher", "friend", "dog", "cat"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "Is it a pen?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a pencil.", "I am writing."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The pen is for ____.",
+    "options": ["writing", "drawing", "eating", "playing"],
+    "correctAnswer": "writing"
+  },
+  {
+    "question": "Spell the word: s-c-h-o-o-l",
+    "options": ["school", "cool", "pool", "tool"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "This is a happy ____.",
+    "options": ["school", "house", "family", "day"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "What is the missing letter? sch_ol",
+    "options": ["o", "a", "e", "i"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A bag", "A box", "A basket", "A bottle"],
+    "correctAnswer": "A bag"
+  },
+  {
+    "question": "My books are in the ____.",
+    "options": ["bag", "desk", "chair", "car"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "Is it a book?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a bag.", "I see a student."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I like to read my ____.",
+    "options": ["book", "pen", "ruler", "eraser"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "Spell the word: b-a-g",
+    "options": ["bag", "big", "bug", "beg"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "I go to ____ every day.",
+    "options": ["school", "the cinema", "the supermarket", "the restaurant"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "What is the missing letter? de_k",
+    "options": ["s", "c", "p", "t"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A ruler", "A line", "A stick", "A rope"],
+    "correctAnswer": "A ruler"
+  },
+  {
+    "question": "I use a ____ to draw a line.",
+    "options": ["ruler", "pen", "book", "chair"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "Is it an eraser?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a pencil.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The eraser is ____.",
+    "options": ["small", "big", "long", "tall"],
+    "correctAnswer": "small"
+  },
+  {
+    "question": "Spell the word: p-e-n",
+    "options": ["pen", "pin", "pan", "pet"],
+    "correctAnswer": "pen"
+  },
+  {
+    "question": "I write with a ____.",
+    "options": ["pen", "book", "bag", "desk"],
+    "correctAnswer": "pen"
+  },
+  {
+    "question": "What is the missing letter? boo_",
+    "options": ["k", "t", "d", "p"],
+    "correctAnswer": "k"
+  }
+]
+

@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's on top of your body.",
+    "options": ["Head", "Hand", "Foot", "Arm"],
+    "correctAnswer": "Head"
+  },
+  {
+    "question": "This is my ____. I have two of them to see.",
+    "options": ["eye", "nose", "mouth", "ear"],
+    "correctAnswer": "eye"
+  },
+  {
+    "question": "You use your ____ to smell.",
+    "options": ["nose", "eyes", "ears", "hands"],
+    "correctAnswer": "nose"
+  },
+  {
+    "question": "You use your ____ to hear.",
+    "options": ["ear", "eye", "nose", "mouth"],
+    "correctAnswer": "ear"
+  },
+  {
+    "question": "Spell the word: h-e-a-d",
+    "options": ["head", "hand", "read", "bead"],
+    "correctAnswer": "head"
+  },
+  {
+    "question": "This is my ____. I use it to eat.",
+    "options": ["mouth", "nose", "eye", "ear"],
+    "correctAnswer": "mouth"
+  },
+  {
+    "question": "Touch your ____.",
+    "options": ["nose", "toes", "knees", "shoulders"],
+    "correctAnswer": "nose"
+  },
+  {
+    "question": "Find the word: e-y-e-s",
+    "options": ["eyes", "yes", "easy", "says"],
+    "correctAnswer": "eyes"
+  },
+  {
+    "question": "Is this your hand?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a foot.", "I have two hands."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. It has five fingers.",
+    "options": ["hand", "foot", "leg", "arm"],
+    "correctAnswer": "hand"
+  },
+  {
+    "question": "What is this? Your eyes, nose, and mouth are on it.",
+    "options": ["A face", "A hand", "A foot", "A leg"],
+    "correctAnswer": "A face"
+  },
+  {
+    "question": "I have one ____.",
+    "options": ["nose", "eyes", "ears", "hands"],
+    "correctAnswer": "nose"
+  },
+  {
+    "question": "What is the missing letter? fac_",
+    "options": ["e", "k", "t", "d"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is my ____. I use it to wave.",
+    "options": ["arm", "leg", "head", "foot"],
+    "correctAnswer": "arm"
+  },
+  {
+    "question": "This is my ____. I use it to walk.",
+    "options": ["leg", "arm", "hand", "head"],
+    "correctAnswer": "leg"
+  },
+  {
+    "question": "Let's touch our ____.",
+    "options": ["toes", "nose", "eyes", "ears"],
+    "correctAnswer": "toes"
+  },
+  {
+    "question": "Spell the word: n-o-s-e",
+    "options": ["nose", "rose", "note", "none"],
+    "correctAnswer": "nose"
+  },
+  {
+    "question": "Is this your ear?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is an eye.", "I can hear."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my ____. I stand on it.",
+    "options": ["foot", "hand", "head", "arm"],
+    "correctAnswer": "foot"
+  },
+  {
+    "question": "What is the missing letter? h_nd",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "These are my ____.",
+    "options": ["fingers", "toes", "eyes", "ears"],
+    "correctAnswer": "fingers"
+  },
+  {
+    "question": "How many eyes do you have?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["face", "back", "hand", "foot"],
+    "correctAnswer": "face"
+  },
+  {
+    "question": "Spell the word: f-o-o-t",
+    "options": ["foot", "food", "four", "for"],
+    "correctAnswer": "foot"
+  },
+  {
+    "question": "Is it your head?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my hand.", "I can think."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have two ____.",
+    "options": ["legs", "noses", "mouths", "heads"],
+    "correctAnswer": "legs"
+  },
+  {
+    "question": "What is the missing letter? mou_h",
+    "options": ["t", "s", "p", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this?",
+    "options": ["My arm", "My leg", "My head", "My neck"],
+    "correctAnswer": "My arm"
+  },
+  {
+    "question": "This is my ____. I can clap with them.",
+    "options": ["hands", "feet", "legs", "arms"],
+    "correctAnswer": "hands"
+  },
+  {
+    "question": "This is my ____. It helps me talk.",
+    "options": ["mouth", "ear", "eye", "nose"],
+    "correctAnswer": "mouth"
+  },
+  {
+    "question": "What is this?",
+    "options": ["An eye", "An ear", "A nose", "A mouth"],
+    "correctAnswer": "An eye"
+  },
+  {
+    "question": "Find the word: a-r-m",
+    "options": ["arm", "art", "are", "ark"],
+    "correctAnswer": "arm"
+  },
+  {
+    "question": "Is it your leg?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my arm.", "I am a boy."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is long.",
+    "options": ["arm", "nose", "ear", "eye"],
+    "correctAnswer": "arm"
+  },
+  {
+    "question": "What is the missing letter? le_",
+    "options": ["g", "p", "t", "d"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is a happy ____.",
+    "options": ["face", "hand", "foot", "leg"],
+    "correctAnswer": "face"
+  },
+  {
+    "question": "Spell the word: e-a-r",
+    "options": ["ear", "eat", "end", "egg"],
+    "correctAnswer": "ear"
+  },
+  {
+    "question": "Is this your face?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my hand.", "I can see."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have ten ____.",
+    "options": ["fingers", "hands", "arms", "legs"],
+    "correctAnswer": "fingers"
+  },
+  {
+    "question": "What is the missing letter? _ye",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A leg", "An arm", "A hand", "A head"],
+    "correctAnswer": "A leg"
+  },
+  {
+    "question": "My ____ is small.",
+    "options": ["nose", "head", "leg", "arm"],
+    "correctAnswer": "nose"
+  },
+  {
+    "question": "Is it your foot?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my hand.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have two ____ to listen.",
+    "options": ["ears", "eyes", "noses", "mouths"],
+    "correctAnswer": "ears"
+  },
+  {
+    "question": "Find the word: l-e-g",
+    "options": ["leg", "let", "led", "less"],
+    "correctAnswer": "leg"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["mouth", "eye", "ear", "nose"],
+    "correctAnswer": "mouth"
+  },
+  {
+    "question": "What is the missing letter? fin_er",
+    "options": ["g", "k", "p", "t"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "Is it your mouth?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my nose.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ helps me write.",
+    "options": ["hand", "foot", "leg", "head"],
+    "correctAnswer": "hand"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A nose", "An eye", "An ear", "A mouth"],
+    "correctAnswer": "A nose"
+  },
+  {
+    "question": "How many hands do you have?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
+  },
+  {
+    "question": "How many heads do you have?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "I see with my ____.",
+    "options": ["eyes", "ears", "nose", "mouth"],
+    "correctAnswer": "eyes"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["It's me!", "It's my father.", "It's my mother.", "It's my friend."],
+    "correctAnswer": "It's me!"
+  },
+  {
+    "question": "My eyes are ____.",
+    "options": ["brown", "blue", "green", "black"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "My hair is ____.",
+    "options": ["black", "brown", "blonde", "red"],
+    "correctAnswer": "black"
+  },
+  {
+    "question": "My face is ____.",
+    "options": ["round", "square", "long", "small"],
+    "correctAnswer": "round"
+  },
+  {
+    "question": "Is your hair long or short?",
+    "options": ["Short", "Long", "Yes", "No"],
+    "correctAnswer": "Short"
+  },
+  {
+    "question": "My body is ____.",
+    "options": ["healthy", "sad", "angry", "tired"],
+    "correctAnswer": "healthy"
+  },
+  {
+    "question": "What is the missing letter? he_d",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["ear", "eye", "nose", "mouth"],
+    "correctAnswer": "ear"
+  },
+  {
+    "question": "I love my ____.",
+    "options": ["body", "school", "family", "friends"],
+    "correctAnswer": "body"
+  },
+  {
+    "question": "Is it your finger?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my toe.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's clap our ____.",
+    "options": ["hands", "feet", "legs", "arms"],
+    "correctAnswer": "hands"
+  },
+  {
+    "question": "Spell the word: h-a-n-d",
+    "options": ["hand", "sand", "land", "band"],
+    "correctAnswer": "hand"
+  },
+  {
+    "question": "I have ____ foot.",
+    "options": ["one", "a", "an", "two"],
+    "correctAnswer": "one"
+  },
+  {
+    "question": "I have two ____.",
+    "options": ["feet", "foot", "foots", "feets"],
+    "correctAnswer": "feet"
+  },
+  {
+    "question": "What is the missing letter? f_ce",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["foot", "hand", "arm", "leg"],
+    "correctAnswer": "foot"
+  },
+  {
+    "question": "We can ____ with our legs.",
+    "options": ["run", "write", "read", "talk"],
+    "correctAnswer": "run"
+  },
+  {
+    "question": "Is it a face?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a hand.", "I like my face."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: f-a-c-e",
+    "options": ["face", "race", "case", "lace"],
+    "correctAnswer": "face"
+  },
+  {
+    "question": "I see ____ face in the mirror.",
+    "options": ["my", "you", "his", "her"],
+    "correctAnswer": "my"
+  },
+  {
+    "question": "The boy has a happy ____.",
+    "options": ["face", "hand", "foot", "leg"],
+    "correctAnswer": "face"
+  },
+  {
+    "question": "What is the missing letter? ar_",
+    "options": ["m", "n", "p", "t"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "Who is this?",
+    "options": ["A boy", "A girl", "A man", "A woman"],
+    "correctAnswer": "A boy"
+  },
+  {
+    "question": "My ____ is strong.",
+    "options": ["arm", "ear", "eye", "nose"],
+    "correctAnswer": "arm"
+  },
+  {
+    "question": "Is it your nose?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my mouth.", "I can smell."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My brother has big ____.",
+    "options": ["eyes", "nose", "mouth", "ears"],
+    "correctAnswer": "eyes"
+  },
+  {
+    "question": "Spell the word: m-o-u-t-h",
+    "options": ["mouth", "south", "month", "mouse"],
+    "correctAnswer": "mouth"
+  },
+  {
+    "question": "This is a lovely ____.",
+    "options": ["face", "day", "cat", "dog"],
+    "correctAnswer": "face"
+  },
+  {
+    "question": "What is the missing letter? n_se",
+    "options": ["o", "a", "e", "i"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A hand", "A foot", "An arm", "A leg"],
+    "correctAnswer": "A hand"
+  },
+  {
+    "question": "My ____ is clean.",
+    "options": ["hand", "foot", "face", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Is she touching her ear?",
+    "options": ["Yes, she is.", "No, she isn't.", "She is touching her eye.", "I have two ears."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "My sister likes to ____ her hair.",
+    "options": ["brush", "wash", "cut", "touch"],
+    "correctAnswer": "brush"
+  },
+  {
+    "question": "Spell the word: b-o-d-y",
+    "options": ["body", "baby", "boy", "buddy"],
+    "correctAnswer": "body"
+  },
+  {
+    "question": "I am ____ with my body.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? f_ot",
+    "options": ["o", "e", "a", "i"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A body", "A head", "A face", "An arm"],
+    "correctAnswer": "A body"
+  },
+  {
+    "question": "My body has many ____.",
+    "options": ["parts", "toys", "books", "pets"],
+    "correctAnswer": "parts"
+  },
+  {
+    "question": "Is it your arm?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my leg.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My leg is ____.",
+    "options": ["long", "short", "big", "small"],
+    "correctAnswer": "long"
+  },
+  {
+    "question": "Spell the word: f-i-n-g-e-r",
+    "options": ["finger", "singer", "finer", "figure"],
+    "correctAnswer": "finger"
+  },
+  {
+    "question": "We have ten ____ on our feet.",
+    "options": ["toes", "fingers", "hands", "legs"],
+    "correctAnswer": "toes"
+  },
+  {
+    "question": "What is the missing letter? to_",
+    "options": ["e", "a", "o", "u"],
+    "correctAnswer": "e"
+  }
+]
+

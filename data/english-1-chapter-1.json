@@ -1,0 +1,488 @@
+[
+  {
+    "question": "Look at the picture. What is this?",
+    "options": ["A slide", "A swing", "A book", "A pen"],
+    "correctAnswer": "A slide"
+  },
+  {
+    "question": "This is a ____.",
+    "options": ["ball", "doll", "car", "table"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "I can play on the ____.",
+    "options": ["seesaw", "bed", "chair", "desk"],
+    "correctAnswer": "seesaw"
+  },
+  {
+    "question": "What can you see in the playground?",
+    "options": ["I can see a swing.", "I can see a cat.", "I can see a dog.", "I can see a fish."],
+    "correctAnswer": "I can see a swing."
+  },
+  {
+    "question": "Spell the word: s-w-i-n-g",
+    "options": ["swing", "sing", "swim", "sweet"],
+    "correctAnswer": "swing"
+  },
+  {
+    "question": "You go up and down on a ____.",
+    "options": ["seesaw", "slide", "ball", "book"],
+    "correctAnswer": "seesaw"
+  },
+  {
+    "question": "Hello, my name is Mai. What's ____ name?",
+    "options": ["your", "my", "his", "her"],
+    "correctAnswer": "your"
+  },
+  {
+    "question": "Find the word: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Is it a slide?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a pen.", "I am a boy."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a red ____.",
+    "options": ["ball", "book", "bag", "box"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "What is this place?",
+    "options": ["A playground", "A classroom", "A kitchen", "A bedroom"],
+    "correctAnswer": "A playground"
+  },
+  {
+    "question": "I like to ____ on the swing.",
+    "options": ["play", "eat", "sleep", "read"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "What is the missing letter? b_ll",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "How do you say 'tạm biệt' in English?",
+    "options": ["Goodbye", "Hello", "Thank you", "Sorry"],
+    "correctAnswer": "Goodbye"
+  },
+  {
+    "question": "This is a blue ____.",
+    "options": ["slide", "sun", "star", "sky"],
+    "correctAnswer": "slide"
+  },
+  {
+    "question": "Let's ____ together!",
+    "options": ["play", "cry", "fight", "shout"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Spell the word: s-l-i-d-e",
+    "options": ["slide", "side", "slim", "slip"],
+    "correctAnswer": "slide"
+  },
+  {
+    "question": "Is it a seesaw?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a table.", "I am a girl."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is my friend, Quan. Say hello!",
+    "options": ["Hello, Quan.", "Goodbye, Quan.", "It's a swing.", "I like balls."],
+    "correctAnswer": "Hello, Quan."
+  },
+  {
+    "question": "What is the missing letter? swi_g",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "You can kick this.",
+    "options": ["A ball", "A slide", "A swing", "A seesaw"],
+    "correctAnswer": "A ball"
+  },
+  {
+    "question": "How are you?",
+    "options": ["I'm fine, thank you.", "It's a playground.", "My name is Nam.", "Goodbye."],
+    "correctAnswer": "I'm fine, thank you."
+  },
+  {
+    "question": "This is a yellow ____.",
+    "options": ["seesaw", "moon", "sun", "star"],
+    "correctAnswer": "seesaw"
+  },
+  {
+    "question": "Spell the word: b-a-l-l",
+    "options": ["ball", "bell", "bill", "bull"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "Is it a book?",
+    "options": ["No, it isn't.", "Yes, it is.", "It is a swing.", "I can play."],
+    "correctAnswer": "No, it isn't."
+  },
+  {
+    "question": "I can see a boy and a ____.",
+    "options": ["girl", "man", "woman", "baby"],
+    "correctAnswer": "girl"
+  },
+  {
+    "question": "What is the missing letter? s_esaw",
+    "options": ["e", "a", "o", "u"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "How do you say 'xin chào' in English?",
+    "options": ["Hello", "Goodbye", "Please", "Sorry"],
+    "correctAnswer": "Hello"
+  },
+  {
+    "question": "Let's play with the ____.",
+    "options": ["ball", "pen", "ruler", "eraser"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "This is a green ____.",
+    "options": ["swing", "grass", "tree", "leaf"],
+    "correctAnswer": "swing"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A seesaw", "A chair", "A desk", "A board"],
+    "correctAnswer": "A seesaw"
+  },
+  {
+    "question": "Find the word: h-e-l-l-o",
+    "options": ["hello", "yellow", "bellow", "fellow"],
+    "correctAnswer": "hello"
+  },
+  {
+    "question": "Is it a playground?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a house.", "I am a student."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can ____ on the slide.",
+    "options": ["slide", "read", "write", "draw"],
+    "correctAnswer": "slide"
+  },
+  {
+    "question": "What is the missing letter? sli_e",
+    "options": ["d", "t", "p", "b"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "This is a big ____.",
+    "options": ["playground", "house", "car", "tree"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "Spell the word: g-o-o-d-b-y-e",
+    "options": ["goodbye", "good day", "good night", "good morning"],
+    "correctAnswer": "goodbye"
+  },
+  {
+    "question": "Is this a girl?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a ball.", "I can see a slide."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We play in the ____.",
+    "options": ["playground", "kitchen", "bathroom", "bedroom"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "What is the missing letter? pl_y",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A swing", "A table", "A bed", "A sofa"],
+    "correctAnswer": "A swing"
+  },
+  {
+    "question": "This is a small ____.",
+    "options": ["ball", "house", "school", "tree"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "Is it a boy?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a seesaw.", "Hello, teacher."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a ____.",
+    "options": ["ball", "sun", "moon", "star"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "Find the word: f-r-i-e-n-d",
+    "options": ["friend", "find", "fries", "front"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "This is my ____.",
+    "options": ["friend", "enemy", "teacher", "mother"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "What is the missing letter? frien_",
+    "options": ["d", "t", "p", "k"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Is it a pen?",
+    "options": ["No, it isn't.", "Yes, it is.", "It is a slide.", "Goodbye."],
+    "correctAnswer": "No, it isn't."
+  },
+  {
+    "question": "Let's be ____.",
+    "options": ["friends", "sad", "angry", "tired"],
+    "correctAnswer": "friends"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A ball", "An apple", "An orange", "A banana"],
+    "correctAnswer": "A ball"
+  },
+  {
+    "question": "How many slides can you see?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "How many swings can you see?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "I see ____ ball.",
+    "options": ["one", "two", "three", "four"],
+    "correctAnswer": "one"
+  },
+  {
+    "question": "What color is the slide?",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "What color is the swing?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "correctAnswer": "Green"
+  },
+  {
+    "question": "The ball is ____.",
+    "options": ["round", "square", "long", "tall"],
+    "correctAnswer": "round"
+  },
+  {
+    "question": "Spell the number: o-n-e",
+    "options": ["one", "on", "no", "go"],
+    "correctAnswer": "one"
+  },
+  {
+    "question": "Is playing in the playground fun?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a playground.", "I am a boy."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The playground is ____.",
+    "options": ["fun", "sad", "bad", "boring"],
+    "correctAnswer": "fun"
+  },
+  {
+    "question": "What is the missing letter? f_n",
+    "options": ["u", "a", "e", "i"],
+    "correctAnswer": "u"
+  },
+  {
+    "question": "This is a ____.",
+    "options": ["slide", "star", "sun", "sky"],
+    "correctAnswer": "slide"
+  },
+  {
+    "question": "I like the ____.",
+    "options": ["swing", "book", "pen", "bag"],
+    "correctAnswer": "swing"
+  },
+  {
+    "question": "Is it a car?",
+    "options": ["No, it isn't.", "Yes, it is.", "It is a ball.", "Hello."],
+    "correctAnswer": "No, it isn't."
+  },
+  {
+    "question": "Let's go to the ____.",
+    "options": ["playground", "market", "bank", "hospital"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "Spell the number: t-w-o",
+    "options": ["two", "to", "too", "tow"],
+    "correctAnswer": "two"
+  },
+  {
+    "question": "I see ____ friends.",
+    "options": ["two", "one", "three", "four"],
+    "correctAnswer": "two"
+  },
+  {
+    "question": "They are my ____.",
+    "options": ["friends", "books", "pens", "bags"],
+    "correctAnswer": "friends"
+  },
+  {
+    "question": "What is the missing letter? sees_w",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "This is a ____.",
+    "options": ["seesaw", "slide", "swing", "ball"],
+    "correctAnswer": "seesaw"
+  },
+  {
+    "question": "We can ____ on the seesaw.",
+    "options": ["play", "eat", "drink", "sleep"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Is it a classroom?",
+    "options": ["No, it isn't.", "Yes, it is.", "It is a playground.", "I like to play."],
+    "correctAnswer": "No, it isn't."
+  },
+  {
+    "question": "Spell the number: t-h-r-e-e",
+    "options": ["three", "tree", "the", "free"],
+    "correctAnswer": "three"
+  },
+  {
+    "question": "I see ____ balls.",
+    "options": ["three", "one", "two", "four"],
+    "correctAnswer": "three"
+  },
+  {
+    "question": "The balls are ____.",
+    "options": ["red, blue, and green", "big and small", "new and old", "round and square"],
+    "correctAnswer": "red, blue, and green"
+  },
+  {
+    "question": "What is the missing letter? th_ee",
+    "options": ["r", "l", "p", "s"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this place?",
+    "options": ["A playground", "A zoo", "A park", "A farm"],
+    "correctAnswer": "A playground"
+  },
+  {
+    "question": "I ____ to play.",
+    "options": ["like", "hate", "want", "need"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "Is it a swing?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a slide.", "I am Nam."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The swing goes ____.",
+    "options": ["up and down", "left and right", "round and round", "fast and slow"],
+    "correctAnswer": "up and down"
+  },
+  {
+    "question": "Spell the number: f-o-u-r",
+    "options": ["four", "for", "fur", "far"],
+    "correctAnswer": "four"
+  },
+  {
+    "question": "I see ____ children.",
+    "options": ["four", "one", "two", "three"],
+    "correctAnswer": "four"
+  },
+  {
+    "question": "They are ____.",
+    "options": ["playing", "eating", "sleeping", "reading"],
+    "correctAnswer": "playing"
+  },
+  {
+    "question": "What is the missing letter? fo_r",
+    "options": ["u", "a", "e", "i"],
+    "correctAnswer": "u"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A slide", "A ladder", "A stair", "A rope"],
+    "correctAnswer": "A slide"
+  },
+  {
+    "question": "I go ____ the slide.",
+    "options": ["down", "up", "on", "in"],
+    "correctAnswer": "down"
+  },
+  {
+    "question": "Is it a ball?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a seesaw.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The ball is for ____.",
+    "options": ["playing", "eating", "drinking", "sleeping"],
+    "correctAnswer": "playing"
+  },
+  {
+    "question": "Spell the word: p-l-a-y-g-r-o-u-n-d",
+    "options": ["playground", "playgroup", "playroom", "playtime"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "This is a fun ____.",
+    "options": ["playground", "lesson", "book", "song"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "What is the missing letter? play_round",
+    "options": ["g", "b", "d", "t"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this?",
+    "options": ["A seesaw", "A bench", "A chair", "A table"],
+    "correctAnswer": "A seesaw"
+  },
+  {
+    "question": "Two friends can play on the ____.",
+    "options": ["seesaw", "slide", "swing", "ball"],
+    "correctAnswer": "seesaw"
+  },
+  {
+    "question": "Is it a school?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a playground.", "I see a teacher."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The playground is at the ____.",
+    "options": ["school", "house", "shop", "park"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Spell the word: s-c-h-o-o-l",
+    "options": ["school", "cool", "pool", "tool"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "I go to ____.",
+    "options": ["school", "bed", "sleep", "eat"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "What is the missing letter? sch_ol",
+    "options": ["o", "a", "e", "i"],
+    "correctAnswer": "o"
+  }
+]
+
