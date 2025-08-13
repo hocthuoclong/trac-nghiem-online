@@ -1,483 +1,933 @@
 [
-  {
-    "question": "What is this? It's beautiful and has many colours. / Đây là gì? Nó đẹp và có nhiều màu sắc.",
-    "options": ["A flower", "A tree", "A leaf", "Grass"],
-    "correctAnswer": "A flower"
-  },
-  {
-    "question": "This is a ____. It's big and green. / Đây là một ____. Nó to và màu xanh lá.",
-    "options": ["tree", "flower", "leaf", "grass"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "You can see many green ____ on a tree. / Bạn có thể thấy nhiều ____ màu xanh trên cây.",
-    "options": ["leaves", "flowers", "fruits", "branches"],
-    "correctAnswer": "leaves"
-  },
-  {
-    "question": "This is ____. It's green and covers the ground. / Đây là ____. Nó màu xanh và bao phủ mặt đất.",
-    "options": ["grass", "flowers", "trees", "leaves"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Spell the word: f-l-o-w-e-r / Đánh vần từ: f-l-o-w-e-r",
-    "options": ["flower", "floor", "flour", "follow"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "This is the ____. It's bright and yellow in the sky. / Đây là ____. Nó sáng và màu vàng trên bầu trời.",
-    "options": ["sun", "moon", "star", "cloud"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "I can see a ____. It can fly. / Tôi có thể thấy một ____. Nó có thể bay.",
-    "options": ["butterfly", "bee", "ant", "worm"],
-    "correctAnswer": "butterfly"
-  },
-  {
-    "question": "Find the word: t-r-e-e / Tìm từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Is this a garden? / Đây có phải là một khu vườn không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a flower.", "I have a tree."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a red ____. / Đây là một ____ màu đỏ.",
-    "options": ["flower", "tree", "leaf", "grass"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "What can you do in the garden? / Bạn có thể làm gì trong vườn?",
-    "options": ["I can water the plants.", "I can cook.", "I can sleep.", "I can study."],
-    "correctAnswer": "I can water the plants."
-  },
-  {
-    "question": "I like to smell the ____. / Tôi thích ngửi ____.",
-    "options": ["flowers", "trees", "grass", "leaves"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "What is the missing letter? tre_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is our ____. It's beautiful. / Đây là ____ của chúng tôi. Nó rất đẹp.",
-    "options": ["garden", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "My mother is in the ____. / Mẹ tôi đang ở trong ____.",
-    "options": ["garden", "house", "school", "shop"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Let's sit on the ____. / Hãy ngồi trên ____.",
-    "options": ["grass", "bench", "fence", "swing"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Spell the word: l-e-a-f / Đánh vần từ: l-e-a-f",
-    "options": ["leaf", "life", "left", "leap"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "Is this a big tree? / Đây có phải là một cái cây lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a tree.", "I can see a flower."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am playing in the ____. / Tôi đang chơi ở ____.",
-    "options": ["garden", "house", "school", "shop"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "What is the missing letter? _rass / Chữ cái còn thiếu là gì? _rass",
-    "options": ["g", "p", "b", "c"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
-    "options": ["flowers", "trees", "leaves", "benches"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "How many flowers are there? / Có bao nhiêu bông hoa?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["leaf", "flower", "tree", "bench"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "Spell the word: g-r-a-s-s / Đánh vần từ: g-r-a-s-s",
-    "options": ["grass", "glass", "grape", "great"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Is it a big garden? / Nó có phải là một khu vườn lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is my house.", "I can see a tree."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see the ____ in the garden. / Chúng ta có thể thấy ____ trong vườn.",
-    "options": ["sun", "moon", "star", "rain"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "What is the missing letter? flowe_",
-    "options": ["r", "t", "d", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bee", "A butterfly", "An ant", "A worm"],
-    "correctAnswer": "A bee"
-  },
-  {
-    "question": "This is a ____. You can grow plants in it. / Đây là một ____. Bạn có thể trồng cây trong đó.",
-    "options": ["pot", "bowl", "plate", "cup"],
-    "correctAnswer": "pot"
-  },
-  {
-    "question": "This is ____. It's beautiful. / Đây là ____. Nó đẹp.",
-    "options": ["nature", "the city", "the town", "the market"],
-    "correctAnswer": "nature"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A butterfly", "A bee", "An ant", "A worm"],
-    "correctAnswer": "A butterfly"
-  },
-  {
-    "question": "Find the word: g-a-r-d-e-n / Tìm từ: g-a-r-d-e-n",
-    "options": ["garden", "golden", "gargle", "guardian"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Is it a sunny day? / Hôm nay có phải là một ngày nắng không?",
-    "options": ["Yes, it is.", "No, it is rainy.", "I am in the garden.", "I like to play."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is green. / ____ của tôi màu xanh lá.",
-    "options": ["grass", "sky", "sun", "flower"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "What is the missing letter? lea_",
-    "options": ["f", "n", "m", "p"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["garden", "book", "lesson", "game"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Spell the word: s-u-n / Đánh vần từ: s-u-n",
-    "options": ["sun", "son", "fun", "run"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "Is this a tall tree? / Đây có phải là một cái cây cao không?",
-    "options": ["Yes, it is.", "No, it is short.", "I can see a tree.", "I like trees."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The garden has a ____. / Khu vườn có một ____.",
-    "options": ["fence", "house", "school", "shop"],
-    "correctAnswer": "fence"
-  },
-  {
-    "question": "What is the missing letter? _ence / Chữ cái còn thiếu là gì? _ence",
-    "options": ["f", "p", "b", "c"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A watering can", "A pot", "A shovel", "A rake"],
-    "correctAnswer": "A watering can"
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["garden", "house", "room", "bag"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Is the bench long? / Cái ghế dài phải không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a bench.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a tree and some ____. / Tôi có thể thấy một cái cây và một vài ____.",
-    "options": ["flowers", "houses", "cars", "books"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "Find the word: p-l-a-n-t / Tìm từ: p-l-a-n-t",
-    "options": ["plant", "plane", "plate", "play"],
-    "correctAnswer": "plant"
-  },
-  {
-    "question": "This is my ____. I can relax here. / Đây là ____ của tôi. Tôi có thể thư giãn ở đây.",
-    "options": ["garden", "bedroom", "school", "office"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "What is the missing letter? butte_fly / Chữ cái còn thiếu là gì? butte_fly",
-    "options": ["r", "k", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Is it a red flower? / Nó có phải là một bông hoa màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is yellow.", "I like flowers.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["gardening", "homework", "class", "test"],
-    "correctAnswer": "gardening"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A ladybug", "A butterfly", "A bee", "An ant"],
-    "correctAnswer": "A ladybug"
-  },
-  {
-    "question": "How many bees can you see? / Bạn có thể thấy bao nhiêu con ong?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "A garden is behind the ____. / Khu vườn ở phía sau ____.",
-    "options": ["house", "school", "shop", "park"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "I see ____ bird in the tree. / Tôi thấy ____ con chim trên cây.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the grass? / Cỏ màu gì?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "What colour is the butterfly? / Con bướm màu gì?",
-    "options": ["Colourful", "White", "Black", "Pink"],
-    "correctAnswer": "Colourful"
-  },
-  {
-    "question": "The tree is ____. / Cái cây thì ____.",
-    "options": ["tall", "short", "small", "thin"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "The flowers are ____. / Những bông hoa thì ____.",
-    "options": ["pretty", "ugly", "sad", "bad"],
-    "correctAnswer": "pretty"
-  },
-  {
-    "question": "Is your garden clean? / Khu vườn của bạn có sạch không?",
-    "options": ["Yes, it is.", "No, it is messy.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My garden is ____. / Khu vườn của tôi thì ____.",
-    "options": ["peaceful", "noisy", "busy", "crowded"],
-    "correctAnswer": "peaceful"
-  },
-  {
-    "question": "What is the missing letter? pea_eful / Chữ cái còn thiếu là gì? pea_eful",
-    "options": ["c", "t", "d", "k"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["tree", "flower", "leaf", "grass"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["garden", "dog", "cat", "bird"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Is the gate open? / Cổng có mở không?",
-    "options": ["Yes, it is.", "No, it is closed.", "It is a gate.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's play in the ____. / Hãy chơi ở ____.",
-    "options": ["garden", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "I have ____ small pond in my garden. / Tôi có ____ cái ao nhỏ trong vườn.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite place is the ____. / Nơi yêu thích của tôi là ____.",
-    "options": ["garden", "school", "library", "supermarket"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "What is the missing letter? gard_n / Chữ cái còn thiếu là gì? gard_n",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a ____. It has pretty petals. / Đây là một ____. Nó có những cánh hoa xinh đẹp.",
-    "options": ["flower", "tree", "leaf", "grass"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "We should water the ____. / Chúng ta nên tưới ____.",
-    "options": ["plants", "fence", "bench", "swing"],
-    "correctAnswer": "plants"
-  },
-  {
-    "question": "Is it a wooden bench? / Nó có phải là một cái ghế gỗ không?",
-    "options": ["Yes, it is.", "No, it is metal.", "I like benches.", "The bench is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: g-a-r-d-e-n / Đánh vần từ: g-a-r-d-e-n",
-    "options": ["garden", "golden", "gargle", "guardian"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "I help my dad in the ____. / Tôi giúp bố tôi ở ____.",
-    "options": ["garden", "kitchen", "office", "car"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "The tree has many ____. / Cái cây có nhiều ____.",
-    "options": ["leaves", "flowers", "fruits", "branches"],
-    "correctAnswer": "leaves"
-  },
-  {
-    "question": "What is the missing letter? lea_",
-    "options": ["f", "p", "t", "d"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A butterfly", "A bee", "A bird", "An ant"],
-    "correctAnswer": "A butterfly"
-  },
-  {
-    "question": "My ____ is full of flowers. / ____ của tôi đầy hoa.",
-    "options": ["garden", "house", "room", "bag"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Is it a green leaf? / Nó có phải là một chiếc lá màu xanh không?",
-    "options": ["Yes, it is.", "No, it is yellow.", "I see a leaf.", "The leaf is small."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My sister likes to smell the ____. / Chị tôi thích ngửi ____.",
-    "options": ["flowers", "trees", "grass", "leaves"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "Spell the word: s-u-n / Đánh vần từ: s-u-n",
-    "options": ["sun", "son", "fun", "run"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "This is a ____ day. / Đây là một ngày ____.",
-    "options": ["sunny", "rainy", "cloudy", "windy"],
-    "correctAnswer": "sunny"
-  },
-  {
-    "question": "What is the missing letter? _unny / Chữ cái còn thiếu là gì? _unny",
-    "options": ["s", "f", "r", "m"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cloud", "The sun", "The moon", "A star"],
-    "correctAnswer": "A cloud"
-  },
-  {
-    "question": "My brother is flying a ____. / Anh trai tôi đang thả ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Are the flowers yellow? / Những bông hoa màu vàng phải không?",
-    "options": ["Yes, they are.", "No, they are red.", "They are flowers.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My dog is running on the ____. / Con chó của tôi đang chạy trên ____.",
-    "options": ["grass", "bench", "fence", "swing"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
-    "options": ["kite", "king", "kiss", "kitchen"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "I am ____ in my garden. / Tôi ____ trong vườn của tôi.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? gat_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A watering can", "A bucket", "A bottle", "A cup"],
-    "correctAnswer": "A watering can"
-  },
-  {
-    "question": "My garden is my favorite ____. / Khu vườn là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the grass short? / Cỏ có ngắn không?",
-    "options": ["Yes, it is.", "No, it is long.", "It is green grass.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The tree has a ____ on it. / Cái cây có một ____ trên đó.",
-    "options": ["bird's nest", "cat", "dog", "ball"],
-    "correctAnswer": "bird's nest"
-  },
-  {
-    "question": "Spell the word: b-i-r-d / Đánh vần từ: b-i-r-d",
-    "options": ["bird", "beard", "board", "bind"],
-    "correctAnswer": "bird"
-  },
-  {
-    "question": "We play ____ in the garden. / Chúng tôi chơi ____ trong vườn.",
-    "options": ["hide-and-seek", "chess", "video games", "cards"],
-    "correctAnswer": "hide-and-seek"
-  },
-  {
-    "question": "What is the missing letter? tr_e / Chữ cái còn thiếu là gì? tr_e",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  }
-]
+    {
+        "question": "This is a place outside a house with grass, trees, and flowers. What is it? / Đây là một nơi bên ngoài ngôi nhà có cỏ, cây và hoa. Nó là gì?",
+        "options": [
+            "A garden",
+            "A kitchen",
+            "A bedroom",
+            "A classroom"
+        ],
+        "correctAnswer": "A garden"
+    },
+    {
+        "question": "This is a beautiful part of a plant with colorful petals. What is it? / Đây là một bộ phận đẹp của cây có những cánh hoa đầy màu sắc. Nó là gì?",
+        "options": [
+            "A flower",
+            "A tree",
+            "A leaf",
+            "Grass"
+        ],
+        "correctAnswer": "A flower"
+    },
+    {
+        "question": "This is a very big and tall plant with a trunk and many leaves. What is it? / Đây là một loài cây rất to và cao, có thân và nhiều lá. Nó là gì?",
+        "options": [
+            "A tree",
+            "A flower",
+            "A bug",
+            "A rock"
+        ],
+        "correctAnswer": "A tree"
+    },
+    {
+        "question": "This is the green stuff that covers the ground in a garden. What is it? / Đây là thứ màu xanh bao phủ mặt đất trong vườn. Nó là gì?",
+        "options": [
+            "Grass",
+            "Flowers",
+            "Water",
+            "Sky"
+        ],
+        "correctAnswer": "Grass"
+    },
+    {
+        "question": "This is a flat, green part of a tree or plant. What is it? / Đây là một bộ phận phẳng, màu xanh của cây hoặc thực vật. Nó là gì?",
+        "options": [
+            "A leaf",
+            "A flower",
+            "A root",
+            "A trunk"
+        ],
+        "correctAnswer": "A leaf"
+    },
+    {
+        "question": "This is the big, bright, yellow star in the sky during the day. What is it? / Đây là ngôi sao lớn, sáng, màu vàng trên bầu trời vào ban ngày. Nó là gì?",
+        "options": [
+            "The sun",
+            "The moon",
+            "A star",
+            "A cloud"
+        ],
+        "correctAnswer": "The sun"
+    },
+    {
+        "question": "This is an insect that can fly and has beautiful, colorful wings. What is it? / Đây là một loài côn trùng có thể bay và có đôi cánh đẹp, nhiều màu sắc. Nó là gì?",
+        "options": [
+            "A butterfly",
+            "A bee",
+            "An ant",
+            "A worm"
+        ],
+        "correctAnswer": "A butterfly"
+    },
+    {
+        "question": "This small, flying insect is yellow and black and makes honey. What is it? / Loài côn trùng nhỏ, biết bay này có màu vàng và đen và tạo ra mật. Nó là gì?",
+        "options": [
+            "A bee",
+            "A butterfly",
+            "A ladybug",
+            "An ant"
+        ],
+        "correctAnswer": "A bee"
+    },
+    {
+        "question": "This is a very small insect that lives in a colony. What is it? / Đây là một loài côn trùng rất nhỏ sống thành đàn. Nó là gì?",
+        "options": [
+            "An ant",
+            "A bee",
+            "A spider",
+            "A worm"
+        ],
+        "correctAnswer": "An ant"
+    },
+    {
+        "question": "What do you do to help flowers grow? / Bạn làm gì để giúp hoa mọc?",
+        "options": [
+            "Water them",
+            "Eat them",
+            "Play with them",
+            "Sing to them"
+        ],
+        "correctAnswer": "Water them"
+    },
+    {
+        "question": "What color is the sun? / Mặt trời có màu gì?",
+        "options": [
+            "Yellow",
+            "Blue",
+            "Green",
+            "Purple"
+        ],
+        "correctAnswer": "Yellow"
+    },
+    {
+        "question": "What color is grass? / Cỏ có màu gì?",
+        "options": [
+            "Green",
+            "Red",
+            "Yellow",
+            "Blue"
+        ],
+        "correctAnswer": "Green"
+    },
+    {
+        "question": "A red flower is a beautiful ____. / Một bông hoa màu đỏ là một ____ đẹp.",
+        "options": [
+            "plant",
+            "animal",
+            "toy",
+            "book"
+        ],
+        "correctAnswer": "plant"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
+            "Long",
+            "Happy"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "An ant is very ____. / Một con kiến thì rất ____.",
+        "options": [
+            "small",
+            "big",
+            "tall",
+            "long"
+        ],
+        "correctAnswer": "small"
+    },
+    {
+        "question": "Spell the word for the place with flowers and trees. / Đánh vần từ chỉ nơi có hoa và cây.",
+        "options": [
+            "g-a-r-d-e-n",
+            "k-i-t-c-h-e-n",
+            "s-c-h-o-o-l",
+            "p-a-r-k"
+        ],
+        "correctAnswer": "g-a-r-d-e-n"
+    },
+    {
+        "question": "What do you do with your nose in a garden? / Bạn làm gì với mũi của mình trong vườn?",
+        "options": [
+            "Smell the flowers",
+            "See the trees",
+            "Hear the birds",
+            "Touch the grass"
+        ],
+        "correctAnswer": "Smell the flowers"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
 
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A butterfly is a ____ insect. / Bướm là một loài côn trùng ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "big"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do bees collect from flowers? / Ong thu thập gì từ hoa?",
+        "options": [
+            "Nectar",
+            "Water",
+            "Leaves",
+            "Soil"
+        ],
+        "correctAnswer": "Nectar"
+    },
+    {
+        "question": "Spell the word for the beautiful part of a plant. / Đánh vần từ chỉ bộ phận đẹp của một cái cây.",
+        "options": [
+            "f-l-o-w-e-r",
+            "t-r-e-e",
+            "l-e-a-f",
+            "r-o-o-t"
+        ],
+        "correctAnswer": "f-l-o-w-e-r"
+    },
+    {
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [
+            "Short",
+            "Long",
+            "Big",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "A flower is usually ____ than a tree. / Một bông hoa thường ____ hơn một cái cây.",
+        "options": [
+            "shorter",
+            "taller",
+            "bigger",
+            "stronger"
+        ],
+        "correctAnswer": "shorter"
+    },
+    {
+        "question": "What do you call a small animal with six legs? / Bạn gọi một con vật nhỏ có sáu chân là gì?",
+        "options": [
+            "An insect",
+            "A bird",
+            "A fish",
+            "A mammal"
+        ],
+        "correctAnswer": "An insect"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Sun",
+            "Sky",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "The sun shines during the ____. / Mặt trời chiếu sáng vào ____.",
+        "options": [
+            "day",
+            "night",
+            "evening",
+            "midnight"
+        ],
+        "correctAnswer": "day"
+    },
+    {
+        "question": "Spell the word for the big star in the sky. / Đánh vần từ chỉ ngôi sao lớn trên bầu trời.",
+        "options": [
+            "s-u-n",
+            "m-o-o-n",
+            "s-t-a-r",
+            "s-k-y"
+        ],
+        "correctAnswer": "s-u-n"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Being in a beautiful garden makes me feel ____. / Ở trong một khu vườn đẹp làm tôi cảm thấy ____.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the part of a plant that is under the ground? / Bạn gọi bộ phận của cây nằm dưới lòng đất là gì?",
+        "options": [
+            "The root",
+            "The leaf",
+            "The flower",
+            "The stem"
+        ],
+        "correctAnswer": "The root"
+    },
+    {
+        "question": "Spell the word for the big, tall plant. / Đánh vần từ chỉ loài cây to, cao.",
+        "options": [
+            "t-r-e-e",
+            "f-l-o-w-e-r",
+            "g-r-a-s-s",
+            "b-u-s-h"
+        ],
+        "correctAnswer": "t-r-e-e"
+    },
+    {
+        "question": "What is the opposite of 'above'? / Từ trái nghĩa của 'above' là gì?",
+        "options": [
+            "Below",
+            "On",
+            "Over",
+            "In"
+        ],
+        "correctAnswer": "Below"
+    },
+    {
+        "question": "The roots of a tree are ____ the ground. / Rễ của một cái cây ở ____ mặt đất.",
+        "options": [
+            "below",
+            "above",
+            "on",
+            "in"
+        ],
+        "correctAnswer": "below"
+    },
+    {
+        "question": "What do you call a small, red insect with black spots? / Bạn gọi một loài côn trùng nhỏ, màu đỏ có đốm đen là gì?",
+        "options": [
+            "A ladybug",
+            "A butterfly",
+            "A bee",
+            "An ant"
+        ],
+        "correctAnswer": "A ladybug"
+    },
+    {
+        "question": "What is the opposite of 'dry'? / Từ trái nghĩa của 'dry' là gì?",
+        "options": [
+            "Wet",
+            "Hot",
+            "Cold",
+            "Soft"
+        ],
+        "correctAnswer": "Wet"
+    },
+    {
+        "question": "After you water the plants, the soil is ____. / Sau khi bạn tưới cây, đất sẽ ____.",
+        "options": [
+            "wet",
+            "dry",
+            "hot",
+            "cold"
+        ],
+        "correctAnswer": "wet"
+    },
+    {
+        "question": "Spell the word for the green covering on the ground. / Đánh vần từ chỉ lớp phủ màu xanh trên mặt đất.",
+        "options": [
+            "g-r-a-s-s",
+            "l-e-a-f",
+            "t-r-e-e",
+            "s-e-e-d"
+        ],
+        "correctAnswer": "g-r-a-s-s"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Big",
+            "Hard",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A big tree is very ____. / Một cái cây lớn thì rất ____.",
+        "options": [
+            "strong",
+            "weak",
+            "small",
+            "short"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "What do you call a small thing you plant to grow a flower? / Bạn gọi vật nhỏ mà bạn trồng để mọc thành một bông hoa là gì?",
+        "options": [
+            "A seed",
+            "A rock",
+            "A leaf",
+            "A bug"
+        ],
+        "correctAnswer": "A seed"
+    },
+    {
+        "question": "Spell the word for the flying insect with colorful wings. / Đánh vần từ chỉ loài côn trùng biết bay có cánh nhiều màu sắc.",
+        "options": [
+            "b-u-t-t-e-r-f-l-y",
+            "l-a-d-y-b-u-g",
+            "b-e-e",
+            "a-n-t"
+        ],
+        "correctAnswer": "b-u-t-t-e-r-f-l-y"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A snail moves very ____. / Một con ốc sên di chuyển rất ____.",
+        "options": [
+            "slowly",
+            "fast",
+            "happily",
+            "sadly"
+        ],
+        "correctAnswer": "slowly"
+    },
+    {
+        "question": "What do you call an animal that lives in the ground and has a long body? / Bạn gọi con vật sống trong lòng đất và có thân dài là gì?",
+        "options": [
+            "A worm",
+            "A snake",
+            "An ant",
+            "A spider"
+        ],
+        "correctAnswer": "A worm"
+    },
+    {
+        "question": "What is the opposite of 'light' (not dark)? / Từ trái nghĩa của 'light' là gì? (không tối)",
+        "options": [
+            "Dark",
+            "Bright",
+            "Heavy",
+            "Soft"
+        ],
+        "correctAnswer": "Dark"
+    },
+    {
+        "question": "It gets ____ at night in the garden. / Trời trở ____ vào ban đêm trong vườn.",
+        "options": [
+            "dark",
+            "bright",
+            "sunny",
+            "hot"
+        ],
+        "correctAnswer": "dark"
+    },
+    {
+        "question": "Spell the word for a green part of a plant. / Đánh vần từ chỉ một bộ phận màu xanh của cây.",
+        "options": [
+            "l-e-a-f",
+            "f-l-o-w-e-r",
+            "r-o-o-t",
+            "s-e-e-d"
+        ],
+        "correctAnswer": "l-e-a-f"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Loud",
+            "Soft",
+            "Slow",
+            "Happy"
+        ],
+        "correctAnswer": "Loud"
+    },
+    {
+        "question": "The birds in the garden sing ____ in the morning. / Những con chim trong vườn hót ____ vào buổi sáng.",
+        "options": [
+            "loudly",
+            "quietly",
+            "sadly",
+            "slowly"
+        ],
+        "correctAnswer": "loudly"
+    },
+    {
+        "question": "What do you call a small flying animal that sings? / Bạn gọi một con vật nhỏ biết bay và biết hót là gì?",
+        "options": [
+            "A bird",
+            "A bee",
+            "A butterfly",
+            "A bat"
+        ],
+        "correctAnswer": "A bird"
+    },
+    {
+        "question": "Spell the word for the yellow and black insect that makes honey. / Đánh vần từ chỉ loài côn trùng màu vàng và đen tạo ra mật.",
+        "options": [
+            "b-e-e",
+            "a-n-t",
+            "f-l-y",
+            "b-u-g"
+        ],
+        "correctAnswer": "b-e-e"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ flowers in the garden. / Có ____ bông hoa trong vườn.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call the path you walk on in a garden? / Bạn gọi con đường bạn đi bộ trong vườn là gì?",
+        "options": [
+            "A path",
+            "A road",
+            "A river",
+            "A pool"
+        ],
+        "correctAnswer": "A path"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Happy"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "Weeds are ____ for the garden. / Cỏ dại thì ____ cho khu vườn.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "happy"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Spell the word for a small insect. / Đánh vần từ chỉ một loài côn trùng nhỏ.",
+        "options": [
+            "b-u-g",
+            "d-o-g",
+            "c-a-t",
+            "p-e-t"
+        ],
+        "correctAnswer": "b-u-g"
+    },
+    {
+        "question": "What is the opposite of 'up'? / Từ trái nghĩa của 'up' là gì?",
+        "options": [
+            "Down",
+            "In",
+            "On",
+            "Over"
+        ],
+        "correctAnswer": "Down"
+    },
+    {
+        "question": "The butterfly flies up, and the ant crawls ____. / Con bướm bay lên, và con kiến bò ____.",
+        "options": [
+            "down",
+            "up",
+            "in",
+            "out"
+        ],
+        "correctAnswer": "down"
+    },
+    {
+        "question": "What do you call the tool you use to dig in the garden? / Bạn gọi dụng cụ bạn dùng để đào trong vườn là gì?",
+        "options": [
+            "A spade",
+            "A fork",
+            "A spoon",
+            "A knife"
+        ],
+        "correctAnswer": "A spade"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ spending time in my garden. / Tôi ____ dành thời gian trong khu vườn của mình.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "Spell the word for the small thing you plant. / Đánh vần từ chỉ vật nhỏ bạn trồng.",
+        "options": [
+            "s-e-e-d",
+            "p-l-a-n-t",
+            "r-o-o-t",
+            "l-e-a-f"
+        ],
+        "correctAnswer": "s-e-e-d"
+    },
+    {
+        "question": "What is the opposite of 'wet'? / Từ trái nghĩa của 'wet' là gì?",
+        "options": [
+            "Dry",
+            "Hot",
+            "Cold",
+            "Soft"
+        ],
+        "correctAnswer": "Dry"
+    },
+    {
+        "question": "On a sunny day, the grass can become ____. / Vào một ngày nắng, cỏ có thể trở nên ____.",
+        "options": [
+            "dry",
+            "wet",
+            "cold",
+            "blue"
+        ],
+        "correctAnswer": "dry"
+    },
+    {
+        "question": "What do you call a structure that separates your garden from your neighbor's? / Bạn gọi cấu trúc ngăn cách khu vườn của bạn với nhà hàng xóm là gì?",
+        "options": [
+            "A fence",
+            "A wall",
+            "A door",
+            "A gate"
+        ],
+        "correctAnswer": "A fence"
+    },
+    {
+        "question": "What is the opposite of 'empty'? / Từ trái nghĩa của 'empty' là gì?",
+        "options": [
+            "Full",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Full"
+    },
+    {
+        "question": "The watering can is ____ of water. / Bình tưới nước ____ nước.",
+        "options": [
+            "full",
+            "empty",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "full"
+    },
+    {
+        "question": "Spell the word for the tiny insect that lives in a colony. / Đánh vần từ chỉ loài côn trùng nhỏ bé sống thành đàn.",
+        "options": [
+            "a-n-t",
+            "b-e-e",
+            "f-l-y",
+            "b-u-g"
+        ],
+        "correctAnswer": "a-n-t"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A weed is an ____ plant in the garden. / Cỏ dại là một loài cây ____ trong vườn.",
+        "options": [
+            "ugly",
+            "beautiful",
+            "nice",
+            "happy"
+        ],
+        "correctAnswer": "ugly"
+    },
+    {
+        "question": "What do you call the main, woody part of a tree? / Bạn gọi phần chính, thân gỗ của một cái cây là gì?",
+        "options": [
+            "The trunk",
+            "The root",
+            "The leaf",
+            "The flower"
+        ],
+        "correctAnswer": "The trunk"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "You ____ by planting a seed. / Bạn ____ bằng cách gieo một hạt giống.",
+        "options": [
+            "start",
+            "finish",
+            "end",
+            "stop"
+        ],
+        "correctAnswer": "start"
+    },
+    {
+        "question": "Spell the word for the clear liquid that plants need. / Đánh vần từ chỉ chất lỏng trong suốt mà cây cối cần.",
+        "options": [
+            "w-a-t-e-r",
+            "j-u-i-c-e",
+            "m-i-l-k",
+            "s-o-d-a"
+        ],
+        "correctAnswer": "w-a-t-e-r"
+    },
+    {
+        "question": "What is the opposite of 'alive'? / Từ trái nghĩa của 'alive' là gì?",
+        "options": [
+            "Dead",
+            "Living",
+            "Happy",
+            "Sad"
+        ],
+        "correctAnswer": "Dead"
+    },
+    {
+        "question": "If you don't water a flower, it might become ____. / Nếu bạn không tưới nước cho một bông hoa, nó có thể trở nên ____.",
+        "options": [
+            "dead",
+            "alive",
+            "happy",
+            "big"
+        ],
+        "correctAnswer": "dead"
+    },
+    {
+        "question": "What do you call a place where vegetables are grown? / Bạn gọi nơi trồng rau là gì?",
+        "options": [
+            "A vegetable patch",
+            "A flower bed",
+            "A playground",
+            "A forest"
+        ],
+        "correctAnswer": "A vegetable patch"
+    },
+    {
+        "question": "What is the opposite of 'heavy'? / Từ trái nghĩa của 'heavy' là gì?",
+        "options": [
+            "Light",
+            "Big",
+            "Hard",
+            "Strong"
+        ],
+        "correctAnswer": "Light"
+    },
+    {
+        "question": "A single leaf is very ____. / Một chiếc lá đơn lẻ thì rất ____.",
+        "options": [
+            "light",
+            "heavy",
+            "big",
+            "strong"
+        ],
+        "correctAnswer": "light"
+    },
+    {
+        "question": "Spell the word for a living thing that grows in the ground. / Đánh vần từ chỉ một sinh vật sống mọc trong lòng đất.",
+        "options": [
+            "p-l-a-n-t",
+            "a-n-i-m-a-l",
+            "r-o-c-k",
+            "w-a-t-e-r"
+        ],
+        "correctAnswer": "p-l-a-n-t"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "When you play in the garden, your clothes can get ____. / Khi bạn chơi trong vườn, quần áo của bạn có thể bị ____.",
+        "options": [
+            "dirty",
+            "clean",
+            "new",
+            "nice"
+        ],
+        "correctAnswer": "dirty"
+    },
+    {
+        "question": "What do you call the small stones in a garden? / Bạn gọi những viên đá nhỏ trong vườn là gì?",
+        "options": [
+            "Pebbles",
+            "Boulders",
+            "Rocks",
+            "Sand"
+        ],
+        "correctAnswer": "Pebbles"
+    },
+    {
+        "question": "What is the opposite of 'friend'? / Từ trái nghĩa của 'friend' là gì?",
+        "options": [
+            "Enemy",
+            "Neighbor",
+            "Family",
+            "Pet"
+        ],
+        "correctAnswer": "Enemy"
+    },
+    {
+        "question": "The birds and bees are ____ of the garden. / Chim và ong là ____ của khu vườn.",
+        "options": [
+            "friends",
+            "enemies",
+            "teachers",
+            "students"
+        ],
+        "correctAnswer": "friends"
+    },
+    {
+        "question": "Spell the word for the home of a bird. / Đánh vần từ chỉ ngôi nhà của một con chim.",
+        "options": [
+            "n-e-s-t",
+            "h-o-l-e",
+            "c-a-v-e",
+            "h-o-u-s-e"
+        ],
+        "correctAnswer": "n-e-s-t"
+    },
+    {
+        "question": "What is the opposite of 'daylight'? / Từ trái nghĩa của 'daylight' là gì?",
+        "options": [
+            "Darkness",
+            "Sunlight",
+            "Morning",
+            "Evening"
+        ],
+        "correctAnswer": "Darkness"
+    },
+    {
+        "question": "When the sun goes down, ____ comes to the garden. / Khi mặt trời lặn, ____ đến với khu vườn.",
+        "options": [
+            "darkness",
+            "sunlight",
+            "daylight",
+            "happiness"
+        ],
+        "correctAnswer": "darkness"
+    },
+    {
+        "question": "What do you call the sweet smell from a flower? / Bạn gọi mùi hương ngọt ngào từ một bông hoa là gì?",
+        "options": [
+            "Fragrance",
+            "Smell",
+            "Odor",
+            "Scent"
+        ],
+        "correctAnswer": "Fragrance"
+    },
+    {
+        "question": "What is the opposite of 'work'? / Từ trái nghĩa của 'work' là gì?",
+        "options": [
+            "Rest",
+            "Play",
+            "Sleep",
+            "Eat"
+        ],
+        "correctAnswer": "Rest"
+    },
+    {
+        "question": "After working in the garden, it's time to ____. / Sau khi làm việc trong vườn, đã đến lúc ____.",
+        "options": [
+            "rest",
+            "work",
+            "study",
+            "run"
+        ],
+        "correctAnswer": "rest"
+    },
+    {
+        "question": "Spell the word for the red insect with black spots. / Đánh vần từ chỉ loài côn trùng màu đỏ có đốm đen.",
+        "options": [
+            "l-a-d-y-b-u-g",
+            "b-u-t-t-e-r-f-l-y",
+            "s-p-i-d-e-r",
+            "a-n-t"
+        ],
+        "correctAnswer": "l-a-d-y-b-u-g"
+    }
+]
