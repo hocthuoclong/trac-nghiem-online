@@ -1,478 +1,952 @@
 [
-  {
-    "question": "What ____ is it? - It's red. / Nó là ____ gì? - Nó màu đỏ.",
-    "options": ["colour", "name", "thing", "shape"],
-    "correctAnswer": "colour"
-  },
-  {
-    "question": "This is a ____ book. / Đây là một quyển sách ____.",
-    "options": ["red", "blue", "green", "yellow"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "I have a ____ pen. / Tôi có một cây bút mực ____.",
-    "options": ["blue", "red", "green", "yellow"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "The box is ____. / Cái hộp thì ____.",
-    "options": ["green", "blue", "red", "yellow"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "Spell the word: r-e-d / Đánh vần từ: r-e-d",
-    "options": ["red", "bed", "led", "fed"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "This is a ____ pencil case. / Đây là một hộp bút ____.",
-    "options": ["yellow", "pink", "purple", "orange"],
-    "correctAnswer": "yellow"
-  },
-  {
-    "question": "I like the colour ____. / Tôi thích màu ____.",
-    "options": ["orange", "red", "green", "yellow"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "Find the word: b-l-u-e / Tìm từ: b-l-u-e",
-    "options": ["blue", "glue", "clue", "true"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Is the ruler pink? / Cây thước có phải màu hồng không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a ruler.", "I have a ruler."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a ____ school bag. / Đây là một cái cặp sách ____.",
-    "options": ["brown", "pink", "purple", "orange"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "What colour is the school bag? / Cặp sách màu gì?",
-    "options": ["It's black.", "It's a bag.", "It's new.", "I have a bag."],
-    "correctAnswer": "It's black."
-  },
-  {
-    "question": "I have ____ white eraser. / Tôi có ____ cục tẩy màu trắng.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What is the missing letter": "re_",
-    "options": ["d", "t", "p", "b"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is a ____ notebook. / Đây là một quyển vở ____.",
-    "options": ["purple", "red", "green", "yellow"],
-    "correctAnswer": "purple"
-  },
-  {
-    "question": "My favorite colour is ____. / Màu sắc yêu thích của tôi là ____.",
-    "options": ["green", "black", "white", "brown"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "Let's learn about ____. / Hãy học về ____.",
-    "options": ["colours", "books", "pens", "chairs"],
-    "correctAnswer": "colours"
-  },
-  {
-    "question": "Spell the word: g-r-e-e-n / Đánh vần từ: g-r-e-e-n",
-    "options": ["green", "queen", "seen", "screen"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "Is the pen black? / Cây bút mực có phải màu đen không?",
-    "options": ["Yes, it is.", "No, it is blue.", "It is a pen.", "I can see a pen."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am wearing a ____ hat. / Tôi đang đội một cái mũ ____.",
-    "options": ["white", "black", "pink", "purple"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "What is the missing letter": "blu_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "These are my ____ pencils. / Đây là những cây bút chì ____ của tôi.",
-    "options": ["coloured", "pets", "toys", "books"],
-    "correctAnswer": "coloured"
-  },
-  {
-    "question": "How many colours are in a rainbow? / Cầu vồng có bao nhiêu màu?",
-    "options": ["Seven", "One", "Two", "Three"],
-    "correctAnswer": "Seven"
-  },
-  {
-    "question": "This is the colour ____. / Đây là màu ____.",
-    "options": ["purple", "orange", "brown", "white"],
-    "correctAnswer": "purple"
-  },
-  {
-    "question": "Spell the word: y-e-l-l-o-w / Đánh vần từ: y-e-l-l-o-w",
-    "options": ["yellow", "bellow", "fellow", "hollow"],
-    "correctAnswer": "yellow"
-  },
-  {
-    "question": "Is it a green desk? / Nó có phải là một cái bàn màu xanh không?",
-    "options": ["No, it is brown.", "Yes, it is.", "It is a desk.", "I can see a desk."],
-    "correctAnswer": "No, it is brown."
-  },
-  {
-    "question": "I like ____ flowers. / Tôi thích hoa ____.",
-    "options": ["pink", "orange", "brown", "white"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "What is the missing letter": "pin_",
-    "options": ["k", "t", "d", "g"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "What colour is this? / Đây là màu gì?",
-    "options": ["White", "Black", "Brown", "Grey"],
-    "correctAnswer": "White"
-  },
-  {
-    "question": "This is a ____ dog. / Đây là một con chó ____.",
-    "options": ["brown", "black", "white", "grey"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "This is a ____ cloud. / Đây là một đám mây ____.",
-    "options": ["white", "black", "blue", "grey"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "What colour is this? / Đây là màu gì?",
-    "options": ["Black", "White", "Brown", "Grey"],
-    "correctAnswer": "Black"
-  },
-  {
-    "question": "Find the word: o-r-a-n-g-e / Tìm từ: o-r-a-n-g-e",
-    "options": ["orange", "arrange", "range", "strange"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "Is the pencil case blue? / Hộp bút có phải màu xanh không?",
-    "options": ["Yes, it is.", "No, it is pink.", "I am in the class.", "I like pencil cases."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is red. / ____ của tôi màu đỏ.",
-    "options": ["school bag", "shoe", "hat", "sock"],
-    "correctAnswer": "school bag"
-  },
-  {
-    "question": "What is the missing letter": "g_een",
-    "options": ["r", "l", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "These are lovely ____. / Đây là những ____ đáng yêu.",
-    "options": ["colours", "books", "songs", "games"],
-    "correctAnswer": "colours"
-  },
-  {
-    "question": "Spell the word: p-i-n-k / Đánh vần từ: p-i-n-k",
-    "options": ["pink", "sink", "wink", "link"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "Is this a yellow flower? / Đây có phải là một bông hoa màu vàng không?",
-    "options": ["Yes, it is.", "No, it is red.", "I can see a flower.", "I like flowers."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My house is painted ____. / Nhà tôi được sơn ____.",
-    "options": ["white", "black", "brown", "grey"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "What is the missing letter": "_range",
-    "options": ["o", "a", "e", "u"],
-    "correctAnswer": "o"
-  },
-  {
-    "question": "What colour is a carrot? / Củ cà rốt màu gì?",
-    "options": ["Orange", "Red", "Green", "Yellow"],
-    "correctAnswer": "Orange"
-  },
-  {
-    "question": "My ____ is black. / ____ của tôi màu đen.",
-    "options": ["hair", "eye", "hand", "foot"],
-    "correctAnswer": "hair"
-  },
-  {
-    "question": "Is the book green? / Quyển sách có phải màu xanh không?",
-    "options": ["Yes, it is.", "No, it is blue.", "It is a book.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I have a red pen and a ____ pencil. / Tôi có một cây bút mực màu đỏ và một cây bút chì ____.",
-    "options": ["blue", "green", "yellow", "pink"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Find the word: w-h-i-t-e / Tìm từ: w-h-i-t-e",
-    "options": ["white", "while", "what", "where"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "This is the colour ____. It's a mix of red and blue. / Đây là màu ____. Nó là sự pha trộn của màu đỏ và xanh dương.",
-    "options": ["purple", "green", "orange", "brown"],
-    "correctAnswer": "purple"
-  },
-  {
-    "question": "What is the missing letter": "purpl_",
-    "options": ["e", "a", "o", "i"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "Is it a brown bear? / Nó có phải là một con gấu màu nâu không?",
-    "options": ["Yes, it is.", "No, it is black.", "It is a bear.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["rainbow", "house", "car", "playground"],
-    "correctAnswer": "rainbow"
-  },
-  {
-    "question": "What colour is this? / Đây là màu gì?",
-    "options": ["Brown", "Black", "White", "Grey"],
-    "correctAnswer": "Brown"
-  },
-  {
-    "question": "What colour is a banana? / Quả chuối màu gì?",
-    "options": ["Yellow", "Red", "Blue", "Green"],
-    "correctAnswer": "Yellow"
-  },
-  {
-    "question": "I see a ____ bird. / Tôi thấy một con chim ____.",
-    "options": ["blue", "red", "green", "yellow"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "What colour is the grass? / Cỏ màu gì?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "What colour is the sea? / Biển màu gì?",
-    "options": ["Blue", "Green", "Red", "Yellow"],
-    "correctAnswer": "Blue"
-  },
-  {
-    "question": "The dress is ____. / Cái váy thì ____.",
-    "options": ["pink", "ugly", "big", "small"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "The car is ____. / Chiếc xe thì ____.",
-    "options": ["black", "white", "warm", "cold"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "Is your bike red? / Xe đạp của bạn có phải màu đỏ không?",
-    "options": ["No, it is blue.", "Yes, it is.", "Yes", "No"],
-    "correctAnswer": "No, it is blue."
-  },
-  {
-    "question": "My favorite colour is ____. / Màu sắc yêu thích của tôi là ____.",
-    "options": ["red", "sad", "angry", "tired"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "What is the missing letter": "blac_",
-    "options": ["k", "t", "d", "p"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is a ____ crayon. / Đây là một cây bút sáp ____.",
-    "options": ["red", "blue", "green", "yellow"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "I love all ____. / Tôi yêu tất cả ____.",
-    "options": ["colours", "dogs", "cats", "birds"],
-    "correctAnswer": "colours"
-  },
-  {
-    "question": "Is the flower pink? / Bông hoa có phải màu hồng không?",
-    "options": ["Yes, it is.", "No, it is red.", "It is a flower.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's learn about ____. / Hãy học về ____.",
-    "options": ["colours", "friends", "pets", "books"],
-    "correctAnswer": "colours"
-  },
-  {
-    "question": "Spell the word: b-l-a-c-k / Đánh vần từ: b-l-a-c-k",
-    "options": ["black", "back", "block", "blank"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "I have ____ new crayons. / Tôi có ____ bút sáp mới.",
-    "options": ["many", "a", "an", "one"],
-    "correctAnswer": "many"
-  },
-  {
-    "question": "My favorite animal is a ____ panther. / Con vật yêu thích của tôi là một con báo ____.",
-    "options": ["black", "white", "pink", "purple"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "What is the missing letter": "yello_",
-    "options": ["w", "l", "n", "m"],
-    "correctAnswer": "w"
-  },
-  {
-    "question": "This is the colour ____. It's like a plum. / Đây là màu ____. Nó giống như một quả mận.",
-    "options": ["purple", "pink", "orange", "brown"],
-    "correctAnswer": "purple"
-  },
-  {
-    "question": "We should mix ____ and yellow to make green. / Chúng ta nên trộn ____ và vàng để tạo ra màu xanh lá.",
-    "options": ["blue", "red", "white", "black"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Is it a white cloud? / Nó có phải là một đám mây trắng không?",
-    "options": ["Yes, it is.", "No, it is grey.", "I like clouds.", "The cloud is big."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: p-u-r-p-l-e / Đánh vần từ: p-u-r-p-l-e",
-    "options": ["purple", "pimple", "people", "pupil"],
-    "correctAnswer": "purple"
-  },
-  {
-    "question": "I wear a ____ jacket. / Tôi mặc một chiếc áo khoác ____.",
-    "options": ["brown", "pink", "orange", "purple"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "The tree trunk is ____. / Thân cây thì ____.",
-    "options": ["brown", "green", "red", "yellow"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "What is the missing letter": "bro_n",
-    "options": ["w", "p", "t", "d"],
-    "correctAnswer": "w"
-  },
-  {
-    "question": "What colour is this? / Đây là màu gì?",
-    "options": ["Orange", "Purple", "Pink", "Brown"],
-    "correctAnswer": "Orange"
-  },
-  {
-    "question": "My ____ is red. / ____ của tôi màu đỏ.",
-    "options": ["T-shirt", "shoes", "hat", "dress"],
-    "correctAnswer": "T-shirt"
-  },
-  {
-    "question": "Is it a red car? / Nó có phải là một chiếc xe màu đỏ không?",
-    "options": ["No, it is a blue car.", "Yes, it is.", "She is my sister.", "I have a car."],
-    "correctAnswer": "No, it is a blue car."
-  },
-  {
-    "question": "My father is wearing a ____ shirt. / Bố tôi đang mặc một chiếc áo sơ mi ____.",
-    "options": ["white", "pink", "purple", "orange"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "Spell the word: b-r-o-w-n / Đánh vần từ: b-r-o-w-n",
-    "options": ["brown", "clown", "crown", "drown"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "This is a ____ balloon. / Đây là một quả bóng bay ____.",
-    "options": ["green", "old", "big", "small"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "What is the missing letter": "_urple",
-    "options": ["p", "b", "t", "d"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What colour is this? / Đây là màu gì?",
-    "options": ["Pink", "Red", "Orange", "Yellow"],
-    "correctAnswer": "Pink"
-  },
-  {
-    "question": "My mother is wearing a ____ dress. / Mẹ tôi đang mặc một chiếc váy ____.",
-    "options": ["pink", "blue", "green", "yellow"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "Are the socks white? / Đôi tất có phải màu trắng không?",
-    "options": ["Yes, they are.", "No, they are black.", "He is my brother.", "I have socks."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My brother is wearing a ____ cap. / Anh trai tôi đang đội một chiếc mũ lưỡi trai ____.",
-    "options": ["blue", "pink", "purple", "orange"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Spell the word: o-r-a-n-g-e / Đánh vần từ: o-r-a-n-g-e",
-    "options": ["orange", "arrange", "range", "strange"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "I am ____ with my new colours. / Tôi ____ với những màu sắc mới của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter": "whi_e",
-    "options": ["t", "k", "p", "d"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A rainbow", "A cloud", "The sun", "The moon"],
-    "correctAnswer": "A rainbow"
-  },
-  {
-    "question": "A rainbow is ____. / Cầu vồng thì ____.",
-    "options": ["colourful", "black", "white", "brown"],
-    "correctAnswer": "colourful"
-  },
-  {
-    "question": "Is the house yellow? / Ngôi nhà có phải màu vàng không?",
-    "options": ["Yes, it is.", "No, it is white.", "It is my house.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The shoes are ____. / Đôi giày thì ____.",
-    "options": ["brown", "red", "blue", "green"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "Spell the word: c-o-l-o-u-r / Đánh vần từ: c-o-l-o-u-r",
-    "options": ["colour", "cooler", "column", "collar"],
-    "correctAnswer": "colour"
-  },
-  {
-    "question": "We see with our eyes, we see ____. / Chúng ta nhìn bằng mắt, chúng ta thấy ____.",
-    "options": ["colours", "sounds", "smells", "tastes"],
-    "correctAnswer": "colours"
-  },
-  {
-    "question": "What is the missing letter": "colou_",
-    "options": ["r", "s", "t", "p"],
-    "correctAnswer": "r"
-  }
+    {
+        "question": "What ____ is it? - It's red. / Nó là ____ gì? - Nó màu đỏ.",
+        "options": [
+            "colour",
+            "name",
+            "thing",
+            "shape"
+        ],
+        "correctAnswer": "colour"
+    },
+    {
+        "question": "This is a ____ book. / Đây là một quyển sách ____.",
+        "options": [
+            "red",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "red"
+    },
+    {
+        "question": "I have a ____ pen. / Tôi có một cây bút mực ____.",
+        "options": [
+            "blue",
+            "red",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "blue"
+    },
+    {
+        "question": "The box is ____. / Cái hộp thì ____.",
+        "options": [
+            "green",
+            "blue",
+            "red",
+            "yellow"
+        ],
+        "correctAnswer": "green"
+    },
+    {
+        "question": "Spell the word: r-e-d / Đánh vần từ: r-e-d",
+        "options": [
+            "red",
+            "bed",
+            "led",
+            "fed"
+        ],
+        "correctAnswer": "red"
+    },
+    {
+        "question": "This is a ____ pencil case. / Đây là một hộp bút ____.",
+        "options": [
+            "yellow",
+            "pink",
+            "purple",
+            "orange"
+        ],
+        "correctAnswer": "yellow"
+    },
+    {
+        "question": "I like the colour ____. / Tôi thích màu ____.",
+        "options": [
+            "orange",
+            "red",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "orange"
+    },
+    {
+        "question": "Find the word: b-l-u-e / Tìm từ: b-l-u-e",
+        "options": [
+            "blue",
+            "glue",
+            "clue",
+            "true"
+        ],
+        "correctAnswer": "blue"
+    },
+    {
+        "question": "Is the ruler pink? / Cây thước có phải màu hồng không?",
+        "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "It is a ruler.",
+            "I have a ruler."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "This is a ____ school bag. / Đây là một cái cặp sách ____.",
+        "options": [
+            "brown",
+            "pink",
+            "purple",
+            "orange"
+        ],
+        "correctAnswer": "brown"
+    },
+    {
+        "question": "What colour is the school bag? / Cặp sách màu gì?",
+        "options": [
+            "It's black.",
+            "It's a bag.",
+            "It's new.",
+            "I have a bag."
+        ],
+        "correctAnswer": "It's black."
+    },
+    {
+        "question": "I have ____ white eraser. / Tôi có ____ cục tẩy màu trắng.",
+        "options": [
+            "a",
+            "an",
+            "one",
+            "two"
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What is the missing letter: re_",
+        "options": [
+            "d",
+            "t",
+            "p",
+            "b"
+        ],
+        "correctAnswer": "d"
+    },
+    {
+        "question": "This is a ____ notebook. / Đây là một quyển vở ____.",
+        "options": [
+            "purple",
+            "red",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "purple"
+    },
+    {
+        "question": "My favorite colour is ____. / Màu sắc yêu thích của tôi là ____.",
+        "options": [
+            "green",
+            "black",
+            "white",
+            "brown"
+        ],
+        "correctAnswer": "green"
+    },
+    {
+        "question": "Let's learn about ____. / Hãy học về ____.",
+        "options": [
+            "colours",
+            "books",
+            "pens",
+            "chairs"
+        ],
+        "correctAnswer": "colours"
+    },
+    {
+        "question": "Spell the word: g-r-e-e-n / Đánh vần từ: g-r-e-e-n",
+        "options": [
+            "green",
+            "queen",
+            "seen",
+            "screen"
+        ],
+        "correctAnswer": "green"
+    },
+    {
+        "question": "Is the pen black? / Cây bút mực có phải màu đen không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is blue.",
+            "It is a pen.",
+            "I can see a pen."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I am wearing a ____ hat. / Tôi đang đội một cái mũ ____.",
+        "options": [
+            "white",
+            "black",
+            "pink",
+            "purple"
+        ],
+        "correctAnswer": "white"
+    },
+    {
+        "question": "What is the missing letter: blu_",
+        "options": [
+            "e",
+            "a",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "e"
+    },
+    {
+        "question": "These are my ____ pencils. / Đây là những cây bút chì ____ của tôi.",
+        "options": [
+            "coloured",
+            "pets",
+            "toys",
+            "books"
+        ],
+        "correctAnswer": "coloured"
+    },
+    {
+        "question": "How many colours are in a rainbow? / Cầu vồng có bao nhiêu màu?",
+        "options": [
+            "Seven",
+            "One",
+            "Two",
+            "Three"
+        ],
+        "correctAnswer": "Seven"
+    },
+    {
+        "question": "This is the colour ____. / Đây là màu ____.",
+        "options": [
+            "purple",
+            "orange",
+            "brown",
+            "white"
+        ],
+        "correctAnswer": "purple"
+    },
+    {
+        "question": "Spell the word: y-e-l-l-o-w / Đánh vần từ: y-e-l-l-o-w",
+        "options": [
+            "yellow",
+            "bellow",
+            "fellow",
+            "hollow"
+        ],
+        "correctAnswer": "yellow"
+    },
+    {
+        "question": "Is it a green desk? / Nó có phải là một cái bàn màu xanh không?",
+        "options": [
+            "No, it is brown.",
+            "Yes, it is.",
+            "It is a desk.",
+            "I can see a desk."
+        ],
+        "correctAnswer": "No, it is brown."
+    },
+    {
+        "question": "I like ____ flowers. / Tôi thích hoa ____.",
+        "options": [
+            "pink",
+            "orange",
+            "brown",
+            "white"
+        ],
+        "correctAnswer": "pink"
+    },
+    {
+        "question": "What is the missing letter: pin_",
+        "options": [
+            "k",
+            "t",
+            "d",
+            "g"
+        ],
+        "correctAnswer": "k"
+    },
+    {
+        "question": "What colour is this? / Đây là màu gì?",
+        "options": [
+            "White",
+            "Black",
+            "Brown",
+            "Grey"
+        ],
+        "correctAnswer": "White"
+    },
+    {
+        "question": "This is a ____ dog. / Đây là một con chó ____.",
+        "options": [
+            "brown",
+            "black",
+            "white",
+            "grey"
+        ],
+        "correctAnswer": "brown"
+    },
+    {
+        "question": "This is a ____ cloud. / Đây là một đám mây ____.",
+        "options": [
+            "white",
+            "black",
+            "blue",
+            "grey"
+        ],
+        "correctAnswer": "white"
+    },
+    {
+        "question": "What colour is this? / Đây là màu gì?",
+        "options": [
+            "Black",
+            "White",
+            "Brown",
+            "Grey"
+        ],
+        "correctAnswer": "Black"
+    },
+    {
+        "question": "Find the word: o-r-a-n-g-e / Tìm từ: o-r-a-n-g-e",
+        "options": [
+            "orange",
+            "arrange",
+            "range",
+            "strange"
+        ],
+        "correctAnswer": "orange"
+    },
+    {
+        "question": "Is the pencil case blue? / Hộp bút có phải màu xanh không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is pink.",
+            "I am in the class.",
+            "I like pencil cases."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is red. / ____ của tôi màu đỏ.",
+        "options": [
+            "school bag",
+            "shoe",
+            "hat",
+            "sock"
+        ],
+        "correctAnswer": "school bag"
+    },
+    {
+        "question": "What is the missing letter: g_een",
+        "options": [
+            "r",
+            "l",
+            "p",
+            "t"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "These are lovely ____. / Đây là những ____ đáng yêu.",
+        "options": [
+            "colours",
+            "books",
+            "songs",
+            "games"
+        ],
+        "correctAnswer": "colours"
+    },
+    {
+        "question": "Spell the word: p-i-n-k / Đánh vần từ: p-i-n-k",
+        "options": [
+            "pink",
+            "sink",
+            "wink",
+            "link"
+        ],
+        "correctAnswer": "pink"
+    },
+    {
+        "question": "Is this a yellow flower? / Đây có phải là một bông hoa màu vàng không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is red.",
+            "I can see a flower.",
+            "I like flowers."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My house is painted ____. / Nhà tôi được sơn ____.",
+        "options": [
+            "white",
+            "black",
+            "brown",
+            "grey"
+        ],
+        "correctAnswer": "white"
+    },
+    {
+        "question": "What is the missing letter: _range",
+        "options": [
+            "o",
+            "a",
+            "e",
+            "u"
+        ],
+        "correctAnswer": "o"
+    },
+    {
+        "question": "What colour is a carrot? / Củ cà rốt màu gì?",
+        "options": [
+            "Orange",
+            "Red",
+            "Green",
+            "Yellow"
+        ],
+        "correctAnswer": "Orange"
+    },
+    {
+        "question": "My ____ is black. / ____ của tôi màu đen.",
+        "options": [
+            "hair",
+            "eye",
+            "hand",
+            "foot"
+        ],
+        "correctAnswer": "hair"
+    },
+    {
+        "question": "Is the book green? / Quyển sách có phải màu xanh không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is blue.",
+            "It is a book.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I have a red pen and a ____ pencil. / Tôi có một cây bút mực màu đỏ và một cây bút chì ____.",
+        "options": [
+            "blue",
+            "green",
+            "yellow",
+            "pink"
+        ],
+        "correctAnswer": "blue"
+    },
+    {
+        "question": "Find the word: w-h-i-t-e / Tìm từ: w-h-i-t-e",
+        "options": [
+            "white",
+            "while",
+            "what",
+            "where"
+        ],
+        "correctAnswer": "white"
+    },
+    {
+        "question": "This is the colour ____. It's a mix of red and blue. / Đây là màu ____. Nó là sự pha trộn của màu đỏ và xanh dương.",
+        "options": [
+            "purple",
+            "green",
+            "orange",
+            "brown"
+        ],
+        "correctAnswer": "purple"
+    },
+    {
+        "question": "What is the missing letter: purpl_",
+        "options": [
+            "e",
+            "a",
+            "o",
+            "i"
+        ],
+        "correctAnswer": "e"
+    },
+    {
+        "question": "Is it a brown bear? / Nó có phải là một con gấu màu nâu không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is black.",
+            "It is a bear.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
+        "options": [
+            "rainbow",
+            "house",
+            "car",
+            "playground"
+        ],
+        "correctAnswer": "rainbow"
+    },
+    {
+        "question": "What colour is this? / Đây là màu gì?",
+        "options": [
+            "Brown",
+            "Black",
+            "White",
+            "Grey"
+        ],
+        "correctAnswer": "Brown"
+    },
+    {
+        "question": "What colour is a banana? / Quả chuối màu gì?",
+        "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+        ],
+        "correctAnswer": "Yellow"
+    },
+    {
+        "question": "I see a ____ bird. / Tôi thấy một con chim ____.",
+        "options": [
+            "blue",
+            "red",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "blue"
+    },
+    {
+        "question": "What colour is the grass? / Cỏ màu gì?",
+        "options": [
+            "Green",
+            "Blue",
+            "Red",
+            "Yellow"
+        ],
+        "correctAnswer": "Green"
+    },
+    {
+        "question": "What colour is the sea? / Biển màu gì?",
+        "options": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "correctAnswer": "Blue"
+    },
+    {
+        "question": "The dress is ____. / Cái váy thì ____.",
+        "options": [
+            "pink",
+            "ugly",
+            "big",
+            "small"
+        ],
+        "correctAnswer": "pink"
+    },
+    {
+        "question": "The car is ____. / Chiếc xe thì ____.",
+        "options": [
+            "black",
+            "white",
+            "warm",
+            "cold"
+        ],
+        "correctAnswer": "black"
+    },
+    {
+        "question": "Is your bike red? / Xe đạp của bạn có phải màu đỏ không?",
+        "options": [
+            "No, it is blue.",
+            "Yes, it is.",
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": "No, it is blue."
+    },
+    {
+        "question": "My favorite colour is ____. / Màu sắc yêu thích của tôi là ____.",
+        "options": [
+            "red",
+            "sad",
+            "angry",
+            "tired"
+        ],
+        "correctAnswer": "red"
+    },
+    {
+        "question": "What is the missing letter: blac_",
+        "options": [
+            "k",
+            "t",
+            "d",
+            "p"
+        ],
+        "correctAnswer": "k"
+    },
+    {
+        "question": "This is a ____ crayon. / Đây là một cây bút sáp ____.",
+        "options": [
+            "red",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "red"
+    },
+    {
+        "question": "I love all ____. / Tôi yêu tất cả ____.",
+        "options": [
+            "colours",
+            "dogs",
+            "cats",
+            "birds"
+        ],
+        "correctAnswer": "colours"
+    },
+    {
+        "question": "Is the flower pink? / Bông hoa có phải màu hồng không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is red.",
+            "It is a flower.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Let's learn about ____. / Hãy học về ____.",
+        "options": [
+            "colours",
+            "friends",
+            "pets",
+            "books"
+        ],
+        "correctAnswer": "colours"
+    },
+    {
+        "question": "Spell the word: b-l-a-c-k / Đánh vần từ: b-l-a-c-k",
+        "options": [
+            "black",
+            "back",
+            "block",
+            "blank"
+        ],
+        "correctAnswer": "black"
+    },
+    {
+        "question": "I have ____ new crayons. / Tôi có ____ bút sáp mới.",
+        "options": [
+            "many",
+            "a",
+            "an",
+            "one"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "My favorite animal is a ____ panther. / Con vật yêu thích của tôi là một con báo ____.",
+        "options": [
+            "black",
+            "white",
+            "pink",
+            "purple"
+        ],
+        "correctAnswer": "black"
+    },
+    {
+        "question": "What is the missing letter: yello_",
+        "options": [
+            "w",
+            "l",
+            "n",
+            "m"
+        ],
+        "correctAnswer": "w"
+    },
+    {
+        "question": "This is the colour ____. It's like a plum. / Đây là màu ____. Nó giống như một quả mận.",
+        "options": [
+            "purple",
+            "pink",
+            "orange",
+            "brown"
+        ],
+        "correctAnswer": "purple"
+    },
+    {
+        "question": "We should mix ____ and yellow to make green. / Chúng ta nên trộn ____ và vàng để tạo ra màu xanh lá.",
+        "options": [
+            "blue",
+            "red",
+            "white",
+            "black"
+        ],
+        "correctAnswer": "blue"
+    },
+    {
+        "question": "Is it a white cloud? / Nó có phải là một đám mây trắng không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is grey.",
+            "I like clouds.",
+            "The cloud is big."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Spell the word: p-u-r-p-l-e / Đánh vần từ: p-u-r-p-l-e",
+        "options": [
+            "purple",
+            "pimple",
+            "people",
+            "pupil"
+        ],
+        "correctAnswer": "purple"
+    },
+    {
+        "question": "I wear a ____ jacket. / Tôi mặc một chiếc áo khoác ____.",
+        "options": [
+            "brown",
+            "pink",
+            "orange",
+            "purple"
+        ],
+        "correctAnswer": "brown"
+    },
+    {
+        "question": "The tree trunk is ____. / Thân cây thì ____.",
+        "options": [
+            "brown",
+            "green",
+            "red",
+            "yellow"
+        ],
+        "correctAnswer": "brown"
+    },
+    {
+        "question": "What is the missing letter: bro_n",
+        "options": [
+            "w",
+            "p",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "w"
+    },
+    {
+        "question": "What colour is this? / Đây là màu gì?",
+        "options": [
+            "Orange",
+            "Purple",
+            "Pink",
+            "Brown"
+        ],
+        "correctAnswer": "Orange"
+    },
+    {
+        "question": "My ____ is red. / ____ của tôi màu đỏ.",
+        "options": [
+            "T-shirt",
+            "shoes",
+            "hat",
+            "dress"
+        ],
+        "correctAnswer": "T-shirt"
+    },
+    {
+        "question": "Is it a red car? / Nó có phải là một chiếc xe màu đỏ không?",
+        "options": [
+            "No, it is a blue car.",
+            "Yes, it is.",
+            "She is my sister.",
+            "I have a car."
+        ],
+        "correctAnswer": "No, it is a blue car."
+    },
+    {
+        "question": "My father is wearing a ____ shirt. / Bố tôi đang mặc một chiếc áo sơ mi ____.",
+        "options": [
+            "white",
+            "pink",
+            "purple",
+            "orange"
+        ],
+        "correctAnswer": "white"
+    },
+    {
+        "question": "Spell the word: b-r-o-w-n / Đánh vần từ: b-r-o-w-n",
+        "options": [
+            "brown",
+            "clown",
+            "crown",
+            "drown"
+        ],
+        "correctAnswer": "brown"
+    },
+    {
+        "question": "This is a ____ balloon. / Đây là một quả bóng bay ____.",
+        "options": [
+            "green",
+            "old",
+            "big",
+            "small"
+        ],
+        "correctAnswer": "green"
+    },
+    {
+        "question": "What is the missing letter: _urple",
+        "options": [
+            "p",
+            "b",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "p"
+    },
+    {
+        "question": "What colour is this? / Đây là màu gì?",
+        "options": [
+            "Pink",
+            "Red",
+            "Orange",
+            "Yellow"
+        ],
+        "correctAnswer": "Pink"
+    },
+    {
+        "question": "My mother is wearing a ____ dress. / Mẹ tôi đang mặc một chiếc váy ____.",
+        "options": [
+            "pink",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "correctAnswer": "pink"
+    },
+    {
+        "question": "Are the socks white? / Đôi tất có phải màu trắng không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are black.",
+            "He is my brother.",
+            "I have socks."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "My brother is wearing a ____ cap. / Anh trai tôi đang đội một chiếc mũ lưỡi trai ____.",
+        "options": [
+            "blue",
+            "pink",
+            "purple",
+            "orange"
+        ],
+        "correctAnswer": "blue"
+    },
+    {
+        "question": "Spell the word: o-r-a-n-g-e / Đánh vần từ: o-r-a-n-g-e",
+        "options": [
+            "orange",
+            "arrange",
+            "range",
+            "strange"
+        ],
+        "correctAnswer": "orange"
+    },
+    {
+        "question": "I am ____ with my new colours. / Tôi ____ với những màu sắc mới của mình.",
+        "options": [
+            "happy",
+            "sad",
+            "bored",
+            "angry"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What is the missing letter: whi_e",
+        "options": [
+            "t",
+            "k",
+            "p",
+            "d"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A rainbow",
+            "A cloud",
+            "The sun",
+            "The moon"
+        ],
+        "correctAnswer": "A rainbow"
+    },
+    {
+        "question": "A rainbow is ____. / Cầu vồng thì ____.",
+        "options": [
+            "colourful",
+            "black",
+            "white",
+            "brown"
+        ],
+        "correctAnswer": "colourful"
+    },
+    {
+        "question": "Is the house yellow? / Ngôi nhà có phải màu vàng không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is white.",
+            "It is my house.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The shoes are ____. / Đôi giày thì ____.",
+        "options": [
+            "brown",
+            "red",
+            "blue",
+            "green"
+        ],
+        "correctAnswer": "brown"
+    },
+    {
+        "question": "Spell the word: c-o-l-o-u-r / Đánh vần từ: c-o-l-o-u-r",
+        "options": [
+            "colour",
+            "cooler",
+            "column",
+            "collar"
+        ],
+        "correctAnswer": "colour"
+    },
+    {
+        "question": "We see with our eyes, we see ____. / Chúng ta nhìn bằng mắt, chúng ta thấy ____.",
+        "options": [
+            "colours",
+            "sounds",
+            "smells",
+            "tastes"
+        ],
+        "correctAnswer": "colours"
+    },
+    {
+        "question": "What is the missing letter: colou_",
+        "options": [
+            "r",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "r"
+    }
 ]
-
