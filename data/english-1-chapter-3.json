@@ -1,483 +1,863 @@
 [
-  {
-    "question": "What is this place? You can buy many things here. / Đây là nơi nào? Bạn có thể mua nhiều thứ ở đây.",
-    "options": ["A street market", "A school", "A library", "A park"],
-    "correctAnswer": "A street market"
-  },
-  {
-    "question": "This is an ____. It's a red fruit. / Đây là một ____. Nó là một loại quả màu đỏ.",
-    "options": ["apple", "banana", "orange", "lemon"],
-    "correctAnswer": "apple"
-  },
-  {
-    "question": "You can buy ____ here. It's a yellow fruit. / Bạn có thể mua ____ ở đây. Nó là một loại quả màu vàng.",
-    "options": ["bananas", "apples", "oranges", "grapes"],
-    "correctAnswer": "bananas"
-  },
-  {
-    "question": "This is ____. You eat it for breakfast. / Đây là ____. Bạn ăn nó cho bữa sáng.",
-    "options": ["bread", "rice", "noodles", "cake"],
-    "correctAnswer": "bread"
-  },
-  {
-    "question": "Spell the word: m-a-r-k-e-t / Đánh vần từ: m-a-r-k-e-t",
-    "options": ["market", "marker", "marmot", "marrow"],
-    "correctAnswer": "market"
-  },
-  {
-    "question": "This is ____. It's sweet. / Đây là ____. Nó ngọt.",
-    "options": ["candy", "bread", "rice", "fish"],
-    "correctAnswer": "candy"
-  },
-  {
-    "question": "I want to buy a ____. / Tôi muốn mua một ____.",
-    "options": ["toy", "book", "pen", "chair"],
-    "correctAnswer": "toy"
-  },
-  {
-    "question": "Find the word: a-p-p-l-e / Tìm từ: a-p-p-l-e",
-    "options": ["apple", "apply", "able", "ample"],
-    "correctAnswer": "apple"
-  },
-  {
-    "question": "Do you have any oranges? / Bạn có quả cam nào không?",
-    "options": ["Yes, I do.", "No, I don't.", "It is a market.", "I have an apple."],
-    "correctAnswer": "Yes, I do."
-  },
-  {
-    "question": "This is a big ____. / Đây là một ____ lớn.",
-    "options": ["market", "house", "school", "shop"],
-    "correctAnswer": "market"
-  },
-  {
-    "question": "What can you buy at the market? / Bạn có thể mua gì ở chợ?",
-    "options": ["Fruit and vegetables", "Clothes and shoes", "Books and pens", "Toys and games"],
-    "correctAnswer": "Fruit and vegetables"
-  },
-  {
-    "question": "I like to eat ____. / Tôi thích ăn ____.",
-    "options": ["candy", "vegetables", "rice", "bread"],
-    "correctAnswer": "candy"
-  },
-  {
-    "question": "What is the missing letter? marke_",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a ____. It's an orange fruit. / Đây là một ____. Nó là một loại quả màu cam.",
-    "options": ["orange", "apple", "banana", "grape"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "My mother is buying ____. / Mẹ tôi đang mua ____.",
-    "options": ["vegetables", "flowers", "toys", "books"],
-    "correctAnswer": "vegetables"
-  },
-  {
-    "question": "Let's buy some ____. / Hãy mua một ít ____.",
-    "options": ["fruit", "clothes", "shoes", "hats"],
-    "correctAnswer": "fruit"
-  },
-  {
-    "question": "Spell the word: b-a-n-a-n-a / Đánh vần từ: b-a-n-a-n-a",
-    "options": ["banana", "bandana", "bahama", "canada"],
-    "correctAnswer": "banana"
-  },
-  {
-    "question": "Is this a big market? / Đây có phải là một khu chợ lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a market.", "I can see food."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am at the ____. / Tôi đang ở ____.",
-    "options": ["street market", "house", "shop", "car"],
-    "correctAnswer": "street market"
-  },
-  {
-    "question": "What is the missing letter? _range / Chữ cái còn thiếu là gì? _range",
-    "options": ["o", "a", "e", "u"],
-    "correctAnswer": "o"
-  },
-  {
-    "question": "These are fresh ____. / Đây là những ____ tươi.",
-    "options": ["vegetables", "toys", "books", "pets"],
-    "correctAnswer": "vegetables"
-  },
-  {
-    "question": "How many bananas do you want? / Bạn muốn bao nhiêu quả chuối?",
-    "options": ["Five, please.", "I'm fine.", "My name is Mai.", "I like bananas."],
-    "correctAnswer": "Five, please."
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["cake", "biscuit", "candy", "chocolate"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "Spell the word: c-a-n-d-y / Đánh vần từ: c-a-n-d-y",
-    "options": ["candy", "handy", "sandy", "dandy"],
-    "correctAnswer": "candy"
-  },
-  {
-    "question": "Is it fresh? / Nó có tươi không?",
-    "options": ["Yes, it is.", "No, it is old.", "It is a market.", "I can see bread."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can get ____ from the market. / Chúng ta có thể lấy ____ từ chợ.",
-    "options": ["fish", "milk", "wool", "honey"],
-    "correctAnswer": "fish"
-  },
-  {
-    "question": "What is the missing letter? brea_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A carrot", "A tomato", "A potato", "An onion"],
-    "correctAnswer": "A carrot"
-  },
-  {
-    "question": "This is a ____. You put your shopping in it. / Đây là một ____. Bạn để đồ mua sắm vào trong đó.",
-    "options": ["basket", "bag", "box", "cart"],
-    "correctAnswer": "basket"
-  },
-  {
-    "question": "This is ____. It's a drink. / Đây là ____. Nó là một loại đồ uống.",
-    "options": ["juice", "bread", "rice", "noodles"],
-    "correctAnswer": "juice"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["An orange", "An apple", "A banana", "A grape"],
-    "correctAnswer": "An orange"
-  },
-  {
-    "question": "Find the word: f-r-u-i-t / Tìm từ: f-r-u-i-t",
-    "options": ["fruit", "flute", "front", "brute"],
-    "correctAnswer": "fruit"
-  },
-  {
-    "question": "Is it sweet? / Nó có ngọt không?",
-    "options": ["Yes, it is.", "No, it is sour.", "I am in the market.", "I like sweets."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is full of food. / ____ của tôi đầy thức ăn.",
-    "options": ["basket", "bag", "box", "cart"],
-    "correctAnswer": "basket"
-  },
-  {
-    "question": "What is the missing letter? bana_a / Chữ cái còn thiếu là gì? bana_a",
-    "options": ["n", "m", "p", "t"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["market", "book", "lesson", "game"],
-    "correctAnswer": "market"
-  },
-  {
-    "question": "Spell the word: t-o-y / Đánh vần từ: t-o-y",
-    "options": ["toy", "top", "ton", "tom"],
-    "correctAnswer": "toy"
-  },
-  {
-    "question": "Is this a red apple? / Đây có phải là một quả táo màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is green.", "I can see an apple.", "I like apples."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The street market has many ____. / Chợ đường phố có nhiều ____.",
-    "options": ["stalls", "rooms", "floors", "doors"],
-    "correctAnswer": "stalls"
-  },
-  {
-    "question": "What is the missing letter? _tall / Chữ cái còn thiếu là gì? _tall",
-    "options": ["s", "a", "i", "o"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A toy car", "A real car", "A bus", "A train"],
-    "correctAnswer": "A toy car"
-  },
-  {
-    "question": "My ____ is heavy. / ____ của tôi nặng.",
-    "options": ["basket", "hat", "pen", "book"],
-    "correctAnswer": "basket"
-  },
-  {
-    "question": "Is the bread fresh? / Bánh mì có tươi không?",
-    "options": ["Yes, it is.", "No, it is old.", "It is bread.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see bread and some ____. / Tôi có thể thấy bánh mì và một ít ____.",
-    "options": ["cakes", "jam", "honey", "cheese"],
-    "correctAnswer": "cakes"
-  },
-  {
-    "question": "Find the word: c-a-r-r-o-t / Tìm từ: c-a-r-r-o-t",
-    "options": ["carrot", "parrot", "carry", "carton"],
-    "correctAnswer": "carrot"
-  },
-  {
-    "question": "This is my ____. I pay for the food here. / Đây là ____ của tôi. Tôi trả tiền thức ăn ở đây.",
-    "options": ["money", "menu", "plate", "cup"],
-    "correctAnswer": "money"
-  },
-  {
-    "question": "What is the missing letter? mone_",
-    "options": ["y", "k", "p", "t"],
-    "correctAnswer": "y"
-  },
-  {
-    "question": "Is it a delicious cake? / Nó có phải là một cái bánh ngon không?",
-    "options": ["Yes, it is.", "No, it is not.", "I like cakes.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["shopping", "homework", "class", "test"],
-    "correctAnswer": "shopping"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A tomato", "An apple", "A potato", "An orange"],
-    "correctAnswer": "A tomato"
-  },
-  {
-    "question": "How much is it? / Nó giá bao nhiêu?",
-    "options": ["It's 10,000 dong.", "It's a tomato.", "It's red.", "I want to buy it."],
-    "correctAnswer": "It's 10,000 dong."
-  },
-  {
-    "question": "A street market sells ____. / Một khu chợ đường phố bán ____.",
-    "options": ["many things", "clothes", "toys", "books"],
-    "correctAnswer": "many things"
-  },
-  {
-    "question": "I need ____ of milk. / Tôi cần ____ sữa.",
-    "options": ["a carton", "a bottle", "a can", "a box"],
-    "correctAnswer": "a carton"
-  },
-  {
-    "question": "What colour is the carrot? / Củ cà rốt màu gì?",
-    "options": ["Orange", "Green", "Red", "Yellow"],
-    "correctAnswer": "Orange"
-  },
-  {
-    "question": "What colour is the banana? / Quả chuối màu gì?",
-    "options": ["Yellow", "White", "Black", "Pink"],
-    "correctAnswer": "Yellow"
-  },
-  {
-    "question": "The apples are ____. / Những quả táo thì ____.",
-    "options": ["fresh", "old", "small", "thin"],
-    "correctAnswer": "fresh"
-  },
-  {
-    "question": "The sweets are ____. / Những viên kẹo thì ____.",
-    "options": ["sweet", "sour", "sad", "bad"],
-    "correctAnswer": "sweet"
-  },
-  {
-    "question": "Is the market crowded? / Chợ có đông không?",
-    "options": ["Yes, it is.", "No, it is empty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My shopping trip is ____. / Chuyến đi mua sắm của tôi thì ____.",
-    "options": ["quick", "long", "busy", "crowded"],
-    "correctAnswer": "quick"
-  },
-  {
-    "question": "What is the missing letter? qui_k / Chữ cái còn thiếu là gì? qui_k",
-    "options": ["c", "t", "d", "p"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is ____. / Đây là ____.",
-    "options": ["bread", "rice", "noodles", "cake"],
-    "correctAnswer": "bread"
-  },
-  {
-    "question": "I love ____. / Tôi yêu ____.",
-    "options": ["shopping", "dog", "cat", "bird"],
-    "correctAnswer": "shopping"
-  },
-  {
-    "question": "Is the milk cold? / Sữa có lạnh không?",
-    "options": ["Yes, it is.", "No, it is warm.", "It is milk.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["street market", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "street market"
-  },
-  {
-    "question": "Spell the word: s-h-o-p / Đánh vần từ: s-h-o-p",
-    "options": ["shop", "ship", "shoe", "show"],
-    "correctAnswer": "shop"
-  },
-  {
-    "question": "I have ____ new basket. / Tôi có ____ cái giỏ mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite fruit is ____. / Loại quả yêu thích của tôi là ____.",
-    "options": ["an orange", "an apple", "a banana", "a grape"],
-    "correctAnswer": "an orange"
-  },
-  {
-    "question": "What is the missing letter? oran_e / Chữ cái còn thiếu là gì? oran_e",
-    "options": ["g", "a", "i", "o"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "This is ____. It's a vegetable. / Đây là ____. Nó là một loại rau.",
-    "options": ["a potato", "an apple", "a banana", "an orange"],
-    "correctAnswer": "a potato"
-  },
-  {
-    "question": "We should eat healthy ____. / Chúng ta nên ăn ____ lành mạnh.",
-    "options": ["food", "toys", "secrets", "all are wrong"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Is it a big bag of rice? / Nó có phải là một túi gạo lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like rice.", "The rice is white."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: f-r-u-i-t / Đánh vần từ: f-r-u-i-t",
-    "options": ["fruit", "flute", "front", "brute"],
-    "correctAnswer": "fruit"
-  },
-  {
-    "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
-    "options": ["bags", "desk", "chair", "floor"],
-    "correctAnswer": "bags"
-  },
-  {
-    "question": "The bananas are on the ____. / Những quả chuối ở trên ____.",
-    "options": ["stall", "floor", "ceiling", "door"],
-    "correctAnswer": "stall"
-  },
-  {
-    "question": "What is the missing letter? stal_",
-    "options": ["l", "p", "t", "d"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cabbage", "A lettuce", "A broccoli", "A spinach"],
-    "correctAnswer": "A cabbage"
-  },
-  {
-    "question": "My ____ is full of groceries. / ____ của tôi đầy hàng tạp hóa.",
-    "options": ["trolley", "desk", "bag", "box"],
-    "correctAnswer": "trolley"
-  },
-  {
-    "question": "Is it a picture of fruit? / Nó có phải là một bức tranh về trái cây không?",
-    "options": ["Yes, it is.", "No, it is a vegetable.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to eat ____. / Bạn tôi thích ăn ____.",
-    "options": ["biscuits", "fish", "pizza", "juice"],
-    "correctAnswer": "biscuits"
-  },
-  {
-    "question": "Spell the word: b-u-y / Đánh vần từ: b-u-y",
-    "options": ["buy", "by", "bye", "boy"],
-    "correctAnswer": "buy"
-  },
-  {
-    "question": "This is a ____ day for shopping. / Đây là một ngày ____ để mua sắm.",
-    "options": ["good", "rainy", "cloudy", "windy"],
-    "correctAnswer": "good"
-  },
-  {
-    "question": "What is the missing letter? _ood / Chữ cái còn thiếu là gì? _ood",
-    "options": ["f", "g", "h", "w"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A seller", "A customer", "A manager", "A worker"],
-    "correctAnswer": "A seller"
-  },
-  {
-    "question": "My mother is paying the ____. / Mẹ tôi đang trả tiền cho ____.",
-    "options": ["seller", "customer", "manager", "worker"],
-    "correctAnswer": "seller"
-  },
-  {
-    "question": "Are the vegetables fresh? / Rau có tươi không?",
-    "options": ["Yes, they are.", "No, they are old.", "They are vegetables.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My street market has many ____. / Chợ đường phố của tôi có nhiều ____.",
-    "options": ["people", "teachers", "parents", "doctors"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "Spell the word: p-e-o-p-l-e / Đánh vần từ: p-e-o-p-l-e",
-    "options": ["people", "purple", "pebble", "pepper"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "I am ____ at the street market. / Tôi ____ ở chợ đường phố.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? stree_",
-    "options": ["t", "s", "p", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A shopping list", "A book", "A letter", "A card"],
-    "correctAnswer": "A shopping list"
-  },
-  {
-    "question": "My street market is my favorite ____. / Chợ đường phố là ____ yêu thích của tôi.",
-    "options": ["place to shop", "food", "colour", "toy"],
-    "correctAnswer": "place to shop"
-  },
-  {
-    "question": "Is the milk expensive? / Sữa có đắt không?",
-    "options": ["No, it is cheap.", "Yes, it is.", "It is milk.", "Hello."],
-    "correctAnswer": "No, it is cheap."
-  },
-  {
-    "question": "The family buys food for the ____. / Gia đình mua thức ăn cho ____.",
-    "options": ["week", "day", "month", "year"],
-    "correctAnswer": "week"
-  },
-  {
-    "question": "Spell the word: m-o-n-e-y / Đánh vần từ: m-o-n-e-y",
-    "options": ["money", "monkey", "honey", "month"],
-    "correctAnswer": "money"
-  },
-  {
-    "question": "We use ____ to buy things. / Chúng tôi dùng ____ để mua đồ.",
-    "options": ["money", "cards", "toys", "books"],
-    "correctAnswer": "money"
-  },
-  {
-    "question": "What is the missing letter? mone_",
-    "options": ["y", "t", "p", "k"],
-    "correctAnswer": "y"
-  }
-]
+    {
+        "question": "This is a place with many stalls outside where people sell fruit and vegetables. What is it? / Đây là một nơi có nhiều quầy hàng bên ngoài, nơi mọi người bán trái cây và rau củ. Nó là gì?",
+        "options": [
+            "A street market",
+            "A school",
+            "A library",
+            "A playground"
+        ],
+        "correctAnswer": "A street market"
+    },
+    {
+        "question": "This is a long, yellow fruit that monkeys like to eat. What is it? / Đây là một loại quả dài, màu vàng mà khỉ thích ăn. Nó là gì?",
+        "options": [
+            "A banana",
+            "An apple",
+            "A carrot",
+            "A potato"
+        ],
+        "correctAnswer": "A banana"
+    },
+    {
+        "question": "This is a round, red fruit that is often crispy. What is it? / Đây là một loại quả tròn, màu đỏ và thường giòn. Nó là gì?",
+        "options": [
+            "An apple",
+            "A banana",
+            "An orange",
+            "A lemon"
+        ],
+        "correctAnswer": "An apple"
+    },
+    {
+        "question": "This is a round, orange-colored fruit. What is it? / Đây là một loại quả tròn, có màu cam. Nó là gì?",
+        "options": [
+            "An orange",
+            "An apple",
+            "A grape",
+            "A pear"
+        ],
+        "correctAnswer": "An orange"
+    },
+    {
+        "question": "You use ____ to buy things at the market. / Bạn dùng ____ để mua đồ ở chợ.",
+        "options": [
+            "money",
+            "books",
+            "toys",
+            "pencils"
+        ],
+        "correctAnswer": "money"
+    },
+    {
+        "question": "A person who sells things at the market is a ____. / Một người bán hàng ở chợ là ____.",
+        "options": [
+            "seller",
+            "buyer",
+            "teacher",
+            "doctor"
+        ],
+        "correctAnswer": "seller"
+    },
+    {
+        "question": "A person who buys things at the market is a ____. / Một người mua hàng ở chợ là ____.",
+        "options": [
+            "buyer",
+            "seller",
+            "driver",
+            "farmer"
+        ],
+        "correctAnswer": "buyer"
+    },
+    {
+        "question": "This is a sweet food that children love. It can be hard or soft. What is it? / Đây là một món ăn ngọt mà trẻ em yêu thích. Nó có thể cứng hoặc mềm. Nó là gì?",
+        "options": [
+            "Candy",
+            "Bread",
+            "Rice",
+            "Fish"
+        ],
+        "correctAnswer": "Candy"
+    },
+    {
+        "question": "You eat this food for breakfast, often with jam or butter. What is it? / Bạn ăn món này vào bữa sáng, thường với mứt hoặc bơ. Nó là gì?",
+        "options": [
+            "Bread",
+            "Candy",
+            "Soup",
+            "Salad"
+        ],
+        "correctAnswer": "Bread"
+    },
+    {
+        "question": "This is a long, orange vegetable that rabbits like. What is it? / Đây là một loại rau dài, màu cam mà thỏ rất thích. Nó là gì?",
+        "options": [
+            "A carrot",
+            "A banana",
+            "A potato",
+            "An apple"
+        ],
+        "correctAnswer": "A carrot"
+    },
+    {
+        "question": "To ask for the price of something, you say: / Để hỏi giá của một thứ gì đó, bạn nói:",
+        "options": [
+            "How much is it?",
+            "What is your name?",
+            "How are you?",
+            "Where is the market?"
+        ],
+        "correctAnswer": "How much is it?"
+    },
+    {
+        "question": "You carry your shopping in a ____. / Bạn đựng đồ đã mua trong một ____.",
+        "options": [
+            "bag",
+            "hat",
+            "shoe",
+            "box"
+        ],
+        "correctAnswer": "bag"
+    },
+    {
+        "question": "Which one is a fruit? / Cái nào là một loại trái cây?",
+        "options": [
+            "A grape",
+            "A carrot",
+            "A potato",
+            "Bread"
+        ],
+        "correctAnswer": "A grape"
+    },
+    {
+        "question": "Which one is a vegetable? / Cái nào là một loại rau?",
+        "options": [
+            "A tomato",
+            "An apple",
+            "A banana",
+            "An orange"
+        ],
+        "correctAnswer": "A tomato"
+    },
+    {
+        "question": "Food that was picked recently is ____. / Thức ăn được hái gần đây thì ____.",
+        "options": [
+            "fresh",
+            "old",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "fresh"
+    },
+    {
+        "question": "Spell the word for the place you buy things. / Đánh vần từ chỉ nơi bạn mua đồ.",
+        "options": [
+            "m-a-r-k-e-t",
+            "s-c-h-o-o-l",
+            "h-o-u-s-e",
+            "p-a-r-k"
+        ],
+        "correctAnswer": "m-a-r-k-e-t"
+    },
+    {
+        "question": "What color is a banana? / Quả chuối có màu gì?",
+        "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+        ],
+        "correctAnswer": "Yellow"
+    },
+    {
+        "question": "What color is an apple? / Quả táo có màu gì?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Purple"
+        ],
+        "correctAnswer": "Red"
+    },
+    {
+        "question": "To give money for something is to ____ it. / Đưa tiền để lấy một thứ gì đó là ____ nó.",
+        "options": [
+            "buy",
+            "sell",
+            "eat",
+            "look"
+        ],
+        "correctAnswer": "buy"
+    },
+    {
+        "question": "To get money for something is to ____ it. / Nhận tiền cho một thứ gì đó là ____ nó.",
+        "options": [
+            "sell",
+            "buy",
+            "want",
+            "like"
+        ],
+        "correctAnswer": "sell"
+    },
+    {
+        "question": "Spell the word for the yellow fruit. / Đánh vần từ chỉ loại quả màu vàng.",
+        "options": [
+            "b-a-n-a-n-a",
+            "a-p-p-l-e",
+            "o-r-a-n-g-e",
+            "c-a-r-r-o-t"
+        ],
+        "correctAnswer": "b-a-n-a-n-a"
+    },
+    {
+        "question": "A market is often ____ with people. / Một khu chợ thường ____ người.",
+        "options": [
+            "busy",
+            "empty",
+            "quiet",
+            "sad"
+        ],
+        "correctAnswer": "busy"
+    },
+    {
+        "question": "What is the opposite of 'buy'? / Từ trái nghĩa của 'buy' là gì?",
+        "options": [
+            "Sell",
+            "Give",
+            "Take",
+            "Eat"
+        ],
+        "correctAnswer": "Sell"
+    },
+    {
+        "question": "You can put fruit in a ____ to carry it. / Bạn có thể đặt trái cây vào ____ để mang nó đi.",
+        "options": [
+            "basket",
+            "hat",
+            "shoe",
+            "pocket"
+        ],
+        "correctAnswer": "basket"
+    },
+    {
+        "question": "What is the opposite of 'fresh'? / Từ trái nghĩa của 'fresh' là gì?",
+        "options": [
+            "Old",
+            "New",
+            "Good",
+            "Happy"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "Spell the word for the red fruit. / Đánh vần từ chỉ loại quả màu đỏ.",
+        "options": [
+            "a-p-p-l-e",
+            "b-a-n-a-n-a",
+            "c-a-r-r-o-t",
+            "o-r-a-n-g-e"
+        ],
+        "correctAnswer": "a-p-p-l-e"
+    },
+    {
+        "question": "What do you do with food? / Bạn làm gì với thức ăn?",
+        "options": [
+            "Eat",
+            "Wear",
+            "Read",
+            "Play"
+        ],
+        "correctAnswer": "Eat"
+    },
+    {
+        "question": "A small shop in a market is a ____. / Một cửa hàng nhỏ trong chợ là một ____.",
+        "options": [
+            "stall",
+            "house",
+            "room",
+            "car"
+        ],
+        "correctAnswer": "stall"
+    },
+    {
+        "question": "What is the opposite of 'sweet'? / Từ trái nghĩa của 'sweet' là gì?",
+        "options": [
+            "Sour",
+            "Salty",
+            "Bitter",
+            "Spicy"
+        ],
+        "correctAnswer": "Sour"
+    },
+    {
+        "question": "A lemon is often ____. / Một quả chanh thường ____.",
+        "options": [
+            "sour",
+            "sweet",
+            "salty",
+            "fresh"
+        ],
+        "correctAnswer": "sour"
+    },
+    {
+        "question": "Spell the word for what you use to buy things. / Đánh vần từ chỉ thứ bạn dùng để mua đồ.",
+        "options": [
+            "m-o-n-e-y",
+            "c-a-n-d-y",
+            "b-r-e-a-d",
+            "f-r-u-i-t"
+        ],
+        "correctAnswer": "m-o-n-e-y"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Tall",
+            "Wide"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "Grapes are ____ fruits. / Nho là những loại quả ____.",
+        "options": [
+            "small",
+            "big",
+            "long",
+            "tall"
+        ],
+        "correctAnswer": "small"
+    },
+    {
+        "question": "What color is a carrot? / Cà rốt có màu gì?",
+        "options": [
+            "Orange",
+            "Purple",
+            "Blue",
+            "White"
+        ],
+        "correctAnswer": "Orange"
+    },
+    {
+        "question": "What is the opposite of 'seller'? / Từ trái nghĩa của 'seller' là gì?",
+        "options": [
+            "Buyer",
+            "Friend",
+            "Teacher",
+            "Doctor"
+        ],
+        "correctAnswer": "Buyer"
+    },
+    {
+        "question": "Spell the word for the orange vegetable. / Đánh vần từ chỉ loại rau màu cam.",
+        "options": [
+            "c-a-r-r-o-t",
+            "p-o-t-a-t-o",
+            "t-o-m-a-t-o",
+            "b-a-n-a-n-a"
+        ],
+        "correctAnswer": "c-a-r-r-o-t"
+    },
+    {
+        "question": "A market is a good place to ____ fresh food. / Chợ là một nơi tốt để ____ thực phẩm tươi.",
+        "options": [
+            "find",
+            "lose",
+            "read",
+            "sleep"
+        ],
+        "correctAnswer": "find"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "Big"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ types of fruit at the market. / Có ____ loại trái cây ở chợ.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "Spell the word for a sweet food. / Đánh vần từ chỉ một món ăn ngọt.",
+        "options": [
+            "c-a-n-d-y",
+            "s-a-l-t-y",
+            "s-o-u-r",
+            "b-r-e-a-d"
+        ],
+        "correctAnswer": "c-a-n-d-y"
+    },
+    {
+        "question": "What is the opposite of 'healthy'? / Từ trái nghĩa của 'healthy' là gì?",
+        "options": [
+            "Unhealthy",
+            "Happy",
+            "Strong",
+            "Good"
+        ],
+        "correctAnswer": "Unhealthy"
+    },
+    {
+        "question": "Fruit is a ____ snack. / Trái cây là một món ăn vặt ____.",
+        "options": [
+            "healthy",
+            "unhealthy",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "healthy"
+    },
+    {
+        "question": "What color can grapes be? / Nho có thể có màu gì?",
+        "options": [
+            "Green or purple",
+            "Blue or orange",
+            "Yellow or red",
+            "Black or white"
+        ],
+        "correctAnswer": "Green or purple"
+    },
+    {
+        "question": "What is the opposite of 'cheap'? / Từ trái nghĩa của 'cheap' là gì?",
+        "options": [
+            "Expensive",
+            "Free",
+            "Good",
+            "New"
+        ],
+        "correctAnswer": "Expensive"
+    },
+    {
+        "question": "Candy can be ____ if you eat too much. / Kẹo có thể ____ nếu bạn ăn quá nhiều.",
+        "options": [
+            "unhealthy",
+            "healthy",
+            "good",
+            "fresh"
+        ],
+        "correctAnswer": "unhealthy"
+    },
+    {
+        "question": "Spell the word for the action of giving money for goods. / Đánh vần từ chỉ hành động đưa tiền để lấy hàng hóa.",
+        "options": [
+            "b-u-y",
+            "s-e-l-l",
+            "g-i-v-e",
+            "t-a-k-e"
+        ],
+        "correctAnswer": "b-u-y"
+    },
+    {
+        "question": "What is the opposite of 'heavy'? / Từ trái nghĩa của 'heavy' là gì?",
+        "options": [
+            "Light",
+            "Big",
+            "Hard",
+            "Strong"
+        ],
+        "correctAnswer": "Light"
+    },
+    {
+        "question": "A basket of apples can be ____. / Một giỏ táo có thể ____.",
+        "options": [
+            "heavy",
+            "light",
+            "small",
+            "sour"
+        ],
+        "correctAnswer": "heavy"
+    },
+    {
+        "question": "What is the opposite of 'ripe'? / Từ trái nghĩa của 'ripe' là gì?",
+        "options": [
+            "Unripe",
+            "Fresh",
+            "Old",
+            "Sweet"
+        ],
+        "correctAnswer": "Unripe"
+    },
+    {
+        "question": "A green banana is ____. / Một quả chuối xanh thì ____.",
+        "options": [
+            "unripe",
+            "ripe",
+            "sweet",
+            "old"
+        ],
+        "correctAnswer": "unripe"
+    },
+    {
+        "question": "Spell the word for the food you eat in the morning. / Đánh vần từ chỉ món ăn bạn ăn vào buổi sáng.",
+        "options": [
+            "b-r-e-a-d",
+            "c-a-n-d-y",
+            "f-i-s-h",
+            "r-i-c-e"
+        ],
+        "correctAnswer": "b-r-e-a-d"
+    },
+    {
+        "question": "What is the opposite of 'inside'? / Từ trái nghĩa của 'inside' là gì?",
+        "options": [
+            "Outside",
+            "On",
+            "Under",
+            "Near"
+        ],
+        "correctAnswer": "Outside"
+    },
+    {
+        "question": "A street market is ____. / Chợ đường phố ở ____.",
+        "options": [
+            "outside",
+            "inside",
+            "in a school",
+            "in a house"
+        ],
+        "correctAnswer": "outside"
+    },
+    {
+        "question": "What is the opposite of 'morning'? / Từ trái nghĩa của 'morning' là gì?",
+        "options": [
+            "Evening",
+            "Day",
+            "Night",
+            "Afternoon"
+        ],
+        "correctAnswer": "Evening"
+    },
+    {
+        "question": "People go to the market in the ____. / Mọi người đi chợ vào ____.",
+        "options": [
+            "morning",
+            "night",
+            "evening",
+            "midnight"
+        ],
+        "correctAnswer": "morning"
+    },
+    {
+        "question": "Spell the word for a round, orange fruit. / Đánh vần từ chỉ một loại quả tròn, màu cam.",
+        "options": [
+            "o-r-a-n-g-e",
+            "a-p-p-l-e",
+            "b-a-n-a-n-a",
+            "l-e-m-o-n"
+        ],
+        "correctAnswer": "o-r-a-n-g-e"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "The seller is ____ when you buy something. / Người bán hàng ____ khi bạn mua một thứ gì đó.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "tired"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Buy",
+            "Sell",
+            "Have"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You ____ money to the seller. / Bạn ____ tiền cho người bán.",
+        "options": [
+            "give",
+            "take",
+            "eat",
+            "look"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "Spell the word for a small, round fruit that grows in bunches. / Đánh vần từ chỉ một loại quả nhỏ, tròn, mọc thành chùm.",
+        "options": [
+            "g-r-a-p-e",
+            "a-p-p-l-e",
+            "p-e-a-r",
+            "p-l-u-m"
+        ],
+        "correctAnswer": "g-r-a-p-e"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Want",
+            "Need"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ fresh fruit. / Tôi ____ trái cây tươi.",
+        "options": [
+            "love",
+            "hate",
+            "sell",
+            "make"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The fresh vegetables look ____. / Rau củ tươi trông ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for a red vegetable often used in salads. / Đánh vần từ chỉ một loại rau màu đỏ thường dùng trong salad.",
+        "options": [
+            "t-o-m-a-t-o",
+            "c-a-r-r-o-t",
+            "p-o-t-a-t-o",
+            "b-e-e-t"
+        ],
+        "correctAnswer": "t-o-m-a-t-o"
+    },
+    {
+        "question": "What is the opposite of 'hot'? / Từ trái nghĩa của 'hot' là gì?",
+        "options": [
+            "Cold",
+            "Warm",
 
+            "Cool",
+            "Spicy"
+        ],
+        "correctAnswer": "Cold"
+    },
+    {
+        "question": "In summer, you might want a ____ drink at the market. / Vào mùa hè, bạn có thể muốn một thức uống ____ ở chợ.",
+        "options": [
+            "cold",
+            "hot",
+            "old",
+            "sad"
+        ],
+        "correctAnswer": "cold"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Big",
+            "Hard",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "The smell of fresh bread is ____. / Mùi bánh mì tươi thì ____.",
+        "options": [
+            "strong",
+            "weak",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "Spell the word for a yellow, sour fruit. / Đánh vần từ chỉ một loại quả màu vàng, có vị chua.",
+        "options": [
+            "l-e-m-o-n",
+            "b-a-n-a-n-a",
+            "o-r-a-n-g-e",
+            "p-e-a-r"
+        ],
+        "correctAnswer": "l-e-m-o-n"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Rapid",
+            "Speedy"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "The line at the busy stall moves ____. / Hàng người ở quầy hàng đông đúc di chuyển ____.",
+        "options": [
+            "slowly",
+            "fast",
+            "happily",
+            "sadly"
+        ],
+        "correctAnswer": "slowly"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Fresh"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "You should wash the fruit to make it ____. / Bạn nên rửa trái cây để làm cho nó ____.",
+        "options": [
+            "clean",
+            "dirty",
+            "old",
+            "sour"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "Spell the word for a brown vegetable that grows underground. / Đánh vần từ chỉ một loại rau màu nâu mọc dưới lòng đất.",
+        "options": [
+            "p-o-t-a-t-o",
+            "c-a-r-r-o-t",
+            "o-n-i-o-n",
+            "g-a-r-l-i-c"
+        ],
+        "correctAnswer": "p-o-t-a-t-o"
+    },
+    {
+        "question": "What is the opposite of 'right'? (correct) / Từ trái nghĩa của 'right' là gì? (đúng)",
+        "options": [
+            "Wrong",
+            "Left",
+            "Good",
+            "Bad"
+        ],
+        "correctAnswer": "Wrong"
+    },
+    {
+        "question": "It is ____ to eat unhealthy food all the time. / ____ khi ăn thực phẩm không lành mạnh mọi lúc.",
+        "options": [
+            "wrong",
+            "right",
+            "good",
+            "happy"
+        ],
+        "correctAnswer": "wrong"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Happy"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "Old fruit can taste ____. / Trái cây cũ có thể có vị ____.",
+        "options": [
+            "bad",
+            "good",
+            "fresh",
+            "yummy"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Spell the word for a container you carry things in. / Đánh vần từ chỉ một vật chứa bạn dùng để mang đồ.",
+        "options": [
+            "b-a-s-k-e-t",
+            "b-o-x",
+            "b-a-g",
+            "p-o-c-k-e-t"
+        ],
+        "correctAnswer": "b-a-s-k-e-t"
+    },
+    {
+        "question": "What is the opposite of 'empty'? / Từ trái nghĩa của 'empty' là gì?",
+        "options": [
+            "Full",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Full"
+    },
+    {
+        "question": "My shopping basket is ____. / Giỏ hàng của tôi ____.",
+        "options": [
+            "full",
+            "empty",
+            "sad",
+            "fast"
+        ],
+        "correctAnswer": "full"
+    },
+    {
+        "question": "What is the opposite of 'light'? (color) / Từ trái nghĩa của 'light' là gì? (màu sắc)",
+        "options": [
+            "Dark",
+            "Bright",
+            "White",
+            "Yellow"
+        ],
+        "correctAnswer": "Dark"
+    },
+    {
+        "question": "Some grapes are light green, and some are ____ purple. / Một số quả nho có màu xanh nhạt, và một số có màu tím ____.",
+        "options": [
+            "dark",
+            "light",
+            "happy",
+            "sad"
+        ],
+        "correctAnswer": "dark"
+    },
+    {
+        "question": "Spell the word for the people who buy things. / Đánh vần từ chỉ những người mua hàng.",
+        "options": [
+            "c-u-s-t-o-m-e-r-s",
+            "s-e-l-l-e-r-s",
+            "t-e-a-c-h-e-r-s",
+            "f-r-i-e-n-d-s"
+        ],
+        "correctAnswer": "c-u-s-t-o-m-e-r-s"
+    }
+]
