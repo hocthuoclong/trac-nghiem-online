@@ -1,483 +1,962 @@
 [
-  {
-    "question": "What does your father do? / Bố của bạn làm nghề gì?",
-    "options": ["He's a doctor.", "He's tall.", "He's at home.", "His name is Nam."],
-    "correctAnswer": "He's a doctor."
-  },
-  {
-    "question": "My mother is a ____. She helps sick people. / Mẹ tôi là một ____. Bà ấy giúp đỡ người bệnh.",
-    "options": ["nurse", "teacher", "farmer", "driver"],
-    "correctAnswer": "nurse"
-  },
-  {
-    "question": "A ____ works in a school. / Một ____ làm việc trong một trường học.",
-    "options": ["teacher", "doctor", "farmer", "worker"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "This is a ____. He grows vegetables. / Đây là một ____. Ông ấy trồng rau.",
-    "options": ["farmer", "doctor", "teacher", "driver"],
-    "correctAnswer": "farmer"
-  },
-  {
-    "question": "Spell the word: j-o-b / Đánh vần từ: j-o-b",
-    "options": ["job", "joy", "jog", "jar"],
-    "correctAnswer": "job"
-  },
-  {
-    "question": "A ____ works in a factory. / Một ____ làm việc trong một nhà máy.",
-    "options": ["worker", "farmer", "doctor", "teacher"],
-    "correctAnswer": "worker"
-  },
-  {
-    "question": "What does your mother do? / Mẹ của bạn làm nghề gì?",
-    "options": ["She's a teacher.", "She is beautiful.", "She is at home.", "Her name is Hoa."],
-    "correctAnswer": "She's a teacher."
-  },
-  {
-    "question": "Find the word: d-o-c-t-o-r / Tìm từ: d-o-c-t-o-r",
-    "options": ["doctor", "dollar", "door", "dark"],
-    "correctAnswer": "doctor"
-  },
-  {
-    "question": "Is your father a policeman? / Bố của bạn có phải là cảnh sát không?",
-    "options": ["Yes, he is.", "No, he isn't.", "He is my father.", "I have a father."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "My uncle is a ____. He drives a taxi. / Chú tôi là một ____. Chú ấy lái xe taxi.",
-    "options": ["driver", "doctor", "teacher", "farmer"],
-    "correctAnswer": "driver"
-  },
-  {
-    "question": "Where does a doctor work? / Bác sĩ làm việc ở đâu?",
-    "options": ["In a hospital", "In a school", "On a farm", "In a factory"],
-    "correctAnswer": "In a hospital"
-  },
-  {
-    "question": "I want to be a ____ when I grow up. / Tớ muốn trở thành một ____ khi tớ lớn lên.",
-    "options": ["singer", "doctor", "teacher", "farmer"],
-    "correctAnswer": "singer"
-  },
-  {
-    "question": "What is the missing letter": "jo_",
-    "options": ["b", "p", "t", "d"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "This is a ____. He puts out fires. / Đây là một ____. Anh ấy dập tắt các đám cháy.",
-    "options": ["firefighter", "policeman", "doctor", "teacher"],
-    "correctAnswer": "firefighter"
-  },
-  {
-    "question": "My aunt is a ____. She sings songs. / Dì tôi là một ____. Dì ấy hát các bài hát.",
-    "options": ["singer", "dancer", "teacher", "doctor"],
-    "correctAnswer": "singer"
-  },
-  {
-    "question": "Let's talk about ____. / Hãy nói về ____.",
-    "options": ["jobs", "books", "pencils", "chairs"],
-    "correctAnswer": "jobs"
-  },
-  {
-    "question": "Spell the word: n-u-r-s-e / Đánh vần từ: n-u-r-s-e",
-    "options": ["nurse", "purse", "curse", "verse"],
-    "correctAnswer": "nurse"
-  },
-  {
-    "question": "Is she a farmer? / Cô ấy có phải là một nông dân không?",
-    "options": ["No, she is a singer.", "Yes, she is.", "She is my mother.", "I can see a farmer."],
-    "correctAnswer": "No, she is a singer."
-  },
-  {
-    "question": "I am a ____. I go to school. / Tôi là một ____. Tôi đi học.",
-    "options": ["pupil", "teacher", "doctor", "farmer"],
-    "correctAnswer": "pupil"
-  },
-  {
-    "question": "What is the missing letter": "_armer / Chữ cái còn thiếu là gì? _armer",
-    "options": ["f", "p", "b", "c"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "These are different ____. / Đây là những ____ khác nhau.",
-    "options": ["jobs", "toys", "books", "pets"],
-    "correctAnswer": "jobs"
-  },
-  {
-    "question": "How many jobs can you name? / Bạn có thể kể tên bao nhiêu nghề nghiệp?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "This is a ____. He helps people. / Đây là một ____. Anh ấy giúp đỡ mọi người.",
-    "options": ["policeman", "doctor", "teacher", "farmer"],
-    "correctAnswer": "policeman"
-  },
-  {
-    "question": "Spell the word: d-r-i-v-e-r / Đánh vần từ: d-r-i-v-e-r",
-    "options": ["driver", "river", "drive", "diver"],
-    "correctAnswer": "driver"
-  },
-  {
-    "question": "Is it an interesting job? / Nó có phải là một công việc thú vị không?",
-    "options": ["Yes, it is.", "No, it is boring.", "It is a job.", "I can see a doctor."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ on the street. / Chúng ta có thể thấy một ____ trên đường phố.",
-    "options": ["policeman", "teacher", "farmer", "doctor"],
-    "correctAnswer": "policeman"
-  },
-  {
-    "question": "What is the missing letter": "docto_",
-    "options": ["r", "t", "d", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A hospital", "A school", "A farm", "A factory"],
-    "correctAnswer": "A hospital"
-  },
-  {
-    "question": "This is a ____. A teacher works here. / Đây là một ____. Một giáo viên làm việc ở đây.",
-    "options": ["school", "hospital", "farm", "factory"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "This is ____. It's an important job. / Đây là ____. Đó là một công việc quan trọng.",
-    "options": ["a doctor", "a singer", "a dancer", "an actor"],
-    "correctAnswer": "a doctor"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A farmer", "A doctor", "A teacher", "A driver"],
-    "correctAnswer": "A farmer"
-  },
-  {
-    "question": "Find the word: w-o-r-k-e-r / Tìm từ: w-o-r-k-e-r",
-    "options": ["worker", "work", "world", "worry"],
-    "correctAnswer": "worker"
-  },
-  {
-    "question": "Is your mother a singer? / Mẹ của bạn có phải là ca sĩ không?",
-    "options": ["No, she is a nurse.", "Yes, she is.", "I am a singer.", "I like singers."],
-    "correctAnswer": "No, she is a nurse."
-  },
-  {
-    "question": "My ____ is a policeman. / ____ của tôi là một cảnh sát.",
-    "options": ["father", "mother", "sister", "brother"],
-    "correctAnswer": "father"
-  },
-  {
-    "question": "What is the missing letter": "singe_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["job", "book", "lesson", "game"],
-    "correctAnswer": "job"
-  },
-  {
-    "question": "Spell the word: p-u-p-i-l / Đánh vần từ: p-u-p-i-l",
-    "options": ["pupil", "purple", "puppy", "people"],
-    "correctAnswer": "pupil"
-  },
-  {
-    "question": "Is this a picture of a firefighter? / Đây có phải là một bức ảnh của một lính cứu hỏa không?",
-    "options": ["Yes, it is.", "No, it is a policeman.", "I can see a firefighter.", "I like firefighters."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The factory has many ____. / Nhà máy có nhiều ____.",
-    "options": ["workers", "teachers", "doctors", "farmers"],
-    "correctAnswer": "workers"
-  },
-  {
-    "question": "What is the missing letter": "_actory / Chữ cái còn thiếu là gì? _actory",
-    "options": ["f", "p", "b", "c"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A teacher", "A student", "A doctor", "A farmer"],
-    "correctAnswer": "A teacher"
-  },
-  {
-    "question": "My ____ is kind. / ____ của tôi tốt bụng.",
-    "options": ["teacher", "doctor", "farmer", "driver"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "Is the farmer busy? / Người nông dân có bận không?",
-    "options": ["Yes, he is.", "No, he is free.", "It is a farmer.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "I can see a doctor and a ____. / Tôi có thể thấy một bác sĩ và một ____.",
-    "options": ["nurse", "house", "car", "book"],
-    "correctAnswer": "nurse"
-  },
-  {
-    "question": "Find the word: t-e-a-c-h-e-r / Tìm từ: t-e-a-c-h-e-r",
-    "options": ["teacher", "reacher", "bleacher", "peacher"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "This is my ____. He is very brave. / Đây là ____ của tôi. Anh ấy rất dũng cảm.",
-    "options": ["father", "brother", "uncle", "grandfather"],
-    "correctAnswer": "father"
-  },
-  {
-    "question": "What is the missing letter": "drive_",
-    "options": ["r", "k", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Is it a good job? / Nó có phải là một công việc tốt không?",
-    "options": ["Yes, it is.", "No, it is bad.", "I like jobs.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["job", "homework", "class", "test"],
-    "correctAnswer": "job"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A pilot", "A driver", "A captain", "A sailor"],
-    "correctAnswer": "A pilot"
-  },
-  {
-    "question": "What does a pilot do? / Một phi công làm gì?",
-    "options": ["He flies a plane.", "He drives a car.", "He sails a boat.", "He rides a bike."],
-    "correctAnswer": "He flies a plane."
-  },
-  {
-    "question": "A job is something you do to earn ____. / Một công việc là thứ bạn làm để kiếm ____.",
-    "options": ["money", "friends", "toys", "books"],
-    "correctAnswer": "money"
-  },
-  {
-    "question": "I want to be ____ artist. / Tôi muốn trở thành ____ nghệ sĩ.",
-    "options": ["an", "a", "many", "some"],
-    "correctAnswer": "an"
-  },
-  {
-    "question": "What does a farmer grow? / Một người nông dân trồng gì?",
-    "options": ["Rice and vegetables", "Cars and buses", "Houses and buildings", "Books and pens"],
-    "correctAnswer": "Rice and vegetables"
-  },
-  {
-    "question": "What does a singer do? / Một ca sĩ làm gì?",
-    "options": ["She sings songs.", "She dances.", "She draws pictures.", "She writes stories."],
-    "correctAnswer": "She sings songs."
-  },
-  {
-    "question": "The doctor is ____. / Bác sĩ thì ____.",
-    "options": ["helping", "playing", "sleeping", "eating"],
-    "correctAnswer": "helping"
-  },
-  {
-    "question": "The teacher is ____. / Giáo viên thì ____.",
-    "options": ["teaching", "singing", "dancing", "drawing"],
-    "correctAnswer": "teaching"
-  },
-  {
-    "question": "Is your job difficult? / Công việc của bạn có khó không?",
-    "options": ["No, it is easy.", "Yes, it is.", "Yes", "No"],
-    "correctAnswer": "No, it is easy."
-  },
-  {
-    "question": "My job is ____. / Công việc của tôi thì ____.",
-    "options": ["important", "boring", "busy", "crowded"],
-    "correctAnswer": "important"
-  },
-  {
-    "question": "What is the missing letter": "importan_",
-    "options": ["t", "d", "k", "p"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["policeman", "firefighter", "doctor", "teacher"],
-    "correctAnswer": "policeman"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["job", "dog", "cat", "bird"],
-    "correctAnswer": "job"
-  },
-  {
-    "question": "Is the nurse kind? / Y tá có tốt bụng không?",
-    "options": ["Yes, she is.", "No, she is not.", "She is a nurse.", "Hello."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "Let's learn about different ____. / Hãy học về các ____ khác nhau.",
-    "options": ["jobs", "friends", "pets", "books"],
-    "correctAnswer": "jobs"
-  },
-  {
-    "question": "Spell the word: w-o-r-k / Đánh vần từ: w-o-r-k",
-    "options": ["work", "word", "world", "worm"],
-    "correctAnswer": "work"
-  },
-  {
-    "question": "I have ____ important job. / Tôi có ____ công việc quan trọng.",
-    "options": ["an", "a", "one", "two"],
-    "correctAnswer": "an"
-  },
-  {
-    "question": "My favorite job is being a ____. / Công việc yêu thích của tôi là làm một ____.",
-    "options": ["teacher", "doctor", "farmer", "singer"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "What is the missing letter": "teache_",
-    "options": ["r", "a", "i", "o"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is ____. He builds houses. / Đây là ____. Ông ấy xây nhà.",
-    "options": ["a builder", "a baker", "a butcher", "a barber"],
-    "correctAnswer": "a builder"
-  },
-  {
-    "question": "We should respect all ____. / Chúng ta nên tôn trọng tất cả ____.",
-    "options": ["jobs", "people", "animals", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Is it a dangerous job? (firefighter) / Nó có phải là một công việc nguy hiểm không? (lính cứu hỏa)",
-    "options": ["Yes, it is.", "No, it is safe.", "I like firefighters.", "The firefighter is brave."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: b-r-a-v-e / Đánh vần từ: b-r-a-v-e",
-    "options": ["brave", "grave", "wave", "save"],
-    "correctAnswer": "brave"
-  },
-  {
-    "question": "I help my father at his ____. / Tôi giúp bố tôi tại ____ của ông ấy.",
-    "options": ["workplace", "school", "home", "park"],
-    "correctAnswer": "workplace"
-  },
-  {
-    "question": "The driver is driving a ____. / Người tài xế đang lái một ____.",
-    "options": ["bus", "car", "truck", "van"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "What is the missing letter": "bu_",
-    "options": ["s", "p", "t", "d"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A police station", "A hospital", "A school", "A fire station"],
-    "correctAnswer": "A police station"
-  },
-  {
-    "question": "My ____ is full of tools. / ____ của tôi đầy dụng cụ.",
-    "options": ["father's workshop", "desk", "bag", "box"],
-    "correctAnswer": "father's workshop"
-  },
-  {
-    "question": "Is it a picture of a farmer? / Nó có phải là một bức tranh về một người nông dân không?",
-    "options": ["Yes, it is.", "No, it is a worker.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend wants to be a ____. / Bạn tôi muốn trở thành một ____.",
-    "options": ["dentist", "doctor", "nurse", "teacher"],
-    "correctAnswer": "dentist"
-  },
-  {
-    "question": "Spell the word: d-e-n-t-i-s-t / Đánh vần từ: d-e-n-t-i-s-t",
-    "options": ["dentist", "artist", "scientist", "tourist"],
-    "correctAnswer": "dentist"
-  },
-  {
-    "question": "This is a ____ day to work. / Đây là một ngày ____ để làm việc.",
-    "options": ["good", "rainy", "cloudy", "windy"],
-    "correctAnswer": "good"
-  },
-  {
-    "question": "What is the missing letter": "_ood / Chữ cái còn thiếu là gì? _ood",
-    "options": ["g", "h", "w", "f"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A fire station", "A police station", "A hospital", "A school"],
-    "correctAnswer": "A fire station"
-  },
-  {
-    "question": "My mother is a ____. She works with books. / Mẹ tôi là một ____. Bà ấy làm việc với sách.",
-    "options": ["librarian", "teacher", "author", "editor"],
-    "correctAnswer": "librarian"
-  },
-  {
-    "question": "Are the workers busy? / Các công nhân có bận không?",
-    "options": ["Yes, they are.", "No, they are free.", "They are workers.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My school has many ____. / Trường tôi có nhiều ____.",
-    "options": ["teachers", "doctors", "farmers", "pilots"],
-    "correctAnswer": "teachers"
-  },
-  {
-    "question": "Spell the word: p-i-l-o-t / Đánh vần từ: p-i-l-o-t",
-    "options": ["pilot", "pirate", "pivot", "pillow"],
-    "correctAnswer": "pilot"
-  },
-  {
-    "question": "I am ____ about my future job. / Tôi ____ về công việc tương lai của mình.",
-    "options": ["thinking", "playing", "sleeping", "eating"],
-    "correctAnswer": "thinking"
-  },
-  {
-    "question": "What is the missing letter": "thinkin_",
-    "options": ["g", "s", "t", "p"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["An artist", "A singer", "A dancer", "An actor"],
-    "correctAnswer": "An artist"
-  },
-  {
-    "question": "My job is my favorite ____. / Công việc là ____ yêu thích của tôi.",
-    "options": ["thing to do", "food", "colour", "toy"],
-    "correctAnswer": "thing to do"
-  },
-  {
-    "question": "Is the hospital big? / Bệnh viện có lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a hospital.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The factory makes ____. / Nhà máy làm ____.",
-    "options": ["cars", "food", "clothes", "toys"],
-    "correctAnswer": "cars"
-  },
-  {
-    "question": "Spell the word: f-a-c-t-o-r-y / Đánh vần từ: f-a-c-t-o-r-y",
-    "options": ["factory", "factor", "faculty", "fact"],
-    "correctAnswer": "factory"
-  },
-  {
-    "question": "We see many ____ in the city. / Chúng tôi thấy nhiều ____ trong thành phố.",
-    "options": ["people", "animals", "trees", "flowers"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "What is the missing letter": "peopl_",
-    "options": ["e", "s", "t", "p"],
-    "correctAnswer": "e"
-  }
+    {
+        "question": "What does your father do? / Bố của bạn làm nghề gì?",
+        "options": [
+            "He's a doctor.",
+            "He's tall.",
+            "He's at home.",
+            "His name is Nam."
+        ],
+        "correctAnswer": "He's a doctor."
+    },
+    {
+        "question": "My mother is a ____. She helps sick people. / Mẹ tôi là một ____. Bà ấy giúp đỡ người bệnh.",
+        "options": [
+            "nurse",
+            "teacher",
+            "farmer",
+            "driver"
+        ],
+        "correctAnswer": "nurse"
+    },
+    {
+        "question": "A ____ works in a school. / Một ____ làm việc trong một trường học.",
+        "options": [
+            "teacher",
+            "doctor",
+            "farmer",
+            "worker"
+        ],
+        "correctAnswer": "teacher"
+    },
+    {
+        "question": "This is a ____. He grows vegetables. / Đây là một ____. Ông ấy trồng rau.",
+        "options": [
+            "farmer",
+            "doctor",
+            "teacher",
+            "driver"
+        ],
+        "correctAnswer": "farmer"
+    },
+    {
+        "question": "Spell the word: j-o-b / Đánh vần từ: j-o-b",
+        "options": [
+            "job",
+            "joy",
+            "jog",
+            "jar"
+        ],
+        "correctAnswer": "job"
+    },
+    {
+        "question": "A ____ works in a factory. / Một ____ làm việc trong một nhà máy.",
+        "options": [
+            "worker",
+            "farmer",
+            "doctor",
+            "teacher"
+        ],
+        "correctAnswer": "worker"
+    },
+    {
+        "question": "What does your mother do? / Mẹ của bạn làm nghề gì?",
+        "options": [
+            "She's a teacher.",
+            "She is beautiful.",
+            "She is at home.",
+            "Her name is Hoa."
+        ],
+        "correctAnswer": "She's a teacher."
+    },
+    {
+        "question": "Find the word: d-o-c-t-o-r / Tìm từ: d-o-c-t-o-r",
+        "options": [
+            "doctor",
+            "dollar",
+            "door",
+            "dark"
+        ],
+        "correctAnswer": "doctor"
+    },
+    {
+        "question": "Is your father a policeman? / Bố của bạn có phải là cảnh sát không?",
+        "options": [
+            "Yes, he is.",
+            "No, he isn't.",
+            "He is my father.",
+            "I have a father."
+        ],
+        "correctAnswer": "Yes, he is."
+    },
+    {
+        "question": "My uncle is a ____. He drives a taxi. / Chú tôi là một ____. Chú ấy lái xe taxi.",
+        "options": [
+            "driver",
+            "doctor",
+            "teacher",
+            "farmer"
+        ],
+        "correctAnswer": "driver"
+    },
+    {
+        "question": "Where does a doctor work? / Bác sĩ làm việc ở đâu?",
+        "options": [
+            "In a hospital",
+            "In a school",
+            "On a farm",
+            "In a factory"
+        ],
+        "correctAnswer": "In a hospital"
+    },
+    {
+        "question": "I want to be a ____ when I grow up. / Tớ muốn trở thành một ____ khi tớ lớn lên.",
+        "options": [
+            "singer",
+            "doctor",
+            "teacher",
+            "farmer"
+        ],
+        "correctAnswer": "singer"
+    },
+    {
+        "question": "What is the missing letter: jo_",
+        "options": [
+            "b",
+            "p",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "b"
+    },
+    {
+        "question": "This is a ____. He puts out fires. / Đây là một ____. Anh ấy dập tắt các đám cháy.",
+        "options": [
+            "firefighter",
+            "policeman",
+            "doctor",
+            "teacher"
+        ],
+        "correctAnswer": "firefighter"
+    },
+    {
+        "question": "My aunt is a ____. She sings songs. / Dì tôi là một ____. Dì ấy hát các bài hát.",
+        "options": [
+            "singer",
+            "dancer",
+            "teacher",
+            "doctor"
+        ],
+        "correctAnswer": "singer"
+    },
+    {
+        "question": "Let's talk about ____. / Hãy nói về ____.",
+        "options": [
+            "jobs",
+            "books",
+            "pencils",
+            "chairs"
+        ],
+        "correctAnswer": "jobs"
+    },
+    {
+        "question": "Spell the word: n-u-r-s-e / Đánh vần từ: n-u-r-s-e",
+        "options": [
+            "nurse",
+            "purse",
+            "curse",
+            "verse"
+        ],
+        "correctAnswer": "nurse"
+    },
+    {
+        "question": "Is she a farmer? / Cô ấy có phải là một nông dân không?",
+        "options": [
+            "No, she is a singer.",
+            "Yes, she is.",
+            "She is my mother.",
+            "I can see a farmer."
+        ],
+        "correctAnswer": "No, she is a singer."
+    },
+    {
+        "question": "I am a ____. I go to school. / Tôi là một ____. Tôi đi học.",
+        "options": [
+            "pupil",
+            "teacher",
+            "doctor",
+            "farmer"
+        ],
+        "correctAnswer": "pupil"
+    },
+    {
+        "question": "What is the missing letter: _armer / Chữ cái còn thiếu là gì? _armer",
+        "options": [
+            "f",
+            "p",
+            "b",
+            "c"
+        ],
+        "correctAnswer": "f"
+    },
+    {
+        "question": "These are different ____. / Đây là những ____ khác nhau.",
+        "options": [
+            "jobs",
+            "toys",
+            "books",
+            "pets"
+        ],
+        "correctAnswer": "jobs"
+    },
+    {
+        "question": "How many jobs can you name? / Bạn có thể kể tên bao nhiêu nghề nghiệp?",
+        "options": [
+            "Many",
+            "One",
+            "Two",
+            "Three"
+        ],
+        "correctAnswer": "Many"
+    },
+    {
+        "question": "This is a ____. He helps people. / Đây là một ____. Anh ấy giúp đỡ mọi người.",
+        "options": [
+            "policeman",
+            "doctor",
+            "teacher",
+            "farmer"
+        ],
+        "correctAnswer": "policeman"
+    },
+    {
+        "question": "Spell the word: d-r-i-v-e-r / Đánh vần từ: d-r-i-v-e-r",
+        "options": [
+            "driver",
+            "river",
+            "drive",
+            "diver"
+        ],
+        "correctAnswer": "driver"
+    },
+    {
+        "question": "Is it an interesting job? / Nó có phải là một công việc thú vị không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is boring.",
+            "It is a job.",
+            "I can see a doctor."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "We can see a ____ on the street. / Chúng ta có thể thấy một ____ trên đường phố.",
+        "options": [
+            "policeman",
+            "teacher",
+            "farmer",
+            "doctor"
+        ],
+        "correctAnswer": "policeman"
+    },
+    {
+        "question": "What is the missing letter: docto_",
+        "options": [
+            "r",
+            "t",
+            "d",
+            "p"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A hospital",
+            "A school",
+            "A farm",
+            "A factory"
+        ],
+        "correctAnswer": "A hospital"
+    },
+    {
+        "question": "This is a ____. A teacher works here. / Đây là một ____. Một giáo viên làm việc ở đây.",
+        "options": [
+            "school",
+            "hospital",
+            "farm",
+            "factory"
+        ],
+        "correctAnswer": "school"
+    },
+    {
+        "question": "This is ____. It's an important job. / Đây là ____. Đó là một công việc quan trọng.",
+        "options": [
+            "a doctor",
+            "a singer",
+            "a dancer",
+            "an actor"
+        ],
+        "correctAnswer": "a doctor"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A farmer",
+            "A doctor",
+            "A teacher",
+            "A driver"
+        ],
+        "correctAnswer": "A farmer"
+    },
+    {
+        "question": "Find the word: w-o-r-k-e-r / Tìm từ: w-o-r-k-e-r",
+        "options": [
+            "worker",
+            "work",
+            "world",
+            "worry"
+        ],
+        "correctAnswer": "worker"
+    },
+    {
+        "question": "Is your mother a singer? / Mẹ của bạn có phải là ca sĩ không?",
+        "options": [
+            "No, she is a nurse.",
+            "Yes, she is.",
+            "I am a singer.",
+            "I like singers."
+        ],
+        "correctAnswer": "No, she is a nurse."
+    },
+    {
+        "question": "My ____ is a policeman. / ____ của tôi là một cảnh sát.",
+        "options": [
+            "father",
+            "mother",
+            "sister",
+            "brother"
+        ],
+        "correctAnswer": "father"
+    },
+    {
+        "question": "What is the missing letter: singe_",
+        "options": [
+            "r",
+            "n",
+            "m",
+            "p"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+        "options": [
+            "job",
+            "book",
+            "lesson",
+            "game"
+        ],
+        "correctAnswer": "job"
+    },
+    {
+        "question": "Spell the word: p-u-p-i-l / Đánh vần từ: p-u-p-i-l",
+        "options": [
+            "pupil",
+            "purple",
+            "puppy",
+            "people"
+        ],
+        "correctAnswer": "pupil"
+    },
+    {
+        "question": "Is this a picture of a firefighter? / Đây có phải là một bức ảnh của một lính cứu hỏa không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is a policeman.",
+            "I can see a firefighter.",
+            "I like firefighters."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The factory has many ____. / Nhà máy có nhiều ____.",
+        "options": [
+            "workers",
+            "teachers",
+            "doctors",
+            "farmers"
+        ],
+        "correctAnswer": "workers"
+    },
+    {
+        "question": "What is the missing letter: _actory / Chữ cái còn thiếu là gì? _actory",
+        "options": [
+            "f",
+            "p",
+            "b",
+            "c"
+        ],
+        "correctAnswer": "f"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A teacher",
+            "A student",
+            "A doctor",
+            "A farmer"
+        ],
+        "correctAnswer": "A teacher"
+    },
+    {
+        "question": "My ____ is kind. / ____ của tôi tốt bụng.",
+        "options": [
+            "teacher",
+            "doctor",
+            "farmer",
+            "driver"
+        ],
+        "correctAnswer": "teacher"
+    },
+    {
+        "question": "Is the farmer busy? / Người nông dân có bận không?",
+        "options": [
+            "Yes, he is.",
+            "No, he is free.",
+            "It is a farmer.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, he is."
+    },
+    {
+        "question": "I can see a doctor and a ____. / Tôi có thể thấy một bác sĩ và một ____.",
+        "options": [
+            "nurse",
+            "house",
+            "car",
+            "book"
+        ],
+        "correctAnswer": "nurse"
+    },
+    {
+        "question": "Find the word: t-e-a-c-h-e-r / Tìm từ: t-e-a-c-h-e-r",
+        "options": [
+            "teacher",
+            "reacher",
+            "bleacher",
+            "peacher"
+        ],
+        "correctAnswer": "teacher"
+    },
+    {
+        "question": "This is my ____. He is very brave. / Đây là ____ của tôi. Anh ấy rất dũng cảm.",
+        "options": [
+            "father",
+            "brother",
+            "uncle",
+            "grandfather"
+        ],
+        "correctAnswer": "father"
+    },
+    {
+        "question": "What is the missing letter: drive_",
+        "options": [
+            "r",
+            "k",
+            "p",
+            "t"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "Is it a good job? / Nó có phải là một công việc tốt không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is bad.",
+            "I like jobs.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is fun. / ____ của tôi rất vui.",
+        "options": [
+            "job",
+            "homework",
+            "class",
+            "test"
+        ],
+        "correctAnswer": "job"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A pilot",
+            "A driver",
+            "A captain",
+            "A sailor"
+        ],
+        "correctAnswer": "A pilot"
+    },
+    {
+        "question": "What does a pilot do? / Một phi công làm gì?",
+        "options": [
+            "He flies a plane.",
+            "He drives a car.",
+            "He sails a boat.",
+            "He rides a bike."
+        ],
+        "correctAnswer": "He flies a plane."
+    },
+    {
+        "question": "A job is something you do to earn ____. / Một công việc là thứ bạn làm để kiếm ____.",
+        "options": [
+            "money",
+            "friends",
+            "toys",
+            "books"
+        ],
+        "correctAnswer": "money"
+    },
+    {
+        "question": "I want to be ____ artist. / Tôi muốn trở thành ____ nghệ sĩ.",
+        "options": [
+            "an",
+            "a",
+            "many",
+            "some"
+        ],
+        "correctAnswer": "an"
+    },
+    {
+        "question": "What does a farmer grow? / Một người nông dân trồng gì?",
+        "options": [
+            "Rice and vegetables",
+            "Cars and buses",
+            "Houses and buildings",
+            "Books and pens"
+        ],
+        "correctAnswer": "Rice and vegetables"
+    },
+    {
+        "question": "What does a singer do? / Một ca sĩ làm gì?",
+        "options": [
+            "She sings songs.",
+            "She dances.",
+            "She draws pictures.",
+            "She writes stories."
+        ],
+        "correctAnswer": "She sings songs."
+    },
+    {
+        "question": "The doctor is ____. / Bác sĩ thì ____.",
+        "options": [
+            "helping",
+            "playing",
+            "sleeping",
+            "eating"
+        ],
+        "correctAnswer": "helping"
+    },
+    {
+        "question": "The teacher is ____. / Giáo viên thì ____.",
+        "options": [
+            "teaching",
+            "singing",
+            "dancing",
+            "drawing"
+        ],
+        "correctAnswer": "teaching"
+    },
+    {
+        "question": "Is your job difficult? / Công việc của bạn có khó không?",
+        "options": [
+            "No, it is easy.",
+            "Yes, it is.",
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": "No, it is easy."
+    },
+    {
+        "question": "My job is ____. / Công việc của tôi thì ____.",
+        "options": [
+            "important",
+            "boring",
+            "busy",
+            "crowded"
+        ],
+        "correctAnswer": "important"
+    },
+    {
+        "question": "What is the missing letter: importan_",
+        "options": [
+            "t",
+            "d",
+            "k",
+            "p"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "This is a ____. / Đây là một ____.",
+        "options": [
+            "policeman",
+            "firefighter",
+            "doctor",
+            "teacher"
+        ],
+        "correctAnswer": "policeman"
+    },
+    {
+        "question": "I love my ____. / Tôi yêu ____ của tôi.",
+        "options": [
+            "job",
+            "dog",
+            "cat",
+            "bird"
+        ],
+        "correctAnswer": "job"
+    },
+    {
+        "question": "Is the nurse kind? / Y tá có tốt bụng không?",
+        "options": [
+            "Yes, she is.",
+            "No, she is not.",
+            "She is a nurse.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, she is."
+    },
+    {
+        "question": "Let's learn about different ____. / Hãy học về các ____ khác nhau.",
+        "options": [
+            "jobs",
+            "friends",
+            "pets",
+            "books"
+        ],
+        "correctAnswer": "jobs"
+    },
+    {
+        "question": "Spell the word: w-o-r-k / Đánh vần từ: w-o-r-k",
+        "options": [
+            "work",
+            "word",
+            "world",
+            "worm"
+        ],
+        "correctAnswer": "work"
+    },
+    {
+        "question": "I have ____ important job. / Tôi có ____ công việc quan trọng.",
+        "options": [
+            "an",
+            "a",
+            "one",
+            "two"
+        ],
+        "correctAnswer": "an"
+    },
+    {
+        "question": "My favorite job is being a ____. / Công việc yêu thích của tôi là làm một ____.",
+        "options": [
+            "teacher",
+            "doctor",
+            "farmer",
+            "singer"
+        ],
+        "correctAnswer": "teacher"
+    },
+    {
+        "question": "What is the missing letter: teache_",
+        "options": [
+            "r",
+            "a",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "This is ____. He builds houses. / Đây là ____. Ông ấy xây nhà.",
+        "options": [
+            "a builder",
+            "a baker",
+            "a butcher",
+            "a barber"
+        ],
+        "correctAnswer": "a builder"
+    },
+    {
+        "question": "We should respect all ____. / Chúng ta nên tôn trọng tất cả ____.",
+        "options": [
+            "jobs",
+            "people",
+            "animals",
+            "all are correct"
+        ],
+        "correctAnswer": "all are correct"
+    },
+    {
+        "question": "Is it a dangerous job? (firefighter) / Nó có phải là một công việc nguy hiểm không? (lính cứu hỏa)",
+        "options": [
+            "Yes, it is.",
+            "No, it is safe.",
+            "I like firefighters.",
+            "The firefighter is brave."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Spell the word: b-r-a-v-e / Đánh vần từ: b-r-a-v-e",
+        "options": [
+            "brave",
+            "grave",
+            "wave",
+            "save"
+        ],
+        "correctAnswer": "brave"
+    },
+    {
+        "question": "I help my father at his ____. / Tôi giúp bố tôi tại ____ của ông ấy.",
+        "options": [
+            "workplace",
+            "school",
+            "home",
+            "park"
+        ],
+        "correctAnswer": "workplace"
+    },
+    {
+        "question": "The driver is driving a ____. / Người tài xế đang lái một ____.",
+        "options": [
+            "bus",
+            "car",
+            "truck",
+            "van"
+        ],
+        "correctAnswer": "bus"
+    },
+    {
+        "question": "What is the missing letter: bu_",
+        "options": [
+            "s",
+            "p",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "s"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A police station",
+            "A hospital",
+            "A school",
+            "A fire station"
+        ],
+        "correctAnswer": "A police station"
+    },
+    {
+        "question": "My ____ is full of tools. / ____ của tôi đầy dụng cụ.",
+        "options": [
+            "father's workshop",
+            "desk",
+            "bag",
+            "box"
+        ],
+        "correctAnswer": "father's workshop"
+    },
+    {
+        "question": "Is it a picture of a farmer? / Nó có phải là một bức tranh về một người nông dân không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is a worker.",
+            "I see a picture.",
+            "The picture is nice."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My friend wants to be a ____. / Bạn tôi muốn trở thành một ____.",
+        "options": [
+            "dentist",
+            "doctor",
+            "nurse",
+            "teacher"
+        ],
+        "correctAnswer": "dentist"
+    },
+    {
+        "question": "Spell the word: d-e-n-t-i-s-t / Đánh vần từ: d-e-n-t-i-s-t",
+        "options": [
+            "dentist",
+            "artist",
+            "scientist",
+            "tourist"
+        ],
+        "correctAnswer": "dentist"
+    },
+    {
+        "question": "This is a ____ day to work. / Đây là một ngày ____ để làm việc.",
+        "options": [
+            "good",
+            "rainy",
+            "cloudy",
+            "windy"
+        ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "What is the missing letter: _ood / Chữ cái còn thiếu là gì? _ood",
+        "options": [
+            "g",
+            "h",
+            "w",
+            "f"
+        ],
+        "correctAnswer": "g"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A fire station",
+            "A police station",
+            "A hospital",
+            "A school"
+        ],
+        "correctAnswer": "A fire station"
+    },
+    {
+        "question": "My mother is a ____. She works with books. / Mẹ tôi là một ____. Bà ấy làm việc với sách.",
+        "options": [
+            "librarian",
+            "teacher",
+            "author",
+            "editor"
+        ],
+        "correctAnswer": "librarian"
+    },
+    {
+        "question": "Are the workers busy? / Các công nhân có bận không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are free.",
+            "They are workers.",
+            "I am happy."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "My school has many ____. / Trường tôi có nhiều ____.",
+        "options": [
+            "teachers",
+            "doctors",
+            "farmers",
+            "pilots"
+        ],
+        "correctAnswer": "teachers"
+    },
+    {
+        "question": "Spell the word: p-i-l-o-t / Đánh vần từ: p-i-l-o-t",
+        "options": [
+            "pilot",
+            "pirate",
+            "pivot",
+            "pillow"
+        ],
+        "correctAnswer": "pilot"
+    },
+    {
+        "question": "I am ____ about my future job. / Tôi ____ về công việc tương lai của mình.",
+        "options": [
+            "thinking",
+            "playing",
+            "sleeping",
+            "eating"
+        ],
+        "correctAnswer": "thinking"
+    },
+    {
+        "question": "What is the missing letter: thinkin_",
+        "options": [
+            "g",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "g"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "An artist",
+            "A singer",
+            "A dancer",
+            "An actor"
+        ],
+        "correctAnswer": "An artist"
+    },
+    {
+        "question": "My job is my favorite ____. / Công việc là ____ yêu thích của tôi.",
+        "options": [
+            "thing to do",
+            "food",
+            "colour",
+            "toy"
+        ],
+        "correctAnswer": "thing to do"
+    },
+    {
+        "question": "Is the hospital big? / Bệnh viện có lớn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is small.",
+            "It is a hospital.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The factory makes ____. / Nhà máy làm ____.",
+        "options": [
+            "cars",
+            "food",
+            "clothes",
+            "toys"
+        ],
+        "correctAnswer": "cars"
+    },
+    {
+        "question": "Spell the word: f-a-c-t-o-r-y / Đánh vần từ: f-a-c-t-o-r-y",
+        "options": [
+            "factory",
+            "factor",
+            "faculty",
+            "fact"
+        ],
+        "correctAnswer": "factory"
+    },
+    {
+        "question": "We see many ____ in the city. / Chúng tôi thấy nhiều ____ trong thành phố.",
+        "options": [
+            "people",
+            "animals",
+            "trees",
+            "flowers"
+        ],
+        "correctAnswer": "people"
+    },
+    {
+        "question": "What is the missing letter: peopl_",
+        "options": [
+            "e",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "e"
+    }
 ]
-
