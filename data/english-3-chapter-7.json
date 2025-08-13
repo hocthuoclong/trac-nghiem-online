@@ -1,482 +1,202 @@
 [
-  {
-    "question": "____ your book, please. / Vui lòng ____ sách của bạn.",
-    "options": ["Open", "Close", "Read", "Write"],
-    "correctAnswer": "Open"
-  },
-  {
-    "question": "Sit ____, please. / Vui lòng ngồi ____.",
-    "options": ["down", "up", "in", "out"],
-    "correctAnswer": "down"
-  },
-  {
-    "question": "____ up, please. / Vui lòng ____ dậy.",
-    "options": ["Stand", "Sit", "Come", "Go"],
-    "correctAnswer": "Stand"
-  },
-  {
-    "question": "Be ____, please. The teacher is talking. / Vui lòng ____. Cô giáo đang nói.",
-    "options": ["quiet", "loud", "happy", "sad"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Spell the word: o-p-e-n / Đánh vần từ: o-p-e-n",
-    "options": ["open", "pen", "on", "pin"],
-    "correctAnswer": "open"
-  },
-  {
-    "question": "____ your book, please. The lesson is over. / Vui lòng ____ sách của bạn. Buổi học đã kết thúc.",
-    "options": ["Close", "Open", "Read", "Write"],
-    "correctAnswer": "Close"
-  },
-  {
-    "question": "May I ____ in? / Em có thể ____ vào không ạ?",
-    "options": ["come", "go", "sit", "stand"],
-    "correctAnswer": "come"
-  },
-  {
-    "question": "Find the word: s-i-t / Tìm từ: s-i-t",
-    "options": ["sit", "set", "six", "sin"],
-    "correctAnswer": "sit"
-  },
-  {
-    "question": "Don't ____. / Đừng ____.",
-    "options": ["talk", "listen", "read", "write"],
-    "correctAnswer": "talk"
-  },
-  {
-    "question": "May I ____ out? / Em có thể ____ ngoài không ạ?",
-    "options": ["go", "come", "sit", "stand"],
-    "correctAnswer": "go"
-  },
-  {
-    "question": "What does 'Open your book' mean? / 'Open your book' có nghĩa là gì?",
-    "options": ["Mở sách của bạn ra.", "Đóng sách của bạn lại.", "Đọc sách của bạn.", "Viết vào sách của bạn."],
-    "correctAnswer": "Mở sách của bạn ra."
-  },
-  {
-    "question": "I want to ____ a question. / Em muốn ____ một câu hỏi.",
-    "options": ["ask", "answer", "read", "write"],
-    "correctAnswer": "ask"
-  },
-  {
-    "question": "What is the missing letter? quie_",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["classroom", "playground", "library", "gym"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "My teacher says, '____ down.' / Cô giáo của tôi nói, '____ xuống.'",
-    "options": ["Sit", "Stand", "Come", "Go"],
-    "correctAnswer": "Sit"
-  },
-  {
-    "question": "Let's ____ to the board. / Hãy ____ lên bảng.",
-    "options": ["look", "listen", "point", "go"],
-    "correctAnswer": "look"
-  },
-  {
-    "question": "Spell the word: c-l-o-s-e / Đánh vần từ: c-l-o-s-e",
-    "options": ["close", "class", "rose", "chose"],
-    "correctAnswer": "close"
-  },
-  {
-    "question": "Is this a command? 'Stand up.' / Đây có phải là một mệnh lệnh không? 'Stand up.'",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a question.", "It is an answer."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am ____ to the teacher. / Tôi đang ____ cô giáo.",
-    "options": ["listening", "talking", "playing", "eating"],
-    "correctAnswer": "listening"
-  },
-  {
-    "question": "What is the missing letter? _tand / Chữ cái còn thiếu là gì? _tand",
-    "options": ["S", "P", "B", "D"],
-    "correctAnswer": "S"
-  },
-  {
-    "question": "These are ____. / Đây là những ____.",
-    "options": ["instructions", "questions", "answers", "stories"],
-    "correctAnswer": "instructions"
-  },
-  {
-    "question": "How do you ask to come in? / Bạn hỏi để vào trong như thế nào?",
-    "options": ["May I come in?", "May I go out?", "Sit down.", "Stand up."],
-    "correctAnswer": "May I come in?"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["book", "pen", "pencil", "ruler"],
-    "correctAnswer": "book"
-  },
-  {
-    "question": "Spell the word: t-a-l-k / Đánh vần từ: t-a-l-k",
-    "options": ["talk", "take", "tall", "task"],
-    "correctAnswer": "talk"
-  },
-  {
-    "question": "Is it quiet in the library? / Trong thư viện có yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "It is a library.", "I can see books."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We should ____ our hands. / Chúng ta nên ____ tay.",
-    "options": ["raise", "clap", "wave", "touch"],
-    "correctAnswer": "raise"
-  },
-  {
-    "question": "What is the missing letter? ope_",
-    "options": ["n", "t", "d", "p"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A pen", "A pencil", "An eraser", "A ruler"],
-    "correctAnswer": "A pen"
-  },
-  {
-    "question": "This is a ____. You follow it. / Đây là một ____. Bạn làm theo nó.",
-    "options": ["rule", "game", "song", "story"],
-    "correctAnswer": "rule"
-  },
-  {
-    "question": "This is ____. It's important in class. / Đây là ____. Nó quan trọng trong lớp học.",
-    "options": ["listening", "talking", "playing", "sleeping"],
-    "correctAnswer": "listening"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A board", "A desk", "A chair", "A table"],
-    "correctAnswer": "A board"
-  },
-  {
-    "question": "Find the word: l-i-s-t-e-n / Tìm từ: l-i-s-t-e-n",
-    "options": ["listen", "letter", "little", "lesson"],
-    "correctAnswer": "listen"
-  },
-  {
-    "question": "Is the teacher happy? / Cô giáo có vui không?",
-    "options": ["Yes, she is.", "No, she is angry.", "I am in the class.", "I like my teacher."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "My ____ is open. / ____ của tôi đang mở.",
-    "options": ["book", "bag", "pencil case", "notebook"],
-    "correctAnswer": "book"
-  },
-  {
-    "question": "What is the missing letter? clos_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is an important ____. / Đây là một ____ quan trọng.",
-    "options": ["instruction", "book", "lesson", "game"],
-    "correctAnswer": "instruction"
-  },
-  {
-    "question": "Spell the word: r-a-i-s-e / Đánh vần từ: r-a-i-s-e",
-    "options": ["raise", "race", "rose", "rain"],
-    "correctAnswer": "raise"
-  },
-  {
-    "question": "Is this a new lesson? / Đây có phải là một bài học mới không?",
-    "options": ["Yes, it is.", "No, it is old.", "I can see a lesson.", "I like lessons."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The classroom has many ____. / Lớp học có nhiều ____.",
-    "options": ["students", "teachers", "boards", "desks"],
-    "correctAnswer": "students"
-  },
-  {
-    "question": "What is the missing letter? _uiet / Chữ cái còn thiếu là gì? _uiet",
-    "options": ["q", "p", "b", "c"],
-    "correctAnswer": "q"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A hand", "A finger", "An arm", "An elbow"],
-    "correctAnswer": "A hand"
-  },
-  {
-    "question": "My ____ is on the desk. / ____ của tôi ở trên bàn.",
-    "options": ["notebook", "computer", "map", "poster"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "Is the student listening? / Học sinh có đang lắng nghe không?",
-    "options": ["Yes, he is.", "No, he is talking.", "It is a student.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "I can see a teacher and some ____. / Tôi có thể thấy một cô giáo và một vài ____.",
-    "options": ["pupils", "houses", "cars", "books"],
-    "correctAnswer": "pupils"
-  },
-  {
-    "question": "Find the word: p-u-p-i-l / Tìm từ: p-u-p-i-l",
-    "options": ["pupil", "purple", "puppy", "people"],
-    "correctAnswer": "pupil"
-  },
-  {
-    "question": "This is my ____. I learn here. / Đây là ____ của tôi. Tôi học ở đây.",
-    "options": ["classroom", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "What is the missing letter": "liste_",
-    "options": ["n", "k", "p", "t"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "Is it a good instruction? / Nó có phải là một chỉ dẫn tốt không?",
-    "options": ["Yes, it is.", "No, it is bad.", "I like instructions.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["lesson", "homework", "class", "test"],
-    "correctAnswer": "lesson"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A question", "An answer", "A command", "A story"],
-    "correctAnswer": "A command"
-  },
-  {
-    "question": "What does 'Sit down' mean? / 'Sit down' có nghĩa là gì?",
-    "options": ["Ngồi xuống.", "Đứng lên.", "Mở sách ra.", "Đóng sách lại."],
-    "correctAnswer": "Ngồi xuống."
-  },
-  {
-    "question": "A classroom is a place for ____. / Một lớp học là một nơi để ____.",
-    "options": ["learning", "playing", "sleeping", "working"],
-    "correctAnswer": "learning"
-  },
-  {
-    "question": "I ____ the teacher's instructions. / Tôi ____ chỉ dẫn của cô giáo.",
-    "options": ["follow", "ignore", "forget", "break"],
-    "correctAnswer": "follow"
-  },
-  {
-    "question": "What is the teacher doing? / Cô giáo đang làm gì?",
-    "options": ["Teaching", "Playing", "Singing", "Dancing"],
-    "correctAnswer": "Teaching"
-  },
-  {
-    "question": "What are the students doing? / Các bạn học sinh đang làm gì?",
-    "options": ["Writing", "Reading", "Listening", "All are correct"],
-    "correctAnswer": "All are correct"
-  },
-  {
-    "question": "The teacher is ____. / Cô giáo thì ____.",
-    "options": ["speaking", "shouting", "whispering", "singing"],
-    "correctAnswer": "speaking"
-  },
-  {
-    "question": "The students are ____. / Các bạn học sinh thì ____.",
-    "options": ["quiet", "noisy", "sad", "bad"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Is your classroom tidy? / Lớp học của bạn có gọn gàng không?",
-    "options": ["Yes, it is.", "No, it is messy.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My lesson today is ____. / Bài học của tôi hôm nay thì ____.",
-    "options": ["easy", "difficult", "boring", "long"],
-    "correctAnswer": "easy"
-  },
-  {
-    "question": "What is the missing letter? ea_y / Chữ cái còn thiếu là gì? ea_y",
-    "options": ["s", "t", "d", "k"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["command", "question", "answer", "story"],
-    "correctAnswer": "command"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["teacher", "dog", "cat", "bird"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "Is the student talking? / Học sinh có đang nói chuyện không?",
-    "options": ["No, he is listening.", "Yes, he is.", "It is a student.", "Hello."],
-    "correctAnswer": "No, he is listening."
-  },
-  {
-    "question": "Let's ____ our hands. / Hãy ____ tay của chúng ta.",
-    "options": ["raise", "clap", "wave", "wash"],
-    "correctAnswer": "raise"
-  },
-  {
-    "question": "Spell the word: a-s-k / Đánh vần từ: a-s-k",
-    "options": ["ask", "ash", "act", "and"],
-    "correctAnswer": "ask"
-  },
-  {
-    "question": "I have ____ question. / Tôi có ____ câu hỏi.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite instruction is ____. / Mệnh lệnh yêu thích của tôi là ____.",
-    "options": ["'Good job!'", "'Sit down.'", "'Be quiet.'", "'Open your book.'"],
-    "correctAnswer": "'Good job!'"
-  },
-  {
-    "question": "What is the missing letter? goo_",
-    "options": ["d", "a", "i", "o"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is ____. The teacher points with it. / Đây là ____. Cô giáo chỉ bằng nó.",
-    "options": ["a pointer", "a ruler", "a pencil", "a pen"],
-    "correctAnswer": "a pointer"
-  },
-  {
-    "question": "We should be ____ in class. / Chúng ta nên ____ trong lớp.",
-    "options": ["attentive", "sleepy", "bored", "noisy"],
-    "correctAnswer": "attentive"
-  },
-  {
-    "question": "Is it an English class? / Nó có phải là một lớp học tiếng Anh không?",
-    "options": ["Yes, it is.", "No, it is Maths.", "I like English.", "The class is fun."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: p-o-i-n-t / Đánh vần từ: p-o-i-n-t",
-    "options": ["point", "paint", "print", "pant"],
-    "correctAnswer": "point"
-  },
-  {
-    "question": "I help my friend open his ____. / Tôi giúp bạn tôi mở ____ của cậu ấy.",
-    "options": ["book", "bag", "pencil case", "notebook"],
-    "correctAnswer": "book"
-  },
-  {
-    "question": "The teacher is ____ at the board. / Cô giáo đang ____ vào bảng.",
-    "options": ["pointing", "looking", "writing", "drawing"],
-    "correctAnswer": "pointing"
-  },
-  {
-    "question": "What is the missing letter? poin_er / Chữ cái còn thiếu là gì? poin_er",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A whiteboard", "A blackboard", "A smartboard", "A noticeboard"],
-    "correctAnswer": "A whiteboard"
-  },
-  {
-    "question": "My ____ is full of students. / ____ của tôi đầy học sinh.",
-    "options": ["classroom", "desk", "bag", "box"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Is it a picture of a teacher? / Nó có phải là một bức tranh về một giáo viên không?",
-    "options": ["Yes, it is.", "No, it is a student.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to ____ questions. / Bạn tôi thích ____ câu hỏi.",
-    "options": ["answer", "ask", "read", "write"],
-    "correctAnswer": "answer"
-  },
-  {
-    "question": "Spell the word: a-n-s-w-e-r / Đánh vần từ: a-n-s-w-e-r",
-    "options": ["answer", "angry", "another", "animal"],
-    "correctAnswer": "answer"
-  },
-  {
-    "question": "This is a ____ day to learn. / Đây là một ngày ____ để học.",
-    "options": ["good", "rainy", "cloudy", "windy"],
-    "correctAnswer": "good"
-  },
-  {
-    "question": "What is the missing letter? _ood / Chữ cái còn thiếu là gì? _ood",
-    "options": ["g", "h", "w", "f"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A school uniform", "A T-shirt", "A dress", "A coat"],
-    "correctAnswer": "A school uniform"
-  },
-  {
-    "question": "My teacher is ____. / Cô giáo của tôi thì ____.",
-    "options": ["patient", "tall", "short", "young"],
-    "correctAnswer": "patient"
-  },
-  {
-    "question": "Are the students working in pairs? / Các bạn học sinh có đang làm việc theo cặp không?",
-    "options": ["Yes, they are.", "No, they are working alone.", "They are students.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My class has a ____. / Lớp tôi có một ____.",
-    "options": ["projector", "TV", "radio", "phone"],
-    "correctAnswer": "projector"
-  },
-  {
-    "question": "Spell the word: p-a-i-r / Đánh vần từ: p-a-i-r",
-    "options": ["pair", "hair", "fair", "chair"],
-    "correctAnswer": "pair"
-  },
-  {
-    "question": "I am ____ in my class. / Tôi ____ trong lớp của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? quie_",
-    "options": ["t", "s", "p", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A duster", "A cloth", "A sponge", "A brush"],
-    "correctAnswer": "A duster"
-  },
-  {
-    "question": "My classroom is my favorite ____. / Lớp học là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the lesson long? / Bài học có dài không?",
-    "options": ["No, it is short.", "Yes, it is.", "It is a lesson.", "Hello."],
-    "correctAnswer": "No, it is short."
-  },
-  {
-    "question": "The class has a ____. / Lớp học có một ____.",
-    "options": ["timetable", "menu", "list", "book"],
-    "correctAnswer": "timetable"
-  },
-  {
-    "question": "Spell the word: t-i-m-e / Đánh vần từ: t-i-m-e",
-    "options": ["time", "tiny", "tie", "Tim"],
-    "correctAnswer": "time"
-  },
-  {
-    "question": "We follow the ____. / Chúng tôi làm theo ____.",
-    "options": ["instructions", "rules", "timetable", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "What is the missing letter? instructio_",
-    "options": ["n", "s", "t", "p"],
-    "correctAnswer": "n"
-  }
+    {
+        "question": "____ your book, please. / Vui lòng ____ sách của bạn.",
+        "options": [
+            "Open",
+            "Close",
+            "Read",
+            "Write"
+        ],
+        "correctAnswer": "Open"
+    },
+    {
+        "question": "Sit ____, please. / Vui lòng ngồi ____.",
+        "options": [
+            "down",
+            "up",
+            "in",
+            "out"
+        ],
+        "correctAnswer": "down"
+    },
+    {
+        "question": "____ up, please. / Vui lòng ____ dậy.",
+        "options": [
+            "Stand",
+            "Sit",
+            "Come",
+            "Go"
+        ],
+        "correctAnswer": "Stand"
+    },
+    {
+        "question": "Be ____, please. The teacher is talking. / Vui lòng ____. Cô giáo đang nói.",
+        "options": [
+            "quiet",
+            "loud",
+            "happy",
+            "sad"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "Spell the word: o-p-e-n / Đánh vần từ: o-p-e-n",
+        "options": [
+            "open",
+            "pen",
+            "on",
+            "pin"
+        ],
+        "correctAnswer": "open"
+    },
+    {
+        "question": "____ your book, please. The lesson is over. / Vui lòng ____ sách của bạn. Buổi học đã kết thúc.",
+        "options": [
+            "Close",
+            "Open",
+            "Read",
+            "Write"
+        ],
+        "correctAnswer": "Close"
+    },
+    {
+        "question": "May I ____ in? / Em có thể ____ vào không ạ?",
+        "options": [
+            "come",
+            "go",
+            "sit",
+            "stand"
+        ],
+        "correctAnswer": "come"
+    },
+    {
+        "question": "Find the word: s-i-t / Tìm từ: s-i-t",
+        "options": [
+            "sit",
+            "set",
+            "six",
+            "sin"
+        ],
+        "correctAnswer": "sit"
+    },
+    {
+        "question": "Don't ____. / Đừng ____.",
+        "options": [
+            "talk",
+            "listen",
+            "read",
+            "write"
+        ],
+        "correctAnswer": "talk"
+    },
+    {
+        "question": "May I ____ out? / Em có thể ____ ngoài không ạ?",
+        "options": [
+            "go",
+            "come",
+            "sit",
+            "stand"
+        ],
+        "correctAnswer": "go"
+    },
+    {
+        "question": "What does 'Open your book' mean? / 'Open your book' có nghĩa là gì?",
+        "options": [
+            "Mở sách của bạn ra.",
+            "Đóng sách của bạn lại.",
+            "Đọc sách của bạn.",
+            "Viết vào sách của bạn."
+        ],
+        "correctAnswer": "Mở sách của bạn ra."
+    },
+    {
+        "question": "I want to ____ a question. / Em muốn ____ một câu hỏi.",
+        "options": [
+            "ask",
+            "answer",
+            "read",
+            "write"
+        ],
+        "correctAnswer": "ask"
+    },
+    {
+        "question": "What is the missing letter? quie_",
+        "options": [
+            "t",
+            "p",
+            "d",
+            "k"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "This is a ____. / Đây là một ____.",
+        "options": [
+            "classroom",
+            "playground",
+            "library",
+            "gym"
+        ],
+        "correctAnswer": "classroom"
+    },
+    {
+        "question": "My teacher says, '____ down.' / Cô giáo của tôi nói, '____ xuống.'",
+        "options": [
+            "Sit",
+            "Stand",
+            "Come",
+            "Go"
+        ],
+        "correctAnswer": "Sit"
+    },
+    {
+        "question": "Let's ____ to the board. / Hãy ____ lên bảng.",
+        "options": [
+            "look",
+            "listen",
+            "point",
+            "go"
+        ],
+        "correctAnswer": "look"
+    },
+    {
+        "question": "Spell the word: c-l-o-s-e / Đánh vần từ: c-l-o-s-e",
+        "options": [
+            "close",
+            "class",
+            "rose",
+            "chose"
+        ],
+        "correctAnswer": "close"
+    },
+    {
+        "question": "Is this a command? 'Stand up.' / Đây có phải là một mệnh lệnh không? 'Stand up.'",
+        "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "It is a question.",
+            "It is an answer."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I am ____ to the teacher. / Tôi đang ____ cô giáo.",
+        "options": [
+            "listening",
+            "talking",
+            "playing",
+            "eating"
+        ],
+        "correctAnswer": "listening"
+    },
+    {
+        "question": "What is the missing letter? _tand / Chữ cái còn thiếu là gì? _tand",
+        "options": [
+            "S",
+            "P",
+            "B",
+            "D"
+        ],
+        "correctAnswer": "S"
+    }
 ]
