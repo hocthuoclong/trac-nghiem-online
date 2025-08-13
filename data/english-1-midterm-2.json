@@ -1,628 +1,402 @@
 [
   {
-    "question": "Unit 6: What is this? It says 'woof woof'.",
-    "options": ["A dog", "A cat", "A bird", "A fish"],
-    "correctAnswer": "A dog"
+    "question": "Unit 9: You buy things here. / Bạn mua đồ ở đây.",
+    "options": ["A shop", "A school", "A park", "A house"],
+    "correctAnswer": "A shop"
   },
   {
-    "question": "Unit 6: This is my ____. It says 'meow'.",
-    "options": ["cat", "dog", "bird", "fish"],
-    "correctAnswer": "cat"
+    "question": "Unit 9: This is a ____. You play with it. / Đây là một ____. Bạn chơi với nó.",
+    "options": ["toy", "book", "pen", "chair"],
+    "correctAnswer": "toy"
   },
   {
-    "question": "Unit 6: This animal lives in water.",
-    "options": ["A fish", "A bird", "A cat", "A dog"],
-    "correctAnswer": "A fish"
+    "question": "Unit 9: I want to buy a ____. It can fly. / Tôi muốn mua một ____. Nó có thể bay.",
+    "options": ["kite", "car", "doll", "ball"],
+    "correctAnswer": "kite"
   },
   {
-    "question": "Unit 6: This animal has long ears and likes carrots.",
-    "options": ["A rabbit", "A dog", "A cat", "A bird"],
-    "correctAnswer": "A rabbit"
+    "question": "Unit 9: This is a ____. It's a toy for girls. / Đây là một ____. Nó là đồ chơi cho các bạn gái.",
+    "options": ["doll", "robot", "car", "train"],
+    "correctAnswer": "doll"
   },
   {
-    "question": "Unit 6: Spell the word: d-o-g",
-    "options": ["dog", "cat", "dot", "dig"],
-    "correctAnswer": "dog"
+    "question": "Unit 9: Spell the word: s-h-o-p / Đánh vần từ: s-h-o-p",
+    "options": ["shop", "ship", "shoe", "show"],
+    "correctAnswer": "shop"
   },
   {
-    "question": "Unit 6: I like to play with my ____.",
-    "options": ["pet", "toy", "book", "friend"],
-    "correctAnswer": "pet"
+    "question": "Unit 9: This is a ____. It's a toy car. / Đây là một ____. Nó là một chiếc ô tô đồ chơi.",
+    "options": ["car", "bus", "train", "plane"],
+    "correctAnswer": "car"
   },
   {
-    "question": "Unit 6: Find the word: c-a-t",
-    "options": ["cat", "car", "can", "cap"],
-    "correctAnswer": "cat"
+    "question": "Unit 9: Find the word: t-o-y / Tìm từ: t-o-y",
+    "options": ["toy", "top", "ton", "tom"],
+    "correctAnswer": "toy"
   },
   {
-    "question": "Unit 6: Is this your dog?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a cat.", "I have a bird."],
-    "correctAnswer": "Yes, it is."
+    "question": "Unit 9: How much is the ball? / Quả bóng giá bao nhiêu?",
+    "options": ["It's 20,000 dong.", "It's red.", "I like balls.", "This is a ball."],
+    "correctAnswer": "It's 20,000 dong."
   },
   {
-    "question": "Unit 6: This is my ____. It can swim.",
-    "options": ["fish", "bird", "dog", "cat"],
+    "question": "Unit 9: Spell the word: d-o-l-l / Đánh vần từ: d-o-l-l",
+    "options": ["doll", "dull", "dill", "dole"],
+    "correctAnswer": "doll"
+  },
+  {
+    "question": "Unit 9: I have a blue ____. / Tôi có một ____ màu xanh.",
+    "options": ["robot", "doll", "apple", "book"],
+    "correctAnswer": "robot"
+  },
+  {
+    "question": "Unit 10: You can see many animals here. / Bạn có thể thấy nhiều động vật ở đây.",
+    "options": ["The zoo", "The shop", "The school", "The park"],
+    "correctAnswer": "The zoo"
+  },
+  {
+    "question": "Unit 10: This animal is very big and grey. / Con vật này rất to và màu xám.",
+    "options": ["An elephant", "A monkey", "A lion", "A tiger"],
+    "correctAnswer": "An elephant"
+  },
+  {
+    "question": "Unit 10: This animal likes bananas. / Con vật này thích chuối.",
+    "options": ["A monkey", "A tiger", "A bear", "A snake"],
+    "correctAnswer": "A monkey"
+  },
+  {
+    "question": "Unit 10: This animal is the 'king of the jungle'. / Con vật này là 'vua của rừng xanh'.",
+    "options": ["A lion", "An elephant", "A giraffe", "A monkey"],
+    "correctAnswer": "A lion"
+  },
+  {
+    "question": "Unit 10: Spell the word: z-o-o / Đánh vần từ: z-o-o",
+    "options": ["zoo", "zip", "zen", "zorro"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "Unit 10: This animal has black and white stripes. / Con vật này có sọc đen và trắng.",
+    "options": ["A zebra", "A tiger", "A lion", "A bear"],
+    "correctAnswer": "A zebra"
+  },
+  {
+    "question": "Unit 10: This animal is very tall and has a long neck. / Con vật này rất cao và có cổ dài.",
+    "options": ["A giraffe", "An elephant", "A rhino", "A hippo"],
+    "correctAnswer": "A giraffe"
+  },
+  {
+    "question": "Unit 10: Find the word: t-i-g-e-r / Tìm từ: t-i-g-e-r",
+    "options": ["tiger", "time", "tiny", "tire"],
+    "correctAnswer": "tiger"
+  },
+  {
+    "question": "Unit 10: What does the lion say? / Sư tử kêu như thế nào?",
+    "options": ["Roar!", "Moo!", "Oink!", "Baa!"],
+    "correctAnswer": "Roar!"
+  },
+  {
+    "question": "Unit 10: I can see a ____ at the zoo. / Tôi có thể thấy một ____ ở sở thú.",
+    "options": ["bear", "cat", "dog", "chicken"],
+    "correctAnswer": "bear"
+  },
+  {
+    "question": "Unit 11: You wait for a bus here. / Bạn đợi xe buýt ở đây.",
+    "options": ["At the bus stop", "At the train station", "At the airport", "At home"],
+    "correctAnswer": "At the bus stop"
+  },
+  {
+    "question": "Unit 11: This is a ____. It's big and yellow. / Đây là một ____. Nó to và màu vàng.",
+    "options": ["bus", "car", "bike", "boat"],
+    "correctAnswer": "bus"
+  },
+  {
+    "question": "Unit 11: A ____ has two wheels. / Một ____ có hai bánh xe.",
+    "options": ["bike", "car", "bus", "truck"],
+    "correctAnswer": "bike"
+  },
+  {
+    "question": "Unit 11: This is a ____. It flies in the sky. / Đây là một ____. Nó bay trên trời.",
+    "options": ["plane", "boat", "train", "car"],
+    "correctAnswer": "plane"
+  },
+  {
+    "question": "Unit 11: Spell the word: b-u-s / Đánh vần từ: b-u-s",
+    "options": ["bus", "buy", "but", "bug"],
+    "correctAnswer": "bus"
+  },
+  {
+    "question": "Unit 11: A ____ runs on tracks. / Một ____ chạy trên đường ray.",
+    "options": ["train", "car", "boat", "plane"],
+    "correctAnswer": "train"
+  },
+  {
+    "question": "Unit 11: How many people are at the bus stop? / Có bao nhiêu người ở trạm xe buýt?",
+    "options": ["Five", "Ten", "Two", "One"],
+    "correctAnswer": "Five"
+  },
+  {
+    "question": "Unit 11: Find the word: c-a-r / Tìm từ: c-a-r",
+    "options": ["car", "cat", "can", "cap"],
+    "correctAnswer": "car"
+  },
+  {
+    "question": "Unit 11: I go to school by ____. / Tôi đi học bằng ____.",
+    "options": ["bus", "foot", "plane", "boat"],
+    "correctAnswer": "bus"
+  },
+  {
+    "question": "Unit 11: A ____ sails on the water. / Một ____ đi trên mặt nước.",
+    "options": ["boat", "plane", "car", "bike"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "Unit 12: You can swim here. / Bạn có thể bơi ở đây.",
+    "options": ["A lake", "A mountain", "A forest", "A desert"],
+    "correctAnswer": "A lake"
+  },
+  {
+    "question": "Unit 12: What's the weather like? / Thời tiết như thế nào?",
+    "options": ["It's sunny.", "It's a lake.", "I can swim.", "I like the lake."],
+    "correctAnswer": "It's sunny."
+  },
+  {
+    "question": "Unit 12: I can see a ____ in the sky. / Tôi có thể thấy một ____ trên bầu trời.",
+    "options": ["cloud", "fish", "frog", "tree"],
+    "correctAnswer": "cloud"
+  },
+  {
+    "question": "Unit 12: This is a ____. It lives in the water. / Đây là một ____. Nó sống dưới nước.",
+    "options": ["fish", "bird", "cat", "dog"],
     "correctAnswer": "fish"
   },
   {
-    "question": "Unit 6: My ____ can fly.",
-    "options": ["bird", "fish", "dog", "cat"],
-    "correctAnswer": "bird"
+    "question": "Unit 12: Spell the word: l-a-k-e / Đánh vần từ: l-a-k-e",
+    "options": ["lake", "like", "late", "lane"],
+    "correctAnswer": "lake"
   },
   {
-    "question": "Unit 6: What is the missing letter? bir_",
-    "options": ["d", "k", "t", "p"],
-    "correctAnswer": "d"
+    "question": "Unit 12: When it's ____, you use an umbrella. / Khi trời ____, bạn dùng một chiếc ô.",
+    "options": ["rainy", "sunny", "windy", "cloudy"],
+    "correctAnswer": "rainy"
   },
   {
-    "question": "Unit 6: Spell the word: p-e-t",
-    "options": ["pet", "pen", "pot", "peg"],
-    "correctAnswer": "pet"
+    "question": "Unit 12: Find the word: s-u-n-n-y / Tìm từ: s-u-n-n-y",
+    "options": ["sunny", "funny", "bunny", "runny"],
+    "correctAnswer": "sunny"
   },
   {
-    "question": "Unit 6: My ____ is friendly.",
-    "options": ["dog", "cat", "bird", "fish"],
-    "correctAnswer": "dog"
+    "question": "Unit 12: Let's go for a ____. / Hãy đi ____.",
+    "options": ["picnic", "sleep", "work", "study"],
+    "correctAnswer": "picnic"
   },
   {
-    "question": "Unit 6: A bird lives in a ____.",
-    "options": ["cage", "tank", "house", "box"],
-    "correctAnswer": "cage"
+    "question": "Unit 12: The ____ is green. / ____ có màu xanh.",
+    "options": ["grass", "sky", "sun", "water"],
+    "correctAnswer": "grass"
   },
   {
-    "question": "Unit 6: A fish lives in a ____.",
-    "options": ["tank", "cage", "house", "box"],
-    "correctAnswer": "tank"
+    "question": "Unit 12: I wear a ____ when it's cold. / Tôi mặc một ____ khi trời lạnh.",
+    "options": ["coat", "hat", "shorts", "t-shirt"],
+    "correctAnswer": "coat"
   },
   {
-    "question": "Unit 7: What is this? It's where you live.",
-    "options": ["A house", "A school", "A shop", "A park"],
-    "correctAnswer": "A house"
+    "question": "Unit 13: You eat lunch here at school. / Bạn ăn trưa ở đây tại trường.",
+    "options": ["The canteen", "The classroom", "The library", "The playground"],
+    "correctAnswer": "The canteen"
   },
   {
-    "question": "Unit 7: This is the ____. You open it to go inside.",
-    "options": ["door", "window", "roof", "wall"],
-    "correctAnswer": "door"
+    "question": "Unit 13: I'm hungry. I want some ____. / Tôi đói. Tôi muốn một ít ____.",
+    "options": ["rice", "water", "books", "pencils"],
+    "correctAnswer": "rice"
   },
   {
-    "question": "Unit 7: You look through this to see outside.",
-    "options": ["A window", "A door", "A wall", "A floor"],
-    "correctAnswer": "A window"
-  },
-  {
-    "question": "Unit 7: This is the room where you sleep.",
-    "options": ["A bedroom", "A kitchen", "A bathroom", "A living room"],
-    "correctAnswer": "A bedroom"
-  },
-  {
-    "question": "Unit 7: Spell the word: h-o-u-s-e",
-    "options": ["house", "horse", "mouse", "blouse"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "Unit 7: This is the room where you cook food.",
-    "options": ["A kitchen", "A bedroom", "A living room", "A bathroom"],
-    "correctAnswer": "A kitchen"
-  },
-  {
-    "question": "Unit 7: The family watches TV in the ____.",
-    "options": ["living room", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "living room"
-  },
-  {
-    "question": "Unit 7: Find the word: d-o-o-r",
-    "options": ["door", "doll", "dog", "dot"],
-    "correctAnswer": "door"
-  },
-  {
-    "question": "Unit 7: Is this your house?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a school.", "I have a pet."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 7: My mom is in the ____.",
-    "options": ["kitchen", "bedroom", "living room", "bathroom"],
-    "correctAnswer": "kitchen"
-  },
-  {
-    "question": "Unit 7: What is the missing letter? windo_",
-    "options": ["w", "k", "t", "p"],
-    "correctAnswer": "w"
-  },
-  {
-    "question": "Unit 7: Spell the word: r-o-o-m",
-    "options": ["room", "roof", "root", "roam"],
-    "correctAnswer": "room"
-  },
-  {
-    "question": "Unit 7: I sleep in my ____.",
-    "options": ["bedroom", "kitchen", "living room", "bathroom"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Unit 7: My house has many ____.",
-    "options": ["windows", "doors", "rooms", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Unit 7: The living room has a ____.",
-    "options": ["sofa", "bed", "desk", "toilet"],
-    "correctAnswer": "sofa"
-  },
-  {
-    "question": "Unit 8: What is this? You wear it on your body.",
-    "options": ["A shirt", "A hat", "A shoe", "A sock"],
-    "correctAnswer": "A shirt"
-  },
-  {
-    "question": "Unit 8: This is a ____. A girl wears it.",
-    "options": ["dress", "shirt", "trousers", "shorts"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Unit 8: You wear these on your feet.",
-    "options": ["Shoes", "Socks", "Trousers", "Shorts"],
-    "correctAnswer": "Shoes"
-  },
-  {
-    "question": "Unit 8: These are ____. They are for your legs and are short.",
-    "options": ["shorts", "trousers", "dress", "shirt"],
-    "correctAnswer": "shorts"
-  },
-  {
-    "question": "Unit 8: Spell the word: s-h-i-r-t",
-    "options": ["shirt", "short", "skirt", "sheet"],
-    "correctAnswer": "shirt"
-  },
-  {
-    "question": "Unit 8: I am wearing a blue ____.",
-    "options": ["shirt", "dress", "hat", "shoe"],
-    "correctAnswer": "shirt"
-  },
-  {
-    "question": "Unit 8: Find the word: d-r-e-s-s",
-    "options": ["dress", "press", "stress", "chess"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Unit 8: Are these your shoes?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is a shirt.", "I have a dress."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "Unit 8: What are these? They are long pants.",
-    "options": ["Trousers", "Shorts", "Socks", "Shoes"],
-    "correctAnswer": "Trousers"
-  },
-  {
-    "question": "Unit 8: My sister is wearing a beautiful ____.",
-    "options": ["dress", "shirt", "shorts", "shoes"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Unit 8: What is the missing letter? sh_rt",
-    "options": ["i", "o", "a", "e"],
-    "correctAnswer": "i"
-  },
-  {
-    "question": "Unit 8: These are my ____.",
-    "options": ["clothes", "pets", "toys", "books"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "Unit 8: I wear ____ when it's hot.",
-    "options": ["shorts", "trousers", "a coat", "a sweater"],
-    "correctAnswer": "shorts"
-  },
-  {
-    "question": "Unit 8: My ____ are new.",
-    "options": ["shoes", "shirt", "dress", "hat"],
-    "correctAnswer": "shoes"
-  },
-  {
-    "question": "Unit 8: A pair of socks has ____ socks.",
-    "options": ["two", "one", "three", "four"],
-    "correctAnswer": "two"
-  },
-  {
-    "question": "Unit 9: What colour is an apple?",
-    "options": ["Red", "Blue", "Green", "Yellow"],
-    "correctAnswer": "Red"
-  },
-  {
-    "question": "Unit 9: The sky is ____.",
-    "options": ["blue", "red", "green", "yellow"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Unit 9: Grass is ____.",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "Unit 9: The sun is ____.",
-    "options": ["Yellow", "Blue", "Red", "Green"],
-    "correctAnswer": "Yellow"
-  },
-  {
-    "question": "Unit 9: Spell the word: r-e-d",
-    "options": ["red", "bed", "led", "fed"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "Unit 9: This is a ____ flower. It's for a girl.",
-    "options": ["pink", "blue", "black", "brown"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "Unit 9: Find the word: b-l-u-e",
-    "options": ["blue", "glue", "clue", "true"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Unit 9: Is the ball red?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a blue ball.", "I have a ball."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 9: What colour is this? It's like an orange fruit.",
-    "options": ["Orange", "Red", "Yellow", "Green"],
-    "correctAnswer": "Orange"
-  },
-  {
-    "question": "Unit 9: My favorite colour is ____.",
-    "options": ["pink", "black", "white", "brown"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "Unit 9: What is the missing letter? g_een",
-    "options": ["r", "l", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Unit 9: A rainbow has many ____.",
-    "options": ["colours", "lines", "dots", "shapes"],
-    "correctAnswer": "colours"
-  },
-  {
-    "question": "Unit 9: A banana is ____.",
-    "options": ["yellow", "red", "blue", "green"],
-    "correctAnswer": "yellow"
-  },
-  {
-    "question": "Unit 9: The car is ____.",
-    "options": ["black", "white", "warm", "cold"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "Unit 9: We mix ____ and yellow to make green.",
-    "options": ["blue", "red", "white", "black"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Unit 10: What is this? It's a red fruit.",
-    "options": ["An apple", "A banana", "An orange", "A grape"],
-    "correctAnswer": "An apple"
-  },
-  {
-    "question": "Unit 10: This is a yellow fruit. Monkeys like it.",
-    "options": ["banana", "apple", "orange", "grape"],
-    "correctAnswer": "banana"
-  },
-  {
-    "question": "Unit 10: You drink this. It's white.",
-    "options": ["Milk", "Water", "Juice", "Tea"],
-    "correctAnswer": "Milk"
-  },
-  {
-    "question": "Unit 10: You drink this when you are thirsty.",
-    "options": ["Water", "Milk", "Juice", "Soda"],
-    "correctAnswer": "Water"
-  },
-  {
-    "question": "Unit 10: Spell the word: m-i-l-k",
-    "options": ["milk", "like", "silk", "mile"],
+    "question": "Unit 13: This is ____. It's a drink. / Đây là ____. Nó là một đồ uống.",
+    "options": ["milk", "bread", "chicken", "fish"],
     "correctAnswer": "milk"
   },
   {
-    "question": "Unit 10: This is ____. You eat it with many dishes.",
-    "options": ["rice", "bread", "cake", "candy"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "Unit 10: I like to eat ____.",
-    "options": ["cake", "book", "pen", "toy"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "Unit 10: Find the word: a-p-p-l-e",
-    "options": ["apple", "apply", "able", "ample"],
-    "correctAnswer": "apple"
-  },
-  {
-    "question": "Unit 10: Do you like milk?",
-    "options": ["Yes, I do.", "No, I don't.", "It is water.", "I have a cake."],
-    "correctAnswer": "Yes, I do."
-  },
-  {
-    "question": "Unit 10: I am hungry. I want some ____.",
-    "options": ["rice", "water", "milk", "juice"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "Unit 10: What is the missing letter? cak_",
-    "options": ["e", "k", "t", "p"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "Unit 10: Spell the word: f-o-o-d",
-    "options": ["food", "foot", "good", "mood"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Unit 10: I am thirsty. I want some ____.",
-    "options": ["juice", "rice", "bread", "cake"],
+    "question": "Unit 13: I'm thirsty. I want some ____. / Tôi khát. Tôi muốn một ít ____.",
+    "options": ["juice", "noodles", "rice", "cake"],
     "correctAnswer": "juice"
   },
   {
-    "question": "Unit 10: The cake is ____.",
-    "options": ["sweet", "sour", "salty", "bitter"],
-    "correctAnswer": "sweet"
-  },
-  {
-    "question": "Unit 10: I ____ an apple.",
-    "options": ["eat", "drink", "play", "see"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "Unit 6: This is my ____. It can hop.",
-    "options": ["rabbit", "dog", "cat", "fish"],
-    "correctAnswer": "rabbit"
-  },
-  {
-    "question": "Unit 6: Spell the word: f-i-s-h",
-    "options": ["fish", "dish", "wish", "fist"],
-    "correctAnswer": "fish"
-  },
-  {
-    "question": "Unit 6: My ____ is cute.",
-    "options": ["cat", "dog", "bird", "fish"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "Unit 6: Find the word: r-a-b-b-i-t",
-    "options": ["rabbit", "robot", "ribbon", "rubber"],
-    "correctAnswer": "rabbit"
-  },
-  {
-    "question": "Unit 6: I have two ____.",
-    "options": ["pets", "books", "toys", "friends"],
-    "correctAnswer": "pets"
-  },
-  {
-    "question": "Unit 6: What colour is the fish?",
-    "options": ["Gold", "Red", "Green", "Yellow"],
-    "correctAnswer": "Gold"
-  },
-  {
-    "question": "Unit 6: A bird can ____.",
-    "options": ["fly", "swim", "run", "hop"],
-    "correctAnswer": "fly"
-  },
-  {
-    "question": "Unit 6: My dog can ____ fast.",
-    "options": ["run", "fly", "swim", "sing"],
-    "correctAnswer": "run"
-  },
-  {
-    "question": "Unit 6: I love my ____.",
-    "options": ["pet", "toy", "book", "car"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "Unit 6: Is it your cat?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a dog.", "I like cats."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 7: Spell the word: k-i-t-c-h-e-n",
-    "options": ["kitchen", "chicken", "kitten", "kicking"],
-    "correctAnswer": "kitchen"
-  },
-  {
-    "question": "Unit 7: Is it your kitchen?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my bedroom.", "I can see food."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 7: What is the missing letter? doo_",
-    "options": ["r", "k", "m", "n"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Unit 7: Find the word: b-e-d-r-o-o-m",
-    "options": ["bedroom", "bathroom", "broom", "bed"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Unit 7: My house is ____.",
-    "options": ["beautiful", "sad", "angry", "tired"],
-    "correctAnswer": "beautiful"
-  },
-  {
-    "question": "Unit 7: I have a bed in my ____.",
-    "options": ["bedroom", "kitchen", "living room", "bathroom"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Unit 7: Spell the word: w-i-n-d-o-w",
-    "options": ["window", "winter", "windy", "winner"],
-    "correctAnswer": "window"
-  },
-  {
-    "question": "Unit 7: We should keep our house ____.",
-    "options": ["clean", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "Unit 7: My father is in the ____.",
-    "options": ["living room", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "living room"
-  },
-  {
-    "question": "Unit 7: This is the room where you wash your hands.",
-    "options": ["A bathroom", "A kitchen", "A bedroom", "A living room"],
-    "correctAnswer": "A bathroom"
-  },
-  {
-    "question": "Unit 8: Spell the word: s-h-o-e-s",
-    "options": ["shoes", "shows", "shops", "shone"],
-    "correctAnswer": "shoes"
-  },
-  {
-    "question": "Unit 8: Are these your socks?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is a shoe.", "I can walk."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "Unit 8: Spell the word: s-o-c-k-s",
-    "options": ["socks", "rocks", "locks", "docks"],
-    "correctAnswer": "socks"
-  },
-  {
-    "question": "Unit 8: Find the word: t-r-o-u-s-e-r-s",
-    "options": ["trousers", "towers", "trowels", "troupes"],
-    "correctAnswer": "trousers"
-  },
-  {
-    "question": "Unit 8: Spell the word: c-l-o-t-h-e-s",
-    "options": ["clothes", "closes", "clothe", "cloth"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "Unit 8: I have a shirt and ____.",
-    "options": ["shorts", "a dress", "a hat", "a shoe"],
-    "correctAnswer": "shorts"
-  },
-  {
-    "question": "Unit 8: Find the word: s-h-o-r-t-s",
-    "options": ["shorts", "shirts", "shots", "sorts"],
-    "correctAnswer": "shorts"
-  },
-  {
-    "question": "Unit 8: The trousers are ____.",
-    "options": ["long", "short", "warm", "cold"],
-    "correctAnswer": "long"
-  },
-  {
-    "question": "Unit 8: I ____ a shirt.",
-    "options": ["wear", "have", "play", "see"],
-    "correctAnswer": "wear"
-  },
-  {
-    "question": "Unit 8: This is a ____. A girl wears it.",
-    "options": ["skirt", "shirt", "shorts", "trousers"],
-    "correctAnswer": "skirt"
-  },
-  {
-    "question": "Unit 9: Spell the word: g-r-e-e-n",
-    "options": ["green", "queen", "seen", "screen"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "Unit 9: Is the cat black?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a white cat.", "I can see a cat."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 9: Spell the word: y-e-l-l-o-w",
-    "options": ["yellow", "bellow", "fellow", "hollow"],
-    "correctAnswer": "yellow"
-  },
-  {
-    "question": "Unit 9: I like ____ grapes.",
-    "options": ["purple", "orange", "brown", "white"],
-    "correctAnswer": "purple"
-  },
-  {
-    "question": "Unit 9: This is a ____ dog. It's the colour of chocolate.",
-    "options": ["brown", "black", "white", "grey"],
-    "correctAnswer": "brown"
-  },
-  {
-    "question": "Unit 9: Find the word: o-r-a-n-g-e",
-    "options": ["orange", "arrange", "range", "strange"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "Unit 9: Spell the word: p-i-n-k",
-    "options": ["pink", "sink", "wink", "link"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "Unit 9: My house is painted ____.",
-    "options": ["white", "black", "brown", "grey"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "Unit 9: Find the word: w-h-i-t-e",
-    "options": ["white", "while", "what", "where"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "Unit 9: Spell the word: b-l-a-c-k",
-    "options": ["black", "back", "block", "blank"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "Unit 10: Spell the word: w-a-t-e-r",
-    "options": ["water", "later", "waiter", "watch"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "Unit 10: Is it bread?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is rice.", "I can see food."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 10: What is the missing letter? brea_",
-    "options": ["d", "k", "m", "n"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "Unit 10: Find the word: c-a-k-e",
-    "options": ["cake", "case", "cane", "cape"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "Unit 10: Spell the word: r-i-c-e",
-    "options": ["rice", "nice", "mice", "lice"],
+    "question": "Unit 13: Spell the word: r-i-c-e / Đánh vần từ: r-i-c-e",
+    "options": ["rice", "nice", "mice", "ice"],
     "correctAnswer": "rice"
   },
   {
-    "question": "Unit 10: Find the word: b-a-n-a-n-a",
-    "options": ["banana", "bandana", "bahama", "canada"],
-    "correctAnswer": "banana"
+    "question": "Unit 13: What do you want to eat? / Bạn muốn ăn gì?",
+    "options": ["I want some chicken.", "I am thirsty.", "It's a canteen.", "I like milk."],
+    "correctAnswer": "I want some chicken."
   },
   {
-    "question": "Unit 10: I see ____ apple.",
-    "options": ["an", "a", "one", "my"],
-    "correctAnswer": "an"
+    "question": "Unit 13: Find the word: m-i-l-k / Tìm từ: m-i-l-k",
+    "options": ["milk", "mild", "mile", "mink"],
+    "correctAnswer": "milk"
   },
   {
-    "question": "Unit 10: Spell the word: e-a-t",
-    "options": ["eat", "tea", "ate", "neat"],
-    "correctAnswer": "eat"
+    "question": "Unit 13: This is ____. It's a sweet food. / Đây là ____. Nó là một món ăn ngọt.",
+    "options": ["cake", "bread", "fish", "meat"],
+    "correctAnswer": "cake"
   },
   {
-    "question": "Unit 10: Spell the word: d-r-i-n-k",
-    "options": ["drink", "drive", "drip", "brink"],
-    "correctAnswer": "drink"
+    "question": "Unit 13: Can I have some water, please? / Vui lòng cho tôi một ít nước được không?",
+    "options": ["Yes, here you are.", "I'm hungry.", "I want noodles.", "No, I can't."],
+    "correctAnswer": "Yes, here you are."
   },
   {
-    "question": "Unit 10: My favorite food is ____.",
-    "options": ["chicken", "cake", "bread", "rice"],
-    "correctAnswer": "chicken"
+    "question": "Unit 13: The food is ____. / Thức ăn thì ____.",
+    "options": ["delicious", "bad", "old", "cold"],
+    "correctAnswer": "delicious"
+  },
+  {
+    "question": "Unit 14: This shop sells toys. / Cửa hàng này bán đồ chơi.",
+    "options": ["A toy shop", "A bookshop", "A clothes shop", "A food shop"],
+    "correctAnswer": "A toy shop"
+  },
+  {
+    "question": "Unit 14: This is a ____. It's a puzzle with many pieces. / Đây là một ____. Nó là một trò chơi ghép hình có nhiều mảnh.",
+    "options": ["jigsaw", "doll", "robot", "car"],
+    "correctAnswer": "jigsaw"
+  },
+  {
+    "question": "Unit 14: This is a ____. It's soft and cuddly. / Đây là một ____. Nó mềm và đáng yêu.",
+    "options": ["teddy bear", "ball", "kite", "train"],
+    "correctAnswer": "teddy bear"
+  },
+  {
+    "question": "Unit 14: I have a ____. It's a fast toy car. / Tôi có một ____. Nó là một chiếc xe đồ chơi nhanh.",
+    "options": ["racing car", "doll", "teddy bear", "jigsaw"],
+    "correctAnswer": "racing car"
+  },
+  {
+    "question": "Unit 14: Spell the word: p-u-z-z-l-e / Đánh vần từ: p-u-z-z-l-e",
+    "options": ["puzzle", "puddle", "poodle", "purple"],
+    "correctAnswer": "puzzle"
+  },
+  {
+    "question": "Unit 14: What color is the teddy bear? / Con gấu bông màu gì?",
+    "options": ["It's brown.", "It's a toy.", "I like teddy bears.", "It's big."],
+    "correctAnswer": "It's brown."
+  },
+  {
+    "question": "Unit 14: Find the word: b-a-l-l-o-o-n / Tìm từ: b-a-l-l-o-o-n",
+    "options": ["balloon", "ballad", "ballet", "ballot"],
+    "correctAnswer": "balloon"
+  },
+  {
+    "question": "Unit 14: My sister likes to play with her ____. / Em gái tôi thích chơi với ____ của cô ấy.",
+    "options": ["doll's house", "car", "robot", "train"],
+    "correctAnswer": "doll's house"
+  },
+  {
+    "question": "Unit 14: The robot can ____. / Robot có thể ____.",
+    "options": ["walk and talk", "fly", "swim", "sing"],
+    "correctAnswer": "walk and talk"
+  },
+  {
+    "question": "Unit 14: Let's play with the ____. / Hãy chơi với ____.",
+    "options": ["building blocks", "books", "food", "pencils"],
+    "correctAnswer": "building blocks"
+  },
+  {
+    "question": "Unit 15: It's a game with a ball and two teams. / Đó là một trò chơi với một quả bóng và hai đội.",
+    "options": ["A football match", "A swimming race", "A birthday party", "A music concert"],
+    "correctAnswer": "A football match"
+  },
+  {
+    "question": "Unit 15: The players ____ the ball. / Các cầu thủ ____ quả bóng.",
+    "options": ["kick", "eat", "read", "sleep"],
+    "correctAnswer": "kick"
+  },
+  {
+    "question": "Unit 15: He is a ____. He stops the ball. / Anh ấy là một ____. Anh ấy cản bóng.",
+    "options": ["goalkeeper", "player", "teacher", "doctor"],
+    "correctAnswer": "goalkeeper"
+  },
+  {
+    "question": "Unit 15: The team scores a ____! / Đội ghi được một ____!",
+    "options": ["goal", "point", "run", "home"],
+    "correctAnswer": "goal"
+  },
+  {
+    "question": "Unit 15: Spell the word: g-o-a-l / Đánh vần từ: g-o-a-l",
+    "options": ["goal", "goat", "gold", "goad"],
+    "correctAnswer": "goal"
+  },
+  {
+    "question": "Unit 15: The crowd is ____. / Đám đông đang ____.",
+    "options": ["cheering", "sleeping", "crying", "eating"],
+    "correctAnswer": "cheering"
+  },
+  {
+    "question": "Unit 15: Find the word: t-e-a-m / Tìm từ: t-e-a-m",
+    "options": ["team", "time", "tame", "tear"],
+    "correctAnswer": "team"
+  },
+  {
+    "question": "Unit 15: My favorite team is ____. / Đội yêu thích của tôi đang ____.",
+    "options": ["winning", "losing", "playing", "running"],
+    "correctAnswer": "winning"
+  },
+  {
+    "question": "Unit 15: It's so ____! / Thật là ____!",
+    "options": ["exciting", "boring", "sad", "tiring"],
+    "correctAnswer": "exciting"
+  },
+  {
+    "question": "Unit 15: The players wear a team ____. / Các cầu thủ mặc một ____ của đội.",
+    "options": ["uniform", "hat", "scarf", "coat"],
+    "correctAnswer": "uniform"
+  },
+  {
+    "question": "Unit 16: This is my ____. / Đây là ____ của tôi.",
+    "options": ["home", "school", "shop", "park"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Unit 16: We cook food in the ____. / Chúng tôi nấu ăn trong ____.",
+    "options": ["kitchen", "bedroom", "bathroom", "living room"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "Unit 16: We sleep in the ____. / Chúng tôi ngủ trong ____.",
+    "options": ["bedroom", "kitchen", "garden", "living room"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Unit 16: We watch TV in the ____. / Chúng tôi xem TV trong ____.",
+    "options": ["living room", "bathroom", "kitchen", "bedroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "Unit 16: Spell the word: h-o-m-e / Đánh vần từ: h-o-m-e",
+    "options": ["home", "hope", "hole", "homo"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Unit 16: This is my ____. He is my dad. / Đây là ____ của tôi. Ông ấy là bố tôi.",
+    "options": ["father", "mother", "brother", "sister"],
+    "correctAnswer": "father"
+  },
+  {
+    "question": "Unit 16: This is my ____. She is my mom. / Đây là ____ của tôi. Bà ấy là mẹ tôi.",
+    "options": ["mother", "father", "grandfather", "uncle"],
+    "correctAnswer": "mother"
+  },
+  {
+    "question": "Unit 16: Find the word: f-a-m-i-l-y / Tìm từ: f-a-m-i-l-y",
+    "options": ["family", "famish", "famous", "farmer"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "Unit 16: I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["family", "school", "teacher", "friends"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "Unit 16: We take a bath in the ____. / Chúng tôi tắm trong ____.",
+    "options": ["bathroom", "garden", "kitchen", "living room"],
+    "correctAnswer": "bathroom"
   }
 ]
-
