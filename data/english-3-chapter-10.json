@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What are you doing? - I'm ____. / Bạn đang làm gì vậy? - Tớ đang ____.",
+    "options": ["reading", "playing", "singing", "dancing"],
+    "correctAnswer": "reading"
+  },
+  {
+    "question": "Let's play ____. It's a board game. / Hãy chơi ____. Nó là một trò chơi cờ bàn.",
+    "options": ["chess", "football", "badminton", "hide-and-seek"],
+    "correctAnswer": "chess"
+  },
+  {
+    "question": "They are playing ____ in the playground. / Họ đang chơi ____ ở sân chơi.",
+    "options": ["football", "chess", "badminton", "hide-and-seek"],
+    "correctAnswer": "football"
+  },
+  {
+    "question": "She is ____ a rope. / Cô ấy đang ____ dây.",
+    "options": ["skipping", "playing", "reading", "singing"],
+    "correctAnswer": "skipping"
+  },
+  {
+    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "He is playing ____ with his friend. / Cậu ấy đang chơi ____ với bạn của mình.",
+    "options": ["badminton", "football", "chess", "hide-and-seek"],
+    "correctAnswer": "badminton"
+  },
+  {
+    "question": "I like ____. It's a fun game. / Tớ thích ____. Nó là một trò chơi vui.",
+    "options": ["hide-and-seek", "reading", "singing", "dancing"],
+    "correctAnswer": "hide-and-seek"
+  },
+  {
+    "question": "Find the word: c-h-e-s-s / Tìm từ: c-h-e-s-s",
+    "options": ["chess", "cheese", "chest", "check"],
+    "correctAnswer": "chess"
+  },
+  {
+    "question": "Are you playing football? / Bạn đang chơi bóng đá phải không?",
+    "options": ["Yes, I am.", "No, I'm not.", "I like football.", "It is a ball."],
+    "correctAnswer": "Yes, I am."
+  },
+  {
+    "question": "This is ____. It's time to relax. / Đây là ____. Đã đến lúc thư giãn.",
+    "options": ["break time", "class time", "lunch time", "home time"],
+    "correctAnswer": "break time"
+  },
+  {
+    "question": "What are they doing? / Họ đang làm gì vậy?",
+    "options": ["They're talking.", "They're reading.", "They're writing.", "They're sleeping."],
+    "correctAnswer": "They're talking."
+  },
+  {
+    "question": "I like to ____ with my friends. / Tớ thích ____ với bạn bè.",
+    "options": ["chat", "read", "study", "sleep"],
+    "correctAnswer": "chat"
+  },
+  {
+    "question": "What is the missing letter? pla_ing / Chữ cái còn thiếu là gì? pla_ing",
+    "options": ["y", "a", "i", "o"],
+    "correctAnswer": "y"
+  },
+  {
+    "question": "This is our ____. / Đây là ____ của chúng ta.",
+    "options": ["break time", "school", "class", "house"],
+    "correctAnswer": "break time"
+  },
+  {
+    "question": "My friends are playing ____. / Bạn bè của tôi đang chơi ____.",
+    "options": ["table tennis", "football", "badminton", "chess"],
+    "correctAnswer": "table tennis"
+  },
+  {
+    "question": "Let's ____ together. / Hãy ____ cùng nhau.",
+    "options": ["play", "read", "study", "work"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Spell the word: s-k-i-p / Đánh vần từ: s-k-i-p",
+    "options": ["skip", "ship", "skin", "skid"],
+    "correctAnswer": "skip"
+  },
+  {
+    "question": "Is she reading a book? / Cô ấy đang đọc sách phải không?",
+    "options": ["No, she isn't. She's drawing.", "Yes, she is.", "She likes books.", "It is a book."],
+    "correctAnswer": "No, she isn't. She's drawing."
+  },
+  {
+    "question": "I am ____ a picture. / Tôi đang ____ một bức tranh.",
+    "options": ["drawing", "reading", "writing", "playing"],
+    "correctAnswer": "drawing"
+  },
+  {
+    "question": "What is the missing letter? _ootball / Chữ cái còn thiếu là gì? _ootball",
+    "options": ["f", "b", "p", "d"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "These are my ____. / Đây là những ____ của tôi.",
+    "options": ["activities", "toys", "books", "pets"],
+    "correctAnswer": "activities"
+  },
+  {
+    "question": "What's your favorite break time activity? / Hoạt động giờ giải lao yêu thích của bạn là gì?",
+    "options": ["I like playing chess.", "I am fine.", "My name is Mai.", "I am eight."],
+    "correctAnswer": "I like playing chess."
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["shuttlecock", "ball", "rope", "board"],
+    "correctAnswer": "shuttlecock"
+  },
+  {
+    "question": "Spell the word: b-a-d-m-i-n-t-o-n / Đánh vần từ: b-a-d-m-i-n-t-o-n",
+    "options": ["badminton", "bad man", "bandana", "abandon"],
+    "correctAnswer": "badminton"
+  },
+  {
+    "question": "Is it fun? / Nó có vui không?",
+    "options": ["Yes, it is.", "No, it is boring.", "It is break time.", "I can see my friends."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can ____ a lot during break time. / Chúng ta có thể ____ rất nhiều trong giờ giải lao.",
+    "options": ["laugh", "cry", "study", "work"],
+    "correctAnswer": "laugh"
+  },
+  {
+    "question": "What is the missing letter? ches_",
+    "options": ["s", "t", "d", "p"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A skipping rope", "A ball", "A racket", "A shuttlecock"],
+    "correctAnswer": "A skipping rope"
+  },
+  {
+    "question": "This is a ____. You can play with it. / Đây là một ____. Bạn có thể chơi với nó.",
+    "options": ["ball", "book", "pen", "chair"],
+    "correctAnswer": "ball"
+  },
+  {
+    "question": "This is ____. It's time for fun. / Đây là ____. Đã đến lúc vui chơi.",
+    "options": ["break time", "school", "homework", "work"],
+    "correctAnswer": "break time"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A chess board", "A book", "A map", "A poster"],
+    "correctAnswer": "A chess board"
+  },
+  {
+    "question": "Find the word: r-e-a-d / Tìm từ: r-e-a-d",
+    "options": ["read", "red", "road", "ride"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "Are they playing hide-and-seek? / Họ đang chơi trốn tìm phải không?",
+    "options": ["Yes, they are.", "No, they are not.", "I am playing.", "I like hide-and-seek."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My ____ is playing football. / ____ của tôi đang chơi bóng đá.",
+    "options": ["friend", "teacher", "father", "mother"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "What is the missing letter? badminto_",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["break", "book", "lesson", "game"],
+    "correctAnswer": "break"
+  },
+  {
+    "question": "Spell the word: t-a-l-k / Đánh vần từ: t-a-l-k",
+    "options": ["talk", "take", "tall", "task"],
+    "correctAnswer": "talk"
+  },
+  {
+    "question": "Is this a new game? / Đây có phải là một trò chơi mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "I can see a game.", "I like games."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Break time is in the ____. / Giờ giải lao ở ____.",
+    "options": ["playground", "classroom", "library", "gym"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "What is the missing letter? _reak / Chữ cái còn thiếu là gì? _reak",
+    "options": ["b", "p", "c", "g"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["Table tennis", "Football", "Badminton", "Basketball"],
+    "correctAnswer": "Table tennis"
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["break time", "house", "room", "bag"],
+    "correctAnswer": "break time"
+  },
+  {
+    "question": "Is the ball big? / Quả bóng có to không?",
+    "options": ["No, it is small.", "Yes, it is.", "It is a ball.", "Hello."],
+    "correctAnswer": "No, it is small."
+  },
+  {
+    "question": "I can see my friends and a ____. / Tôi có thể thấy bạn bè của tôi và một ____.",
+    "options": ["teacher", "house", "car", "book"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "Find the word: j-u-m-p / Tìm từ: j-u-m-p",
+    "options": ["jump", "pump", "lump", "dump"],
+    "correctAnswer": "jump"
+  },
+  {
+    "question": "This is my ____. I do it with my friends. / Đây là ____ của tôi. Tôi làm nó với bạn bè của tôi.",
+    "options": ["hobby", "homework", "chore", "job"],
+    "correctAnswer": "hobby"
+  },
+  {
+    "question": "What is the missing letter? skippin_",
+    "options": ["g", "k", "p", "t"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "Is it a good game? / Nó có phải là một trò chơi hay không?",
+    "options": ["Yes, it is.", "No, it is boring.", "I like games.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
+    "options": ["game", "homework", "class", "test"],
+    "correctAnswer": "game"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A racket", "A bat", "A stick", "A club"],
+    "correctAnswer": "A racket"
+  },
+  {
+    "question": "What are you doing? / Bạn đang làm gì vậy?",
+    "options": ["I'm chatting with my friends.", "I am fine.", "My name is Lucy.", "I am nine."],
+    "correctAnswer": "I'm chatting with my friends."
+  },
+  {
+    "question": "Break time is a time for ____. / Giờ giải lao là thời gian để ____.",
+    "options": ["relaxing", "studying", "sleeping", "working"],
+    "correctAnswer": "relaxing"
+  },
+  {
+    "question": "I like ____ with a ball. / Tôi thích ____ với một quả bóng.",
+    "options": ["playing", "reading", "drawing", "singing"],
+    "correctAnswer": "playing"
+  },
+  {
+    "question": "What is your favorite game? / Trò chơi yêu thích của bạn là gì?",
+    "options": ["My favorite game is football.", "I like red.", "I have a dog.", "I am a student."],
+    "correctAnswer": "My favorite game is football."
+  },
+  {
+    "question": "What is this activity? / Đây là hoạt động gì?",
+    "options": ["Blind man's buff", "Hide-and-seek", "Tag", "Skipping"],
+    "correctAnswer": "Blind man's buff"
+  },
+  {
+    "question": "My break time is ____. / Giờ giải lao của tôi thì ____.",
+    "options": ["short", "long", "boring", "sad"],
+    "correctAnswer": "short"
+  },
+  {
+    "question": "My friends are ____. / Bạn bè của tôi thì ____.",
+    "options": ["energetic", "tired", "sad", "bad"],
+    "correctAnswer": "energetic"
+  },
+  {
+    "question": "Is your school yard big? / Sân trường của bạn có lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My break time is ____. / Giờ giải lao của tôi thì ____.",
+    "options": ["fun", "noisy", "busy", "crowded"],
+    "correctAnswer": "fun"
+  },
+  {
+    "question": "What is the missing letter? fu_",
+    "options": ["n", "t", "d", "k"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is ____. / Đây là ____.",
+    "options": ["badminton", "football", "chess", "hide-and-seek"],
+    "correctAnswer": "badminton"
+  },
+  {
+    "question": "I love ____. / Tôi yêu ____.",
+    "options": ["break time", "dog", "cat", "bird"],
+    "correctAnswer": "break time"
+  },
+  {
+    "question": "Is she skipping? / Cô ấy đang nhảy dây phải không?",
+    "options": ["Yes, she is.", "No, she is running.", "It is a rope.", "Hello."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "Let's play ____. / Hãy chơi ____.",
+    "options": ["together", "alone", "quietly", "loudly"],
+    "correctAnswer": "together"
+  },
+  {
+    "question": "Spell the word: g-a-m-e / Đánh vần từ: g-a-m-e",
+    "options": ["game", "same", "name", "lame"],
+    "correctAnswer": "game"
+  },
+  {
+    "question": "I have ____ new shuttlecock. / Tôi có ____ quả cầu lông mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite activity is ____. / Hoạt động yêu thích của tôi là ____.",
+    "options": ["playing badminton", "singing", "dancing", "drawing"],
+    "correctAnswer": "playing badminton"
+  },
+  {
+    "question": "What is the missing letter? gam_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is ____. You hide and one person finds you. / Đây là ____. Bạn trốn và một người tìm bạn.",
+    "options": ["hide-and-seek", "tag", "chess", "football"],
+    "correctAnswer": "hide-and-seek"
+  },
+  {
+    "question": "We should play ____. / Chúng ta nên chơi ____.",
+    "options": ["fairly", "dangerously", "loudly", "quietly"],
+    "correctAnswer": "fairly"
+  },
+  {
+    "question": "Is it a fun game? / Nó có phải là một trò chơi vui không?",
+    "options": ["Yes, it is.", "No, it is boring.", "I like games.", "The game is fun."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: f-a-i-r / Đánh vần từ: f-a-i-r",
+    "options": ["fair", "hair", "pair", "chair"],
+    "correctAnswer": "fair"
+  },
+  {
+    "question": "I help my friend learn to play ____. / Tôi giúp bạn tôi học chơi ____.",
+    "options": ["chess", "football", "badminton", "hide-and-seek"],
+    "correctAnswer": "chess"
+  },
+  {
+    "question": "The boy is ____. / Cậu bé đang ____.",
+    "options": ["kicking a ball", "throwing a ball", "catching a ball", "hitting a ball"],
+    "correctAnswer": "kicking a ball"
+  },
+  {
+    "question": "What is the missing letter": "kickin_",
+    "options": ["g", "p", "t", "d"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A playground", "A classroom", "A library", "A gym"],
+    "correctAnswer": "A playground"
+  },
+  {
+    "question": "My ____ is full of happy students. / ____ của tôi đầy những học sinh vui vẻ.",
+    "options": ["school yard", "desk", "bag", "box"],
+    "correctAnswer": "school yard"
+  },
+  {
+    "question": "Is it a picture of children playing? / Nó có phải là một bức tranh về trẻ em đang chơi không?",
+    "options": ["Yes, it is.", "No, it is a teacher.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to ____. / Bạn tôi thích ____.",
+    "options": ["chat", "read", "write", "study"],
+    "correctAnswer": "chat"
+  },
+  {
+    "question": "Spell the word: c-h-a-t / Đánh vần từ: c-h-a-t",
+    "options": ["chat", "cat", "hat", "mat"],
+    "correctAnswer": "chat"
+  },
+  {
+    "question": "This is a ____ day to play outside. / Đây là một ngày ____ để chơi ngoài trời.",
+    "options": ["sunny", "rainy", "cloudy", "windy"],
+    "correctAnswer": "sunny"
+  },
+  {
+    "question": "What is the missing letter": "_unny / Chữ cái còn thiếu là gì? _unny",
+    "options": ["s", "f", "r", "m"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A slide", "A swing", "A seesaw", "A roundabout"],
+    "correctAnswer": "A slide"
+  },
+  {
+    "question": "My teacher is watching us ____. / Cô giáo của tôi đang xem chúng tôi ____.",
+    "options": ["play", "study", "work", "sleep"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Are the students noisy? / Các bạn học sinh có ồn ào không?",
+    "options": ["Yes, they are.", "No, they are quiet.", "They are students.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My break time has many ____. / Giờ giải lao của tôi có nhiều ____.",
+    "options": ["games", "lessons", "tests", "books"],
+    "correctAnswer": "games"
+  },
+  {
+    "question": "Spell the word: n-o-i-s-y / Đánh vần từ: n-o-i-s-y",
+    "options": ["noisy", "nose", "noise", "rosy"],
+    "correctAnswer": "noisy"
+  },
+  {
+    "question": "I am ____ during break time. / Tôi ____ trong giờ giải lao.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter": "brea_",
+    "options": ["k", "s", "t", "p"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A water fountain", "A sink", "A tap", "A well"],
+    "correctAnswer": "A water fountain"
+  },
+  {
+    "question": "My break time is my favorite ____. / Giờ giải lao là ____ yêu thích của tôi.",
+    "options": ["time", "food", "colour", "toy"],
+    "correctAnswer": "time"
+  },
+  {
+    "question": "Is the game long? / Trò chơi có dài không?",
+    "options": ["No, it is short.", "Yes, it is.", "It is a game.", "Hello."],
+    "correctAnswer": "No, it is short."
+  },
+  {
+    "question": "The school yard has a ____. / Sân trường có một ____.",
+    "options": ["tree", "house", "shop", "car"],
+    "correctAnswer": "tree"
+  },
+  {
+    "question": "Spell the word: t-i-m-e / Đánh vần từ: t-i-m-e",
+    "options": ["time", "tiny", "tie", "Tim"],
+    "correctAnswer": "time"
+  },
+  {
+    "question": "We play after ____. / Chúng tôi chơi sau ____.",
+    "options": ["lessons", "lunch", "dinner", "breakfast"],
+    "correctAnswer": "lessons"
+  },
+  {
+    "question": "What is the missing letter": "lesso_",
+    "options": ["n", "s", "t", "p"],
+    "correctAnswer": "n"
+  }
+]
+

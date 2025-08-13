@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A pen", "A pencil", "A ruler", "An eraser"],
+    "correctAnswer": "A pen"
+  },
+  {
+    "question": "Is this your ____? - Yes, it is. / Đây có phải là ____ của bạn không? - Vâng, đúng vậy.",
+    "options": ["pencil", "pen", "book", "bag"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "question": "I have a new ____. / Tôi có một ____ mới.",
+    "options": ["ruler", "eraser", "pencil case", "notebook"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "This is an ____. / Đây là một ____.",
+    "options": ["eraser", "ruler", "pencil", "pen"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "question": "Spell the word: b-o-o-k / Đánh vần từ: b-o-o-k",
+    "options": ["book", "look", "cook", "hook"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "That is my ____. / Đó là ____ của tôi.",
+    "options": ["school bag", "pencil case", "notebook", "book"],
+    "correctAnswer": "school bag"
+  },
+  {
+    "question": "I put my pencils in my ____. / Tôi để bút chì vào trong ____.",
+    "options": ["pencil case", "school bag", "book", "notebook"],
+    "correctAnswer": "pencil case"
+  },
+  {
+    "question": "Find the word: p-e-n / Tìm từ: p-e-n",
+    "options": ["pen", "pin", "pan", "pet"],
+    "correctAnswer": "pen"
+  },
+  {
+    "question": "Is that your book? / Đó có phải là sách của bạn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a pen.", "I have a ruler."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a blue ____. / Đây là một ____ màu xanh dương.",
+    "options": ["notebook", "pencil", "pen", "ruler"],
+    "correctAnswer": "notebook"
+  },
+  {
+    "question": "What are these? / Đây là những cái gì?",
+    "options": ["School things", "Toys", "Pets", "Clothes"],
+    "correctAnswer": "School things"
+  },
+  {
+    "question": "I have ____ eraser. / Tôi có ____ cục tẩy.",
+    "options": ["an", "a", "one", "two"],
+    "correctAnswer": "an"
+  },
+  {
+    "question": "What is the missing letter? pe_",
+    "options": ["n", "t", "d", "k"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is my ____. It's new. / Đây là ____ của tôi. Nó mới.",
+    "options": ["pencil case", "book", "bag", "ruler"],
+    "correctAnswer": "pencil case"
+  },
+  {
+    "question": "My ____ is long. / ____ của tôi dài.",
+    "options": ["ruler", "eraser", "pen", "pencil"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "Let's open our ____. / Hãy mở ____ của chúng ta ra.",
+    "options": ["books", "bags", "pencil cases", "notebooks"],
+    "correctAnswer": "books"
+  },
+  {
+    "question": "Spell the word: r-u-l-e-r / Đánh vần từ: r-u-l-e-r",
+    "options": ["ruler", "roller", "ruder", "racer"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "Is this a big school bag? / Đây có phải là một cái cặp sách lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a bag.", "I can see a bag."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am writing in my ____. / Tôi đang viết vào ____ của tôi.",
+    "options": ["notebook", "book", "bag", "pencil case"],
+    "correctAnswer": "notebook"
+  },
+  {
+    "question": "What is the missing letter? _raser / Chữ cái còn thiếu là gì? _raser",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "These are my ____. / Đây là những ____ của tôi.",
+    "options": ["pencils", "pens", "books", "bags"],
+    "correctAnswer": "pencils"
+  },
+  {
+    "question": "How many pens do you have? / Bạn có bao nhiêu cái bút mực?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["pencil sharpener", "eraser", "ruler", "pen"],
+    "correctAnswer": "pencil sharpener"
+  },
+  {
+    "question": "Spell the word: b-a-g / Đánh vần từ: b-a-g",
+    "options": ["bag", "big", "bug", "beg"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "Is it your pencil case? / Nó có phải là hộp bút của bạn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is my bag.", "I can see a pencil."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can use an ____ to correct mistakes. / Chúng ta có thể dùng ____ để sửa lỗi.",
+    "options": ["eraser", "ruler", "pen", "pencil"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "question": "What is the missing letter? noteboo_",
+    "options": ["k", "t", "d", "p"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A school bag", "A handbag", "A backpack", "A suitcase"],
+    "correctAnswer": "A school bag"
+  },
+  {
+    "question": "This is a ____. You write with it. / Đây là một ____. Bạn viết bằng nó.",
+    "options": ["pencil", "pen", "ruler", "eraser"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "question": "This is ____. It's for school. / Đây là ____. Nó dành cho trường học.",
+    "options": ["my school bag", "my toy car", "my pet dog", "my new shoes"],
+    "correctAnswer": "my school bag"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A book", "A notebook", "A magazine", "A newspaper"],
+    "correctAnswer": "A book"
+  },
+  {
+    "question": "Find the word: e-r-a-s-e-r / Tìm từ: e-r-a-s-e-r",
+    "options": ["eraser", "erase", "reader", "easier"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "question": "Is it a new ruler? / Nó có phải là một cái thước mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "I am at school.", "I like rulers."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is blue and red. / ____ của tôi màu xanh và đỏ.",
+    "options": ["school bag", "pencil case", "notebook", "book"],
+    "correctAnswer": "school bag"
+  },
+  {
+    "question": "What is the missing letter": "rule_",
+    "options": ["r", "n", "m", "p"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "These are lovely ____. / Đây là những ____ đáng yêu.",
+    "options": ["school things", "books", "lessons", "games"],
+    "correctAnswer": "school things"
+  },
+  {
+    "question": "Spell the word: p-e-n-c-i-l / Đánh vần từ: p-e-n-c-i-l",
+    "options": ["pencil", "pen", "pupil", "people"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "question": "Is this a yellow pencil? / Đây có phải là một cây bút chì màu vàng không?",
+    "options": ["Yes, it is.", "No, it is green.", "I can see a pencil.", "I like pencils."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The classroom has many ____. / Lớp học có nhiều ____.",
+    "options": ["desks", "beds", "sofas", "tables"],
+    "correctAnswer": "desks"
+  },
+  {
+    "question": "What is the missing letter? _ook / Chữ cái còn thiếu là gì? _ook",
+    "options": ["b", "c", "h", "l"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A pencil case", "A bag", "A box", "A wallet"],
+    "correctAnswer": "A pencil case"
+  },
+  {
+    "question": "My ____ is on the desk. / ____ của tôi ở trên bàn.",
+    "options": ["pen", "book", "bag", "ruler"],
+    "correctAnswer": "pen"
+  },
+  {
+    "question": "Is the eraser small? / Cục tẩy có nhỏ không?",
+    "options": ["Yes, it is.", "No, it is big.", "It is an eraser.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a pen and an ____. / Tôi có thể thấy một cái bút mực và một ____.",
+    "options": ["eraser", "house", "car", "book"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "question": "Find the word: n-o-t-e-b-o-o-k / Tìm từ: n-o-t-e-b-o-o-k",
+    "options": ["notebook", "note", "book", "nothing"],
+    "correctAnswer": "notebook"
+  },
+  {
+    "question": "This is my ____. I write notes in it. / Đây là ____ của tôi. Tôi viết ghi chú vào trong đó.",
+    "options": ["notebook", "pencil case", "bag", "desk"],
+    "correctAnswer": "notebook"
+  },
+  {
+    "question": "What is the missing letter": "penci_",
+    "options": ["l", "k", "p", "t"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "Is it a beautiful pencil case? / Nó có phải là một hộp bút đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like pencil cases.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ are new. / ____ của tôi mới.",
+    "options": ["school things", "homework", "class", "test"],
+    "correctAnswer": "school things"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A crayon", "A marker", "A pen", "A pencil"],
+    "correctAnswer": "A crayon"
+  },
+  {
+    "question": "What's that? / Cái đó là gì?",
+    "options": ["It's a school bag.", "It's a toy.", "It's a pet.", "It's a fruit."],
+    "correctAnswer": "It's a school bag."
+  },
+  {
+    "question": "A school bag is for ____. / Một cái cặp sách là để ____.",
+    "options": ["books", "food", "clothes", "toys"],
+    "correctAnswer": "books"
+  },
+  {
+    "question": "I need ____ new pen. / Tôi cần ____ cái bút mực mới.",
+    "options": ["a", "an", "many", "some"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What colour is your pencil? / Bút chì của bạn màu gì?",
+    "options": ["It's yellow.", "It's a pencil.", "It's long.", "I have a pencil."],
+    "correctAnswer": "It's yellow."
+  },
+  {
+    "question": "What colour is the eraser? / Cục tẩy màu gì?",
+    "options": ["It's white.", "It's red.", "It's green.", "It's blue."],
+    "correctAnswer": "It's white."
+  },
+  {
+    "question": "The ruler is ____. / Cái thước thì ____.",
+    "options": ["long", "short", "small", "thin"],
+    "correctAnswer": "long"
+  },
+  {
+    "question": "The books are ____. / Những quyển sách thì ____.",
+    "options": ["new", "old", "sad", "bad"],
+    "correctAnswer": "new"
+  },
+  {
+    "question": "Is your school bag heavy? / Cặp sách của bạn có nặng không?",
+    "options": ["Yes, it is.", "No, it is light.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My school things are ____. / Đồ dùng học tập của tôi thì ____.",
+    "options": ["useful", "useless", "noisy", "crowded"],
+    "correctAnswer": "useful"
+  },
+  {
+    "question": "What is the missing letter? use_ul / Chữ cái còn thiếu là gì? use_ul",
+    "options": ["f", "t", "d", "k"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["ruler", "eraser", "pen", "pencil"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["school", "dog", "cat", "bird"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Is the pen blue? / Bút mực có màu xanh không?",
+    "options": ["Yes, it is.", "No, it is black.", "It is a pen.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's put our things in the ____. / Hãy cất đồ của chúng ta vào ____.",
+    "options": ["bag", "box", "desk", "chair"],
+    "correctAnswer": "bag"
+  },
+  {
+    "question": "Spell the word: s-c-h-o-o-l / Đánh vần từ: s-c-h-o-o-l",
+    "options": ["school", "cool", "pool", "tool"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "I have ____ new pencil sharpener. / Tôi có ____ cái gọt bút chì mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite school thing is my ____. / Đồ dùng học tập yêu thích của tôi là ____.",
+    "options": ["pencil case", "book", "ruler", "eraser"],
+    "correctAnswer": "pencil case"
+  },
+  {
+    "question": "What is the missing letter? penci_ case / Chữ cái còn thiếu là gì? penci_ case",
+    "options": ["l", "a", "i", "o"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "This is ____. You use it to colour. / Đây là ____. Bạn dùng nó để tô màu.",
+    "options": ["a crayon", "a pen", "a pencil", "a marker"],
+    "correctAnswer": "a crayon"
+  },
+  {
+    "question": "We should keep our school things ____. / Chúng ta nên giữ đồ dùng học tập của mình ____.",
+    "options": ["tidy", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "tidy"
+  },
+  {
+    "question": "Is it a wooden ruler? / Nó có phải là một cái thước gỗ không?",
+    "options": ["No, it is plastic.", "Yes, it is.", "I like rulers.", "The ruler is long."],
+    "correctAnswer": "No, it is plastic."
+  },
+  {
+    "question": "Spell the word: t-i-d-y / Đánh vần từ: t-i-d-y",
+    "options": ["tidy", "tiny", "today", "tardy"],
+    "correctAnswer": "tidy"
+  },
+  {
+    "question": "I help my friend find his ____. / Tôi giúp bạn tôi tìm ____ của cậu ấy.",
+    "options": ["eraser", "book", "bag", "ruler"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "question": "The books are in the ____. / Những quyển sách ở trong ____.",
+    "options": ["school bag", "pencil case", "desk", "chair"],
+    "correctAnswer": "school bag"
+  },
+  {
+    "question": "What is the missing letter? schoo_ bag / Chữ cái còn thiếu là gì? schoo_ bag",
+    "options": ["l", "p", "t", "d"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A pair of scissors", "A knife", "A fork", "A spoon"],
+    "correctAnswer": "A pair of scissors"
+  },
+  {
+    "question": "My ____ is full of books and notebooks. / ____ của tôi đầy sách và vở.",
+    "options": ["school bag", "desk", "wardrobe", "box"],
+    "correctAnswer": "school bag"
+  },
+  {
+    "question": "Is it a picture of school things? / Nó có phải là một bức tranh về đồ dùng học tập không?",
+    "options": ["Yes, it is.", "No, it is a toy.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes my new ____. / Bạn tôi thích ____ mới của tôi.",
+    "options": ["pencil case", "book", "ruler", "eraser"],
+    "correctAnswer": "pencil case"
+  },
+  {
+    "question": "Spell the word: c-r-a-y-o-n / Đánh vần từ: c-r-a-y-o-n",
+    "options": ["crayon", "canyon", "crane", "crazy"],
+    "correctAnswer": "crayon"
+  },
+  {
+    "question": "This is a ____ day to go to school. / Đây là một ngày ____ để đi học.",
+    "options": ["good", "rainy", "cloudy", "windy"],
+    "correctAnswer": "good"
+  },
+  {
+    "question": "What is the missing letter? _ood / Chữ cái còn thiếu là gì? _ood",
+    "options": ["g", "h", "w", "f"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A globe", "A map", "A ball", "A circle"],
+    "correctAnswer": "A globe"
+  },
+  {
+    "question": "My teacher is holding a ____. / Cô giáo của tôi đang cầm một ____.",
+    "options": ["book", "pen", "ruler", "eraser"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "Are the pencils sharp? / Những cây bút chì có nhọn không?",
+    "options": ["Yes, they are.", "No, they are blunt.", "They are pencils.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My classroom has many ____. / Lớp học của tôi có nhiều ____.",
+    "options": ["desks and chairs", "beds and sofas", "tables and lamps", "all are correct"],
+    "correctAnswer": "desks and chairs"
+  },
+  {
+    "question": "Spell the word: d-e-s-k / Đánh vần từ: d-e-s-k",
+    "options": ["desk", "disk", "dark", "duck"],
+    "correctAnswer": "desk"
+  },
+  {
+    "question": "I am ____ with my new school things. / Tôi ____ với đồ dùng học tập mới của mình.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? rule_",
+    "options": ["r", "s", "t", "p"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A glue stick", "A tape", "A stapler", "A puncher"],
+    "correctAnswer": "A glue stick"
+  },
+  {
+    "question": "My school things are my favorite ____. / Đồ dùng học tập là ____ yêu thích của tôi.",
+    "options": ["things", "food", "colour", "toy"],
+    "correctAnswer": "things"
+  },
+  {
+    "question": "Is the notebook thick? / Quyển vở có dày không?",
+    "options": ["No, it is thin.", "Yes, it is.", "It is a notebook.", "Hello."],
+    "correctAnswer": "No, it is thin."
+  },
+  {
+    "question": "The classroom has a ____. / Lớp học có một ____.",
+    "options": ["clock", "map", "poster", "picture"],
+    "correctAnswer": "clock"
+  },
+  {
+    "question": "Spell the word: c-l-o-c-k / Đánh vần từ: c-l-o-c-k",
+    "options": ["clock", "block", "chock", "cluck"],
+    "correctAnswer": "clock"
+  },
+  {
+    "question": "We use ____ to write. / Chúng tôi dùng ____ để viết.",
+    "options": ["pens and pencils", "rulers and erasers", "books and notebooks", "bags and cases"],
+    "correctAnswer": "pens and pencils"
+  },
+  {
+    "question": "What is the missing letter? penci_ case",
+    "options": ["l", "s", "t", "p"],
+    "correctAnswer": "l"
+  }
+]
+

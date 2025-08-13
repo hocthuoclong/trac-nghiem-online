@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Is there a ____ in your house? - Yes, there is. / Có một ____ trong nhà của bạn không? - Vâng, có.",
+    "options": ["garden", "pond", "gate", "fence"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "This is the ____. It's in front of the house. / Đây là ____. Nó ở phía trước ngôi nhà.",
+    "options": ["gate", "garden", "pond", "fence"],
+    "correctAnswer": "gate"
+  },
+  {
+    "question": "There is a ____ around the house. / Có một ____ xung quanh ngôi nhà.",
+    "options": ["fence", "gate", "pond", "garden"],
+    "correctAnswer": "fence"
+  },
+  {
+    "question": "This is a ____. There are fish in it. / Đây là một ____. Có cá trong đó.",
+    "options": ["pond", "garden", "gate", "fence"],
+    "correctAnswer": "pond"
+  },
+  {
+    "question": "Spell the word: h-o-u-s-e / Đánh vần từ: h-o-u-s-e",
+    "options": ["house", "horse", "mouse", "blouse"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Is there a living room? / Có phòng khách không?",
+    "options": ["Yes, there is.", "No, there isn't.", "It is a house.", "I have a garden."],
+    "correctAnswer": "Yes, there is."
+  },
+  {
+    "question": "My house has a beautiful ____. / Nhà tôi có một ____ đẹp.",
+    "options": ["garden", "pond", "gate", "fence"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "Find the word: g-a-r-d-e-n / Tìm từ: g-a-r-d-e-n",
+    "options": ["garden", "golden", "gargle", "guardian"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "Is there a pond? / Có một cái ao không?",
+    "options": ["No, there isn't.", "Yes, there is.", "It is a garden.", "I have a fence."],
+    "correctAnswer": "No, there isn't."
+  },
+  {
+    "question": "This is a big ____. / Đây là một ____ lớn.",
+    "options": ["house", "garden", "pond", "gate"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "What is in the garden? / Có gì trong vườn?",
+    "options": ["There are flowers.", "There is a bed.", "There is a sofa.", "There is a table."],
+    "correctAnswer": "There are flowers."
+  },
+  {
+    "question": "I like to open the ____. / Tôi thích mở ____.",
+    "options": ["gate", "garden", "pond", "fence"],
+    "correctAnswer": "gate"
+  },
+  {
+    "question": "What is the missing letter": "gat_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is my ____. It's lovely. / Đây là ____ của tôi. Nó đáng yêu.",
+    "options": ["house", "school", "office", "shop"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "My father is painting the ____. / Bố tôi đang sơn ____.",
+    "options": ["fence", "gate", "pond", "garden"],
+    "correctAnswer": "fence"
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["garden", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "Spell the word: p-o-n-d / Đánh vần từ: p-o-n-d",
+    "options": ["pond", "bond", "fond", "pawn"],
+    "correctAnswer": "pond"
+  },
+  {
+    "question": "Is this a big garden? / Đây có phải là một khu vườn lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a garden.", "I can see flowers."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am in the ____. / Tôi đang ở trong ____.",
+    "options": ["house", "school", "shop", "car"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "What is the missing letter": "_ence / Chữ cái còn thiếu là gì? _ence",
+    "options": ["f", "p", "t", "d"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
+    "options": ["flowers", "trees", "leaves", "benches"],
+    "correctAnswer": "flowers"
+  },
+  {
+    "question": "How many rooms are there? / Có bao nhiêu phòng?",
+    "options": ["Five", "One", "Two", "Three"],
+    "correctAnswer": "Five"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "Spell the word: f-e-n-c-e / Đánh vần từ: f-e-n-c-e",
+    "options": ["fence", "face", "fine", "fire"],
+    "correctAnswer": "fence"
+  },
+  {
+    "question": "Is it a beautiful house? / Nó có phải là một ngôi nhà đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "It is a house.", "I can see a garden."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can see a ____ in the living room. / Chúng ta có thể thấy một ____ trong phòng khách.",
+    "options": ["sofa", "bed", "desk", "toilet"],
+    "correctAnswer": "sofa"
+  },
+  {
+    "question": "What is the missing letter": "garde_",
+    "options": ["n", "t", "d", "p"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A kitchen", "A bedroom", "A bathroom", "A living room"],
+    "correctAnswer": "A kitchen"
+  },
+  {
+    "question": "This is a ____. You sleep here. / Đây là một ____. Bạn ngủ ở đây.",
+    "options": ["bedroom", "kitchen", "bathroom", "living room"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "This is ____. It's my home. / Đây là ____. Đó là nhà của tôi.",
+    "options": ["my house", "my school", "my playground", "my park"],
+    "correctAnswer": "my house"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bathroom", "A kitchen", "A bedroom", "A living room"],
+    "correctAnswer": "A bathroom"
+  },
+  {
+    "question": "Find the word: h-o-u-s-e / Tìm từ: h-o-u-s-e",
+    "options": ["house", "horse", "hose", "hour"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Is there a fence around your house? / Có hàng rào xung quanh nhà bạn không?",
+    "options": ["Yes, there is.", "No, there isn't.", "I am at home.", "I like my house."],
+    "correctAnswer": "Yes, there is."
+  },
+  {
+    "question": "My ____ is white. / ____ của tôi màu trắng.",
+    "options": ["fence", "gate", "pond", "garden"],
+    "correctAnswer": "fence"
+  },
+  {
+    "question": "What is the missing letter": "pon_",
+    "options": ["d", "n", "m", "p"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["house", "book", "lesson", "game"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Spell the word: g-a-t-e / Đánh vần từ: g-a-t-e",
+    "options": ["gate", "game", "gave", "late"],
+    "correctAnswer": "gate"
+  },
+  {
+    "question": "Is this a big house? / Đây có phải là một ngôi nhà lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I can see a house.", "I like houses."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The house has a big ____. / Ngôi nhà có một ____ lớn.",
+    "options": ["yard", "pool", "garage", "balcony"],
+    "correctAnswer": "yard"
+  },
+  {
+    "question": "What is the missing letter": "_ard / Chữ cái còn thiếu là gì? _ard",
+    "options": ["y", "p", "b", "c"],
+    "correctAnswer": "y"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A tree", "A flower", "A plant", "A bush"],
+    "correctAnswer": "A tree"
+  },
+  {
+    "question": "My ____ is in the garden. / ____ của tôi ở trong vườn.",
+    "options": ["tree", "bed", "sofa", "chair"],
+    "correctAnswer": "tree"
+  },
+  {
+    "question": "Is the gate open? / Cổng có mở không?",
+    "options": ["No, it is closed.", "Yes, it is.", "It is a gate.", "Hello."],
+    "correctAnswer": "No, it is closed."
+  },
+  {
+    "question": "I can see a house and a ____. / Tôi có thể thấy một ngôi nhà và một ____.",
+    "options": ["garden", "river", "mountain", "field"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "Find the word: l-i-v-i-n-g / Tìm từ: l-i-v-i-n-g",
+    "options": ["living", "loving", "leaving", "lifting"],
+    "correctAnswer": "living"
+  },
+  {
+    "question": "This is my ____ room. I watch TV here. / Đây là phòng ____ của tôi. Tôi xem TV ở đây.",
+    "options": ["living", "bed", "bath", "dining"],
+    "correctAnswer": "living"
+  },
+  {
+    "question": "What is the missing letter": "kitche_",
+    "options": ["n", "k", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Is it a beautiful garden? / Nó có phải là một khu vườn đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like gardens.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["home", "homework", "class", "test"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A dining room", "A living room", "A bedroom", "A kitchen"],
+    "correctAnswer": "A dining room"
+  },
+  {
+    "question": "How many windows does your house have? / Nhà bạn có bao nhiêu cửa sổ?",
+    "options": ["Many", "One", "Two", "Three"],
+    "correctAnswer": "Many"
+  },
+  {
+    "question": "A house is a place for a ____. / Một ngôi nhà là một nơi cho một ____.",
+    "options": ["family", "school", "shop", "park"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "I have ____ big garden. / Tôi có ____ khu vườn lớn.",
+    "options": ["a", "an", "many", "some"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What colour is your house? / Nhà của bạn màu gì?",
+    "options": ["It's yellow.", "It's a house.", "It's big.", "I have a house."],
+    "correctAnswer": "It's yellow."
+  },
+  {
+    "question": "What is in the kitchen? / Có gì trong nhà bếp?",
+    "options": ["A fridge", "A bed", "A sofa", "A TV"],
+    "correctAnswer": "A fridge"
+  },
+  {
+    "question": "The garden is ____. / Khu vườn thì ____.",
+    "options": ["green", "small", "short", "thin"],
+    "correctAnswer": "green"
+  },
+  {
+    "question": "The flowers are ____. / Những bông hoa thì ____.",
+    "options": ["colourful", "ugly", "sad", "bad"],
+    "correctAnswer": "colourful"
+  },
+  {
+    "question": "Is your house new? / Nhà của bạn có mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My house is ____. / Nhà của tôi thì ____.",
+    "options": ["cozy", "noisy", "busy", "crowded"],
+    "correctAnswer": "cozy"
+  },
+  {
+    "question": "What is the missing letter": "co_y / Chữ cái còn thiếu là gì? co_y",
+    "options": ["z", "s", "t", "k"],
+    "correctAnswer": "z"
+  },
+  {
+    "question": "This is the ____. / Đây là ____.",
+    "options": ["gate", "fence", "pond", "garden"],
+    "correctAnswer": "gate"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["house", "dog", "cat", "bird"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Is the pond deep? / Cái ao có sâu không?",
+    "options": ["No, it is shallow.", "Yes, it is.", "It is a pond.", "Hello."],
+    "correctAnswer": "No, it is shallow."
+  },
+  {
+    "question": "Let's go into the ____. / Hãy đi vào ____.",
+    "options": ["house", "car", "box", "bag"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "Spell the word: k-i-t-c-h-e-n / Đánh vần từ: k-i-t-c-h-e-n",
+    "options": ["kitchen", "chicken", "kitten", "kicking"],
+    "correctAnswer": "kitchen"
+  },
+  {
+    "question": "I have ____ beautiful picture in my living room. / Tôi có ____ bức tranh đẹp trong phòng khách.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite room is the ____. / Căn phòng yêu thích của tôi là ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "What is the missing letter": "livin_",
+    "options": ["g", "a", "i", "o"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is ____. It's upstairs. / Đây là ____. Nó ở trên lầu.",
+    "options": ["the bedroom", "the kitchen", "the living room", "the garden"],
+    "correctAnswer": "the bedroom"
+  },
+  {
+    "question": "We should keep our house ____. / Chúng ta nên giữ cho nhà của mình ____.",
+    "options": ["clean", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "Is it a wooden fence? / Nó có phải là một hàng rào gỗ không?",
+    "options": ["Yes, it is.", "No, it is metal.", "I like fences.", "The fence is long."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
+    "options": ["clean", "clear", "clan", "cleft"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "I help my mom water the ____. / Tôi giúp mẹ tôi tưới ____.",
+    "options": ["plants", "house", "road", "path"],
+    "correctAnswer": "plants"
+  },
+  {
+    "question": "The kitchen has a ____. / Nhà bếp có một ____.",
+    "options": ["stove", "bed", "sofa", "TV"],
+    "correctAnswer": "stove"
+  },
+  {
+    "question": "What is the missing letter": "stov_",
+    "options": ["e", "p", "t", "d"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A garage", "A kitchen", "A bedroom", "A living room"],
+    "correctAnswer": "A garage"
+  },
+  {
+    "question": "My ____ is full of flowers. / ____ của tôi đầy hoa.",
+    "options": ["garden", "house", "room", "bag"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "Is it a picture of a house? / Nó có phải là một bức tranh về một ngôi nhà không?",
+    "options": ["Yes, it is.", "No, it is a school.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
+    "options": ["house", "room", "garden", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: r-o-o-m / Đánh vần từ: r-o-o-m",
+    "options": ["room", "roof", "root", "roam"],
+    "correctAnswer": "room"
+  },
+  {
+    "question": "This is a ____ day to stay at home. / Đây là một ngày ____ để ở nhà.",
+    "options": ["rainy", "sunny", "windy", "snowy"],
+    "correctAnswer": "rainy"
+  },
+  {
+    "question": "What is the missing letter": "_ainy / Chữ cái còn thiếu là gì? _ainy",
+    "options": ["r", "p", "b", "s"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A chimney", "A roof", "A window", "A door"],
+    "correctAnswer": "A chimney"
+  },
+  {
+    "question": "My father is in the ____. / Bố tôi đang ở trong ____.",
+    "options": ["garage", "garden", "kitchen", "bedroom"],
+    "correctAnswer": "garage"
+  },
+  {
+    "question": "Are the rooms big? / Các phòng có lớn không?",
+    "options": ["Yes, they are.", "No, they are small.", "They are rooms.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My house has a ____. / Nhà tôi có một ____.",
+    "options": ["roof", "chimney", "balcony", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: r-o-o-f / Đánh vần từ: r-o-o-f",
+    "options": ["roof", "room", "root", "hoof"],
+    "correctAnswer": "roof"
+  },
+  {
+    "question": "I am ____ in my house. / Tôi ____ trong nhà của mình.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter": "hous_",
+    "options": ["e", "s", "t", "p"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A key", "A lock", "A door", "A handle"],
+    "correctAnswer": "A key"
+  },
+  {
+    "question": "My house is my favorite ____. / Ngôi nhà là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
+  },
+  {
+    "question": "Is the garden big? / Khu vườn có lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a garden.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The house has a ____. / Ngôi nhà có một ____.",
+    "options": ["dining room", "living room", "bedroom", "kitchen"],
+    "correctAnswer": "dining room"
+  },
+  {
+    "question": "Spell the word: d-i-n-i-n-g / Đánh vần từ: d-i-n-i-n-g",
+    "options": ["dining", "singing", "ringing", "winning"],
+    "correctAnswer": "dining"
+  },
+  {
+    "question": "We eat in the ____. / Chúng tôi ăn trong ____.",
+    "options": ["dining room", "living room", "bedroom", "bathroom"],
+    "correctAnswer": "dining room"
+  },
+  {
+    "question": "What is the missing letter": "dinin_",
+    "options": ["g", "s", "t", "p"],
+    "correctAnswer": "g"
+  }
+]
+

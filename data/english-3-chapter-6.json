@@ -1,0 +1,484 @@
+[
+  {
+    "question": "Is your ____ big? - Yes, it is. / ____ của bạn có lớn không? - Có, nó lớn.",
+    "options": ["school", "house", "class", "bag"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "This is the ____. We can play sports here. / Đây là ____. Chúng ta có thể chơi thể thao ở đây.",
+    "options": ["gym", "library", "classroom", "computer room"],
+    "correctAnswer": "gym"
+  },
+  {
+    "question": "We can read books in the ____. / Chúng ta có thể đọc sách trong ____.",
+    "options": ["library", "gym", "playground", "classroom"],
+    "correctAnswer": "library"
+  },
+  {
+    "question": "This is the ____. We can play here during break time. / Đây là ____. Chúng ta có thể chơi ở đây trong giờ giải lao.",
+    "options": ["playground", "library", "gym", "computer room"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "Spell the word: s-c-h-o-o-l / Đánh vần từ: s-c-h-o-o-l",
+    "options": ["school", "cool", "pool", "tool"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "This is the ____. We can use computers here. / Đây là ____. Chúng ta có thể sử dụng máy tính ở đây.",
+    "options": ["computer room", "library", "gym", "playground"],
+    "correctAnswer": "computer room"
+  },
+  {
+    "question": "I like my ____. It's beautiful. / Tôi thích ____ của tôi. Nó rất đẹp.",
+    "options": ["school", "book", "toy", "pet"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Find the word: g-y-m / Tìm từ: g-y-m",
+    "options": ["gym", "gem", "guy", "game"],
+    "correctAnswer": "gym"
+  },
+  {
+    "question": "Is the library big? / Thư viện có lớn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a library.", "I have a book."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a new ____. / Đây là một ____ mới.",
+    "options": ["school", "house", "car", "bag"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "What can you do in the library? / Bạn có thể làm gì trong thư viện?",
+    "options": ["I can read books.", "I can play football.", "I can sing.", "I can dance."],
+    "correctAnswer": "I can read books."
+  },
+  {
+    "question": "I like to ____ in the playground. / Tôi thích ____ ở sân chơi.",
+    "options": ["play", "read", "study", "sleep"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "What is the missing letter? gy_ / Chữ cái còn thiếu là gì? gy_",
+    "options": ["m", "n", "p", "t"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "This is our ____. It's large. / Đây là ____ của chúng tôi. Nó rộng lớn.",
+    "options": ["school", "class", "house", "garden"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "My school has a big ____. / Trường tôi có một ____ lớn.",
+    "options": ["gym", "pool", "shop", "cafe"],
+    "correctAnswer": "gym"
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["library", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "library"
+  },
+  {
+    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Is this a new computer room? / Đây có phải là một phòng máy tính mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "It is a computer room.", "I can see computers."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am in the ____. / Tôi đang ở trong ____.",
+    "options": ["playground", "house", "shop", "car"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "What is the missing letter? _chool / Chữ cái còn thiếu là gì? _chool",
+    "options": ["s", "c", "b", "d"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "This is the ____. We study here. / Đây là ____. Chúng tôi học ở đây.",
+    "options": ["classroom", "playground", "gym", "library"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "How many computer rooms does your school have? / Trường của bạn có bao nhiêu phòng máy tính?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["library", "gym", "playground", "classroom"],
+    "correctAnswer": "library"
+
+  },
+  {
+    "question": "Spell the word: l-i-b-r-a-r-y / Đánh vần từ: l-i-b-r-a-r-y",
+    "options": ["library", "liberty", "liberal", "librarian"],
+    "correctAnswer": "library"
+  },
+  {
+    "question": "Is it a big gym? / Nó có phải là một phòng tập thể dục lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is my school.", "I can see the gym."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can see many ____ in the playground. / Chúng ta có thể thấy nhiều ____ ở sân chơi.",
+    "options": ["children", "books", "computers", "tables"],
+    "correctAnswer": "children"
+  },
+  {
+    "question": "What is the missing letter? g_m / Chữ cái còn thiếu là gì? g_m",
+    "options": ["y", "a", "e", "i"],
+    "correctAnswer": "y"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A computer room", "A classroom", "A library", "A gym"],
+    "correctAnswer": "A computer room"
+  },
+  {
+    "question": "This is a ____. You can borrow books here. / Đây là một ____. Bạn có thể mượn sách ở đây.",
+    "options": ["library", "shop", "cafe", "bank"],
+    "correctAnswer": "library"
+  },
+  {
+    "question": "This is ____. It's a place for learning. / Đây là ____. Đó là một nơi để học tập.",
+    "options": ["our school", "our house", "our playground", "our park"],
+    "correctAnswer": "our school"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A playground", "A garden", "A park", "A forest"],
+    "correctAnswer": "A playground"
+  },
+  {
+    "question": "Find the word: c-o-m-p-u-t-e-r / Tìm từ: c-o-m-p-u-t-e-r",
+    "options": ["computer", "commuter", "compete", "complete"],
+    "correctAnswer": "computer"
+  },
+  {
+    "question": "Is it a quiet place? / Nó có phải là một nơi yên tĩnh không?",
+    "options": ["Yes, it is. (The library)", "No, it is noisy. (The playground)", "I am at school.", "I like my school."],
+    "correctAnswer": "Yes, it is. (The library)"
+  },
+  {
+    "question": "My ____ is big and modern. / ____ của tôi lớn và hiện đại.",
+    "options": ["school", "house", "book", "pet"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "What is the missing letter? librar_",
+    "options": ["y", "n", "m", "p"],
+    "correctAnswer": "y"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["school", "book", "lesson", "game"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Spell the word: g-y-m / Đánh vần từ: g-y-m",
+    "options": ["gym", "gem", "guy", "game"],
+    "correctAnswer": "gym"
+  },
+  {
+    "question": "Is this a new school? / Đây có phải là một ngôi trường mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "I can see a school.", "I like schools."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The school has a big ____. / Trường học có một ____ lớn.",
+    "options": ["playground", "house", "shop", "cafe"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "What is the missing letter? _layground / Chữ cái còn thiếu là gì? _layground",
+    "options": ["p", "b", "c", "g"],
+    "correctAnswer": "p"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A music room", "A classroom", "A library", "A gym"],
+    "correctAnswer": "A music room"
+  },
+  {
+    "question": "My ____ is on the second floor. / ____ của tôi ở trên tầng hai.",
+    "options": ["classroom", "computer", "map", "poster"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "Is the playground big? / Sân chơi có lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a playground.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a gym and a ____. / Tôi có thể thấy một phòng tập thể dục và một ____.",
+    "options": ["library", "house", "car", "book"],
+    "correctAnswer": "library"
+  },
+  {
+    "question": "Find the word: c-l-a-s-s-r-o-o-m / Tìm từ: c-l-a-s-s-r-o-o-m",
+    "options": ["classroom", "classmate", "classwork", "classic"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "This is my ____. I have PE here. / Đây là ____ của tôi. Tôi có môn Thể dục ở đây.",
+    "options": ["gym", "library", "classroom", "computer room"],
+    "correctAnswer": "gym"
+  },
+  {
+    "question": "What is the missing letter? compute_",
+    "options": ["r", "k", "p", "t"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Is it a beautiful school? / Nó có phải là một ngôi trường đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like my school.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["school day", "homework", "class", "test"],
+    "correctAnswer": "school day"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["An art room", "A music room", "A classroom", "A library"],
+    "correctAnswer": "An art room"
+  },
+  {
+    "question": "How many students are in your class? / Lớp của bạn có bao nhiêu học sinh?",
+    "options": ["Thirty", "Ten", "Twenty", "Forty"],
+    "correctAnswer": "Thirty"
+  },
+  {
+    "question": "A school is a place for ____. / Một ngôi trường là một nơi để ____.",
+    "options": ["learning", "playing", "sleeping", "working"],
+    "correctAnswer": "learning"
+  },
+  {
+    "question": "I see ____ books in the library. / Tôi thấy ____ quyển sách trong thư viện.",
+    "options": ["many", "a", "an", "one"],
+    "correctAnswer": "many"
+  },
+  {
+    "question": "What colour is your school? / Trường của bạn màu gì?",
+    "options": ["Yellow", "Blue", "Red", "Green"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "What is in the computer room? / Có gì trong phòng máy tính?",
+    "options": ["Computers", "Books", "Balls", "Beds"],
+    "correctAnswer": "Computers"
+  },
+  {
+    "question": "The library is ____. / Thư viện thì ____.",
+    "options": ["quiet", "noisy", "small", "thin"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "question": "The students are ____. / Các bạn học sinh thì ____.",
+    "options": ["studying", "playing", "sad", "bad"],
+    "correctAnswer": "studying"
+  },
+  {
+    "question": "Is your school new? / Trường của bạn có mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My school is ____. / Trường của tôi thì ____.",
+    "options": ["large", "noisy", "busy", "crowded"],
+    "correctAnswer": "large"
+  },
+  {
+    "question": "What is the missing letter? lar_e / Chữ cái còn thiếu là gì? lar_e",
+    "options": ["g", "t", "d", "k"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is the ____. / Đây là ____.",
+    "options": ["gym", "library", "playground", "classroom"],
+    "correctAnswer": "gym"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["school", "dog", "cat", "bird"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Is the computer working? / Máy tính có hoạt động không?",
+    "options": ["Yes, it is.", "No, it is broken.", "It is a computer.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["playground", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "Spell the word: l-e-a-r-n / Đánh vần từ: l-e-a-r-n",
+    "options": ["learn", "lean", "leaf", "lend"],
+    "correctAnswer": "learn"
+  },
+  {
+    "question": "I have ____ new book from the library. / Tôi có ____ quyển sách mới từ thư viện.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite place at school is the ____. / Nơi yêu thích của tôi ở trường là ____.",
+    "options": ["playground", "library", "gym", "classroom"],
+    "correctAnswer": "playground"
+  },
+  {
+    "question": "What is the missing letter? play_round / Chữ cái còn thiếu là gì? play_round",
+    "options": ["g", "a", "i", "o"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is ____. We sing and play music here. / Đây là ____. Chúng tôi hát và chơi nhạc ở đây.",
+    "options": ["the music room", "the art room", "the gym", "the library"],
+    "correctAnswer": "the music room"
+  },
+  {
+    "question": "We should be ____ in the library. / Chúng ta nên ____ trong thư viện.",
+    "options": ["quiet", "loud", "running", "shouting"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "question": "Is it a big library? / Nó có phải là một thư viện lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I like libraries.", "The library has books."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: q-u-i-e-t / Đánh vần từ: q-u-i-e-t",
+    "options": ["quiet", "quite", "quit", "quilt"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "question": "I help my teacher in the ____. / Tôi giúp cô giáo của tôi trong ____.",
+    "options": ["classroom", "gym", "library", "playground"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "The school has a ____ for plants. / Trường học có một ____ cho cây cối.",
+    "options": ["garden", "playground", "gym", "library"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "What is the missing letter? garde_",
+    "options": ["n", "p", "t", "d"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A school bell", "A fire alarm", "A clock", "A phone"],
+    "correctAnswer": "A school bell"
+  },
+  {
+    "question": "My ____ is big and clean. / ____ của tôi lớn và sạch sẽ.",
+    "options": ["school", "house", "room", "bag"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "Is it a picture of our school? / Nó có phải là một bức tranh về trường của chúng ta không?",
+    "options": ["Yes, it is.", "No, it is another school.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to play ____ in the gym. / Bạn tôi thích chơi ____ trong phòng tập thể dục.",
+    "options": ["basketball", "football", "badminton", "volleyball"],
+    "correctAnswer": "basketball"
+  },
+  {
+    "question": "Spell the word: b-o-o-k / Đánh vần từ: b-o-o-k",
+    "options": ["book", "look", "cook", "hook"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "This is a ____ day at school. / Đây là một ngày ____ ở trường.",
+    "options": ["great", "rainy", "cloudy", "windy"],
+    "correctAnswer": "great"
+  },
+  {
+    "question": "What is the missing letter? _reat / Chữ cái còn thiếu là gì? _reat",
+    "options": ["g", "p", "b", "c"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A principal's office", "A classroom", "A library", "A gym"],
+    "correctAnswer": "A principal's office"
+  },
+  {
+    "question": "My teacher is in the ____. / Cô giáo của tôi đang ở trong ____.",
+    "options": ["staff room", "classroom", "library", "gym"],
+    "correctAnswer": "staff room"
+  },
+  {
+    "question": "Are the computers new? / Các máy tính có mới không?",
+    "options": ["Yes, they are.", "No, they are old.", "They are computers.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My school has many ____. / Trường tôi có nhiều ____.",
+    "options": ["teachers", "doctors", "farmers", "pilots"],
+    "correctAnswer": "teachers"
+  },
+  {
+    "question": "Spell the word: t-e-a-c-h-e-r / Đánh vần từ: t-e-a-c-h-e-r",
+    "options": ["teacher", "reacher", "bleacher", "peacher"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "I am ____ at school. / Tôi ____ ở trường.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? schoo_",
+    "options": ["l", "k", "t", "p"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A school bus", "A car", "A bike", "A train"],
+    "correctAnswer": "A school bus"
+  },
+  {
+    "question": "My school is my favorite ____. / Trường học là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
+  },
+  {
+    "question": "Is the library open? / Thư viện có mở cửa không?",
+    "options": ["Yes, it is.", "No, it is closed.", "It is a library.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The school has a ____. / Trường học có một ____.",
+    "options": ["canteen", "cafe", "restaurant", "shop"],
+    "correctAnswer": "canteen"
+  },
+  {
+    "question": "Spell the word: c-a-n-t-e-e-n / Đánh vần từ: c-a-n-t-e-e-n",
+    "options": ["canteen", "captain", "canton", "cantor"],
+    "correctAnswer": "canteen"
+  },
+  {
+    "question": "We eat lunch in the ____. / Chúng tôi ăn trưa trong ____.",
+    "options": ["canteen", "classroom", "library", "gym"],
+    "correctAnswer": "canteen"
+  },
+  {
+    "question": "What is the missing letter? cantee_",
+    "options": ["n", "s", "t", "p"],
+    "correctAnswer": "n"
+  }
+]
+

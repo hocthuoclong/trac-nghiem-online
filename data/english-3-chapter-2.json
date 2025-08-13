@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What's ____ name? - My name's Phong. / ____ tên là gì? - Tên tớ là Phong.",
+    "options": ["your", "my", "his", "her"],
+    "correctAnswer": "your"
+  },
+  {
+    "question": "A: What's your name? B: ____ name's Linda. / A: Tên bạn là gì? B: Tên ____ là Linda.",
+    "options": ["My", "Your", "His", "Her"],
+    "correctAnswer": "My"
+  },
+  {
+    "question": "How do you ____ your name? / Bạn ____ tên của bạn như thế nào?",
+    "options": ["spell", "say", "read", "write"],
+    "correctAnswer": "spell"
+  },
+  {
+    "question": "This is Tony. And this ____ my friend, Mary. / Đây là Tony. Và đây ____ bạn của tớ, Mary.",
+    "options": ["is", "am", "are", "be"],
+    "correctAnswer": "is"
+  },
+  {
+    "question": "Spell the word: N-A-M-E / Đánh vần từ: N-A-M-E",
+    "options": ["name", "game", "same", "lame"],
+    "correctAnswer": "name"
+  },
+  {
+    "question": "A: Is that Tony? B: Yes, ____. / A: Đó có phải là Tony không? B: Vâng, ____.",
+    "options": ["it is", "I am", "he is", "she is"],
+    "correctAnswer": "it is"
+  },
+  {
+    "question": "My name ____ Peter. / Tên tớ ____ Peter.",
+    "options": ["is", "am", "are", "be"],
+    "correctAnswer": "is"
+  },
+  {
+    "question": "Find the word: f-r-i-e-n-d / Tìm từ: f-r-i-e-n-d",
+    "options": ["friend", "find", "fries", "front"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "Is that Linda? / Đó có phải là Linda không?",
+    "options": ["Yes, it is.", "No, it isn't.", "I am Linda.", "Her name is Linda."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "____ is my friend. / ____ là bạn của tớ.",
+    "options": ["This", "I", "My", "You"],
+    "correctAnswer": "This"
+  },
+  {
+    "question": "How do you spell 'Peter'? / Bạn đánh vần 'Peter' như thế nào?",
+    "options": ["P-E-T-E-R", "P-I-T-E-R", "P-E-T-A-R", "B-E-T-E-R"],
+    "correctAnswer": "P-E-T-E-R"
+  },
+  {
+    "question": "What ____ your name? / Tên của bạn ____ gì?",
+    "options": ["is", "am", "are", "be"],
+    "correctAnswer": "is"
+  },
+  {
+    "question": "What is the missing letter? na_e / Chữ cái còn thiếu là gì? na_e",
+    "options": ["m", "p", "t", "d"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "This is my new ____. / Đây là ____ mới của tớ.",
+    "options": ["friend", "book", "pen", "bag"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "My ____ is Phong. / ____ của tớ là Phong.",
+    "options": ["name", "friend", "school", "class"],
+    "correctAnswer": "name"
+  },
+  {
+    "question": "Let's ask for ____. / Hãy hỏi ____.",
+    "options": ["names", "books", "pencils", "chairs"],
+    "correctAnswer": "names"
+  },
+  {
+    "question": "Spell the word: s-p-e-l-l / Đánh vần từ: s-p-e-l-l",
+    "options": ["spell", "speak", "spend", "spill"],
+    "correctAnswer": "spell"
+  },
+  {
+    "question": "Is your name Mai? / Tên của bạn có phải là Mai không?",
+    "options": ["No, it isn't. My name is Hoa.", "Yes, I am.", "I am fine.", "I have a friend."],
+    "correctAnswer": "No, it isn't. My name is Hoa."
+  },
+  {
+    "question": "I am ____ a new student. / Tớ ____ một học sinh mới.",
+    "options": ["a", "an", "the", "am"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the missing letter? _ame / Chữ cái còn thiếu là gì? _ame",
+    "options": ["n", "g", "s", "l"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is ____. / Đây là ____.",
+    "options": ["Tony", "a book", "a pen", "a bag"],
+    "correctAnswer": "Tony"
+  },
+  {
+    "question": "How do you spell 'Quan'? / Bạn đánh vần 'Quan' như thế nào?",
+    "options": ["Q-U-A-N", "C-U-A-N", "Q-A-N", "K-U-A-N"],
+    "correctAnswer": "Q-U-A-N"
+  },
+  {
+    "question": "Hello. My ____ is Ben. / Xin chào. ____ của tớ là Ben.",
+    "options": ["name", "I", "You", "Your"],
+    "correctAnswer": "name"
+  },
+  {
+    "question": "Spell the word: f-r-i-e-n-d / Đánh vần từ: f-r-i-e-n-d",
+    "options": ["friend", "find", "fries", "front"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "A: What's your name? B: ____. / A: Tên bạn là gì? B: ____.",
+    "options": ["I'm Mary.", "Nice to meet you.", "Goodbye.", "Hello."],
+    "correctAnswer": "I'm Mary."
+  },
+  {
+    "question": "We use 'What's your name?' to ask for a person's ____. / Chúng ta dùng 'What's your name?' để hỏi ____ của một người.",
+    "options": ["name", "age", "health", "address"],
+    "correctAnswer": "name"
+  },
+  {
+    "question": "What is the missing letter? spe_l / Chữ cái còn thiếu là gì? spe_l",
+    "options": ["l", "t", "d", "p"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A name tag", "A question", "An answer", "A greeting"],
+    "correctAnswer": "A name tag"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["question", "name", "friend", "class"],
+    "correctAnswer": "question"
+  },
+  {
+    "question": "This is ____. It's a way to ask for a name. / Đây là ____. Đó là một cách để hỏi tên.",
+    "options": ["What's your name?", "How are you?", "Hello.", "Goodbye."],
+    "correctAnswer": "What's your name?"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["The alphabet", "Numbers", "Colours", "Shapes"],
+    "correctAnswer": "The alphabet"
+  },
+  {
+    "question": "Find the word: a-l-p-h-a-b-e-t / Tìm từ: a-l-p-h-a-b-e-t",
+    "options": ["alphabet", "alpha", "bet", "able"],
+    "correctAnswer": "alphabet"
+  },
+  {
+    "question": "Is it correct? - Y-E-S / Nó có đúng không? - Y-E-S",
+    "options": ["Yes, it is.", "No, it is wrong.", "I am spelling.", "I like to spell."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is not difficult to spell. / ____ của tôi không khó đánh vần.",
+    "options": ["name", "house", "book", "pet"],
+    "correctAnswer": "name"
+  },
+  {
+    "question": "What is the missing letter? frien_",
+    "options": ["d", "a", "i", "o"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["class", "book", "lesson", "game"],
+    "correctAnswer": "class"
+  },
+  {
+    "question": "Spell the word: c-l-a-s-s / Đánh vần từ: c-l-a-s-s",
+    "options": ["class", "glass", "grass", "clasp"],
+    "correctAnswer": "class"
+  },
+  {
+    "question": "Is this your teacher? / Đây có phải là giáo viên của bạn không?",
+    "options": ["Yes, she is.", "No, he is not.", "I can see a teacher.", "I like teachers."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "The class has a new ____. / Lớp học có một ____ mới.",
+    "options": ["student", "teacher", "board", "desk"],
+    "correctAnswer": "student"
+  },
+  {
+    "question": "What is the missing letter? _tudent / Chữ cái còn thiếu là gì? _tudent",
+    "options": ["s", "p", "b", "c"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A classroom", "A playground", "A library", "A gym"],
+    "correctAnswer": "A classroom"
+  },
+  {
+    "question": "My ____ is Bill. / ____ của tớ là Bill.",
+    "options": ["friend", "pet", "toy", "book"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "Is the student new? / Học sinh đó có mới không?",
+    "options": ["Yes, he is.", "No, she is not.", "It is a student.", "Hello."],
+    "correctAnswer": "Yes, he is."
+  },
+  {
+    "question": "I can see a boy and a ____. / Tôi có thể thấy một bạn trai và một ____.",
+    "options": ["girl", "house", "car", "book"],
+    "correctAnswer": "girl"
+  },
+  {
+    "question": "Find the word: s-t-u-d-e-n-t / Tìm từ: s-t-u-d-e-n-t",
+    "options": ["student", "study", "student's", "studied"],
+    "correctAnswer": "student"
+  },
+  {
+    "question": "This is my ____. His name is Tom. / Đây là ____ của tôi. Tên cậu ấy là Tom.",
+    "options": ["friend", "teacher", "mother", "sister"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "What is the missing letter? studen_",
+    "options": ["t", "p", "d", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "Is it a new class? / Nó có phải là một lớp học mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "I like class.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is friendly. / ____ của tôi rất thân thiện.",
+    "options": ["classmate", "homework", "lesson", "test"],
+    "correctAnswer": "classmate"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A school", "A house", "A shop", "A park"],
+    "correctAnswer": "A school"
+  },
+  {
+    "question": "A: ____ your name? B: My name's Bill. / A: Tên ____ là gì? B: Tên tớ là Bill.",
+    "options": ["What's", "How", "Is", "Are"],
+    "correctAnswer": "What's"
+  },
+  {
+    "question": "A: ____ do you spell your name? B: B-I-L-L. / A: Bạn đánh vần tên của bạn ____? B: B-I-L-L.",
+    "options": ["How", "What", "Is", "Are"],
+    "correctAnswer": "How"
+  },
+  {
+    "question": "I have ____ new classmate. / Tôi có ____ bạn học mới.",
+    "options": ["a", "an", "many", "some"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What's his name? / Tên anh ấy là gì?",
+    "options": ["His name is David.", "Her name is Mary.", "My name is John.", "Your name is Tom."],
+    "correctAnswer": "His name is David."
+  },
+  {
+    "question": "What's her name? / Tên cô ấy là gì?",
+    "options": ["Her name is Mary.", "His name is David.", "My name is John.", "Your name is Tom."],
+    "correctAnswer": "Her name is Mary."
+  },
+  {
+    "question": "The boy's name is ____. / Tên của cậu bé là ____.",
+    "options": ["Tony", "Linda", "Peter", "Mai"],
+    "correctAnswer": "Tony"
+  },
+  {
+    "question": "The girl's name is ____. / Tên của cô bé là ____.",
+    "options": ["Linda", "Tony", "Peter", "Nam"],
+    "correctAnswer": "Linda"
+  },
+  {
+    "question": "Is her name Lucy? / Tên cô ấy có phải là Lucy không?",
+    "options": ["Yes, it is.", "No, it isn't.", "Yes, she is.", "No, she isn't."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My first day at school is ____. / Ngày đầu tiên của tôi ở trường thì ____.",
+    "options": ["exciting", "boring", "sad", "bad"],
+    "correctAnswer": "exciting"
+  },
+  {
+    "question": "What is the missing letter? exciti_g / Chữ cái còn thiếu là gì? exciti_g",
+    "options": ["n", "t", "d", "k"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is ____. / Đây là ____.",
+    "options": ["a friend", "a teacher", "a student", "a person"],
+    "correctAnswer": "a friend"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["friends", "dog", "cat", "bird"],
+    "correctAnswer": "friends"
+  },
+  {
+    "question": "Is the teacher writing? / Cô giáo có đang viết không?",
+    "options": ["Yes, she is.", "No, she is reading.", "It is a teacher.", "Hello."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "Let's say hello to our new ____. / Hãy chào ____ mới của chúng ta.",
+    "options": ["classmate", "teacher", "friend", "student"],
+    "correctAnswer": "classmate"
+  },
+  {
+    "question": "Spell the word: c-l-a-s-s-m-a-t-e / Đánh vần từ: c-l-a-s-s-m-a-t-e",
+    "options": ["classmate", "classroom", "classwork", "classic"],
+    "correctAnswer": "classmate"
+  },
+  {
+    "question": "I have ____ new pen. / Tôi có ____ cái bút mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite person at school is my ____. / Người yêu thích của tôi ở trường là ____.",
+    "options": ["best friend", "teacher", "principal", "librarian"],
+    "correctAnswer": "best friend"
+  },
+  {
+    "question": "What is the missing letter? bes_",
+    "options": ["t", "a", "i", "o"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "This is ____. It's a way to introduce someone. / Đây là ____. Đó là một cách để giới thiệu ai đó.",
+    "options": ["This is...", "My name is...", "What's your name?", "How are you?"],
+    "correctAnswer": "This is..."
+  },
+  {
+    "question": "We should be ____ to our friends. / Chúng ta nên ____ với bạn bè của mình.",
+    "options": ["kind", "rude", "loud", "quiet"],
+    "correctAnswer": "kind"
+  },
+  {
+    "question": "Is it a big school? / Nó có phải là một ngôi trường lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I like school.", "The school is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: k-i-n-d / Đánh vần từ: k-i-n-d",
+    "options": ["kind", "king", "find", "mind"],
+    "correctAnswer": "kind"
+  },
+  {
+    "question": "I help my friend with ____. / Tôi giúp bạn tôi với ____.",
+    "options": ["English", "Maths", "Art", "Music"],
+    "correctAnswer": "English"
+  },
+  {
+    "question": "The students are in the ____. / Các bạn học sinh đang ở trong ____.",
+    "options": ["classroom", "playground", "library", "gym"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "What is the missing letter? clas_room / Chữ cái còn thiếu là gì? clas_room",
+    "options": ["s", "p", "t", "d"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A question mark", "A full stop", "A comma", "An exclamation mark"],
+    "correctAnswer": "A question mark"
+  },
+  {
+    "question": "My ____ is full of students. / ____ của tôi đầy học sinh.",
+    "options": ["class", "desk", "bag", "box"],
+    "correctAnswer": "class"
+  },
+  {
+    "question": "Is it a picture of a school? / Nó có phải là một bức tranh về một ngôi trường không?",
+    "options": ["Yes, it is.", "No, it is a house.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to ____. / Bạn tôi thích ____.",
+    "options": ["read", "write", "draw", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: r-e-a-d / Đánh vần từ: r-e-a-d",
+    "options": ["read", "red", "road", "ride"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "This is a ____ day at school. / Đây là một ngày ____ ở trường.",
+    "options": ["happy", "rainy", "cloudy", "windy"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? _appy / Chữ cái còn thiếu là gì? _appy",
+    "options": ["h", "p", "s", "m"],
+    "correctAnswer": "h"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A student", "A teacher", "A doctor", "A farmer"],
+    "correctAnswer": "A student"
+  },
+  {
+    "question": "My teacher is ____. / Cô giáo của tôi thì ____.",
+    "options": ["kind", "tall", "short", "young"],
+    "correctAnswer": "kind"
+  },
+  {
+    "question": "Are the students friendly? / Các bạn học sinh có thân thiện không?",
+    "options": ["Yes, they are.", "No, they are not.", "They are students.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My school has many ____. / Trường tôi có nhiều ____.",
+    "options": ["classrooms", "teachers", "students", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: f-r-i-e-n-d-l-y / Đánh vần từ: f-r-i-e-n-d-l-y",
+    "options": ["friendly", "friend", "finally", "friday"],
+    "correctAnswer": "friendly"
+  },
+  {
+    "question": "I am ____ in my class. / Tôi ____ trong lớp của mình.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? fri_ndly / Chữ cái còn thiếu là gì? fri_ndly",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A school bus", "A car", "A bike", "A train"],
+    "correctAnswer": "A school bus"
+  },
+  {
+    "question": "My school is my favorite ____. / Trường học là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
+  },
+  {
+    "question": "Is the lesson easy? / Bài học có dễ không?",
+    "options": ["Yes, it is.", "No, it is hard.", "It is a lesson.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The class has a ____. / Lớp học có một ____.",
+    "options": ["whiteboard", "blackboard", "smartboard", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: t-e-a-c-h-e-r / Đánh vần từ: t-e-a-c-h-e-r",
+    "options": ["teacher", "reacher", "bleacher", "peacher"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "We say ____ when we meet our friends. / Chúng ta nói ____ khi gặp bạn bè.",
+    "options": ["Hi", "Bye", "Thanks", "Sorry"],
+    "correctAnswer": "Hi"
+  },
+  {
+    "question": "What is the missing letter? teache_",
+    "options": ["r", "s", "t", "p"],
+    "correctAnswer": "r"
+  }
+]
+
