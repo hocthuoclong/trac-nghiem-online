@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this place? You buy food here. / Đây là nơi nào? Bạn mua thức ăn ở đây.",
+    "options": ["A grocery store", "A school", "A library", "A park"],
+    "correctAnswer": "A grocery store"
+  },
+  {
+    "question": "This is a red fruit. / Đây là một loại quả màu đỏ.",
+    "options": ["An apple", "A banana", "A lemon", "An orange"],
+    "correctAnswer": "An apple"
+  },
+  {
+    "question": "You can buy ____ here. It's white and you drink it. / Bạn có thể mua ____ ở đây. Nó màu trắng và bạn uống nó.",
+    "options": ["milk", "juice", "water", "soda"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "This is ____. You make sandwiches with it. / Đây là ____. Bạn làm bánh sandwich với nó.",
+    "options": ["bread", "rice", "noodles", "cake"],
+    "correctAnswer": "bread"
+  },
+  {
+    "question": "Spell the word: a-p-p-l-e / Đánh vần từ: a-p-p-l-e",
+    "options": ["apple", "apply", "able", "ample"],
+    "correctAnswer": "apple"
+  },
+  {
+    "question": "This is a ____. It's a yellow fruit. / Đây là một ____. Nó là một loại quả màu vàng.",
+    "options": ["banana", "apple", "orange", "grape"],
+    "correctAnswer": "banana"
+  },
+  {
+    "question": "I want to buy some ____. / Tôi muốn mua một ít ____.",
+    "options": ["eggs", "books", "toys", "clothes"],
+    "correctAnswer": "eggs"
+  },
+  {
+    "question": "Find the word: b-r-e-a-d / Tìm từ: b-r-e-a-d",
+    "options": ["bread", "read", "bead", "braid"],
+    "correctAnswer": "bread"
+  },
+  {
+    "question": "Do you have any milk? / Bạn có sữa không?",
+    "options": ["Yes, I do.", "No, I don't.", "It is a store.", "I have an apple."],
+    "correctAnswer": "Yes, I do."
+  },
+  {
+    "question": "This is ____. You eat it for dinner. / Đây là ____. Bạn ăn nó cho bữa tối.",
+    "options": ["rice", "bread", "cake", "candy"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "What can you buy at the grocery store? / Bạn có thể mua gì ở cửa hàng tạp hóa?",
+    "options": ["Food and drinks", "Clothes and shoes", "Books and pens", "Toys and games"],
+    "correctAnswer": "Food and drinks"
+  },
+  {
+    "question": "I like to eat ____. They are sweet. / Tôi thích ăn ____. Chúng ngọt.",
+    "options": ["sweets", "vegetables", "rice", "bread"],
+    "correctAnswer": "sweets"
+  },
+  {
+    "question": "What is the missing letter? mil_ / Chữ cái còn thiếu là gì? mil_",
+    "options": ["k", "t", "p", "b"],
+    "correctAnswer": "k"
+  },
+  {
+    "question": "This is a ____. It's an orange fruit. / Đây là một ____. Nó là một loại quả màu cam.",
+    "options": ["orange", "apple", "banana", "grape"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "My mother is buying ____. / Mẹ tôi đang mua ____.",
+    "options": ["vegetables", "flowers", "toys", "books"],
+    "correctAnswer": "vegetables"
+  },
+  {
+    "question": "Let's buy some ____. / Hãy mua một ít ____.",
+    "options": ["fruit", "clothes", "shoes", "hats"],
+    "correctAnswer": "fruit"
+  },
+  {
+    "question": "Spell the word: r-i-c-e / Đánh vần từ: r-i-c-e",
+    "options": ["rice", "nice", "mice", "lice"],
+    "correctAnswer": "rice"
+  },
+  {
+    "question": "Is this a big store? / Đây có phải là một cửa hàng lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a grocery store.", "I can see food."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am pushing a ____. / Tôi đang đẩy một ____.",
+    "options": ["cart", "car", "bike", "scooter"],
+    "correctAnswer": "cart"
+  },
+  {
+    "question": "What is the missing letter? _ggs / Chữ cái còn thiếu là gì? _ggs",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "These are long and yellow. / Những thứ này dài và màu vàng.",
+    "options": ["Noodles", "Rice", "Bread", "Sweets"],
+    "correctAnswer": "Noodles"
+  },
+  {
+    "question": "How many apples do you want? / Bạn muốn bao nhiêu quả táo?",
+    "options": ["Three, please.", "I'm fine.", "My name is Mai.", "I like apples."],
+    "correctAnswer": "Three, please."
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["biscuit", "cake", "candy", "chocolate"],
+    "correctAnswer": "biscuit"
+  },
+  {
+    "question": "Spell the word: o-r-a-n-g-e / Đánh vần từ: o-r-a-n-g-e",
+    "options": ["orange", "arrange", "range", "strange"],
+    "correctAnswer": "orange"
+  },
+  {
+    "question": "Is it fresh? / Nó có tươi không?",
+    "options": ["Yes, it is.", "No, it is old.", "It is a grocery store.", "I can see bread."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can get ____ from chickens. / Chúng ta có thể lấy ____ từ gà.",
+    "options": ["eggs", "milk", "wool", "honey"],
+    "correctAnswer": "eggs"
+  },
+  {
+    "question": "What is the missing letter? swee_",
+    "options": ["t", "d", "g", "p"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A carrot", "A tomato", "A potato", "An onion"],
+    "correctAnswer": "A carrot"
+  },
+  {
+    "question": "This is a ____. You put your groceries in it. / Đây là một ____. Bạn để hàng tạp hóa vào trong đó.",
+    "options": ["basket", "bag", "box", "cart"],
+    "correctAnswer": "basket"
+  },
+  {
+    "question": "This is ____. It's a drink. / Đây là ____. Nó là một loại đồ uống.",
+    "options": ["water", "bread", "rice", "noodles"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A banana", "An apple", "An orange", "A grape"],
+    "correctAnswer": "A banana"
+  },
+  {
+    "question": "Find the word: m-i-l-k / Tìm từ: m-i-l-k",
+    "options": ["milk", "mile", "like", "silk"],
+    "correctAnswer": "milk"
+  },
+  {
+    "question": "Is it sweet? / Nó có ngọt không?",
+    "options": ["Yes, it is.", "No, it is sour.", "I am in the store.", "I like sweets."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is full of food. / ____ của tôi đầy thức ăn.",
+    "options": ["cart", "bag", "box", "basket"],
+    "correctAnswer": "cart"
+  },
+  {
+    "question": "What is the missing letter? bana_a / Chữ cái còn thiếu là gì? bana_a",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["store", "book", "lesson", "game"],
+    "correctAnswer": "store"
+  },
+  {
+    "question": "Spell the word: e-g-g / Đánh vần từ: e-g-g",
+    "options": ["egg", "leg", "beg", "peg"],
+    "correctAnswer": "egg"
+  },
+  {
+    "question": "Is this a red apple? / Đây có phải là một quả táo màu đỏ không?",
+    "options": ["Yes, it is.", "No, it is green.", "I can see an apple.", "I like apples."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The grocery store has many ____. / Cửa hàng tạp hóa có nhiều ____.",
+    "options": ["aisles", "rooms", "floors", "doors"],
+    "correctAnswer": "aisles"
+  },
+  {
+    "question": "What is the missing letter? _isle / Chữ cái còn thiếu là gì? _isle",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["Noodles", "Rice", "Pasta", "Spaghetti"],
+    "correctAnswer": "Noodles"
+  },
+  {
+    "question": "My ____ is heavy. / ____ của tôi nặng.",
+    "options": ["basket", "hat", "pen", "book"],
+    "correctAnswer": "basket"
+  },
+  {
+    "question": "Is the bread fresh? / Bánh mì có tươi không?",
+    "options": ["Yes, it is.", "No, it is old.", "It is bread.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see bread and some ____. / Tôi có thể thấy bánh mì và một ít ____.",
+    "options": ["butter", "jam", "honey", "cheese"],
+    "correctAnswer": "butter"
+  },
+  {
+    "question": "Find the word: c-a-r-r-o-t / Tìm từ: c-a-r-r-o-t",
+    "options": ["carrot", "parrot", "carry", "carton"],
+    "correctAnswer": "carrot"
+  },
+  {
+    "question": "This is my ____. I pay for the food here. / Đây là ____ của tôi. Tôi trả tiền thức ăn ở đây.",
+    "options": ["cashier", "teacher", "doctor", "pilot"],
+    "correctAnswer": "cashier"
+  },
+  {
+    "question": "What is the missing letter? noodl_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "Is it a big grocery store? / Nó có phải là một cửa hàng tạp hóa lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I like stores.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["shopping", "homework", "class", "test"],
+    "correctAnswer": "shopping"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A tomato", "An apple", "A potato", "An orange"],
+    "correctAnswer": "A tomato"
+  },
+  {
+    "question": "How much is it? / Nó giá bao nhiêu?",
+    "options": ["It's 10,000 dong.", "It's a tomato.", "It's red.", "I want to buy it."],
+    "correctAnswer": "It's 10,000 dong."
+  },
+  {
+    "question": "A grocery store sells ____. / Một cửa hàng tạp hóa bán ____.",
+    "options": ["groceries", "clothes", "toys", "books"],
+    "correctAnswer": "groceries"
+  },
+  {
+    "question": "I need ____ of milk. / Tôi cần ____ sữa.",
+    "options": ["a carton", "a bottle", "a can", "a box"],
+    "correctAnswer": "a carton"
+  },
+  {
+    "question": "What colour is the carrot? / Củ cà rốt màu gì?",
+    "options": ["Orange", "Green", "Red", "Yellow"],
+    "correctAnswer": "Orange"
+  },
+  {
+    "question": "What colour is the banana? / Quả chuối màu gì?",
+    "options": ["Yellow", "White", "Black", "Pink"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "The apples are ____. / Những quả táo thì ____.",
+    "options": ["fresh", "old", "small", "thin"],
+    "correctAnswer": "fresh"
+  },
+  {
+    "question": "The sweets are ____. / Những viên kẹo thì ____.",
+    "options": ["sweet", "sour", "sad", "bad"],
+    "correctAnswer": "sweet"
+  },
+  {
+    "question": "Is the store crowded? / Cửa hàng có đông không?",
+    "options": ["Yes, it is.", "No, it is empty.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My shopping trip is ____. / Chuyến đi mua sắm của tôi thì ____.",
+    "options": ["quick", "long", "busy", "crowded"],
+    "correctAnswer": "quick"
+  },
+  {
+    "question": "What is the missing letter? qui_k / Chữ cái còn thiếu là gì? qui_k",
+    "options": ["c", "t", "d", "p"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is ____. / Đây là ____.",
+    "options": ["bread", "rice", "noodles", "cake"],
+    "correctAnswer": "bread"
+  },
+  {
+    "question": "I love ____. / Tôi yêu ____.",
+    "options": ["shopping", "dog", "cat", "bird"],
+    "correctAnswer": "shopping"
+  },
+  {
+    "question": "Is the milk cold? / Sữa có lạnh không?",
+    "options": ["Yes, it is.", "No, it is warm.", "It is milk.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["grocery store", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "grocery store"
+  },
+  {
+    "question": "Spell the word: s-h-o-p / Đánh vần từ: s-h-o-p",
+    "options": ["shop", "ship", "shoe", "show"],
+    "correctAnswer": "shop"
+  },
+  {
+    "question": "I have ____ new basket. / Tôi có ____ cái giỏ mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite fruit is ____. / Loại quả yêu thích của tôi là ____.",
+    "options": ["an orange", "an apple", "a banana", "a grape"],
+    "correctAnswer": "an orange"
+  },
+  {
+    "question": "What is the missing letter? oran_e / Chữ cái còn thiếu là gì? oran_e",
+    "options": ["g", "a", "i", "o"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is ____. It's a vegetable. / Đây là ____. Nó là một loại rau.",
+    "options": ["a potato", "an apple", "a banana", "an orange"],
+    "correctAnswer": "a potato"
+  },
+  {
+    "question": "We should eat healthy ____. / Chúng ta nên ăn ____ lành mạnh.",
+    "options": ["food", "toys", "secrets", "all are wrong"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Is it a big bag of rice? / Nó có phải là một túi gạo lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I like rice.", "The rice is white."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: f-r-u-i-t / Đánh vần từ: f-r-u-i-t",
+    "options": ["fruit", "flute", "front", "brute"],
+    "correctAnswer": "fruit"
+  },
+  {
+    "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
+    "options": ["bags", "desk", "chair", "floor"],
+    "correctAnswer": "bags"
+  },
+  {
+    "question": "The bananas are on the ____. / Những quả chuối ở trên ____.",
+    "options": ["shelf", "floor", "ceiling", "door"],
+    "correctAnswer": "shelf"
+  },
+  {
+    "question": "What is the missing letter? shel_",
+    "options": ["f", "p", "t", "d"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A cabbage", "A lettuce", "A broccoli", "A spinach"],
+    "correctAnswer": "A cabbage"
+  },
+  {
+    "question": "My ____ is full of groceries. / ____ của tôi đầy hàng tạp hóa.",
+    "options": ["trolley", "desk", "bag", "box"],
+    "correctAnswer": "trolley"
+  },
+  {
+    "question": "Is it a picture of fruit? / Nó có phải là một bức tranh về trái cây không?",
+    "options": ["Yes, it is.", "No, it is a vegetable.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to eat ____. / Bạn tôi thích ăn ____.",
+    "options": ["biscuits", "fish", "pizza", "juice"],
+    "correctAnswer": "biscuits"
+  },
+  {
+    "question": "Spell the word: b-u-y / Đánh vần từ: b-u-y",
+    "options": ["buy", "by", "bye", "boy"],
+    "correctAnswer": "buy"
+  },
+  {
+    "question": "This is a ____ day for shopping. / Đây là một ngày ____ để mua sắm.",
+    "options": ["good", "rainy", "cloudy", "windy"],
+    "correctAnswer": "good"
+  },
+  {
+    "question": "What is the missing letter? _ood / Chữ cái còn thiếu là gì? _ood",
+    "options": ["f", "g", "h", "w"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A cashier", "A customer", "A manager", "A worker"],
+    "correctAnswer": "A cashier"
+  },
+  {
+    "question": "My mother is paying at the ____. / Mẹ tôi đang thanh toán tại ____.",
+    "options": ["checkout", "entrance", "exit", "shelf"],
+    "correctAnswer": "checkout"
+  },
+  {
+    "question": "Are the vegetables fresh? / Rau có tươi không?",
+    "options": ["Yes, they are.", "No, they are old.", "They are vegetables.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My grocery store has many ____. / Cửa hàng tạp hóa của tôi có nhiều ____.",
+    "options": ["customers", "teachers", "parents", "doctors"],
+    "correctAnswer": "customers"
+  },
+  {
+    "question": "Spell the word: c-u-s-t-o-m-e-r / Đánh vần từ: c-u-s-t-o-m-e-r",
+    "options": ["customer", "costume", "custom", "costly"],
+    "correctAnswer": "customer"
+  },
+  {
+    "question": "I am ____ in the grocery store. / Tôi ____ trong cửa hàng tạp hóa.",
+    "options": ["shopping", "playing", "sleeping", "eating"],
+    "correctAnswer": "shopping"
+  },
+  {
+    "question": "What is the missing letter? grocer_",
+    "options": ["y", "s", "t", "p"],
+    "correctAnswer": "y"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A shopping list", "A book", "A letter", "A card"],
+    "correctAnswer": "A shopping list"
+  },
+  {
+    "question": "My grocery store is my favorite ____. / Cửa hàng tạp hóa là ____ yêu thích của tôi.",
+    "options": ["shop", "food", "colour", "toy"],
+    "correctAnswer": "shop"
+  },
+  {
+    "question": "Is the milk expensive? / Sữa có đắt không?",
+    "options": ["No, it is cheap.", "Yes, it is.", "It is milk.", "Hello."],
+    "correctAnswer": "No, it is cheap."
+  },
+  {
+    "question": "The family buys food for the ____. / Gia đình mua thức ăn cho ____.",
+    "options": ["week", "day", "month", "year"],
+    "correctAnswer": "week"
+  },
+  {
+    "question": "Spell the word: m-o-n-e-y / Đánh vần từ: m-o-n-e-y",
+    "options": ["money", "monkey", "honey", "month"],
+    "correctAnswer": "money"
+  },
+  {
+    "question": "We use ____ to buy things. / Chúng tôi dùng ____ để mua đồ.",
+    "options": ["money", "cards", "toys", "books"],
+    "correctAnswer": "money"
+  },
+  {
+    "question": "What is the missing letter? mone_",
+    "options": ["y", "t", "p", "k"],
+    "correctAnswer": "y"
+  }
+]
+

@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's big and blue. / Đây là gì? Nó to và màu xanh dương.",
+    "options": ["The sea", "The sand", "A shell", "A boat"],
+    "correctAnswer": "The sea"
+  },
+  {
+    "question": "This is ____. It's yellow and you can walk on it. / Đây là ____. Nó màu vàng và bạn có thể đi trên đó.",
+    "options": ["sand", "sea", "shell", "sun"],
+    "correctAnswer": "sand"
+  },
+  {
+    "question": "You can find this on the beach. / Bạn có thể tìm thấy thứ này trên bãi biển.",
+    "options": ["A shell", "A star", "A moon", "A cloud"],
+    "correctAnswer": "A shell"
+  },
+  {
+    "question": "This is a ____. It floats on the water. / Đây là một ____. Nó nổi trên mặt nước.",
+    "options": ["boat", "car", "bus", "plane"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "Spell the word: s-e-a / Đánh vần từ: s-e-a",
+    "options": ["sea", "see", "she", "set"],
+    "correctAnswer": "sea"
+  },
+  {
+    "question": "This is the ____. It's bright and yellow in the sky. / Đây là ____. Nó sáng và màu vàng trên bầu trời.",
+    "options": ["sun", "moon", "star", "cloud"],
+    "correctAnswer": "sun"
+  },
+  {
+    "question": "I can see a ____ in the sand. It walks sideways. / Tôi có thể thấy một ____ trong cát. Nó đi ngang.",
+    "options": ["crab", "fish", "bird", "cat"],
+    "correctAnswer": "crab"
+  },
+  {
+    "question": "Find the word: s-h-e-l-l / Tìm từ: s-h-e-l-l",
+    "options": ["shell", "sell", "shall", "share"],
+    "correctAnswer": "shell"
+  },
+  {
+    "question": "Is this the sea? / Đây có phải là biển không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is the sand.", "I have a boat."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a big ____. / Đây là một ____ lớn.",
+    "options": ["boat", "shell", "crab", "sun"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "What can you do at the seaside? / Bạn có thể làm gì ở bờ biển?",
+    "options": ["I can swim.", "I can fly.", "I can cook.", "I can sleep."],
+    "correctAnswer": "I can swim."
+  },
+  {
+    "question": "I like to ____ in the sea. / Tôi thích ____ ở biển.",
+    "options": ["swim", "run", "jump", "walk"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "What is the missing letter? sa_d / Chữ cái còn thiếu là gì? sa_d",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is the ____. It's beautiful. / Đây là ____. Nó rất đẹp.",
+    "options": ["seaside", "mountain", "city", "village"],
+    "correctAnswer": "seaside"
+  },
+  {
+    "question": "My family is at the ____. / Gia đình tôi đang ở ____.",
+    "options": ["seaside", "school", "supermarket", "hospital"],
+    "correctAnswer": "seaside"
+  },
+  {
+    "question": "Let's build a ____. / Hãy xây một ____.",
+    "options": ["sandcastle", "house", "school", "shop"],
+    "correctAnswer": "sandcastle"
+  },
+  {
+    "question": "Spell the word: b-o-a-t / Đánh vần từ: b-o-a-t",
+    "options": ["boat", "goat", "coat", "boot"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "Is this a big shell? / Đây có phải là một vỏ sò lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a crab.", "I can see the sea."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am playing on the ____. / Tôi đang chơi trên ____.",
+    "options": ["sand", "sea", "boat", "sun"],
+    "correctAnswer": "sand"
+  },
+  {
+    "question": "What is the missing letter? _un / Chữ cái còn thiếu là gì? _un",
+    "options": ["s", "f", "r", "m"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
+    "options": ["shells", "crabs", "boats", "suns"],
+    "correctAnswer": "shells"
+  },
+  {
+    "question": "How many boats can you see? / Bạn có thể thấy bao nhiêu chiếc thuyền?",
+    "options": ["One", "Two", "Three", "Four"],
+    "correctAnswer": "One"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["crab", "fish", "bird", "cat"],
+    "correctAnswer": "crab"
+  },
+  {
+    "question": "Spell the word: s-w-i-m / Đánh vần từ: s-w-i-m",
+    "options": ["swim", "slim", "swam", "swing"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Is it a hot day? / Hôm nay có phải là một ngày nóng không?",
+    "options": ["Yes, it is.", "No, it is cold.", "It is the seaside.", "I can see the sun."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can see many ____ in the sea. / Chúng ta có thể thấy nhiều ____ ở biển.",
+    "options": ["fish", "birds", "cats", "dogs"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "What is the missing letter? cra_",
+    "options": ["b", "d", "g", "t"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["The sun", "The moon", "A star", "A cloud"],
+    "correctAnswer": "The sun"
+  },
+  {
+    "question": "This is a ____. I made it. / Đây là một ____. Tôi đã làm nó.",
+    "options": ["sandcastle", "boat", "shell", "crab"],
+    "correctAnswer": "sandcastle"
+  },
+  {
+    "question": "This is ____. It's fun. / Đây là ____. Thật là vui.",
+    "options": ["the seaside", "school", "homework", "work"],
+    "correctAnswer": "the seaside"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A shell", "A stone", "A leaf", "A flower"],
+    "correctAnswer": "A shell"
+  },
+  {
+    "question": "Find the word: s-a-n-d / Tìm từ: s-a-n-d",
+    "options": ["sand", "send", "hand", "land"],
+    "correctAnswer": "sand"
+  },
+  {
+    "question": "Is it a blue boat? / Nó có phải là một chiếc thuyền màu xanh không?",
+    "options": ["Yes, it is.", "No, it is white.", "I am at the seaside.", "I like boats."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is big and beautiful. / ____ của tôi to và đẹp.",
+    "options": ["sandcastle", "shell", "crab", "boat"],
+    "correctAnswer": "sandcastle"
+  },
+  {
+    "question": "What is the missing letter? she_l / Chữ cái còn thiếu là gì? she_l",
+    "options": ["l", "k", "m", "n"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["day", "book", "lesson", "game"],
+    "correctAnswer": "day"
+  },
+  {
+    "question": "Spell the word: s-u-n / Đánh vần từ: s-u-n",
+    "options": ["sun", "son", "fun", "run"],
+    "correctAnswer": "sun"
+  },
+  {
+    "question": "Is this a small crab? / Đây có phải là một con cua nhỏ không?",
+    "options": ["Yes, it is.", "No, it is big.", "I can see a crab.", "I like crabs."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My seaside has a long ____. / Bờ biển của tôi có một ____ dài.",
+    "options": ["beach", "river", "lake", "road"],
+    "correctAnswer": "beach"
+  },
+  {
+    "question": "What is the missing letter? _each / Chữ cái còn thiếu là gì? _each",
+    "options": ["b", "t", "p", "r"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A sandcastle", "A house", "A castle", "A tower"],
+    "correctAnswer": "A sandcastle"
+  },
+  {
+    "question": "My ____ is yellow. / ____ của tôi màu vàng.",
+    "options": ["sand", "sea", "sky", "boat"],
+    "correctAnswer": "sand"
+  },
+  {
+    "question": "Is the sun hot? / Mặt trời có nóng không?",
+    "options": ["Yes, it is.", "No, it is cold.", "It is the sun.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a boat and some ____. / Tôi có thể thấy một chiếc thuyền và một vài ____.",
+    "options": ["birds", "houses", "cars", "books"],
+    "correctAnswer": "birds"
+  },
+  {
+    "question": "Find the word: c-r-a-b / Tìm từ: c-r-a-b",
+    "options": ["crab", "cab", "crib", "grab"],
+    "correctAnswer": "crab"
+  },
+  {
+    "question": "This is my ____. I can find shells here. / Đây là ____ của tôi. Tôi có thể tìm thấy vỏ sò ở đây.",
+    "options": ["beach", "backyard", "school", "park"],
+    "correctAnswer": "beach"
+  },
+  {
+    "question": "What is the missing letter? boa_",
+    "options": ["t", "k", "p", "d"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "Is it a beautiful shell? / Nó có phải là một vỏ sò đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like shells.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["holiday", "homework", "class", "test"],
+    "correctAnswer": "holiday"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A beach ball", "A football", "A basketball", "A tennis ball"],
+    "correctAnswer": "A beach ball"
+  },
+  {
+    "question": "How many crabs can you see? / Bạn có thể thấy bao nhiêu con cua?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
+  },
+  {
+    "question": "A seaside is next to the ____. / Bờ biển ở cạnh ____.",
+    "options": ["sea", "mountain", "river", "lake"],
+    "correctAnswer": "sea"
+  },
+  {
+    "question": "I wear ____ at the seaside. / Tôi mặc ____ ở bờ biển.",
+    "options": ["shorts", "trousers", "a coat", "a sweater"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "What colour is the sea? / Biển màu gì?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "What colour is the sand? / Cát màu gì?",
+    "options": ["Yellow", "White", "Black", "Pink"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "The sun is ____. / Mặt trời thì ____.",
+    "options": ["bright", "dark", "small", "thin"],
+    "correctAnswer": "bright"
+  },
+  {
+    "question": "The shells are ____. / Những vỏ sò thì ____.",
+    "options": ["pretty", "ugly", "sad", "bad"],
+    "correctAnswer": "pretty"
+  },
+  {
+    "question": "Is the water warm? / Nước có ấm không?",
+    "options": ["Yes, it is.", "No, it is cold.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My holiday is ____. / Kỳ nghỉ của tôi thì ____.",
+    "options": ["relaxing", "noisy", "busy", "crowded"],
+    "correctAnswer": "relaxing"
+  },
+  {
+    "question": "What is the missing letter? rela_ing / Chữ cái còn thiếu là gì? rela_ing",
+    "options": ["x", "t", "d", "k"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "This is the ____. / Đây là ____.",
+    "options": ["sea", "sand", "shell", "boat"],
+    "correctAnswer": "sea"
+  },
+  {
+    "question": "I love the ____. / Tôi yêu ____.",
+    "options": ["seaside", "dog", "cat", "bird"],
+    "correctAnswer": "seaside"
+  },
+  {
+    "question": "Is the boat big? / Chiếc thuyền có to không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a boat.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["beach", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "beach"
+  },
+  {
+    "question": "Spell the word: b-e-a-c-h / Đánh vần từ: b-e-a-c-h",
+    "options": ["beach", "peach", "teach", "reach"],
+    "correctAnswer": "beach"
+  },
+  {
+    "question": "I have ____ bucket and spade. / Tôi có ____ cái xô và cái xẻng.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite activity is ____. / Hoạt động yêu thích của tôi là ____.",
+    "options": ["building sandcastles", "swimming", "sunbathing", "sailing"],
+    "correctAnswer": "building sandcastles"
+  },
+  {
+    "question": "What is the missing letter? sandcastl_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is a ____. It helps you see far away. / Đây là một ____. Nó giúp bạn nhìn xa.",
+    "options": ["telescope", "microscope", "glasses", "camera"],
+    "correctAnswer": "telescope"
+  },
+  {
+    "question": "We should wear a ____ to protect from the sun. / Chúng ta nên đội ____ để bảo vệ khỏi ánh nắng mặt trời.",
+    "options": ["hat", "shirt", "shoe", "sock"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "Is it a wavy sea? / Biển có sóng không?",
+    "options": ["Yes, it is.", "No, it is calm.", "I like the sea.", "The sea is blue."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: w-a-v-e / Đánh vần từ: w-a-v-e",
+    "options": ["wave", "save", "gave", "cave"],
+    "correctAnswer": "wave"
+  },
+  {
+    "question": "I help my sister find ____. / Tôi giúp chị tôi tìm ____.",
+    "options": ["shells", "crabs", "fish", "boats"],
+    "correctAnswer": "shells"
+  },
+  {
+    "question": "The boat is sailing on the ____. / Chiếc thuyền đang đi trên ____.",
+    "options": ["sea", "sand", "road", "sky"],
+    "correctAnswer": "sea"
+  },
+  {
+    "question": "What is the missing letter? _ea",
+    "options": ["s", "t", "p", "b"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["An umbrella", "A hat", "A towel", "A chair"],
+    "correctAnswer": "An umbrella"
+  },
+  {
+    "question": "My ____ is colourful. / ____ của tôi nhiều màu sắc.",
+    "options": ["umbrella", "towel", "hat", "chair"],
+    "correctAnswer": "umbrella"
+  },
+  {
+    "question": "Is it a small shell? / Nó có phải là một vỏ sò nhỏ không?",
+    "options": ["Yes, it is.", "No, it is big.", "I see a shell.", "I have a shell."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My brother likes to catch ____. / Anh trai tôi thích bắt ____.",
+    "options": ["crabs", "fish", "birds", "butterflies"],
+    "correctAnswer": "crabs"
+  },
+  {
+    "question": "Spell the word: s-h-o-r-t-s / Đánh vần từ: s-h-o-r-t-s",
+    "options": ["shorts", "shirts", "shots", "sorts"],
+    "correctAnswer": "shorts"
+  },
+  {
+    "question": "This is a ____ day at the beach. / Đây là một ngày ____ ở bãi biển.",
+    "options": ["perfect", "rainy", "cloudy", "windy"],
+    "correctAnswer": "perfect"
+  },
+  {
+    "question": "What is the missing letter? perfe_t / Chữ cái còn thiếu là gì? perfe_t",
+    "options": ["c", "k", "s", "t"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A starfish", "A crab", "A fish", "A shell"],
+    "correctAnswer": "A starfish"
+  },
+  {
+    "question": "My dad is relaxing on a ____. / Bố tôi đang thư giãn trên một ____.",
+    "options": ["beach chair", "sofa", "bed", "bench"],
+    "correctAnswer": "beach chair"
+  },
+  {
+    "question": "Are the children happy? / Những đứa trẻ có vui không?",
+    "options": ["Yes, they are.", "No, they are sad.", "They are children.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My dog is digging in the ____. / Con chó của tôi đang đào trong ____.",
+    "options": ["sand", "sea", "water", "boat"],
+    "correctAnswer": "sand"
+  },
+  {
+    "question": "Spell the word: h-o-l-i-d-a-y / Đánh vần từ: h-o-l-i-d-a-y",
+    "options": ["holiday", "holy", "hollow", "holly"],
+    "correctAnswer": "holiday"
+  },
+  {
+    "question": "I am ____ at the seaside. / Tôi ____ ở bờ biển.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? san_",
+    "options": ["d", "t", "p", "k"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A lighthouse", "A house", "A tower", "A castle"],
+    "correctAnswer": "A lighthouse"
+  },
+  {
+    "question": "My family loves our ____. / Gia đình tôi yêu ____ của chúng tôi.",
+    "options": ["holiday", "school", "work", "house"],
+    "correctAnswer": "holiday"
+  },
+  {
+    "question": "Is the sandcastle tall? / Lâu đài cát có cao không?",
+    "options": ["Yes, it is.", "No, it is short.", "It is a sandcastle.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The sea is ____. / Biển thì ____.",
+    "options": ["calm", "wavy", "rough", "stormy"],
+    "correctAnswer": "calm"
+  },
+  {
+    "question": "Spell the word: c-a-l-m / Đánh vần từ: c-a-l-m",
+    "options": ["calm", "call", "came", "palm"],
+    "correctAnswer": "calm"
+  },
+  {
+    "question": "We listen to the sound of the ____. / Chúng tôi lắng nghe âm thanh của ____.",
+    "options": ["waves", "birds", "music", "cars"],
+    "correctAnswer": "waves"
+  },
+  {
+    "question": "What is the missing letter? wav_s / Chữ cái còn thiếu là gì? wav_s",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  }
+]
+

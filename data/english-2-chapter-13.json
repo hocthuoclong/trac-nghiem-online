@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's a shape with four equal sides. / Đây là gì? Nó là một hình có bốn cạnh bằng nhau.",
+    "options": ["A square", "A circle", "A triangle", "A rectangle"],
+    "correctAnswer": "A square"
+  },
+  {
+    "question": "This is a ____. It has no corners. / Đây là một ____. Nó không có góc.",
+    "options": ["circle", "square", "triangle", "rectangle"],
+    "correctAnswer": "circle"
+  },
+  {
+    "question": "You use this to measure things. / Bạn dùng cái này để đo mọi thứ.",
+    "options": ["A ruler", "A calculator", "A pencil", "A book"],
+    "correctAnswer": "A ruler"
+  },
+  {
+    "question": "This is a ____. It has three sides. / Đây là một ____. Nó có ba cạnh.",
+    "options": ["triangle", "square", "circle", "rectangle"],
+    "correctAnswer": "triangle"
+  },
+  {
+    "question": "Spell the word: s-q-u-a-r-e / Đánh vần từ: s-q-u-a-r-e",
+    "options": ["square", "share", "scare", "squash"],
+    "correctAnswer": "square"
+  },
+  {
+    "question": "This is a ____. It helps you with numbers. / Đây là một ____. Nó giúp bạn với các con số.",
+    "options": ["calculator", "ruler", "computer", "board"],
+    "correctAnswer": "calculator"
+  },
+  {
+    "question": "What is five plus three? / Năm cộng ba bằng mấy?",
+    "options": ["Eight", "Seven", "Nine", "Ten"],
+    "correctAnswer": "Eight"
+  },
+  {
+    "question": "Find the word: n-u-m-b-e-r / Tìm từ: n-u-m-b-e-r",
+    "options": ["number", "member", "lumber", "slumber"],
+    "correctAnswer": "number"
+  },
+  {
+    "question": "Is this a circle? / Đây có phải là một hình tròn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a square.", "I have a ruler."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a blue ____. / Đây là một ____ màu xanh dương.",
+    "options": ["triangle", "square", "circle", "rectangle"],
+    "correctAnswer": "triangle"
+  },
+  {
+    "question": "What can you do in the maths class? / Bạn có thể làm gì trong lớp học toán?",
+    "options": ["I can count.", "I can sing.", "I can dance.", "I can sleep."],
+    "correctAnswer": "I can count."
+  },
+  {
+    "question": "I like to learn about ____. / Tôi thích học về ____.",
+    "options": ["numbers", "animals", "colours", "food"],
+    "correctAnswer": "numbers"
+  },
+  {
+    "question": "What is the missing letter? squa_e / Chữ cái còn thiếu là gì? squa_e",
+    "options": ["r", "a", "i", "o"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is our ____. We learn maths here. / Đây là ____ của chúng tôi. Chúng tôi học toán ở đây.",
+    "options": ["maths class", "art class", "music class", "PE class"],
+    "correctAnswer": "maths class"
+  },
+  {
+    "question": "My teacher is teaching ____. / Cô giáo của tôi đang dạy ____.",
+    "options": ["maths", "English", "science", "history"],
+    "correctAnswer": "maths"
+  },
+  {
+    "question": "Let's count from one to ____. / Hãy đếm từ một đến ____.",
+    "options": ["ten", "five", "twenty", "fifty"],
+    "correctAnswer": "ten"
+  },
+  {
+    "question": "Spell the word: c-i-r-c-l-e / Đánh vần từ: c-i-r-c-l-e",
+    "options": ["circle", "cycle", "circus", "certain"],
+    "correctAnswer": "circle"
+  },
+  {
+    "question": "Is this a big triangle? / Đây có phải là một hình tam giác lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a square.", "I can see a circle."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am drawing a ____. / Tôi đang vẽ một ____.",
+    "options": ["rectangle", "square", "circle", "triangle"],
+    "correctAnswer": "rectangle"
+  },
+  {
+    "question": "What is the missing letter? _uler / Chữ cái còn thiếu là gì? _uler",
+    "options": ["r", "p", "b", "d"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "These are ____. / Đây là những ____.",
+    "options": ["shapes", "numbers", "letters", "colours"],
+    "correctAnswer": "shapes"
+  },
+  {
+    "question": "How many sides does a square have? / Một hình vuông có bao nhiêu cạnh?",
+    "options": ["Four", "Three", "Five", "Six"],
+    "correctAnswer": "Four"
+  },
+  {
+    "question": "This is a ____. It has four sides, but they are not all equal. / Đây là một ____. Nó có bốn cạnh, nhưng chúng không bằng nhau.",
+    "options": ["rectangle", "square", "triangle", "circle"],
+    "correctAnswer": "rectangle"
+  },
+  {
+    "question": "Spell the word: t-r-i-a-n-g-l-e / Đánh vần từ: t-r-i-a-n-g-l-e",
+    "options": ["triangle", "trial", "tangle", "travel"],
+    "correctAnswer": "triangle"
+  },
+  {
+    "question": "Is it easy? / Nó có dễ không?",
+    "options": ["Yes, it is.", "No, it is difficult.", "It is a maths class.", "I can see a board."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can use a ____ to help with difficult sums. / Chúng ta có thể dùng ____ để giúp giải các bài toán khó.",
+    "options": ["calculator", "ruler", "pencil", "book"],
+    "correctAnswer": "calculator"
+  },
+  {
+    "question": "What is the missing letter? rectan_le / Chữ cái còn thiếu là gì? rectan_le",
+    "options": ["g", "t", "d", "p"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A number", "A letter", "A shape", "A colour"],
+    "correctAnswer": "A number"
+  },
+  {
+    "question": "This is a ____. You use it to draw lines. / Đây là một ____. Bạn dùng nó để vẽ các đường thẳng.",
+    "options": ["ruler", "calculator", "pen", "eraser"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "This is ____. It's about numbers and shapes. / Đây là ____. Nó về các con số và hình dạng.",
+    "options": ["maths", "English", "art", "music"],
+    "correctAnswer": "maths"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A circle", "A square", "A triangle", "A rectangle"],
+    "correctAnswer": "A circle"
+  },
+  {
+    "question": "Find the word: s-h-a-p-e / Tìm từ: s-h-a-p-e",
+    "options": ["shape", "share", "sharp", "shave"],
+    "correctAnswer": "shape"
+  },
+  {
+    "question": "Is it a red square? / Nó có phải là một hình vuông màu đỏ không?",
+    "options": ["Yes, it is.", "No, it is blue.", "I am in the maths class.", "I like shapes."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is long. / ____ của tôi dài.",
+    "options": ["ruler", "pencil", "pen", "eraser"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "question": "What is the missing letter? num_er / Chữ cái còn thiếu là gì? num_er",
+    "options": ["b", "n", "m", "p"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "This is an interesting ____. / Đây là một ____ thú vị.",
+    "options": ["lesson", "book", "game", "story"],
+    "correctAnswer": "lesson"
+  },
+  {
+    "question": "Spell the word: e-i-g-h-t / Đánh vần từ: e-i-g-h-t",
+    "options": ["eight", "light", "night", "right"],
+    "correctAnswer": "eight"
+  },
+  {
+    "question": "Is this a green rectangle? / Đây có phải là một hình chữ nhật màu xanh không?",
+    "options": ["Yes, it is.", "No, it is yellow.", "I can see a rectangle.", "I like rectangles."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The maths class has a big ____. / Lớp học toán có một ____ lớn.",
+    "options": ["board", "bed", "sofa", "desk"],
+    "correctAnswer": "board"
+  },
+  {
+    "question": "What is the missing letter? _oard / Chữ cái còn thiếu là gì? _oard",
+    "options": ["b", "h", "c", "d"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A calculator", "A phone", "A camera", "A radio"],
+    "correctAnswer": "A calculator"
+  },
+  {
+    "question": "My ____ is on the desk. / ____ của tôi ở trên bàn.",
+    "options": ["book", "calculator", "ruler", "pencil"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "Is the number big? / Con số có lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a number.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a square and a ____. / Tôi có thể thấy một hình vuông và một ____.",
+    "options": ["triangle", "house", "car", "book"],
+    "correctAnswer": "triangle"
+  },
+  {
+    "question": "Find the word: c-o-u-n-t / Tìm từ: c-o-u-n-t",
+    "options": ["count", "court", "could", "country"],
+    "correctAnswer": "count"
+  },
+  {
+    "question": "This is my ____. I use it for maths. / Đây là ____ của tôi. Tôi dùng nó cho môn toán.",
+    "options": ["calculator", "phone", "camera", "radio"],
+    "correctAnswer": "calculator"
+  },
+  {
+    "question": "What is the missing letter? calculato_",
+    "options": ["r", "k", "p", "t"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Is it an easy sum? / Nó có phải là một bài toán dễ không?",
+    "options": ["Yes, it is.", "No, it is difficult.", "I like maths.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["maths lesson", "homework", "class", "test"],
+    "correctAnswer": "maths lesson"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A plus sign", "A minus sign", "An equals sign", "A question mark"],
+    "correctAnswer": "A plus sign"
+  },
+  {
+    "question": "What is ten minus two? / Mười trừ hai bằng mấy?",
+    "options": ["Eight", "Nine", "Seven", "Six"],
+    "correctAnswer": "Eight"
+  },
+  {
+    "question": "A maths class is in a ____. / Một lớp học toán ở trong một ____.",
+    "options": ["school", "house", "shop", "park"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "I see ____ numbers on the board. / Tôi thấy ____ con số trên bảng.",
+    "options": ["some", "a", "an", "one"],
+    "correctAnswer": "some"
+  },
+  {
+    "question": "What shape is a ball? / Một quả bóng có hình gì?",
+    "options": ["A circle", "A square", "A triangle", "A rectangle"],
+    "correctAnswer": "A circle"
+  },
+  {
+    "question": "What shape is a book? / Một quyển sách có hình gì?",
+    "options": ["A rectangle", "A square", "A triangle", "A circle"],
+    "correctAnswer": "A rectangle"
+  },
+  {
+    "question": "The calculator is ____. / Cái máy tính thì ____.",
+    "options": ["useful", "useless", "small", "thin"],
+    "correctAnswer": "useful"
+  },
+  {
+    "question": "The numbers are ____. / Các con số thì ____.",
+    "options": ["clear", "blurry", "sad", "bad"],
+    "correctAnswer": "clear"
+  },
+  {
+    "question": "Is your maths class interesting? / Lớp học toán của bạn có thú vị không?",
+    "options": ["Yes, it is.", "No, it is boring.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My maths class is ____. / Lớp học toán của tôi thì ____.",
+    "options": ["fun", "noisy", "busy", "crowded"],
+    "correctAnswer": "fun"
+  },
+  {
+    "question": "What is the missing letter? use_ul / Chữ cái còn thiếu là gì? use_ul",
+    "options": ["f", "t", "d", "k"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["square", "circle", "triangle", "rectangle"],
+    "correctAnswer": "square"
+  },
+  {
+    "question": "I love ____. / Tôi yêu ____.",
+    "options": ["maths", "dog", "cat", "bird"],
+    "correctAnswer": "maths"
+  },
+  {
+    "question": "Is the ruler straight? / Cái thước có thẳng không?",
+    "options": ["Yes, it is.", "No, it is bent.", "It is a ruler.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's do some ____. / Hãy làm một vài ____.",
+    "options": ["sums", "drawings", "songs", "dances"],
+    "correctAnswer": "sums"
+  },
+  {
+    "question": "Spell the word: s-u-m / Đánh vần từ: s-u-m",
+    "options": ["sum", "sun", "some", "gum"],
+    "correctAnswer": "sum"
+  },
+  {
+    "question": "I have ____ new ruler. / Tôi có ____ cái thước mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite shape is a ____. / Hình dạng yêu thích của tôi là một ____.",
+    "options": ["star", "circle", "square", "triangle"],
+    "correctAnswer": "star"
+  },
+  {
+    "question": "What is the missing letter? sta_",
+    "options": ["r", "a", "i", "o"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is a ____. It has five points. / Đây là một ____. Nó có năm điểm.",
+    "options": ["star", "circle", "square", "triangle"],
+    "correctAnswer": "star"
+  },
+  {
+    "question": "We should listen to the ____. / Chúng ta nên lắng nghe ____.",
+    "options": ["teacher", "music", "radio", "TV"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "question": "Is it a difficult problem? / Nó có phải là một vấn đề khó không?",
+    "options": ["No, it is easy.", "Yes, it is.", "I like problems.", "The problem is long."],
+    "correctAnswer": "No, it is easy."
+  },
+  {
+    "question": "Spell the word: e-a-s-y / Đánh vần từ: e-a-s-y",
+    "options": ["easy", "essay", "says", "busy"],
+    "correctAnswer": "easy"
+  },
+  {
+    "question": "I help my friend with ____. / Tôi giúp bạn tôi với ____.",
+    "options": ["maths", "English", "art", "music"],
+    "correctAnswer": "maths"
+  },
+  {
+    "question": "The answer is on the ____. / Câu trả lời ở trên ____.",
+    "options": ["board", "desk", "chair", "floor"],
+    "correctAnswer": "board"
+  },
+  {
+    "question": "What is the missing letter? an_wer / Chữ cái còn thiếu là gì? an_wer",
+    "options": ["s", "p", "t", "d"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A minus sign", "A plus sign", "An equals sign", "A question mark"],
+    "correctAnswer": "A minus sign"
+  },
+  {
+    "question": "My ____ is full of numbers. / ____ của tôi đầy những con số.",
+    "options": ["notebook", "desk", "bag", "box"],
+    "correctAnswer": "notebook"
+  },
+  {
+    "question": "Is it a picture of a shape? / Nó có phải là một bức tranh về một hình dạng không?",
+    "options": ["Yes, it is.", "No, it is an animal.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to solve ____. / Bạn tôi thích giải ____.",
+    "options": ["puzzles", "problems", "sums", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: p-l-u-s / Đánh vần từ: p-l-u-s",
+    "options": ["plus", "plum", "plug", "play"],
+    "correctAnswer": "plus"
+  },
+  {
+    "question": "This is a ____ day in maths class. / Đây là một ngày ____ trong lớp học toán.",
+    "options": ["fun", "rainy", "cloudy", "windy"],
+    "correctAnswer": "fun"
+  },
+  {
+    "question": "What is the missing letter? _un / Chữ cái còn thiếu là gì? _un",
+    "options": ["f", "s", "r", "b"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["An equals sign", "A plus sign", "A minus sign", "A question mark"],
+    "correctAnswer": "An equals sign"
+  },
+  {
+    "question": "My teacher is writing on the ____. / Cô giáo của tôi đang viết trên ____.",
+    "options": ["board", "desk", "chair", "wall"],
+    "correctAnswer": "board"
+  },
+  {
+    "question": "Are the students counting? / Các bạn học sinh có đang đếm không?",
+    "options": ["Yes, they are.", "No, they are drawing.", "They are students.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My maths class has many ____. / Lớp học toán của tôi có nhiều ____.",
+    "options": ["numbers", "letters", "colours", "shapes"],
+    "correctAnswer": "numbers"
+  },
+  {
+    "question": "Spell the word: m-i-n-u-s / Đánh vần từ: m-i-n-u-s",
+    "options": ["minus", "minute", "minor", "mine"],
+    "correctAnswer": "minus"
+  },
+  {
+    "question": "I am ____ in the maths class. / Tôi ____ trong lớp học toán.",
+    "options": ["learning", "playing", "sleeping", "eating"],
+    "correctAnswer": "learning"
+  },
+  {
+    "question": "What is the missing letter? circ_e / Chữ cái còn thiếu là gì? circ_e",
+    "options": ["l", "k", "t", "p"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["An abacus", "A calculator", "A ruler", "A compass"],
+    "correctAnswer": "An abacus"
+  },
+  {
+    "question": "My maths class is my favorite ____. / Lớp học toán là ____ yêu thích của tôi.",
+    "options": ["subject", "food", "colour", "toy"],
+    "correctAnswer": "subject"
+  },
+  {
+    "question": "Is the problem hard? / Vấn đề có khó không?",
+    "options": ["No, it is easy.", "Yes, it is.", "It is a problem.", "Hello."],
+    "correctAnswer": "No, it is easy."
+  },
+  {
+    "question": "The class has a ____. / Lớp học có một ____.",
+    "options": ["clock", "map", "poster", "picture"],
+    "correctAnswer": "clock"
+  },
+  {
+    "question": "Spell the word: c-l-o-c-k / Đánh vần từ: c-l-o-c-k",
+    "options": ["clock", "block", "chock", "cluck"],
+    "correctAnswer": "clock"
+  },
+  {
+    "question": "We learn to tell the ____. / Chúng tôi học cách xem ____.",
+    "options": ["time", "story", "song", "poem"],
+    "correctAnswer": "time"
+  },
+  {
+    "question": "What is the missing letter? tim_",
+    "options": ["e", "k", "t", "p"],
+    "correctAnswer": "e"
+  }
+]
+
