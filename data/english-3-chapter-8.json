@@ -340,7 +340,7 @@
         "correctAnswer": "school bag"
     },
     {
-        "question": "What is the missing letter? rule_",
+        "question": "What is the missing letter: rule_",
         "options": [
             "r",
             "n",
@@ -460,7 +460,7 @@
         "correctAnswer": "notebook"
     },
     {
-        "question": "What is the missing letter? penci_",
+        "question": "What is the missing letter: penci_",
         "options": [
             "l",
             "k",
@@ -684,7 +684,7 @@
         "options": [
             "a crayon",
             "a pen",
-a pencil",
+            "a pencil",
             "a marker"
         ],
         "correctAnswer": "a crayon"
@@ -958,4 +958,5 @@ a pencil",
             "p"
         ],
         "correctAnswer": "l"
-    
+    }
+]
