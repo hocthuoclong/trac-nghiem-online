@@ -1,152 +1,492 @@
 [
     {
-        "question": "This playground toy lets you go up high and then slide down. What is it? / Món đồ chơi này ở sân chơi cho phép bạn đi lên cao rồi trượt xuống. Nó là gì?",
-        "options": [
-            "A slide",
-            "A swing",
-            "A car",
-            "A book"
-        ],
+        "question": "This is a place at school with swings and slides where children play. What is it? / Đây là một nơi ở trường có xích đu và cầu trượt để trẻ em chơi. Nó là gì?",
+        "options": ["A playground", "A library", "A classroom", "A kitchen"],
+        "correctAnswer": "A playground"
+    },
+    {
+        "question": "You climb up and then slide down on this toy. What is it? / Bạn trèo lên rồi trượt xuống trên món đồ chơi này. Nó là gì?",
+        "options": ["A slide", "A swing", "A seesaw", "A ball"],
         "correctAnswer": "A slide"
     },
     {
-        "question": "You can sit on this and move back and forth in the air. What is it? / Bạn có thể ngồi lên cái này và di chuyển tới lui trên không. Nó là gì?",
-        "options": [
-            "A swing",
-            "A seesaw",
-            "A table",
-            "A bed"
-        ],
+        "question": "You sit on this and move back and forth in the air. What is it? / Bạn ngồi trên cái này và di chuyển tới lui trên không. Nó là gì?",
+        "options": ["A swing", "A chair", "A bed", "A table"],
         "correctAnswer": "A swing"
     },
     {
-        "question": "You need a friend to play on this toy, one person goes up while the other goes down. What is it? / Bạn cần một người bạn để chơi trên món đồ chơi này, một người đi lên trong khi người kia đi xuống. Nó là gì?",
-        "options": [
-            "A seesaw",
-            "A slide",
-            "A bike",
-            "A chair"
-        ],
+        "question": "You need a friend to play on this. One person goes up, the other goes down. What is it? / Bạn cần một người bạn để chơi cái này. Một người đi lên, người kia đi xuống. Nó là gì?",
+        "options": ["A seesaw", "A slide", "A bike", "A car"],
         "correctAnswer": "A seesaw"
     },
     {
-        "question": "What do you say when you meet your friends at the playground? / Bạn nói gì khi gặp bạn bè ở sân chơi?",
-        "options": [
-            "Hello",
-            "Goodbye",
-            "Good night",
-            "Thank you"
-        ],
-        "correctAnswer": "Hello"
-    },
-    {
-        "question": "A round toy that you can throw, kick, or bounce is a ____. / Một món đồ chơi hình tròn mà bạn có thể ném, đá hoặc tâng lên là một ____.",
-        "options": [
-            "ball",
-            "book",
-            "box",
-            "bag"
-        ],
+        "question": "A round toy that you can kick or throw is a ____. / Một món đồ chơi hình tròn mà bạn có thể đá hoặc ném là một ____.",
+        "options": ["ball", "book", "box", "bag"],
         "correctAnswer": "ball"
     },
     {
-        "question": "What is the main activity you do at a playground? / Hoạt động chính bạn làm ở sân chơi là gì?",
-        "options": [
-            "Play",
-            "Eat",
-            "Sleep",
-            "Read"
-        ],
-        "correctAnswer": "Play"
-    },
-    {
-        "question": "What do you say when you are leaving the playground to go home? / Bạn nói gì khi rời sân chơi để về nhà?",
-        "options": [
-            "Goodbye",
-            "Hello",
-            "Sorry",
-            "Please"
-        ],
-        "correctAnswer": "Goodbye"
-    },
-    {
-        "question": "A person you play with at the playground is your ____. / Một người mà bạn chơi cùng ở sân chơi là ____ của bạn.",
-        "options": [
-            "friend",
-            "teacher",
-            "doctor",
-            "mother"
-        ],
+        "question": "A person you have fun with is your ____. / Một người mà bạn vui chơi cùng là ____ của bạn.",
+        "options": ["friend", "teacher", "doctor", "parent"],
         "correctAnswer": "friend"
     },
     {
-        "question": "How do you feel when you play with friends? / Bạn cảm thấy thế nào khi chơi với bạn bè?",
-        "options": [
-            "Happy",
-            "Sad",
-            "Angry",
-            "Tired"
-        ],
-        "correctAnswer": "Happy"
+        "question": "What do you say when you meet a friend? / Bạn nói gì khi gặp một người bạn?",
+        "options": ["Hello", "Goodbye", "Good night", "Thank you"],
+        "correctAnswer": "Hello"
     },
     {
-        "question": "A place with swings, slides, and seesaws for children is a ____. / Một nơi có xích đu, cầu trượt và bập bênh cho trẻ em là ____.",
-        "options": [
-            "playground",
-            "library",
-            "kitchen",
-            "bedroom"
-        ],
-        "correctAnswer": "playground"
+        "question": "What do you say when you leave your friend? / Bạn nói gì khi tạm biệt bạn của mình?",
+        "options": ["Goodbye", "Hello", "Sorry", "Please"],
+        "correctAnswer": "Goodbye"
+    },
+    {
+        "question": "What is the main activity at a playground? / Hoạt động chính ở sân chơi là gì?",
+        "options": ["Playing", "Reading", "Sleeping", "Cooking"],
+        "correctAnswer": "Playing"
+    },
+    {
+        "question": "A tall plant with green leaves in the playground is a ____. / Một loài cây cao có lá xanh trong sân chơi là ____.",
+        "options": ["tree", "flower", "slide", "swing"],
+        "correctAnswer": "tree"
     },
     {
         "question": "To move your legs very fast is to ____. / Di chuyển đôi chân của bạn rất nhanh là ____.",
-        "options": [
-            "run",
-            "walk",
-            "sit",
-            "stand"
-        ],
+        "options": ["run", "walk", "sit", "stand"],
         "correctAnswer": "run"
     },
     {
-        "question": "To jump up and down on one or two feet is to ____. / Nhảy lên xuống bằng một hoặc hai chân là ____.",
-        "options": [
-            "hop",
-            "read",
-            "write",
-            "draw"
-        ],
+        "question": "To move up and down on one foot is to ____. / Di chuyển lên xuống bằng một chân là ____.",
+        "options": ["hop", "run", "read", "write"],
         "correctAnswer": "hop"
     },
     {
+        "question": "To push yourself up into the air with your legs is to ____. / Đẩy cơ thể bạn lên không trung bằng chân là ____.",
+        "options": ["jump", "sit", "eat", "draw"],
+        "correctAnswer": "jump"
+    },
+    {
         "question": "What is the opposite of 'up'? / Từ trái nghĩa của 'up' là gì?",
-        "options": [
-            "Down",
-            "In",
-            "On",
-            "Over"
-        ],
+        "options": ["Down", "In", "On", "Left"],
         "correctAnswer": "Down"
     },
     {
+        "question": "How do you feel when you are playing? / Bạn cảm thấy thế nào khi đang chơi?",
+        "options": ["Happy", "Sad", "Angry", "Hungry"],
+        "correctAnswer": "Happy"
+    },
+    {
         "question": "The sun is in the ____. / Mặt trời ở trên ____.",
-        "options": [
-            "sky",
-            "ground",
-            "water",
-            "tree"
-        ],
+        "options": ["sky", "ground", "water", "house"],
         "correctAnswer": "sky"
     },
     {
-        "question": "A big plant with a trunk and leaves is a ____. / Một loài cây lớn có thân và lá là ____.",
-        "options": [
-            "tree",
-            "flower",
-            "ball",
-            "car"
-        ],
-        "correctAnswer": "tree"
+        "question": "What color is the grass in the playground? / Cỏ ở sân chơi có màu gì?",
+        "options": ["Green", "Blue", "Red", "Yellow"],
+        "correctAnswer": "Green"
+    },
+    {
+        "question": "How many friends do you need to play on a seesaw? / Bạn cần bao nhiêu người bạn để chơi bập bênh?",
+        "options": ["One", "Zero", "Five", "Ten"],
+        "correctAnswer": "One"
+    },
+    {
+        "question": "What shape is a ball? / Quả bóng có hình gì?",
+        "options": ["Round", "Square", "Triangle", "Star"],
+        "correctAnswer": "Round"
+    },
+    {
+        "question": "When you are on a swing, you go ____. / Khi bạn ở trên xích đu, bạn đi ____.",
+        "options": ["back and forth", "up and down", "round and round", "left and right"],
+        "correctAnswer": "back and forth"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": ["Sad", "Big", "Small", "Fast"],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "You can ____ a ball with your foot. / Bạn có thể ____ quả bóng bằng chân.",
+        "options": ["kick", "read", "write", "draw"],
+        "correctAnswer": "kick"
+    },
+    {
+        "question": "You can ____ a ball with your hands. / Bạn có thể ____ quả bóng bằng tay.",
+        "options": ["throw", "eat", "sleep", "sing"],
+        "correctAnswer": "throw"
+    },
+    {
+        "question": "A playground is a place for ____. / Sân chơi là một nơi dành cho ____.",
+        "options": ["fun", "work", "studying", "cooking"],
+        "correctAnswer": "fun"
+    },
+    {
+        "question": "What do you see above the playground on a sunny day? / Bạn thấy gì phía trên sân chơi vào một ngày nắng?",
+        "options": ["The sun", "The moon", "The stars", "The rain"],
+        "correctAnswer": "The sun"
+    },
+    {
+        "question": "Spell the word for the toy you slide on. / Đánh vần từ chỉ đồ chơi bạn trượt.",
+        "options": ["s-l-i-d-e", "s-w-i-n-g", "b-a-l-l", "t-r-e-e"],
+        "correctAnswer": "s-l-i-d-e"
+    },
+    {
+        "question": "Spell the word for what you do at a playground. / Đánh vần từ chỉ việc bạn làm ở sân chơi.",
+        "options": ["p-l-a-y", "w-o-r-k", "r-e-a-d", "e-a-t"],
+        "correctAnswer": "p-l-a-y"
+    },
+    {
+        "question": "What is the opposite of 'in'? / Từ trái nghĩa của 'in' là gì?",
+        "options": ["Out", "Up", "Down", "On"],
+        "correctAnswer": "Out"
+    },
+    {
+        "question": "A playground is usually ____. / Một sân chơi thường ở ____.",
+        "options": ["outside", "inside", "in a house", "in a classroom"],
+        "correctAnswer": "outside"
+    },
+    {
+        "question": "How many people can sit on one swing? / Bao nhiêu người có thể ngồi trên một chiếc xích đu?",
+        "options": ["One", "Two", "Three", "Four"],
+        "correctAnswer": "One"
+    },
+    {
+        "question": "The seesaw goes ____. / Bập bênh đi ____.",
+        "options": ["up and down", "round and round", "fast and slow", "left and right"],
+        "correctAnswer": "up and down"
+    },
+    {
+        "question": "What color is the sky on a clear day? / Bầu trời có màu gì vào một ngày quang đãng?",
+        "options": ["Blue", "Green", "Red", "Brown"],
+        "correctAnswer": "Blue"
+    },
+    {
+        "question": "To go down the slide, you must first ____ up. / Để trượt xuống cầu trượt, trước tiên bạn phải ____ lên.",
+        "options": ["climb", "jump", "run", "walk"],
+        "correctAnswer": "climb"
+    },
+    {
+        "question": "A playground is a ____ place. / Sân chơi là một nơi ____.",
+        "options": ["happy", "sad", "quiet", "scary"],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": ["Small", "Tall", "Long", "Happy"],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "You can ____ under a big tree for shade. / Bạn có thể ____ dưới một cái cây lớn để che bóng mát.",
+        "options": ["sit", "run", "jump", "fly"],
+        "correctAnswer": "sit"
+    },
+    {
+        "question": "Spell the word for a person you play with. / Đánh vần từ chỉ một người bạn chơi cùng.",
+        "options": ["f-r-i-e-n-d", "t-e-a-c-h-e-r", "m-o-t-h-e-r", "d-o-c-t-o-r"],
+        "correctAnswer": "f-r-i-e-n-d"
+    },
+    {
+        "question": "What do you hear at a playground? / Bạn nghe thấy gì ở sân chơi?",
+        "options": ["Laughing", "Crying", "Sleeping", "Studying"],
+        "correctAnswer": "Laughing"
+    },
+    {
+        "question": "A playground is for ____. / Sân chơi dành cho ____.",
+        "options": ["children", "adults", "animals", "cars"],
+        "correctAnswer": "children"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": ["Slow", "Quick", "Big", "Small"],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "You can ____ with a ball. / Bạn có thể ____ với một quả bóng.",
+        "options": ["play", "read", "write", "sleep"],
+        "correctAnswer": "play"
+    },
+    {
+        "question": "Spell the word for the toy you swing on. / Đánh vần từ chỉ đồ chơi bạn đu.",
+        "options": ["s-w-i-n-g", "s-l-i-d-e", "b-a-l-l", "r-o-p-e"],
+        "correctAnswer": "s-w-i-n-g"
+    },
+    {
+        "question": "A tree has many green ____. / Một cái cây có nhiều ____ màu xanh.",
+        "options": ["leaves", "balls", "swings", "friends"],
+        "correctAnswer": "leaves"
+    },
+    {
+        "question": "When you play, it is important to be ____ to your friends. / Khi bạn chơi, điều quan trọng là phải ____ với bạn bè.",
+        "options": ["kind", "mean", "sad", "angry"],
+        "correctAnswer": "kind"
+    },
+    {
+        "question": "What is the opposite of 'push'? / Từ trái nghĩa của 'push' là gì?",
+        "options": ["Pull", "Go", "Stop", "Run"],
+        "correctAnswer": "Pull"
+    },
+    {
+        "question": "You can ____ a friend on the swing. / Bạn có thể ____ một người bạn trên xích đu.",
+        "options": ["push", "read", "eat", "draw"],
+        "correctAnswer": "push"
+    },
+    {
+        "question": "The slide can be very ____. / Cầu trượt có thể rất ____.",
+        "options": ["fast", "slow", "sad", "quiet"],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "What do you wear on your feet to run in the playground? / Bạn đi gì ở chân để chạy trong sân chơi?",
+        "options": ["Shoes", "Hats", "Gloves", "Socks"],
+        "correctAnswer": "Shoes"
+    },
+    {
+        "question": "Spell the word for the number 1. / Đánh vần từ chỉ số 1.",
+        "options": ["o-n-e", "t-w-o", "t-e-n", "s-u-n"],
+        "correctAnswer": "o-n-e"
+    },
+    {
+        "question": "Spell the word for the number 2. / Đánh vần từ chỉ số 2.",
+        "options": ["t-w-o", "t-o-o", "n-e-w", "w-e-t"],
+        "correctAnswer": "t-w-o"
+    },
+    {
+        "question": "How many slides do you see? (Assume there is one) / Bạn thấy bao nhiêu cầu trượt? (Giả sử có một)",
+        "options": ["One", "Two", "Three", "Four"],
+        "correctAnswer": "One"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": ["Stop", "Go", "Begin", "Play"],
+        "correctAnswer": "Stop"
+    },
+    {
+        "question": "A playground is a good place to make new ____. / Sân chơi là một nơi tốt để kết thêm ____ mới.",
+        "options": ["friends", "enemies", "books", "food"],
+        "correctAnswer": "friends"
+    },
+    {
+        "question": "What is the opposite of 'laugh'? / Từ trái nghĩa của 'laugh' là gì?",
+        "options": ["Cry", "Smile", "Sing", "Talk"],
+        "correctAnswer": "Cry"
+    },
+    {
+        "question": "You should ____ your turn to go on the slide. / Bạn nên ____ đến lượt mình để đi cầu trượt.",
+        "options": ["wait for", "run for", "jump for", "push for"],
+        "correctAnswer": "wait for"
+    },
+    {
+        "question": "What color is the sun? / Mặt trời có màu gì?",
+        "options": ["Yellow", "Blue", "Green", "Purple"],
+        "correctAnswer": "Yellow"
+    },
+    {
+        "question": "Spell the word for the toy you kick. / Đánh vần từ chỉ đồ chơi bạn đá.",
+        "options": ["b-a-l-l", "d-o-l-l", "c-a-r", "b-o-x"],
+        "correctAnswer": "b-a-l-l"
+    },
+    {
+        "question": "It is important to play ____ at the playground. / Điều quan trọng là phải chơi ____ ở sân chơi.",
+        "options": ["safely", "dangerously", "sadly", "quietly"],
+        "correctAnswer": "safely"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": ["Night", "Sun", "Sky", "Light"],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You can ____ a sandcastle in the sandbox. / Bạn có thể ____ một lâu đài cát trong hộp cát.",
+        "options": ["build", "eat", "read", "drink"],
+        "correctAnswer": "build"
+    },
+    {
+        "question": "What is the opposite of 'long'? / Từ trái nghĩa của 'long' là gì?",
+        "options": ["Short", "Big", "Tall", "Wide"],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "A slide can be straight or ____. / Cầu trượt có thể thẳng hoặc ____.",
+        "options": ["curly", "square", "flat", "sad"],
+        "correctAnswer": "curly"
+    },
+    {
+        "question": "Spell the word for the number 3. / Đánh vần từ chỉ số 3.",
+        "options": ["t-h-r-e-e", "t-r-e-e", "f-r-e-e", "f-o-u-r"],
+        "correctAnswer": "t-h-r-e-e"
+    },
+    {
+        "question": "What is the opposite of 'hard'? (like a rock) / Từ trái nghĩa của 'hard' là gì? (như một tảng đá)",
+        "options": ["Soft", "Easy", "Big", "Light"],
+        "correctAnswer": "Soft"
+    },
+    {
+        "question": "The grass in the playground is ____. / Cỏ trong sân chơi thì ____.",
+        "options": ["soft", "hard", "hot", "blue"],
+        "correctAnswer": "soft"
+    },
+    {
+        "question": "What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
+        "options": ["Old", "Young", "Big", "Good"],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "Let's ____! The playground is fun. / Hãy ____! Sân chơi thật vui.",
+        "options": ["go", "stop", "sleep", "work"],
+        "correctAnswer": "go"
+    },
+    {
+        "question": "Spell the word for the number 4. / Đánh vần từ chỉ số 4.",
+        "options": ["f-o-u-r", "f-o-r", "d-o-o-r", "p-o-u-r"],
+        "correctAnswer": "f-o-u-r"
+    },
+    {
+        "question": "What is the opposite of 'friend'? / Từ trái nghĩa của 'friend' là gì?",
+        "options": ["Enemy", "Family", "Teacher", "Pet"],
+        "correctAnswer": "Enemy"
+    },
+    {
+        "question": "You can ____ on the monkey bars. / Bạn có thể ____ trên xà đu.",
+        "options": ["hang", "sit", "sleep", "eat"],
+        "correctAnswer": "hang"
+    },
+    {
+        "question": "What is the opposite of 'full'? / Từ trái nghĩa của 'full' là gì?",
+        "options": ["Empty", "Big", "Open", "Happy"],
+        "correctAnswer": "Empty"
+    },
+    {
+        "question": "The playground is ____ of children. / Sân chơi ____ trẻ em.",
+        "options": ["full", "empty", "sad", "quiet"],
+        "correctAnswer": "full"
+    },
+    {
+        "question": "Spell the word for the number 5. / Đánh vần từ chỉ số 5.",
+        "options": ["f-i-v-e", "l-i-v-e", "h-i-v-e", "d-i-v-e"],
+        "correctAnswer": "f-i-v-e"
+    },
+    {
+        "question": "What is the opposite of 'on'? / Từ trái nghĩa của 'on' là gì?",
+        "options": ["Under", "In", "Over", "At"],
+        "correctAnswer": "Under"
+    },
+    {
+        "question": "The ball is ____ the slide. / Quả bóng ở ____ cầu trượt.",
+        "options": ["under", "on", "in", "happy"],
+        "correctAnswer": "under"
+    },
+    {
+        "question": "What is the opposite of 'boy'? / Từ trái nghĩa của 'boy' là gì?",
+        "options": ["Girl", "Man", "Friend", "Child"],
+        "correctAnswer": "Girl"
+    },
+    {
+        "question": "There is a ____ and a ____ playing. / Có một ____ và một ____ đang chơi.",
+        "options": ["boy, girl", "cat, dog", "book, pen", "sun, moon"],
+        "correctAnswer": "boy, girl"
+    },
+    {
+        "question": "Spell the word for something you can climb. / Đánh vần từ chỉ một thứ bạn có thể trèo.",
+        "options": ["t-r-e-e", "s-l-i-d-e", "b-a-l-l", "s-k-y"],
+        "correctAnswer": "t-r-e-e"
+    },
+    {
+        "question": "What is the opposite of 'left'? / Từ trái nghĩa của 'left' là gì?",
+        "options": ["Right", "Up", "Down", "Go"],
+        "correctAnswer": "Right"
+    },
+    {
+        "question": "You can ____ a bike in some big playgrounds. / Bạn có thể ____ xe đạp ở một số sân chơi lớn.",
+        "options": ["ride", "read", "write", "eat"],
+        "correctAnswer": "ride"
+    },
+    {
+        "question": "What is the opposite of 'black'? / Từ trái nghĩa của 'black' là gì?",
+        "options": ["White", "Blue", "Red", "Dark"],
+        "correctAnswer": "White"
+    },
+    {
+        "question": "The ball is black and ____. / Quả bóng có màu đen và ____.",
+        "options": ["white", "green", "happy", "sad"],
+        "correctAnswer": "white"
+    },
+    {
+        "question": "Spell the word for the greeting you say when you arrive. / Đánh vần từ chào hỏi bạn nói khi đến.",
+        "options": ["h-e-l-l-o", "g-o-o-d-b-y-e", "t-h-a-n-k-s", "p-l-a-y"],
+        "correctAnswer": "h-e-l-l-o"
+    },
+    {
+        "question": "What is the opposite of 'stop'? / Từ trái nghĩa của 'stop' là gì?",
+        "options": ["Go", "Wait", "End", "Finish"],
+        "correctAnswer": "Go"
+    },
+    {
+        "question": "A ____ is a place to sit in the playground. / Một ____ là nơi để ngồi trong sân chơi.",
+        "options": ["bench", "bed", "desk", "sofa"],
+        "correctAnswer": "bench"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": ["Loud", "Soft", "Slow", "Happy"],
+        "correctAnswer": "Loud"
+    },
+    {
+        "question": "The children are happy and ____. / Bọn trẻ vui vẻ và ____.",
+        "options": ["loud", "quiet", "sad", "angry"],
+        "correctAnswer": "loud"
+    },
+    {
+        "question": "Spell the word for the feeling of fun. / Đánh vần từ chỉ cảm giác vui vẻ.",
+        "options": ["h-a-p-p-y", "s-a-d", "b-a-d", "m-a-d"],
+        "correctAnswer": "h-a-p-p-y"
+    },
+    {
+        "question": "What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
+        "options": ["Old", "New", "Small", "Short"],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "A ____ is a path where you can walk. / Một ____ là một con đường nơi bạn có thể đi bộ.",
+        "options": ["path", "river", "road", "pool"],
+        "correctAnswer": "path"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": ["Dirty", "Tidy", "Neat", "Nice"],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "After playing, your hands might be ____. / Sau khi chơi, tay bạn có thể bị ____.",
+        "options": ["dirty", "clean", "happy", "big"],
+        "correctAnswer": "dirty"
+    },
+    {
+        "question": "Spell the word for the opposite of 'up'. / Đánh vần từ trái nghĩa của 'up'.",
+        "options": ["d-o-w-n", "i-n", "o-u-t", "o-n"],
+        "correctAnswer": "d-o-w-n"
+    },
+    {
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": ["Short", "Long", "Big", "Small"],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "The small tree is ____. / Cái cây nhỏ thì ____.",
+        "options": ["short", "tall", "big", "long"],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": ["Ugly", "Pretty", "Nice", "Happy"],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The flowers in the playground are ____. / Những bông hoa trong sân chơi thì ____.",
+        "options": ["beautiful", "ugly", "sad", "small"],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for the place you play. / Đánh vần từ chỉ nơi bạn chơi.",
+        "options": ["p-l-a-y-g-r-o-u-n-d", "s-c-h-o-o-l", "h-o-u-s-e", "r-o-o-m"],
+        "correctAnswer": "p-l-a-y-g-r-o-u-n-d"
     }
 ]
