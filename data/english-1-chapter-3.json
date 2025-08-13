@@ -1,483 +1,483 @@
 [
   {
-    "question": "Who is this? He is the man in the family.",
-    "options": ["Father", "Mother", "Sister", "Brother"],
-    "correctAnswer": "Father"
+    "question": "What is this place? You can buy many things here. / Đây là nơi nào? Bạn có thể mua nhiều thứ ở đây.",
+    "options": ["A street market", "A school", "A library", "A park"],
+    "correctAnswer": "A street market"
   },
   {
-    "question": "This is my ____. She is the woman in the family.",
-    "options": ["mother", "father", "brother", "sister"],
-    "correctAnswer": "mother"
+    "question": "This is an ____. It's a red fruit. / Đây là một ____. Nó là một loại quả màu đỏ.",
+    "options": ["apple", "banana", "orange", "lemon"],
+    "correctAnswer": "apple"
   },
   {
-    "question": "He is my ____. He is a boy.",
-    "options": ["brother", "sister", "mother", "father"],
-    "correctAnswer": "brother"
+    "question": "You can buy ____ here. It's a yellow fruit. / Bạn có thể mua ____ ở đây. Nó là một loại quả màu vàng.",
+    "options": ["bananas", "apples", "oranges", "grapes"],
+    "correctAnswer": "bananas"
   },
   {
-    "question": "She is my ____. She is a girl.",
-    "options": ["sister", "brother", "father", "mother"],
-    "correctAnswer": "sister"
+    "question": "This is ____. You eat it for breakfast. / Đây là ____. Bạn ăn nó cho bữa sáng.",
+    "options": ["bread", "rice", "noodles", "cake"],
+    "correctAnswer": "bread"
   },
   {
-    "question": "Spell the word: f-a-t-h-e-r",
-    "options": ["father", "mother", "fatter", "further"],
-    "correctAnswer": "father"
+    "question": "Spell the word: m-a-r-k-e-t / Đánh vần từ: m-a-r-k-e-t",
+    "options": ["market", "marker", "marmot", "marrow"],
+    "correctAnswer": "market"
   },
   {
-    "question": "Who is he? He is my father's father.",
-    "options": ["Grandfather", "Grandmother", "Brother", "Sister"],
-    "correctAnswer": "Grandfather"
+    "question": "This is ____. It's sweet. / Đây là ____. Nó ngọt.",
+    "options": ["candy", "bread", "rice", "fish"],
+    "correctAnswer": "candy"
   },
   {
-    "question": "This is my ____. I love her very much.",
-    "options": ["mother", "father", "brother", "friend"],
-    "correctAnswer": "mother"
+    "question": "I want to buy a ____. / Tôi muốn mua một ____.",
+    "options": ["toy", "book", "pen", "chair"],
+    "correctAnswer": "toy"
   },
   {
-    "question": "Find the word: s-i-s-t-e-r",
-    "options": ["sister", "mister", "silver", "listen"],
-    "correctAnswer": "sister"
+    "question": "Find the word: a-p-p-l-e / Tìm từ: a-p-p-l-e",
+    "options": ["apple", "apply", "able", "ample"],
+    "correctAnswer": "apple"
   },
   {
-    "question": "Is he your brother?",
-    "options": ["Yes, he is.", "No, he isn't.", "She is my sister.", "I have a book."],
-    "correctAnswer": "Yes, he is."
+    "question": "Do you have any oranges? / Bạn có quả cam nào không?",
+    "options": ["Yes, I do.", "No, I don't.", "It is a market.", "I have an apple."],
+    "correctAnswer": "Yes, I do."
   },
   {
-    "question": "This is my ____. Her name is Mai.",
-    "options": ["sister", "brother", "father", "grandfather"],
-    "correctAnswer": "sister"
+    "question": "This is a big ____. / Đây là một ____ lớn.",
+    "options": ["market", "house", "school", "shop"],
+    "correctAnswer": "market"
   },
   {
-    "question": "What is this? It's a group of people living together.",
-    "options": ["A family", "A school", "A playground", "A house"],
-    "correctAnswer": "A family"
+    "question": "What can you buy at the market? / Bạn có thể mua gì ở chợ?",
+    "options": ["Fruit and vegetables", "Clothes and shoes", "Books and pens", "Toys and games"],
+    "correctAnswer": "Fruit and vegetables"
   },
   {
-    "question": "I love my ____.",
-    "options": ["family", "school", "book", "pen"],
-    "correctAnswer": "family"
+    "question": "I like to eat ____. / Tôi thích ăn ____.",
+    "options": ["candy", "vegetables", "rice", "bread"],
+    "correctAnswer": "candy"
   },
   {
-    "question": "What is the missing letter? mothe_",
-    "options": ["r", "l", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Who is she? She is my father's mother.",
-    "options": ["Grandmother", "Grandfather", "Mother", "Father"],
-    "correctAnswer": "Grandmother"
-  },
-  {
-    "question": "This is my ____. His name is Nam.",
-    "options": ["brother", "sister", "mother", "grandmother"],
-    "correctAnswer": "brother"
-  },
-  {
-    "question": "Let's draw a picture of my ____.",
-    "options": ["family", "school", "pet", "toy"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "Spell the word: m-o-t-h-e-r",
-    "options": ["mother", "brother", "other", "another"],
-    "correctAnswer": "mother"
-  },
-  {
-    "question": "Is she your mother?",
-    "options": ["Yes, she is.", "No, she isn't.", "He is my father.", "I am a student."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "This is my ____. He is old.",
-    "options": ["grandfather", "brother", "father", "son"],
-    "correctAnswer": "grandfather"
-  },
-  {
-    "question": "What is the missing letter? bro_her",
+    "question": "What is the missing letter? marke_",
     "options": ["t", "p", "d", "k"],
     "correctAnswer": "t"
   },
   {
-    "question": "This is my ____. She is kind.",
-    "options": ["grandmother", "grandfather", "brother", "father"],
-    "correctAnswer": "grandmother"
+    "question": "This is a ____. It's an orange fruit. / Đây là một ____. Nó là một loại quả màu cam.",
+    "options": ["orange", "apple", "banana", "grape"],
+    "correctAnswer": "orange"
   },
   {
-    "question": "How many people are in your family?",
-    "options": ["Four", "One", "Two", "Three"],
-    "correctAnswer": "Four"
+    "question": "My mother is buying ____. / Mẹ tôi đang mua ____.",
+    "options": ["vegetables", "flowers", "toys", "books"],
+    "correctAnswer": "vegetables"
   },
   {
-    "question": "This is a photo of my ____.",
-    "options": ["family", "school", "class", "friends"],
-    "correctAnswer": "family"
+    "question": "Let's buy some ____. / Hãy mua một ít ____.",
+    "options": ["fruit", "clothes", "shoes", "hats"],
+    "correctAnswer": "fruit"
   },
   {
-    "question": "Spell the word: b-r-o-t-h-e-r",
-    "options": ["brother", "mother", "other", "bother"],
-    "correctAnswer": "brother"
+    "question": "Spell the word: b-a-n-a-n-a / Đánh vần từ: b-a-n-a-n-a",
+    "options": ["banana", "bandana", "bahama", "canada"],
+    "correctAnswer": "banana"
   },
   {
-    "question": "Is he your father?",
-    "options": ["Yes, he is.", "No, he isn't.", "She is my mother.", "I can see a book."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "I have one ____.",
-    "options": ["sister", "sisters", "sister's", "sisteres"],
-    "correctAnswer": "sister"
-  },
-  {
-    "question": "What is the missing letter? fami_y",
-    "options": ["l", "b", "p", "t"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "Who is this?",
-    "options": ["My father", "My teacher", "My friend", "My doctor"],
-    "correctAnswer": "My father"
-  },
-  {
-    "question": "This is my ____. I love him.",
-    "options": ["father", "mother", "sister", "aunt"],
-    "correctAnswer": "father"
-  },
-  {
-    "question": "This is my ____. She is beautiful.",
-    "options": ["mother", "father", "brother", "uncle"],
-    "correctAnswer": "mother"
-  },
-  {
-    "question": "Who is this?",
-    "options": ["A brother", "A sister", "A mother", "A father"],
-    "correctAnswer": "A brother"
-  },
-  {
-    "question": "Find the word: g-r-a-n-d-f-a-t-h-e-r",
-    "options": ["grandfather", "grandmother", "father", "grand"],
-    "correctAnswer": "grandfather"
-  },
-  {
-    "question": "Is she your sister?",
-    "options": ["Yes, she is.", "No, she isn't.", "He is my brother.", "I am a boy."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "My ____ is tall.",
-    "options": ["father", "mother", "sister", "baby"],
-    "correctAnswer": "father"
-  },
-  {
-    "question": "What is the missing letter? sist_r",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a happy ____.",
-    "options": ["family", "school", "day", "song"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "Spell the word: g-r-a-n-d-m-o-t-h-e-r",
-    "options": ["grandmother", "grandfather", "mother", "grand"],
-    "correctAnswer": "grandmother"
-  },
-  {
-    "question": "Is this your family?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a school.", "I can see a house."],
+    "question": "Is this a big market? / Đây có phải là một khu chợ lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a market.", "I can see food."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have a big ____.",
-    "options": ["family", "house", "car", "ball"],
-    "correctAnswer": "family"
+    "question": "I am at the ____. / Tôi đang ở ____.",
+    "options": ["street market", "house", "shop", "car"],
+    "correctAnswer": "street market"
   },
   {
-    "question": "What is the missing letter? f_ther",
-    "options": ["a", "o", "e", "u"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "Who is this?",
-    "options": ["A sister", "A brother", "A father", "A mother"],
-    "correctAnswer": "A sister"
-  },
-  {
-    "question": "My ____ is young.",
-    "options": ["brother", "father", "grandfather", "grandmother"],
-    "correctAnswer": "brother"
-  },
-  {
-    "question": "Is he your grandfather?",
-    "options": ["Yes, he is.", "No, he isn't.", "She is my grandmother.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "I have a ____ and a sister.",
-    "options": ["brother", "father", "mother", "friend"],
-    "correctAnswer": "brother"
-  },
-  {
-    "question": "Find the word: f-a-m-i-l-y",
-    "options": ["family", "fame", "familiar", "famous"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["grandmother", "grandfather", "father", "brother"],
-    "correctAnswer": "grandmother"
-  },
-  {
-    "question": "What is the missing letter? grand_ather",
-    "options": ["f", "p", "t", "d"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "Is she your grandmother?",
-    "options": ["Yes, she is.", "No, she isn't.", "He is my grandfather.", "Goodbye."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "My ____ tells me stories.",
-    "options": ["grandmother", "teacher", "friend", "sister"],
-    "correctAnswer": "grandmother"
-  },
-  {
-    "question": "Who is this?",
-    "options": ["A mother", "A father", "A brother", "A sister"],
-    "correctAnswer": "A mother"
-  },
-  {
-    "question": "How many brothers do you have?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "How many sisters do you have?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "I see ____ father.",
-    "options": ["my", "you", "he", "she"],
-    "correctAnswer": "my"
-  },
-  {
-    "question": "Who is she?",
-    "options": ["She is my mother.", "He is my father.", "He is my brother.", "She is my friend."],
-    "correctAnswer": "She is my mother."
-  },
-  {
-    "question": "Who is he?",
-    "options": ["He is my father.", "She is my mother.", "She is my sister.", "He is my teacher."],
-    "correctAnswer": "He is my father."
-  },
-  {
-    "question": "My father is a ____.",
-    "options": ["doctor", "teacher", "student", "baby"],
-    "correctAnswer": "doctor"
-  },
-  {
-    "question": "My mother is a ____.",
-    "options": ["teacher", "doctor", "student", "baby"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "Is your family big or small?",
-    "options": ["Big", "Small", "Yes", "No"],
-    "correctAnswer": "Big"
-  },
-  {
-    "question": "My family is ____.",
-    "options": ["happy", "sad", "angry", "tired"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? ha_py",
-    "options": ["p", "t", "d", "k"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["father", "mother", "sister", "brother"],
-    "correctAnswer": "father"
-  },
-  {
-    "question": "I love my ____.",
-    "options": ["mother", "father", "brother", "sister"],
-    "correctAnswer": "mother"
-  },
-  {
-    "question": "Is he your brother?",
-    "options": ["Yes, he is.", "No, she isn't.", "It is a cat.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "Let's meet my ____.",
-    "options": ["family", "friends", "pets", "toys"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "Spell the word: l-o-v-e",
-    "options": ["love", "live", "leave", "life"],
-    "correctAnswer": "love"
-  },
-  {
-    "question": "I have ____ father and one mother.",
-    "options": ["one", "a", "an", "two"],
-    "correctAnswer": "one"
-  },
-  {
-    "question": "They are my ____.",
-    "options": ["parents", "friends", "teachers", "students"],
-    "correctAnswer": "parents"
-  },
-  {
-    "question": "What is the missing letter? pa_ents",
-    "options": ["r", "l", "n", "m"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["grandfather", "grandmother", "father", "mother"],
-    "correctAnswer": "grandfather"
-  },
-  {
-    "question": "We can ____ with our family.",
-    "options": ["play", "eat", "talk", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Is it a family photo?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a school photo.", "I like photos."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: p-h-o-t-o",
-    "options": ["photo", "phone", "piano", "potato"],
-    "correctAnswer": "photo"
-  },
-  {
-    "question": "I see ____ people in the photo.",
-    "options": ["four", "one", "two", "three"],
-    "correctAnswer": "four"
-  },
-  {
-    "question": "The family lives in a ____.",
-    "options": ["house", "school", "shop", "park"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "What is the missing letter? hou_e",
-    "options": ["s", "c", "p", "t"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "Who is this?",
-    "options": ["A grandmother", "A grandfather", "A mother", "A father"],
-    "correctAnswer": "A grandmother"
-  },
-  {
-    "question": "My ____ is kind and gentle.",
-    "options": ["mother", "father", "brother", "grandfather"],
-    "correctAnswer": "mother"
-  },
-  {
-    "question": "Is he your uncle?",
-    "options": ["No, he is my father.", "Yes, he is.", "She is my aunt.", "I have an uncle."],
-    "correctAnswer": "No, he is my father."
-  },
-  {
-    "question": "My brother likes to play with ____.",
-    "options": ["me", "you", "him", "her"],
-    "correctAnswer": "me"
-  },
-  {
-    "question": "Spell the word: h-o-u-s-e",
-    "options": ["house", "horse", "mouse", "blouse"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "This is a lovely ____.",
-    "options": ["family", "day", "cat", "dog"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "What is the missing letter? grandm_ther",
-    "options": ["o", "a", "e", "i"],
+    "question": "What is the missing letter? _range / Chữ cái còn thiếu là gì? _range",
+    "options": ["o", "a", "e", "u"],
     "correctAnswer": "o"
   },
   {
-    "question": "Who is this?",
-    "options": ["A grandfather", "A grandmother", "A father", "A mother"],
-    "correctAnswer": "A grandfather"
+    "question": "These are fresh ____. / Đây là những ____ tươi.",
+    "options": ["vegetables", "toys", "books", "pets"],
+    "correctAnswer": "vegetables"
   },
   {
-    "question": "My ____ is strong.",
-    "options": ["father", "mother", "sister", "grandmother"],
-    "correctAnswer": "father"
+    "question": "How many bananas do you want? / Bạn muốn bao nhiêu quả chuối?",
+    "options": ["Five, please.", "I'm fine.", "My name is Mai.", "I like bananas."],
+    "correctAnswer": "Five, please."
   },
   {
-    "question": "Is she your aunt?",
-    "options": ["No, she is my mother.", "Yes, she is.", "He is my uncle.", "I have an aunt."],
-    "correctAnswer": "No, she is my mother."
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["cake", "biscuit", "candy", "chocolate"],
+    "correctAnswer": "cake"
   },
   {
-    "question": "My sister likes to ____.",
-    "options": ["read", "play", "sing", "all are correct"],
-    "correctAnswer": "all are correct"
+    "question": "Spell the word: c-a-n-d-y / Đánh vần từ: c-a-n-d-y",
+    "options": ["candy", "handy", "sandy", "dandy"],
+    "correctAnswer": "candy"
   },
   {
-    "question": "Spell the word: h-a-p-p-y",
-    "options": ["happy", "puppy", "hippy", "hoppy"],
-    "correctAnswer": "happy"
+    "question": "Is it fresh? / Nó có tươi không?",
+    "options": ["Yes, it is.", "No, it is old.", "It is a market.", "I can see bread."],
+    "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I am ____ with my family.",
+    "question": "We can get ____ from the market. / Chúng ta có thể lấy ____ từ chợ.",
+    "options": ["fish", "milk", "wool", "honey"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "What is the missing letter? brea_",
+    "options": ["d", "t", "p", "k"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A carrot", "A tomato", "A potato", "An onion"],
+    "correctAnswer": "A carrot"
+  },
+  {
+    "question": "This is a ____. You put your shopping in it. / Đây là một ____. Bạn để đồ mua sắm vào trong đó.",
+    "options": ["basket", "bag", "box", "cart"],
+    "correctAnswer": "basket"
+  },
+  {
+    "question": "This is ____. It's a drink. / Đây là ____. Nó là một loại đồ uống.",
+    "options": ["juice", "bread", "rice", "noodles"],
+    "correctAnswer": "juice"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["An orange", "An apple", "A banana", "A grape"],
+    "correctAnswer": "An orange"
+  },
+  {
+    "question": "Find the word: f-r-u-i-t / Tìm từ: f-r-u-i-t",
+    "options": ["fruit", "flute", "front", "brute"],
+    "correctAnswer": "fruit"
+  },
+  {
+    "question": "Is it sweet? / Nó có ngọt không?",
+    "options": ["Yes, it is.", "No, it is sour.", "I am in the market.", "I like sweets."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is full of food. / ____ của tôi đầy thức ăn.",
+    "options": ["basket", "bag", "box", "cart"],
+    "correctAnswer": "basket"
+  },
+  {
+    "question": "What is the missing letter? bana_a / Chữ cái còn thiếu là gì? bana_a",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["market", "book", "lesson", "game"],
+    "correctAnswer": "market"
+  },
+  {
+    "question": "Spell the word: t-o-y / Đánh vần từ: t-o-y",
+    "options": ["toy", "top", "ton", "tom"],
+    "correctAnswer": "toy"
+  },
+  {
+    "question": "Is this a red apple? / Đây có phải là một quả táo màu đỏ không?",
+    "options": ["Yes, it is.", "No, it is green.", "I can see an apple.", "I like apples."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The street market has many ____. / Chợ đường phố có nhiều ____.",
+    "options": ["stalls", "rooms", "floors", "doors"],
+    "correctAnswer": "stalls"
+  },
+  {
+    "question": "What is the missing letter? _tall / Chữ cái còn thiếu là gì? _tall",
+    "options": ["s", "a", "i", "o"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A toy car", "A real car", "A bus", "A train"],
+    "correctAnswer": "A toy car"
+  },
+  {
+    "question": "My ____ is heavy. / ____ của tôi nặng.",
+    "options": ["basket", "hat", "pen", "book"],
+    "correctAnswer": "basket"
+  },
+  {
+    "question": "Is the bread fresh? / Bánh mì có tươi không?",
+    "options": ["Yes, it is.", "No, it is old.", "It is bread.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see bread and some ____. / Tôi có thể thấy bánh mì và một ít ____.",
+    "options": ["cakes", "jam", "honey", "cheese"],
+    "correctAnswer": "cakes"
+  },
+  {
+    "question": "Find the word: c-a-r-r-o-t / Tìm từ: c-a-r-r-o-t",
+    "options": ["carrot", "parrot", "carry", "carton"],
+    "correctAnswer": "carrot"
+  },
+  {
+    "question": "This is my ____. I pay for the food here. / Đây là ____ của tôi. Tôi trả tiền thức ăn ở đây.",
+    "options": ["money", "menu", "plate", "cup"],
+    "correctAnswer": "money"
+  },
+  {
+    "question": "What is the missing letter? mone_",
+    "options": ["y", "k", "p", "t"],
+    "correctAnswer": "y"
+  },
+  {
+    "question": "Is it a delicious cake? / Nó có phải là một cái bánh ngon không?",
+    "options": ["Yes, it is.", "No, it is not.", "I like cakes.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["shopping", "homework", "class", "test"],
+    "correctAnswer": "shopping"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A tomato", "An apple", "A potato", "An orange"],
+    "correctAnswer": "A tomato"
+  },
+  {
+    "question": "How much is it? / Nó giá bao nhiêu?",
+    "options": ["It's 10,000 dong.", "It's a tomato.", "It's red.", "I want to buy it."],
+    "correctAnswer": "It's 10,000 dong."
+  },
+  {
+    "question": "A street market sells ____. / Một khu chợ đường phố bán ____.",
+    "options": ["many things", "clothes", "toys", "books"],
+    "correctAnswer": "many things"
+  },
+  {
+    "question": "I need ____ of milk. / Tôi cần ____ sữa.",
+    "options": ["a carton", "a bottle", "a can", "a box"],
+    "correctAnswer": "a carton"
+  },
+  {
+    "question": "What colour is the carrot? / Củ cà rốt màu gì?",
+    "options": ["Orange", "Green", "Red", "Yellow"],
+    "correctAnswer": "Orange"
+  },
+  {
+    "question": "What colour is the banana? / Quả chuối màu gì?",
+    "options": ["Yellow", "White", "Black", "Pink"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "The apples are ____. / Những quả táo thì ____.",
+    "options": ["fresh", "old", "small", "thin"],
+    "correctAnswer": "fresh"
+  },
+  {
+    "question": "The sweets are ____. / Những viên kẹo thì ____.",
+    "options": ["sweet", "sour", "sad", "bad"],
+    "correctAnswer": "sweet"
+  },
+  {
+    "question": "Is the market crowded? / Chợ có đông không?",
+    "options": ["Yes, it is.", "No, it is empty.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My shopping trip is ____. / Chuyến đi mua sắm của tôi thì ____.",
+    "options": ["quick", "long", "busy", "crowded"],
+    "correctAnswer": "quick"
+  },
+  {
+    "question": "What is the missing letter? qui_k / Chữ cái còn thiếu là gì? qui_k",
+    "options": ["c", "t", "d", "p"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is ____. / Đây là ____.",
+    "options": ["bread", "rice", "noodles", "cake"],
+    "correctAnswer": "bread"
+  },
+  {
+    "question": "I love ____. / Tôi yêu ____.",
+    "options": ["shopping", "dog", "cat", "bird"],
+    "correctAnswer": "shopping"
+  },
+  {
+    "question": "Is the milk cold? / Sữa có lạnh không?",
+    "options": ["Yes, it is.", "No, it is warm.", "It is milk.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["street market", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "street market"
+  },
+  {
+    "question": "Spell the word: s-h-o-p / Đánh vần từ: s-h-o-p",
+    "options": ["shop", "ship", "shoe", "show"],
+    "correctAnswer": "shop"
+  },
+  {
+    "question": "I have ____ new basket. / Tôi có ____ cái giỏ mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite fruit is ____. / Loại quả yêu thích của tôi là ____.",
+    "options": ["an orange", "an apple", "a banana", "a grape"],
+    "correctAnswer": "an orange"
+  },
+  {
+    "question": "What is the missing letter? oran_e / Chữ cái còn thiếu là gì? oran_e",
+    "options": ["g", "a", "i", "o"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "This is ____. It's a vegetable. / Đây là ____. Nó là một loại rau.",
+    "options": ["a potato", "an apple", "a banana", "an orange"],
+    "correctAnswer": "a potato"
+  },
+  {
+    "question": "We should eat healthy ____. / Chúng ta nên ăn ____ lành mạnh.",
+    "options": ["food", "toys", "secrets", "all are wrong"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Is it a big bag of rice? / Nó có phải là một túi gạo lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I like rice.", "The rice is white."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: f-r-u-i-t / Đánh vần từ: f-r-u-i-t",
+    "options": ["fruit", "flute", "front", "brute"],
+    "correctAnswer": "fruit"
+  },
+  {
+    "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
+    "options": ["bags", "desk", "chair", "floor"],
+    "correctAnswer": "bags"
+  },
+  {
+    "question": "The bananas are on the ____. / Những quả chuối ở trên ____.",
+    "options": ["stall", "floor", "ceiling", "door"],
+    "correctAnswer": "stall"
+  },
+  {
+    "question": "What is the missing letter? stal_",
+    "options": ["l", "p", "t", "d"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A cabbage", "A lettuce", "A broccoli", "A spinach"],
+    "correctAnswer": "A cabbage"
+  },
+  {
+    "question": "My ____ is full of groceries. / ____ của tôi đầy hàng tạp hóa.",
+    "options": ["trolley", "desk", "bag", "box"],
+    "correctAnswer": "trolley"
+  },
+  {
+    "question": "Is it a picture of fruit? / Nó có phải là một bức tranh về trái cây không?",
+    "options": ["Yes, it is.", "No, it is a vegetable.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to eat ____. / Bạn tôi thích ăn ____.",
+    "options": ["biscuits", "fish", "pizza", "juice"],
+    "correctAnswer": "biscuits"
+  },
+  {
+    "question": "Spell the word: b-u-y / Đánh vần từ: b-u-y",
+    "options": ["buy", "by", "bye", "boy"],
+    "correctAnswer": "buy"
+  },
+  {
+    "question": "This is a ____ day for shopping. / Đây là một ngày ____ để mua sắm.",
+    "options": ["good", "rainy", "cloudy", "windy"],
+    "correctAnswer": "good"
+  },
+  {
+    "question": "What is the missing letter? _ood / Chữ cái còn thiếu là gì? _ood",
+    "options": ["f", "g", "h", "w"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A seller", "A customer", "A manager", "A worker"],
+    "correctAnswer": "A seller"
+  },
+  {
+    "question": "My mother is paying the ____. / Mẹ tôi đang trả tiền cho ____.",
+    "options": ["seller", "customer", "manager", "worker"],
+    "correctAnswer": "seller"
+  },
+  {
+    "question": "Are the vegetables fresh? / Rau có tươi không?",
+    "options": ["Yes, they are.", "No, they are old.", "They are vegetables.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My street market has many ____. / Chợ đường phố của tôi có nhiều ____.",
+    "options": ["people", "teachers", "parents", "doctors"],
+    "correctAnswer": "people"
+  },
+  {
+    "question": "Spell the word: p-e-o-p-l-e / Đánh vần từ: p-e-o-p-l-e",
+    "options": ["people", "purple", "pebble", "pepper"],
+    "correctAnswer": "people"
+  },
+  {
+    "question": "I am ____ at the street market. / Tôi ____ ở chợ đường phố.",
     "options": ["happy", "sad", "bored", "angry"],
     "correctAnswer": "happy"
   },
   {
-    "question": "What is the missing letter? b_other",
-    "options": ["r", "l", "n", "m"],
-    "correctAnswer": "r"
+    "question": "What is the missing letter? stree_",
+    "options": ["t", "s", "p", "k"],
+    "correctAnswer": "t"
   },
   {
-    "question": "Who is this?",
-    "options": ["A family", "A team", "A class", "A group"],
-    "correctAnswer": "A family"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A shopping list", "A book", "A letter", "A card"],
+    "correctAnswer": "A shopping list"
   },
   {
-    "question": "My family has ____ members.",
-    "options": ["four", "five", "six", "three"],
-    "correctAnswer": "four"
+    "question": "My street market is my favorite ____. / Chợ đường phố là ____ yêu thích của tôi.",
+    "options": ["place to shop", "food", "colour", "toy"],
+    "correctAnswer": "place to shop"
   },
   {
-    "question": "Is it your brother?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my sister.", "Hello."],
-    "correctAnswer": "Yes, it is."
+    "question": "Is the milk expensive? / Sữa có đắt không?",
+    "options": ["No, it is cheap.", "Yes, it is.", "It is milk.", "Hello."],
+    "correctAnswer": "No, it is cheap."
   },
   {
-    "question": "My sister is ____.",
-    "options": ["small", "big", "tall", "old"],
-    "correctAnswer": "small"
+    "question": "The family buys food for the ____. / Gia đình mua thức ăn cho ____.",
+    "options": ["week", "day", "month", "year"],
+    "correctAnswer": "week"
   },
   {
-    "question": "Spell the word: s-m-a-l-l",
-    "options": ["small", "smell", "smile", "shall"],
-    "correctAnswer": "small"
+    "question": "Spell the word: m-o-n-e-y / Đánh vần từ: m-o-n-e-y",
+    "options": ["money", "monkey", "honey", "month"],
+    "correctAnswer": "money"
   },
   {
-    "question": "We live in a ____ house.",
-    "options": ["big", "small", "red", "blue"],
-    "correctAnswer": "big"
+    "question": "We use ____ to buy things. / Chúng tôi dùng ____ để mua đồ.",
+    "options": ["money", "cards", "toys", "books"],
+    "correctAnswer": "money"
   },
   {
-    "question": "What is the missing letter? si_ter",
-    "options": ["s", "c", "p", "t"],
-    "correctAnswer": "s"
+    "question": "What is the missing letter? mone_",
+    "options": ["y", "t", "p", "k"],
+    "correctAnswer": "y"
   }
 ]
 

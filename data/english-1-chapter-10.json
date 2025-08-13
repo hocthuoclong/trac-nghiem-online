@@ -1,482 +1,481 @@
 [
   {
-    "question": "What is this? It's a red fruit.",
-    "options": ["An apple", "A banana", "An orange", "A grape"],
-    "correctAnswer": "An apple"
+    "question": "What is this place? You can see many wild animals here. / Đây là nơi nào? Bạn có thể thấy nhiều động vật hoang dã ở đây.",
+    "options": ["A zoo", "A farm", "A park", "A school"],
+    "correctAnswer": "A zoo"
   },
   {
-    "question": "This is a yellow fruit. Monkeys like it.",
-    "options": ["banana", "apple", "orange", "grape"],
-    "correctAnswer": "banana"
+    "question": "This is a ____. It's the king of the jungle. / Đây là một ____. Nó là vua của rừng rậm.",
+    "options": ["lion", "tiger", "monkey", "elephant"],
+    "correctAnswer": "lion"
   },
   {
-    "question": "You drink this. It's white.",
-    "options": ["Milk", "Water", "Juice", "Tea"],
-    "correctAnswer": "Milk"
+    "question": "You can see a ____. It has black and white stripes. / Bạn có thể thấy một ____. Nó có sọc đen và trắng.",
+    "options": ["zebra", "tiger", "lion", "monkey"],
+    "correctAnswer": "zebra"
   },
   {
-    "question": "You drink this when you are thirsty. It has no colour.",
-    "options": ["Water", "Milk", "Juice", "Soda"],
-    "correctAnswer": "Water"
+    "question": "This is an ____. It's very big and has a long trunk. / Đây là một ____. Nó rất to và có một cái vòi dài.",
+    "options": ["elephant", "lion", "tiger", "monkey"],
+    "correctAnswer": "elephant"
   },
   {
-    "question": "Spell the word: m-i-l-k",
-    "options": ["milk", "like", "silk", "mile"],
-    "correctAnswer": "milk"
+    "question": "Spell the word: z-o-o / Đánh vần từ: z-o-o",
+    "options": ["zoo", "zip", "zen", "zero"],
+    "correctAnswer": "zoo"
   },
   {
-    "question": "This is ____. You eat it with many dishes in Vietnam.",
-    "options": ["rice", "bread", "cake", "candy"],
-    "correctAnswer": "rice"
+    "question": "This is a ____. It likes to climb trees and eat bananas. / Đây là một ____. Nó thích trèo cây và ăn chuối.",
+    "options": ["monkey", "lion", "tiger", "elephant"],
+    "correctAnswer": "monkey"
   },
   {
-    "question": "I like to eat ____.",
-    "options": ["cake", "book", "pen", "toy"],
-    "correctAnswer": "cake"
+    "question": "I can see a big ____ at the zoo. / Tôi có thể thấy một ____ lớn ở sở thú.",
+    "options": ["tiger", "cat", "dog", "pig"],
+    "correctAnswer": "tiger"
   },
   {
-    "question": "Find the word: a-p-p-l-e",
-    "options": ["apple", "apply", "able", "ample"],
-    "correctAnswer": "apple"
+    "question": "Find the word: l-i-o-n / Tìm từ: l-i-o-n",
+    "options": ["lion", "line", "live", "like"],
+    "correctAnswer": "lion"
   },
   {
-    "question": "Do you like milk?",
-    "options": ["Yes, I do.", "No, I don't.", "It is water.", "I have a cake."],
-    "correctAnswer": "Yes, I do."
-  },
-  {
-    "question": "This is a sweet ____.",
-    "options": ["cake", "rice", "bread", "water"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "What is this? You eat it for breakfast.",
-    "options": ["Bread", "Rice", "Candy", "Ice cream"],
-    "correctAnswer": "Bread"
-  },
-  {
-    "question": "I am hungry. I want some ____.",
-    "options": ["rice", "water", "milk", "juice"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "What is the missing letter? cak_",
-    "options": ["e", "k", "t", "p"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is my ____. It's orange.",
-    "options": ["juice", "milk", "water", "tea"],
-    "correctAnswer": "juice"
-  },
-  {
-    "question": "My mother is cooking ____.",
-    "options": ["rice", "cake", "bread", "milk"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "Let's drink some ____.",
-    "options": ["water", "bread", "rice", "cake"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "Spell the word: f-o-o-d",
-    "options": ["food", "foot", "good", "mood"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Do you like bananas?",
-    "options": ["Yes, I do.", "No, I don't.", "It is an apple.", "I can eat."],
-    "correctAnswer": "Yes, I do."
-  },
-  {
-    "question": "I am thirsty. I want some ____.",
-    "options": ["juice", "rice", "bread", "cake"],
-    "correctAnswer": "juice"
-  },
-  {
-    "question": "What is the missing letter? _pple",
-    "options": ["a", "o", "e", "u"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "This is my ____ and drink.",
-    "options": ["food", "pet", "toy", "book"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "How many apples do you have?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "This is a glass of ____.",
-    "options": ["milk", "rice", "bread", "cake"],
-    "correctAnswer": "milk"
-  },
-  {
-    "question": "Spell the word: w-a-t-e-r",
-    "options": ["water", "later", "waiter", "watch"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "Is it bread?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is rice.", "I can see food."],
+    "question": "Is this a monkey? / Đây có phải là một con khỉ không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a lion.", "I have a tiger."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I eat ____ every day.",
-    "options": ["rice", "cake", "candy", "ice cream"],
-    "correctAnswer": "rice"
+    "question": "This is a tall ____. It has a very long neck. / Đây là một ____ cao. Nó có một cái cổ rất dài.",
+    "options": ["giraffe", "elephant", "zebra", "lion"],
+    "correctAnswer": "giraffe"
   },
   {
-    "question": "What is the missing letter? brea_",
-    "options": ["d", "k", "m", "n"],
-    "correctAnswer": "d"
+    "question": "What can you do at the zoo? / Bạn có thể làm gì ở sở thú?",
+    "options": ["I can see animals.", "I can swim.", "I can cook.", "I can sleep."],
+    "correctAnswer": "I can see animals."
   },
   {
-    "question": "What is this?",
-    "options": ["My food", "My drink", "My toy", "My pet"],
-    "correctAnswer": "My food"
+    "question": "I like to watch the ____. / Tớ thích xem ____.",
+    "options": ["monkeys", "lions", "tigers", "elephants"],
+    "correctAnswer": "monkeys"
   },
   {
-    "question": "This is a ____. It's for my birthday.",
-    "options": ["cake", "bread", "rice", "water"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "This is ____. It's healthy.",
-    "options": ["water", "soda", "candy", "cake"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "What is this?",
-    "options": ["A banana", "An apple", "An orange", "A grape"],
-    "correctAnswer": "A banana"
-  },
-  {
-    "question": "Find the word: c-a-k-e",
-    "options": ["cake", "case", "cane", "cape"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "Is it juice?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is milk.", "I am a girl."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is sweet.",
-    "options": ["cake", "rice", "bread", "water"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "What is the missing letter? jui_e",
-    "options": ["c", "s", "t", "p"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is yummy ____.",
-    "options": ["food", "book", "song", "game"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Spell the word: r-i-c-e",
-    "options": ["rice", "nice", "mice", "lice"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "Is this an apple?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a banana.", "I can see."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My breakfast is ____ and milk.",
-    "options": ["bread", "rice", "cake", "candy"],
-    "correctAnswer": "bread"
-  },
-  {
-    "question": "What is the missing letter? _ilk",
-    "options": ["m", "s", "w", "p"],
-    "correctAnswer": "m"
-  },
-  {
-    "question": "What is this drink?",
-    "options": ["Juice", "Milk", "Water", "Tea"],
-    "correctAnswer": "Juice"
-  },
-  {
-    "question": "My ____ is white.",
-    "options": ["rice", "juice", "apple", "banana"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "Is the cake big?",
-    "options": ["Yes, it is.", "No, it is small.", "It is my cake.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I have an apple and a ____.",
-    "options": ["banana", "cake", "bread", "rice"],
-    "correctAnswer": "banana"
-  },
-  {
-    "question": "Find the word: b-a-n-a-n-a",
-    "options": ["banana", "bandana", "bahama", "canada"],
-    "correctAnswer": "banana"
-  },
-  {
-    "question": "This is ____. It's good for you.",
-    "options": ["milk", "soda", "candy", "cake"],
-    "correctAnswer": "milk"
-  },
-  {
-    "question": "What is the missing letter? bana_a",
+    "question": "What is the missing letter? lio_",
     "options": ["n", "m", "p", "t"],
     "correctAnswer": "n"
   },
   {
-    "question": "Is it water?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is milk.", "Goodbye."],
+    "question": "This is the ____. It's a fun place. / Đây là ____. Đó là một nơi vui vẻ.",
+    "options": ["zoo", "school", "city", "shop"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "My family is at the ____. / Gia đình tôi đang ở ____.",
+    "options": ["zoo", "farm", "beach", "park"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "Let's see the ____. / Hãy xem ____.",
+    "options": ["elephants", "books", "pencils", "chairs"],
+    "correctAnswer": "elephants"
+  },
+  {
+    "question": "Spell the word: t-i-g-e-r / Đánh vần từ: t-i-g-e-r",
+    "options": ["tiger", "time", "tire", "tiny"],
+    "correctAnswer": "tiger"
+  },
+  {
+    "question": "Is this a big elephant? / Đây có phải là một con voi lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a lion.", "I can see a monkey."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My ____ is fresh.",
-    "options": ["juice", "cake", "bread", "rice"],
-    "correctAnswer": "juice"
+    "question": "I am looking at a ____. / Tôi đang nhìn một ____.",
+    "options": ["zebra", "lion", "tiger", "monkey"],
+    "correctAnswer": "zebra"
   },
   {
-    "question": "What is this food?",
-    "options": ["Bread", "Rice", "Cake", "Candy"],
-    "correctAnswer": "Bread"
+    "question": "What is the missing letter? _ebra / Chữ cái còn thiếu là gì? _ebra",
+    "options": ["z", "y", "x", "w"],
+    "correctAnswer": "z"
   },
   {
-    "question": "I like to eat fruit. I like ____.",
-    "options": ["apples", "cakes", "breads", "rices"],
-    "correctAnswer": "apples"
+    "question": "These are wild ____. / Đây là những ____ hoang dã.",
+    "options": ["animals", "pets", "toys", "books"],
+    "correctAnswer": "animals"
   },
   {
-    "question": "I like to drink ____.",
-    "options": ["milk", "rice", "bread", "cake"],
-    "correctAnswer": "milk"
+    "question": "How many lions are there? / Có bao nhiêu con sư tử?",
+    "options": ["Two", "One", "Three", "Four"],
+    "correctAnswer": "Two"
   },
   {
-    "question": "I see ____ apple.",
-    "options": ["an", "a", "one", "my"],
-    "correctAnswer": "an"
+    "question": "This is a ____. It's very long and has no legs. / Đây là một ____. Nó rất dài và không có chân.",
+    "options": ["snake", "lizard", "crocodile", "turtle"],
+    "correctAnswer": "snake"
   },
   {
-    "question": "What colour is the banana?",
-    "options": ["Yellow", "Blue", "Green", "Red"],
-    "correctAnswer": "Yellow"
+    "question": "Spell the word: m-o-n-k-e-y / Đánh vần từ: m-o-n-k-e-y",
+    "options": ["monkey", "money", "donkey", "monday"],
+    "correctAnswer": "monkey"
   },
   {
-    "question": "What colour is the milk?",
-    "options": ["White", "Red", "Green", "Yellow"],
-    "correctAnswer": "White"
-  },
-  {
-    "question": "The cake is ____.",
-    "options": ["sweet", "sour", "salty", "bitter"],
-    "correctAnswer": "sweet"
-  },
-  {
-    "question": "The water is ____.",
-    "options": ["cool", "hot", "warm", "cold"],
-    "correctAnswer": "cool"
-  },
-  {
-    "question": "Is your food yummy?",
-    "options": ["Yes, it is.", "No, it isn't.", "Yes", "No"],
+    "question": "Is it a dangerous animal? / Nó có phải là một con vật nguy hiểm không?",
+    "options": ["Yes, it is.", "No, it is friendly.", "It is a zoo.", "I can see animals."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My food is ____.",
-    "options": ["delicious", "sad", "angry", "tired"],
-    "correctAnswer": "delicious"
+    "question": "We can see a ____ in the water. / Chúng ta có thể thấy một ____ trong nước.",
+    "options": ["crocodile", "lion", "tiger", "monkey"],
+    "correctAnswer": "crocodile"
   },
   {
-    "question": "What is the missing letter? deli_ious",
-    "options": ["c", "t", "d", "k"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is an ____.",
-    "options": ["apple", "banana", "cake", "bread"],
-    "correctAnswer": "apple"
-  },
-  {
-    "question": "I love to eat ____.",
-    "options": ["bananas", "dogs", "cats", "birds"],
-    "correctAnswer": "bananas"
-  },
-  {
-    "question": "Is the bread fresh?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is old bread.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's eat ____.",
-    "options": ["lunch", "friends", "pets", "books"],
-    "correctAnswer": "lunch"
-  },
-  {
-    "question": "Spell the word: e-a-t",
-    "options": ["eat", "tea", "ate", "neat"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "I ____ an apple.",
-    "options": ["eat", "drink", "play", "see"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "My favorite food is ____.",
-    "options": ["chicken", "cake", "bread", "rice"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "What is the missing letter? chic_en",
-    "options": ["k", "l", "n", "m"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is ____. It comes from a chicken.",
-    "options": ["an egg", "milk", "juice", "water"],
-    "correctAnswer": "an egg"
-  },
-  {
-    "question": "We should eat healthy ____.",
-    "options": ["food", "toys", "secrets", "all are wrong"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Is it a big cake?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a small cake.", "I like cakes."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: d-r-i-n-k",
-    "options": ["drink", "drive", "drip", "brink"],
-    "correctAnswer": "drink"
-  },
-  {
-    "question": "I ____ water.",
-    "options": ["drink", "eat", "have", "like"],
-    "correctAnswer": "drink"
-  },
-  {
-    "question": "The boy is eating ____.",
-    "options": ["an apple", "a cake", "bread", "rice"],
-    "correctAnswer": "an apple"
-  },
-  {
-    "question": "What is the missing letter? ri_e",
-    "options": ["c", "p", "t", "d"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "What is this?",
-    "options": ["An orange", "An apple", "A banana", "A grape"],
-    "correctAnswer": "An orange"
-  },
-  {
-    "question": "My ____ is juicy.",
-    "options": ["orange", "bread", "rice", "cake"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "Is it an orange?",
-    "options": ["Yes, it is.", "No, it is an apple.", "She is my sister.", "I have an orange."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My father is drinking ____.",
-    "options": ["tea", "milk", "juice", "water"],
-    "correctAnswer": "tea"
-  },
-  {
-    "question": "Spell the word: j-u-i-c-e",
-    "options": ["juice", "judge", "jungle", "just"],
-    "correctAnswer": "juice"
-  },
-  {
-    "question": "This is ____ juice.",
-    "options": ["orange", "old", "big", "small"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "What is the missing letter? _gg",
-    "options": ["e", "a", "o", "i"],
+    "question": "What is the missing letter? snak_",
+    "options": ["e", "t", "d", "g"],
     "correctAnswer": "e"
   },
   {
-    "question": "What is this?",
-    "options": ["Chicken", "Fish", "Pork", "Beef"],
-    "correctAnswer": "Chicken"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A giraffe", "A zebra", "An elephant", "A lion"],
+    "correctAnswer": "A giraffe"
   },
   {
-    "question": "My mother is cooking ____.",
-    "options": ["fish", "cake", "bread", "milk"],
-    "correctAnswer": "fish"
+    "question": "This is a ____. It's the zookeeper. / Đây là một ____. Anh ấy là người trông coi sở thú.",
+    "options": ["man", "woman", "boy", "girl"],
+    "correctAnswer": "man"
   },
   {
-    "question": "Are the grapes sweet?",
-    "options": ["Yes, they are.", "No, they are sour.", "He is my brother.", "I have grapes."],
-    "correctAnswer": "Yes, they are."
+    "question": "This is ____. It's exciting. / Đây là ____. Thật là thú vị.",
+    "options": ["the zoo", "school", "homework", "work"],
+    "correctAnswer": "the zoo"
   },
   {
-    "question": "My brother is eating ____.",
-    "options": ["candy", "rice", "bread", "vegetables"],
-    "correctAnswer": "candy"
-
+    "question": "What is this? / Đây là gì?",
+    "options": ["A tiger", "A lion", "A cat", "A dog"],
+    "correctAnswer": "A tiger"
   },
   {
-    "question": "Spell the word: c-a-n-d-y",
-    "options": ["candy", "handy", "sandy", "dandy"],
-    "correctAnswer": "candy"
+    "question": "Find the word: e-l-e-p-h-a-n-t / Tìm từ: e-l-e-p-h-a-n-t",
+    "options": ["elephant", "elegant", "element", "elevator"],
+    "correctAnswer": "elephant"
   },
   {
-    "question": "I am ____ with my lunch.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
+    "question": "Is it a fast animal? / Nó có phải là một con vật nhanh nhẹn không?",
+    "options": ["Yes, it is.", "No, it is slow.", "I am at the zoo.", "I like animals."],
+    "correctAnswer": "Yes, it is."
   },
   {
-    "question": "What is the missing letter? wat_r",
+    "question": "My ____ is big. / ____ của tôi lớn.",
+    "options": ["zoo", "house", "car", "bag"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "What is the missing letter? giraff_",
     "options": ["e", "a", "i", "o"],
     "correctAnswer": "e"
   },
   {
-    "question": "What is this?",
-    "options": ["A lunch box", "A school bag", "A toy box", "A pencil case"],
-    "correctAnswer": "A lunch box"
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["day", "book", "lesson", "game"],
+    "correctAnswer": "day"
   },
   {
-    "question": "My food is in the ____.",
-    "options": ["lunch box", "car", "bed", "chair"],
-    "correctAnswer": "lunch box"
+    "question": "Spell the word: z-e-b-r-a / Đánh vần từ: z-e-b-r-a",
+    "options": ["zebra", "zero", "zest", "zinc"],
+    "correctAnswer": "zebra"
   },
   {
-    "question": "Is the milk cold?",
-    "options": ["Yes, it is.", "No, it is warm.", "It is my milk.", "Hello."],
+    "question": "Is this a tall giraffe? / Đây có phải là một con hươu cao cổ cao không?",
+    "options": ["Yes, it is.", "No, it is short.", "I can see a giraffe.", "I like giraffes."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "The bread is ____.",
-    "options": ["brown", "white", "black", "pink"],
-    "correctAnswer": "brown"
+    "question": "The zoo has a big ____ for the lions. / Sở thú có một ____ lớn cho sư tử.",
+    "options": ["enclosure", "house", "school", "shop"],
+    "correctAnswer": "enclosure"
   },
   {
-    "question": "Spell the word: b-r-e-a-d",
-    "options": ["bread", "read", "bead", "braid"],
-    "correctAnswer": "bread"
+    "question": "What is the missing letter? _nimal / Chữ cái còn thiếu là gì? _nimal",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
   },
   {
-    "question": "We eat ____ for dinner.",
-    "options": ["rice and fish", "cake and candy", "bread and milk", "fruit and juice"],
-    "correctAnswer": "rice and fish"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bear", "A lion", "A tiger", "A wolf"],
+    "correctAnswer": "A bear"
   },
   {
-    "question": "What is the missing letter? foo_",
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["visit", "homework", "class", "test"],
+    "correctAnswer": "visit"
+  },
+  {
+    "question": "Is the lion sleeping? / Con sư tử có đang ngủ không?",
+    "options": ["Yes, it is.", "No, it is roaring.", "It is a lion.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a monkey and some ____. / Tôi có thể thấy một con khỉ và một vài ____.",
+    "options": ["birds", "houses", "cars", "books"],
+    "correctAnswer": "birds"
+  },
+  {
+    "question": "Find the word: s-n-a-k-e / Tìm từ: s-n-a-k-e",
+    "options": ["snake", "snack", "snail", "snap"],
+    "correctAnswer": "snake"
+  },
+  {
+    "question": "This is my ____. I can see many animals here. / Đây là ____ của tôi. Tôi có thể thấy nhiều động vật ở đây.",
+    "options": ["zoo", "backyard", "school", "park"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "What is the missing letter? tige_",
+    "options": ["r", "k", "p", "d"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "Is it a beautiful bird? / Nó có phải là một con chim đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like birds.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
+    "options": ["day", "homework", "class", "test"],
+    "correctAnswer": "day"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A kangaroo", "A koala", "A panda", "A bear"],
+    "correctAnswer": "A kangaroo"
+  },
+  {
+    "question": "How many monkeys can you see? / Bạn có thể thấy bao nhiêu con khỉ?",
+    "options": ["Many", "One", "Two", "Three"],
+    "correctAnswer": "Many"
+  },
+  {
+    "question": "A zoo is a place for ____. / Sở thú là một nơi dành cho ____.",
+    "options": ["animals", "people", "plants", "cars"],
+    "correctAnswer": "animals"
+  },
+  {
+    "question": "I see ____ elephant. / Tôi thấy ____ con voi.",
+    "options": ["an", "a", "many", "some"],
+    "correctAnswer": "an"
+  },
+  {
+    "question": "What colour is the tiger? / Con hổ màu gì?",
+    "options": ["Orange and black", "White and black", "Yellow and black", "Brown and black"],
+    "correctAnswer": "Orange and black"
+  },
+  {
+    "question": "What colour is the snake? / Con rắn màu gì?",
+    "options": ["Green", "White", "Black", "Pink"],
+    "correctAnswer": "Green"
+  },
+  {
+    "question": "The elephant is ____. / Con voi thì ____.",
+    "options": ["huge", "small", "short", "thin"],
+    "correctAnswer": "huge"
+  },
+  {
+    "question": "The monkeys are ____. / Những con khỉ thì ____.",
+    "options": ["playful", "quiet", "sad", "bad"],
+    "correctAnswer": "playful"
+  },
+  {
+    "question": "Is the zoo open? / Sở thú có mở cửa không?",
+    "options": ["Yes, it is.", "No, it is closed.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My visit to the zoo is ____. / Chuyến thăm sở thú của tôi thì ____.",
+    "options": ["amazing", "boring", "busy", "crowded"],
+    "correctAnswer": "amazing"
+  },
+  {
+    "question": "What is the missing letter? amazi_g / Chữ cái còn thiếu là gì? amazi_g",
+    "options": ["n", "t", "d", "k"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["lion", "tiger", "monkey", "elephant"],
+    "correctAnswer": "lion"
+  },
+  {
+    "question": "I love the ____. / Tôi yêu ____.",
+    "options": ["zoo", "dog", "cat", "bird"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "Is the tiger running? / Con hổ có đang chạy không?",
+    "options": ["No, it is walking.", "Yes, it is.", "It is a tiger.", "Hello."],
+    "correctAnswer": "No, it is walking."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["zoo", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "Spell the word: a-n-i-m-a-l / Đánh vần từ: a-n-i-m-a-l",
+    "options": ["animal", "anime", "animate", "enamel"],
+    "correctAnswer": "animal"
+  },
+  {
+    "question": "I have ____ ticket for the zoo. / Tôi có ____ vé vào sở thú.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite animal is the ____. / Con vật yêu thích của tôi là ____.",
+    "options": ["panda", "lion", "tiger", "monkey"],
+    "correctAnswer": "panda"
+  },
+  {
+    "question": "What is the missing letter? pand_",
+    "options": ["a", "e", "i", "o"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "This is a ____. It's black and white. / Đây là một ____. Nó màu đen và trắng.",
+    "options": ["panda", "zebra", "penguin", "cow"],
+    "correctAnswer": "panda"
+  },
+  {
+    "question": "We should not feed the ____. / Chúng ta không nên cho ____ ăn.",
+    "options": ["animals", "fence", "bench", "swing"],
+    "correctAnswer": "animals"
+  },
+  {
+    "question": "Is it a big cage? / Nó có phải là một cái lồng lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I like cages.", "The cage is strong."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: c-a-g-e / Đánh vần từ: c-a-g-e",
+    "options": ["cage", "cake", "case", "cane"],
+    "correctAnswer": "cage"
+  },
+  {
+    "question": "I help the zookeeper feed the ____. / Tôi giúp người trông coi sở thú cho ____ ăn.",
+    "options": ["monkeys", "lions", "tigers", "snakes"],
+    "correctAnswer": "monkeys"
+  },
+  {
+    "question": "The elephant is drinking ____. / Con voi đang uống ____.",
+    "options": ["water", "milk", "juice", "soda"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "What is the missing letter? wate_",
+    "options": ["r", "p", "t", "d"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A parrot", "A peacock", "An eagle", "An owl"],
+    "correctAnswer": "A parrot"
+  },
+  {
+    "question": "My ____ is full of amazing animals. / ____ của tôi đầy những con vật tuyệt vời.",
+    "options": ["zoo", "house", "room", "bag"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "Is it a noisy monkey? / Nó có phải là một con khỉ ồn ào không?",
+    "options": ["Yes, it is.", "No, it is quiet.", "I see a monkey.", "The monkey is brown."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My sister likes to see the ____. / Chị tôi thích xem ____.",
+    "options": ["giraffes", "lions", "tigers", "snakes"],
+    "correctAnswer": "giraffes"
+  },
+  {
+    "question": "Spell the word: p-a-r-r-o-t / Đánh vần từ: p-a-r-r-o-t",
+    "options": ["parrot", "carrot", "parent", "party"],
+    "correctAnswer": "parrot"
+  },
+  {
+    "question": "This is a ____ day at the zoo. / Đây là một ngày ____ ở sở thú.",
+    "options": ["sunny", "rainy", "cloudy", "windy"],
+    "correctAnswer": "sunny"
+  },
+  {
+    "question": "What is the missing letter? _unny / Chữ cái còn thiếu là gì? _unny",
+    "options": ["s", "f", "r", "m"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A zookeeper", "A farmer", "A doctor", "A teacher"],
+    "correctAnswer": "A zookeeper"
+  },
+  {
+    "question": "My brother is taking a picture of the ____. / Anh trai tôi đang chụp ảnh ____.",
+    "options": ["lion", "tiger", "monkey", "elephant"],
+    "correctAnswer": "lion"
+  },
+  {
+    "question": "Are the penguins black and white? / Chim cánh cụt có màu đen và trắng không?",
+    "options": ["Yes, they are.", "No, they are colourful.", "They are penguins.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My family is having a fun day at the ____. / Gia đình tôi đang có một ngày vui vẻ ở ____.",
+    "options": ["zoo", "beach", "park", "farm"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "question": "Spell the word: p-e-n-g-u-i-n / Đánh vần từ: p-e-n-g-u-i-n",
+    "options": ["penguin", "pumpkin", "pencil", "pendant"],
+    "correctAnswer": "penguin"
+  },
+  {
+    "question": "I am ____ at the zoo. / Tôi ____ ở sở thú.",
+    "options": ["excited", "sad", "bored", "angry"],
+    "correctAnswer": "excited"
+  },
+  {
+    "question": "What is the missing letter? zeb_a / Chữ cái còn thiếu là gì? zeb_a",
+    "options": ["r", "t", "p", "k"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A ticket", "A map", "A book", "A card"],
+    "correctAnswer": "A ticket"
+  },
+  {
+    "question": "My zoo is my favorite ____. / Sở thú là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
+  },
+  {
+    "question": "Is the snake long? / Con rắn có dài không?",
+    "options": ["Yes, it is.", "No, it is short.", "It is a snake.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The zoo has a ____. / Sở thú có một ____.",
+    "options": ["map", "menu", "list", "book"],
+    "correctAnswer": "map"
+  },
+  {
+    "question": "Spell the word: m-a-p / Đánh vần từ: m-a-p",
+    "options": ["map", "mat", "man", "mop"],
+    "correctAnswer": "map"
+  },
+  {
+    "question": "We see many different ____ of animals. / Chúng tôi thấy nhiều ____ động vật khác nhau.",
+    "options": ["kinds", "houses", "cars", "shops"],
+    "correctAnswer": "kinds"
+  },
+  {
+    "question": "What is the missing letter? kin_s / Chữ cái còn thiếu là gì? kin_s",
     "options": ["d", "t", "p", "k"],
     "correctAnswer": "d"
   }

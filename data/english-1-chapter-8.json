@@ -1,483 +1,483 @@
 [
   {
-    "question": "What is this? You wear it on your body.",
-    "options": ["A shirt", "A hat", "A shoe", "A sock"],
-    "correctAnswer": "A shirt"
+    "question": "What is this place? It has many trees and flowers. / Đây là nơi nào? Nó có nhiều cây và hoa.",
+    "options": ["A park", "A school", "A shop", "A house"],
+    "correctAnswer": "A park"
   },
   {
-    "question": "This is a ____. A girl wears it.",
-    "options": ["dress", "shirt", "trousers", "shorts"],
-    "correctAnswer": "dress"
+    "question": "This is a ____. You can slide down it. / Đây là một ____. Bạn có thể trượt xuống trên đó.",
+    "options": ["slide", "swing", "seesaw", "bench"],
+    "correctAnswer": "slide"
   },
   {
-    "question": "You wear these on your feet, inside your shoes.",
-    "options": ["Socks", "Shoes", "Hats", "Shirts"],
-    "correctAnswer": "Socks"
+    "question": "You can ____ on the swing. / Bạn có thể ____ trên xích đu.",
+    "options": ["swing", "run", "jump", "walk"],
+    "correctAnswer": "swing"
   },
   {
-    "question": "You wear these on your feet to walk outside.",
-    "options": ["Shoes", "Socks", "Trousers", "Shorts"],
-    "correctAnswer": "Shoes"
+    "question": "This is a ____. Ducks swim in it. / Đây là một ____. Vịt bơi trong đó.",
+    "options": ["pond", "river", "sea", "lake"],
+    "correctAnswer": "pond"
   },
   {
-    "question": "Spell the word: s-h-i-r-t",
-    "options": ["shirt", "short", "skirt", "sheet"],
-    "correctAnswer": "shirt"
+    "question": "Spell the word: p-a-r-k / Đánh vần từ: p-a-r-k",
+    "options": ["park", "dark", "bark", "mark"],
+    "correctAnswer": "park"
   },
   {
-    "question": "These are ____. They are for your legs and are short.",
-    "options": ["shorts", "trousers", "dress", "shirt"],
-    "correctAnswer": "shorts"
+    "question": "This is a ____. It says 'quack quack'. / Đây là một ____. Nó kêu 'quạc quạc'.",
+    "options": ["duck", "dog", "cat", "bird"],
+    "correctAnswer": "duck"
   },
   {
-    "question": "I am wearing a blue ____.",
-    "options": ["shirt", "dress", "hat", "shoe"],
-    "correctAnswer": "shirt"
+    "question": "I like to ____ in the park. / Tôi thích ____ trong công viên.",
+    "options": ["run", "read", "cook", "sleep"],
+    "correctAnswer": "run"
   },
   {
-    "question": "Find the word: d-r-e-s-s",
-    "options": ["dress", "press", "stress", "chess"],
-    "correctAnswer": "dress"
+    "question": "Find the word: t-r-e-e / Tìm từ: t-r-e-e",
+    "options": ["tree", "three", "free", "true"],
+    "correctAnswer": "tree"
   },
   {
-    "question": "Are these your shoes?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is a shirt.", "I have a dress."],
-    "correctAnswer": "Yes, they are."
+    "question": "Is this a big park? / Đây có phải là một công viên lớn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a park.", "I have a ball."],
+    "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is a pink ____.",
-    "options": ["dress", "shirt", "shorts", "trousers"],
-    "correctAnswer": "dress"
+    "question": "This is a green ____. / Đây là một ____ màu xanh lá.",
+    "options": ["tree", "flower", "slide", "swing"],
+    "correctAnswer": "tree"
   },
   {
-    "question": "What are these? They are long pants.",
-    "options": ["Trousers", "Shorts", "Socks", "Shoes"],
-    "correctAnswer": "Trousers"
+    "question": "What can you do in the park? / Bạn có thể làm gì trong công viên?",
+    "options": ["I can play.", "I can cook.", "I can sleep.", "I can study."],
+    "correctAnswer": "I can play."
   },
   {
-    "question": "I have new ____.",
-    "options": ["shoes", "shirt", "dress", "hat"],
-    "correctAnswer": "shoes"
+    "question": "I like to see the ____ in the pond. / Tôi thích xem ____ trong ao.",
+    "options": ["ducks", "dogs", "cats", "birds"],
+    "correctAnswer": "ducks"
   },
   {
-    "question": "What is the missing letter? soc_",
-    "options": ["k", "s", "t", "p"],
+    "question": "What is the missing letter? par_",
+    "options": ["k", "t", "p", "b"],
     "correctAnswer": "k"
   },
   {
-    "question": "This is my ____. It's yellow.",
-    "options": ["shirt", "dress", "trousers", "shorts"],
-    "correctAnswer": "shirt"
+    "question": "This is a ____. It's a fun place. / Đây là một ____. Đó là một nơi vui vẻ.",
+    "options": ["park", "school", "city", "shop"],
+    "correctAnswer": "park"
   },
   {
-    "question": "My sister is wearing a beautiful ____.",
-    "options": ["dress", "shirt", "shorts", "shoes"],
-    "correctAnswer": "dress"
+    "question": "My friends are in the ____. / Bạn bè của tôi đang ở trong ____.",
+    "options": ["park", "house", "school", "shop"],
+    "correctAnswer": "park"
   },
   {
-    "question": "Let's put on our ____.",
-    "options": ["shoes", "books", "pens", "chairs"],
-    "correctAnswer": "shoes"
+    "question": "Let's sit on the ____. / Hãy ngồi trên ____.",
+    "options": ["bench", "slide", "swing", "seesaw"],
+    "correctAnswer": "bench"
   },
   {
-    "question": "Spell the word: s-h-o-e-s",
-    "options": ["shoes", "shows", "shops", "shone"],
-    "correctAnswer": "shoes"
+    "question": "Spell the word: d-u-c-k / Đánh vần từ: d-u-c-k",
+    "options": ["duck", "dark", "desk", "deck"],
+    "correctAnswer": "duck"
   },
   {
-    "question": "Are these your socks?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is a shoe.", "I can walk."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "I am wearing green ____.",
-    "options": ["shorts", "dress", "shirt", "shoes"],
-    "correctAnswer": "shorts"
-  },
-  {
-    "question": "What is the missing letter? sh_rt",
-    "options": ["i", "o", "a", "e"],
-    "correctAnswer": "i"
-  },
-  {
-    "question": "These are my ____.",
-    "options": ["clothes", "pets", "toys", "books"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "How many shoes do you have?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "This is a pair of ____.",
-    "options": ["trousers", "shirt", "dress", "hat"],
-    "correctAnswer": "trousers"
-  },
-  {
-    "question": "Spell the word: s-o-c-k-s",
-    "options": ["socks", "rocks", "locks", "docks"],
-    "correctAnswer": "socks"
-  },
-  {
-    "question": "Is it your dress?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my shirt.", "I can see a girl."],
+    "question": "Is this a big slide? / Đây có phải là một cái cầu trượt lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a slide.", "I can see a swing."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I wear ____ when it's hot.",
-    "options": ["shorts", "trousers", "a coat", "a sweater"],
-    "correctAnswer": "shorts"
+    "question": "I am ____ with my friends. / Tôi đang ____ với bạn bè của tôi.",
+    "options": ["playing", "reading", "writing", "studying"],
+    "correctAnswer": "playing"
   },
   {
-    "question": "What is the missing letter? dre__",
-    "options": ["ss", "sh", "st", "sp"],
-    "correctAnswer": "ss"
+    "question": "What is the missing letter? _ond / Chữ cái còn thiếu là gì? _ond",
+    "options": ["p", "b", "f", "s"],
+    "correctAnswer": "p"
   },
   {
-    "question": "What is this?",
-    "options": ["My shirt", "My shoes", "My socks", "My shorts"],
-    "correctAnswer": "My shirt"
+    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
+    "options": ["flowers", "trees", "leaves", "benches"],
+    "correctAnswer": "flowers"
   },
   {
-    "question": "This is a ____. It has two legs.",
-    "options": ["pair of trousers", "shirt", "dress", "hat"],
-    "correctAnswer": "pair of trousers"
+    "question": "How many ducks are in the pond? / Có bao nhiêu con vịt trong ao?",
+    "options": ["Three", "One", "Two", "Four"],
+    "correctAnswer": "Three"
   },
   {
-    "question": "This is a ____. It is for a girl.",
-    "options": ["dress", "shirt", "shorts", "trousers"],
-    "correctAnswer": "dress"
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["flower", "tree", "leaf", "grass"],
+    "correctAnswer": "flower"
   },
   {
-    "question": "What are these?",
-    "options": ["Shoes", "Socks", "Shirts", "Dresses"],
-    "correctAnswer": "Shoes"
+    "question": "Spell the word: r-u-n / Đánh vần từ: r-u-n",
+    "options": ["run", "sun", "fun", "bun"],
+    "correctAnswer": "run"
   },
   {
-    "question": "Find the word: t-r-o-u-s-e-r-s",
-    "options": ["trousers", "towers", "trowels", "troupes"],
-    "correctAnswer": "trousers"
-  },
-  {
-    "question": "Are these your shorts?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is my shirt.", "I am a boy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My ____ are new.",
-    "options": ["shoes", "shirt", "dress", "hat"],
-    "correctAnswer": "shoes"
-  },
-  {
-    "question": "What is the missing letter? sho_s",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "These are lovely ____.",
-    "options": ["clothes", "books", "songs", "games"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "Spell the word: c-l-o-t-h-e-s",
-    "options": ["clothes", "closes", "clothe", "cloth"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "Is this your shirt?",
-    "options": ["Yes, it is.", "No, it isn't.", "They are my shoes.", "I can see."],
+    "question": "Is it a sunny day? / Hôm nay có phải là một ngày nắng không?",
+    "options": ["Yes, it is.", "No, it is rainy.", "It is a park.", "I can see a tree."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My clothes are in the ____.",
-    "options": ["wardrobe", "kitchen", "bathroom", "living room"],
-    "correctAnswer": "wardrobe"
+    "question": "We can see many ____ in the park. / Chúng ta có thể thấy nhiều ____ trong công viên.",
+    "options": ["people", "cars", "buildings", "shops"],
+    "correctAnswer": "people"
   },
   {
-    "question": "What is the missing letter? _lothes",
-    "options": ["c", "b", "j", "s"],
-    "correctAnswer": "c"
+    "question": "What is the missing letter? benc_",
+    "options": ["h", "t", "d", "p"],
+    "correctAnswer": "h"
   },
   {
-    "question": "What is this?",
-    "options": ["A dress", "A shirt", "Shorts", "Trousers"],
-    "correctAnswer": "A dress"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A fountain", "A river", "A sea", "A lake"],
+    "correctAnswer": "A fountain"
   },
   {
-    "question": "My ____ are clean.",
-    "options": ["socks", "shoes", "shirt", "dress"],
-    "correctAnswer": "socks"
+    "question": "This is a ____. You can sit on it. / Đây là một ____. Bạn có thể ngồi trên đó.",
+    "options": ["bench", "slide", "swing", "seesaw"],
+    "correctAnswer": "bench"
   },
   {
-    "question": "Are these your trousers?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is my shirt.", "Hello."],
-    "correctAnswer": "Yes, they are."
+    "question": "This is ____. It's a nice place to relax. / Đây là ____. Đó là một nơi tốt đẹp để thư giãn.",
+    "options": ["the park", "the school", "the library", "the gym"],
+    "correctAnswer": "the park"
   },
   {
-    "question": "I have a shirt and ____.",
-    "options": ["shorts", "a dress", "a hat", "a shoe"],
-    "correctAnswer": "shorts"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A swing", "A slide", "A seesaw", "A roundabout"],
+    "correctAnswer": "A swing"
   },
   {
-    "question": "Find the word: s-h-o-r-t-s",
-    "options": ["shorts", "shirts", "shots", "sorts"],
-    "correctAnswer": "shorts"
+    "question": "Find the word: p-l-a-y / Tìm từ: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
   },
   {
-    "question": "This is my ____. I wear it to school.",
-    "options": ["uniform", "pajamas", "costume", "dress"],
-    "correctAnswer": "uniform"
-  },
-  {
-    "question": "What is the missing letter? trou_ers",
-    "options": ["s", "p", "t", "d"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "Is it your uniform?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my dress.", "Goodbye."],
+    "question": "Is it a quiet park? / Nó có phải là một công viên yên tĩnh không?",
+    "options": ["Yes, it is.", "No, it is noisy.", "I am in the park.", "I like the park."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My ____ is nice.",
-    "options": ["dress", "shirt", "shoes", "socks"],
-    "correctAnswer": "dress"
+    "question": "My ____ is green. / ____ của tôi màu xanh lá.",
+    "options": ["park", "sky", "sun", "flower"],
+    "correctAnswer": "park"
   },
   {
-    "question": "What are these?",
-    "options": ["Socks", "Shoes", "Shirts", "Shorts"],
-    "correctAnswer": "Socks"
+    "question": "What is the missing letter? duc_",
+    "options": ["k", "n", "m", "p"],
+    "correctAnswer": "k"
   },
   {
-    "question": "How many socks are there?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["park", "book", "lesson", "game"],
+    "correctAnswer": "park"
   },
   {
-    "question": "A pair of socks has ____ socks.",
-    "options": ["two", "one", "three", "four"],
-    "correctAnswer": "two"
+    "question": "Spell the word: t-r-e-e / Đánh vần từ: t-r-e-e",
+    "options": ["tree", "three", "free", "true"],
+    "correctAnswer": "tree"
   },
   {
-    "question": "I see ____ shirt.",
-    "options": ["a", "an", "one", "my"],
+    "question": "Is this a tall tree? / Đây có phải là một cái cây cao không?",
+    "options": ["Yes, it is.", "No, it is short.", "I can see a tree.", "I like trees."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The park has a big ____. / Công viên có một ____ lớn.",
+    "options": ["pond", "house", "school", "shop"],
+    "correctAnswer": "pond"
+  },
+  {
+    "question": "What is the missing letter? _ark / Chữ cái còn thiếu là gì? _ark",
+    "options": ["p", "b", "d", "m"],
+    "correctAnswer": "p"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A kite", "A plane", "A bird", "A balloon"],
+    "correctAnswer": "A kite"
+  },
+  {
+    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
+    "options": ["park", "house", "room", "bag"],
+    "correctAnswer": "park"
+  },
+  {
+    "question": "Is the bench long? / Cái ghế dài phải không?",
+    "options": ["Yes, it is.", "No, it is short.", "It is a bench.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a tree and some ____. / Tôi có thể thấy một cái cây và một vài ____.",
+    "options": ["flowers", "houses", "cars", "books"],
+    "correctAnswer": "flowers"
+  },
+  {
+    "question": "Find the word: b-e-n-c-h / Tìm từ: b-e-n-c-h",
+    "options": ["bench", "beach", "bunch", "bend"],
+    "correctAnswer": "bench"
+  },
+  {
+    "question": "This is my ____. I can relax here. / Đây là ____ của tôi. Tôi có thể thư giãn ở đây.",
+    "options": ["park", "bedroom", "school", "office"],
+    "correctAnswer": "park"
+  },
+  {
+    "question": "What is the missing letter? swin_",
+    "options": ["g", "k", "p", "t"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "Is it a red flower? / Nó có phải là một bông hoa màu đỏ không?",
+    "options": ["Yes, it is.", "No, it is yellow.", "I like flowers.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["day at the park", "homework", "class", "test"],
+    "correctAnswer": "day at the park"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A path", "A road", "A street", "A highway"],
+    "correctAnswer": "A path"
+  },
+  {
+    "question": "How many trees can you see? / Bạn có thể thấy bao nhiêu cái cây?",
+    "options": ["Many", "One", "Two", "Three"],
+    "correctAnswer": "Many"
+  },
+  {
+    "question": "A park is a place for ____. / Một công viên là một nơi cho ____.",
+    "options": ["everyone", "animals", "plants", "cars"],
+    "correctAnswer": "everyone"
+  },
+  {
+    "question": "I see ____ children playing. / Tôi thấy ____ đứa trẻ đang chơi.",
+    "options": ["some", "a", "an", "one"],
+    "correctAnswer": "some"
+  },
+  {
+    "question": "What colour is the slide? / Cầu trượt màu gì?",
+    "options": ["Yellow", "Blue", "Red", "Green"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "What colour is the duck? / Con vịt màu gì?",
+    "options": ["Yellow", "White", "Black", "Pink"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "The tree is ____. / Cái cây thì ____.",
+    "options": ["green and brown", "small", "short", "thin"],
+    "correctAnswer": "green and brown"
+  },
+  {
+    "question": "The flowers are ____. / Những bông hoa thì ____.",
+    "options": ["beautiful", "ugly", "sad", "bad"],
+    "correctAnswer": "beautiful"
+  },
+  {
+    "question": "Is the park clean? / Công viên có sạch không?",
+    "options": ["Yes, it is.", "No, it is dirty.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My day at the park is ____. / Ngày của tôi ở công viên thì ____.",
+    "options": ["relaxing", "noisy", "busy", "crowded"],
+    "correctAnswer": "relaxing"
+  },
+  {
+    "question": "What is the missing letter? rela_ing / Chữ cái còn thiếu là gì? rela_ing",
+    "options": ["x", "t", "d", "k"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["pond", "river", "sea", "lake"],
+    "correctAnswer": "pond"
+  },
+  {
+    "question": "I love the ____. / Tôi yêu ____.",
+    "options": ["park", "dog", "cat", "bird"],
+    "correctAnswer": "park"
+  },
+  {
+    "question": "Is the path long? / Con đường mòn có dài không?",
+    "options": ["Yes, it is.", "No, it is short.", "It is a path.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["park", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "park"
+  },
+  {
+    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "I have ____ small ball. / Tôi có ____ quả bóng nhỏ.",
+    "options": ["a", "an", "one", "two"],
     "correctAnswer": "a"
   },
   {
-    "question": "What color is the dress?",
-    "options": ["Pink", "Blue", "Green", "Yellow"],
-    "correctAnswer": "Pink"
+    "question": "My favorite place is the ____. / Nơi yêu thích của tôi là ____.",
+    "options": ["park", "school", "library", "supermarket"],
+    "correctAnswer": "park"
   },
   {
-    "question": "What color are the shoes?",
-    "options": ["Brown", "Red", "Green", "Yellow"],
-    "correctAnswer": "Brown"
+    "question": "What is the missing letter? par_",
+    "options": ["k", "a", "i", "o"],
+    "correctAnswer": "k"
   },
   {
-    "question": "The shirt is ____.",
-    "options": ["white", "ugly", "big", "small"],
-    "correctAnswer": "white"
+    "question": "This is ____. It has pretty petals. / Đây là ____. Nó có những cánh hoa xinh đẹp.",
+    "options": ["a flower", "a tree", "a leaf", "grass"],
+    "correctAnswer": "a flower"
   },
   {
-    "question": "The trousers are ____.",
-    "options": ["long", "short", "warm", "cold"],
-    "correctAnswer": "long"
-  },
-  {
-    "question": "Are your clothes new or old?",
-    "options": ["New", "Old", "Yes", "No"],
-    "correctAnswer": "New"
-  },
-  {
-    "question": "My clothes are ____.",
-    "options": ["clean", "sad", "angry", "tired"],
+    "question": "We should keep the park ____. / Chúng ta nên giữ cho công viên ____.",
+    "options": ["clean", "dirty", "messy", "all are wrong"],
     "correctAnswer": "clean"
   },
   {
-    "question": "What is the missing letter? clea_",
-    "options": ["n", "t", "d", "k"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["shirt", "dress", "shorts", "trousers"],
-    "correctAnswer": "shirt"
-  },
-  {
-    "question": "I love my new ____.",
-    "options": ["dress", "shirt", "shoes", "socks"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Are these your shorts?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is a dress.", "Hello."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "Let's get dressed.",
-    "options": ["Okay", "No", "I don't know", "Maybe"],
-    "correctAnswer": "Okay"
-  },
-  {
-    "question": "Spell the word: w-e-a-r",
-    "options": ["wear", "where", "were", "we're"],
-    "correctAnswer": "wear"
-  },
-  {
-    "question": "I ____ a shirt.",
-    "options": ["wear", "have", "play", "see"],
-    "correctAnswer": "wear"
-  },
-  {
-    "question": "My favorite piece of clothing is a ____.",
-    "options": ["T-shirt", "dress", "hat", "scarf"],
-    "correctAnswer": "T-shirt"
-  },
-  {
-    "question": "What is the missing letter? T-shi_t",
-    "options": ["r", "l", "n", "m"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a ____. You wear it on your head.",
-    "options": ["hat", "shirt", "shoe", "sock"],
-    "correctAnswer": "hat"
-  },
-  {
-    "question": "We should keep our clothes ____.",
-    "options": ["tidy", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "tidy"
-  },
-  {
-    "question": "Is it a big hat?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a small shoe.", "I like hats."],
+    "question": "Is it a wooden bench? / Nó có phải là một cái ghế gỗ không?",
+    "options": ["Yes, it is.", "No, it is metal.", "I like benches.", "The bench is long."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "Spell the word: h-a-t",
-    "options": ["hat", "cat", "bat", "mat"],
-    "correctAnswer": "hat"
+    "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
+    "options": ["clean", "clear", "clan", "cleft"],
+    "correctAnswer": "clean"
   },
   {
-    "question": "I wear a ____ when it's sunny.",
-    "options": ["hat", "coat", "scarf", "gloves"],
-    "correctAnswer": "hat"
+    "question": "I help my dad water the ____. / Tôi giúp bố tôi tưới ____.",
+    "options": ["plants", "house", "road", "path"],
+    "correctAnswer": "plants"
   },
   {
-    "question": "The girl has a pretty ____.",
-    "options": ["dress", "shirt", "shorts", "trousers"],
-    "correctAnswer": "dress"
+    "question": "The park has a ____. / Công viên có một ____.",
+    "options": ["playground", "bed", "sofa", "TV"],
+    "correctAnswer": "playground"
   },
   {
-    "question": "What is the missing letter? ha_",
-    "options": ["t", "p", "n", "d"],
-    "correctAnswer": "t"
+    "question": "What is the missing letter? playgroun_",
+    "options": ["d", "p", "t", "k"],
+    "correctAnswer": "d"
   },
   {
-    "question": "What is this?",
-    "options": ["A T-shirt", "A dress", "Shorts", "Trousers"],
-    "correctAnswer": "A T-shirt"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A squirrel", "A rabbit", "A mouse", "A hamster"],
+    "correctAnswer": "A squirrel"
   },
   {
-    "question": "My ____ is comfortable.",
-    "options": ["T-shirt", "shoes", "hat", "dress"],
-    "correctAnswer": "T-shirt"
+    "question": "My ____ is full of green trees. / ____ của tôi đầy cây xanh.",
+    "options": ["park", "house", "room", "bag"],
+    "correctAnswer": "park"
   },
   {
-    "question": "Is it your T-shirt?",
-    "options": ["No, it is my brother's T-shirt.", "Yes, it is.", "She is my sister.", "I have a T-shirt."],
-    "correctAnswer": "No, it is my brother's T-shirt."
+    "question": "Is it a picture of a park? / Nó có phải là một bức tranh về một công viên không?",
+    "options": ["Yes, it is.", "No, it is a garden.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My father is wearing ____.",
-    "options": ["trousers", "shorts", "a dress", "a skirt"],
-    "correctAnswer": "trousers"
+    "question": "My friend likes to ____. / Bạn tôi thích ____.",
+    "options": ["run", "jump", "skip", "all are correct"],
+    "correctAnswer": "all are correct"
   },
   {
-    "question": "Spell the word: s-k-i-r-t",
-    "options": ["skirt", "shirt", "short", "start"],
-    "correctAnswer": "skirt"
+    "question": "Spell the word: j-u-m-p / Đánh vần từ: j-u-m-p",
+    "options": ["jump", "pump", "lump", "dump"],
+    "correctAnswer": "jump"
   },
   {
-    "question": "This is a ____. A girl wears it.",
-    "options": ["skirt", "shirt", "shorts", "trousers"],
-    "correctAnswer": "skirt"
+    "question": "This is a ____ day to go to the park. / Đây là một ngày ____ để đi công viên.",
+    "options": ["beautiful", "rainy", "cloudy", "windy"],
+    "correctAnswer": "beautiful"
   },
   {
-    "question": "What is the missing letter? skir_",
-    "options": ["t", "l", "n", "m"],
-    "correctAnswer": "t"
+    "question": "What is the missing letter? _eautiful / Chữ cái còn thiếu là gì? _eautiful",
+    "options": ["b", "f", "r", "m"],
+    "correctAnswer": "b"
   },
   {
-    "question": "What are these?",
-    "options": ["Trousers", "Shorts", "Shirts", "Dresses"],
-    "correctAnswer": "Trousers"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A cloud", "The sun", "The moon", "A star"],
+    "correctAnswer": "A cloud"
   },
   {
-    "question": "My mother is wearing a ____.",
-    "options": ["skirt", "shirt", "shorts", "trousers"],
-    "correctAnswer": "skirt"
+    "question": "My brother is flying a ____. / Anh trai tôi đang thả ____.",
+    "options": ["kite", "plane", "bird", "balloon"],
+    "correctAnswer": "kite"
   },
   {
-    "question": "Are these your shoes?",
-    "options": ["Yes, they are.", "No, they aren't.", "He is my brother.", "I have shoes."],
+    "question": "Are the flowers yellow? / Những bông hoa màu vàng phải không?",
+    "options": ["Yes, they are.", "No, they are red.", "They are flowers.", "I am happy."],
     "correctAnswer": "Yes, they are."
   },
   {
-    "question": "My brother is wearing ____.",
-    "options": ["shorts", "a dress", "a skirt", "a hat"],
-    "correctAnswer": "shorts"
+    "question": "My dog is running on the ____. / Con chó của tôi đang chạy trên ____.",
+    "options": ["grass", "bench", "fence", "swing"],
+    "correctAnswer": "grass"
   },
   {
-    "question": "Spell the word: u-n-i-f-o-r-m",
-    "options": ["uniform", "unicorn", "unify", "unique"],
-    "correctAnswer": "uniform"
+    "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
+    "options": ["kite", "king", "kiss", "kitchen"],
+    "correctAnswer": "kite"
   },
   {
-    "question": "I am ____ my new clothes.",
-    "options": ["happy with", "sad about", "bored with", "angry at"],
-    "correctAnswer": "happy with"
+    "question": "I am ____ in the park. / Tôi ____ trong công viên.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
   },
   {
-    "question": "What is the missing letter? u_iform",
-    "options": ["n", "m", "l", "p"],
-    "correctAnswer": "n"
+    "question": "What is the missing letter? pon_",
+    "options": ["d", "t", "p", "k"],
+    "correctAnswer": "d"
   },
   {
-    "question": "What is this?",
-    "options": ["A wardrobe", "A bed", "A desk", "A chair"],
-    "correctAnswer": "A wardrobe"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bicycle", "A car", "A bus", "A train"],
+    "correctAnswer": "A bicycle"
   },
   {
-    "question": "My clothes are in the ____.",
-    "options": ["wardrobe", "box", "bag", "car"],
-    "correctAnswer": "wardrobe"
+    "question": "My park is my favorite ____. / Công viên là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
   },
   {
-    "question": "Are these your socks?",
-    "options": ["Yes, they are.", "No, they aren't.", "It is my shirt.", "Hello."],
-    "correctAnswer": "Yes, they are."
+    "question": "Is the grass short? / Cỏ có ngắn không?",
+    "options": ["Yes, it is.", "No, it is long.", "It is green grass.", "Hello."],
+    "correctAnswer": "Yes, it is."
   },
   {
-    "question": "The socks are ____.",
-    "options": ["red", "blue", "green", "yellow"],
-    "correctAnswer": "red"
+    "question": "The tree has a ____ on it. / Cái cây có một ____ trên đó.",
+    "options": ["bird's nest", "cat", "dog", "ball"],
+    "correctAnswer": "bird's nest"
   },
   {
-    "question": "Spell the word: r-e-d",
-    "options": ["red", "bed", "led", "fed"],
-    "correctAnswer": "red"
+    "question": "Spell the word: b-i-r-d / Đánh vần từ: b-i-r-d",
+    "options": ["bird", "beard", "board", "bind"],
+    "correctAnswer": "bird"
   },
   {
-    "question": "We wear ____ to school.",
-    "options": ["a uniform", "pajamas", "a costume", "a dress"],
-    "correctAnswer": "a uniform"
+    "question": "We play ____ in the park. / Chúng tôi chơi ____ trong công viên.",
+    "options": ["hide-and-seek", "chess", "video games", "cards"],
+    "correctAnswer": "hide-and-seek"
   },
   {
-    "question": "What is the missing letter? sh_e",
-    "options": ["o", "a", "i", "u"],
-    "correctAnswer": "o"
+    "question": "What is the missing letter? tr_e / Chữ cái còn thiếu là gì? tr_e",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
   }
 ]
 

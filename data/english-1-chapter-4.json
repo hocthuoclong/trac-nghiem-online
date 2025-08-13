@@ -1,483 +1,483 @@
 [
   {
-    "question": "What is this? It's on top of your body.",
-    "options": ["Head", "Hand", "Foot", "Arm"],
-    "correctAnswer": "Head"
+    "question": "What is this? You sleep on it. / Đây là gì? Bạn ngủ trên đó.",
+    "options": ["A bed", "A table", "A chair", "A sofa"],
+    "correctAnswer": "A bed"
   },
   {
-    "question": "This is my ____. I have two of them to see.",
-    "options": ["eye", "nose", "mouth", "ear"],
-    "correctAnswer": "eye"
+    "question": "This is a ____. You put your head on it. / Đây là một ____. Bạn đặt đầu của bạn lên đó.",
+    "options": ["pillow", "blanket", "bed", "desk"],
+    "correctAnswer": "pillow"
   },
   {
-    "question": "You use your ____ to smell.",
-    "options": ["nose", "eyes", "ears", "hands"],
-    "correctAnswer": "nose"
+    "question": "You use a ____ to keep warm at night. / Bạn dùng ____ để giữ ấm vào ban đêm.",
+    "options": ["blanket", "pillow", "sheet", "bed"],
+    "correctAnswer": "blanket"
   },
   {
-    "question": "You use your ____ to hear.",
-    "options": ["ear", "eye", "nose", "mouth"],
-    "correctAnswer": "ear"
+    "question": "This is a ____. You put your clothes in it. / Đây là một ____. Bạn để quần áo của bạn trong đó.",
+    "options": ["wardrobe", "desk", "bed", "chair"],
+    "correctAnswer": "wardrobe"
   },
   {
-    "question": "Spell the word: h-e-a-d",
-    "options": ["head", "hand", "read", "bead"],
-    "correctAnswer": "head"
+    "question": "Spell the word: b-e-d / Đánh vần từ: b-e-d",
+    "options": ["bed", "red", "bad", "bid"],
+    "correctAnswer": "bed"
   },
   {
-    "question": "This is my ____. I use it to eat.",
-    "options": ["mouth", "nose", "eye", "ear"],
-    "correctAnswer": "mouth"
+    "question": "This is a ____. You do homework on it. / Đây là một ____. Bạn làm bài tập về nhà trên đó.",
+    "options": ["desk", "bed", "wardrobe", "chair"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "Touch your ____.",
-    "options": ["nose", "toes", "knees", "shoulders"],
-    "correctAnswer": "nose"
+    "question": "I have a ____ next to my bed. / Tôi có một ____ cạnh giường của tôi.",
+    "options": ["lamp", "chair", "desk", "wardrobe"],
+    "correctAnswer": "lamp"
   },
   {
-    "question": "Find the word: e-y-e-s",
-    "options": ["eyes", "yes", "easy", "says"],
-    "correctAnswer": "eyes"
+    "question": "Find the word: d-e-s-k / Tìm từ: d-e-s-k",
+    "options": ["desk", "disk", "dark", "duck"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "Is this your hand?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a foot.", "I have two hands."],
+    "question": "Is this your bedroom? / Đây có phải là phòng ngủ của bạn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a bed.", "I have a pillow."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is my ____. It has five fingers.",
-    "options": ["hand", "foot", "leg", "arm"],
-    "correctAnswer": "hand"
+    "question": "This is a big ____. / Đây là một ____ lớn.",
+    "options": ["bedroom", "house", "school", "shop"],
+    "correctAnswer": "bedroom"
   },
   {
-    "question": "What is this? Your eyes, nose, and mouth are on it.",
-    "options": ["A face", "A hand", "A foot", "A leg"],
-    "correctAnswer": "A face"
+    "question": "What can you do in the bedroom? / Bạn có thể làm gì trong phòng ngủ?",
+    "options": ["I can sleep.", "I can cook.", "I can swim.", "I can play football."],
+    "correctAnswer": "I can sleep."
   },
   {
-    "question": "I have one ____.",
-    "options": ["nose", "eyes", "ears", "hands"],
-    "correctAnswer": "nose"
+    "question": "I like to read in my ____. / Tôi thích đọc sách trên ____ của tôi.",
+    "options": ["bed", "desk", "chair", "wardrobe"],
+    "correctAnswer": "bed"
   },
   {
-    "question": "What is the missing letter? fac_",
-    "options": ["e", "k", "t", "d"],
-    "correctAnswer": "e"
+    "question": "What is the missing letter? be_",
+    "options": ["d", "t", "p", "g"],
+    "correctAnswer": "d"
   },
   {
-    "question": "This is my ____. I use it to wave.",
-    "options": ["arm", "leg", "head", "foot"],
-    "correctAnswer": "arm"
+    "question": "This is my ____. It's my favorite room. / Đây là ____ của tôi. Đó là căn phòng yêu thích của tôi.",
+    "options": ["bedroom", "kitchen", "bathroom", "living room"],
+    "correctAnswer": "bedroom"
   },
   {
-    "question": "This is my ____. I use it to walk.",
-    "options": ["leg", "arm", "hand", "head"],
-    "correctAnswer": "leg"
+    "question": "My father bought me a new ____. / Bố tôi đã mua cho tôi một ____ mới.",
+    "options": ["desk", "bed", "wardrobe", "lamp"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "Let's touch our ____.",
-    "options": ["toes", "nose", "eyes", "ears"],
-    "correctAnswer": "toes"
+    "question": "Let's turn on the ____. / Hãy bật ____ lên.",
+    "options": ["lamp", "bed", "desk", "wardrobe"],
+    "correctAnswer": "lamp"
   },
   {
-    "question": "Spell the word: n-o-s-e",
-    "options": ["nose", "rose", "note", "none"],
-    "correctAnswer": "nose"
+    "question": "Spell the word: l-a-m-p / Đánh vần từ: l-a-m-p",
+    "options": ["lamp", "lamb", "lame", "land"],
+    "correctAnswer": "lamp"
   },
   {
-    "question": "Is this your ear?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is an eye.", "I can hear."],
+    "question": "Is this a big bedroom? / Đây có phải là một phòng ngủ lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a bedroom.", "I can see a bed."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is my ____. I stand on it.",
-    "options": ["foot", "hand", "head", "arm"],
-    "correctAnswer": "foot"
+    "question": "I am doing my homework at my ____. / Tôi đang làm bài tập về nhà tại ____ của tôi.",
+    "options": ["desk", "bed", "wardrobe", "chair"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "What is the missing letter? h_nd",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
+    "question": "What is the missing letter? _esk / Chữ cái còn thiếu là gì? _esk",
+    "options": ["d", "b", "p", "t"],
+    "correctAnswer": "d"
   },
   {
-    "question": "These are my ____.",
-    "options": ["fingers", "toes", "eyes", "ears"],
-    "correctAnswer": "fingers"
+    "question": "These are my ____. / Đây là những ____ của tôi.",
+    "options": ["pillows", "beds", "desks", "wardrobes"],
+    "correctAnswer": "pillows"
   },
   {
-    "question": "How many eyes do you have?",
+    "question": "How many pillows are on your bed? / Có bao nhiêu cái gối trên giường của bạn?",
     "options": ["Two", "One", "Three", "Four"],
     "correctAnswer": "Two"
   },
   {
-    "question": "This is my ____.",
-    "options": ["face", "back", "hand", "foot"],
-    "correctAnswer": "face"
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["chair", "bed", "desk", "wardrobe"],
+    "correctAnswer": "chair"
   },
   {
-    "question": "Spell the word: f-o-o-t",
-    "options": ["foot", "food", "four", "for"],
-    "correctAnswer": "foot"
+    "question": "Spell the word: c-h-a-i-r / Đánh vần từ: c-h-a-i-r",
+    "options": ["chair", "hair", "pair", "fair"],
+    "correctAnswer": "chair"
   },
   {
-    "question": "Is it your head?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my hand.", "I can think."],
+    "question": "Is it a tidy bedroom? / Nó có phải là một phòng ngủ gọn gàng không?",
+    "options": ["Yes, it is.", "No, it is messy.", "It is my bedroom.", "I can see a bed."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have two ____.",
-    "options": ["legs", "noses", "mouths", "heads"],
-    "correctAnswer": "legs"
+    "question": "We can see a ____ on the floor. / Chúng ta có thể thấy một ____ trên sàn nhà.",
+    "options": ["rug", "bed", "desk", "wardrobe"],
+    "correctAnswer": "rug"
   },
   {
-    "question": "What is the missing letter? mou_h",
-    "options": ["t", "s", "p", "k"],
-    "correctAnswer": "t"
+    "question": "What is the missing letter? wardro_e / Chữ cái còn thiếu là gì? wardro_e",
+    "options": ["b", "t", "d", "p"],
+    "correctAnswer": "b"
   },
   {
-    "question": "What is this?",
-    "options": ["My arm", "My leg", "My head", "My neck"],
-    "correctAnswer": "My arm"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A window", "A door", "A wall", "A floor"],
+    "correctAnswer": "A window"
   },
   {
-    "question": "This is my ____. I can clap with them.",
-    "options": ["hands", "feet", "legs", "arms"],
-    "correctAnswer": "hands"
+    "question": "This is a ____. You sleep on it. / Đây là một ____. Bạn ngủ trên đó.",
+    "options": ["pillow", "blanket", "sheet", "mattress"],
+    "correctAnswer": "pillow"
   },
   {
-    "question": "This is my ____. It helps me talk.",
-    "options": ["mouth", "ear", "eye", "nose"],
-    "correctAnswer": "mouth"
+    "question": "This is ____. It's where I sleep and play. / Đây là ____. Đó là nơi tôi ngủ và chơi.",
+    "options": ["my bedroom", "my school", "my playground", "my park"],
+    "correctAnswer": "my bedroom"
   },
   {
-    "question": "What is this?",
-    "options": ["An eye", "An ear", "A nose", "A mouth"],
-    "correctAnswer": "An eye"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A desk", "A bed", "A chair", "A table"],
+    "correctAnswer": "A desk"
   },
   {
-    "question": "Find the word: a-r-m",
-    "options": ["arm", "art", "are", "ark"],
-    "correctAnswer": "arm"
+    "question": "Find the word: p-i-c-t-u-r-e / Tìm từ: p-i-c-t-u-r-e",
+    "options": ["picture", "pitcher", "pickle", "picnic"],
+    "correctAnswer": "picture"
   },
   {
-    "question": "Is it your leg?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my arm.", "I am a boy."],
+    "question": "Is there a window in your bedroom? / Có cửa sổ trong phòng ngủ của bạn không?",
+    "options": ["Yes, there is.", "No, there isn't.", "I am in my bedroom.", "I like my bedroom."],
+    "correctAnswer": "Yes, there is."
+  },
+  {
+    "question": "My ____ is blue. / ____ của tôi màu xanh.",
+    "options": ["bed", "desk", "chair", "wardrobe"],
+    "correctAnswer": "bed"
+  },
+  {
+    "question": "What is the missing letter? windo_",
+    "options": ["w", "n", "m", "p"],
+    "correctAnswer": "w"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["bedroom", "book", "lesson", "game"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Spell the word: w-a-r-d-r-o-b-e / Đánh vần từ: w-a-r-d-r-o-b-e",
+    "options": ["wardrobe", "warden", "warrior", "warrant"],
+    "correctAnswer": "wardrobe"
+  },
+  {
+    "question": "Is this a picture of a cat? / Đây có phải là một bức tranh về một con mèo không?",
+    "options": ["Yes, it is.", "No, it is a dog.", "I can see a picture.", "I like pictures."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My ____ is long.",
-    "options": ["arm", "nose", "ear", "eye"],
-    "correctAnswer": "arm"
+    "question": "The bedroom has a big ____. / Phòng ngủ có một ____ lớn.",
+    "options": ["window", "door", "wall", "floor"],
+    "correctAnswer": "window"
   },
   {
-    "question": "What is the missing letter? le_",
-    "options": ["g", "p", "t", "d"],
-    "correctAnswer": "g"
+    "question": "What is the missing letter? _illow / Chữ cái còn thiếu là gì? _illow",
+    "options": ["p", "b", "w", "h"],
+    "correctAnswer": "p"
   },
   {
-    "question": "This is a happy ____.",
-    "options": ["face", "hand", "foot", "leg"],
-    "correctAnswer": "face"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A chair", "A stool", "A bench", "A sofa"],
+    "correctAnswer": "A chair"
   },
   {
-    "question": "Spell the word: e-a-r",
-    "options": ["ear", "eat", "end", "egg"],
-    "correctAnswer": "ear"
+    "question": "My ____ is on the bed. / ____ của tôi ở trên giường.",
+    "options": ["pillow", "book", "bag", "ruler"],
+    "correctAnswer": "pillow"
   },
   {
-    "question": "Is this your face?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my hand.", "I can see."],
+    "question": "Is the desk tidy? / Bàn học có gọn gàng không?",
+    "options": ["Yes, it is.", "No, it is messy.", "It is a desk.", "Hello."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have ten ____.",
-    "options": ["fingers", "hands", "arms", "legs"],
-    "correctAnswer": "fingers"
+    "question": "I can see a bed and a ____. / Tôi có thể thấy một cái giường và một ____.",
+    "options": ["lamp", "house", "car", "book"],
+    "correctAnswer": "lamp"
   },
   {
-    "question": "What is the missing letter? _ye",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
+    "question": "Find the word: b-e-d-r-o-o-m / Tìm từ: b-e-d-r-o-o-m",
+    "options": ["bedroom", "bathroom", "broom", "bed"],
+    "correctAnswer": "bedroom"
   },
   {
-    "question": "What is this?",
-    "options": ["A leg", "An arm", "A hand", "A head"],
-    "correctAnswer": "A leg"
+    "question": "This is my ____. I do my homework here. / Đây là ____ của tôi. Tôi làm bài tập về nhà ở đây.",
+    "options": ["desk", "bed", "wardrobe", "chair"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "My ____ is small.",
-    "options": ["nose", "head", "leg", "arm"],
-    "correctAnswer": "nose"
+    "question": "What is the missing letter? lam_",
+    "options": ["p", "k", "t", "d"],
+    "correctAnswer": "p"
   },
   {
-    "question": "Is it your foot?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my hand.", "Hello."],
+    "question": "Is it a beautiful bedroom? / Nó có phải là một phòng ngủ đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like my bedroom.", "Goodbye."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have two ____ to listen.",
-    "options": ["ears", "eyes", "noses", "mouths"],
-    "correctAnswer": "ears"
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["bedroom", "homework", "class", "test"],
+    "correctAnswer": "bedroom"
   },
   {
-    "question": "Find the word: l-e-g",
-    "options": ["leg", "let", "led", "less"],
-    "correctAnswer": "leg"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A blanket", "A pillow", "A sheet", "A mattress"],
+    "correctAnswer": "A blanket"
   },
   {
-    "question": "This is my ____.",
-    "options": ["mouth", "eye", "ear", "nose"],
-    "correctAnswer": "mouth"
-  },
-  {
-    "question": "What is the missing letter? fin_er",
-    "options": ["g", "k", "p", "t"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "Is it your mouth?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my nose.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ helps me write.",
-    "options": ["hand", "foot", "leg", "head"],
-    "correctAnswer": "hand"
-  },
-  {
-    "question": "What is this?",
-    "options": ["A nose", "An eye", "An ear", "A mouth"],
-    "correctAnswer": "A nose"
-  },
-  {
-    "question": "How many hands do you have?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "How many heads do you have?",
+    "question": "How many chairs are in your bedroom? / Có bao nhiêu cái ghế trong phòng ngủ của bạn?",
     "options": ["One", "Two", "Three", "Four"],
     "correctAnswer": "One"
   },
   {
-    "question": "I see with my ____.",
-    "options": ["eyes", "ears", "nose", "mouth"],
-    "correctAnswer": "eyes"
+    "question": "A bedroom is a place to ____. / Một phòng ngủ là một nơi để ____.",
+    "options": ["sleep", "cook", "eat", "watch TV"],
+    "correctAnswer": "sleep"
   },
   {
-    "question": "Who is this?",
-    "options": ["It's me!", "It's my father.", "It's my mother.", "It's my friend."],
-    "correctAnswer": "It's me!"
-  },
-  {
-    "question": "My eyes are ____.",
-    "options": ["brown", "blue", "green", "black"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "My hair is ____.",
-    "options": ["black", "brown", "blonde", "red"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "My face is ____.",
-    "options": ["round", "square", "long", "small"],
-    "correctAnswer": "round"
-  },
-  {
-    "question": "Is your hair long or short?",
-    "options": ["Short", "Long", "Yes", "No"],
-    "correctAnswer": "Short"
-  },
-  {
-    "question": "My body is ____.",
-    "options": ["healthy", "sad", "angry", "tired"],
-    "correctAnswer": "healthy"
-  },
-  {
-    "question": "What is the missing letter? he_d",
-    "options": ["a", "e", "i", "o"],
+    "question": "I have ____ new lamp. / Tôi có ____ cái đèn mới.",
+    "options": ["a", "an", "many", "some"],
     "correctAnswer": "a"
   },
   {
-    "question": "This is my ____.",
-    "options": ["ear", "eye", "nose", "mouth"],
-    "correctAnswer": "ear"
+    "question": "What colour is your wardrobe? / Tủ quần áo của bạn màu gì?",
+    "options": ["It's brown.", "It's a wardrobe.", "It's big.", "I have a wardrobe."],
+    "correctAnswer": "It's brown."
   },
   {
-    "question": "I love my ____.",
-    "options": ["body", "school", "family", "friends"],
-    "correctAnswer": "body"
+    "question": "What is on the desk? / Có gì trên bàn học?",
+    "options": ["A book and a pen", "A bed and a pillow", "A sofa and a table", "A chair and a lamp"],
+    "correctAnswer": "A book and a pen"
   },
   {
-    "question": "Is it your finger?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my toe.", "Hello."],
+    "question": "The desk is ____. / Bàn học thì ____.",
+    "options": ["wooden", "metal", "plastic", "glass"],
+    "correctAnswer": "wooden"
+  },
+  {
+    "question": "The pictures are ____. / Những bức tranh thì ____.",
+    "options": ["nice", "ugly", "sad", "bad"],
+    "correctAnswer": "nice"
+  },
+  {
+    "question": "Is your bedroom big or small? / Phòng ngủ của bạn to hay nhỏ?",
+    "options": ["It's small.", "Yes, it is.", "No, it isn't.", "Yes"],
+    "correctAnswer": "It's small."
+  },
+  {
+    "question": "My bedroom is ____. / Phòng ngủ của tôi thì ____.",
+    "options": ["cozy", "noisy", "busy", "crowded"],
+    "correctAnswer": "cozy"
+  },
+  {
+    "question": "What is the missing letter? co_y / Chữ cái còn thiếu là gì? co_y",
+    "options": ["z", "s", "t", "k"],
+    "correctAnswer": "z"
+  },
+  {
+    "question": "This is the ____. / Đây là ____.",
+    "options": ["wardrobe", "bed", "desk", "chair"],
+    "correctAnswer": "wardrobe"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["bedroom", "dog", "cat", "bird"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Is the pillow soft? / Cái gối có mềm không?",
+    "options": ["Yes, it is.", "No, it is hard.", "It is a pillow.", "Hello."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "Let's clap our ____.",
-    "options": ["hands", "feet", "legs", "arms"],
-    "correctAnswer": "hands"
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["bedroom", "kitchen", "bathroom", "living room"],
+    "correctAnswer": "bedroom"
   },
   {
-    "question": "Spell the word: h-a-n-d",
-    "options": ["hand", "sand", "land", "band"],
-    "correctAnswer": "hand"
+    "question": "Spell the word: p-i-l-l-o-w / Đánh vần từ: p-i-l-l-o-w",
+    "options": ["pillow", "willow", "bellow", "yellow"],
+    "correctAnswer": "pillow"
   },
   {
-    "question": "I have ____ foot.",
-    "options": ["one", "a", "an", "two"],
-    "correctAnswer": "one"
-  },
-  {
-    "question": "I have two ____.",
-    "options": ["feet", "foot", "foots", "feets"],
-    "correctAnswer": "feet"
-  },
-  {
-    "question": "What is the missing letter? f_ce",
-    "options": ["a", "e", "i", "o"],
+    "question": "I have ____ big window in my bedroom. / Tôi có ____ cửa sổ lớn trong phòng ngủ.",
+    "options": ["a", "an", "one", "two"],
     "correctAnswer": "a"
   },
   {
-    "question": "This is my ____.",
-    "options": ["foot", "hand", "arm", "leg"],
-    "correctAnswer": "foot"
+    "question": "My favorite thing in my bedroom is my ____. / Thứ yêu thích của tôi trong phòng ngủ là ____.",
+    "options": ["bed", "desk", "wardrobe", "lamp"],
+    "correctAnswer": "bed"
   },
   {
-    "question": "We can ____ with our legs.",
-    "options": ["run", "write", "read", "talk"],
-    "correctAnswer": "run"
-  },
-  {
-    "question": "Is it a face?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a hand.", "I like my face."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: f-a-c-e",
-    "options": ["face", "race", "case", "lace"],
-    "correctAnswer": "face"
-  },
-  {
-    "question": "I see ____ face in the mirror.",
-    "options": ["my", "you", "his", "her"],
-    "correctAnswer": "my"
-  },
-  {
-    "question": "The boy has a happy ____.",
-    "options": ["face", "hand", "foot", "leg"],
-    "correctAnswer": "face"
-  },
-  {
-    "question": "What is the missing letter? ar_",
-    "options": ["m", "n", "p", "t"],
+    "question": "What is the missing letter? bedroo_",
+    "options": ["m", "a", "i", "o"],
     "correctAnswer": "m"
   },
   {
-    "question": "Who is this?",
-    "options": ["A boy", "A girl", "A man", "A woman"],
-    "correctAnswer": "A boy"
+    "question": "This is ____. You cover yourself with it. / Đây là ____. Bạn đắp nó lên người.",
+    "options": ["a blanket", "a pillow", "a sheet", "a mattress"],
+    "correctAnswer": "a blanket"
   },
   {
-    "question": "My ____ is strong.",
-    "options": ["arm", "ear", "eye", "nose"],
-    "correctAnswer": "arm"
+    "question": "We should keep our bedroom ____. / Chúng ta nên giữ phòng ngủ của mình ____.",
+    "options": ["tidy", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "tidy"
   },
   {
-    "question": "Is it your nose?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my mouth.", "I can smell."],
+    "question": "Is it a wooden chair? / Nó có phải là một cái ghế gỗ không?",
+    "options": ["Yes, it is.", "No, it is plastic.", "I like chairs.", "The chair is small."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My brother has big ____.",
-    "options": ["eyes", "nose", "mouth", "ears"],
-    "correctAnswer": "eyes"
+    "question": "Spell the word: t-i-d-y / Đánh vần từ: t-i-d-y",
+    "options": ["tidy", "tiny", "today", "tardy"],
+    "correctAnswer": "tidy"
   },
   {
-    "question": "Spell the word: m-o-u-t-h",
-    "options": ["mouth", "south", "month", "mouse"],
-    "correctAnswer": "mouth"
+    "question": "I help my mom make my ____. / Tôi giúp mẹ tôi dọn ____.",
+    "options": ["bed", "desk", "chair", "wardrobe"],
+    "correctAnswer": "bed"
   },
   {
-    "question": "This is a lovely ____.",
-    "options": ["face", "day", "cat", "dog"],
-    "correctAnswer": "face"
+    "question": "The lamp is on the ____. / Cái đèn ở trên ____.",
+    "options": ["desk", "bed", "chair", "floor"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "What is the missing letter? n_se",
-    "options": ["o", "a", "e", "i"],
-    "correctAnswer": "o"
+    "question": "What is the missing letter? des_",
+    "options": ["k", "p", "t", "d"],
+    "correctAnswer": "k"
   },
   {
-    "question": "What is this?",
-    "options": ["A hand", "A foot", "An arm", "A leg"],
-    "correctAnswer": "A hand"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bookshelf", "A wardrobe", "A cupboard", "A drawer"],
+    "correctAnswer": "A bookshelf"
   },
   {
-    "question": "My ____ is clean.",
-    "options": ["hand", "foot", "face", "all are correct"],
-    "correctAnswer": "all are correct"
+    "question": "My ____ is full of books. / ____ của tôi đầy sách.",
+    "options": ["bookshelf", "desk", "bag", "box"],
+    "correctAnswer": "bookshelf"
   },
   {
-    "question": "Is she touching her ear?",
-    "options": ["Yes, she is.", "No, she isn't.", "She is touching her eye.", "I have two ears."],
-    "correctAnswer": "Yes, she is."
+    "question": "Is it a picture of your family? / Nó có phải là một bức ảnh của gia đình bạn không?",
+    "options": ["Yes, it is.", "No, it is my pet.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My sister likes to ____ her hair.",
-    "options": ["brush", "wash", "cut", "touch"],
-    "correctAnswer": "brush"
+    "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
+    "options": ["bedroom", "house", "room", "garden"],
+    "correctAnswer": "bedroom"
   },
   {
-    "question": "Spell the word: b-o-d-y",
-    "options": ["body", "baby", "boy", "buddy"],
-    "correctAnswer": "body"
+    "question": "Spell the word: p-i-c-t-u-r-e / Đánh vần từ: p-i-c-t-u-r-e",
+    "options": ["picture", "pitcher", "pickle", "picnic"],
+    "correctAnswer": "picture"
   },
   {
-    "question": "I am ____ with my body.",
+    "question": "This is a ____ day to stay in my bedroom. / Đây là một ngày ____ để ở trong phòng ngủ của tôi.",
+    "options": ["cozy", "sunny", "windy", "snowy"],
+    "correctAnswer": "cozy"
+  },
+  {
+    "question": "What is the missing letter? _ozy / Chữ cái còn thiếu là gì? _ozy",
+    "options": ["c", "s", "p", "m"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A rug", "A carpet", "A mat", "A floor"],
+    "correctAnswer": "A rug"
+  },
+  {
+    "question": "My father is reading a ____ in the bedroom. / Bố tôi đang đọc một ____ trong phòng ngủ.",
+    "options": ["book", "newspaper", "magazine", "letter"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "Are the pillows soft? / Những cái gối có mềm không?",
+    "options": ["Yes, they are.", "No, they are hard.", "They are pillows.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My bedroom has a ____. / Phòng ngủ của tôi có một ____.",
+    "options": ["balcony", "garden", "pool", "garage"],
+    "correctAnswer": "balcony"
+  },
+  {
+    "question": "Spell the word: b-a-l-c-o-n-y / Đánh vần từ: b-a-l-c-o-n-y",
+    "options": ["balcony", "balloon", "ballad", "balance"],
+    "correctAnswer": "balcony"
+  },
+  {
+    "question": "I am ____ in my bedroom. / Tôi ____ trong phòng ngủ của mình.",
     "options": ["happy", "sad", "bored", "angry"],
     "correctAnswer": "happy"
   },
   {
-    "question": "What is the missing letter? f_ot",
-    "options": ["o", "e", "a", "i"],
+    "question": "What is the missing letter? bedro_m / Chữ cái còn thiếu là gì? bedro_m",
+    "options": ["o", "a", "i", "e"],
     "correctAnswer": "o"
   },
   {
-    "question": "What is this?",
-    "options": ["A body", "A head", "A face", "An arm"],
-    "correctAnswer": "A body"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A clock", "A watch", "A calendar", "A timer"],
+    "correctAnswer": "A clock"
   },
   {
-    "question": "My body has many ____.",
-    "options": ["parts", "toys", "books", "pets"],
-    "correctAnswer": "parts"
+    "question": "My bedroom is my favorite ____. / Phòng ngủ là ____ yêu thích của tôi.",
+    "options": ["room", "place", "food", "colour"],
+    "correctAnswer": "room"
   },
   {
-    "question": "Is it your arm?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my leg.", "Hello."],
-    "correctAnswer": "Yes, it is."
+    "question": "Is the door open? / Cửa có mở không?",
+    "options": ["No, it is closed.", "Yes, it is.", "It is a door.", "Hello."],
+    "correctAnswer": "No, it is closed."
   },
   {
-    "question": "My leg is ____.",
-    "options": ["long", "short", "big", "small"],
-    "correctAnswer": "long"
+    "question": "The family is in the ____. / Gia đình đang ở trong ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
   },
   {
-    "question": "Spell the word: f-i-n-g-e-r",
-    "options": ["finger", "singer", "finer", "figure"],
-    "correctAnswer": "finger"
+    "question": "Spell the word: f-a-m-i-l-y / Đánh vần từ: f-a-m-i-l-y",
+    "options": ["family", "fame", "familiar", "famous"],
+    "correctAnswer": "family"
   },
   {
-    "question": "We have ten ____ on our feet.",
-    "options": ["toes", "fingers", "hands", "legs"],
-    "correctAnswer": "toes"
+    "question": "We sleep in our ____. / Chúng tôi ngủ trong ____ của mình.",
+    "options": ["beds", "sofas", "chairs", "tables"],
+    "correctAnswer": "beds"
   },
   {
-    "question": "What is the missing letter? to_",
-    "options": ["e", "a", "o", "u"],
-    "correctAnswer": "e"
+    "question": "What is the missing letter? be_s / Chữ cái còn thiếu là gì? be_s",
+    "options": ["d", "s", "t", "p"],
+    "correctAnswer": "d"
   }
 ]
 

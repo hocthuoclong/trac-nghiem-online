@@ -1,484 +1,483 @@
 [
   {
-    "question": "What is this? It says 'woof woof'.",
-    "options": ["A dog", "A cat", "A bird", "A fish"],
-    "correctAnswer": "A dog"
+    "question": "What is this? The teacher writes on it. / Đây là gì? Cô giáo viết lên nó.",
+    "options": ["A board", "A desk", "A chair", "A book"],
+    "correctAnswer": "A board"
   },
   {
-    "question": "This is my ____. It says 'meow'.",
-    "options": ["cat", "dog", "bird", "fish"],
-    "correctAnswer": "cat"
+    "question": "This is a ____. You sit at it to study. / Đây là một ____. Bạn ngồi tại đó để học.",
+    "options": ["desk", "board", "chair", "book"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "You can see this animal flying in the sky.",
-    "options": ["A bird", "A fish", "A dog", "A cat"],
-    "correctAnswer": "A bird"
+    "question": "You sit on a ____. / Bạn ngồi trên một ____.",
+    "options": ["chair", "desk", "board", "book"],
+    "correctAnswer": "chair"
   },
   {
-    "question": "This animal lives in water.",
-    "options": ["A fish", "A bird", "A cat", "A dog"],
-    "correctAnswer": "A fish"
+    "question": "This is a ____. You read it. / Đây là một ____. Bạn đọc nó.",
+    "options": ["book", "desk", "chair", "board"],
+    "correctAnswer": "book"
   },
   {
-    "question": "Spell the word: d-o-g",
-    "options": ["dog", "cat", "dot", "dig"],
-    "correctAnswer": "dog"
+    "question": "Spell the word: b-o-o-k / Đánh vần từ: b-o-o-k",
+    "options": ["book", "look", "cook", "hook"],
+    "correctAnswer": "book"
   },
   {
-    "question": "This is my ____. It has long ears and likes carrots.",
-    "options": ["rabbit", "dog", "cat", "bird"],
-    "correctAnswer": "rabbit"
+    "question": "This is a ____. You write with it. / Đây là một ____. Bạn viết bằng nó.",
+    "options": ["pen", "book", "desk", "chair"],
+    "correctAnswer": "pen"
   },
   {
-    "question": "I like to play with my ____.",
-    "options": ["pet", "toy", "book", "friend"],
-    "correctAnswer": "pet"
+    "question": "I have a ____ to write with. / Tôi có một ____ để viết.",
+    "options": ["pencil", "book", "desk", "chair"],
+    "correctAnswer": "pencil"
   },
   {
-    "question": "Find the word: c-a-t",
-    "options": ["cat", "car", "can", "cap"],
-    "correctAnswer": "cat"
+    "question": "Find the word: d-e-s-k / Tìm từ: d-e-s-k",
+    "options": ["desk", "disk", "dark", "duck"],
+    "correctAnswer": "desk"
   },
   {
-    "question": "Is this your dog?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a cat.", "I have a bird."],
+    "question": "Is this a classroom? / Đây có phải là một lớp học không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a board.", "I have a book."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is my ____. It can swim.",
-    "options": ["fish", "bird", "dog", "cat"],
-    "correctAnswer": "fish"
+    "question": "This is a big ____. / Đây là một ____ lớn.",
+    "options": ["classroom", "house", "school", "shop"],
+    "correctAnswer": "classroom"
   },
   {
-    "question": "What is this? It's an animal you keep at home.",
-    "options": ["A pet", "A toy", "A book", "A chair"],
-    "correctAnswer": "A pet"
+    "question": "What can you do in the classroom? / Bạn có thể làm gì trong lớp học?",
+    "options": ["I can learn.", "I can swim.", "I can cook.", "I can sleep."],
+    "correctAnswer": "I can learn."
   },
   {
-    "question": "I have a brown ____.",
-    "options": ["dog", "cat", "bird", "fish"],
-    "correctAnswer": "dog"
+    "question": "I like to ____ in my book. / Tôi thích ____ trong sách của tôi.",
+    "options": ["read", "play", "eat", "drink"],
+    "correctAnswer": "read"
   },
   {
-    "question": "What is the missing letter? bir_",
-    "options": ["d", "k", "t", "p"],
-    "correctAnswer": "d"
+    "question": "What is the missing letter? des_",
+    "options": ["k", "t", "p", "b"],
+    "correctAnswer": "k"
   },
   {
-    "question": "This is my ____. It's black.",
-    "options": ["cat", "dog", "bird", "fish"],
-    "correctAnswer": "cat"
+    "question": "This is our ____. We learn here. / Đây là ____ của chúng tôi. Chúng tôi học ở đây.",
+    "options": ["classroom", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "classroom"
   },
   {
-    "question": "This is my ____. It can sing.",
-    "options": ["bird", "fish", "dog", "cat"],
-    "correctAnswer": "bird"
+    "question": "My ____ is kind. / ____ của tôi tốt bụng.",
+    "options": ["teacher", "student", "doctor", "farmer"],
+    "correctAnswer": "teacher"
   },
   {
-    "question": "Let's feed the ____.",
-    "options": ["fish", "book", "pen", "chair"],
-    "correctAnswer": "fish"
+    "question": "Let's sit at our ____. / Hãy ngồi vào ____ của chúng ta.",
+    "options": ["desks", "beds", "sofas", "tables"],
+    "correctAnswer": "desks"
   },
   {
-    "question": "Spell the word: p-e-t",
-    "options": ["pet", "pen", "pot", "peg"],
-    "correctAnswer": "pet"
+    "question": "Spell the word: c-h-a-i-r / Đánh vần từ: c-h-a-i-r",
+    "options": ["chair", "hair", "pair", "fair"],
+    "correctAnswer": "chair"
   },
   {
-    "question": "Is this your rabbit?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a cat.", "I can play."],
+    "question": "Is this a big board? / Đây có phải là một cái bảng lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a board.", "I can see a desk."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is my ____. It can hop.",
-    "options": ["rabbit", "dog", "cat", "fish"],
-    "correctAnswer": "rabbit"
+    "question": "I am a ____. / Tôi là một ____.",
+    "options": ["student", "teacher", "doctor", "farmer"],
+    "correctAnswer": "student"
   },
   {
-    "question": "What is the missing letter? ca_",
-    "options": ["t", "r", "p", "n"],
-    "correctAnswer": "t"
+    "question": "What is the missing letter? _ook / Chữ cái còn thiếu là gì? _ook",
+    "options": ["b", "c", "h", "l"],
+    "correctAnswer": "b"
   },
   {
-    "question": "These are my ____.",
-    "options": ["pets", "toys", "books", "friends"],
-    "correctAnswer": "pets"
+    "question": "These are my ____. / Đây là những ____ của tôi.",
+    "options": ["school things", "toys", "pets", "clothes"],
+    "correctAnswer": "school things"
   },
   {
-    "question": "How many dogs do you have?",
+    "question": "How many books do you have? / Bạn có bao nhiêu quyển sách?",
     "options": ["One", "Two", "Three", "Four"],
     "correctAnswer": "One"
   },
   {
-    "question": "This is my ____.",
-    "options": ["bird", "fish", "dog", "cat"],
-    "correctAnswer": "bird"
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["ruler", "eraser", "pen", "pencil"],
+    "correctAnswer": "ruler"
   },
   {
-    "question": "Spell the word: f-i-s-h",
-    "options": ["fish", "dish", "wish", "fist"],
-    "correctAnswer": "fish"
+    "question": "Spell the word: p-e-n / Đánh vần từ: p-e-n",
+    "options": ["pen", "pin", "pan", "pet"],
+    "correctAnswer": "pen"
   },
   {
-    "question": "Is it your cat?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my dog.", "I can see."],
+    "question": "Is it a tidy classroom? / Nó có phải là một lớp học gọn gàng không?",
+    "options": ["Yes, it is.", "No, it is messy.", "It is my classroom.", "I can see a desk."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have a white ____.",
-    "options": ["rabbit", "dog", "cat", "bird"],
-    "correctAnswer": "rabbit"
+    "question": "We can see a ____ on the wall. / Chúng ta có thể thấy một ____ trên tường.",
+    "options": ["clock", "bed", "sofa", "table"],
+    "correctAnswer": "clock"
   },
   {
-    "question": "What is the missing letter? do_",
-    "options": ["g", "k", "m", "n"],
-    "correctAnswer": "g"
+    "question": "What is the missing letter? chai_",
+    "options": ["r", "t", "d", "p"],
+    "correctAnswer": "r"
   },
   {
-    "question": "What is this?",
-    "options": ["My cat", "My dog", "My bird", "My fish"],
-    "correctAnswer": "My cat"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A teacher", "A student", "A doctor", "A farmer"],
+    "correctAnswer": "A teacher"
   },
   {
-    "question": "This is my ____. It is loyal.",
-    "options": ["dog", "cat", "bird", "rabbit"],
-    "correctAnswer": "dog"
+    "question": "This is a ____. You learn from it. / Đây là một ____. Bạn học từ nó.",
+    "options": ["book", "chair", "desk", "board"],
+    "correctAnswer": "book"
   },
   {
-    "question": "This is my ____. It is cute.",
-    "options": ["cat", "dog", "bird", "fish"],
-    "correctAnswer": "cat"
+    "question": "This is ____. It's where we study. / Đây là ____. Đó là nơi chúng ta học.",
+    "options": ["our classroom", "our playground", "our library", "our gym"],
+    "correctAnswer": "our classroom"
   },
   {
-    "question": "What is this?",
-    "options": ["A fish", "A dog", "A cat", "A bird"],
-    "correctAnswer": "A fish"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A pencil", "A pen", "An eraser", "A ruler"],
+    "correctAnswer": "A pencil"
   },
   {
-    "question": "Find the word: r-a-b-b-i-t",
-    "options": ["rabbit", "robot", "ribbon", "rubber"],
-    "correctAnswer": "rabbit"
+    "question": "Find the word: t-e-a-c-h-e-r / Tìm từ: t-e-a-c-h-e-r",
+    "options": ["teacher", "reacher", "bleacher", "peacher"],
+    "correctAnswer": "teacher"
   },
   {
-    "question": "Is it your bird?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my fish.", "I am a girl."],
+    "question": "Is it a clean board? / Nó có phải là một cái bảng sạch không?",
+    "options": ["Yes, it is.", "No, it is dirty.", "I am in the classroom.", "I like my classroom."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My ____ is small.",
-    "options": ["bird", "dog", "cat", "rabbit"],
-    "correctAnswer": "bird"
+    "question": "My ____ is new. / ____ của tôi mới.",
+    "options": ["school bag", "board", "map", "poster"],
+    "correctAnswer": "school bag"
   },
   {
-    "question": "What is the missing letter? ra__it",
-    "options": ["bb", "pp", "tt", "dd"],
-    "correctAnswer": "bb"
+    "question": "What is the missing letter? teache_",
+    "options": ["r", "n", "m", "p"],
+    "correctAnswer": "r"
   },
   {
-    "question": "This is a lovely ____.",
-    "options": ["pet", "book", "song", "game"],
-    "correctAnswer": "pet"
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["classroom", "book", "lesson", "game"],
+    "correctAnswer": "classroom"
   },
   {
-    "question": "Spell the word: b-i-r-d",
-    "options": ["bird", "beard", "board", "bind"],
-    "correctAnswer": "bird"
+    "question": "Spell the word: s-t-u-d-e-n-t / Đánh vần từ: s-t-u-d-e-n-t",
+    "options": ["student", "study", "student's", "studied"],
+    "correctAnswer": "student"
   },
   {
-    "question": "Is this your pet?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a toy.", "I can see."],
+    "question": "Is this a picture of a school? / Đây có phải là một bức tranh về một ngôi trường không?",
+    "options": ["Yes, it is.", "No, it is a house.", "I can see a picture.", "I like pictures."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have two ____.",
-    "options": ["pets", "books", "toys", "friends"],
-    "correctAnswer": "pets"
+    "question": "The classroom has many ____. / Lớp học có nhiều ____.",
+    "options": ["students", "teachers", "boards", "desks"],
+    "correctAnswer": "students"
   },
   {
-    "question": "What is the missing letter? _et",
-    "options": ["p", "b", "j", "s"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this?",
-    "options": ["A rabbit", "A dog", "A cat", "A bird"],
-    "correctAnswer": "A rabbit"
-  },
-  {
-    "question": "My ____ is big.",
-    "options": ["dog", "cat", "bird", "fish"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "Is it your fish?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my bird.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I have a ____ and a dog.",
-    "options": ["cat", "bird", "fish", "rabbit"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "Find the word: d-o-g",
-    "options": ["dog", "log", "fog", "bog"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "This is my ____. It can fly.",
-    "options": ["bird", "fish", "dog", "cat"],
-    "correctAnswer": "bird"
-  },
-  {
-    "question": "What is the missing letter? fi_h",
-    "options": ["s", "p", "t", "d"],
+    "question": "What is the missing letter? _tudent / Chữ cái còn thiếu là gì? _tudent",
+    "options": ["s", "p", "b", "c"],
     "correctAnswer": "s"
   },
   {
-    "question": "Is it your dog?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my cat.", "Goodbye."],
+    "question": "What is this? / Đây là gì?",
+    "options": ["An eraser", "A ruler", "A pen", "A pencil"],
+    "correctAnswer": "An eraser"
+  },
+  {
+    "question": "My ____ is on the desk. / ____ của tôi ở trên bàn.",
+    "options": ["notebook", "computer", "map", "poster"],
+    "correctAnswer": "notebook"
+  },
+  {
+    "question": "Is the desk tidy? / Bàn học có gọn gàng không?",
+    "options": ["Yes, it is.", "No, it is messy.", "It is a desk.", "Hello."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My ____ is friendly.",
-    "options": ["dog", "cat", "bird", "fish"],
-    "correctAnswer": "dog"
+    "question": "I can see a desk and a ____. / Tôi có thể thấy một cái bàn và một ____.",
+    "options": ["chair", "house", "car", "book"],
+    "correctAnswer": "chair"
   },
   {
-    "question": "What is this?",
-    "options": ["A bird", "A dog", "A cat", "A fish"],
-    "correctAnswer": "A bird"
+    "question": "Find the word: n-o-t-e-b-o-o-k / Tìm từ: n-o-t-e-b-o-o-k",
+    "options": ["notebook", "note", "book", "nothing"],
+    "correctAnswer": "notebook"
   },
   {
-    "question": "How many cats do you have?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
+    "question": "This is my ____. I write in it. / Đây là ____ của tôi. Tôi viết vào trong đó.",
+    "options": ["notebook", "pencil case", "bag", "desk"],
+    "correctAnswer": "notebook"
   },
   {
-    "question": "How many fish do you have?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
+    "question": "What is the missing letter? noteboo_",
+    "options": ["k", "p", "t", "d"],
+    "correctAnswer": "k"
   },
   {
-    "question": "I see ____ pet.",
-    "options": ["a", "an", "one", "my"],
+    "question": "Is it a beautiful classroom? / Nó có phải là một lớp học đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like my classroom.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["lesson", "homework", "class", "test"],
+    "correctAnswer": "lesson"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A crayon", "A marker", "A pen", "A pencil"],
+    "correctAnswer": "A crayon"
+  },
+  {
+    "question": "What is the teacher holding? / Cô giáo đang cầm gì?",
+    "options": ["A piece of chalk", "A pen", "A pencil", "A ruler"],
+    "correctAnswer": "A piece of chalk"
+  },
+  {
+    "question": "A classroom is in a ____. / Một lớp học ở trong một ____.",
+    "options": ["school", "house", "shop", "park"],
+    "correctAnswer": "school"
+  },
+  {
+    "question": "I see ____ teacher in the classroom. / Tôi thấy ____ cô giáo trong lớp học.",
+    "options": ["a", "an", "many", "some"],
     "correctAnswer": "a"
   },
   {
-    "question": "What color is the cat?",
-    "options": ["Black", "Blue", "Green", "Yellow"],
+    "question": "What colour is the board? / Cái bảng màu gì?",
+    "options": ["Black", "Blue", "Red", "Yellow"],
     "correctAnswer": "Black"
   },
   {
-    "question": "What color is the fish?",
-    "options": ["Gold", "Red", "Green", "Yellow"],
-    "correctAnswer": "Gold"
+    "question": "What colour is the desk? / Cái bàn màu gì?",
+    "options": ["Brown", "White", "Black", "Pink"],
+    "correctAnswer": "Brown"
   },
   {
-    "question": "The dog is ____.",
-    "options": ["playful", "ugly", "big", "small"],
-    "correctAnswer": "playful"
+    "question": "The pen is ____. / Cây bút mực thì ____.",
+    "options": ["blue", "red", "small", "thin"],
+    "correctAnswer": "blue"
   },
   {
-    "question": "The cat is ____.",
-    "options": ["quiet", "loud", "warm", "cold"],
-    "correctAnswer": "quiet"
+    "question": "The students are ____. / Các bạn học sinh thì ____.",
+    "options": ["learning", "playing", "sad", "bad"],
+    "correctAnswer": "learning"
   },
   {
-    "question": "Is your pet big or small?",
-    "options": ["Small", "Big", "Yes", "No"],
-    "correctAnswer": "Small"
-  },
-  {
-    "question": "My pet is ____.",
-    "options": ["cute", "sad", "angry", "tired"],
-    "correctAnswer": "cute"
-  },
-  {
-    "question": "What is the missing letter? cu_e",
-    "options": ["t", "n", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["dog", "cat", "bird", "fish"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "I love my ____.",
-    "options": ["cat", "dog", "bird", "fish"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "Is it your bird?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a fish.", "Hello."],
+    "question": "Is your classroom big? / Lớp học của bạn có lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "Yes", "No"],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "Let's play with our ____.",
-    "options": ["pets", "friends", "toys", "books"],
-    "correctAnswer": "pets"
+    "question": "My classroom is ____. / Lớp học của tôi thì ____.",
+    "options": ["bright", "dark", "noisy", "crowded"],
+    "correctAnswer": "bright"
   },
   {
-    "question": "Spell the word: l-o-v-e",
-    "options": ["love", "live", "leave", "life"],
-    "correctAnswer": "love"
+    "question": "What is the missing letter? bri_ht / Chữ cái còn thiếu là gì? bri_ht",
+    "options": ["g", "t", "d", "k"],
+    "correctAnswer": "g"
   },
   {
-    "question": "I have ____ new pet.",
+    "question": "This is the ____. / Đây là ____.",
+    "options": ["board", "map", "poster", "picture"],
+    "correctAnswer": "board"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["classroom", "dog", "cat", "bird"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "Is the teacher writing on the board? / Cô giáo có đang viết trên bảng không?",
+    "options": ["Yes, she is.", "No, she is reading.", "It is a board.", "Hello."],
+    "correctAnswer": "Yes, she is."
+  },
+  {
+    "question": "Let's learn in the ____. / Hãy học trong ____.",
+    "options": ["classroom", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "classroom"
+  },
+  {
+    "question": "Spell the word: l-e-a-r-n / Đánh vần từ: l-e-a-r-n",
+    "options": ["learn", "lean", "leaf", "lend"],
+    "correctAnswer": "learn"
+  },
+  {
+    "question": "I have ____ new notebook. / Tôi có ____ quyển vở mới.",
     "options": ["a", "an", "one", "two"],
     "correctAnswer": "a"
   },
   {
-    "question": "My favorite pet is a ____.",
-    "options": ["dog", "cat", "bird", "fish"],
-    "correctAnswer": "dog"
+    "question": "My favorite subject is ____. / Môn học yêu thích của tôi là ____.",
+    "options": ["English", "Maths", "Art", "Music"],
+    "correctAnswer": "English"
   },
   {
-    "question": "What is the missing letter? favo_ite",
-    "options": ["r", "l", "n", "m"],
-    "correctAnswer": "r"
+    "question": "What is the missing letter? Engli_h / Chữ cái còn thiếu là gì? Engli_h",
+    "options": ["s", "a", "i", "o"],
+    "correctAnswer": "s"
   },
   {
-    "question": "This is my ____.",
-    "options": ["rabbit", "dog", "cat", "bird"],
-    "correctAnswer": "rabbit"
+    "question": "This is ____. It shows the world. / Đây là ____. Nó cho thấy thế giới.",
+    "options": ["a globe", "a map", "a picture", "a poster"],
+    "correctAnswer": "a globe"
   },
   {
-    "question": "We should take care of our ____.",
-    "options": ["pets", "food", "secrets", "all are correct"],
-    "correctAnswer": "pets"
+    "question": "We should keep our classroom ____. / Chúng ta nên giữ lớp học của mình ____.",
+    "options": ["clean", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "clean"
   },
   {
-    "question": "Is it a dog house?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a bird cage.", "I like houses."],
+    "question": "Is it a wooden desk? / Nó có phải là một cái bàn gỗ không?",
+    "options": ["Yes, it is.", "No, it is plastic.", "I like desks.", "The desk is big."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "Spell the word: h-o-u-s-e",
-    "options": ["house", "horse", "mouse", "blouse"],
-    "correctAnswer": "house"
+    "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
+    "options": ["clean", "clear", "clan", "cleft"],
+    "correctAnswer": "clean"
   },
   {
-    "question": "I put my fish in the ____.",
-    "options": ["tank", "bag", "car", "house"],
-    "correctAnswer": "tank"
+    "question": "I help my teacher clean the ____. / Tôi giúp cô giáo lau ____.",
+    "options": ["board", "desk", "chair", "floor"],
+    "correctAnswer": "board"
   },
   {
-    "question": "The bird is in the ____.",
-    "options": ["cage", "school", "shop", "park"],
-    "correctAnswer": "cage"
+    "question": "The map is on the ____. / Bản đồ ở trên ____.",
+    "options": ["wall", "floor", "ceiling", "door"],
+    "correctAnswer": "wall"
   },
   {
-    "question": "What is the missing letter? ca_e",
-    "options": ["g", "k", "t", "d"],
-    "correctAnswer": "g"
+    "question": "What is the missing letter? wa_l / Chữ cái còn thiếu là gì? wa_l",
+    "options": ["l", "p", "t", "d"],
+    "correctAnswer": "l"
   },
   {
-    "question": "Who is this?",
-    "options": ["A cat", "A dog", "A rabbit", "A bird"],
-    "correctAnswer": "A cat"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A crayon", "A pencil", "A pen", "A marker"],
+    "correctAnswer": "A crayon"
   },
   {
-    "question": "My ____ is fluffy.",
-    "options": ["cat", "dog", "fish", "bird"],
-    "correctAnswer": "cat"
+    "question": "My ____ is full of books. / ____ của tôi đầy sách.",
+    "options": ["bookshelf", "desk", "bag", "box"],
+    "correctAnswer": "bookshelf"
   },
   {
-    "question": "Is it your rabbit?",
-    "options": ["No, it is my cat.", "Yes, it is.", "She is my dog.", "I have a rabbit."],
-    "correctAnswer": "No, it is my cat."
-  },
-  {
-    "question": "My brother likes to play with his ____.",
-    "options": ["dog", "cat", "fish", "bird"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "Spell the word: f-l-y",
-    "options": ["fly", "fry", "cry", "dry"],
-    "correctAnswer": "fly"
-  },
-  {
-    "question": "A bird can ____.",
-    "options": ["fly", "swim", "run", "hop"],
-    "correctAnswer": "fly"
-  },
-  {
-    "question": "What is the missing letter? rabbi_",
-    "options": ["t", "e", "o", "i"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this?",
-    "options": ["A dog", "A cat", "A bird", "A fish"],
-    "correctAnswer": "A dog"
-  },
-  {
-    "question": "My ____ can run fast.",
-    "options": ["dog", "cat", "fish", "bird"],
-    "correctAnswer": "dog"
-
-  },
-  {
-    "question": "Is it your fish?",
-    "options": ["Yes, it is.", "No, it isn't.", "He is my dog.", "I have a fish."],
+    "question": "Is it a picture of a flower? / Nó có phải là một bức tranh về một bông hoa không?",
+    "options": ["Yes, it is.", "No, it is a tree.", "I see a picture.", "The picture is nice."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My sister likes to feed her ____.",
-    "options": ["fish", "dog", "cat", "bird"],
-    "correctAnswer": "fish"
+    "question": "My friend likes to draw ____. / Bạn tôi thích vẽ ____.",
+    "options": ["pictures", "maps", "posters", "boards"],
+    "correctAnswer": "pictures"
   },
   {
-    "question": "Spell the word: s-w-i-m",
-    "options": ["swim", "slim", "swam", "swing"],
-    "correctAnswer": "swim"
+    "question": "Spell the word: d-r-a-w / Đánh vần từ: d-r-a-w",
+    "options": ["draw", "dream", "drink", "drive"],
+    "correctAnswer": "draw"
   },
   {
-    "question": "I am ____ with my pets.",
-    "options": ["happy", "sad", "bored", "angry"],
+    "question": "This is a ____ day at school. / Đây là một ngày ____ ở trường.",
+    "options": ["happy", "rainy", "cloudy", "windy"],
     "correctAnswer": "happy"
   },
   {
-    "question": "What is the missing letter? d_g",
-    "options": ["o", "a", "e", "i"],
-    "correctAnswer": "o"
+    "question": "What is the missing letter? _appy / Chữ cái còn thiếu là gì? _appy",
+    "options": ["h", "p", "s", "m"],
+    "correctAnswer": "h"
   },
   {
-    "question": "What is this?",
-    "options": ["A fish tank", "A school bag", "A lunch box", "A pencil case"],
-    "correctAnswer": "A fish tank"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A clock", "A watch", "A calendar", "A timer"],
+    "correctAnswer": "A clock"
   },
   {
-    "question": "My fish are in the ____.",
-    "options": ["tank", "box", "bed", "chair"],
-    "correctAnswer": "tank"
+    "question": "My teacher is pointing to the ____. / Cô giáo của tôi đang chỉ vào ____.",
+    "options": ["map", "board", "poster", "picture"],
+    "correctAnswer": "map"
   },
   {
-    "question": "Is it your cat?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my dog.", "Hello."],
+    "question": "Are the students listening? / Các bạn học sinh có đang lắng nghe không?",
+    "options": ["Yes, they are.", "No, they are talking.", "They are students.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My classroom has many ____. / Lớp học của tôi có nhiều ____.",
+    "options": ["students", "teachers", "parents", "doctors"],
+    "correctAnswer": "students"
+  },
+  {
+    "question": "Spell the word: s-t-u-d-e-n-t / Đánh vần từ: s-t-u-d-e-n-t",
+    "options": ["student", "study", "student's", "studied"],
+    "correctAnswer": "student"
+  },
+  {
+    "question": "I am ____ in my classroom. / Tôi ____ trong lớp học của mình.",
+    "options": ["learning", "playing", "sleeping", "eating"],
+    "correctAnswer": "learning"
+  },
+  {
+    "question": "What is the missing letter? pict_re / Chữ cái còn thiếu là gì? pict_re",
+    "options": ["u", "a", "i", "o"],
+    "correctAnswer": "u"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bookshelf", "A wardrobe", "A cupboard", "A drawer"],
+    "correctAnswer": "A bookshelf"
+  },
+  {
+    "question": "My classroom is my second ____. / Lớp học là ____ thứ hai của tôi.",
+    "options": ["home", "school", "playground", "park"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Is the poster about animals? / Tấm áp phích có phải về động vật không?",
+    "options": ["Yes, it is.", "No, it is about flowers.", "It is a poster.", "Hello."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My cat is ____.",
-    "options": ["white", "black", "brown", "pink"],
-    "correctAnswer": "white"
+    "question": "The globe is ____. / Quả địa cầu thì ____.",
+    "options": ["round", "square", "flat", "long"],
+    "correctAnswer": "round"
   },
   {
-    "question": "Spell the word: w-h-i-t-e",
-    "options": ["white", "while", "what", "where"],
-    "correctAnswer": "white"
+    "question": "Spell the word: g-l-o-b-e / Đánh vần từ: g-l-o-b-e",
+    "options": ["globe", "glow", "glove", "glob"],
+    "correctAnswer": "globe"
   },
   {
-    "question": "We play with ____ in the garden.",
-    "options": ["pets", "books", "pencils", "chairs"],
-    "correctAnswer": "pets"
+    "question": "We listen to the ____. / Chúng tôi lắng nghe ____.",
+    "options": ["teacher", "music", "birds", "cars"],
+    "correctAnswer": "teacher"
   },
   {
-    "question": "What is the missing letter? bir_s",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
+    "question": "What is the missing letter? teache_",
+    "options": ["r", "s", "t", "p"],
+    "correctAnswer": "r"
   }
 ]
 

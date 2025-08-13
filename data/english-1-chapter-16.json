@@ -1,0 +1,483 @@
+[
+  {
+    "question": "Where are you? / Bạn đang ở đâu?",
+    "options": ["I'm at home.", "I'm at school.", "I'm at the zoo.", "I'm at the park."],
+    "correctAnswer": "I'm at home."
+  },
+  {
+    "question": "This is my ____. I sleep here. / Đây là ____ của tôi. Tôi ngủ ở đây.",
+    "options": ["bedroom", "living room", "kitchen", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "You can watch TV in this room. / Bạn có thể xem TV trong phòng này.",
+    "options": ["The living room", "The bedroom", "The kitchen", "The bathroom"],
+    "correctAnswer": "The living room"
+  },
+  {
+    "question": "This is a ____. It's in the bedroom. / Đây là một ____. Nó ở trong phòng ngủ.",
+    "options": ["bed", "sofa", "table", "chair"],
+    "correctAnswer": "bed"
+  },
+  {
+    "question": "Spell the word: h-o-m-e / Đánh vần từ: h-o-m-e",
+    "options": ["home", "come", "some", "hope"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "This is a ____. It's in the living room. / Đây là một ____. Nó ở trong phòng khách.",
+    "options": ["sofa", "bed", "desk", "wardrobe"],
+    "correctAnswer": "sofa"
+  },
+  {
+    "question": "I am ____ a book. / Tôi đang ____ một quyển sách.",
+    "options": ["reading", "watching", "playing", "eating"],
+    "correctAnswer": "reading"
+  },
+  {
+    "question": "Find the word: b-e-d / Tìm từ: b-e-d",
+    "options": ["bed", "red", "bad", "bid"],
+    "correctAnswer": "bed"
+  },
+  {
+    "question": "Is this your living room? / Đây có phải là phòng khách của bạn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a bedroom.", "I have a sofa."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a big ____. / Đây là một ____ lớn.",
+    "options": ["house", "room", "bed", "sofa"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "What can you do at home? / Bạn có thể làm gì ở nhà?",
+    "options": ["I can relax.", "I can fly.", "I can swim in the sea.", "I can drive a bus."],
+    "correctAnswer": "I can relax."
+  },
+  {
+    "question": "I like to ____ TV. / Tôi thích ____ TV.",
+    "options": ["watch", "read", "play", "listen to"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "What is the missing letter? be_",
+    "options": ["d", "t", "p", "g"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "This is my ____. It's cozy. / Đây là ____ của tôi. Nó ấm cúng.",
+    "options": ["home", "school", "office", "shop"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "My father is sitting on the ____. / Bố tôi đang ngồi trên ____.",
+    "options": ["sofa", "bed", "chair", "floor"],
+    "correctAnswer": "sofa"
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["bedroom", "kitchen", "bathroom", "living room"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Spell the word: s-o-f-a / Đánh vần từ: s-o-f-a",
+    "options": ["sofa", "soft", "soda", "soap"],
+    "correctAnswer": "sofa"
+  },
+  {
+    "question": "Is this a big bed? / Đây có phải là một cái giường lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a sofa.", "I can see a bedroom."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am ____ in my bed. / Tôi đang ____ trên giường của tôi.",
+    "options": ["sleeping", "reading", "playing", "eating"],
+    "correctAnswer": "sleeping"
+  },
+  {
+    "question": "What is the missing letter? _ofa / Chữ cái còn thiếu là gì? _ofa",
+    "options": ["s", "c", "b", "d"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "This is a ____. You can put things on it. / Đây là một ____. Bạn có thể đặt đồ vật lên đó.",
+    "options": ["table", "chair", "bed", "sofa"],
+    "correctAnswer": "table"
+  },
+  {
+    "question": "How many rooms are in your home? / Nhà bạn có bao nhiêu phòng?",
+    "options": ["Four", "One", "Two", "Three"],
+    "correctAnswer": "Four"
+  },
+  {
+    "question": "This is a ____. It gives light. / Đây là một ____. Nó cho ánh sáng.",
+    "options": ["lamp", "bed", "sofa", "table"],
+    "correctAnswer": "lamp"
+  },
+  {
+    "question": "Spell the word: r-e-a-d / Đánh vần từ: r-e-a-d",
+    "options": ["read", "red", "road", "ride"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "Is it comfortable? / Nó có thoải mái không?",
+    "options": ["Yes, it is.", "No, it is uncomfortable.", "It is a home.", "I can see a sofa."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can see a ____ on the wall. / Chúng ta có thể thấy một ____ trên tường.",
+    "options": ["picture", "bed", "sofa", "table"],
+    "correctAnswer": "picture"
+  },
+  {
+    "question": "What is the missing letter? tabl_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A television (TV)", "A radio", "A computer", "A phone"],
+    "correctAnswer": "A television (TV)"
+  },
+  {
+    "question": "This is a ____. My family sits here together. / Đây là một ____. Gia đình tôi ngồi đây cùng nhau.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "This is ____. It's where I live. / Đây là ____. Đó là nơi tôi sống.",
+    "options": ["my home", "my school", "my playground", "my park"],
+    "correctAnswer": "my home"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bed", "A sofa", "A chair", "A table"],
+    "correctAnswer": "A bed"
+  },
+  {
+    "question": "Find the word: w-a-t-c-h / Tìm từ: w-a-t-c-h",
+    "options": ["watch", "witch", "wash", "water"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "Is it a quiet home? / Nó có phải là một ngôi nhà yên tĩnh không?",
+    "options": ["Yes, it is.", "No, it is noisy.", "I am at home.", "I like my home."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is comfortable. / ____ của tôi thoải mái.",
+    "options": ["sofa", "bed", "chair", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "What is the missing letter? hom_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["home", "book", "lesson", "game"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Spell the word: b-e-d-r-o-o-m / Đánh vần từ: b-e-d-r-o-o-m",
+    "options": ["bedroom", "bathroom", "broom", "bed"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "Is this a picture of your family? / Đây có phải là một bức ảnh của gia đình bạn không?",
+    "options": ["Yes, it is.", "No, it is my friends.", "I can see a picture.", "I like pictures."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The home has a big ____. / Ngôi nhà có một ____ lớn.",
+    "options": ["garden", "pool", "garage", "balcony"],
+    "correctAnswer": "garden"
+  },
+  {
+    "question": "What is the missing letter? _arden / Chữ cái còn thiếu là gì? _arden",
+    "options": ["g", "p", "b", "c"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A window", "A door", "A wall", "A roof"],
+    "correctAnswer": "A window"
+  },
+  {
+    "question": "My ____ is on the table. / ____ của tôi ở trên bàn.",
+    "options": ["book", "bed", "sofa", "chair"],
+    "correctAnswer": "book"
+  },
+  {
+    "question": "Is the sofa soft? / Ghế sô pha có mềm không?",
+    "options": ["Yes, it is.", "No, it is hard.", "It is a sofa.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a bed and a ____. / Tôi có thể thấy một cái giường và một ____.",
+    "options": ["wardrobe", "table", "chair", "sofa"],
+    "correctAnswer": "wardrobe"
+  },
+  {
+    "question": "Find the word: s-l-e-e-p / Tìm từ: s-l-e-e-p",
+    "options": ["sleep", "sheep", "slip", "slap"],
+    "correctAnswer": "sleep"
+  },
+  {
+    "question": "This is my ____. I put my clothes here. / Đây là ____ của tôi. Tôi để quần áo của tôi ở đây.",
+    "options": ["wardrobe", "desk", "bed", "sofa"],
+    "correctAnswer": "wardrobe"
+  },
+  {
+    "question": "What is the missing letter? wardro_e / Chữ cái còn thiếu là gì? wardro_e",
+    "options": ["b", "p", "t", "d"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Is it a beautiful home? / Nó có phải là một ngôi nhà đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like my home.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["family time", "homework", "class", "test"],
+    "correctAnswer": "family time"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A cushion", "A pillow", "A blanket", "A sheet"],
+    "correctAnswer": "A cushion"
+  },
+  {
+    "question": "How many people live in your home? / Có bao nhiêu người sống trong nhà bạn?",
+    "options": ["Four", "One", "Two", "Three"],
+    "correctAnswer": "Four"
+  },
+  {
+    "question": "A home is a place with ____. / Một ngôi nhà là một nơi có ____.",
+    "options": ["love", "school", "shops", "parks"],
+    "correctAnswer": "love"
+  },
+  {
+    "question": "I have ____ television in my living room. / Tôi có ____ tivi trong phòng khách.",
+    "options": ["a", "an", "many", "some"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What colour is your bed? / Giường của bạn màu gì?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "What colour is the sofa? / Ghế sô pha màu gì?",
+    "options": ["Grey", "White", "Black", "Pink"],
+    "correctAnswer": "Grey"
+  },
+  {
+    "question": "The living room is ____. / Phòng khách thì ____.",
+    "options": ["spacious", "small", "short", "thin"],
+    "correctAnswer": "spacious"
+  },
+  {
+    "question": "The bedroom is ____. / Phòng ngủ thì ____.",
+    "options": ["cozy", "ugly", "sad", "bad"],
+    "correctAnswer": "cozy"
+  },
+  {
+    "question": "Is your home clean? / Nhà của bạn có sạch không?",
+    "options": ["Yes, it is.", "No, it is messy.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My time at home is ____. / Thời gian của tôi ở nhà thì ____.",
+    "options": ["relaxing", "noisy", "busy", "crowded"],
+    "correctAnswer": "relaxing"
+  },
+  {
+    "question": "What is the missing letter? rela_ing / Chữ cái còn thiếu là gì? rela_ing",
+    "options": ["x", "t", "d", "k"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "This is the ____. / Đây là ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["home", "dog", "cat", "bird"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Is the lamp on? / Đèn có đang bật không?",
+    "options": ["Yes, it is.", "No, it is off.", "It is a lamp.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go ____. / Hãy đi ____.",
+    "options": ["home", "to the kitchen", "to the bedroom", "to the bathroom"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Spell the word: l-i-v-i-n-g / Đánh vần từ: l-i-v-i-n-g",
+    "options": ["living", "loving", "leaving", "lifting"],
+    "correctAnswer": "living"
+  },
+  {
+    "question": "I have ____ big window in my bedroom. / Tôi có ____ cửa sổ lớn trong phòng ngủ.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite room is the ____. / Căn phòng yêu thích của tôi là ____.",
+    "options": ["bedroom", "living room", "kitchen", "bathroom"],
+    "correctAnswer": "bedroom"
+  },
+  {
+    "question": "What is the missing letter? bedroo_",
+    "options": ["m", "a", "i", "o"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "This is a ____. You sleep on it. / Đây là một ____. Bạn ngủ trên đó.",
+    "options": ["pillow", "cushion", "blanket", "sheet"],
+    "correctAnswer": "pillow"
+  },
+  {
+    "question": "We should keep our home ____. / Chúng ta nên giữ cho nhà của mình ____.",
+    "options": ["tidy", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "tidy"
+  },
+  {
+    "question": "Is it a wooden table? / Nó có phải là một cái bàn gỗ không?",
+    "options": ["Yes, it is.", "No, it is glass.", "I like tables.", "The table is big."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: t-i-d-y / Đánh vần từ: t-i-d-y",
+    "options": ["tidy", "tiny", "today", "tardy"],
+    "correctAnswer": "tidy"
+  },
+  {
+    "question": "I help my mom clean the ____. / Tôi giúp mẹ tôi dọn dẹp ____.",
+    "options": ["house", "car", "dog", "cat"],
+    "correctAnswer": "house"
+  },
+  {
+    "question": "The TV is in the ____. / Tivi ở trong ____.",
+    "options": ["living room", "bedroom", "kitchen", "bathroom"],
+    "correctAnswer": "living room"
+  },
+  {
+    "question": "What is the missing letter? T_ / Chữ cái còn thiếu là gì? T_",
+    "options": ["V", "B", "C", "D"],
+    "correctAnswer": "V"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A bookshelf", "A wardrobe", "A cupboard", "A drawer"],
+    "correctAnswer": "A bookshelf"
+  },
+  {
+    "question": "My ____ is full of books. / ____ của tôi đầy sách.",
+    "options": ["bookshelf", "desk", "bag", "box"],
+    "correctAnswer": "bookshelf"
+  },
+  {
+    "question": "Is it a picture of your home? / Nó có phải là một bức tranh về nhà của bạn không?",
+    "options": ["Yes, it is.", "No, it is my school.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to ____ at my home. / Bạn tôi thích ____ ở nhà tôi.",
+    "options": ["play", "study", "work", "sleep"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "This is a ____ day to stay at home. / Đây là một ngày ____ để ở nhà.",
+    "options": ["cozy", "rainy", "cloudy", "windy"],
+    "correctAnswer": "cozy"
+  },
+  {
+    "question": "What is the missing letter? _ozy / Chữ cái còn thiếu là gì? _ozy",
+    "options": ["c", "s", "p", "m"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A rug", "A carpet", "A mat", "A floor"],
+    "correctAnswer": "A rug"
+  },
+  {
+    "question": "My father is reading a ____. / Bố tôi đang đọc một ____.",
+    "options": ["newspaper", "book", "magazine", "letter"],
+    "correctAnswer": "newspaper"
+  },
+  {
+    "question": "Are the cushions soft? / Những cái đệm có mềm không?",
+    "options": ["Yes, they are.", "No, they are hard.", "They are cushions.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My home has a ____. / Nhà tôi có một ____.",
+    "options": ["balcony", "garden", "pool", "garage"],
+    "correctAnswer": "balcony"
+  },
+  {
+    "question": "Spell the word: b-a-l-c-o-n-y / Đánh vần từ: b-a-l-c-o-n-y",
+    "options": ["balcony", "balloon", "ballad", "balance"],
+    "correctAnswer": "balcony"
+  },
+  {
+    "question": "I am ____ at home. / Tôi ____ ở nhà.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? bedro_m / Chữ cái còn thiếu là gì? bedro_m",
+    "options": ["o", "a", "i", "e"],
+    "correctAnswer": "o"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A key", "A lock", "A door", "A handle"],
+    "correctAnswer": "A key"
+  },
+  {
+    "question": "My home is my favorite ____. / Nhà của tôi là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
+  },
+  {
+    "question": "Is the door open? / Cửa có mở không?",
+    "options": ["No, it is closed.", "Yes, it is.", "It is a door.", "Hello."],
+    "correctAnswer": "No, it is closed."
+  },
+  {
+    "question": "The family is together at ____. / Gia đình ở cùng nhau tại ____.",
+    "options": ["home", "school", "work", "the park"],
+    "correctAnswer": "home"
+  },
+  {
+    "question": "Spell the word: f-a-m-i-l-y / Đánh vần từ: f-a-m-i-l-y",
+    "options": ["family", "fame", "familiar", "famous"],
+    "correctAnswer": "family"
+  },
+  {
+    "question": "We watch ____ together. / Chúng tôi xem ____ cùng nhau.",
+    "options": ["movies", "news", "cartoons", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "What is the missing letter? movi_",
+    "options": ["e", "s", "t", "p"],
+    "correctAnswer": "e"
+  }
+]
+

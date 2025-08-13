@@ -1,482 +1,482 @@
 [
   {
-    "question": "What is this? It's a toy car.",
-    "options": ["A car", "A doll", "A ball", "A puzzle"],
-    "correctAnswer": "A car"
+    "question": "What is this? It's a type of food from the sea. / Đây là gì? Nó là một loại thức ăn từ biển.",
+    "options": ["Fish", "Chips", "Peas", "Salt"],
+    "correctAnswer": "Fish"
   },
   {
-    "question": "This is my ____. She is beautiful.",
-    "options": ["doll", "car", "robot", "ball"],
-    "correctAnswer": "doll"
+    "question": "These are ____. They are made from potatoes. / Đây là ____. Chúng được làm từ khoai tây.",
+    "options": ["chips", "fish", "peas", "salt"],
+    "correctAnswer": "chips"
   },
   {
-    "question": "You can throw and catch this.",
-    "options": ["A ball", "A doll", "A car", "A teddy bear"],
-    "correctAnswer": "A ball"
+    "question": "You can add ____ to your food to make it salty. / Bạn có thể thêm ____ vào thức ăn để làm nó mặn.",
+    "options": ["salt", "sugar", "vinegar", "pepper"],
+    "correctAnswer": "salt"
   },
   {
-    "question": "This is a soft, brown toy animal.",
-    "options": ["A teddy bear", "A robot", "A puzzle", "A car"],
-    "correctAnswer": "A teddy bear"
+    "question": "This is ____. It's a sour liquid. / Đây là ____. Nó là một chất lỏng chua.",
+    "options": ["vinegar", "water", "milk", "juice"],
+    "correctAnswer": "vinegar"
   },
   {
-    "question": "Spell the word: d-o-l-l",
-    "options": ["doll", "ball", "door", "tall"],
-    "correctAnswer": "doll"
+    "question": "Spell the word: f-i-s-h / Đánh vần từ: f-i-s-h",
+    "options": ["fish", "dish", "wish", "fist"],
+    "correctAnswer": "fish"
   },
   {
-    "question": "This is my ____. It can walk and talk.",
-    "options": ["robot", "doll", "teddy bear", "puzzle"],
-    "correctAnswer": "robot"
+    "question": "These are ____. They are small and green. / Đây là ____. Chúng nhỏ và màu xanh.",
+    "options": ["peas", "beans", "carrots", "potatoes"],
+    "correctAnswer": "peas"
   },
   {
-    "question": "I like to play with my ____.",
-    "options": ["toys", "books", "food", "clothes"],
-    "correctAnswer": "toys"
+    "question": "I would like some ____, please. / Vui lòng cho tôi một ít ____.",
+    "options": ["fish and chips", "books", "toys", "pencils"],
+    "correctAnswer": "fish and chips"
   },
   {
-    "question": "Find the word: c-a-r",
-    "options": ["car", "cat", "can", "cap"],
-    "correctAnswer": "car"
+    "question": "Find the word: c-h-i-p-s / Tìm từ: c-h-i-p-s",
+    "options": ["chips", "ships", "chins", "clips"],
+    "correctAnswer": "chips"
   },
   {
-    "question": "Is this your ball?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a doll.", "I have a car."],
+    "question": "Do you like fish and chips? / Bạn có thích cá và khoai tây chiên không?",
+    "options": ["Yes, I do.", "No, I don't.", "It is a shop.", "I have some salt."],
+    "correctAnswer": "Yes, I do."
+  },
+  {
+    "question": "This is a busy ____. / Đây là một ____ bận rộn.",
+    "options": ["shop", "house", "school", "park"],
+    "correctAnswer": "shop"
+  },
+  {
+    "question": "What can you buy at the fish and chip shop? / Bạn có thể mua gì ở cửa hàng cá và khoai tây chiên?",
+    "options": ["Fish and chips", "Clothes and shoes", "Books and pens", "Toys and games"],
+    "correctAnswer": "Fish and chips"
+  },
+  {
+    "question": "I like to eat ____. / Tôi thích ăn ____.",
+    "options": ["chips", "vegetables", "rice", "bread"],
+    "correctAnswer": "chips"
+  },
+  {
+    "question": "What is the missing letter? fis_",
+    "options": ["h", "t", "d", "k"],
+    "correctAnswer": "h"
+  },
+  {
+    "question": "This is a ____. It's a popular food. / Đây là một ____. Nó là một món ăn phổ biến.",
+    "options": ["meal", "drink", "snack", "dessert"],
+    "correctAnswer": "meal"
+  },
+  {
+    "question": "My mother is buying ____. / Mẹ tôi đang mua ____.",
+    "options": ["dinner", "flowers", "toys", "books"],
+    "correctAnswer": "dinner"
+  },
+  {
+    "question": "Let's eat some ____. / Hãy ăn một ít ____.",
+    "options": ["fish", "clothes", "shoes", "hats"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Spell the word: s-a-l-t / Đánh vần từ: s-a-l-t",
+    "options": ["salt", "sale", "sand", "same"],
+    "correctAnswer": "salt"
+  },
+  {
+    "question": "Is this a big shop? / Đây có phải là một cửa hàng lớn không?",
+    "options": ["No, it is small.", "Yes, it is.", "It is a shop.", "I can see food."],
+    "correctAnswer": "No, it is small."
+  },
+  {
+    "question": "I am waiting for my ____. / Tôi đang đợi ____ của tôi.",
+    "options": ["food", "friend", "bus", "teacher"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "What is the missing letter? _eas / Chữ cái còn thiếu là gì? _eas",
+    "options": ["p", "b", "s", "t"],
+    "correctAnswer": "p"
+  },
+  {
+    "question": "This is a ____. You can drink it. / Đây là một ____. Bạn có thể uống nó.",
+    "options": ["drink", "food", "toy", "pet"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "How much is it? / Nó giá bao nhiêu?",
+    "options": ["It's 30,000 dong.", "I'm fine.", "My name is Mai.", "I like fish."],
+    "correctAnswer": "It's 30,000 dong."
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["menu", "book", "magazine", "newspaper"],
+    "correctAnswer": "menu"
+  },
+  {
+    "question": "Spell the word: v-i-n-e-g-a-r / Đánh vần từ: v-i-n-e-g-a-r",
+    "options": ["vinegar", "village", "vintage", "vine"],
+    "correctAnswer": "vinegar"
+  },
+  {
+    "question": "Is it yummy? / Nó có ngon không?",
+    "options": ["Yes, it is.", "No, it is not.", "It is a shop.", "I can see a table."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is my ____. It has many pieces.",
-    "options": ["puzzle", "robot", "ball", "car"],
-    "correctAnswer": "puzzle"
+    "question": "We can get ____ to take away. / Chúng ta có thể lấy ____ để mang đi.",
+    "options": ["food", "milk", "wool", "honey"],
+    "correctAnswer": "food"
   },
   {
-    "question": "What is this? It's a toy for a baby.",
-    "options": ["A teddy bear", "A car", "A robot", "A puzzle"],
-    "correctAnswer": "A teddy bear"
+    "question": "What is the missing letter? chi_s",
+    "options": ["p", "t", "d", "g"],
+    "correctAnswer": "p"
   },
   {
-    "question": "I have a red ____.",
-    "options": ["car", "doll", "ball", "puzzle"],
-    "correctAnswer": "car"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A fork", "A spoon", "A knife", "Chopsticks"],
+    "correctAnswer": "A fork"
   },
   {
-    "question": "What is the missing letter? bal_",
-    "options": ["l", "k", "t", "d"],
-    "correctAnswer": "l"
+    "question": "This is a ____. You put your food in it. / Đây là một ____. Bạn để thức ăn vào trong đó.",
+    "options": ["box", "bag", "basket", "cart"],
+    "correctAnswer": "box"
   },
   {
-    "question": "This is my ____. It's a girl.",
-    "options": ["doll", "robot", "teddy bear", "car"],
-    "correctAnswer": "doll"
+    "question": "This is ____. It's a hot meal. / Đây là ____. Nó là một bữa ăn nóng.",
+    "options": ["fish and chips", "ice cream", "salad", "fruit"],
+    "correctAnswer": "fish and chips"
   },
   {
-    "question": "This is my ____. It's a boy.",
-    "options": ["robot", "doll", "teddy bear", "puzzle"],
-    "correctAnswer": "robot"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A drink", "A food", "A toy", "A pet"],
+    "correctAnswer": "A drink"
   },
   {
-    "question": "Let's play with the ____.",
-    "options": ["ball", "book", "pen", "chair"],
-    "correctAnswer": "ball"
+    "question": "Find the word: s-h-o-p / Tìm từ: s-h-o-p",
+    "options": ["shop", "ship", "shoe", "show"],
+    "correctAnswer": "shop"
   },
   {
-    "question": "Spell the word: t-o-y",
-    "options": ["toy", "top", "ton", "tom"],
-    "correctAnswer": "toy"
-  },
-  {
-    "question": "Is this your teddy bear?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a robot.", "I can play."],
+    "question": "Is it a busy shop? / Nó có phải là một cửa hàng đông khách không?",
+    "options": ["Yes, it is.", "No, it is quiet.", "I am in the shop.", "I like to shop."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "This is my ____. I can build things with it.",
-    "options": ["puzzle", "ball", "doll", "car"],
-    "correctAnswer": "puzzle"
+    "question": "My ____ is delicious. / ____ của tôi rất ngon.",
+    "options": ["food", "table", "chair", "bowl"],
+    "correctAnswer": "food"
   },
   {
-    "question": "What is the missing letter? ca_",
-    "options": ["r", "t", "p", "n"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "These are my ____.",
-    "options": ["toys", "pets", "books", "friends"],
-    "correctAnswer": "toys"
-  },
-  {
-    "question": "How many cars do you have?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["robot", "teddy bear", "doll", "ball"],
-    "correctAnswer": "robot"
-  },
-  {
-    "question": "Spell the word: b-a-l-l",
-    "options": ["ball", "doll", "fall", "call"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "Is it your puzzle?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my car.", "I can think."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I have a blue ____.",
-    "options": ["robot", "doll", "teddy bear", "car"],
-    "correctAnswer": "robot"
-  },
-  {
-    "question": "What is the missing letter? dol_",
-    "options": ["l", "k", "m", "n"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this?",
-    "options": ["My doll", "My car", "My ball", "My puzzle"],
-    "correctAnswer": "My doll"
-  },
-  {
-    "question": "This is my ____. I can hug it.",
-    "options": ["teddy bear", "robot", "car", "puzzle"],
-    "correctAnswer": "teddy bear"
-  },
-  {
-    "question": "This is my ____. It is fast.",
-    "options": ["car", "doll", "teddy bear", "puzzle"],
-    "correctAnswer": "car"
-  },
-  {
-    "question": "What is this?",
-    "options": ["A ball", "A doll", "A car", "A robot"],
-    "correctAnswer": "A ball"
-  },
-  {
-    "question": "Find the word: r-o-b-o-t",
-    "options": ["robot", "rabbit", "rocket", "robust"],
-    "correctAnswer": "robot"
-  },
-  {
-    "question": "Is it your car?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my doll.", "I am a boy."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is big.",
-    "options": ["ball", "doll", "car", "puzzle"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "What is the missing letter? ro_ot",
-    "options": ["b", "p", "t", "d"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "This is a fun ____.",
-    "options": ["toy", "book", "song", "game"],
-    "correctAnswer": "toy"
-  },
-  {
-    "question": "Spell the word: p-u-z-z-l-e",
-    "options": ["puzzle", "puddle", "purple", "puzzling"],
-    "correctAnswer": "puzzle"
-  },
-  {
-    "question": "Is this your doll?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my teddy bear.", "I can see."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I have many ____.",
-    "options": ["toys", "books", "pets", "friends"],
-    "correctAnswer": "toys"
-  },
-  {
-    "question": "What is the missing letter? _oy",
-    "options": ["t", "b", "j", "s"],
+    "question": "What is the missing letter? sal_",
+    "options": ["t", "n", "m", "p"],
     "correctAnswer": "t"
   },
   {
-    "question": "What is this?",
-    "options": ["A puzzle", "A ball", "A car", "A doll"],
-    "correctAnswer": "A puzzle"
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["meal", "book", "lesson", "game"],
+    "correctAnswer": "meal"
   },
   {
-    "question": "My ____ is small.",
-    "options": ["car", "ball", "robot", "puzzle"],
-    "correctAnswer": "car"
+    "question": "Spell the word: f-o-o-d / Đánh vần từ: f-o-o-d",
+    "options": ["food", "foot", "good", "mood"],
+    "correctAnswer": "food"
   },
   {
-    "question": "Is it your robot?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my teddy bear.", "Hello."],
+    "question": "Is this a big portion? / Đây có phải là một phần ăn lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "I can see food.", "I like food."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "I have a ____ and a doll.",
-    "options": ["ball", "car", "robot", "puzzle"],
-    "correctAnswer": "ball"
+    "question": "The shop has many ____. / Cửa hàng có nhiều ____.",
+    "options": ["customers", "books", "toys", "pets"],
+    "correctAnswer": "customers"
   },
   {
-    "question": "Find the word: t-e-d-d-y",
-    "options": ["teddy", "today", "tidy", "tardy"],
-    "correctAnswer": "teddy"
+    "question": "What is the missing letter? _hop / Chữ cái còn thiếu là gì? _hop",
+    "options": ["s", "c", "p", "t"],
+    "correctAnswer": "s"
   },
   {
-    "question": "This is my ____ bear.",
-    "options": ["teddy", "brown", "big", "small"],
-    "correctAnswer": "teddy"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A counter", "A table", "A chair", "A door"],
+    "correctAnswer": "A counter"
   },
   {
-    "question": "What is the missing letter? ted_y",
-    "options": ["d", "p", "t", "b"],
-    "correctAnswer": "d"
+    "question": "My ____ is on the counter. / ____ của tôi ở trên quầy.",
+    "options": ["order", "book", "bag", "ruler"],
+    "correctAnswer": "order"
   },
   {
-    "question": "Is it your teddy bear?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my robot.", "Goodbye."],
+    "question": "Is the fish fresh? / Cá có tươi không?",
+    "options": ["Yes, it is.", "No, it is not.", "It is fish.", "Hello."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My ____ is soft.",
-    "options": ["teddy bear", "robot", "car", "puzzle"],
-    "correctAnswer": "teddy bear"
+    "question": "I can see fish and ____. / Tôi có thể thấy cá và ____.",
+    "options": ["chips", "house", "car", "book"],
+    "correctAnswer": "chips"
   },
   {
-    "question": "What is this?",
-    "options": ["A robot", "A doll", "A car", "A ball"],
-    "correctAnswer": "A robot"
+    "question": "Find the word: m-e-a-l / Tìm từ: m-e-a-l",
+    "options": ["meal", "mail", "male", "deal"],
+    "correctAnswer": "meal"
   },
   {
-    "question": "How many dolls do you have?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
+    "question": "This is my ____. I order food here. / Đây là ____ của tôi. Tôi gọi đồ ăn ở đây.",
+    "options": ["favorite shop", "homework", "chore", "job"],
+    "correctAnswer": "favorite shop"
   },
   {
-    "question": "How many balls do you have?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
+    "question": "What is the missing letter? orde_",
+    "options": ["r", "k", "p", "t"],
+    "correctAnswer": "r"
   },
   {
-    "question": "I see ____ toy.",
-    "options": ["a", "an", "one", "my"],
+    "question": "Is it a delicious meal? / Nó có phải là một bữa ăn ngon không?",
+    "options": ["Yes, it is.", "No, it is not.", "I like meals.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["lunchtime", "homework", "class", "test"],
+    "correctAnswer": "lunchtime"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A ketchup bottle", "A salt shaker", "A pepper shaker", "A vinegar bottle"],
+    "correctAnswer": "A ketchup bottle"
+  },
+  {
+    "question": "What would you like to eat? / Bạn muốn ăn gì?",
+    "options": ["I'd like some fish and chips, please.", "I am fine.", "My name is Tom.", "I am nine."],
+    "correctAnswer": "I'd like some fish and chips, please."
+  },
+  {
+    "question": "A fish and chip shop is a place to ____. / Một cửa hàng cá và khoai tây chiên là một nơi để ____.",
+    "options": ["eat", "sleep", "play", "study"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "I would like ____ bottle of water. / Tôi muốn ____ chai nước.",
+    "options": ["a", "an", "many", "some"],
     "correctAnswer": "a"
   },
   {
-    "question": "What color is the car?",
-    "options": ["Red", "Blue", "Green", "Yellow"],
+    "question": "What colour is the ketchup? / Tương cà màu gì?",
+    "options": ["Red", "White", "Black", "Pink"],
     "correctAnswer": "Red"
   },
   {
-    "question": "What color is the ball?",
-    "options": ["Blue", "Red", "Green", "Yellow"],
-    "correctAnswer": "Blue"
+    "question": "What is on the menu? / Có gì trên thực đơn?",
+    "options": ["Fish, chips, and peas", "Bed and pillow", "Sofa and table", "Chair and lamp"],
+    "correctAnswer": "Fish, chips, and peas"
   },
   {
-    "question": "The doll is ____.",
-    "options": ["pretty", "ugly", "big", "small"],
-    "correctAnswer": "pretty"
+    "question": "The chips are ____. / Khoai tây chiên thì ____.",
+    "options": ["hot and crispy", "cold", "small", "thin"],
+    "correctAnswer": "hot and crispy"
   },
   {
-    "question": "The robot is ____.",
-    "options": ["cool", "hot", "warm", "cold"],
-    "correctAnswer": "cool"
+    "question": "The shop is ____. / Cửa hàng thì ____.",
+    "options": ["clean", "dirty", "sad", "bad"],
+    "correctAnswer": "clean"
   },
   {
-    "question": "Is your toy new or old?",
-    "options": ["New", "Old", "Yes", "No"],
-    "correctAnswer": "New"
-  },
-  {
-    "question": "My toy is ____.",
-    "options": ["fun", "sad", "angry", "tired"],
-    "correctAnswer": "fun"
-  },
-  {
-    "question": "What is the missing letter? fu_",
-    "options": ["n", "t", "d", "k"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["car", "doll", "ball", "puzzle"],
-    "correctAnswer": "car"
-  },
-  {
-    "question": "I love my ____.",
-    "options": ["doll", "car", "ball", "robot"],
-    "correctAnswer": "doll"
-  },
-  {
-    "question": "Is it your ball?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a car.", "Hello."],
+    "question": "Is the shop open? / Cửa hàng có mở cửa không?",
+    "options": ["Yes, it is.", "No, it is closed.", "Yes", "No"],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "Let's play with our ____.",
-    "options": ["toys", "friends", "pets", "books"],
-    "correctAnswer": "toys"
+    "question": "My lunchtime is ____. / Giờ ăn trưa của tôi thì ____.",
+    "options": ["yummy", "noisy", "busy", "crowded"],
+    "correctAnswer": "yummy"
   },
   {
-    "question": "Spell the word: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
+    "question": "What is the missing letter? yumm_",
+    "options": ["y", "t", "d", "k"],
+    "correctAnswer": "y"
   },
   {
-    "question": "I have ____ new toy.",
+    "question": "This is ____. / Đây là ____.",
+    "options": ["fish", "chicken", "pork", "beef"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "I love ____. / Tôi yêu ____.",
+    "options": ["food", "dog", "cat", "bird"],
+    "correctAnswer": "food"
+  },
+  {
+    "question": "Is the water cold? / Nước có lạnh không?",
+    "options": ["Yes, it is.", "No, it is warm.", "It is water.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's eat at the ____. / Hãy ăn tại ____.",
+    "options": ["fish and chip shop", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "fish and chip shop"
+  },
+  {
+    "question": "Spell the word: e-a-t / Đánh vần từ: e-a-t",
+    "options": ["eat", "tea", "ate", "neat"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "I have ____ new fork. / Tôi có ____ cái dĩa mới.",
     "options": ["a", "an", "one", "two"],
     "correctAnswer": "a"
   },
   {
-    "question": "My favorite toy is a ____.",
-    "options": ["robot", "doll", "car", "ball"],
-    "correctAnswer": "robot"
+    "question": "My favorite drink is ____. / Đồ uống yêu thích của tôi là ____.",
+    "options": ["lemonade", "milk", "water", "tea"],
+    "correctAnswer": "lemonade"
   },
   {
-    "question": "What is the missing letter? favo_ite",
-    "options": ["r", "l", "n", "m"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is my ____.",
-    "options": ["teddy bear", "robot", "car", "puzzle"],
-    "correctAnswer": "teddy bear"
-  },
-  {
-    "question": "We can share our ____.",
-    "options": ["toys", "food", "secrets", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Is it a toy box?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a toy car.", "I like boxes."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: b-o-x",
-    "options": ["box", "fox", "boy", "bus"],
-    "correctAnswer": "box"
-  },
-  {
-    "question": "I put my toys in the ____.",
-    "options": ["box", "bag", "car", "house"],
-    "correctAnswer": "box"
-  },
-  {
-    "question": "The toy is in the ____.",
-    "options": ["box", "school", "shop", "park"],
-    "correctAnswer": "box"
-  },
-  {
-    "question": "What is the missing letter? bo_",
-    "options": ["x", "y", "t", "g"],
-    "correctAnswer": "x"
-  },
-  {
-    "question": "Who is this?",
-    "options": ["A doll", "A robot", "A teddy bear", "A boy"],
-    "correctAnswer": "A doll"
-  },
-  {
-    "question": "My ____ is pretty.",
-    "options": ["doll", "car", "robot", "ball"],
-    "correctAnswer": "doll"
-  },
-  {
-    "question": "Is it your robot?",
-    "options": ["No, it is my car.", "Yes, it is.", "She is my doll.", "I have a robot."],
-    "correctAnswer": "No, it is my car."
-  },
-  {
-    "question": "My brother likes to play with his ____.",
-    "options": ["car", "doll", "puzzle", "teddy bear"],
-    "correctAnswer": "car"
-  },
-  {
-    "question": "Spell the word: n-e-w",
-    "options": ["new", "now", "net", "sew"],
-    "correctAnswer": "new"
-  },
-  {
-    "question": "This is a ____ toy.",
-    "options": ["new", "old", "big", "small"],
-    "correctAnswer": "new"
-  },
-  {
-    "question": "What is the missing letter? puzzl_",
-    "options": ["e", "a", "o", "i"],
+    "question": "What is the missing letter": "lemonad_",
+    "options": ["e", "a", "i", "o"],
     "correctAnswer": "e"
   },
   {
-    "question": "What is this?",
-    "options": ["A car", "A truck", "A bus", "A plane"],
-    "correctAnswer": "A car"
+    "question": "This is ____. It's a vegetable. / Đây là ____. Nó là một loại rau.",
+    "options": ["a potato", "an apple", "a banana", "an orange"],
+    "correctAnswer": "a potato"
   },
   {
-    "question": "My ____ is fast.",
-    "options": ["car", "teddy bear", "doll", "puzzle"],
-    "correctAnswer": "car"
+    "question": "We should say '____' after eating. / Chúng ta nên nói '____' sau khi ăn.",
+    "options": ["Thank you", "Hello", "Goodbye", "Sorry"],
+    "correctAnswer": "Thank you"
   },
   {
-    "question": "Is she your doll?",
-    "options": ["Yes, she is.", "No, she isn't.", "He is my robot.", "I have a doll."],
-    "correctAnswer": "Yes, she is."
+    "question": "Is it a wooden fork? / Nó có phải là một cái dĩa gỗ không?",
+    "options": ["No, it is plastic.", "Yes, it is.", "I like forks.", "The fork is small."],
+    "correctAnswer": "No, it is plastic."
   },
   {
-    "question": "My sister likes to play with her ____.",
-    "options": ["doll", "car", "robot", "ball"],
-    "correctAnswer": "doll"
+    "question": "Spell the word: m-e-a-l / Đánh vần từ: m-e-a-l",
+    "options": ["meal", "mail", "male", "deal"],
+    "correctAnswer": "meal"
   },
   {
-    "question": "Spell the word: o-l-d",
-    "options": ["old", "odd", "owl", "oil"],
-    "correctAnswer": "old"
+    "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
+    "options": ["takeaway box", "bed", "sofa", "desk"],
+    "correctAnswer": "takeaway box"
   },
   {
-    "question": "I am ____ with my toys.",
+    "question": "The food is in the ____. / Thức ăn ở trong ____.",
+    "options": ["box", "chair", "floor", "wall"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "What is the missing letter": "bo_",
+    "options": ["x", "p", "t", "d"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A knife", "A spoon", "A fork", "A plate"],
+    "correctAnswer": "A knife"
+  },
+  {
+    "question": "My ____ is full of delicious food. / ____ của tôi đầy những món ăn ngon.",
+    "options": ["box", "desk", "bag", "plate"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "Is it a picture of a fish and chip shop? / Nó có phải là một bức tranh về một cửa hàng cá và khoai tây chiên không?",
+    "options": ["Yes, it is.", "No, it is a pet shop.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to eat ____. / Bạn tôi thích ăn ____.",
+    "options": ["peas", "fish", "pizza", "juice"],
+    "correctAnswer": "peas"
+  },
+  {
+    "question": "Spell the word: p-e-a-s / Đánh vần từ: p-e-a-s",
+    "options": ["peas", "please", "peace", "pass"],
+    "correctAnswer": "peas"
+  },
+  {
+    "question": "This is a ____ day for fish and chips. / Đây là một ngày ____ cho món cá và khoai tây chiên.",
+    "options": ["perfect", "rainy", "cloudy", "windy"],
+    "correctAnswer": "perfect"
+  },
+  {
+    "question": "What is the missing letter": "per_ect / Chữ cái còn thiếu là gì? per_ect",
+    "options": ["f", "p", "s", "m"],
+    "correctAnswer": "f"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A person eating", "A chef", "A waiter", "A customer"],
+    "correctAnswer": "A person eating"
+  },
+  {
+    "question": "My father is paying the ____. / Bố tôi đang thanh toán ____.",
+    "options": ["bill", "menu", "waiter", "customer"],
+    "correctAnswer": "bill"
+  },
+  {
+    "question": "Are the chairs comfortable? / Những cái ghế có thoải mái không?",
+    "options": ["Yes, they are.", "No, they are hard.", "They are chairs.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My fish and chip shop has ____. / Cửa hàng cá và khoai tây chiên của tôi có ____.",
+    "options": ["tasty food", "small tables", "round tables", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Spell the word: d-i-s-h / Đánh vần từ: d-i-s-h",
+    "options": ["dish", "fish", "wish", "dash"],
+    "correctAnswer": "dish"
+  },
+  {
+    "question": "I am ____ at the fish and chip shop. / Tôi ____ ở cửa hàng cá và khoai tây chiên.",
     "options": ["happy", "sad", "bored", "angry"],
     "correctAnswer": "happy"
   },
   {
-    "question": "What is the missing letter? b_ll",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
+    "question": "What is the missing letter": "dinin_",
+    "options": ["g", "s", "t", "p"],
+    "correctAnswer": "g"
   },
   {
-    "question": "What is this?",
-    "options": ["A toy box", "A school bag", "A lunch box", "A pencil case"],
-    "correctAnswer": "A toy box"
+    "question": "What is this? / Đây là gì?",
+    "options": ["A salt shaker", "A sugar bowl", "A pepper shaker", "A ketchup bottle"],
+    "correctAnswer": "A salt shaker"
   },
   {
-    "question": "My toys are in the ____.",
-    "options": ["box", "car", "bed", "chair"],
-    "correctAnswer": "box"
+    "question": "My fish and chip shop is my favorite ____. / Cửa hàng cá và khoai tây chiên là ____ yêu thích của tôi.",
+    "options": ["place to eat", "food", "colour", "toy"],
+    "correctAnswer": "place to eat"
   },
   {
-    "question": "Is it your teddy bear?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is my doll.", "Hello."],
+    "question": "Is the food hot? / Thức ăn có nóng không?",
+    "options": ["Yes, it is.", "No, it is cold.", "It is food.", "Hello."],
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "My teddy bear is ____.",
-    "options": ["brown", "black", "white", "pink"],
-    "correctAnswer": "brown"
+    "question": "The family eats ____ together. / Gia đình ăn ____ cùng nhau.",
+    "options": ["every day", "sometimes", "never", "on weekends"],
+    "correctAnswer": "every day"
   },
   {
-    "question": "Spell the word: b-r-o-w-n",
-    "options": ["brown", "clown", "crown", "drown"],
-    "correctAnswer": "brown"
+    "question": "Spell the word: f-a-m-i-l-y / Đánh vần từ: f-a-m-i-l-y",
+    "options": ["family", "fame", "familiar", "famous"],
+    "correctAnswer": "family"
   },
   {
-    "question": "We play with ____ in our free time.",
-    "options": ["toys", "books", "pencils", "chairs"],
-    "correctAnswer": "toys"
+    "question": "We use ____ to eat. / Chúng tôi dùng ____ để ăn.",
+    "options": ["cutlery", "toys", "books", "pencils"],
+    "correctAnswer": "cutlery"
   },
   {
-    "question": "What is the missing letter? tedd_ bear",
-    "options": ["y", "i", "a", "e"],
+    "question": "What is the missing letter": "cutler_",
+    "options": ["y", "s", "t", "p"],
     "correctAnswer": "y"
   }
 ]

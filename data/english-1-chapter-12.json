@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's a large area of water. / Đây là gì? Nó là một vùng nước rộng lớn.",
+    "options": ["A lake", "A river", "A sea", "A pond"],
+    "correctAnswer": "A lake"
+  },
+  {
+    "question": "This is a ____. It floats on the water. / Đây là một ____. Nó nổi trên mặt nước.",
+    "options": ["boat", "car", "bus", "plane"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "You can see ____ swimming in the lake. / Bạn có thể thấy ____ đang bơi trong hồ.",
+    "options": ["fish", "birds", "cats", "dogs"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "This is a ____. It says 'quack quack'. / Đây là một ____. Nó kêu 'quạc quạc'.",
+    "options": ["duck", "dog", "cat", "bird"],
+    "correctAnswer": "duck"
+  },
+  {
+    "question": "Spell the word: l-a-k-e / Đánh vần từ: l-a-k-e",
+    "options": ["lake", "like", "late", "lane"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "This is a ____. It's green and grows near the water. / Đây là một ____. Nó màu xanh và mọc gần nước.",
+    "options": ["tree", "flower", "rock", "house"],
+    "correctAnswer": "tree"
+  },
+  {
+    "question": "I like to ____ in the lake. / Tôi thích ____ trong hồ.",
+    "options": ["swim", "run", "jump", "walk"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Find the word: b-o-a-t / Tìm từ: b-o-a-t",
+    "options": ["boat", "goat", "coat", "boot"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "Is this a big lake? / Đây có phải là một cái hồ lớn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a boat.", "I can see a fish."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a small ____. / Đây là một ____ nhỏ.",
+    "options": ["boat", "lake", "tree", "duck"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "What can you do at the lake? / Bạn có thể làm gì ở hồ?",
+    "options": ["I can go fishing.", "I can cook.", "I can sleep.", "I can study."],
+    "correctAnswer": "I can go fishing."
+  },
+  {
+    "question": "I like to see the ____ on the lake. / Tôi thích nhìn ____ trên hồ.",
+    "options": ["ducks", "dogs", "cats", "birds"],
+    "correctAnswer": "ducks"
+  },
+  {
+    "question": "What is the missing letter? lak_",
+    "options": ["e", "t", "p", "b"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is a ____. It's a beautiful place. / Đây là một ____. Đó là một nơi đẹp.",
+    "options": ["lake", "school", "city", "shop"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "My family is at the ____. / Gia đình tôi đang ở ____.",
+    "options": ["lake", "farm", "beach", "park"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "Let's go for a ____ ride. / Hãy đi một chuyến ____.",
+    "options": ["boat", "bike", "car", "train"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "Spell the word: f-i-s-h / Đánh vần từ: f-i-s-h",
+    "options": ["fish", "dish", "wish", "fist"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "Is this a big fish? / Đây có phải là một con cá lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a fish.", "I can see a lake."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I am ____ with my father. / Tôi đang ____ với bố tôi.",
+    "options": ["fishing", "playing", "reading", "writing"],
+    "correctAnswer": "fishing"
+  },
+  {
+    "question": "What is the missing letter? _uck / Chữ cái còn thiếu là gì? _uck",
+    "options": ["d", "l", "b", "tr"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
+    "options": ["ducks", "trees", "leaves", "benches"],
+    "correctAnswer": "ducks"
+  },
+  {
+    "question": "How many fish are in the lake? / Có bao nhiêu con cá trong hồ?",
+    "options": ["Many", "One", "Two", "Three"],
+    "correctAnswer": "Many"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["frog", "fish", "bird", "cat"],
+    "correctAnswer": "frog"
+  },
+  {
+    "question": "Spell the word: s-w-i-m / Đánh vần từ: s-w-i-m",
+    "options": ["swim", "slim", "swam", "swing"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Is it a sunny day? / Hôm nay có phải là một ngày nắng không?",
+    "options": ["Yes, it is.", "No, it is rainy.", "It is a lake.", "I can see a tree."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We can see many ____ at the lake. / Chúng ta có thể thấy nhiều ____ ở hồ.",
+    "options": ["people", "cars", "buildings", "shops"],
+    "correctAnswer": "people"
+  },
+  {
+    "question": "What is the missing letter? boa_",
+    "options": ["t", "d", "g", "p"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A fishing rod", "A stick", "A pole", "A bat"],
+    "correctAnswer": "A fishing rod"
+  },
+  {
+    "question": "This is a ____. You can row it. / Đây là một ____. Bạn có thể chèo nó.",
+    "options": ["boat", "car", "bike", "scooter"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "This is ____. It's a peaceful place. / Đây là ____. Đó là một nơi yên bình.",
+    "options": ["the lake", "the school", "the library", "the gym"],
+    "correctAnswer": "the lake"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A duck", "A chicken", "A goose", "A swan"],
+    "correctAnswer": "A duck"
+  },
+  {
+    "question": "Find the word: w-a-t-e-r / Tìm từ: w-a-t-e-r",
+    "options": ["water", "waiter", "later", "watch"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "Is it a blue boat? / Nó có phải là một chiếc thuyền màu xanh không?",
+    "options": ["Yes, it is.", "No, it is white.", "I am at the lake.", "I like boats."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
+    "options": ["lake", "house", "car", "bag"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "What is the missing letter? fis_",
+    "options": ["h", "n", "m", "p"],
+    "correctAnswer": "h"
+  },
+  {
+    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+    "options": ["day", "book", "lesson", "game"],
+    "correctAnswer": "day"
+  },
+  {
+    "question": "Spell the word: t-r-e-e / Đánh vần từ: t-r-e-e",
+    "options": ["tree", "three", "free", "true"],
+    "correctAnswer": "tree"
+  },
+  {
+    "question": "Is this a tall tree? / Đây có phải là một cái cây cao không?",
+    "options": ["Yes, it is.", "No, it is short.", "I can see a tree.", "I like trees."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The lake has a big ____. / Cái hồ có một ____ lớn.",
+    "options": ["tree", "house", "school", "shop"],
+    "correctAnswer": "tree"
+  },
+  {
+    "question": "What is the missing letter? _ake / Chữ cái còn thiếu là gì? _ake",
+    "options": ["l", "b", "t", "r"],
+    "correctAnswer": "l"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A picnic", "A party", "A meeting", "A class"],
+    "correctAnswer": "A picnic"
+  },
+  {
+    "question": "My ____ is fun. / ____ của tôi rất vui.",
+    "options": ["trip to the lake", "house", "room", "bag"],
+    "correctAnswer": "trip to the lake"
+  },
+  {
+    "question": "Is the water clean? / Nước có sạch không?",
+    "options": ["Yes, it is.", "No, it is dirty.", "It is water.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I can see a boat and some ____. / Tôi có thể thấy một chiếc thuyền và một vài ____.",
+    "options": ["ducks", "houses", "cars", "books"],
+    "correctAnswer": "ducks"
+  },
+  {
+    "question": "Find the word: f-r-o-g / Tìm từ: f-r-o-g",
+    "options": ["frog", "from", "for", "fog"],
+    "correctAnswer": "frog"
+  },
+  {
+    "question": "This is my ____. I can relax here. / Đây là ____ của tôi. Tôi có thể thư giãn ở đây.",
+    "options": ["favorite spot", "bedroom", "school", "office"],
+    "correctAnswer": "favorite spot"
+  },
+  {
+    "question": "What is the missing letter? swi_",
+    "options": ["m", "k", "p", "t"],
+    "correctAnswer": "m"
+  },
+  {
+    "question": "Is it a beautiful lake? / Nó có phải là một cái hồ đẹp không?",
+    "options": ["Yes, it is.", "No, it is ugly.", "I like lakes.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
+    "options": ["adventure", "homework", "class", "test"],
+    "correctAnswer": "adventure"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A fishing net", "A basket", "A box", "A bag"],
+    "correctAnswer": "A fishing net"
+  },
+  {
+    "question": "How many ducks can you see? / Bạn có thể thấy bao nhiêu con vịt?",
+    "options": ["Five", "One", "Two", "Three"],
+    "correctAnswer": "Five"
+  },
+  {
+    "question": "A lake is a place with ____. / Một cái hồ là một nơi có ____.",
+    "options": ["water", "sand", "buildings", "roads"],
+    "correctAnswer": "water"
+  },
+  {
+    "question": "I see ____ big fish. / Tôi thấy ____ con cá lớn.",
+    "options": ["a", "an", "many", "some"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What colour is the water? / Nước màu gì?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "What colour is the duck? / Con vịt màu gì?",
+    "options": ["Yellow", "White", "Black", "Pink"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "The tree is ____. / Cái cây thì ____.",
+    "options": ["tall and green", "small", "short", "thin"],
+    "correctAnswer": "tall and green"
+  },
+  {
+    "question": "The fish are ____. / Những con cá thì ____.",
+    "options": ["swimming", "flying", "sad", "bad"],
+    "correctAnswer": "swimming"
+  },
+  {
+    "question": "Is the lake quiet? / Cái hồ có yên tĩnh không?",
+    "options": ["Yes, it is.", "No, it is noisy.", "Yes", "No"],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My day at the lake is ____. / Ngày của tôi ở hồ thì ____.",
+    "options": ["relaxing", "noisy", "busy", "crowded"],
+    "correctAnswer": "relaxing"
+  },
+  {
+    "question": "What is the missing letter? rela_ing / Chữ cái còn thiếu là gì? rela_ing",
+    "options": ["x", "t", "d", "k"],
+    "correctAnswer": "x"
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["boat", "car", "bus", "train"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "I love the ____. / Tôi yêu ____.",
+    "options": ["lake", "dog", "cat", "bird"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "Is the boat moving? / Chiếc thuyền có đang di chuyển không?",
+    "options": ["Yes, it is.", "No, it is still.", "It is a boat.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's go to the ____. / Hãy đi đến ____.",
+    "options": ["lake", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
+    "options": ["play", "plan", "plus", "plum"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "I have ____ new fishing rod. / Tôi có ____ cái cần câu mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite place is the ____. / Nơi yêu thích của tôi là ____.",
+    "options": ["lake", "school", "library", "supermarket"],
+    "correctAnswer": "lake"
+  },
+  {
+    "question": "What is the missing letter? lak_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "This is ____. It has pretty petals. / Đây là ____. Nó có những cánh hoa xinh đẹp.",
+    "options": ["a water lily", "a tree", "a leaf", "grass"],
+    "correctAnswer": "a water lily"
+  },
+  {
+    "question": "We should keep the lake ____. / Chúng ta nên giữ cho hồ ____.",
+    "options": ["clean", "dirty", "messy", "all are wrong"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "Is it a wooden boat? / Nó có phải là một chiếc thuyền gỗ không?",
+    "options": ["Yes, it is.", "No, it is plastic.", "I like boats.", "The boat is small."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
+    "options": ["clean", "clear", "clan", "cleft"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "I help my dad row the ____. / Tôi giúp bố tôi chèo ____.",
+    "options": ["boat", "house", "road", "path"],
+    "correctAnswer": "boat"
+  },
+  {
+    "question": "The lake has many ____. / Cái hồ có nhiều ____.",
+    "options": ["fish", "beds", "sofas", "TVs"],
+    "correctAnswer": "fish"
+  },
+  {
+    "question": "What is the missing letter? fis_",
+    "options": ["h", "p", "t", "d"],
+    "correctAnswer": "h"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A picnic basket", "A school bag", "A handbag", "A suitcase"],
+    "correctAnswer": "A picnic basket"
+  },
+  {
+    "question": "My ____ is full of green trees. / ____ của tôi đầy cây xanh.",
+    "options": ["park by the lake", "house", "room", "bag"],
+    "correctAnswer": "park by the lake"
+  },
+  {
+    "question": "Is it a picture of a lake? / Nó có phải là một bức tranh về một cái hồ không?",
+    "options": ["Yes, it is.", "No, it is a river.", "I see a picture.", "The picture is nice."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My friend likes to ____. / Bạn tôi thích ____.",
+    "options": ["swim", "run", "jump", "skip"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Spell the word: j-u-m-p / Đánh vần từ: j-u-m-p",
+    "options": ["jump", "pump", "lump", "dump"],
+    "correctAnswer": "jump"
+  },
+  {
+    "question": "This is a ____ day to go to the lake. / Đây là một ngày ____ để đi đến hồ.",
+    "options": ["beautiful", "rainy", "cloudy", "windy"],
+    "correctAnswer": "beautiful"
+  },
+  {
+    "question": "What is the missing letter? _eautiful / Chữ cái còn thiếu là gì? _eautiful",
+    "options": ["b", "f", "r", "m"],
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A cloud", "The sun", "The moon", "A star"],
+    "correctAnswer": "A cloud"
+  },
+  {
+    "question": "My brother is ____. / Anh trai tôi đang ____.",
+    "options": ["fishing", "swimming", "running", "jumping"],
+    "correctAnswer": "fishing"
+  },
+  {
+    "question": "Are the ducks yellow? / Những con vịt màu vàng phải không?",
+    "options": ["Yes, they are.", "No, they are white.", "They are ducks.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My family is having a ____. / Gia đình tôi đang có một ____.",
+    "options": ["picnic", "party", "meeting", "class"],
+    "correctAnswer": "picnic"
+  },
+  {
+    "question": "Spell the word: p-i-c-n-i-c / Đánh vần từ: p-i-c-n-i-c",
+    "options": ["picnic", "pick", "picture", "clinic"],
+    "correctAnswer": "picnic"
+  },
+  {
+    "question": "I am ____ at the lake. / Tôi ____ ở hồ.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? boa_",
+    "options": ["t", "d", "p", "k"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A fishing line", "A rope", "A string", "A thread"],
+    "correctAnswer": "A fishing line"
+  },
+  {
+    "question": "The lake is my favorite ____. / Cái hồ là ____ yêu thích của tôi.",
+    "options": ["place", "food", "colour", "toy"],
+    "correctAnswer": "place"
+  },
+  {
+    "question": "Is the water cold? / Nước có lạnh không?",
+    "options": ["Yes, it is.", "No, it is warm.", "It is water.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The tree has a ____ on it. / Cái cây có một ____ trên đó.",
+    "options": ["bird's nest", "cat", "dog", "ball"],
+    "correctAnswer": "bird's nest"
+  },
+  {
+    "question": "Spell the word: b-i-r-d / Đánh vần từ: b-i-r-d",
+    "options": ["bird", "beard", "board", "bind"],
+    "correctAnswer": "bird"
+  },
+  {
+    "question": "We play ____ by the lake. / Chúng tôi chơi ____ bên hồ.",
+    "options": ["games", "chess", "video games", "cards"],
+    "correctAnswer": "games"
+  },
+  {
+    "question": "What is the missing letter? gam_",
+    "options": ["e", "a", "i", "o"],
+    "correctAnswer": "e"
+  }
+]
+

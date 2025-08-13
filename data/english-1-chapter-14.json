@@ -1,8 +1,8 @@
 [
   {
-    "question": "What is this place? You can buy things here. / Đây là nơi nào? Bạn có thể mua đồ ở đây.",
-    "options": ["A shop", "A school", "A park", "A house"],
-    "correctAnswer": "A shop"
+    "question": "What is this place? You can buy toys here. / Đây là nơi nào? Bạn có thể mua đồ chơi ở đây.",
+    "options": ["A toy shop", "A school", "A park", "A house"],
+    "correctAnswer": "A toy shop"
   },
   {
     "question": "This is a ____. It's a toy girl. / Đây là một ____. Nó là một cô gái đồ chơi.",
@@ -15,24 +15,24 @@
     "correctAnswer": "car"
   },
   {
-    "question": "This is ____. It's sweet to eat. / Đây là ____. Ăn nó rất ngọt.",
-    "options": ["candy", "bread", "rice", "fish"],
-    "correctAnswer": "candy"
+    "question": "This is a ____. It can walk and talk. / Đây là một ____. Nó có thể đi và nói.",
+    "options": ["robot", "doll", "teddy bear", "puzzle"],
+    "correctAnswer": "robot"
   },
   {
-    "question": "Spell the word: s-h-o-p / Đánh vần từ: s-h-o-p",
-    "options": ["shop", "ship", "shoe", "show"],
-    "correctAnswer": "shop"
+    "question": "Spell the word: t-o-y / Đánh vần từ: t-o-y",
+    "options": ["toy", "top", "ton", "tom"],
+    "correctAnswer": "toy"
   },
   {
-    "question": "This is a ____. You eat it on your birthday. / Đây là một ____. Bạn ăn nó vào ngày sinh nhật.",
-    "options": ["cake", "candy", "biscuit", "chocolate"],
-    "correctAnswer": "cake"
+    "question": "This is a ____. It's a soft animal toy. / Đây là một ____. Nó là một món đồ chơi động vật mềm mại.",
+    "options": ["teddy bear", "doll", "robot", "car"],
+    "correctAnswer": "teddy bear"
   },
   {
-    "question": "I want to ____ a new toy. / Tôi muốn ____ một món đồ chơi mới.",
-    "options": ["buy", "sell", "eat", "drink"],
-    "correctAnswer": "buy"
+    "question": "I want to buy a new ____. / Tôi muốn mua một ____ mới.",
+    "options": ["toy", "book", "pen", "chair"],
+    "correctAnswer": "toy"
   },
   {
     "question": "Find the word: d-o-l-l / Tìm từ: d-o-l-l",
@@ -50,14 +50,14 @@
     "correctAnswer": "car"
   },
   {
-    "question": "What can you do in a shop? / Bạn có thể làm gì trong một cửa hàng?",
-    "options": ["I can buy things.", "I can swim.", "I can sleep.", "I can study."],
-    "correctAnswer": "I can buy things."
+    "question": "What can you do in a toy shop? / Bạn có thể làm gì trong một cửa hàng đồ chơi?",
+    "options": ["I can buy toys.", "I can swim.", "I can sleep.", "I can study."],
+    "correctAnswer": "I can buy toys."
   },
   {
-    "question": "I like to eat ____. / Tôi thích ăn ____.",
-    "options": ["cake", "toys", "books", "pencils"],
-    "correctAnswer": "cake"
+    "question": "I like to play with my ____. / Tôi thích chơi với ____ của tôi.",
+    "options": ["toys", "books", "pencils", "chairs"],
+    "correctAnswer": "toys"
   },
   {
     "question": "What is the missing letter? sho_",
@@ -65,14 +65,14 @@
     "correctAnswer": "p"
   },
   {
-    "question": "This is a ____. It's a nice place. / Đây là một ____. Đó là một nơi tốt đẹp.",
+    "question": "This is a ____. It's a fun place. / Đây là một ____. Đó là một nơi vui vẻ.",
     "options": ["shop", "school", "city", "farm"],
     "correctAnswer": "shop"
   },
   {
     "question": "My mother is in the ____. / Mẹ tôi đang ở trong ____.",
-    "options": ["shop", "kitchen", "bedroom", "garden"],
-    "correctAnswer": "shop"
+    "options": ["toy shop", "kitchen", "bedroom", "garden"],
+    "correctAnswer": "toy shop"
   },
   {
     "question": "Let's buy a ____. / Hãy mua một ____.",
@@ -80,9 +80,9 @@
     "correctAnswer": "present"
   },
   {
-    "question": "Spell the word: c-a-k-e / Đánh vần từ: c-a-k-e",
-    "options": ["cake", "case", "cane", "cape"],
-    "correctAnswer": "cake"
+    "question": "Spell the word: c-a-r / Đánh vần từ: c-a-r",
+    "options": ["car", "cat", "can", "cap"],
+    "correctAnswer": "car"
   },
   {
     "question": "Is this a big shop? / Đây có phải là một cửa hàng lớn không?",
@@ -91,8 +91,8 @@
   },
   {
     "question": "I am looking for a ____. / Tôi đang tìm một ____.",
-    "options": ["toy", "book", "pen", "chair"],
-    "correctAnswer": "toy"
+    "options": ["robot", "book", "pen", "chair"],
+    "correctAnswer": "robot"
   },
   {
     "question": "What is the missing letter? _oll / Chữ cái còn thiếu là gì? _oll",
@@ -105,14 +105,14 @@
     "correctAnswer": "ball"
   },
   {
-    "question": "How much is the doll? / Con búp bê giá bao nhiêu?",
-    "options": ["It's 50,000 dong.", "It's a doll.", "It's pretty.", "I want to buy it."],
+    "question": "How much is the robot? / Con rô-bốt giá bao nhiêu?",
+    "options": ["It's 50,000 dong.", "It's a robot.", "It's cool.", "I want to buy it."],
     "correctAnswer": "It's 50,000 dong."
   },
   {
     "question": "This is a ____. / Đây là một ____.",
-    "options": ["biscuit", "cake", "candy", "chocolate"],
-    "correctAnswer": "biscuit"
+    "options": ["puzzle", "cake", "candy", "chocolate"],
+    "correctAnswer": "puzzle"
   },
   {
     "question": "Spell the word: b-u-y / Đánh vần từ: b-u-y",
@@ -155,13 +155,13 @@
     "correctAnswer": "A toy"
   },
   {
-    "question": "Find the word: c-a-n-d-y / Tìm từ: c-a-n-d-y",
-    "options": ["candy", "handy", "sandy", "dandy"],
-    "correctAnswer": "candy"
+    "question": "Find the word: r-o-b-o-t / Tìm từ: r-o-b-o-t",
+    "options": ["robot", "rabbit", "rocket", "robust"],
+    "correctAnswer": "robot"
   },
   {
-    "question": "Is it a sweet cake? / Nó có phải là một cái bánh ngọt không?",
-    "options": ["Yes, it is.", "No, it is sour.", "I am in the shop.", "I like cakes."],
+    "question": "Is it a new toy? / Nó có phải là một món đồ chơi mới không?",
+    "options": ["Yes, it is.", "No, it is old.", "I am in the shop.", "I like toys."],
     "correctAnswer": "Yes, it is."
   },
   {
@@ -170,9 +170,9 @@
     "correctAnswer": "shopping bag"
   },
   {
-    "question": "What is the missing letter? ca_dy / Chữ cái còn thiếu là gì? ca_dy",
-    "options": ["n", "m", "p", "t"],
-    "correctAnswer": "n"
+    "question": "What is the missing letter? ca_",
+    "options": ["r", "t", "p", "n"],
+    "correctAnswer": "r"
   },
   {
     "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
@@ -190,19 +190,19 @@
     "correctAnswer": "Yes, it is."
   },
   {
-    "question": "The shop has many ____. / Cửa hàng có nhiều ____.",
-    "options": ["items", "rooms", "floors", "doors"],
-    "correctAnswer": "items"
+    "question": "The toy shop has many ____. / Cửa hàng đồ chơi có nhiều ____.",
+    "options": ["toys", "books", "pets", "clothes"],
+    "correctAnswer": "toys"
   },
   {
-    "question": "What is the missing letter? _tem / Chữ cái còn thiếu là gì? _tem",
-    "options": ["i", "a", "e", "o"],
-    "correctAnswer": "i"
+    "question": "What is the missing letter? _oy / Chữ cái còn thiếu là gì? _oy",
+    "options": ["t", "b", "p", "c"],
+    "correctAnswer": "t"
   },
   {
     "question": "What is this? / Đây là gì?",
-    "options": ["A robot", "A doll", "A car", "A ball"],
-    "correctAnswer": "A robot"
+    "options": ["A teddy bear", "A doll", "A robot", "A car"],
+    "correctAnswer": "A teddy bear"
   },
   {
     "question": "My ____ is new. / ____ của tôi mới.",
@@ -255,14 +255,14 @@
     "correctAnswer": "I'd like a toy car, please."
   },
   {
-    "question": "A shop is a place to ____. / Một cửa hàng là một nơi để ____.",
-    "options": ["buy things", "sleep", "play", "study"],
-    "correctAnswer": "buy things"
+    "question": "A toy shop is a place to ____. / Một cửa hàng đồ chơi là một nơi để ____.",
+    "options": ["buy toys", "sleep", "play", "study"],
+    "correctAnswer": "buy toys"
   },
   {
-    "question": "I would like ____ apple. / Tôi muốn ____ quả táo.",
-    "options": ["an", "a", "many", "some"],
-    "correctAnswer": "an"
+    "question": "I would like ____ doll. / Tôi muốn ____ con búp bê.",
+    "options": ["a", "an", "many", "some"],
+    "correctAnswer": "a"
   },
   {
     "question": "What colour is the car? / Chiếc xe màu gì?",
@@ -275,9 +275,9 @@
     "correctAnswer": "There are many toys."
   },
   {
-    "question": "The cake is ____. / Cái bánh thì ____.",
-    "options": ["sweet", "sour", "small", "thin"],
-    "correctAnswer": "sweet"
+    "question": "The teddy bear is ____. / Gấu bông thì ____.",
+    "options": ["soft", "hard", "small", "thin"],
+    "correctAnswer": "soft"
   },
   {
     "question": "The shop is ____. / Cửa hàng thì ____.",
@@ -301,8 +301,8 @@
   },
   {
     "question": "This is ____. / Đây là ____.",
-    "options": ["candy", "rice", "noodles", "cake"],
-    "correctAnswer": "candy"
+    "options": ["a puzzle", "rice", "noodles", "cake"],
+    "correctAnswer": "a puzzle"
   },
   {
     "question": "I love ____. / Tôi yêu ____.",
@@ -316,8 +316,8 @@
   },
   {
     "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["shop", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "shop"
+    "options": ["toy shop", "kitchen", "bedroom", "bathroom"],
+    "correctAnswer": "toy shop"
   },
   {
     "question": "Spell the word: b-u-y / Đánh vần từ: b-u-y",
