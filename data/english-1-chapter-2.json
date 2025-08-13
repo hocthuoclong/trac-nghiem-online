@@ -1,483 +1,152 @@
 [
-  {
-    "question": "What is this? You eat food on it. / Đây là gì? Bạn ăn thức ăn trên đó.",
-    "options": ["A table", "A chair", "A bed", "A sofa"],
-    "correctAnswer": "A table"
-  },
-  {
-    "question": "This is a ____. You sit on it. / Đây là một ____. Bạn ngồi trên đó.",
-    "options": ["chair", "table", "plate", "bowl"],
-    "correctAnswer": "chair"
-  },
-  {
-    "question": "You put your food on a ____. / Bạn đặt thức ăn của bạn trên một ____.",
-    "options": ["plate", "cup", "glass", "bowl"],
-    "correctAnswer": "plate"
-  },
-  {
-    "question": "This is a ____. You eat soup from it. / Đây là một ____. Bạn ăn súp từ nó.",
-    "options": ["bowl", "plate", "cup", "glass"],
-    "correctAnswer": "bowl"
-  },
-  {
-    "question": "Spell the word: t-a-b-l-e / Đánh vần từ: t-a-b-l-e",
-    "options": ["table", "cable", "able", "label"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "This is a ____. You use it to eat soup. / Đây là một ____. Bạn dùng nó để ăn súp.",
-    "options": ["spoon", "fork", "knife", "chopsticks"],
-    "correctAnswer": "spoon"
-  },
-  {
-    "question": "I am hungry. I want to ____. / Tôi đói. Tôi muốn ____.",
-    "options": ["eat", "drink", "play", "sleep"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "Find the word: c-h-a-i-r / Tìm từ: c-h-a-i-r",
-    "options": ["chair", "hair", "pair", "fair"],
-    "correctAnswer": "chair"
-  },
-  {
-    "question": "Is this a plate? / Đây có phải là một cái đĩa không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a bowl.", "I have a spoon."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a big ____. / Đây là một ____ lớn.",
-    "options": ["dining room", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "dining room"
-  },
-  {
-    "question": "What can you do in the dining room? / Bạn có thể làm gì trong phòng ăn?",
-    "options": ["I can eat.", "I can sleep.", "I can play.", "I can study."],
-    "correctAnswer": "I can eat."
-  },
-  {
-    "question": "I like to eat ____. / Tôi thích ăn ____.",
-    "options": ["rice", "books", "toys", "pencils"],
-    "correctAnswer": "rice"
-  },
-  {
-    "question": "What is the missing letter? chai_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is our ____. We eat together here. / Đây là ____ của chúng tôi. Chúng tôi ăn cùng nhau ở đây.",
-    "options": ["dining room", "school", "class", "house"],
-    "correctAnswer": "dining room"
-  },
-  {
-    "question": "My family is at the ____. / Gia đình tôi đang ở ____.",
-    "options": ["dining table", "desk", "bed", "sofa"],
-    "correctAnswer": "dining table"
-  },
-  {
-    "question": "Let's ____ dinner. / Hãy ____ bữa tối.",
-    "options": ["eat", "read", "study", "work"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "Spell the word: p-l-a-t-e / Đánh vần từ: p-l-a-t-e",
-    "options": ["plate", "plane", "plant", "play"],
-    "correctAnswer": "plate"
-  },
-  {
-    "question": "Is this a big chair? / Đây có phải là một cái ghế lớn không?",
-    "options": ["No, it is small.", "Yes, it is.", "It is a chair.", "I can see a chair."],
-    "correctAnswer": "No, it is small."
-  },
-  {
-    "question": "I am sitting at the ____. / Tôi đang ngồi tại ____.",
-    "options": ["table", "chair", "bed", "sofa"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "What is the missing letter? _owl / Chữ cái còn thiếu là gì? _owl",
-    "options": ["b", "h", "c", "d"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "This is a ____. You use it to eat salad. / Đây là một ____. Bạn dùng nó để ăn salad.",
-    "options": ["fork", "spoon", "knife", "chopsticks"],
-    "correctAnswer": "fork"
-  },
-  {
-    "question": "How many plates are on the table? / Có bao nhiêu cái đĩa trên bàn?",
-    "options": ["Four", "One", "Two", "Three"],
-    "correctAnswer": "Four"
-  },
-  {
-    "question": "This is ____. / Đây là ____.",
-    "options": ["food", "drink", "toy", "pet"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Spell the word: s-p-o-o-n / Đánh vần từ: s-p-o-o-n",
-    "options": ["spoon", "soon", "spin", "span"],
-    "correctAnswer": "spoon"
-  },
-  {
-    "question": "Is the food hot? / Thức ăn có nóng không?",
-    "options": ["Yes, it is.", "No, it is cold.", "It is food.", "I can see a table."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can drink ____ from a glass. / Chúng ta có thể uống ____ từ một cái ly.",
-    "options": ["water", "soup", "rice", "noodles"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "What is the missing letter? tabl_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cup", "A bowl", "A plate", "A glass"],
-    "correctAnswer": "A cup"
-  },
-  {
-    "question": "This is a ____. You drink tea from it. / Đây là một ____. Bạn uống trà từ nó.",
-    "options": ["cup", "bowl", "plate", "glass"],
-    "correctAnswer": "cup"
-  },
-  {
-    "question": "This is ____. It's time for dinner. / Đây là ____. Đã đến giờ ăn tối.",
-    "options": ["the dining room", "the bedroom", "the kitchen", "the bathroom"],
-    "correctAnswer": "the dining room"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A fork", "A spoon", "A knife", "Chopsticks"],
-    "correctAnswer": "A fork"
-  },
-  {
-    "question": "Find the word: f-o-o-d / Tìm từ: f-o-o-d",
-    "options": ["food", "foot", "good", "mood"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "Is it a clean plate? / Nó có phải là một cái đĩa sạch không?",
-    "options": ["Yes, it is.", "No, it is dirty.", "I am in the dining room.", "I like to eat."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is yummy. / ____ của tôi rất ngon.",
-    "options": ["food", "table", "chair", "bowl"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "What is the missing letter? foo_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["meal", "book", "lesson", "game"],
-    "correctAnswer": "meal"
-  },
-  {
-    "question": "Spell the word: f-o-r-k / Đánh vần từ: f-o-r-k",
-    "options": ["fork", "pork", "work", "fort"],
-    "correctAnswer": "fork"
-  },
-  {
-    "question": "Is this a big bowl? / Đây có phải là một cái bát lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I can see a bowl.", "I like bowls."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The dining room has a big ____. / Phòng ăn có một ____ lớn.",
-    "options": ["table", "bed", "sofa", "desk"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "What is the missing letter? _owl / Chữ cái còn thiếu là gì? _owl",
-    "options": ["b", "h", "c", "p"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A glass", "A cup", "A bowl", "A plate"],
-    "correctAnswer": "A glass"
-  },
-  {
-    "question": "My ____ is on the plate. / ____ của tôi ở trên đĩa.",
-    "options": ["chicken", "book", "bag", "ruler"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "Is the spoon clean? / Cái thìa có sạch không?",
-    "options": ["Yes, it is.", "No, it is dirty.", "It is a spoon.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a bowl and a ____. / Tôi có thể thấy một cái bát và một ____.",
-    "options": ["pair of chopsticks", "house", "car", "book"],
-    "correctAnswer": "pair of chopsticks"
-  },
-  {
-    "question": "Find the word: p-l-a-t-e / Tìm từ: p-l-a-t-e",
-    "options": ["plate", "plane", "plant", "play"],
-    "correctAnswer": "plate"
-  },
-  {
-    "question": "This is my ____. I drink from it. / Đây là ____ của tôi. Tôi uống từ nó.",
-    "options": ["glass", "plate", "bowl", "fork"],
-    "correctAnswer": "glass"
-  },
-  {
-    "question": "What is the missing letter? spoo_",
-    "options": ["n", "k", "p", "t"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "Is it a delicious dinner? / Nó có phải là một bữa tối ngon không?",
-    "options": ["Yes, it is.", "No, it is not.", "I like dinner.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["dinnertime", "homework", "class", "test"],
-    "correctAnswer": "dinnertime"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A napkin", "A towel", "A tissue", "A cloth"],
-    "correctAnswer": "A napkin"
-  },
-  {
-    "question": "What would you like to drink? / Bạn muốn uống gì?",
-    "options": ["I'd like some water, please.", "I am fine.", "My name is Tom.", "I am nine."],
-    "correctAnswer": "I'd like some water, please."
-  },
-  {
-    "question": "A dining room is a place to ____. / Một phòng ăn là một nơi để ____.",
-    "options": ["eat", "sleep", "play", "study"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "I would like ____ bowl of soup. / Tôi muốn ____ bát súp.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the plate? / Cái đĩa màu gì?",
-    "options": ["It's white.", "It's a plate.", "It's round.", "I have a plate."],
-    "correctAnswer": "It's white."
-  },
-  {
-    "question": "What is on the table? / Có gì trên bàn?",
-    "options": ["There is food.", "There is a bed.", "There is a sofa.", "There is a chair."],
-    "correctAnswer": "There is food."
-  },
-  {
-    "question": "The chicken is ____. / Món gà thì ____.",
-    "options": ["delicious", "cold", "small", "thin"],
-    "correctAnswer": "delicious"
-  },
-  {
-    "question": "The family is ____. / Gia đình thì ____.",
-    "options": ["eating together", "playing", "sad", "bad"],
-    "correctAnswer": "eating together"
-  },
-  {
-    "question": "Is the dining room tidy? / Phòng ăn có gọn gàng không?",
-    "options": ["Yes, it is.", "No, it is messy.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My dinnertime is ____. / Giờ ăn tối của tôi thì ____.",
-    "options": ["happy", "noisy", "busy", "crowded"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? happ_",
-    "options": ["y", "t", "d", "k"],
-    "correctAnswer": "y"
-  },
-  {
-    "question": "This is ____. / Đây là ____.",
-    "options": ["a meal", "a drink", "a snack", "a dessert"],
-    "correctAnswer": "a meal"
-  },
-  {
-    "question": "I love ____. / Tôi yêu ____.",
-    "options": ["my family", "dog", "cat", "bird"],
-    "correctAnswer": "my family"
-  },
-  {
-    "question": "Is the water cold? / Nước có lạnh không?",
-    "options": ["Yes, it is.", "No, it is warm.", "It is water.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's eat at the ____. / Hãy ăn tại ____.",
-    "options": ["dining table", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "dining table"
-  },
-  {
-    "question": "Spell the word: e-a-t / Đánh vần từ: e-a-t",
-    "options": ["eat", "tea", "ate", "neat"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "I have ____ new fork. / Tôi có ____ cái dĩa mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite food is ____. / Món ăn yêu thích của tôi là ____.",
-    "options": ["noodles", "rice", "bread", "soup"],
-    "correctAnswer": "noodles"
-  },
-  {
-    "question": "What is the missing letter": "noodle_",
-    "options": ["s", "a", "i", "o"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is ____. It's a vegetable. / Đây là ____. Nó là một loại rau.",
-    "options": ["a carrot", "an apple", "a banana", "an orange"],
-    "correctAnswer": "a carrot"
-  },
-  {
-    "question": "We should say '____' before eating. / Chúng ta nên nói '____' trước khi ăn.",
-    "options": ["Enjoy your meal", "Hello", "Goodbye", "Sorry"],
-    "correctAnswer": "Enjoy your meal"
-  },
-  {
-    "question": "Is it a wooden chair? / Nó có phải là một cái ghế gỗ không?",
-    "options": ["Yes, it is.", "No, it is plastic.", "I like chairs.", "The chair is small."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: m-e-a-l / Đánh vần từ: m-e-a-l",
-    "options": ["meal", "mail", "male", "deal"],
-    "correctAnswer": "meal"
-  },
-  {
-    "question": "I help my mom set the ____. / Tôi giúp mẹ tôi dọn ____.",
-    "options": ["table", "bed", "sofa", "desk"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "The food is on the ____. / Thức ăn ở trên ____.",
-    "options": ["table", "chair", "floor", "wall"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "What is the missing letter": "tabl_",
-    "options": ["e", "p", "t", "d"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A knife", "A spoon", "A fork", "A plate"],
-    "correctAnswer": "A knife"
-  },
-  {
-    "question": "My ____ is full of delicious food. / ____ của tôi đầy những món ăn ngon.",
-    "options": ["plate", "desk", "bag", "box"],
-    "correctAnswer": "plate"
-  },
-  {
-    "question": "Is it a picture of a family eating? / Nó có phải là một bức tranh về một gia đình đang ăn không?",
-    "options": ["Yes, it is.", "No, it is a pet.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to eat ____. / Bạn tôi thích ăn ____.",
-    "options": ["chicken", "fish", "pizza", "juice"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "Spell the word: c-h-i-c-k-e-n / Đánh vần từ: c-h-i-c-k-e-n",
-    "options": ["chicken", "kitchen", "children", "chimney"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "This is a ____ day for a family dinner. / Đây là một ngày ____ cho một bữa tối gia đình.",
-    "options": ["perfect", "rainy", "cloudy", "windy"],
-    "correctAnswer": "perfect"
-  },
-  {
-    "question": "What is the missing letter": "per_ect / Chữ cái còn thiếu là gì? per_ect",
-    "options": ["f", "p", "s", "m"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A dining room", "A kitchen", "A living room", "A bedroom"],
-    "correctAnswer": "A dining room"
-  },
-  {
-    "question": "My father is sitting at the ____. / Bố tôi đang ngồi tại ____.",
-    "options": ["table", "desk", "chair", "sofa"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "Are the chairs comfortable? / Những cái ghế có thoải mái không?",
-    "options": ["Yes, they are.", "No, they are hard.", "They are chairs.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My dining room has a ____. / Phòng ăn của tôi có một ____.",
-    "options": ["big table", "small table", "round table", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: d-i-s-h / Đánh vần từ: d-i-s-h",
-    "options": ["dish", "fish", "wish", "dash"],
-    "correctAnswer": "dish"
-  },
-  {
-    "question": "I am ____ at the dining table. / Tôi ____ tại bàn ăn.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter": "dinin_",
-    "options": ["g", "s", "t", "p"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A salt shaker", "A sugar bowl", "A pepper shaker", "A ketchup bottle"],
-    "correctAnswer": "A salt shaker"
-  },
-  {
-    "question": "My dining table is my favorite ____. / Bàn ăn là ____ yêu thích của tôi.",
-    "options": ["place to eat", "food", "colour", "toy"],
-    "correctAnswer": "place to eat"
-  },
-  {
-    "question": "Is the food hot? / Thức ăn có nóng không?",
-    "options": ["Yes, it is.", "No, it is cold.", "It is food.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The family eats ____ together. / Gia đình ăn ____ cùng nhau.",
-    "options": ["every day", "sometimes", "never", "on weekends"],
-    "correctAnswer": "every day"
-  },
-  {
-    "question": "Spell the word: f-a-m-i-l-y / Đánh vần từ: f-a-m-i-l-y",
-    "options": ["family", "fame", "familiar", "famous"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "We use ____ to eat. / Chúng tôi dùng ____ để ăn.",
-    "options": ["cutlery", "toys", "books", "pencils"],
-    "correctAnswer": "cutlery"
-  },
-  {
-    "question": "What is the missing letter": "cutler_",
-    "options": ["y", "s", "t", "p"],
-    "correctAnswer": "y"
-  }
+    {
+        "question": "This is a large piece of furniture in the dining room where the family eats meals. What is it? / Đây là một món đồ nội thất lớn trong phòng ăn, nơi gia đình dùng bữa. Nó là gì?",
+        "options": [
+            "A table",
+            "A bed",
+            "A sofa",
+            "A wardrobe"
+        ],
+        "correctAnswer": "A table"
+    },
+    {
+        "question": "You sit on this when you are eating at the dining table. What is it? / Bạn ngồi trên cái này khi ăn tại bàn ăn. Nó là gì?",
+        "options": [
+            "A chair",
+            "The floor",
+            "A pillow",
+            "A slide"
+        ],
+        "correctAnswer": "A chair"
+    },
+    {
+        "question": "You put your food on this round, flat dish. What is it? / Bạn đặt thức ăn của mình lên chiếc đĩa tròn, phẳng này. Nó là gì?",
+        "options": [
+            "A plate",
+            "A bowl",
+            "A cup",
+            "A book"
+        ],
+        "correctAnswer": "A plate"
+    },
+    {
+        "question": "If you are eating soup, you need to put it in a deep, round ____. / Nếu bạn đang ăn súp, bạn cần cho nó vào một ____ sâu, tròn.",
+        "options": [
+            "bowl",
+            "plate",
+            "glass",
+            "box"
+        ],
+        "correctAnswer": "bowl"
+    },
+    {
+        "question": "You use this tool to pick up and eat soup. What is it? / Bạn dùng dụng cụ này để múc và ăn súp. Nó là gì?",
+        "options": [
+            "A spoon",
+            "A fork",
+            "A knife",
+            "A pencil"
+        ],
+        "correctAnswer": "A spoon"
+    },
+    {
+        "question": "You use this tool with sharp points to pick up food like meat or vegetables. What is it? / Bạn dùng dụng cụ có đầu nhọn này để xiên thức ăn như thịt hoặc rau. Nó là gì?",
+        "options": [
+            "A fork",
+            "A spoon",
+            "A plate",
+            "A cup"
+        ],
+        "correctAnswer": "A fork"
+    },
+    {
+        "question": "When you feel hungry, what do you want to do? / Khi bạn cảm thấy đói, bạn muốn làm gì?",
+        "options": [
+            "Eat",
+            "Sleep",
+            "Play",
+            "Sing"
+        ],
+        "correctAnswer": "Eat"
+    },
+    {
+        "question": "When you feel thirsty, what do you want to do? / Khi bạn cảm thấy khát, bạn muốn làm gì?",
+        "options": [
+            "Drink",
+            "Eat",
+            "Run",
+            "Draw"
+        ],
+        "correctAnswer": "Drink"
+    },
+    {
+        "question": "What do we call rice, bread, and chicken? / Chúng ta gọi cơm, bánh mì và thịt gà là gì?",
+        "options": [
+            "Food",
+            "Toys",
+            "Clothes",
+            "Pets"
+        ],
+        "correctAnswer": "Food"
+    },
+    {
+        "question": "What do we call water, milk, and juice? / Chúng ta gọi nước, sữa và nước ép là gì?",
+        "options": [
+            "Drinks",
+            "Food",
+            "Games",
+            "Books"
+        ],
+        "correctAnswer": "Drinks"
+    },
+    {
+        "question": "The room in the house where you usually eat dinner is the ____. / Căn phòng trong nhà nơi bạn thường ăn tối là ____.",
+        "options": [
+            "dining room",
+            "bedroom",
+            "bathroom",
+            "playground"
+        ],
+        "correctAnswer": "dining room"
+    },
+    {
+        "question": "A meal you eat in the middle of the day is called ____. / Bữa ăn bạn ăn vào giữa ngày được gọi là ____.",
+        "options": [
+            "lunch",
+            "breakfast",
+            "dinner",
+            "snack"
+        ],
+        "correctAnswer": "lunch"
+    },
+    {
+        "question": "A meal you eat in the evening is called ____. / Bữa ăn bạn ăn vào buổi tối được gọi là ____.",
+        "options": [
+            "dinner",
+            "breakfast",
+            "lunch",
+            "brunch"
+        ],
+        "correctAnswer": "dinner"
+    },
+    {
+        "question": "Which one is a fruit? / Cái nào là một loại trái cây?",
+        "options": [
+            "An apple",
+            "A carrot",
+            "A potato",
+            "A table"
+        ],
+        "correctAnswer": "An apple"
+    },
+    {
+        "question": "Which one is a vegetable? / Cái nào là một loại rau?",
+        "options": [
+            "A carrot",
+            "An orange",
+            "A banana",
+            "A chair"
+        ],
+        "correctAnswer": "A carrot"
+    }
 ]
-
