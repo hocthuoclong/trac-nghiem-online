@@ -1,483 +1,962 @@
 [
-  {
-    "question": "Do you have any ____? - Yes, I do. / Bạn có ____ nào không? - Vâng, tớ có.",
-    "options": ["pets", "books", "toys", "pencils"],
-    "correctAnswer": "pets"
-  },
-  {
-    "question": "This is my ____. It says 'woof woof'. / Đây là ____ của tôi. Nó kêu 'gâu gâu'.",
-    "options": ["dog", "cat", "parrot", "goldfish"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "I have a ____. It says 'meow'. / Tôi có một ____. Nó kêu 'meo meo'.",
-    "options": ["cat", "dog", "rabbit", "parrot"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "This is a ____. It can talk. / Đây là một ____. Nó có thể nói.",
-    "options": ["parrot", "goldfish", "rabbit", "dog"],
-    "correctAnswer": "parrot"
-  },
-  {
-    "question": "Spell the word: p-e-t / Đánh vần từ: p-e-t",
-    "options": ["pet", "pen", "pot", "peg"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "This is a ____. It swims in a tank. / Đây là một ____. Nó bơi trong bể.",
-    "options": ["goldfish", "parrot", "cat", "dog"],
-    "correctAnswer": "goldfish"
-  },
-  {
-    "question": "My favorite pet is a ____. It has long ears. / Thú cưng yêu thích của tôi là một ____. Nó có tai dài.",
-    "options": ["rabbit", "dog", "cat", "parrot"],
-    "correctAnswer": "rabbit"
-  },
-  {
-    "question": "Find the word: d-o-g / Tìm từ: d-o-g",
-    "options": ["dog", "log", "fog", "bog"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "Do you have any cats? / Bạn có con mèo nào không?",
-    "options": ["Yes, I do.", "No, I don't.", "I am playing.", "I have a dog."],
-    "correctAnswer": "Yes, I do."
-  },
-  {
-    "question": "This is a colourful ____. / Đây là một ____ đầy màu sắc.",
-    "options": ["parrot", "dog", "cat", "rabbit"],
-    "correctAnswer": "parrot"
-  },
-  {
-    "question": "What are they doing? / Họ đang làm gì vậy?",
-    "options": ["They're playing with their pets.", "They're reading.", "They're writing.", "They're sleeping."],
-    "correctAnswer": "They're playing with their pets."
-  },
-  {
-    "question": "I like to ____ with my dog. / Tớ thích ____ với con chó của tớ.",
-    "options": ["play", "read", "study", "sleep"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "What is the missing letter": "pe_",
-    "options": ["t", "n", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is my ____. It's cute. / Đây là ____ của tôi. Nó dễ thương.",
-    "options": ["cat", "dog", "parrot", "goldfish"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "My ____ is very friendly. / ____ của tôi rất thân thiện.",
-    "options": ["dog", "cat", "parrot", "goldfish"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "Let's feed the ____. / Hãy cho ____ ăn.",
-    "options": ["pets", "books", "pencils", "chairs"],
-    "correctAnswer": "pets"
-  },
-  {
-    "question": "Spell the word: c-a-t / Đánh vần từ: c-a-t",
-    "options": ["cat", "hat", "bat", "mat"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "Is this a big dog? / Đây có phải là một con chó lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a dog.", "I can see a dog."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am feeding my ____. / Tôi đang cho ____ của tôi ăn.",
-    "options": ["goldfish", "dog", "cat", "parrot"],
-    "correctAnswer": "goldfish"
-  },
-  {
-    "question": "What is the missing letter": "_abbit / Chữ cái còn thiếu là gì? _abbit",
-    "options": ["r", "p", "b", "d"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "These are my ____. / Đây là những ____ của tôi.",
-    "options": ["pets", "toys", "books", "friends"],
-    "correctAnswer": "pets"
-  },
-  {
-    "question": "How many goldfish do you have? / Bạn có bao nhiêu con cá vàng?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["rabbit", "dog", "cat", "parrot"],
-    "correctAnswer": "rabbit"
-  },
-  {
-    "question": "Spell the word: p-a-r-r-o-t / Đánh vần từ: p-a-r-r-o-t",
-    "options": ["parrot", "carrot", "parent", "party"],
-    "correctAnswer": "parrot"
-  },
-  {
-    "question": "Is it a quiet pet? / Nó có phải là một con vật cưng yên tĩnh không?",
-    "options": ["Yes, it is (a goldfish).", "No, it is noisy (a parrot).", "It is a pet.", "I can see a pet."],
-    "correctAnswer": "Yes, it is (a goldfish)."
-  },
-  {
-    "question": "We can see a ____ in a cage. / Chúng ta có thể thấy một ____ trong một cái lồng.",
-    "options": ["parrot", "dog", "cat", "rabbit"],
-    "correctAnswer": "parrot"
-  },
-  {
-    "question": "What is the missing letter": "goldfis_",
-    "options": ["h", "t", "d", "p"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A dog", "A cat", "A rabbit", "A parrot"],
-    "correctAnswer": "A dog"
-  },
-  {
-    "question": "This is a ____. It's my best friend. / Đây là một ____. Nó là bạn thân nhất của tôi.",
-    "options": ["pet", "toy", "book", "chair"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "This is ____. It's fun to have pets. / Đây là ____. Thật vui khi có thú cưng.",
-    "options": ["true", "false", "a game", "a story"],
-    "correctAnswer": "true"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cat", "A dog", "A rabbit", "A parrot"],
-    "correctAnswer": "A cat"
-  },
-  {
-    "question": "Find the word: r-a-b-b-i-t / Tìm từ: r-a-b-b-i-t",
-    "options": ["rabbit", "robot", "ribbon", "rubber"],
-    "correctAnswer": "rabbit"
-  },
-  {
-    "question": "Is it a white rabbit? / Nó có phải là một con thỏ trắng không?",
-    "options": ["Yes, it is.", "No, it is brown.", "I am at home.", "I like rabbits."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is very playful. / ____ của tôi rất tinh nghịch.",
-    "options": ["dog", "cat", "parrot", "goldfish"],
-    "correctAnswer": "dog"
-  },
-  {
-    "question": "What is the missing letter": "parro_",
-    "options": ["t", "n", "m", "p"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["pet", "book", "lesson", "game"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "Spell the word: g-o-l-d-f-i-s-h / Đánh vần từ: g-o-l-d-f-i-s-h",
-    "options": ["goldfish", "golden", "gold", "fish"],
-    "correctAnswer": "goldfish"
-  },
-  {
-    "question": "Is this a colourful parrot? / Đây có phải là một con vẹt nhiều màu sắc không?",
-    "options": ["Yes, it is.", "No, it is black.", "I can see a parrot.", "I like parrots."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The pet shop has many ____. / Cửa hàng thú cưng có nhiều ____.",
-    "options": ["animals", "books", "toys", "pets"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "What is the missing letter": "_et / Chữ cái còn thiếu là gì? _et",
-    "options": ["p", "b", "g", "c"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A goldfish", "A parrot", "A cat", "A dog"],
-    "correctAnswer": "A goldfish"
-  },
-  {
-    "question": "My ____ is small. / ____ của tôi nhỏ.",
-    "options": ["goldfish", "dog", "cat", "horse"],
-    "correctAnswer": "goldfish"
-  },
-  {
-    "question": "Is the cat sleeping? / Con mèo có đang ngủ không?",
-    "options": ["Yes, it is.", "No, it is playing.", "It is a cat.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a dog and a ____. / Tôi có thể thấy một con chó và một ____.",
-    "options": ["cat", "house", "car", "book"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "Find the word: p-l-a-y / Tìm từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "This is my ____. I take care of it. / Đây là ____ của tôi. Tôi chăm sóc nó.",
-    "options": ["pet", "homework", "chore", "job"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "What is the missing letter": "do_",
-    "options": ["g", "k", "p", "t"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "Is it a beautiful pet? / Nó có phải là một con vật cưng đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like pets.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["pet", "homework", "class", "test"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A hamster", "A rabbit", "A mouse", "A guinea pig"],
-    "correctAnswer": "A hamster"
-  },
-  {
-    "question": "What do you do with your pet? / Bạn làm gì với thú cưng của mình?",
-    "options": ["I play with it.", "I read it.", "I write it.", "I eat it."],
-    "correctAnswer": "I play with it."
-  },
-  {
-    "question": "A pet is an animal you keep at ____. / Một con vật cưng là một con vật bạn nuôi ở ____.",
-    "options": ["home", "school", "the zoo", "the park"],
-    "correctAnswer": "home"
-  },
-  {
-    "question": "I have ____ cute kitten. / Tôi có ____ chú mèo con dễ thương.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is your dog? / Con chó của bạn màu gì?",
-    "options": ["It's brown.", "It's a dog.", "It's big.", "I have a dog."],
-    "correctAnswer": "It's brown."
-  },
-  {
-    "question": "What is the parrot doing? / Con vẹt đang làm gì?",
-    "options": ["It's talking.", "It's sleeping.", "It's eating.", "It's flying."],
-    "correctAnswer": "It's talking."
-  },
-  {
-    "question": "The rabbit is ____. / Con thỏ thì ____.",
-    "options": ["fast", "slow", "small", "thin"],
-    "correctAnswer": "fast"
-  },
-  {
-    "question": "The pets are ____. / Những con vật cưng thì ____.",
-    "options": ["cute", "ugly", "sad", "bad"],
-    "correctAnswer": "cute"
-  },
-  {
-    "question": "Is your cat friendly? / Con mèo của bạn có thân thiện không?",
-    "options": ["Yes, it is.", "No, it is shy.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My time with my pet is ____. / Thời gian của tôi với thú cưng của tôi thì ____.",
-    "options": ["happy", "noisy", "busy", "crowded"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter": "happ_",
-    "options": ["y", "t", "d", "k"],
-    "correctAnswer": "y"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["parrot", "dog", "cat", "rabbit"],
-    "correctAnswer": "parrot"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["pet", "school", "book", "car"],
-    "correctAnswer": "pet"
-  },
-  {
-    "question": "Is the goldfish swimming? / Con cá vàng có đang bơi không?",
-    "options": ["Yes, it is.", "No, it is not.", "It is a goldfish.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's take care of our ____. / Hãy chăm sóc ____ của chúng ta.",
-    "options": ["pets", "friends", "toys", "books"],
-    "correctAnswer": "pets"
-  },
-  {
-    "question": "Spell the word: f-e-e-d / Đánh vần từ: f-e-e-d",
-    "options": ["feed", "feel", "feet", "seed"],
-    "correctAnswer": "feed"
-  },
-  {
-    "question": "I have ____ new pet. / Tôi có ____ con vật cưng mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite pet is a ____. / Thú cưng yêu thích của tôi là một ____.",
-    "options": ["hamster", "dog", "cat", "parrot"],
-    "correctAnswer": "hamster"
-  },
-  {
-    "question": "What is the missing letter": "hamste_",
-    "options": ["r", "a", "i", "o"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is ____. It runs in a wheel. / Đây là ____. Nó chạy trong một cái bánh xe.",
-    "options": ["a hamster", "a rabbit", "a mouse", "a guinea pig"],
-    "correctAnswer": "a hamster"
-  },
-  {
-    "question": "We should be ____ to our pets. / Chúng ta nên ____ với thú cưng của mình.",
-    "options": ["kind", "rude", "loud", "quiet"],
-    "correctAnswer": "kind"
-  },
-  {
-    "question": "Is it a big cage? / Nó có phải là một cái lồng lớn không?",
-    "options": ["No, it is small.", "Yes, it is.", "I like cages.", "The cage is strong."],
-    "correctAnswer": "No, it is small."
-  },
-  {
-    "question": "Spell the word: k-i-n-d / Đánh vần từ: k-i-n-d",
-    "options": ["kind", "king", "find", "mind"],
-    "correctAnswer": "kind"
-  },
-  {
-    "question": "I help my mom feed the ____. / Tôi giúp mẹ tôi cho ____ ăn.",
-    "options": ["cat", "dog", "parrot", "goldfish"],
-    "correctAnswer": "cat"
-  },
-  {
-    "question": "The dog is in its ____. / Con chó đang ở trong ____ của nó.",
-    "options": ["kennel", "cage", "tank", "box"],
-    "correctAnswer": "kennel"
-  },
-  {
-    "question": "What is the missing letter": "kenne_",
-    "options": ["l", "p", "t", "d"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A turtle", "A tortoise", "A snake", "A lizard"],
-    "correctAnswer": "A turtle"
-  },
-  {
-    "question": "My ____ is full of pet food. / ____ của tôi đầy thức ăn cho thú cưng.",
-    "options": ["bowl", "desk", "bag", "box"],
-    "correctAnswer": "bowl"
-  },
-  {
-    "question": "Is it a picture of your pet? / Nó có phải là một bức ảnh của thú cưng của bạn không?",
-    "options": ["Yes, it is.", "No, it is my friend's pet.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
-    "options": ["rabbit", "dog", "cat", "parrot"],
-    "correctAnswer": "rabbit"
-  },
-  {
-    "question": "Spell the word: l-o-v-e / Đánh vần từ: l-o-v-e",
-    "options": ["love", "live", "leave", "life"],
-    "correctAnswer": "love"
-  },
-  {
-    "question": "This is a ____ day to play with my pet. / Đây là một ngày ____ để chơi với thú cưng của tôi.",
-    "options": ["sunny", "rainy", "cloudy", "windy"],
-    "correctAnswer": "sunny"
-  },
-  {
-    "question": "What is the missing letter": "_unny / Chữ cái còn thiếu là gì? _unny",
-    "options": ["s", "f", "r", "m"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A pet shop", "A zoo", "A farm", "A park"],
-    "correctAnswer": "A pet shop"
-  },
-  {
-    "question": "My father is taking the dog for a ____. / Bố tôi đang dắt chó đi ____.",
-    "options": ["walk", "run", "swim", "fly"],
-    "correctAnswer": "walk"
-  },
-  {
-    "question": "Are the kittens playful? / Những chú mèo con có tinh nghịch không?",
-    "options": ["Yes, they are.", "No, they are sleeping.", "They are kittens.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My pet has a ____. / Thú cưng của tôi có một ____.",
-    "options": ["toy", "book", "pen", "hat"],
-    "correctAnswer": "toy"
-  },
-  {
-    "question": "Spell the word: w-a-l-k / Đánh vần từ: w-a-l-k",
-    "options": ["walk", "talk", "work", "wall"],
-    "correctAnswer": "walk"
-  },
-  {
-    "question": "I am ____ with my pet. / Tôi ____ với thú cưng của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter": "rabbi_",
-    "options": ["t", "s", "p", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A leash", "A collar", "A bowl", "A toy"],
-    "correctAnswer": "A leash"
-  },
-  {
-    "question": "My pet is my favorite ____. / Thú cưng là ____ yêu thích của tôi.",
-    "options": ["friend", "food", "colour", "toy"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "Is the dog big or small? / Con chó to hay nhỏ?",
-    "options": ["It's big.", "It's small.", "It is a dog.", "Hello."],
-    "correctAnswer": "It's big."
-  },
-  {
-    "question": "The cat is ____. / Con mèo đang ____.",
-    "options": ["purring", "barking", "singing", "talking"],
-    "correctAnswer": "purring"
-  },
-  {
-    "question": "Spell the word: p-u-r-r / Đánh vần từ: p-u-r-r",
-    "options": ["purr", "pure", "pour", "part"],
-    "correctAnswer": "purr"
-  },
-  {
-    "question": "We play ____ with my dog. / Chúng tôi chơi ____ với con chó của tôi.",
-    "options": ["fetch", "chess", "cards", "hide-and-seek"],
-    "correctAnswer": "fetch"
-  },
-  {
-    "question": "What is the missing letter": "fetc_",
-    "options": ["h", "s", "t", "p"],
-    "correctAnswer": "h"
-  }
+    {
+        "question": "Do you have any ____? - Yes, I do. / Bạn có ____ nào không? - Vâng, tớ có.",
+        "options": [
+            "pets",
+            "books",
+            "toys",
+            "pencils"
+        ],
+        "correctAnswer": "pets"
+    },
+    {
+        "question": "This is my ____. It says 'woof woof'. / Đây là ____ của tôi. Nó kêu 'gâu gâu'.",
+        "options": [
+            "dog",
+            "cat",
+            "parrot",
+            "goldfish"
+        ],
+        "correctAnswer": "dog"
+    },
+    {
+        "question": "I have a ____. It says 'meow'. / Tôi có một ____. Nó kêu 'meo meo'.",
+        "options": [
+            "cat",
+            "dog",
+            "rabbit",
+            "parrot"
+        ],
+        "correctAnswer": "cat"
+    },
+    {
+        "question": "This is a ____. It can talk. / Đây là một ____. Nó có thể nói.",
+        "options": [
+            "parrot",
+            "goldfish",
+            "rabbit",
+            "dog"
+        ],
+        "correctAnswer": "parrot"
+    },
+    {
+        "question": "Spell the word: p-e-t / Đánh vần từ: p-e-t",
+        "options": [
+            "pet",
+            "pen",
+            "pot",
+            "peg"
+        ],
+        "correctAnswer": "pet"
+    },
+    {
+        "question": "This is a ____. It swims in a tank. / Đây là một ____. Nó bơi trong bể.",
+        "options": [
+            "goldfish",
+            "parrot",
+            "cat",
+            "dog"
+        ],
+        "correctAnswer": "goldfish"
+    },
+    {
+        "question": "My favorite pet is a ____. It has long ears. / Thú cưng yêu thích của tôi là một ____. Nó có tai dài.",
+        "options": [
+            "rabbit",
+            "dog",
+            "cat",
+            "parrot"
+        ],
+        "correctAnswer": "rabbit"
+    },
+    {
+        "question": "Find the word: d-o-g / Tìm từ: d-o-g",
+        "options": [
+            "dog",
+            "log",
+            "fog",
+            "bog"
+        ],
+        "correctAnswer": "dog"
+    },
+    {
+        "question": "Do you have any cats? / Bạn có con mèo nào không?",
+        "options": [
+            "Yes, I do.",
+            "No, I don't.",
+            "I am playing.",
+            "I have a dog."
+        ],
+        "correctAnswer": "Yes, I do."
+    },
+    {
+        "question": "This is a colourful ____. / Đây là một ____ đầy màu sắc.",
+        "options": [
+            "parrot",
+            "dog",
+            "cat",
+            "rabbit"
+        ],
+        "correctAnswer": "parrot"
+    },
+    {
+        "question": "What are they doing? / Họ đang làm gì vậy?",
+        "options": [
+            "They're playing with their pets.",
+            "They're reading.",
+            "They're writing.",
+            "They're sleeping."
+        ],
+        "correctAnswer": "They're playing with their pets."
+    },
+    {
+        "question": "I like to ____ with my dog. / Tớ thích ____ với con chó của tớ.",
+        "options": [
+            "play",
+            "read",
+            "study",
+            "sleep"
+        ],
+        "correctAnswer": "play"
+    },
+    {
+        "question": "What is the missing letter: pe_",
+        "options": [
+            "t",
+            "n",
+            "d",
+            "k"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "This is my ____. It's cute. / Đây là ____ của tôi. Nó dễ thương.",
+        "options": [
+            "cat",
+            "dog",
+            "parrot",
+            "goldfish"
+        ],
+        "correctAnswer": "cat"
+    },
+    {
+        "question": "My ____ is very friendly. / ____ của tôi rất thân thiện.",
+        "options": [
+            "dog",
+            "cat",
+            "parrot",
+            "goldfish"
+        ],
+        "correctAnswer": "dog"
+    },
+    {
+        "question": "Let's feed the ____. / Hãy cho ____ ăn.",
+        "options": [
+            "pets",
+            "books",
+            "pencils",
+            "chairs"
+        ],
+        "correctAnswer": "pets"
+    },
+    {
+        "question": "Spell the word: c-a-t / Đánh vần từ: c-a-t",
+        "options": [
+            "cat",
+            "hat",
+            "bat",
+            "mat"
+        ],
+        "correctAnswer": "cat"
+    },
+    {
+        "question": "Is this a big dog? / Đây có phải là một con chó lớn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is small.",
+            "It is a dog.",
+            "I can see a dog."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I am feeding my ____. / Tôi đang cho ____ của tôi ăn.",
+        "options": [
+            "goldfish",
+            "dog",
+            "cat",
+            "parrot"
+        ],
+        "correctAnswer": "goldfish"
+    },
+    {
+        "question": "What is the missing letter: _abbit / Chữ cái còn thiếu là gì? _abbit",
+        "options": [
+            "r",
+            "p",
+            "b",
+            "d"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "These are my ____. / Đây là những ____ của tôi.",
+        "options": [
+            "pets",
+            "toys",
+            "books",
+            "friends"
+        ],
+        "correctAnswer": "pets"
+    },
+    {
+        "question": "How many goldfish do you have? / Bạn có bao nhiêu con cá vàng?",
+        "options": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": "Two"
+    },
+    {
+        "question": "This is a ____. / Đây là một ____.",
+        "options": [
+            "rabbit",
+            "dog",
+            "cat",
+            "parrot"
+        ],
+        "correctAnswer": "rabbit"
+    },
+    {
+        "question": "Spell the word: p-a-r-r-o-t / Đánh vần từ: p-a-r-r-o-t",
+        "options": [
+            "parrot",
+            "carrot",
+            "parent",
+            "party"
+        ],
+        "correctAnswer": "parrot"
+    },
+    {
+        "question": "Is it a quiet pet? / Nó có phải là một con vật cưng yên tĩnh không?",
+        "options": [
+            "Yes, it is (a goldfish).",
+            "No, it is noisy (a parrot).",
+            "It is a pet.",
+            "I can see a pet."
+        ],
+        "correctAnswer": "Yes, it is (a goldfish)."
+    },
+    {
+        "question": "We can see a ____ in a cage. / Chúng ta có thể thấy một ____ trong một cái lồng.",
+        "options": [
+            "parrot",
+            "dog",
+            "cat",
+            "rabbit"
+        ],
+        "correctAnswer": "parrot"
+    },
+    {
+        "question": "What is the missing letter: goldfis_",
+        "options": [
+            "h",
+            "t",
+            "d",
+            "p"
+        ],
+        "correctAnswer": "h"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A dog",
+            "A cat",
+            "A rabbit",
+            "A parrot"
+        ],
+        "correctAnswer": "A dog"
+    },
+    {
+        "question": "This is a ____. It's my best friend. / Đây là một ____. Nó là bạn thân nhất của tôi.",
+        "options": [
+            "pet",
+            "toy",
+            "book",
+            "chair"
+        ],
+        "correctAnswer": "pet"
+    },
+    {
+        "question": "This is ____. It's fun to have pets. / Đây là ____. Thật vui khi có thú cưng.",
+        "options": [
+            "true",
+            "false",
+            "a game",
+            "a story"
+        ],
+        "correctAnswer": "true"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A cat",
+            "A dog",
+            "A rabbit",
+            "A parrot"
+        ],
+        "correctAnswer": "A cat"
+    },
+    {
+        "question": "Find the word: r-a-b-b-i-t / Tìm từ: r-a-b-b-i-t",
+        "options": [
+            "rabbit",
+            "robot",
+            "ribbon",
+            "rubber"
+        ],
+        "correctAnswer": "rabbit"
+    },
+    {
+        "question": "Is it a white rabbit? / Nó có phải là một con thỏ trắng không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is brown.",
+            "I am at home.",
+            "I like rabbits."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is very playful. / ____ của tôi rất tinh nghịch.",
+        "options": [
+            "dog",
+            "cat",
+            "parrot",
+            "goldfish"
+        ],
+        "correctAnswer": "dog"
+    },
+    {
+        "question": "What is the missing letter: parro_",
+        "options": [
+            "t",
+            "n",
+            "m",
+            "p"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+        "options": [
+            "pet",
+            "book",
+            "lesson",
+            "game"
+        ],
+        "correctAnswer": "pet"
+    },
+    {
+        "question": "Spell the word: g-o-l-d-f-i-s-h / Đánh vần từ: g-o-l-d-f-i-s-h",
+        "options": [
+            "goldfish",
+            "golden",
+            "gold",
+            "fish"
+        ],
+        "correctAnswer": "goldfish"
+    },
+    {
+        "question": "Is this a colourful parrot? / Đây có phải là một con vẹt nhiều màu sắc không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is black.",
+            "I can see a parrot.",
+            "I like parrots."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The pet shop has many ____. / Cửa hàng thú cưng có nhiều ____.",
+        "options": [
+            "animals",
+            "books",
+            "toys",
+            "pets"
+        ],
+        "correctAnswer": "animals"
+    },
+    {
+        "question": "What is the missing letter: _et / Chữ cái còn thiếu là gì? _et",
+        "options": [
+            "p",
+            "b",
+            "g",
+            "c"
+        ],
+        "correctAnswer": "p"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A goldfish",
+            "A parrot",
+            "A cat",
+            "A dog"
+        ],
+        "correctAnswer": "A goldfish"
+    },
+    {
+        "question": "My ____ is small. / ____ của tôi nhỏ.",
+        "options": [
+            "goldfish",
+            "dog",
+            "cat",
+            "horse"
+        ],
+        "correctAnswer": "goldfish"
+    },
+    {
+        "question": "Is the cat sleeping? / Con mèo có đang ngủ không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is playing.",
+            "It is a cat.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I can see a dog and a ____. / Tôi có thể thấy một con chó và một ____.",
+        "options": [
+            "cat",
+            "house",
+            "car",
+            "book"
+        ],
+        "correctAnswer": "cat"
+    },
+    {
+        "question": "Find the word: p-l-a-y / Tìm từ: p-l-a-y",
+        "options": [
+            "play",
+            "plan",
+            "plus",
+            "plum"
+        ],
+        "correctAnswer": "play"
+    },
+    {
+        "question": "This is my ____. I take care of it. / Đây là ____ của tôi. Tôi chăm sóc nó.",
+        "options": [
+            "pet",
+            "homework",
+            "chore",
+            "job"
+        ],
+        "correctAnswer": "pet"
+    },
+    {
+        "question": "What is the missing letter: do_",
+        "options": [
+            "g",
+            "k",
+            "p",
+            "t"
+        ],
+        "correctAnswer": "g"
+    },
+    {
+        "question": "Is it a beautiful pet? / Nó có phải là một con vật cưng đẹp không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is ugly.",
+            "I like pets.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is fun. / ____ của tôi rất vui.",
+        "options": [
+            "pet",
+            "homework",
+            "class",
+            "test"
+        ],
+        "correctAnswer": "pet"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A hamster",
+            "A rabbit",
+            "A mouse",
+            "A guinea pig"
+        ],
+        "correctAnswer": "A hamster"
+    },
+    {
+        "question": "What do you do with your pet? / Bạn làm gì với thú cưng của mình?",
+        "options": [
+            "I play with it.",
+            "I read it.",
+            "I write it.",
+            "I eat it."
+        ],
+        "correctAnswer": "I play with it."
+    },
+    {
+        "question": "A pet is an animal you keep at ____. / Một con vật cưng là một con vật bạn nuôi ở ____.",
+        "options": [
+            "home",
+            "school",
+            "the zoo",
+            "the park"
+        ],
+        "correctAnswer": "home"
+    },
+    {
+        "question": "I have ____ cute kitten. / Tôi có ____ chú mèo con dễ thương.",
+        "options": [
+            "a",
+            "an",
+            "many",
+            "some"
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "question": "What colour is your dog? / Con chó của bạn màu gì?",
+        "options": [
+            "It's brown.",
+            "It's a dog.",
+            "It's big.",
+            "I have a dog."
+        ],
+        "correctAnswer": "It's brown."
+    },
+    {
+        "question": "What is the parrot doing? / Con vẹt đang làm gì?",
+        "options": [
+            "It's talking.",
+            "It's sleeping.",
+            "It's eating.",
+            "It's flying."
+        ],
+        "correctAnswer": "It's talking."
+    },
+    {
+        "question": "The rabbit is ____. / Con thỏ thì ____.",
+        "options": [
+            "fast",
+            "slow",
+            "small",
+            "thin"
+        ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "The pets are ____. / Những con vật cưng thì ____.",
+        "options": [
+            "cute",
+            "ugly",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "cute"
+    },
+    {
+        "question": "Is your cat friendly? / Con mèo của bạn có thân thiện không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is shy.",
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My time with my pet is ____. / Thời gian của tôi với thú cưng của tôi thì ____.",
+        "options": [
+            "happy",
+            "noisy",
+            "busy",
+            "crowded"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What is the missing letter: happ_",
+        "options": [
+            "y",
+            "t",
+            "d",
+            "k"
+        ],
+        "correctAnswer": "y"
+    },
+    {
+        "question": "This is a ____. / Đây là một ____.",
+        "options": [
+            "parrot",
+            "dog",
+            "cat",
+            "rabbit"
+        ],
+        "correctAnswer": "parrot"
+    },
+    {
+        "question": "I love my ____. / Tôi yêu ____ của tôi.",
+        "options": [
+            "pet",
+            "school",
+            "book",
+            "car"
+        ],
+        "correctAnswer": "pet"
+    },
+    {
+        "question": "Is the goldfish swimming? / Con cá vàng có đang bơi không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is not.",
+            "It is a goldfish.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Let's take care of our ____. / Hãy chăm sóc ____ của chúng ta.",
+        "options": [
+            "pets",
+            "friends",
+            "toys",
+            "books"
+        ],
+        "correctAnswer": "pets"
+    },
+    {
+        "question": "Spell the word: f-e-e-d / Đánh vần từ: f-e-e-d",
+        "options": [
+            "feed",
+            "feel",
+            "feet",
+            "seed"
+        ],
+        "correctAnswer": "feed"
+    },
+    {
+        "question": "I have ____ new pet. / Tôi có ____ con vật cưng mới.",
+        "options": [
+            "a",
+            "an",
+            "one",
+            "two"
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "question": "My favorite pet is a ____. / Thú cưng yêu thích của tôi là một ____.",
+        "options": [
+            "hamster",
+            "dog",
+            "cat",
+            "parrot"
+        ],
+        "correctAnswer": "hamster"
+    },
+    {
+        "question": "What is the missing letter: hamste_",
+        "options": [
+            "r",
+            "a",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "This is ____. It runs in a wheel. / Đây là ____. Nó chạy trong một cái bánh xe.",
+        "options": [
+            "a hamster",
+            "a rabbit",
+            "a mouse",
+            "a guinea pig"
+        ],
+        "correctAnswer": "a hamster"
+    },
+    {
+        "question": "We should be ____ to our pets. / Chúng ta nên ____ với thú cưng của mình.",
+        "options": [
+            "kind",
+            "rude",
+            "loud",
+            "quiet"
+        ],
+        "correctAnswer": "kind"
+    },
+    {
+        "question": "Is it a big cage? / Nó có phải là một cái lồng lớn không?",
+        "options": [
+            "No, it is small.",
+            "Yes, it is.",
+            "I like cages.",
+            "The cage is strong."
+        ],
+        "correctAnswer": "No, it is small."
+    },
+    {
+        "question": "Spell the word: k-i-n-d / Đánh vần từ: k-i-n-d",
+        "options": [
+            "kind",
+            "king",
+            "find",
+            "mind"
+        ],
+        "correctAnswer": "kind"
+    },
+    {
+        "question": "I help my mom feed the ____. / Tôi giúp mẹ tôi cho ____ ăn.",
+        "options": [
+            "cat",
+            "dog",
+            "parrot",
+            "goldfish"
+        ],
+        "correctAnswer": "cat"
+    },
+    {
+        "question": "The dog is in its ____. / Con chó đang ở trong ____ của nó.",
+        "options": [
+            "kennel",
+            "cage",
+            "tank",
+            "box"
+        ],
+        "correctAnswer": "kennel"
+    },
+    {
+        "question": "What is the missing letter: kenne_",
+        "options": [
+            "l",
+            "p",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "l"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A turtle",
+            "A tortoise",
+            "A snake",
+            "A lizard"
+        ],
+        "correctAnswer": "A turtle"
+    },
+    {
+        "question": "My ____ is full of pet food. / ____ của tôi đầy thức ăn cho thú cưng.",
+        "options": [
+            "bowl",
+            "desk",
+            "bag",
+            "box"
+        ],
+        "correctAnswer": "bowl"
+    },
+    {
+        "question": "Is it a picture of your pet? / Nó có phải là một bức ảnh của thú cưng của bạn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is my friend's pet.",
+            "I see a picture.",
+            "The picture is nice."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
+        "options": [
+            "rabbit",
+            "dog",
+            "cat",
+            "parrot"
+        ],
+        "correctAnswer": "rabbit"
+    },
+    {
+        "question": "Spell the word: l-o-v-e / Đánh vần từ: l-o-v-e",
+        "options": [
+            "love",
+            "live",
+            "leave",
+            "life"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "This is a ____ day to play with my pet. / Đây là một ngày ____ để chơi với thú cưng của tôi.",
+        "options": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "windy"
+        ],
+        "correctAnswer": "sunny"
+    },
+    {
+        "question": "What is the missing letter: _unny / Chữ cái còn thiếu là gì? _unny",
+        "options": [
+            "s",
+            "f",
+            "r",
+            "m"
+        ],
+        "correctAnswer": "s"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A pet shop",
+            "A zoo",
+            "A farm",
+            "A park"
+        ],
+        "correctAnswer": "A pet shop"
+    },
+    {
+        "question": "My father is taking the dog for a ____. / Bố tôi đang dắt chó đi ____.",
+        "options": [
+            "walk",
+            "run",
+            "swim",
+            "fly"
+        ],
+        "correctAnswer": "walk"
+    },
+    {
+        "question": "Are the kittens playful? / Những chú mèo con có tinh nghịch không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are sleeping.",
+            "They are kittens.",
+            "I am happy."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "My pet has a ____. / Thú cưng của tôi có một ____.",
+        "options": [
+            "toy",
+            "book",
+            "pen",
+            "hat"
+        ],
+        "correctAnswer": "toy"
+    },
+    {
+        "question": "Spell the word: w-a-l-k / Đánh vần từ: w-a-l-k",
+        "options": [
+            "walk",
+            "talk",
+            "work",
+            "wall"
+        ],
+        "correctAnswer": "walk"
+    },
+    {
+        "question": "I am ____ with my pet. / Tôi ____ với thú cưng của mình.",
+        "options": [
+            "happy",
+            "sad",
+            "bored",
+            "angry"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What is the missing letter: rabbi_",
+        "options": [
+            "t",
+            "s",
+            "p",
+            "k"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A leash",
+            "A collar",
+            "A bowl",
+            "A toy"
+        ],
+        "correctAnswer": "A leash"
+    },
+    {
+        "question": "My pet is my favorite ____. / Thú cưng là ____ yêu thích của tôi.",
+        "options": [
+            "friend",
+            "food",
+            "colour",
+            "toy"
+        ],
+        "correctAnswer": "friend"
+    },
+    {
+        "question": "Is the dog big or small? / Con chó to hay nhỏ?",
+        "options": [
+            "It's big.",
+            "It's small.",
+            "It is a dog.",
+            "Hello."
+        ],
+        "correctAnswer": "It's big."
+    },
+    {
+        "question": "The cat is ____. / Con mèo đang ____.",
+        "options": [
+            "purring",
+            "barking",
+            "singing",
+            "talking"
+        ],
+        "correctAnswer": "purring"
+    },
+    {
+        "question": "Spell the word: p-u-r-r / Đánh vần từ: p-u-r-r",
+        "options": [
+            "purr",
+            "pure",
+            "pour",
+            "part"
+        ],
+        "correctAnswer": "purr"
+    },
+    {
+        "question": "We play ____ with my dog. / Chúng tôi chơi ____ với con chó của tôi.",
+        "options": [
+            "fetch",
+            "chess",
+            "cards",
+            "hide-and-seek"
+        ],
+        "correctAnswer": "fetch"
+    },
+    {
+        "question": "What is the missing letter: fetc_",
+        "options": [
+            "h",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "h"
+    }
 ]
-
