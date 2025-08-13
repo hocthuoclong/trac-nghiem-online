@@ -1,483 +1,962 @@
 [
-  {
-    "question": "Where are you? - I'm at the ____. / Bạn đang ở đâu? - Tớ đang ở ____.",
-    "options": ["theme park", "school", "zoo", "farm"],
-    "correctAnswer": "theme park"
-  },
-  {
-    "question": "This is a ____. It goes up and down very fast. / Đây là một ____. Nó đi lên và xuống rất nhanh.",
-    "options": ["roller coaster", "Ferris wheel", "carousel", "swing"],
-    "correctAnswer": "roller coaster"
-  },
-  {
-    "question": "You can see the whole park from the top of the ____. / Bạn có thể nhìn thấy toàn bộ công viên từ đỉnh của ____.",
-    "options": ["Ferris wheel", "roller coaster", "carousel", "swing"],
-    "correctAnswer": "Ferris wheel"
-  },
-  {
-    "question": "This is a ____. You can ride on the horses. / Đây là một ____. Bạn có thể cưỡi trên những con ngựa.",
-    "options": ["carousel", "roller coaster", "Ferris wheel", "swing"],
-    "correctAnswer": "carousel"
-  },
-  {
-    "question": "Spell the word: p-a-r-k / Đánh vần từ: p-a-r-k",
-    "options": ["park", "dark", "bark", "mark"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "You need a ____ to enter the theme park. / Bạn cần một ____ để vào công viên giải trí.",
-    "options": ["ticket", "book", "pen", "hat"],
-    "correctAnswer": "ticket"
-  },
-  {
-    "question": "I like to eat ____ at the theme park. / Tớ thích ăn ____ ở công viên giải trí.",
-    "options": ["popcorn", "rice", "fish", "bread"],
-    "correctAnswer": "popcorn"
-  },
-  {
-    "question": "Find the word: r-i-d-e / Tìm từ: r-i-d-e",
-    "options": ["ride", "red", "road", "read"],
-    "correctAnswer": "ride"
-  },
-  {
-    "question": "Are you having fun? / Bạn có đang vui không?",
-    "options": ["Yes, I am.", "No, I'm not.", "I like theme parks.", "It is a ride."],
-    "correctAnswer": "Yes, I am."
-  },
-  {
-    "question": "This is an exciting ____. / Đây là một ____ thú vị.",
-    "options": ["ride", "book", "lesson", "test"],
-    "correctAnswer": "ride"
-  },
-  {
-    "question": "What is he doing? / Cậu ấy đang làm gì vậy?",
-    "options": ["He's eating popcorn.", "He's reading a book.", "He's writing a letter.", "He's singing a song."],
-    "correctAnswer": "He's eating popcorn."
-  },
-  {
-    "question": "I like to ____ on the carousel. / Tớ thích ____ trên đu quay ngựa gỗ.",
-    "options": ["ride", "play", "read", "study"],
-    "correctAnswer": "ride"
-  },
-  {
-    "question": "What is the missing letter": "rid_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a ____. It's a fun place. / Đây là một ____. Đó là một nơi vui vẻ.",
-    "options": ["theme park", "school", "city", "shop"],
-    "correctAnswer": "theme park"
-  },
-  {
-    "question": "My friends are on the ____. / Bạn bè của tôi đang ở trên ____.",
-    "options": ["roller coaster", "slide", "swing", "seesaw"],
-    "correctAnswer": "roller coaster"
-  },
-  {
-    "question": "Let's buy a ____. / Hãy mua một ____.",
-    "options": ["ticket", "book", "pencil", "chair"],
-    "correctAnswer": "ticket"
-  },
-  {
-    "question": "Spell the word: f-u-n / Đánh vần từ: f-u-n",
-    "options": ["fun", "sun", "run", "bun"],
-    "correctAnswer": "fun"
-  },
-  {
-    "question": "Is this a big theme park? / Đây có phải là một công viên giải trí lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a ride.", "I can see a carousel."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am waiting in ____. / Tôi đang đợi trong ____.",
-    "options": ["line", "a house", "a shop", "a car"],
-    "correctAnswer": "line"
-  },
-  {
-    "question": "What is the missing letter": "_un / Chữ cái còn thiếu là gì? _un",
-    "options": ["f", "s", "r", "b"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "These are fun ____. / Đây là những ____ vui vẻ.",
-    "options": ["rides", "toys", "books", "pets"],
-    "correctAnswer": "rides"
-  },
-  {
-    "question": "What's your favorite ride? / Chuyến đi yêu thích của bạn là gì?",
-    "options": ["I like the Ferris wheel.", "I am fine.", "My name is Mai.", "I am eight."],
-    "correctAnswer": "I like the Ferris wheel."
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["clown", "teacher", "doctor", "farmer"],
-    "correctAnswer": "clown"
-  },
-  {
-    "question": "Spell the word: t-i-c-k-e-t / Đánh vần từ: t-i-c-k-e-t",
-    "options": ["ticket", "thicket", "tackle", "tinfoil"],
-    "correctAnswer": "ticket"
-  },
-  {
-    "question": "Is it exciting? / Nó có thú vị không?",
-    "options": ["Yes, it is.", "No, it is boring.", "It is a theme park.", "I can see my friends."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can eat ____ at the theme park. / Chúng ta có thể ăn ____ ở công viên giải trí.",
-    "options": ["cotton candy", "rice", "fish", "bread"],
-    "correctAnswer": "cotton candy"
-  },
-  {
-    "question": "What is the missing letter": "par_",
-    "options": ["k", "t", "d", "p"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A haunted house", "A school", "A library", "A hospital"],
-    "correctAnswer": "A haunted house"
-  },
-  {
-    "question": "This is a ____. You can win a prize. / Đây là một ____. Bạn có thể thắng một giải thưởng.",
-    "options": ["game stall", "shop", "cafe", "restaurant"],
-    "correctAnswer": "game stall"
-  },
-  {
-    "question": "This is ____. It's a fun day out. / Đây là ____. Đó là một ngày đi chơi vui vẻ.",
-    "options": ["a theme park", "school", "homework", "work"],
-    "correctAnswer": "a theme park"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A carousel", "A roller coaster", "A Ferris wheel", "A swing"],
-    "correctAnswer": "A carousel"
-  },
-  {
-    "question": "Find the word: p-o-p-c-o-r-n / Tìm từ: p-o-p-c-o-r-n",
-    "options": ["popcorn", "poppy", "popular", "poplar"],
-    "correctAnswer": "popcorn"
-  },
-  {
-    "question": "Are they screaming on the ride? / Họ có đang la hét trên chuyến đi không?",
-    "options": ["Yes, they are.", "No, they are not.", "I am on a ride.", "I like rides."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My ____ is colourful. / ____ của tôi nhiều màu sắc.",
-    "options": ["carousel", "roller coaster", "Ferris wheel", "swing"],
-    "correctAnswer": "carousel"
-  },
-  {
-    "question": "What is the missing letter": "F_rris wheel / Chữ cái còn thiếu là gì? F_rris wheel",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["day", "book", "lesson", "game"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Spell the word: r-i-d-e / Đánh vần từ: r-i-d-e",
-    "options": ["ride", "red", "road", "read"],
-    "correctAnswer": "ride"
-  },
-  {
-    "question": "Is this a scary ride? / Đây có phải là một chuyến đi đáng sợ không?",
-    "options": ["Yes, it is.", "No, it is fun.", "I can see a ride.", "I like rides."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The theme park has many ____. / Công viên giải trí có nhiều ____.",
-    "options": ["people", "books", "pets", "clothes"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "What is the missing letter": "_un / Chữ cái còn thiếu là gì? _un",
-    "options": ["f", "p", "b", "c"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A water slide", "A roller coaster", "A Ferris wheel", "A carousel"],
-    "correctAnswer": "A water slide"
-  },
-  {
-    "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
-    "options": ["day", "house", "room", "bag"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Is the popcorn sweet? / Bắp rang bơ có ngọt không?",
-    "options": ["Yes, it is.", "No, it is salty.", "It is popcorn.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a clown and a ____. / Tôi có thể thấy một chú hề và một ____.",
-    "options": ["magician", "house", "car", "book"],
-    "correctAnswer": "magician"
-  },
-  {
-    "question": "Find the word: m-a-g-i-c / Tìm từ: m-a-g-i-c",
-    "options": ["magic", "magnet", "major", "maker"],
-    "correctAnswer": "magic"
-  },
-  {
-    "question": "This is my ____. I do it with my family. / Đây là ____ của tôi. Tôi làm nó với gia đình tôi.",
-    "options": ["outing", "homework", "chore", "job"],
-    "correctAnswer": "outing"
-  },
-  {
-    "question": "What is the missing letter": "ticke_",
-    "options": ["t", "k", "p", "d"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "Is it a beautiful park? / Nó có phải là một công viên đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like parks.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["trip", "homework", "class", "test"],
-    "correctAnswer": "trip"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A parade", "A show", "A concert", "A movie"],
-    "correctAnswer": "A parade"
-  },
-  {
-    "question": "What do you want to do? / Bạn muốn làm gì?",
-    "options": ["I want to go on the roller coaster.", "I am fine.", "My name is Lucy.", "I am nine."],
-    "correctAnswer": "I want to go on the roller coaster."
-  },
-  {
-    "question": "A theme park is a place for ____. / Một công viên giải trí là một nơi để ____.",
-    "options": ["entertainment", "studying", "sleeping", "working"],
-    "correctAnswer": "entertainment"
-  },
-  {
-    "question": "I would like ____ ice cream. / Tôi muốn ____ kem.",
-    "options": ["an", "a", "many", "some"],
-    "correctAnswer": "an"
-  },
-  {
-    "question": "What colour is the carousel? / Đu quay ngựa gỗ màu gì?",
-    "options": ["It's colourful.", "It's a carousel.", "It's big.", "I have a carousel."],
-    "correctAnswer": "It's colourful."
-  },
-  {
-    "question": "What is the clown doing? / Chú hề đang làm gì?",
-    "options": ["He's juggling.", "He's sleeping.", "He's eating.", "He's flying."],
-    "correctAnswer": "He's juggling."
-  },
-  {
-    "question": "The roller coaster is ____. / Tàu lượn thì ____.",
-    "options": ["fast", "slow", "small", "thin"],
-    "correctAnswer": "fast"
-  },
-  {
-    "question": "The people are ____. / Mọi người thì ____.",
-    "options": ["excited", "bored", "sad", "bad"],
-    "correctAnswer": "excited"
-  },
-  {
-    "question": "Is the park crowded? / Công viên có đông không?",
-    "options": ["Yes, it is.", "No, it is empty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My day at the theme park is ____. / Ngày của tôi ở công viên giải trí thì ____.",
-    "options": ["unforgettable", "noisy", "busy", "crowded"],
-    "correctAnswer": "unforgettable"
-  },
-  {
-    "question": "What is the missing letter": "unforgetta_le / Chữ cái còn thiếu là gì? unforgetta_le",
-    "options": ["b", "t", "d", "k"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "This is the ____. / Đây là ____.",
-    "options": ["Ferris wheel", "roller coaster", "carousel", "swing"],
-    "correctAnswer": "Ferris wheel"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["theme park", "dog", "cat", "bird"],
-    "correctAnswer": "theme park"
-  },
-  {
-    "question": "Is the music loud? / Âm nhạc có lớn không?",
-    "options": ["Yes, it is.", "No, it is soft.", "It is music.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["theme park", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "theme park"
-  },
-  {
-    "question": "Spell the word: r-i-d-e / Đánh vần từ: r-i-d-e",
-    "options": ["ride", "red", "road", "read"],
-    "correctAnswer": "ride"
-  },
-  {
-    "question": "I have ____ new ticket. / Tôi có ____ vé mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite ride is the ____. / Chuyến đi yêu thích của tôi là ____.",
-    "options": ["carousel", "roller coaster", "Ferris wheel", "swing"],
-    "correctAnswer": "carousel"
-  },
-  {
-    "question": "What is the missing letter": "carouse_",
-    "options": ["l", "a", "i", "e"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "This is ____. You can buy souvenirs here. / Đây là ____. Bạn có thể mua quà lưu niệm ở đây.",
-    "options": ["a gift shop", "a restaurant", "a cafe", "a cinema"],
-    "correctAnswer": "a gift shop"
-  },
-  {
-    "question": "We should wait in ____ for the rides. / Chúng ta nên đợi trong ____ cho các chuyến đi.",
-    "options": ["line", "a circle", "a square", "a group"],
-    "correctAnswer": "line"
-  },
-  {
-    "question": "Is it a fun day? / Nó có phải là một ngày vui không?",
-    "options": ["Yes, it is.", "No, it is boring.", "I like fun days.", "The day is fun."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: f-u-n / Đánh vần từ: f-u-n",
-    "options": ["fun", "sun", "run", "bun"],
-    "correctAnswer": "fun"
-  },
-  {
-    "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
-    "options": ["bags", "desk", "chair", "floor"],
-    "correctAnswer": "bags"
-  },
-  {
-    "question": "The clown is making ____. / Chú hề đang làm ____.",
-    "options": ["balloons", "food", "drinks", "music"],
-    "correctAnswer": "balloons"
-  },
-  {
-    "question": "What is the missing letter": "balloo_",
-    "options": ["n", "p", "t", "d"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A mascot", "A clown", "A magician", "An acrobat"],
-    "correctAnswer": "A mascot"
-  },
-  {
-    "question": "My ____ is full of happy memories. / ____ của tôi đầy những kỷ niệm vui vẻ.",
-    "options": ["day", "desk", "bag", "box"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Is it a picture of a theme park? / Nó có phải là một bức tranh về một công viên giải trí không?",
-    "options": ["Yes, it is.", "No, it is a zoo.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes the ____. / Bạn tôi thích ____.",
-    "options": ["roller coaster", "carousel", "Ferris wheel", "swing"],
-    "correctAnswer": "roller coaster"
-  },
-  {
-    "question": "Spell the word: l-i-n-e / Đánh vần từ: l-i-n-e",
-    "options": ["line", "lion", "live", "like"],
-    "correctAnswer": "line"
-  },
-  {
-    "question": "This is a ____ day to go to the theme park. / Đây là một ngày ____ để đi đến công viên giải trí.",
-    "options": ["perfect", "rainy", "cloudy", "windy"],
-    "correctAnswer": "perfect"
-  },
-  {
-    "question": "What is the missing letter": "per_ect / Chữ cái còn thiếu là gì? per_ect",
-    "options": ["f", "p", "s", "m"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A food stall", "A gift shop", "A ticket booth", "An information center"],
-    "correctAnswer": "A food stall"
-  },
-  {
-    "question": "My father is buying ____. / Bố tôi đang mua ____.",
-    "options": ["tickets", "popcorn", "drinks", "souvenirs"],
-    "correctAnswer": "tickets"
-  },
-  {
-    "question": "Are the rides safe? / Các chuyến đi có an toàn không?",
-    "options": ["Yes, they are.", "No, they are dangerous.", "They are rides.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My theme park has many ____. / Công viên giải trí của tôi có nhiều ____.",
-    "options": ["attractions", "teachers", "parents", "doctors"],
-    "correctAnswer": "attractions"
-  },
-  {
-    "question": "Spell the word: s-a-f-e / Đánh vần từ: s-a-f-e",
-    "options": ["safe", "save", "sale", "same"],
-    "correctAnswer": "safe"
-  },
-  {
-    "question": "I am ____ at the theme park. / Tôi ____ ở công viên giải trí.",
-    "options": ["excited", "sad", "bored", "angry"],
-    "correctAnswer": "excited"
-  },
-  {
-    "question": "What is the missing letter": "excite_",
-    "options": ["d", "s", "t", "p"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A map of the park", "A book", "A letter", "A card"],
-    "correctAnswer": "A map of the park"
-  },
-  {
-    "question": "My theme park is my favorite ____. / Công viên giải trí là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the carousel slow? / Đu quay ngựa gỗ có chậm không?",
-    "options": ["Yes, it is.", "No, it is fast.", "It is a carousel.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The park has a ____. / Công viên có một ____.",
-    "options": ["water park", "zoo", "farm", "beach"],
-    "correctAnswer": "water park"
-  },
-  {
-    "question": "Spell the word: w-a-t-e-r / Đánh vần từ: w-a-t-e-r",
-    "options": ["water", "waiter", "later", "watch"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "We wear ____ to the water park. / Chúng tôi mặc ____ đến công viên nước.",
-    "options": ["swimsuits", "coats", "jeans", "shoes"],
-    "correctAnswer": "swimsuits"
-  },
-  {
-    "question": "What is the missing letter": "swimsui_",
-    "options": ["t", "s", "p", "k"],
-    "correctAnswer": "t"
-  }
+    {
+        "question": "Where are you? - I'm at the ____. / Bạn đang ở đâu? - Tớ đang ở ____.",
+        "options": [
+            "theme park",
+            "school",
+            "zoo",
+            "farm"
+        ],
+        "correctAnswer": "theme park"
+    },
+    {
+        "question": "This is a ____. It goes up and down very fast. / Đây là một ____. Nó đi lên và xuống rất nhanh.",
+        "options": [
+            "roller coaster",
+            "Ferris wheel",
+            "carousel",
+            "swing"
+        ],
+        "correctAnswer": "roller coaster"
+    },
+    {
+        "question": "You can see the whole park from the top of the ____. / Bạn có thể nhìn thấy toàn bộ công viên từ đỉnh của ____.",
+        "options": [
+            "Ferris wheel",
+            "roller coaster",
+            "carousel",
+            "swing"
+        ],
+        "correctAnswer": "Ferris wheel"
+    },
+    {
+        "question": "This is a ____. You can ride on the horses. / Đây là một ____. Bạn có thể cưỡi trên những con ngựa.",
+        "options": [
+            "carousel",
+            "roller coaster",
+            "Ferris wheel",
+            "swing"
+        ],
+        "correctAnswer": "carousel"
+    },
+    {
+        "question": "Spell the word: p-a-r-k / Đánh vần từ: p-a-r-k",
+        "options": [
+            "park",
+            "dark",
+            "bark",
+            "mark"
+        ],
+        "correctAnswer": "park"
+    },
+    {
+        "question": "You need a ____ to enter the theme park. / Bạn cần một ____ để vào công viên giải trí.",
+        "options": [
+            "ticket",
+            "book",
+            "pen",
+            "hat"
+        ],
+        "correctAnswer": "ticket"
+    },
+    {
+        "question": "I like to eat ____ at the theme park. / Tớ thích ăn ____ ở công viên giải trí.",
+        "options": [
+            "popcorn",
+            "rice",
+            "fish",
+            "bread"
+        ],
+        "correctAnswer": "popcorn"
+    },
+    {
+        "question": "Find the word: r-i-d-e / Tìm từ: r-i-d-e",
+        "options": [
+            "ride",
+            "red",
+            "road",
+            "read"
+        ],
+        "correctAnswer": "ride"
+    },
+    {
+        "question": "Are you having fun? / Bạn có đang vui không?",
+        "options": [
+            "Yes, I am.",
+            "No, I'm not.",
+            "I like theme parks.",
+            "It is a ride."
+        ],
+        "correctAnswer": "Yes, I am."
+    },
+    {
+        "question": "This is an exciting ____. / Đây là một ____ thú vị.",
+        "options": [
+            "ride",
+            "book",
+            "lesson",
+            "test"
+        ],
+        "correctAnswer": "ride"
+    },
+    {
+        "question": "What is he doing? / Cậu ấy đang làm gì vậy?",
+        "options": [
+            "He's eating popcorn.",
+            "He's reading a book.",
+            "He's writing a letter.",
+            "He's singing a song."
+        ],
+        "correctAnswer": "He's eating popcorn."
+    },
+    {
+        "question": "I like to ____ on the carousel. / Tớ thích ____ trên đu quay ngựa gỗ.",
+        "options": [
+            "ride",
+            "play",
+            "read",
+            "study"
+        ],
+        "correctAnswer": "ride"
+    },
+    {
+        "question": "What is the missing letter: rid_",
+        "options": [
+            "e",
+            "a",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "e"
+    },
+    {
+        "question": "This is a ____. It's a fun place. / Đây là một ____. Đó là một nơi vui vẻ.",
+        "options": [
+            "theme park",
+            "school",
+            "city",
+            "shop"
+        ],
+        "correctAnswer": "theme park"
+    },
+    {
+        "question": "My friends are on the ____. / Bạn bè của tôi đang ở trên ____.",
+        "options": [
+            "roller coaster",
+            "slide",
+            "swing",
+            "seesaw"
+        ],
+        "correctAnswer": "roller coaster"
+    },
+    {
+        "question": "Let's buy a ____. / Hãy mua một ____.",
+        "options": [
+            "ticket",
+            "book",
+            "pencil",
+            "chair"
+        ],
+        "correctAnswer": "ticket"
+    },
+    {
+        "question": "Spell the word: f-u-n / Đánh vần từ: f-u-n",
+        "options": [
+            "fun",
+            "sun",
+            "run",
+            "bun"
+        ],
+        "correctAnswer": "fun"
+    },
+    {
+        "question": "Is this a big theme park? / Đây có phải là một công viên giải trí lớn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is small.",
+            "It is a ride.",
+            "I can see a carousel."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I am waiting in ____. / Tôi đang đợi trong ____.",
+        "options": [
+            "line",
+            "a house",
+            "a shop",
+            "a car"
+        ],
+        "correctAnswer": "line"
+    },
+    {
+        "question": "What is the missing letter: _un / Chữ cái còn thiếu là gì? _un",
+        "options": [
+            "f",
+            "s",
+            "r",
+            "b"
+        ],
+        "correctAnswer": "f"
+    },
+    {
+        "question": "These are fun ____. / Đây là những ____ vui vẻ.",
+        "options": [
+            "rides",
+            "toys",
+            "books",
+            "pets"
+        ],
+        "correctAnswer": "rides"
+    },
+    {
+        "question": "What's your favorite ride? / Chuyến đi yêu thích của bạn là gì?",
+        "options": [
+            "I like the Ferris wheel.",
+            "I am fine.",
+            "My name is Mai.",
+            "I am eight."
+        ],
+        "correctAnswer": "I like the Ferris wheel."
+    },
+    {
+        "question": "This is a ____. / Đây là một ____.",
+        "options": [
+            "clown",
+            "teacher",
+            "doctor",
+            "farmer"
+        ],
+        "correctAnswer": "clown"
+    },
+    {
+        "question": "Spell the word: t-i-c-k-e-t / Đánh vần từ: t-i-c-k-e-t",
+        "options": [
+            "ticket",
+            "thicket",
+            "tackle",
+            "tinfoil"
+        ],
+        "correctAnswer": "ticket"
+    },
+    {
+        "question": "Is it exciting? / Nó có thú vị không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is boring.",
+            "It is a theme park.",
+            "I can see my friends."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "We can eat ____ at the theme park. / Chúng ta có thể ăn ____ ở công viên giải trí.",
+        "options": [
+            "cotton candy",
+            "rice",
+            "fish",
+            "bread"
+        ],
+        "correctAnswer": "cotton candy"
+    },
+    {
+        "question": "What is the missing letter: par_",
+        "options": [
+            "k",
+            "t",
+            "d",
+            "p"
+        ],
+        "correctAnswer": "k"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A haunted house",
+            "A school",
+            "A library",
+            "A hospital"
+        ],
+        "correctAnswer": "A haunted house"
+    },
+    {
+        "question": "This is a ____. You can win a prize. / Đây là một ____. Bạn có thể thắng một giải thưởng.",
+        "options": [
+            "game stall",
+            "shop",
+            "cafe",
+            "restaurant"
+        ],
+        "correctAnswer": "game stall"
+    },
+    {
+        "question": "This is ____. It's a fun day out. / Đây là ____. Đó là một ngày đi chơi vui vẻ.",
+        "options": [
+            "a theme park",
+            "school",
+            "homework",
+            "work"
+        ],
+        "correctAnswer": "a theme park"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A carousel",
+            "A roller coaster",
+            "A Ferris wheel",
+            "A swing"
+        ],
+        "correctAnswer": "A carousel"
+    },
+    {
+        "question": "Find the word: p-o-p-c-o-r-n / Tìm từ: p-o-p-c-o-r-n",
+        "options": [
+            "popcorn",
+            "poppy",
+            "popular",
+            "poplar"
+        ],
+        "correctAnswer": "popcorn"
+    },
+    {
+        "question": "Are they screaming on the ride? / Họ có đang la hét trên chuyến đi không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are not.",
+            "I am on a ride.",
+            "I like rides."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "My ____ is colourful. / ____ của tôi nhiều màu sắc.",
+        "options": [
+            "carousel",
+            "roller coaster",
+            "Ferris wheel",
+            "swing"
+        ],
+        "correctAnswer": "carousel"
+    },
+    {
+        "question": "What is the missing letter: F_rris wheel / Chữ cái còn thiếu là gì? F_rris wheel",
+        "options": [
+            "e",
+            "a",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "e"
+    },
+    {
+        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+        "options": [
+            "day",
+            "book",
+            "lesson",
+            "game"
+        ],
+        "correctAnswer": "day"
+    },
+    {
+        "question": "Spell the word: r-i-d-e / Đánh vần từ: r-i-d-e",
+        "options": [
+            "ride",
+            "red",
+            "road",
+            "read"
+        ],
+        "correctAnswer": "ride"
+    },
+    {
+        "question": "Is this a scary ride? / Đây có phải là một chuyến đi đáng sợ không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is fun.",
+            "I can see a ride.",
+            "I like rides."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The theme park has many ____. / Công viên giải trí có nhiều ____.",
+        "options": [
+            "people",
+            "books",
+            "pets",
+            "clothes"
+        ],
+        "correctAnswer": "people"
+    },
+    {
+        "question": "What is the missing letter: _un / Chữ cái còn thiếu là gì? _un",
+        "options": [
+            "f",
+            "p",
+            "b",
+            "c"
+        ],
+        "correctAnswer": "f"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A water slide",
+            "A roller coaster",
+            "A Ferris wheel",
+            "A carousel"
+        ],
+        "correctAnswer": "A water slide"
+    },
+    {
+        "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
+        "options": [
+            "day",
+            "house",
+            "room",
+            "bag"
+        ],
+        "correctAnswer": "day"
+    },
+    {
+        "question": "Is the popcorn sweet? / Bắp rang bơ có ngọt không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is salty.",
+            "It is popcorn.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "I can see a clown and a ____. / Tôi có thể thấy một chú hề và một ____.",
+        "options": [
+            "magician",
+            "house",
+            "car",
+            "book"
+        ],
+        "correctAnswer": "magician"
+    },
+    {
+        "question": "Find the word: m-a-g-i-c / Tìm từ: m-a-g-i-c",
+        "options": [
+            "magic",
+            "magnet",
+            "major",
+            "maker"
+        ],
+        "correctAnswer": "magic"
+    },
+    {
+        "question": "This is my ____. I do it with my family. / Đây là ____ của tôi. Tôi làm nó với gia đình tôi.",
+        "options": [
+            "outing",
+            "homework",
+            "chore",
+            "job"
+        ],
+        "correctAnswer": "outing"
+    },
+    {
+        "question": "What is the missing letter: ticke_",
+        "options": [
+            "t",
+            "k",
+            "p",
+            "d"
+        ],
+        "correctAnswer": "t"
+    },
+    {
+        "question": "Is it a beautiful park? / Nó có phải là một công viên đẹp không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is ugly.",
+            "I like parks.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is fun. / ____ của tôi rất vui.",
+        "options": [
+            "trip",
+            "homework",
+            "class",
+            "test"
+        ],
+        "correctAnswer": "trip"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A parade",
+            "A show",
+            "A concert",
+            "A movie"
+        ],
+        "correctAnswer": "A parade"
+    },
+    {
+        "question": "What do you want to do? / Bạn muốn làm gì?",
+        "options": [
+            "I want to go on the roller coaster.",
+            "I am fine.",
+            "My name is Lucy.",
+            "I am nine."
+        ],
+        "correctAnswer": "I want to go on the roller coaster."
+    },
+    {
+        "question": "A theme park is a place for ____. / Một công viên giải trí là một nơi để ____.",
+        "options": [
+            "entertainment",
+            "studying",
+            "sleeping",
+            "working"
+        ],
+        "correctAnswer": "entertainment"
+    },
+    {
+        "question": "I would like ____ ice cream. / Tôi muốn ____ kem.",
+        "options": [
+            "an",
+            "a",
+            "many",
+            "some"
+        ],
+        "correctAnswer": "an"
+    },
+    {
+        "question": "What colour is the carousel? / Đu quay ngựa gỗ màu gì?",
+        "options": [
+            "It's colourful.",
+            "It's a carousel.",
+            "It's big.",
+            "I have a carousel."
+        ],
+        "correctAnswer": "It's colourful."
+    },
+    {
+        "question": "What is the clown doing? / Chú hề đang làm gì?",
+        "options": [
+            "He's juggling.",
+            "He's sleeping.",
+            "He's eating.",
+            "He's flying."
+        ],
+        "correctAnswer": "He's juggling."
+    },
+    {
+        "question": "The roller coaster is ____. / Tàu lượn thì ____.",
+        "options": [
+            "fast",
+            "slow",
+            "small",
+            "thin"
+        ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "The people are ____. / Mọi người thì ____.",
+        "options": [
+            "excited",
+            "bored",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "excited"
+    },
+    {
+        "question": "Is the park crowded? / Công viên có đông không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is empty.",
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My day at the theme park is ____. / Ngày của tôi ở công viên giải trí thì ____.",
+        "options": [
+            "unforgettable",
+            "noisy",
+            "busy",
+            "crowded"
+        ],
+        "correctAnswer": "unforgettable"
+    },
+    {
+        "question": "What is the missing letter: unforgetta_le / Chữ cái còn thiếu là gì? unforgetta_le",
+        "options": [
+            "b",
+            "t",
+            "d",
+            "k"
+        ],
+        "correctAnswer": "b"
+    },
+    {
+        "question": "This is the ____. / Đây là ____.",
+        "options": [
+            "Ferris wheel",
+            "roller coaster",
+            "carousel",
+            "swing"
+        ],
+        "correctAnswer": "Ferris wheel"
+    },
+    {
+        "question": "I love the ____. / Tôi yêu ____.",
+        "options": [
+            "theme park",
+            "dog",
+            "cat",
+            "bird"
+        ],
+        "correctAnswer": "theme park"
+    },
+    {
+        "question": "Is the music loud? / Âm nhạc có lớn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is soft.",
+            "It is music.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Let's go to the ____. / Hãy đi đến ____.",
+        "options": [
+            "theme park",
+            "kitchen",
+            "bedroom",
+            "bathroom"
+        ],
+        "correctAnswer": "theme park"
+    },
+    {
+        "question": "Spell the word: r-i-d-e / Đánh vần từ: r-i-d-e",
+        "options": [
+            "ride",
+            "red",
+            "road",
+            "read"
+        ],
+        "correctAnswer": "ride"
+    },
+    {
+        "question": "I have ____ new ticket. / Tôi có ____ vé mới.",
+        "options": [
+            "a",
+            "an",
+            "one",
+            "two"
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "question": "My favorite ride is the ____. / Chuyến đi yêu thích của tôi là ____.",
+        "options": [
+            "carousel",
+            "roller coaster",
+            "Ferris wheel",
+            "swing"
+        ],
+        "correctAnswer": "carousel"
+    },
+    {
+        "question": "What is the missing letter: carouse_",
+        "options": [
+            "l",
+            "a",
+            "i",
+            "e"
+        ],
+        "correctAnswer": "l"
+    },
+    {
+        "question": "This is ____. You can buy souvenirs here. / Đây là ____. Bạn có thể mua quà lưu niệm ở đây.",
+        "options": [
+            "a gift shop",
+            "a restaurant",
+            "a cafe",
+            "a cinema"
+        ],
+        "correctAnswer": "a gift shop"
+    },
+    {
+        "question": "We should wait in ____ for the rides. / Chúng ta nên đợi trong ____ cho các chuyến đi.",
+        "options": [
+            "line",
+            "a circle",
+            "a square",
+            "a group"
+        ],
+        "correctAnswer": "line"
+    },
+    {
+        "question": "Is it a fun day? / Nó có phải là một ngày vui không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is boring.",
+            "I like fun days.",
+            "The day is fun."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Spell the word: f-u-n / Đánh vần từ: f-u-n",
+        "options": [
+            "fun",
+            "sun",
+            "run",
+            "bun"
+        ],
+        "correctAnswer": "fun"
+    },
+    {
+        "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
+        "options": [
+            "bags",
+            "desk",
+            "chair",
+            "floor"
+        ],
+        "correctAnswer": "bags"
+    },
+    {
+        "question": "The clown is making ____. / Chú hề đang làm ____.",
+        "options": [
+            "balloons",
+            "food",
+            "drinks",
+            "music"
+        ],
+        "correctAnswer": "balloons"
+    },
+    {
+        "question": "What is the missing letter: balloo_",
+        "options": [
+            "n",
+            "p",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "n"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A mascot",
+            "A clown",
+            "A magician",
+            "An acrobat"
+        ],
+        "correctAnswer": "A mascot"
+    },
+    {
+        "question": "My ____ is full of happy memories. / ____ của tôi đầy những kỷ niệm vui vẻ.",
+        "options": [
+            "day",
+            "desk",
+            "bag",
+            "box"
+        ],
+        "correctAnswer": "day"
+    },
+    {
+        "question": "Is it a picture of a theme park? / Nó có phải là một bức tranh về một công viên giải trí không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is a zoo.",
+            "I see a picture.",
+            "The picture is nice."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My friend likes the ____. / Bạn tôi thích ____.",
+        "options": [
+            "roller coaster",
+            "carousel",
+            "Ferris wheel",
+            "swing"
+        ],
+        "correctAnswer": "roller coaster"
+    },
+    {
+        "question": "Spell the word: l-i-n-e / Đánh vần từ: l-i-n-e",
+        "options": [
+            "line",
+            "lion",
+            "live",
+            "like"
+        ],
+        "correctAnswer": "line"
+    },
+    {
+        "question": "This is a ____ day to go to the theme park. / Đây là một ngày ____ để đi đến công viên giải trí.",
+        "options": [
+            "perfect",
+            "rainy",
+            "cloudy",
+            "windy"
+        ],
+        "correctAnswer": "perfect"
+    },
+    {
+        "question": "What is the missing letter: per_ect / Chữ cái còn thiếu là gì? per_ect",
+        "options": [
+            "f",
+            "p",
+            "s",
+            "m"
+        ],
+        "correctAnswer": "f"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A food stall",
+            "A gift shop",
+            "A ticket booth",
+            "An information center"
+        ],
+        "correctAnswer": "A food stall"
+    },
+    {
+        "question": "My father is buying ____. / Bố tôi đang mua ____.",
+        "options": [
+            "tickets",
+            "popcorn",
+            "drinks",
+            "souvenirs"
+        ],
+        "correctAnswer": "tickets"
+    },
+    {
+        "question": "Are the rides safe? / Các chuyến đi có an toàn không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are dangerous.",
+            "They are rides.",
+            "I am happy."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "My theme park has many ____. / Công viên giải trí của tôi có nhiều ____.",
+        "options": [
+            "attractions",
+            "teachers",
+            "parents",
+            "doctors"
+        ],
+        "correctAnswer": "attractions"
+    },
+    {
+        "question": "Spell the word: s-a-f-e / Đánh vần từ: s-a-f-e",
+        "options": [
+            "safe",
+            "save",
+            "sale",
+            "same"
+        ],
+        "correctAnswer": "safe"
+    },
+    {
+        "question": "I am ____ at the theme park. / Tôi ____ ở công viên giải trí.",
+        "options": [
+            "excited",
+            "sad",
+            "bored",
+            "angry"
+        ],
+        "correctAnswer": "excited"
+    },
+    {
+        "question": "What is the missing letter: excite_",
+        "options": [
+            "d",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "d"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A map of the park",
+            "A book",
+            "A letter",
+            "A card"
+        ],
+        "correctAnswer": "A map of the park"
+    },
+    {
+        "question": "My theme park is my favorite ____. / Công viên giải trí là ____ yêu thích của tôi.",
+        "options": [
+            "place",
+            "food",
+            "colour",
+            "toy"
+        ],
+        "correctAnswer": "place"
+    },
+    {
+        "question": "Is the carousel slow? / Đu quay ngựa gỗ có chậm không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is fast.",
+            "It is a carousel.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The park has a ____. / Công viên có một ____.",
+        "options": [
+            "water park",
+            "zoo",
+            "farm",
+            "beach"
+        ],
+        "correctAnswer": "water park"
+    },
+    {
+        "question": "Spell the word: w-a-t-e-r / Đánh vần từ: w-a-t-e-r",
+        "options": [
+            "water",
+            "waiter",
+            "later",
+            "watch"
+        ],
+        "correctAnswer": "water"
+    },
+    {
+        "question": "We wear ____ to the water park. / Chúng tôi mặc ____ đến công viên nước.",
+        "options": [
+            "swimsuits",
+            "coats",
+            "jeans",
+            "shoes"
+        ],
+        "correctAnswer": "swimsuits"
+    },
+    {
+        "question": "What is the missing letter: swimsui_",
+        "options": [
+            "t",
+            "s",
+            "p",
+            "k"
+        ],
+        "correctAnswer": "t"
+    }
 ]
-
