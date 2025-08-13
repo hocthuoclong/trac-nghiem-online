@@ -1,483 +1,962 @@
 [
-  {
-    "question": "This is my ____. / Đây là ____ của tôi.",
-    "options": ["head", "hand", "foot", "leg"],
-    "correctAnswer": "head"
-  },
-  {
-    "question": "Touch your ____. / Chạm vào ____ của bạn.",
-    "options": ["nose", "eyes", "ears", "mouth"],
-    "correctAnswer": "nose"
-  },
-  {
-    "question": "I have two ____ to see. / Tôi có hai ____ để nhìn.",
-    "options": ["eyes", "ears", "hands", "feet"],
-    "correctAnswer": "eyes"
-  },
-  {
-    "question": "This is my ____. I use it to talk. / Đây là ____ của tôi. Tôi dùng nó để nói.",
-    "options": ["mouth", "nose", "eye", "ear"],
-    "correctAnswer": "mouth"
-  },
-  {
-    "question": "Spell the word: h-a-n-d / Đánh vần từ: h-a-n-d",
-    "options": ["hand", "head", "sand", "land"],
-    "correctAnswer": "hand"
-  },
-  {
-    "question": "Clap your ____! / Vỗ ____ của bạn!",
-    "options": ["hands", "feet", "legs", "arms"],
-    "correctAnswer": "hands"
-  },
-  {
-    "question": "I have ten ____ on my hands. / Tôi có mười ____ trên tay.",
-    "options": ["fingers", "toes", "hands", "arms"],
-    "correctAnswer": "fingers"
-  },
-  {
-    "question": "Find the word: f-o-o-t / Tìm từ: f-o-o-t",
-    "options": ["foot", "food", "four", "for"],
-    "correctAnswer": "foot"
-  },
-  {
-    "question": "Is this your arm? / Đây có phải là cánh tay của bạn không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a leg.", "I have two arms."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is my ____. I use it to walk. / Đây là ____ của tôi. Tôi dùng nó để đi bộ.",
-    "options": ["leg", "arm", "hand", "head"],
-    "correctAnswer": "leg"
-  },
-  {
-    "question": "What can you do with your ears? / Bạn có thể làm gì với tai của mình?",
-    "options": ["I can hear.", "I can see.", "I can smell.", "I can taste."],
-    "correctAnswer": "I can hear."
-  },
-  {
-    "question": "I like to ____ my feet. / Tôi thích ____ chân của tôi.",
-    "options": ["stomp", "clap", "wave", "touch"],
-    "correctAnswer": "stomp"
-  },
-  {
-    "question": "What is the missing letter? hea_ / Chữ cái còn thiếu là gì? hea_",
-    "options": ["d", "t", "p", "b"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is my ____. It's on my face. / Đây là ____ của tôi. Nó ở trên mặt tôi.",
-    "options": ["nose", "hand", "foot", "leg"],
-    "correctAnswer": "nose"
-  },
-  {
-    "question": "My ____ are for walking. / ____ của tôi là để đi bộ.",
-    "options": ["legs", "arms", "hands", "eyes"],
-    "correctAnswer": "legs"
-  },
-  {
-    "question": "Let's touch our ____. / Hãy chạm vào ____ của chúng ta.",
-    "options": ["shoulders", "knees", "toes", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: e-y-e / Đánh vần từ: e-y-e",
-    "options": ["eye", "ear", "eat", "egg"],
-    "correctAnswer": "eye"
-  },
-  {
-    "question": "Is this a big nose? / Đây có phải là một cái mũi to không?",
-    "options": ["No, it is small.", "Yes, it is.", "It is a nose.", "I can see a nose."],
-    "correctAnswer": "No, it is small."
-  },
-  {
-    "question": "I am opening my ____. / Tôi đang mở ____ của tôi.",
-    "options": ["mouth", "eyes", "ears", "hands"],
-    "correctAnswer": "mouth"
-  },
-  {
-    "question": "What is the missing letter? _rm / Chữ cái còn thiếu là gì? _rm",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "These are my ____. / Đây là những ____ của tôi.",
-    "options": ["shoulders", "fingers", "toes", "knees"],
-    "correctAnswer": "shoulders"
-  },
-  {
-    "question": "How many fingers do you have? / Bạn có bao nhiêu ngón tay?",
-    "options": ["Ten", "Five", "Two", "One"],
-    "correctAnswer": "Ten"
-  },
-  {
-    "question": "This is my ____. It's between my arm and my hand. / Đây là ____ của tôi. Nó ở giữa cánh tay và bàn tay của tôi.",
-    "options": ["elbow", "knee", "shoulder", "wrist"],
-    "correctAnswer": "elbow"
-  },
-  {
-    "question": "Spell the word: l-e-g / Đánh vần từ: l-e-g",
-    "options": ["leg", "let", "led", "less"],
-    "correctAnswer": "leg"
-  },
-  {
-    "question": "Is it your body? / Nó có phải là cơ thể của bạn không?",
-    "options": ["Yes, it is.", "No, it is not.", "It is a body.", "I can see a body."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can ____ with our hands. / Chúng ta có thể ____ bằng tay.",
-    "options": ["touch", "run", "jump", "walk"],
-    "correctAnswer": "touch"
-  },
-  {
-    "question": "What is the missing letter? mout_",
-    "options": ["h", "t", "d", "g"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A foot", "A hand", "An arm", "A leg"],
-    "correctAnswer": "A foot"
-  },
-  {
-    "question": "This is a ____. You have two of them. / Đây là một ____. Bạn có hai cái.",
-    "options": ["foot", "hand", "arm", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "This is ____. It's my body. / Đây là ____. Đó là cơ thể của tôi.",
-    "options": ["me", "you", "he", "she"],
-    "correctAnswer": "me"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["An ear", "An eye", "A nose", "A mouth"],
-    "correctAnswer": "An ear"
-  },
-  {
-    "question": "Find the word: b-o-d-y / Tìm từ: b-o-d-y",
-    "options": ["body", "baby", "boy", "buddy"],
-    "correctAnswer": "body"
-  },
-  {
-    "question": "Is it your hair? / Nó có phải là tóc của bạn không?",
-    "options": ["Yes, it is.", "No, it isn't.", "I am at home.", "I like my hair."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is long. / ____ của tôi dài.",
-    "options": ["hair", "nose", "ear", "eye"],
-    "correctAnswer": "hair"
-  },
-  {
-    "question": "What is the missing letter? hai_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["face", "book", "lesson", "game"],
-    "correctAnswer": "face"
-  },
-  {
-    "question": "Spell the word: f-a-c-e / Đánh vần từ: f-a-c-e",
-    "options": ["face", "race", "case", "lace"],
-    "correctAnswer": "face"
-  },
-  {
-    "question": "Is this a happy face? / Đây có phải là một khuôn mặt vui vẻ không?",
-    "options": ["Yes, it is.", "No, it is sad.", "I can see a face.", "I like faces."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The body has many ____. / Cơ thể có nhiều ____.",
-    "options": ["parts", "books", "toys", "pets"],
-    "correctAnswer": "parts"
-  },
-  {
-    "question": "What is the missing letter? _ody / Chữ cái còn thiếu là gì? _ody",
-    "options": ["b", "p", "d", "f"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A knee", "An elbow", "A shoulder", "A wrist"],
-    "correctAnswer": "A knee"
-  },
-  {
-    "question": "My ____ is on my leg. / ____ của tôi ở trên chân.",
-    "options": ["knee", "elbow", "shoulder", "wrist"],
-    "correctAnswer": "knee"
-  },
-  {
-    "question": "Are your hands clean? / Tay của bạn có sạch không?",
-    "options": ["Yes, they are.", "No, they are dirty.", "They are hands.", "Hello."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "I can see a head and two ____. / Tôi có thể thấy một cái đầu và hai ____.",
-    "options": ["shoulders", "houses", "cars", "books"],
-    "correctAnswer": "shoulders"
-  },
-  {
-    "question": "Find the word: t-o-e / Tìm từ: t-o-e",
-    "options": ["toe", "top", "ton", "tom"],
-    "correctAnswer": "toe"
-  },
-  {
-    "question": "This is my ____. I have ten of them. / Đây là ____ của tôi. Tôi có mười cái.",
-    "options": ["toe", "finger", "hand", "foot"],
-    "correctAnswer": "toe"
-  },
-  {
-    "question": "What is the missing letter? finge_",
-    "options": ["r", "k", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Is it a strong arm? / Nó có phải là một cánh tay khỏe không?",
-    "options": ["Yes, it is.", "No, it is weak.", "I like arms.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["body", "homework", "class", "test"],
-    "correctAnswer": "body"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A tummy", "A back", "A chest", "A neck"],
-    "correctAnswer": "A tummy"
-  },
-  {
-    "question": "How many legs do you have? / Bạn có bao nhiêu cái chân?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "A body is a part of a ____. / Cơ thể là một phần của một ____.",
-    "options": ["person", "school", "shop", "park"],
-    "correctAnswer": "person"
-  },
-  {
-    "question": "I have ____ nose. / Tôi có ____ cái mũi.",
-    "options": ["one", "a", "an", "some"],
-    "correctAnswer": "one"
-  },
-  {
-    "question": "What colour are your eyes? / Mắt của bạn màu gì?",
-    "options": ["Brown", "Blue", "Green", "Black"],
-    "correctAnswer": "Brown"
-  },
-  {
-    "question": "What colour is your hair? / Tóc của bạn màu gì?",
-    "options": ["Black", "Brown", "Blonde", "Red"],
-    "correctAnswer": "Black"
-  },
-  {
-    "question": "My arms are ____. / Cánh tay của tôi thì ____.",
-    "options": ["long", "short", "small", "thin"],
-    "correctAnswer": "long"
-  },
-  {
-    "question": "My fingers are ____. / Ngón tay của tôi thì ____.",
-    "options": ["small", "big", "tall", "long"],
-    "correctAnswer": "small"
-  },
-  {
-    "question": "Is your body healthy? / Cơ thể của bạn có khỏe mạnh không?",
-    "options": ["Yes, it is.", "No, it is sick.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My body is ____. / Cơ thể của tôi thì ____.",
-    "options": ["strong", "weak", "sad", "bad"],
-    "correctAnswer": "strong"
-  },
-  {
-    "question": "What is the missing letter? stron_",
-    "options": ["g", "t", "d", "k"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "This is my ____. / Đây là ____ của tôi.",
-    "options": ["arm", "leg", "foot", "hand"],
-    "correctAnswer": "arm"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["body", "dog", "cat", "bird"],
-    "correctAnswer": "body"
-  },
-  {
-    "question": "Are your feet big? / Bàn chân của bạn có to không?",
-    "options": ["No, they are small.", "Yes, they are.", "They are feet.", "Hello."],
-    "correctAnswer": "No, they are small."
-  },
-  {
-    "question": "Let's shake ____. / Hãy lắc ____.",
-    "options": ["hands", "feet", "legs", "arms"],
-    "correctAnswer": "hands"
-  },
-  {
-    "question": "Spell the word: h-e-a-d / Đánh vần từ: h-e-a-d",
-    "options": ["head", "hand", "read", "bead"],
-    "correctAnswer": "head"
-  },
-  {
-    "question": "I have ____ long hair. / Tôi có ____ mái tóc dài.",
-    "options": ["", "a", "an", "one"],
-    "correctAnswer": ""
-  },
-  {
-    "question": "My favorite part of my body is my ____. / Bộ phận yêu thích trên cơ thể tôi là ____.",
-    "options": ["smile", "eyes", "hands", "hair"],
-    "correctAnswer": "smile"
-  },
-  {
-    "question": "What is the missing letter": "smil_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is my ____. It's between my head and shoulders. / Đây là ____ của tôi. Nó ở giữa đầu và vai của tôi.",
-    "options": ["neck", "chest", "back", "tummy"],
-    "correctAnswer": "neck"
-  },
-  {
-    "question": "We should keep our body ____. / Chúng ta nên giữ cho cơ thể của mình ____.",
-    "options": ["clean", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "Is it a strong leg? / Nó có phải là một cái chân khỏe không?",
-    "options": ["Yes, it is.", "No, it is weak.", "I like legs.", "The leg is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
-    "options": ["clean", "clear", "clan", "cleft"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "I help my mom wash my ____. / Tôi giúp mẹ tôi gội ____.",
-    "options": ["hair", "hands", "feet", "face"],
-    "correctAnswer": "hair"
-  },
-  {
-    "question": "The eyes are on the ____. / Đôi mắt ở trên ____.",
-    "options": ["face", "head", "body", "arm"],
-    "correctAnswer": "face"
-  },
-  {
-    "question": "What is the missing letter": "fac_",
-    "options": ["e", "p", "t", "d"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A hand", "A foot", "An arm", "A leg"],
-    "correctAnswer": "A hand"
-  },
-  {
-    "question": "My ____ is strong. / ____ của tôi khỏe.",
-    "options": ["body", "desk", "bag", "box"],
-    "correctAnswer": "body"
-  },
-  {
-    "question": "Is it a picture of a body? / Nó có phải là một bức tranh về một cơ thể không?",
-    "options": ["Yes, it is.", "No, it is an animal.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to ____. / Bạn tôi thích ____.",
-    "options": ["jump", "run", "skip", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: j-u-m-p / Đánh vần từ: j-u-m-p",
-    "options": ["jump", "pump", "lump", "dump"],
-    "correctAnswer": "jump"
-  },
-  {
-    "question": "This is a ____ day to exercise. / Đây là một ngày ____ để tập thể dục.",
-    "options": ["good", "rainy", "cloudy", "windy"],
-    "correctAnswer": "good"
-  },
-  {
-    "question": "What is the missing letter": "_ood / Chữ cái còn thiếu là gì? _ood",
-    "options": ["g", "h", "w", "f"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A skeleton", "A muscle", "A bone", "A brain"],
-    "correctAnswer": "A skeleton"
-  },
-  {
-    "question": "My father is ____. / Bố tôi thì ____.",
-    "options": ["strong", "tall", "short", "young"],
-    "correctAnswer": "strong"
-  },
-  {
-    "question": "Are the children running? / Bọn trẻ có đang chạy không?",
-    "options": ["Yes, they are.", "No, they are walking.", "They are children.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My body has many ____. / Cơ thể tôi có nhiều ____.",
-    "options": ["bones", "muscles", "parts", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: b-o-n-e / Đánh vần từ: b-o-n-e",
-    "options": ["bone", "cone", "tone", "zone"],
-    "correctAnswer": "bone"
-  },
-  {
-    "question": "I am ____ with my body. / Tôi ____ với cơ thể của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter": "hea_thy / Chữ cái còn thiếu là gì? hea_thy",
-    "options": ["l", "s", "t", "p"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A heart", "A brain", "A lung", "A stomach"],
-    "correctAnswer": "A heart"
-  },
-  {
-    "question": "My body is my ____. / Cơ thể tôi là ____ của tôi.",
-    "options": ["temple", "house", "car", "toy"],
-    "correctAnswer": "temple"
-  },
-  {
-    "question": "Is the hair long or short? / Tóc dài hay ngắn?",
-    "options": ["It is long.", "It is short.", "It is hair.", "Hello."],
-    "correctAnswer": "It is long."
-  },
-  {
-    "question": "The person is ____. / Người đó thì ____.",
-    "options": ["healthy", "sick", "tired", "sad"],
-    "correctAnswer": "healthy"
-  },
-  {
-    "question": "Spell the word: h-e-a-l-t-h-y / Đánh vần từ: h-e-a-l-t-h-y",
-    "options": ["healthy", "heavy", "hearty", "hearth"],
-    "correctAnswer": "healthy"
-  },
-  {
-    "question": "We use our ____ to think. / Chúng ta dùng ____ để suy nghĩ.",
-    "options": ["brain", "heart", "lungs", "stomach"],
-    "correctAnswer": "brain"
-  },
-  {
-    "question": "What is the missing letter": "brai_",
-    "options": ["n", "s", "t", "p"],
-    "correctAnswer": "n"
-  }
+    {
+        "question": "This is my ____. / Đây là ____ của tôi.",
+        "options": [
+            "head",
+            "hand",
+            "foot",
+            "leg"
+        ],
+        "correctAnswer": "head"
+    },
+    {
+        "question": "Touch your ____. / Chạm vào ____ của bạn.",
+        "options": [
+            "nose",
+            "eyes",
+            "ears",
+            "mouth"
+        ],
+        "correctAnswer": "nose"
+    },
+    {
+        "question": "I have two ____ to see. / Tôi có hai ____ để nhìn.",
+        "options": [
+            "eyes",
+            "ears",
+            "hands",
+            "feet"
+        ],
+        "correctAnswer": "eyes"
+    },
+    {
+        "question": "This is my ____. I use it to talk. / Đây là ____ của tôi. Tôi dùng nó để nói.",
+        "options": [
+            "mouth",
+            "nose",
+            "eye",
+            "ear"
+        ],
+        "correctAnswer": "mouth"
+    },
+    {
+        "question": "Spell the word: h-a-n-d / Đánh vần từ: h-a-n-d",
+        "options": [
+            "hand",
+            "head",
+            "sand",
+            "land"
+        ],
+        "correctAnswer": "hand"
+    },
+    {
+        "question": "Clap your ____! / Vỗ ____ của bạn!",
+        "options": [
+            "hands",
+            "feet",
+            "legs",
+            "arms"
+        ],
+        "correctAnswer": "hands"
+    },
+    {
+        "question": "I have ten ____ on my hands. / Tôi có mười ____ trên tay.",
+        "options": [
+            "fingers",
+            "toes",
+            "hands",
+            "arms"
+        ],
+        "correctAnswer": "fingers"
+    },
+    {
+        "question": "Find the word: f-o-o-t / Tìm từ: f-o-o-t",
+        "options": [
+            "foot",
+            "food",
+            "four",
+            "for"
+        ],
+        "correctAnswer": "foot"
+    },
+    {
+        "question": "Is this your arm? / Đây có phải là cánh tay của bạn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "It is a leg.",
+            "I have two arms."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "This is my ____. I use it to walk. / Đây là ____ của tôi. Tôi dùng nó để đi bộ.",
+        "options": [
+            "leg",
+            "arm",
+            "hand",
+            "head"
+        ],
+        "correctAnswer": "leg"
+    },
+    {
+        "question": "What can you do with your ears? / Bạn có thể làm gì với tai của mình?",
+        "options": [
+            "I can hear.",
+            "I can see.",
+            "I can smell.",
+            "I can taste."
+        ],
+        "correctAnswer": "I can hear."
+    },
+    {
+        "question": "I like to ____ my feet. / Tôi thích ____ chân của tôi.",
+        "options": [
+            "stomp",
+            "clap",
+            "wave",
+            "touch"
+        ],
+        "correctAnswer": "stomp"
+    },
+    {
+        "question": "What is the missing letter? hea_",
+        "options": [
+            "d",
+            "t",
+            "p",
+            "b"
+        ],
+        "correctAnswer": "d"
+    },
+    {
+        "question": "This is my ____. It's on my face. / Đây là ____ của tôi. Nó ở trên mặt tôi.",
+        "options": [
+            "nose",
+            "hand",
+            "foot",
+            "leg"
+        ],
+        "correctAnswer": "nose"
+    },
+    {
+        "question": "My ____ are for walking. / ____ của tôi là để đi bộ.",
+        "options": [
+            "legs",
+            "arms",
+            "hands",
+            "eyes"
+        ],
+        "correctAnswer": "legs"
+    },
+    {
+        "question": "Let's touch our ____. / Hãy chạm vào ____ của chúng ta.",
+        "options": [
+            "shoulders",
+            "knees",
+            "toes",
+            "all are correct"
+        ],
+        "correctAnswer": "all are correct"
+    },
+    {
+        "question": "Spell the word: e-y-e / Đánh vần từ: e-y-e",
+        "options": [
+            "eye",
+            "ear",
+            "eat",
+            "egg"
+        ],
+        "correctAnswer": "eye"
+    },
+    {
+        "question": "Is this a big nose? / Đây có phải là một cái mũi to không?",
+        "options": [
+            "No, it is small.",
+            "Yes, it is.",
+            "It is a nose.",
+            "I can see a nose."
+        ],
+        "correctAnswer": "No, it is small."
+    },
+    {
+        "question": "I am opening my ____. / Tôi đang mở ____ của tôi.",
+        "options": [
+            "mouth",
+            "eyes",
+            "ears",
+            "hands"
+        ],
+        "correctAnswer": "mouth"
+    },
+    {
+        "question": "What is the missing letter? _rm / Chữ cái còn thiếu là gì? _rm",
+        "options": [
+            "a",
+            "e",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "a"
+    },
+    {
+        "question": "These are my ____. / Đây là những ____ của tôi.",
+        "options": [
+            "shoulders",
+            "fingers",
+            "toes",
+            "knees"
+        ],
+        "correctAnswer": "shoulders"
+    },
+    {
+        "question": "How many fingers do you have? / Bạn có bao nhiêu ngón tay?",
+        "options": [
+            "Ten",
+            "Five",
+            "Two",
+            "One"
+        ],
+        "correctAnswer": "Ten"
+    },
+    {
+        "question": "This is my ____. It's between my arm and my hand. / Đây là ____ của tôi. Nó ở giữa cánh tay và bàn tay của tôi.",
+        "options": [
+            "elbow",
+            "knee",
+            "shoulder",
+            "wrist"
+        ],
+        "correctAnswer": "elbow"
+    },
+    {
+        "question": "Spell the word: l-e-g / Đánh vần từ: l-e-g",
+        "options": [
+            "leg",
+            "let",
+            "led",
+            "less"
+        ],
+        "correctAnswer": "leg"
+    },
+    {
+        "question": "Is it your body? / Nó có phải là cơ thể của bạn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is not.",
+            "It is a body.",
+            "I can see a body."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "We can ____ with our hands. / Chúng ta có thể ____ bằng tay.",
+        "options": [
+            "touch",
+            "run",
+            "jump",
+            "walk"
+        ],
+        "correctAnswer": "touch"
+    },
+    {
+        "question": "What is the missing letter? mout_",
+        "options": [
+            "h",
+            "t",
+            "d",
+            "g"
+        ],
+        "correctAnswer": "h"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A foot",
+            "A hand",
+            "An arm",
+            "A leg"
+        ],
+        "correctAnswer": "A foot"
+    },
+    {
+        "question": "This is a ____. You have two of them. / Đây là một ____. Bạn có hai cái.",
+        "options": [
+            "foot",
+            "hand",
+            "arm",
+            "all are correct"
+        ],
+        "correctAnswer": "all are correct"
+    },
+    {
+        "question": "This is ____. It's my body. / Đây là ____. Đó là cơ thể của tôi.",
+        "options": [
+            "me",
+            "you",
+            "he",
+            "she"
+        ],
+        "correctAnswer": "me"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "An ear",
+            "An eye",
+            "A nose",
+            "A mouth"
+        ],
+        "correctAnswer": "An ear"
+    },
+    {
+        "question": "Find the word: b-o-d-y / Tìm từ: b-o-d-y",
+        "options": [
+            "body",
+            "baby",
+            "boy",
+            "buddy"
+        ],
+        "correctAnswer": "body"
+    },
+    {
+        "question": "Is it your hair? / Nó có phải là tóc của bạn không?",
+        "options": [
+            "Yes, it is.",
+            "No, it isn't.",
+            "I am at home.",
+            "I like my hair."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is long. / ____ của tôi dài.",
+        "options": [
+            "hair",
+            "nose",
+            "ear",
+            "eye"
+        ],
+        "correctAnswer": "hair"
+    },
+    {
+        "question": "What is the missing letter? hai_",
+        "options": [
+            "r",
+            "n",
+            "m",
+            "p"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+        "options": [
+            "face",
+            "book",
+            "lesson",
+            "game"
+        ],
+        "correctAnswer": "face"
+    },
+    {
+        "question": "Spell the word: f-a-c-e / Đánh vần từ: f-a-c-e",
+        "options": [
+            "face",
+            "race",
+            "case",
+            "lace"
+        ],
+        "correctAnswer": "face"
+    },
+    {
+        "question": "Is this a happy face? / Đây có phải là một khuôn mặt vui vẻ không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is sad.",
+            "I can see a face.",
+            "I like faces."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "The body has many ____. / Cơ thể có nhiều ____.",
+        "options": [
+            "parts",
+            "books",
+            "toys",
+            "pets"
+        ],
+        "correctAnswer": "parts"
+    },
+    {
+        "question": "What is the missing letter? _ody / Chữ cái còn thiếu là gì? _ody",
+        "options": [
+            "b",
+            "p",
+            "d",
+            "f"
+        ],
+        "correctAnswer": "b"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A knee",
+            "An elbow",
+            "A shoulder",
+            "A wrist"
+        ],
+        "correctAnswer": "A knee"
+    },
+    {
+        "question": "My ____ is on my leg. / ____ của tôi ở trên chân.",
+        "options": [
+            "knee",
+            "elbow",
+            "shoulder",
+            "wrist"
+        ],
+        "correctAnswer": "knee"
+    },
+    {
+        "question": "Are your hands clean? / Tay của bạn có sạch không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are dirty.",
+            "They are hands.",
+            "Hello."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "I can see a head and two ____. / Tôi có thể thấy một cái đầu và hai ____.",
+        "options": [
+            "shoulders",
+            "houses",
+            "cars",
+            "books"
+        ],
+        "correctAnswer": "shoulders"
+    },
+    {
+        "question": "Find the word: t-o-e / Tìm từ: t-o-e",
+        "options": [
+            "toe",
+            "top",
+            "ton",
+            "tom"
+        ],
+        "correctAnswer": "toe"
+    },
+    {
+        "question": "This is my ____. I have ten of them. / Đây là ____ của tôi. Tôi có mười cái.",
+        "options": [
+            "toe",
+            "finger",
+            "hand",
+            "foot"
+        ],
+        "correctAnswer": "toe"
+    },
+    {
+        "question": "What is the missing letter? finge_",
+        "options": [
+            "r",
+            "k",
+            "p",
+            "t"
+        ],
+        "correctAnswer": "r"
+    },
+    {
+        "question": "Is it a strong arm? / Nó có phải là một cánh tay khỏe không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is weak.",
+            "I like arms.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My ____ is fun. / ____ của tôi rất vui.",
+        "options": [
+            "body",
+            "homework",
+            "class",
+            "test"
+        ],
+        "correctAnswer": "body"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A tummy",
+            "A back",
+            "A chest",
+            "A neck"
+        ],
+        "correctAnswer": "A tummy"
+    },
+    {
+        "question": "How many legs do you have? / Bạn có bao nhiêu cái chân?",
+        "options": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": "Two"
+    },
+    {
+        "question": "A body is a part of a ____. / Cơ thể là một phần của một ____.",
+        "options": [
+            "person",
+            "school",
+            "shop",
+            "park"
+        ],
+        "correctAnswer": "person"
+    },
+    {
+        "question": "I have ____ nose. / Tôi có ____ cái mũi.",
+        "options": [
+            "one",
+            "a",
+            "an",
+            "some"
+        ],
+        "correctAnswer": "one"
+    },
+    {
+        "question": "What colour are your eyes? / Mắt của bạn màu gì?",
+        "options": [
+            "Brown",
+            "Blue",
+            "Green",
+            "Black"
+        ],
+        "correctAnswer": "Brown"
+    },
+    {
+        "question": "What colour is your hair? / Tóc của bạn màu gì?",
+        "options": [
+            "Black",
+            "Brown",
+            "Blonde",
+            "Red"
+        ],
+        "correctAnswer": "Black"
+    },
+    {
+        "question": "My arms are ____. / Cánh tay của tôi thì ____.",
+        "options": [
+            "long",
+            "short",
+            "small",
+            "thin"
+        ],
+        "correctAnswer": "long"
+    },
+    {
+        "question": "My fingers are ____. / Ngón tay của tôi thì ____.",
+        "options": [
+            "small",
+            "big",
+            "tall",
+            "long"
+        ],
+        "correctAnswer": "small"
+    },
+    {
+        "question": "Is your body healthy? / Cơ thể của bạn có khỏe mạnh không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is sick.",
+            "Yes",
+            "No"
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My body is ____. / Cơ thể của tôi thì ____.",
+        "options": [
+            "strong",
+            "weak",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "What is the missing letter? stron_",
+        "options": [
+            "g",
+            "t",
+            "d",
+            "k"
+        ],
+        "correctAnswer": "g"
+    },
+    {
+        "question": "This is my ____. / Đây là ____ của tôi.",
+        "options": [
+            "arm",
+            "leg",
+            "foot",
+            "hand"
+        ],
+        "correctAnswer": "arm"
+    },
+    {
+        "question": "I love my ____. / Tôi yêu ____ của tôi.",
+        "options": [
+            "body",
+            "dog",
+            "cat",
+            "bird"
+        ],
+        "correctAnswer": "body"
+    },
+    {
+        "question": "Are your feet big? / Bàn chân của bạn có to không?",
+        "options": [
+            "No, they are small.",
+            "Yes, they are.",
+            "They are feet.",
+            "Hello."
+        ],
+        "correctAnswer": "No, they are small."
+    },
+    {
+        "question": "Let's shake ____. / Hãy lắc ____.",
+        "options": [
+            "hands",
+            "feet",
+            "legs",
+            "arms"
+        ],
+        "correctAnswer": "hands"
+    },
+    {
+        "question": "Spell the word: h-e-a-d / Đánh vần từ: h-e-a-d",
+        "options": [
+            "head",
+            "hand",
+            "read",
+            "bead"
+        ],
+        "correctAnswer": "head"
+    },
+    {
+        "question": "I have ____ long hair. / Tôi có ____ mái tóc dài.",
+        "options": [
+            "",
+            "a",
+            "an",
+            "one"
+        ],
+        "correctAnswer": ""
+    },
+    {
+        "question": "My favorite part of my body is my ____. / Bộ phận yêu thích trên cơ thể tôi là ____.",
+        "options": [
+            "smile",
+            "eyes",
+            "hands",
+            "hair"
+        ],
+        "correctAnswer": "smile"
+    },
+    {
+        "question": "What is the missing letter: smil_",
+        "options": [
+            "e",
+            "a",
+            "i",
+            "o"
+        ],
+        "correctAnswer": "e"
+    },
+    {
+        "question": "This is my ____. It's between my head and shoulders. / Đây là ____ của tôi. Nó ở giữa đầu và vai của tôi.",
+        "options": [
+            "neck",
+            "chest",
+            "back",
+            "tummy"
+        ],
+        "correctAnswer": "neck"
+    },
+    {
+        "question": "We should keep our body ____. / Chúng ta nên giữ cho cơ thể của mình ____.",
+        "options": [
+            "clean",
+            "dirty",
+            "messy",
+            "all are wrong"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "Is it a strong leg? / Nó có phải là một cái chân khỏe không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is weak.",
+            "I like legs.",
+            "The leg is long."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
+        "options": [
+            "clean",
+            "clear",
+            "clan",
+            "cleft"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "I help my mom wash my ____. / Tôi giúp mẹ tôi gội ____.",
+        "options": [
+            "hair",
+            "hands",
+            "feet",
+            "face"
+        ],
+        "correctAnswer": "hair"
+    },
+    {
+        "question": "The eyes are on the ____. / Đôi mắt ở trên ____.",
+        "options": [
+            "face",
+            "head",
+            "body",
+            "arm"
+        ],
+        "correctAnswer": "face"
+    },
+    {
+        "question": "What is the missing letter: fac_",
+        "options": [
+            "e",
+            "p",
+            "t",
+            "d"
+        ],
+        "correctAnswer": "e"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A hand",
+            "A foot",
+            "An arm",
+            "A leg"
+        ],
+        "correctAnswer": "A hand"
+    },
+    {
+        "question": "My ____ is strong. / ____ của tôi khỏe.",
+        "options": [
+            "body",
+            "desk",
+            "bag",
+            "box"
+        ],
+        "correctAnswer": "body"
+    },
+    {
+        "question": "Is it a picture of a body? / Nó có phải là một bức tranh về một cơ thể không?",
+        "options": [
+            "Yes, it is.",
+            "No, it is an animal.",
+            "I see a picture.",
+            "The picture is nice."
+        ],
+        "correctAnswer": "Yes, it is."
+    },
+    {
+        "question": "My friend likes to ____. / Bạn tôi thích ____.",
+        "options": [
+            "jump",
+            "run",
+            "skip",
+            "all are correct"
+        ],
+        "correctAnswer": "all are correct"
+    },
+    {
+        "question": "Spell the word: j-u-m-p / Đánh vần từ: j-u-m-p",
+        "options": [
+            "jump",
+            "pump",
+            "lump",
+            "dump"
+        ],
+        "correctAnswer": "jump"
+    },
+    {
+        "question": "This is a ____ day to exercise. / Đây là một ngày ____ để tập thể dục.",
+        "options": [
+            "good",
+            "rainy",
+            "cloudy",
+            "windy"
+        ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "What is the missing letter: _ood / Chữ cái còn thiếu là gì? _ood",
+        "options": [
+            "g",
+            "h",
+            "w",
+            "f"
+        ],
+        "correctAnswer": "g"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A skeleton",
+            "A muscle",
+            "A bone",
+            "A brain"
+        ],
+        "correctAnswer": "A skeleton"
+    },
+    {
+        "question": "My father is ____. / Bố tôi thì ____.",
+        "options": [
+            "strong",
+            "tall",
+            "short",
+            "young"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "Are the children running? / Bọn trẻ có đang chạy không?",
+        "options": [
+            "Yes, they are.",
+            "No, they are walking.",
+            "They are children.",
+            "I am happy."
+        ],
+        "correctAnswer": "Yes, they are."
+    },
+    {
+        "question": "My body has many ____. / Cơ thể tôi có nhiều ____.",
+        "options": [
+            "bones",
+            "muscles",
+            "parts",
+            "all are correct"
+        ],
+        "correctAnswer": "all are correct"
+    },
+    {
+        "question": "Spell the word: b-o-n-e / Đánh vần từ: b-o-n-e",
+        "options": [
+            "bone",
+            "cone",
+            "tone",
+            "zone"
+        ],
+        "correctAnswer": "bone"
+    },
+    {
+        "question": "I am ____ with my body. / Tôi ____ với cơ thể của mình.",
+        "options": [
+            "happy",
+            "sad",
+            "bored",
+            "angry"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What is the missing letter: hea_thy / Chữ cái còn thiếu là gì? hea_thy",
+        "options": [
+            "l",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "l"
+    },
+    {
+        "question": "What is this? / Đây là gì?",
+        "options": [
+            "A heart",
+            "A brain",
+            "A lung",
+            "A stomach"
+        ],
+        "correctAnswer": "A heart"
+    },
+    {
+        "question": "My body is my ____. / Cơ thể tôi là ____ của tôi.",
+        "options": [
+            "temple",
+            "house",
+            "car",
+            "toy"
+        ],
+        "correctAnswer": "temple"
+    },
+    {
+        "question": "Is the hair long or short? / Tóc dài hay ngắn?",
+        "options": [
+            "It is long.",
+            "It is short.",
+            "It is hair.",
+            "Hello."
+        ],
+        "correctAnswer": "It is long."
+    },
+    {
+        "question": "The person is ____. / Người đó thì ____.",
+        "options": [
+            "healthy",
+            "sick",
+            "tired",
+            "sad"
+        ],
+        "correctAnswer": "healthy"
+    },
+    {
+        "question": "Spell the word: h-e-a-l-t-h-y / Đánh vần từ: h-e-a-l-t-h-y",
+        "options": [
+            "healthy",
+            "heavy",
+            "hearty",
+            "hearth"
+        ],
+        "correctAnswer": "healthy"
+    },
+    {
+        "question": "We use our ____ to think. / Chúng ta dùng ____ để suy nghĩ.",
+        "options": [
+            "brain",
+            "heart",
+            "lungs",
+            "stomach"
+        ],
+        "correctAnswer": "brain"
+    },
+    {
+        "question": "What is the missing letter: brai_",
+        "options": [
+            "n",
+            "s",
+            "t",
+            "p"
+        ],
+        "correctAnswer": "n"
+    }
 ]
-
