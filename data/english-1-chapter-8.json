@@ -1,483 +1,902 @@
 [
-  {
-    "question": "What is this place? It has many trees and flowers. / Đây là nơi nào? Nó có nhiều cây và hoa.",
-    "options": ["A park", "A school", "A shop", "A house"],
-    "correctAnswer": "A park"
-  },
-  {
-    "question": "This is a ____. You can slide down it. / Đây là một ____. Bạn có thể trượt xuống trên đó.",
-    "options": ["slide", "swing", "seesaw", "bench"],
-    "correctAnswer": "slide"
-  },
-  {
-    "question": "You can ____ on the swing. / Bạn có thể ____ trên xích đu.",
-    "options": ["swing", "run", "jump", "walk"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "This is a ____. Ducks swim in it. / Đây là một ____. Vịt bơi trong đó.",
-    "options": ["pond", "river", "sea", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "Spell the word: p-a-r-k / Đánh vần từ: p-a-r-k",
-    "options": ["park", "dark", "bark", "mark"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "This is a ____. It says 'quack quack'. / Đây là một ____. Nó kêu 'quạc quạc'.",
-    "options": ["duck", "dog", "cat", "bird"],
-    "correctAnswer": "duck"
-  },
-  {
-    "question": "I like to ____ in the park. / Tôi thích ____ trong công viên.",
-    "options": ["run", "read", "cook", "sleep"],
-    "correctAnswer": "run"
-  },
-  {
-    "question": "Find the word: t-r-e-e / Tìm từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Is this a big park? / Đây có phải là một công viên lớn không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a park.", "I have a ball."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a green ____. / Đây là một ____ màu xanh lá.",
-    "options": ["tree", "flower", "slide", "swing"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "What can you do in the park? / Bạn có thể làm gì trong công viên?",
-    "options": ["I can play.", "I can cook.", "I can sleep.", "I can study."],
-    "correctAnswer": "I can play."
-  },
-  {
-    "question": "I like to see the ____ in the pond. / Tôi thích xem ____ trong ao.",
-    "options": ["ducks", "dogs", "cats", "birds"],
-    "correctAnswer": "ducks"
-  },
-  {
-    "question": "What is the missing letter? par_",
-    "options": ["k", "t", "p", "b"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is a ____. It's a fun place. / Đây là một ____. Đó là một nơi vui vẻ.",
-    "options": ["park", "school", "city", "shop"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "My friends are in the ____. / Bạn bè của tôi đang ở trong ____.",
-    "options": ["park", "house", "school", "shop"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "Let's sit on the ____. / Hãy ngồi trên ____.",
-    "options": ["bench", "slide", "swing", "seesaw"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "Spell the word: d-u-c-k / Đánh vần từ: d-u-c-k",
-    "options": ["duck", "dark", "desk", "deck"],
-    "correctAnswer": "duck"
-  },
-  {
-    "question": "Is this a big slide? / Đây có phải là một cái cầu trượt lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a slide.", "I can see a swing."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am ____ with my friends. / Tôi đang ____ với bạn bè của tôi.",
-    "options": ["playing", "reading", "writing", "studying"],
-    "correctAnswer": "playing"
-  },
-  {
-    "question": "What is the missing letter? _ond / Chữ cái còn thiếu là gì? _ond",
-    "options": ["p", "b", "f", "s"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
-    "options": ["flowers", "trees", "leaves", "benches"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "How many ducks are in the pond? / Có bao nhiêu con vịt trong ao?",
-    "options": ["Three", "One", "Two", "Four"],
-    "correctAnswer": "Three"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["flower", "tree", "leaf", "grass"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Spell the word: r-u-n / Đánh vần từ: r-u-n",
-    "options": ["run", "sun", "fun", "bun"],
-    "correctAnswer": "run"
-  },
-  {
-    "question": "Is it a sunny day? / Hôm nay có phải là một ngày nắng không?",
-    "options": ["Yes, it is.", "No, it is rainy.", "It is a park.", "I can see a tree."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see many ____ in the park. / Chúng ta có thể thấy nhiều ____ trong công viên.",
-    "options": ["people", "cars", "buildings", "shops"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "What is the missing letter? benc_",
-    "options": ["h", "t", "d", "p"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A fountain", "A river", "A sea", "A lake"],
-    "correctAnswer": "A fountain"
-  },
-  {
-    "question": "This is a ____. You can sit on it. / Đây là một ____. Bạn có thể ngồi trên đó.",
-    "options": ["bench", "slide", "swing", "seesaw"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "This is ____. It's a nice place to relax. / Đây là ____. Đó là một nơi tốt đẹp để thư giãn.",
-    "options": ["the park", "the school", "the library", "the gym"],
-    "correctAnswer": "the park"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A swing", "A slide", "A seesaw", "A roundabout"],
-    "correctAnswer": "A swing"
-  },
-  {
-    "question": "Find the word: p-l-a-y / Tìm từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "Is it a quiet park? / Nó có phải là một công viên yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "I am in the park.", "I like the park."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is green. / ____ của tôi màu xanh lá.",
-    "options": ["park", "sky", "sun", "flower"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "What is the missing letter? duc_",
-    "options": ["k", "n", "m", "p"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["park", "book", "lesson", "game"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "Spell the word: t-r-e-e / Đánh vần từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Is this a tall tree? / Đây có phải là một cái cây cao không?",
-    "options": ["Yes, it is.", "No, it is short.", "I can see a tree.", "I like trees."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The park has a big ____. / Công viên có một ____ lớn.",
-    "options": ["pond", "house", "school", "shop"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "What is the missing letter? _ark / Chữ cái còn thiếu là gì? _ark",
-    "options": ["p", "b", "d", "m"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A kite", "A plane", "A bird", "A balloon"],
-    "correctAnswer": "A kite"
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["park", "house", "room", "bag"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "Is the bench long? / Cái ghế dài phải không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a bench.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a tree and some ____. / Tôi có thể thấy một cái cây và một vài ____.",
-    "options": ["flowers", "houses", "cars", "books"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "Find the word: b-e-n-c-h / Tìm từ: b-e-n-c-h",
-    "options": ["bench", "beach", "bunch", "bend"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "This is my ____. I can relax here. / Đây là ____ của tôi. Tôi có thể thư giãn ở đây.",
-    "options": ["park", "bedroom", "school", "office"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "What is the missing letter? swin_",
-    "options": ["g", "k", "p", "t"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "Is it a red flower? / Nó có phải là một bông hoa màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is yellow.", "I like flowers.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["day at the park", "homework", "class", "test"],
-    "correctAnswer": "day at the park"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A path", "A road", "A street", "A highway"],
-    "correctAnswer": "A path"
-  },
-  {
-    "question": "How many trees can you see? / Bạn có thể thấy bao nhiêu cái cây?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "A park is a place for ____. / Một công viên là một nơi cho ____.",
-    "options": ["everyone", "animals", "plants", "cars"],
-    "correctAnswer": "everyone"
-  },
-  {
-    "question": "I see ____ children playing. / Tôi thấy ____ đứa trẻ đang chơi.",
-    "options": ["some", "a", "an", "one"],
-    "correctAnswer": "some"
-  },
-  {
-    "question": "What colour is the slide? / Cầu trượt màu gì?",
-    "options": ["Yellow", "Blue", "Red", "Green"],
-    "correctAnswer": "Yellow"
-  },
-  {
-    "question": "What colour is the duck? / Con vịt màu gì?",
-    "options": ["Yellow", "White", "Black", "Pink"],
-    "correctAnswer": "Yellow"
-  },
-  {
-    "question": "The tree is ____. / Cái cây thì ____.",
-    "options": ["green and brown", "small", "short", "thin"],
-    "correctAnswer": "green and brown"
-  },
-  {
-    "question": "The flowers are ____. / Những bông hoa thì ____.",
-    "options": ["beautiful", "ugly", "sad", "bad"],
-    "correctAnswer": "beautiful"
-  },
-  {
-    "question": "Is the park clean? / Công viên có sạch không?",
-    "options": ["Yes, it is.", "No, it is dirty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My day at the park is ____. / Ngày của tôi ở công viên thì ____.",
-    "options": ["relaxing", "noisy", "busy", "crowded"],
-    "correctAnswer": "relaxing"
-  },
-  {
-    "question": "What is the missing letter? rela_ing / Chữ cái còn thiếu là gì? rela_ing",
-    "options": ["x", "t", "d", "k"],
-    "correctAnswer": "x"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["pond", "river", "sea", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["park", "dog", "cat", "bird"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "Is the path long? / Con đường mòn có dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a path.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["park", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "I have ____ small ball. / Tôi có ____ quả bóng nhỏ.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite place is the ____. / Nơi yêu thích của tôi là ____.",
-    "options": ["park", "school", "library", "supermarket"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "What is the missing letter? par_",
-    "options": ["k", "a", "i", "o"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is ____. It has pretty petals. / Đây là ____. Nó có những cánh hoa xinh đẹp.",
-    "options": ["a flower", "a tree", "a leaf", "grass"],
-    "correctAnswer": "a flower"
-  },
-  {
-    "question": "We should keep the park ____. / Chúng ta nên giữ cho công viên ____.",
-    "options": ["clean", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "Is it a wooden bench? / Nó có phải là một cái ghế gỗ không?",
-    "options": ["Yes, it is.", "No, it is metal.", "I like benches.", "The bench is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: c-l-e-a-n / Đánh vần từ: c-l-e-a-n",
-    "options": ["clean", "clear", "clan", "cleft"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "I help my dad water the ____. / Tôi giúp bố tôi tưới ____.",
-    "options": ["plants", "house", "road", "path"],
-    "correctAnswer": "plants"
-  },
-  {
-    "question": "The park has a ____. / Công viên có một ____.",
-    "options": ["playground", "bed", "sofa", "TV"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "What is the missing letter? playgroun_",
-    "options": ["d", "p", "t", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A squirrel", "A rabbit", "A mouse", "A hamster"],
-    "correctAnswer": "A squirrel"
-  },
-  {
-    "question": "My ____ is full of green trees. / ____ của tôi đầy cây xanh.",
-    "options": ["park", "house", "room", "bag"],
-    "correctAnswer": "park"
-  },
-  {
-    "question": "Is it a picture of a park? / Nó có phải là một bức tranh về một công viên không?",
-    "options": ["Yes, it is.", "No, it is a garden.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to ____. / Bạn tôi thích ____.",
-    "options": ["run", "jump", "skip", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: j-u-m-p / Đánh vần từ: j-u-m-p",
-    "options": ["jump", "pump", "lump", "dump"],
-    "correctAnswer": "jump"
-  },
-  {
-    "question": "This is a ____ day to go to the park. / Đây là một ngày ____ để đi công viên.",
-    "options": ["beautiful", "rainy", "cloudy", "windy"],
-    "correctAnswer": "beautiful"
-  },
-  {
-    "question": "What is the missing letter? _eautiful / Chữ cái còn thiếu là gì? _eautiful",
-    "options": ["b", "f", "r", "m"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cloud", "The sun", "The moon", "A star"],
-    "correctAnswer": "A cloud"
-  },
-  {
-    "question": "My brother is flying a ____. / Anh trai tôi đang thả ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Are the flowers yellow? / Những bông hoa màu vàng phải không?",
-    "options": ["Yes, they are.", "No, they are red.", "They are flowers.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My dog is running on the ____. / Con chó của tôi đang chạy trên ____.",
-    "options": ["grass", "bench", "fence", "swing"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
-    "options": ["kite", "king", "kiss", "kitchen"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "I am ____ in the park. / Tôi ____ trong công viên.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? pon_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bicycle", "A car", "A bus", "A train"],
-    "correctAnswer": "A bicycle"
-  },
-  {
-    "question": "My park is my favorite ____. / Công viên là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the grass short? / Cỏ có ngắn không?",
-    "options": ["Yes, it is.", "No, it is long.", "It is green grass.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The tree has a ____ on it. / Cái cây có một ____ trên đó.",
-    "options": ["bird's nest", "cat", "dog", "ball"],
-    "correctAnswer": "bird's nest"
-  },
-  {
-    "question": "Spell the word: b-i-r-d / Đánh vần từ: b-i-r-d",
-    "options": ["bird", "beard", "board", "bind"],
-    "correctAnswer": "bird"
-  },
-  {
-    "question": "We play ____ in the park. / Chúng tôi chơi ____ trong công viên.",
-    "options": ["hide-and-seek", "chess", "video games", "cards"],
-    "correctAnswer": "hide-and-seek"
-  },
-  {
-    "question": "What is the missing letter? tr_e / Chữ cái còn thiếu là gì? tr_e",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  }
+    {
+        "question": "This is a large, open area with trees and grass where people can relax and play. What is it? / Đây là một khu vực rộng lớn, thoáng đãng có cây cối và cỏ, nơi mọi người có thể thư giãn và vui chơi. Nó là gì?",
+        "options": [
+            "A park",
+            "A school",
+            "A shop",
+            "A house"
+        ],
+        "correctAnswer": "A park"
+    },
+    {
+        "question": "You can find ducks swimming in a small body of water in the park. What is it? / Bạn có thể thấy những chú vịt bơi trong một vùng nước nhỏ ở công viên. Nó là gì?",
+        "options": [
+            "A pond",
+            "A river",
+            "The sea",
+            "A pool"
+        ],
+        "correctAnswer": "A pond"
+    },
+    {
+        "question": "This is a long seat for several people, often found in a park. What is it? / Đây là một chiếc ghế dài cho nhiều người ngồi, thường thấy trong công viên. Nó là gì?",
+        "options": [
+            "A bench",
+            "A chair",
+            "A sofa",
+            "A bed"
+        ],
+        "correctAnswer": "A bench"
+    },
+    {
+        "question": "This bird says 'quack, quack' and likes to swim in the pond. What is it? / Loài chim này kêu 'quạc, quạc' và thích bơi trong ao. Nó là gì?",
+        "options": [
+            "A duck",
+            "A chicken",
+            "A bird",
+            "A dog"
+        ],
+        "correctAnswer": "A duck"
+    },
+    {
+        "question": "You can fly this toy in the park on a windy day. What is it? / Bạn có thể thả món đồ chơi này trong công viên vào một ngày có gió. Nó là gì?",
+        "options": [
+            "A kite",
+            "A ball",
+            "A bike",
+            "A boat"
+        ],
+        "correctAnswer": "A kite"
+    },
+    {
+        "question": "You can ride this vehicle with two wheels in the park. What is it? / Bạn có thể đi loại xe có hai bánh này trong công viên. Nó là gì?",
+        "options": [
+            "A bike",
+            "A car",
+            "A bus",
+            "A plane"
+        ],
+        "correctAnswer": "A bike"
+    },
+    {
+        "question": "What do you do when you are happy in the park? / Bạn làm gì khi vui vẻ trong công viên?",
+        "options": [
+            "Smile",
+            "Cry",
+            "Shout",
+            "Sleep"
+        ],
+        "correctAnswer": "Smile"
+    },
+    {
+        "question": "To move your legs very fast across the grass is to ____. / Di chuyển đôi chân của bạn rất nhanh trên cỏ là ____.",
+        "options": [
+            "run",
+            "walk",
+            "sit",
+            "stand"
+        ],
+        "correctAnswer": "run"
+    },
+    {
+        "question": "To move by putting one foot in front of the other is to ____. / Di chuyển bằng cách đặt một chân lên trước chân kia là ____.",
+        "options": [
+            "walk",
+            "run",
+            "jump",
+            "fly"
+        ],
+        "correctAnswer": "walk"
+    },
+    {
+        "question": "What is the weather like on a good day to go to the park? / Thời tiết như thế nào vào một ngày đẹp trời để đi công viên?",
+        "options": [
+            "Sunny",
+            "Rainy",
+            "Snowy",
+            "Stormy"
+        ],
+        "correctAnswer": "Sunny"
+    },
+    {
+        "question": "A park is a good place to have a ____ with your family. / Công viên là một nơi tốt để có một ____ với gia đình bạn.",
+        "options": [
+            "picnic",
+            "lesson",
+            "meeting",
+            "test"
+        ],
+        "correctAnswer": "picnic"
+    },
+    {
+        "question": "What do you see flying in the sky at the park? / Bạn thấy gì bay trên bầu trời ở công viên?",
+        "options": [
+            "Birds and kites",
+            "Fish and ducks",
+            "Cars and buses",
+            "Boats and ships"
+        ],
+        "correctAnswer": "Birds and kites"
+    },
+    {
+        "question": "What is the opposite of 'sit'? / Từ trái nghĩa của 'sit' là gì?",
+        "options": [
+            "Stand",
+            "Run",
+            "Walk",
+            "Jump"
+        ],
+        "correctAnswer": "Stand"
+    },
+    {
+        "question": "You can ____ on a bench to rest. / Bạn có thể ____ trên một chiếc ghế dài để nghỉ ngơi.",
+        "options": [
+            "sit",
+            "run",
+            "fly",
+            "swim"
+        ],
+        "correctAnswer": "sit"
+    },
+    {
+        "question": "What color are the leaves on the trees in summer? / Lá cây vào mùa hè có màu gì?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Red",
+            "Brown"
+        ],
+        "correctAnswer": "Green"
+    },
+    {
+        "question": "Spell the word for the place you play outside. / Đánh vần từ chỉ nơi bạn chơi bên ngoài.",
+        "options": [
+            "p-a-r-k",
+            "h-o-m-e",
+            "r-o-o-m",
+            "s-h-o-p"
+        ],
+        "correctAnswer": "p-a-r-k"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Big",
+            "Fast",
+            "Hot"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Playing in the park makes children feel ____. / Chơi trong công viên làm cho trẻ em cảm thấy ____.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "tired"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call a small, furry animal that climbs trees and eats nuts? / Bạn gọi con vật nhỏ, có lông, trèo cây và ăn các loại hạt là gì?",
+        "options": [
+            "A squirrel",
+            "A duck",
+            "A fish",
+            "A dog"
+        ],
+        "correctAnswer": "A squirrel"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The flowers in the park are ____. / Những bông hoa trong công viên thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for the animal that says 'quack'. / Đánh vần từ chỉ con vật kêu 'quạc'.",
+        "options": [
+            "d-u-c-k",
+            "d-o-g",
+            "c-a-t",
+            "b-i-r-d"
+        ],
+        "correctAnswer": "d-u-c-k"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
+            "Long",
+            "Wide"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A pond is ____ than a lake. / Một cái ao thì ____ hơn một cái hồ.",
+        "options": [
+            "smaller",
+            "bigger",
+            "taller",
+            "longer"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "What do you do with a kite? / Bạn làm gì với một con diều?",
+        "options": [
+            "Fly it",
+            "Eat it",
+            "Read it",
+            "Wear it"
+        ],
+        "correctAnswer": "Fly it"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Sun",
+            "Sky",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You should go home from the park before ____. / Bạn nên về nhà từ công viên trước ____.",
+        "options": [
+            "night",
+            "morning",
+            "noon",
+            "day"
+        ],
+        "correctAnswer": "night"
+    },
+    {
+        "question": "Spell the word for the toy you fly. / Đánh vần từ chỉ món đồ chơi bạn thả bay.",
+        "options": [
+            "k-i-t-e",
+            "b-a-l-l",
+            "b-i-k-e",
+            "d-o-l-l"
+        ],
+        "correctAnswer": "k-i-t-e"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "A park with many children playing is often ____. / Một công viên có nhiều trẻ em đang chơi thường ____.",
+        "options": [
+            "noisy",
+            "quiet",
+            "empty",
+            "sad"
+        ],
+        "correctAnswer": "noisy"
+    },
+    {
+        "question": "What do you call the food you eat at a picnic? / Bạn gọi thức ăn bạn ăn trong một buổi dã ngoại là gì?",
+        "options": [
+            "Sandwiches and fruit",
+            "Soup and rice",
+            "Fish and chips",
+            "Breakfast"
+        ],
+        "correctAnswer": "Sandwiches and fruit"
+    },
+    {
+        "question": "Spell the word for the vehicle with two wheels. / Đánh vần từ chỉ phương tiện có hai bánh.",
+        "options": [
+            "b-i-k-e",
+            "c-a-r",
+            "b-u-s",
+            "b-o-a-t"
+        ],
+        "correctAnswer": "b-i-k-e"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "You should not leave trash in the park, keep it ____. / Bạn không nên để lại rác trong công viên, hãy giữ nó ____.",
+        "options": [
+            "clean",
+            "dirty",
+            "messy",
+            "wet"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "What do you call a small boat on a pond? / Bạn gọi một chiếc thuyền nhỏ trên ao là gì?",
+        "options": [
+            "A paddle boat",
+            "A ship",
+            "A ferry",
+            "A yacht"
+        ],
+        "correctAnswer": "A paddle boat"
+    },
+    {
+        "question": "What is the opposite of 'friend'? / Từ trái nghĩa của 'friend' là gì?",
+        "options": [
+            "Enemy",
+            "Neighbor",
+            "Family",
+            "Pet"
+        ],
+        "correctAnswer": "Enemy"
+    },
+    {
+        "question": "It's fun to go to the park with a ____. / Thật vui khi đến công viên với một ____.",
+        "options": [
+            "friend",
+            "teacher",
+            "doctor",
+            "stranger"
+        ],
+        "correctAnswer": "friend"
+    },
+    {
+        "question": "Spell the word for a long seat in the park. / Đánh vần từ chỉ một chiếc ghế dài trong công viên.",
+        "options": [
+            "b-e-n-c-h",
+            "c-h-a-i-r",
+            "s-o-f-a",
+            "s-t-o-o-l"
+        ],
+        "correctAnswer": "b-e-n-c-h"
+    },
+    {
+        "question": "What is the opposite of 'sunny'? / Từ trái nghĩa của 'sunny' là gì?",
+        "options": [
+            "Cloudy",
+            "Rainy",
+            "Windy",
+            "Bright"
+        ],
+        "correctAnswer": "Cloudy"
+    },
+    {
+        "question": "White, fluffy things in the sky are ____. / Những vật trắng, xốp trên bầu trời là ____.",
+        "options": [
+            "clouds",
+            "suns",
+            "moons",
+            "stars"
+        ],
+        "correctAnswer": "clouds"
+    },
+    {
+        "question": "What do you throw for a dog to catch? / Bạn ném gì cho một con chó bắt?",
+        "options": [
+            "A frisbee or a ball",
+            "A book",
+            "A chair",
+            "A hat"
+        ],
+        "correctAnswer": "A frisbee or a ball"
+    },
+    {
+        "question": "Spell the word for a small body of water. / Đánh vần từ chỉ một vùng nước nhỏ.",
+        "options": [
+            "p-o-n-d",
+            "l-a-k-e",
+            "r-i-v-e-r",
+            "s-e-a"
+        ],
+        "correctAnswer": "p-o-n-d"
+    },
+    {
+        "question": "What is the opposite of 'above'? / Từ trái nghĩa của 'above' là gì?",
+        "options": [
+            "Below",
+            "On",
+            "Over",
+            "In"
+        ],
+        "correctAnswer": "Below"
+    },
+    {
+        "question": "The birds are flying ____ the trees. / Những con chim đang bay ____ những cái cây.",
+        "options": [
+            "above",
+            "below",
+            "under",
+            "in"
+        ],
+        "correctAnswer": "above"
+    },
+    {
+        "question": "What do you call a meal eaten outside? / Bạn gọi một bữa ăn được ăn ngoài trời là gì?",
+        "options": [
+            "A picnic",
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "correctAnswer": "A picnic"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "Let's ____ our game now. / Hãy ____ trò chơi của chúng ta ngay bây giờ.",
+        "options": [
+            "start",
+            "finish",
+            "end",
+            "stop"
+        ],
+        "correctAnswer": "start"
+    },
+    {
+        "question": "Spell the word for a fun outdoor meal. / Đánh vần từ chỉ một bữa ăn vui vẻ ngoài trời.",
+        "options": [
+            "p-i-c-n-i-c",
+            "l-u-n-c-h",
+            "s-n-a-c-k",
+            "d-i-n-n-e-r"
+        ],
+        "correctAnswer": "p-i-c-n-i-c"
+    },
+    {
+        "question": "What is the opposite of 'old'? / Từ trái nghĩa của 'old' là gì?",
+        "options": [
+            "New",
+            "Young",
+            "Fresh",
+            "Modern"
+        ],
+        "correctAnswer": "New"
+    },
+    {
+        "question": "This park is not old, it is ____. / Công viên này không cũ, nó ____.",
+        "options": [
+            "new",
+            "old",
+            "big",
+            "small"
+        ],
+        "correctAnswer": "new"
+    },
+    {
+        "question": "What do you call a path for bikes? / Bạn gọi con đường dành cho xe đạp là gì?",
+        "options": [
+            "A bike lane",
+            "A road",
+            "A highway",
+            "A sidewalk"
+        ],
+        "correctAnswer": "A bike lane"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "The wind is not strong, it is ____. / Gió không mạnh, nó ____.",
+        "options": [
+            "weak",
+            "strong",
+            "fast",
+            "heavy"
+        ],
+        "correctAnswer": "weak"
+    },
+    {
+        "question": "Spell the word for a small animal that climbs trees. / Đánh vần từ chỉ một con vật nhỏ trèo cây.",
+        "options": [
+            "s-q-u-i-r-r-e-l",
+            "m-o-n-k-e-y",
+            "c-a-t",
+            "d-o-g"
+        ],
+        "correctAnswer": "s-q-u-i-r-r-e-l"
+    },
+    {
+        "question": "What is the opposite of 'wet'? / Từ trái nghĩa của 'wet' là gì?",
+        "options": [
+            "Dry",
+            "Hot",
+            "Cold",
+            "Soft"
+        ],
+        "correctAnswer": "Dry"
+    },
+    {
+        "question": "The grass is ____ after the rain. / Cỏ ____ sau cơn mưa.",
+        "options": [
+            "wet",
+            "dry",
+            "hot",
+            "cold"
+        ],
+        "correctAnswer": "wet"
+    },
+    {
+        "question": "What do you call a place with many flowers? / Bạn gọi một nơi có nhiều hoa là gì?",
+        "options": [
+            "A flowerbed",
+            "A vegetable patch",
+            "A forest",
+            "A field"
+        ],
+        "correctAnswer": "A flowerbed"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ people in the park today. / Có ____ người trong công viên hôm nay.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "Spell the word for a beautiful flying insect. / Đánh vần từ chỉ một loài côn trùng bay xinh đẹp.",
+        "options": [
+            "b-u-t-t-e-r-f-l-y",
+            "b-i-r-d",
+            "b-e-e",
+            "a-n-t"
+        ],
+        "correctAnswer": "b-u-t-t-e-r-f-l-y"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ going to the park. / Tôi ____ đi đến công viên.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a small house for birds? / Bạn gọi một ngôi nhà nhỏ cho chim là gì?",
+        "options": [
+            "A birdhouse",
+            "A nest",
+            "A cage",
+            "A box"
+        ],
+        "correctAnswer": "A birdhouse"
+    },
+    {
+        "question": "What is the opposite of 'push'? / Từ trái nghĩa của 'push' là gì?",
+        "options": [
+            "Pull",
+            "Go",
+            "Stop",
+            "Run"
+        ],
+        "correctAnswer": "Pull"
+    },
+    {
+        "question": "You ____ a friend on the swing. / Bạn ____ một người bạn trên xích đu.",
+        "options": [
+            "push",
+            "pull",
+            "read",
+            "write"
+        ],
+        "correctAnswer": "push"
+    },
+    {
+        "question": "Spell the word for a flying animal with feathers. / Đánh vần từ chỉ một con vật biết bay có lông vũ.",
+        "options": [
+            "b-i-r-d",
+            "b-a-t",
+            "b-e-e",
+            "b-u-g"
+        ],
+        "correctAnswer": "b-i-r-d"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Rapid",
+            "Speedy"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A turtle walks very ____. / Một con rùa đi rất ____.",
+        "options": [
+            "slowly",
+            "fast",
+            "quickly",
+            "happily"
+        ],
+        "correctAnswer": "slowly"
+    },
+    {
+        "question": "What do you call the sound birds make? / Bạn gọi âm thanh mà chim tạo ra là gì?",
+        "options": [
+            "Singing or chirping",
+            "Barking",
+            "Meowing",
+            "Roaring"
+        ],
+        "correctAnswer": "Singing or chirping"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to throw trash on the grass. / Thật ____ khi vứt rác trên cỏ.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "kind"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Spell the word for the feeling of enjoyment. / Đánh vần từ chỉ cảm giác thích thú.",
+        "options": [
+            "f-u-n",
+            "s-a-d",
+            "b-a-d",
+            "m-a-d"
+        ],
+        "correctAnswer": "f-u-n"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A park should always be ____. / Một công viên nên luôn ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "dirty",
+            "messy"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call the path for walking? / Bạn gọi con đường để đi bộ là gì?",
+        "options": [
+            "A walkway",
+            "A road",
+            "A highway",
+            "A track"
+        ],
+        "correctAnswer": "A walkway"
+    },
+    {
+        "question": "What is the opposite of 'empty'? / Từ trái nghĩa của 'empty' là gì?",
+        "options": [
+            "Full",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Full"
+    },
+    {
+        "question": "The trash can is ____. / Thùng rác thì ____.",
+        "options": [
+            "full",
+            "empty",
+            "happy",
+            "sad"
+        ],
+        "correctAnswer": "full"
+    },
+    {
+        "question": "Spell the word for the green plant that covers the ground. / Đánh vần từ chỉ loài cây xanh bao phủ mặt đất.",
+        "options": [
+            "g-r-a-s-s",
+            "t-r-e-e",
+            "f-l-o-w-e-r",
+            "l-e-a-f"
+        ],
+        "correctAnswer": "g-r-a-s-s"
+    },
+    {
+        "question": "What is the opposite of 'light' (not dark)? / Từ trái nghĩa của 'light' là gì? (không tối)",
+        "options": [
+            "Dark",
+            "Bright",
+            "Heavy",
+            "Soft"
+        ],
+        "correctAnswer": "Dark"
+    },
+    {
+        "question": "The park is ____ and sunny. / Công viên thì ____ và nắng.",
+        "options": [
+            "bright",
+            "dark",
+            "cold",
+            "sad"
+        ],
+        "correctAnswer": "bright"
+    },
+    {
+        "question": "What do you call a small, colorful flower? / Bạn gọi một bông hoa nhỏ, nhiều màu sắc là gì?",
+        "options": [
+            "A daisy",
+            "A tree",
+            "A rock",
+            "A bug"
+        ],
+        "correctAnswer": "A daisy"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "It's time to ____ playing and go home. / Đã đến lúc ____ chơi và về nhà.",
+        "options": [
+            "finish",
+            "start",
+            "begin",
+            "continue"
+        ],
+        "correctAnswer": "finish"
+    },
+    {
+        "question": "Spell the word for a group of trees. / Đánh vần từ chỉ một nhóm cây.",
+        "options": [
+            "f-o-r-e-s-t",
+            "g-a-r-d-e-n",
+            "p-a-r-k",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "f-o-r-e-s-t"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are a ____ ducks in the pond. / Có một ____ con vịt trong ao.",
+        "options": [
+            "few",
+            "many",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "few"
+    },
+    {
+        "question": "What do you call the entrance to the park? / Bạn gọi lối vào công viên là gì?",
+        "options": [
+            "A gate",
+            "A door",
+            "A window",
+            "A fence"
+        ],
+        "correctAnswer": "A gate"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ to see litter in the park. / Tôi ____ nhìn thấy rác trong công viên.",
+        "options": [
+            "hate",
+            "love",
+            "like",
+            "enjoy"
+        ],
+        "correctAnswer": "hate"
+    },
+    {
+        "question": "Spell the word for a round, flying disc toy. / Đánh vần từ chỉ một món đồ chơi đĩa bay hình tròn.",
+        "options": [
+            "f-r-i-s-b-e-e",
+            "b-a-l-l",
+            "k-i-t-e",
+            "d-i-s-c"
+        ],
+        "correctAnswer": "f-r-i-s-b-e-e"
+    }
 ]
-
