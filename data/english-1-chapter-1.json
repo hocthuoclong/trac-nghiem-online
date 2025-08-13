@@ -1,488 +1,152 @@
 [
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A slide", "A swing", "A book", "A pen"],
-    "correctAnswer": "A slide"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["ball", "doll", "car", "table"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "I can play on the ____. / Tôi có thể chơi trên ____.",
-    "options": ["seesaw", "bed", "chair", "desk"],
-    "correctAnswer": "seesaw"
-  },
-  {
-    "question": "What can you see? / Bạn có thể thấy gì?",
-    "options": ["I can see a swing.", "I can see a cat.", "I can see a dog.", "I can see a fish."],
-    "correctAnswer": "I can see a swing."
-  },
-  {
-    "question": "What is the word? s-w-i-n-g / Từ này là gì? s-w-i-n-g",
-    "options": ["swing", "sing", "swim", "sweet"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "You go up and down on this. / Bạn đi lên và xuống trên cái này.",
-    "options": ["A seesaw", "A slide", "A ball", "A book"],
-    "correctAnswer": "A seesaw"
-  },
-  {
-    "question": "Hello, my name is Mai. What's your name? / Chào, tớ tên là Mai. Tên bạn là gì?",
-    "options": ["Hello, Mai.", "Goodbye, Mai.", "I'm fine, thank you.", "It's a ball."],
-    "correctAnswer": "Hello, Mai."
-  },
-  {
-    "question": "Find the word: p-l-a-y / Tìm từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "Is it a slide? / Nó có phải là cầu trượt không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a pen.", "I am a boy."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a red ____. / Đây là một ____ màu đỏ.",
-    "options": ["ball", "book", "bag", "box"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A playground", "A classroom", "A kitchen", "A bedroom"],
-    "correctAnswer": "A playground"
-  },
-  {
-    "question": "I like to ____ on the swing. / Tôi thích ____ trên xích đu.",
-    "options": ["play", "eat", "sleep", "read"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "What is the missing letter? b_ll / Chữ cái còn thiếu là gì? b_ll",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "How do you say 'tạm biệt' in English? / Bạn nói 'tạm biệt' bằng tiếng Anh như thế nào?",
-    "options": ["Goodbye", "Hello", "Thank you", "Sorry"],
-    "correctAnswer": "Goodbye"
-  },
-  {
-    "question": "This is a blue ____. / Đây là một ____ màu xanh dương.",
-    "options": ["slide", "sun", "star", "sky"],
-    "correctAnswer": "slide"
-  },
-  {
-    "question": "Let's ____ together! / Hãy ____ cùng nhau!",
-    "options": ["play", "cry", "fight", "shout"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "What is the word? s-l-i-d-e / Từ này là gì? s-l-i-d-e",
-    "options": ["slide", "side", "slim", "slip"],
-    "correctAnswer": "slide"
-  },
-  {
-    "question": "Is it a seesaw? / Nó có phải là bập bênh không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a table.", "I am a girl."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is my friend, Quan. Say hello! / Đây là bạn của tớ, Quân. Chào bạn ấy đi!",
-    "options": ["Hello, Quan.", "Goodbye, Quan.", "It's a swing.", "I like balls."],
-    "correctAnswer": "Hello, Quan."
-  },
-  {
-    "question": "What is the missing letter? swi_g / Chữ cái còn thiếu là gì? swi_g",
-    "options": ["n", "m", "p", "t"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "You can kick this. / Bạn có thể đá cái này.",
-    "options": ["A ball", "A slide", "A swing", "A seesaw"],
-    "correctAnswer": "A ball"
-  },
-  {
-    "question": "How are you? / Bạn khỏe không?",
-    "options": ["I'm fine, thank you.", "It's a playground.", "My name is Nam.", "Goodbye."],
-    "correctAnswer": "I'm fine, thank you."
-  },
-  {
-    "question": "This is a yellow ____. / Đây là một ____ màu vàng.",
-    "options": ["seesaw", "moon", "sun", "star"],
-    "correctAnswer": "seesaw"
-  },
-  {
-    "question": "What is the word? b-a-l-l / Từ này là gì? b-a-l-l",
-    "options": ["ball", "bell", "bill", "bull"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "Is it a book? / Nó có phải là một quyển sách không?",
-    "options": ["No, it isn't.", "Yes, it is.", "It is a swing.", "I can play."],
-    "correctAnswer": "No, it isn't."
-  },
-  {
-    "question": "I can see a boy and a ____. / Tôi có thể thấy một bạn trai và một ____.",
-    "options": ["girl", "man", "woman", "baby"],
-    "correctAnswer": "girl"
-  },
-  {
-    "question": "What is the missing letter? s_esaw / Chữ cái còn thiếu là gì? s_esaw",
-    "options": ["e", "a", "o", "u"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "How do you say 'xin chào' in English? / Bạn nói 'xin chào' bằng tiếng Anh như thế nào?",
-    "options": ["Hello", "Goodbye", "Please", "Sorry"],
-    "correctAnswer": "Hello"
-  },
-  {
-    "question": "Let's play with the ____. / Hãy chơi với ____.",
-    "options": ["ball", "pen", "ruler", "eraser"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "This is a green ____. / Đây là một ____ màu xanh lá.",
-    "options": ["swing", "grass", "tree", "leaf"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A seesaw", "A chair", "A desk", "A board"],
-    "correctAnswer": "A seesaw"
-  },
-  {
-    "question": "Find the word: h-e-l-l-o / Tìm từ: h-e-l-l-o",
-    "options": ["hello", "yellow", "bellow", "fellow"],
-    "correctAnswer": "hello"
-  },
-  {
-    "question": "Is it a playground? / Nó có phải là một sân chơi không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a house.", "I am a student."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can ____ on the slide. / Tôi có thể ____ trên cầu trượt.",
-    "options": ["slide", "read", "write", "draw"],
-    "correctAnswer": "slide"
-  },
-  {
-    "question": "What is the missing letter? sli_e / Chữ cái còn thiếu là gì? sli_e",
-    "options": ["d", "t", "p", "b"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is a big ____. / Đây là một ____ lớn.",
-    "options": ["playground", "house", "car", "tree"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "What is the word? g-o-o-d-b-y-e / Từ này là gì? g-o-o-d-b-y-e",
-    "options": ["goodbye", "good day", "good night", "good morning"],
-    "correctAnswer": "goodbye"
-  },
-  {
-    "question": "Is this a girl? / Đây có phải là một bạn gái không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a ball.", "I can see a slide."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We play in the ____. / Chúng tôi chơi ở ____.",
-    "options": ["playground", "kitchen", "bathroom", "bedroom"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "What is the missing letter? pl_y / Chữ cái còn thiếu là gì? pl_y",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A swing", "A table", "A bed", "A sofa"],
-    "correctAnswer": "A swing"
-  },
-  {
-    "question": "This is a small ____. / Đây là một ____ nhỏ.",
-    "options": ["ball", "house", "school", "tree"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "Is it a boy? / Nó có phải là một bạn trai không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a seesaw.", "Hello, teacher."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I have a ____. / Tôi có một ____.",
-    "options": ["ball", "sun", "moon", "star"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "Find the word: f-r-i-e-n-d / Tìm từ: f-r-i-e-n-d",
-    "options": ["friend", "find", "fries", "front"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "This is my ____. / Đây là ____ của tôi.",
-    "options": ["friend", "enemy", "teacher", "mother"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "What is the missing letter? frien_ / Chữ cái còn thiếu là gì? frien_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "Is it a pen? / Nó có phải là một cây bút không?",
-    "options": ["No, it isn't.", "Yes, it is.", "It is a slide.", "Goodbye."],
-    "correctAnswer": "No, it isn't."
-  },
-  {
-    "question": "Let's be ____. / Hãy là ____.",
-    "options": ["friends", "sad", "angry", "tired"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A ball", "An apple", "An orange", "A banana"],
-    "correctAnswer": "A ball"
-  },
-  {
-    "question": "How many slides? / Có bao nhiêu cầu trượt?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "How many swings? / Có bao nhiêu xích đu?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "I see ____ ball. / Tôi thấy ____ quả bóng.",
-    "options": ["one", "two", "three", "four"],
-    "correctAnswer": "one"
-  },
-  {
-    "question": "What color is the slide? / Cầu trượt màu gì?",
-    "options": ["Blue", "Red", "Green", "Yellow"],
-    "correctAnswer": "Blue"
-  },
-  {
-    "question": "What color is the swing? / Xích đu màu gì?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "The ball is ____. / Quả bóng thì ____.",
-    "options": ["round", "square", "long", "tall"],
-    "correctAnswer": "round"
-  },
-  {
-    "question": "What is the word? o-n-e / Từ này là gì? o-n-e",
-    "options": ["one", "on", "no", "go"],
-    "correctAnswer": "one"
-  },
-  {
-    "question": "Is it fun? / Nó có vui không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a playground.", "I am a boy."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The playground is ____. / Sân chơi thì ____.",
-    "options": ["fun", "sad", "bad", "boring"],
-    "correctAnswer": "fun"
-  },
-  {
-    "question": "What is the missing letter? f_n / Chữ cái còn thiếu là gì? f_n",
-    "options": ["u", "a", "e", "i"],
-    "correctAnswer": "u"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["slide", "star", "sun", "sky"],
-    "correctAnswer": "slide"
-  },
-  {
-    "question": "I like the ____. / Tôi thích ____.",
-    "options": ["swing", "book", "pen", "bag"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "Is it a car? / Nó có phải là một chiếc xe hơi không?",
-    "options": ["No, it isn't.", "Yes, it is.", "It is a ball.", "Hello."],
-    "correctAnswer": "No, it isn't."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["playground", "market", "bank", "hospital"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "What is the word? t-w-o / Từ này là gì? t-w-o",
-    "options": ["two", "to", "too", "tow"],
-    "correctAnswer": "two"
-  },
-  {
-    "question": "I see ____ friends. / Tôi thấy ____ người bạn.",
-    "options": ["two", "one", "three", "four"],
-    "correctAnswer": "two"
-  },
-  {
-    "question": "They are my ____. / Họ là ____ của tôi.",
-    "options": ["friends", "books", "pens", "bags"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "What is the missing letter? sees_w / Chữ cái còn thiếu là gì? sees_w",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["seesaw", "slide", "swing", "ball"],
-    "correctAnswer": "seesaw"
-  },
-  {
-    "question": "We can ____ on the seesaw. / Chúng ta có thể ____ trên bập bênh.",
-    "options": ["play", "eat", "drink", "sleep"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "Is it a classroom? / Nó có phải là một lớp học không?",
-    "options": ["No, it isn't.", "Yes, it is.", "It is a playground.", "I like to play."],
-    "correctAnswer": "No, it isn't."
-  },
-  {
-    "question": "What is the word? t-h-r-e-e / Từ này là gì? t-h-r-e-e",
-    "options": ["three", "tree", "the", "free"],
-    "correctAnswer": "three"
-  },
-  {
-    "question": "I see ____ balls. / Tôi thấy ____ quả bóng.",
-    "options": ["three", "one", "two", "four"],
-    "correctAnswer": "three"
-  },
-  {
-    "question": "The balls are ____. / Những quả bóng thì ____.",
-    "options": ["red, blue, and green", "big and small", "new and old", "round and square"],
-    "correctAnswer": "red, blue, and green"
-  },
-  {
-    "question": "What is the missing letter? th_ee / Chữ cái còn thiếu là gì? th_ee",
-    "options": ["r", "l", "p", "s"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A playground", "A zoo", "A park", "A farm"],
-    "correctAnswer": "A playground"
-  },
-  {
-    "question": "I ____ to play. / Tôi ____ chơi.",
-    "options": ["like", "hate", "want", "need"],
-    "correctAnswer": "like"
-  },
-  {
-    "question": "Is it a swing? / Nó có phải là một cái xích đu không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a slide.", "I am Nam."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The swing goes ____. / Xích đu đi ____.",
-    "options": ["up and down", "left and right", "round and round", "fast and slow"],
-    "correctAnswer": "up and down"
-  },
-  {
-    "question": "What is the word? f-o-u-r / Từ này là gì? f-o-u-r",
-    "options": ["four", "for", "fur", "far"],
-    "correctAnswer": "four"
-  },
-  {
-    "question": "I see ____ children. / Tôi thấy ____ đứa trẻ.",
-    "options": ["four", "one", "two", "three"],
-    "correctAnswer": "four"
-  },
-  {
-    "question": "They are ____. / Họ đang ____.",
-    "options": ["playing", "eating", "sleeping", "reading"],
-    "correctAnswer": "playing"
-  },
-  {
-    "question": "What is the missing letter? fo_r / Chữ cái còn thiếu là gì? fo_r",
-    "options": ["u", "a", "e", "i"],
-    "correctAnswer": "u"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A slide", "A ladder", "A stair", "A rope"],
-    "correctAnswer": "A slide"
-  },
-  {
-    "question": "I go ____ the slide. / Tôi đi ____ cầu trượt.",
-    "options": ["down", "up", "on", "in"],
-    "correctAnswer": "down"
-  },
-  {
-    "question": "Is it a ball? / Nó có phải là một quả bóng không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a seesaw.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The ball is for ____. / Quả bóng là để ____.",
-    "options": ["playing", "eating", "drinking", "sleeping"],
-    "correctAnswer": "playing"
-  },
-  {
-    "question": "What is the word? p-l-a-y-g-r-o-u-n-d / Từ này là gì? p-l-a-y-g-r-o-u-n-d",
-    "options": ["playground", "playgroup", "playroom", "playtime"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "This is a fun ____. / Đây là một ____ vui vẻ.",
-    "options": ["playground", "lesson", "book", "song"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "What is the missing letter? play_round / Chữ cái còn thiếu là gì? play_round",
-    "options": ["g", "b", "d", "t"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A seesaw", "A bench", "A chair", "A table"],
-    "correctAnswer": "A seesaw"
-  },
-  {
-    "question": "Two friends can play on the ____. / Hai người bạn có thể chơi trên ____.",
-    "options": ["seesaw", "slide", "swing", "ball"],
-    "correctAnswer": "seesaw"
-  },
-  {
-    "question": "Is it a school? / Nó có phải là một ngôi trường không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a playground.", "I see a teacher."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The playground is at the ____. / Sân chơi ở ____.",
-    "options": ["school", "house", "shop", "park"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "What is the word? s-c-h-o-o-l / Từ này là gì? s-c-h-o-o-l",
-    "options": ["school", "cool", "pool", "tool"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "I go to ____. / Tôi đi đến ____.",
-    "options": ["school", "bed", "sleep", "eat"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "What is the missing letter? sch_ol / Chữ cái còn thiếu là gì? sch_ol",
-    "options": ["o", "a", "e", "i"],
-    "correctAnswer": "o"
-  }
+    {
+        "question": "This playground toy lets you go up high and then slide down. What is it? / Món đồ chơi này ở sân chơi cho phép bạn đi lên cao rồi trượt xuống. Nó là gì?",
+        "options": [
+            "A slide",
+            "A swing",
+            "A car",
+            "A book"
+        ],
+        "correctAnswer": "A slide"
+    },
+    {
+        "question": "You can sit on this and move back and forth in the air. What is it? / Bạn có thể ngồi lên cái này và di chuyển tới lui trên không. Nó là gì?",
+        "options": [
+            "A swing",
+            "A seesaw",
+            "A table",
+            "A bed"
+        ],
+        "correctAnswer": "A swing"
+    },
+    {
+        "question": "You need a friend to play on this toy, one person goes up while the other goes down. What is it? / Bạn cần một người bạn để chơi trên món đồ chơi này, một người đi lên trong khi người kia đi xuống. Nó là gì?",
+        "options": [
+            "A seesaw",
+            "A slide",
+            "A bike",
+            "A chair"
+        ],
+        "correctAnswer": "A seesaw"
+    },
+    {
+        "question": "What do you say when you meet your friends at the playground? / Bạn nói gì khi gặp bạn bè ở sân chơi?",
+        "options": [
+            "Hello",
+            "Goodbye",
+            "Good night",
+            "Thank you"
+        ],
+        "correctAnswer": "Hello"
+    },
+    {
+        "question": "A round toy that you can throw, kick, or bounce is a ____. / Một món đồ chơi hình tròn mà bạn có thể ném, đá hoặc tâng lên là một ____.",
+        "options": [
+            "ball",
+            "book",
+            "box",
+            "bag"
+        ],
+        "correctAnswer": "ball"
+    },
+    {
+        "question": "What is the main activity you do at a playground? / Hoạt động chính bạn làm ở sân chơi là gì?",
+        "options": [
+            "Play",
+            "Eat",
+            "Sleep",
+            "Read"
+        ],
+        "correctAnswer": "Play"
+    },
+    {
+        "question": "What do you say when you are leaving the playground to go home? / Bạn nói gì khi rời sân chơi để về nhà?",
+        "options": [
+            "Goodbye",
+            "Hello",
+            "Sorry",
+            "Please"
+        ],
+        "correctAnswer": "Goodbye"
+    },
+    {
+        "question": "A person you play with at the playground is your ____. / Một người mà bạn chơi cùng ở sân chơi là ____ của bạn.",
+        "options": [
+            "friend",
+            "teacher",
+            "doctor",
+            "mother"
+        ],
+        "correctAnswer": "friend"
+    },
+    {
+        "question": "How do you feel when you play with friends? / Bạn cảm thấy thế nào khi chơi với bạn bè?",
+        "options": [
+            "Happy",
+            "Sad",
+            "Angry",
+            "Tired"
+        ],
+        "correctAnswer": "Happy"
+    },
+    {
+        "question": "A place with swings, slides, and seesaws for children is a ____. / Một nơi có xích đu, cầu trượt và bập bênh cho trẻ em là ____.",
+        "options": [
+            "playground",
+            "library",
+            "kitchen",
+            "bedroom"
+        ],
+        "correctAnswer": "playground"
+    },
+    {
+        "question": "To move your legs very fast is to ____. / Di chuyển đôi chân của bạn rất nhanh là ____.",
+        "options": [
+            "run",
+            "walk",
+            "sit",
+            "stand"
+        ],
+        "correctAnswer": "run"
+    },
+    {
+        "question": "To jump up and down on one or two feet is to ____. / Nhảy lên xuống bằng một hoặc hai chân là ____.",
+        "options": [
+            "hop",
+            "read",
+            "write",
+            "draw"
+        ],
+        "correctAnswer": "hop"
+    },
+    {
+        "question": "What is the opposite of 'up'? / Từ trái nghĩa của 'up' là gì?",
+        "options": [
+            "Down",
+            "In",
+            "On",
+            "Over"
+        ],
+        "correctAnswer": "Down"
+    },
+    {
+        "question": "The sun is in the ____. / Mặt trời ở trên ____.",
+        "options": [
+            "sky",
+            "ground",
+            "water",
+            "tree"
+        ],
+        "correctAnswer": "sky"
+    },
+    {
+        "question": "A big plant with a trunk and leaves is a ____. / Một loài cây lớn có thân và lá là ____.",
+        "options": [
+            "tree",
+            "flower",
+            "ball",
+            "car"
+        ],
+        "correctAnswer": "tree"
+    }
 ]
-
