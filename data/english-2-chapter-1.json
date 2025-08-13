@@ -1,0 +1,483 @@
+[
+  {
+    "question": "What is this? It's sweet and you eat it at a party. / Đây là gì? Nó ngọt và bạn ăn nó ở bữa tiệc.",
+    "options": ["A cake", "A book", "A chair", "A car"],
+    "correctAnswer": "A cake"
+  },
+  {
+    "question": "This is a ____. You get it on your birthday. / Đây là một ____. Bạn nhận được nó vào ngày sinh nhật.",
+    "options": ["present", "pencil", "pet", "plate"],
+    "correctAnswer": "present"
+  },
+  {
+    "question": "You blow these out on your birthday cake. / Bạn thổi những thứ này trên bánh sinh nhật.",
+    "options": ["Candles", "Balloons", "Hats", "Cards"],
+    "correctAnswer": "Candles"
+  },
+  {
+    "question": "These are colourful and float in the air. / Những thứ này nhiều màu sắc và bay trong không khí.",
+    "options": ["Balloons", "Candles", "Presents", "Cakes"],
+    "correctAnswer": "Balloons"
+  },
+  {
+    "question": "Spell the word: c-a-k-e / Đánh vần từ: c-a-k-e",
+    "options": ["cake", "case", "cane", "cape"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "This is a ____. You wear it on your head at a party. / Đây là một ____. Bạn đội nó trên đầu trong bữa tiệc.",
+    "options": ["hat", "shirt", "shoe", "sock"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "I have a big ____ for you. / Tôi có một ____ lớn cho bạn.",
+    "options": ["present", "problem", "pet", "pen"],
+    "correctAnswer": "present"
+  },
+  {
+    "question": "Find the word: p-a-r-t-y / Tìm từ: p-a-r-t-y",
+    "options": ["party", "part", "park", "pretty"],
+    "correctAnswer": "party"
+  },
+  {
+    "question": "Is this your birthday cake? / Đây có phải là bánh sinh nhật của bạn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "It is a present.", "I have a balloon."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "This is a blue ____. / Đây là một ____ màu xanh dương.",
+    "options": ["balloon", "cake", "candle", "present"],
+    "correctAnswer": "balloon"
+  },
+  {
+    "question": "What do you say on someone's birthday? / Bạn nói gì vào ngày sinh nhật của ai đó?",
+    "options": ["Happy birthday!", "Hello!", "Goodbye!", "Thank you!"],
+    "correctAnswer": "Happy birthday!"
+  },
+  {
+    "question": "I invite my ____ to my party. / Tôi mời ____ của tôi đến bữa tiệc.",
+    "options": ["friends", "teachers", "pets", "toys"],
+    "correctAnswer": "friends"
+  },
+  {
+    "question": "What is the missing letter? ca_dle / Chữ cái còn thiếu là gì? ca_dle",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is my ____. It's yummy. / Đây là ____ của tôi. Nó rất ngon.",
+    "options": ["cake", "hat", "balloon", "present"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "My friends ____ 'Happy Birthday' to me. / Bạn bè của tôi ____ 'Chúc mừng sinh nhật' cho tôi.",
+    "options": ["sing", "eat", "drink", "play"],
+    "correctAnswer": "sing"
+  },
+  {
+    "question": "Let's eat some ____. / Hãy ăn một ít ____.",
+    "options": ["cake", "balloons", "presents", "hats"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "Spell the word: h-a-t / Đánh vần từ: h-a-t",
+    "options": ["hat", "cat", "bat", "mat"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "Are these your presents? / Đây có phải là quà của bạn không?",
+    "options": ["Yes, they are.", "No, they aren't.", "It is a cake.", "I can see a hat."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "I am wearing a party ____. / Tôi đang đội một chiếc ____ dự tiệc.",
+    "options": ["hat", "shirt", "shoe", "sock"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "What is the missing letter? pa_ty / Chữ cái còn thiếu là gì? pa_ty",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "These are my ____. / Đây là những ____ của tôi.",
+    "options": ["friends", "family", "pets", "toys"],
+    "correctAnswer": "friends"
+  },
+  {
+    "question": "How old are you? / Bạn bao nhiêu tuổi?",
+    "options": ["I'm seven.", "I'm fine.", "My name is Ben.", "I have a present."],
+    "correctAnswer": "I'm seven."
+  },
+  {
+    "question": "This is a ____. / Đây là một ____.",
+    "options": ["candle", "cake", "hat", "balloon"],
+    "correctAnswer": "candle"
+  },
+  {
+    "question": "Spell the word: b-a-l-l-o-o-n / Đánh vần từ: b-a-l-l-o-o-n",
+    "options": ["balloon", "baboon", "ball", "bamboo"],
+    "correctAnswer": "balloon"
+  },
+  {
+    "question": "Is it a big present? / Nó có phải là một món quà lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is my cake.", "I can see a friend."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "We ____ games at the party. / Chúng tôi ____ các trò chơi ở bữa tiệc.",
+    "options": ["play", "eat", "drink", "sing"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "What is the missing letter? pre_ent / Chữ cái còn thiếu là gì? pre_ent",
+    "options": ["s", "c", "t", "p"],
+    "correctAnswer": "s"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["My birthday party", "My school", "My house", "My class"],
+    "correctAnswer": "My birthday party"
+  },
+  {
+    "question": "This is a ____. It's from my friend. / Đây là một ____. Nó từ bạn của tôi.",
+    "options": ["gift", "hat", "cake", "balloon"],
+    "correctAnswer": "gift"
+  },
+  {
+    "question": "This is a ____. It's sweet. / Đây là một ____. Nó ngọt.",
+    "options": ["sweet", "hat", "balloon", "present"],
+    "correctAnswer": "sweet"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A present", "A cake", "A balloon", "A candle"],
+    "correctAnswer": "A present"
+  },
+  {
+    "question": "Find the word: f-r-i-e-n-d / Tìm từ: f-r-i-e-n-d",
+    "options": ["friend", "find", "fries", "front"],
+    "correctAnswer": "friend"
+  },
+  {
+    "question": "Is it your birthday today? / Hôm nay có phải sinh nhật của bạn không?",
+    "options": ["Yes, it is.", "No, it isn't.", "I am seven.", "I like cake."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is red. / ____ của tôi màu đỏ.",
+    "options": ["hat", "cake", "candle", "present"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "What is the missing letter? frie_d / Chữ cái còn thiếu là gì? frie_d",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "This is a fun ____. / Đây là một ____ vui vẻ.",
+    "options": ["party", "book", "lesson", "game"],
+    "correctAnswer": "party"
+  },
+  {
+    "question": "Spell the word: c-a-n-d-l-e / Đánh vần từ: c-a-n-d-l-e",
+    "options": ["candle", "handle", "candy", "canal"],
+    "correctAnswer": "candle"
+  },
+  {
+    "question": "Is this a yellow balloon? / Đây có phải là một quả bóng bay màu vàng không?",
+    "options": ["Yes, it is.", "No, it is blue.", "I can see a balloon.", "I like balloons."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My party has many ____. / Bữa tiệc của tôi có nhiều ____.",
+    "options": ["balloons", "cakes", "presents", "friends"],
+    "correctAnswer": "friends"
+  },
+  {
+    "question": "What is the missing letter? _ift / Chữ cái còn thiếu là gì? _ift",
+    "options": ["g", "l", "s", "k"],
+    "correctAnswer": "g"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A birthday card", "A book", "A letter", "A picture"],
+    "correctAnswer": "A birthday card"
+  },
+  {
+    "question": "My ____ is small. / ____ của tôi nhỏ.",
+    "options": ["present", "cake", "party", "house"],
+    "correctAnswer": "present"
+  },
+  {
+    "question": "Is it a chocolate cake? / Nó có phải là bánh sô cô la không?",
+    "options": ["Yes, it is.", "No, it is vanilla.", "I like cake.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "I have a cake and some ____. / Tôi có một cái bánh và một ít ____.",
+    "options": ["juice", "water", "milk", "all are correct"],
+    "correctAnswer": "all are correct"
+  },
+  {
+    "question": "Find the word: s-i-n-g / Tìm từ: s-i-n-g",
+    "options": ["sing", "sign", "song", "king"],
+    "correctAnswer": "sing"
+  },
+  {
+    "question": "This is my ____. It is from my mom. / Đây là ____ của tôi. Nó từ mẹ tôi.",
+    "options": ["present", "hat", "cake", "balloon"],
+    "correctAnswer": "present"
+  },
+  {
+    "question": "What is the missing letter? balloo_",
+    "options": ["n", "m", "p", "t"],
+    "correctAnswer": "n"
+  },
+  {
+    "question": "Is it a fun party? / Nó có phải là một bữa tiệc vui vẻ không?",
+    "options": ["Yes, it is.", "No, it is boring.", "I am at a party.", "Goodbye."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "My ____ is delicious. / ____ của tôi rất ngon.",
+    "options": ["cake", "hat", "balloon", "present"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A party hat", "A winter hat", "A sun hat", "A cap"],
+    "correctAnswer": "A party hat"
+  },
+  {
+    "question": "How many candles are on the cake? / Có bao nhiêu ngọn nến trên bánh?",
+    "options": ["Seven", "Six", "Eight", "Nine"],
+    "correctAnswer": "Seven"
+  },
+  {
+    "question": "A birthday party is for ____. / Một bữa tiệc sinh nhật là để ____.",
+    "options": ["celebrating", "studying", "sleeping", "working"],
+    "correctAnswer": "celebrating"
+  },
+  {
+    "question": "I see ____ presents.",
+    "options": ["many", "a", "an", "one"],
+    "correctAnswer": "many"
+  },
+  {
+    "question": "What colour is the present? / Món quà màu gì?",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "What colour is the hat? / Cái mũ màu gì?",
+    "options": ["Yellow", "Red", "Green", "Blue"],
+    "correctAnswer": "Yellow"
+  },
+  {
+    "question": "The party is ____. / Bữa tiệc thì ____.",
+    "options": ["fun", "ugly", "big", "small"],
+    "correctAnswer": "fun"
+  },
+  {
+    "question": "The friends are ____. / Những người bạn thì ____.",
+    "options": ["happy", "sad", "warm", "cold"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "Is your friend at the party? / Bạn của bạn có ở bữa tiệc không?",
+    "options": ["Yes, he is.", "No, she isn't.", "Yes", "No"],
+    "correctAnswer": "Yes, he is."
+  },
+  {
+    "question": "My birthday is ____. / Sinh nhật của tôi thì ____.",
+    "options": ["special", "sad", "angry", "tired"],
+    "correctAnswer": "special"
+  },
+  {
+    "question": "What is the missing letter? spe_ial / Chữ cái còn thiếu là gì? spe_ial",
+    "options": ["c", "t", "d", "k"],
+    "correctAnswer": "c"
+  },
+  {
+    "question": "This is my ____. / Đây là ____ của tôi.",
+    "options": ["birthday", "school", "pet", "toy"],
+    "correctAnswer": "birthday"
+  },
+  {
+    "question": "I love my ____. / Tôi yêu ____ của tôi.",
+    "options": ["presents", "dogs", "cats", "birds"],
+    "correctAnswer": "presents"
+  },
+  {
+    "question": "Is the cake big? / Cái bánh có lớn không?",
+    "options": ["Yes, it is.", "No, it is small.", "It is a cake.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Let's open the ____. / Hãy mở ____ ra.",
+    "options": ["presents", "friends", "pets", "books"],
+    "correctAnswer": "presents"
+  },
+  {
+    "question": "Spell the word: g-i-f-t / Đánh vần từ: g-i-f-t",
+    "options": ["gift", "give", "girl", "get"],
+    "correctAnswer": "gift"
+  },
+  {
+    "question": "I have ____ new present. / Tôi có ____ món quà mới.",
+    "options": ["a", "an", "one", "two"],
+    "correctAnswer": "a"
+  },
+  {
+    "question": "My favorite part of the party is the ____. / Phần yêu thích của tôi trong bữa tiệc là ____.",
+    "options": ["cake", "games", "music", "friends"],
+    "correctAnswer": "cake"
+  },
+  {
+    "question": "What is the missing letter? favo_ite / Chữ cái còn thiếu là gì? favo_ite",
+    "options": ["r", "l", "n", "m"],
+    "correctAnswer": "r"
+  },
+  {
+    "question": "This is a ____. You can play music. / Đây là một ____. Bạn có thể chơi nhạc.",
+    "options": ["speaker", "hat", "cake", "balloon"],
+    "correctAnswer": "speaker"
+  },
+  {
+    "question": "We should say ____ for the presents. / Chúng ta nên nói ____ cho những món quà.",
+    "options": ["thank you", "hello", "goodbye", "sorry"],
+    "correctAnswer": "thank you"
+  },
+  {
+    "question": "Is it a noisy party? / Nó có phải là một bữa tiệc ồn ào không?",
+    "options": ["Yes, it is.", "No, it is quiet.", "I like parties.", "My friends are here."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "Spell the word: d-a-n-c-e / Đánh vần từ: d-a-n-c-e",
+    "options": ["dance", "chance", "danger", "dark"],
+    "correctAnswer": "dance"
+  },
+  {
+    "question": "I ____ with my friends at the party. / Tôi ____ với bạn bè ở bữa tiệc.",
+    "options": ["dance", "study", "work", "sleep"],
+    "correctAnswer": "dance"
+  },
+  {
+    "question": "The girl has a pretty ____. / Cô gái có một ____ xinh đẹp.",
+    "options": ["dress", "hat", "present", "balloon"],
+    "correctAnswer": "dress"
+  },
+  {
+    "question": "What is the missing letter? ha_",
+    "options": ["t", "p", "n", "d"],
+    "correctAnswer": "t"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A balloon", "A ball", "A bubble", "A button"],
+    "correctAnswer": "A balloon"
+  },
+  {
+    "question": "My ____ is colourful. / ____ của tôi nhiều màu sắc.",
+    "options": ["party", "hat", "cake", "present"],
+    "correctAnswer": "party"
+  },
+  {
+    "question": "Is it your present? / Nó có phải là quà của bạn không?",
+    "options": ["No, it is for my friend.", "Yes, it is.", "She is my friend.", "I have a present."],
+    "correctAnswer": "No, it is for my friend."
+  },
+  {
+    "question": "My father is blowing up ____. / Bố tôi đang thổi ____.",
+    "options": ["balloons", "candles", "cakes", "presents"],
+    "correctAnswer": "balloons"
+  },
+  {
+    "question": "Spell the word: s-e-v-e-n / Đánh vần từ: s-e-v-e-n",
+    "options": ["seven", "eleven", "heaven", "severe"],
+    "correctAnswer": "seven"
+  },
+  {
+    "question": "This is a ____ party. / Đây là một bữa tiệc ____.",
+    "options": ["birthday", "school", "house", "class"],
+    "correctAnswer": "birthday"
+  },
+  {
+    "question": "What is the missing letter? birth_ay / Chữ cái còn thiếu là gì? birth_ay",
+    "options": ["d", "l", "n", "m"],
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A candle", "A candy", "A can", "A cane"],
+    "correctAnswer": "A candle"
+  },
+  {
+    "question": "My mother is lighting the ____. / Mẹ tôi đang thắp ____.",
+    "options": ["candles", "balloons", "presents", "hats"],
+    "correctAnswer": "candles"
+  },
+  {
+    "question": "Are the friends happy? / Những người bạn có vui không?",
+    "options": ["Yes, they are.", "No, they are sad.", "They are my friends.", "I am happy."],
+    "correctAnswer": "Yes, they are."
+  },
+  {
+    "question": "My brother is wearing a blue ____. / Anh trai tôi đang mặc một chiếc ____ màu xanh.",
+    "options": ["hat", "shirt", "shoe", "sock"],
+    "correctAnswer": "hat"
+  },
+  {
+    "question": "Spell the word: h-a-p-p-y / Đánh vần từ: h-a-p-p-y",
+    "options": ["happy", "puppy", "hippy", "hoppy"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "I am ____ at my party. / Tôi ____ ở bữa tiệc của mình.",
+    "options": ["happy", "sad", "bored", "angry"],
+    "correctAnswer": "happy"
+  },
+  {
+    "question": "What is the missing letter? cak_",
+    "options": ["e", "s", "t", "p"],
+    "correctAnswer": "e"
+  },
+  {
+    "question": "What is this? / Đây là gì?",
+    "options": ["A gift box", "A lunch box", "A school bag", "A pencil case"],
+    "correctAnswer": "A gift box"
+  },
+  {
+    "question": "My present is in the ____. / Món quà của tôi ở trong ____.",
+    "options": ["box", "car", "bed", "chair"],
+    "correctAnswer": "box"
+  },
+  {
+    "question": "Is the balloon red? / Quả bóng bay màu đỏ phải không?",
+    "options": ["Yes, it is.", "No, it is green.", "It is a balloon.", "Hello."],
+    "correctAnswer": "Yes, it is."
+  },
+  {
+    "question": "The cake has ____ candles. / Cái bánh có ____ ngọn nến.",
+    "options": ["seven", "eight", "six", "five"],
+    "correctAnswer": "seven"
+  },
+  {
+    "question": "Spell the word: p-r-e-s-e-n-t / Đánh vần từ: p-r-e-s-e-n-t",
+    "options": ["present", "parent", "pleasant", "president"],
+    "correctAnswer": "present"
+  },
+  {
+    "question": "We eat ____ at the party. / Chúng tôi ăn ____ ở bữa tiệc.",
+    "options": ["sweets and cake", "rice and fish", "bread and milk", "vegetables"],
+    "correctAnswer": "sweets and cake"
+  },
+  {
+    "question": "What is the missing letter? par_y / Chữ cái còn thiếu là gì? par_y",
+    "options": ["t", "d", "p", "k"],
+    "correctAnswer": "t"
+  }
+]
+
