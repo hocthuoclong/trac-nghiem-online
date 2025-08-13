@@ -1,483 +1,922 @@
 [
-  {
-    "question": "What is this? You sleep on it. / Đây là gì? Bạn ngủ trên đó.",
-    "options": ["A bed", "A table", "A chair", "A sofa"],
-    "correctAnswer": "A bed"
-  },
-  {
-    "question": "This is a ____. You put your head on it. / Đây là một ____. Bạn đặt đầu của bạn lên đó.",
-    "options": ["pillow", "blanket", "bed", "desk"],
-    "correctAnswer": "pillow"
-  },
-  {
-    "question": "You use a ____ to keep warm at night. / Bạn dùng ____ để giữ ấm vào ban đêm.",
-    "options": ["blanket", "pillow", "sheet", "bed"],
-    "correctAnswer": "blanket"
-  },
-  {
-    "question": "This is a ____. You put your clothes in it. / Đây là một ____. Bạn để quần áo của bạn trong đó.",
-    "options": ["wardrobe", "desk", "bed", "chair"],
-    "correctAnswer": "wardrobe"
-  },
-  {
-    "question": "Spell the word: b-e-d / Đánh vần từ: b-e-d",
-    "options": ["bed", "red", "bad", "bid"],
-    "correctAnswer": "bed"
-  },
-  {
-    "question": "This is a ____. You do homework on it. / Đây là một ____. Bạn làm bài tập về nhà trên đó.",
-    "options": ["desk", "bed", "wardrobe", "chair"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "I have a ____ next to my bed. / Tôi có một ____ cạnh giường của tôi.",
-    "options": ["lamp", "chair", "desk", "wardrobe"],
-    "correctAnswer": "lamp"
-  },
-  {
-    "question": "Find the word: d-e-s-k / Tìm từ: d-e-s-k",
-    "options": ["desk", "disk", "dark", "duck"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "Is this your bedroom? / Đây có phải là phòng ngủ của bạn không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a bed.", "I have a pillow."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a big ____. / Đây là một ____ lớn.",
-    "options": ["bedroom", "house", "school", "shop"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "What can you do in the bedroom? / Bạn có thể làm gì trong phòng ngủ?",
-    "options": ["I can sleep.", "I can cook.", "I can swim.", "I can play football."],
-    "correctAnswer": "I can sleep."
-  },
-  {
-    "question": "I like to read in my ____. / Tôi thích đọc sách trên ____ của tôi.",
-    "options": ["bed", "desk", "chair", "wardrobe"],
-    "correctAnswer": "bed"
-  },
-  {
-    "question": "What is the missing letter? be_",
-    "options": ["d", "t", "p", "g"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is my ____. It's my favorite room. / Đây là ____ của tôi. Đó là căn phòng yêu thích của tôi.",
-    "options": ["bedroom", "kitchen", "bathroom", "living room"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "My father bought me a new ____. / Bố tôi đã mua cho tôi một ____ mới.",
-    "options": ["desk", "bed", "wardrobe", "lamp"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "Let's turn on the ____. / Hãy bật ____ lên.",
-    "options": ["lamp", "bed", "desk", "wardrobe"],
-    "correctAnswer": "lamp"
-  },
-  {
-    "question": "Spell the word: l-a-m-p / Đánh vần từ: l-a-m-p",
-    "options": ["lamp", "lamb", "lame", "land"],
-    "correctAnswer": "lamp"
-  },
-  {
-    "question": "Is this a big bedroom? / Đây có phải là một phòng ngủ lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a bedroom.", "I can see a bed."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am doing my homework at my ____. / Tôi đang làm bài tập về nhà tại ____ của tôi.",
-    "options": ["desk", "bed", "wardrobe", "chair"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "What is the missing letter? _esk / Chữ cái còn thiếu là gì? _esk",
-    "options": ["d", "b", "p", "t"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "These are my ____. / Đây là những ____ của tôi.",
-    "options": ["pillows", "beds", "desks", "wardrobes"],
-    "correctAnswer": "pillows"
-  },
-  {
-    "question": "How many pillows are on your bed? / Có bao nhiêu cái gối trên giường của bạn?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["chair", "bed", "desk", "wardrobe"],
-    "correctAnswer": "chair"
-  },
-  {
-    "question": "Spell the word: c-h-a-i-r / Đánh vần từ: c-h-a-i-r",
-    "options": ["chair", "hair", "pair", "fair"],
-    "correctAnswer": "chair"
-  },
-  {
-    "question": "Is it a tidy bedroom? / Nó có phải là một phòng ngủ gọn gàng không?",
-    "options": ["Yes, it is.", "No, it is messy.", "It is my bedroom.", "I can see a bed."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ on the floor. / Chúng ta có thể thấy một ____ trên sàn nhà.",
-    "options": ["rug", "bed", "desk", "wardrobe"],
-    "correctAnswer": "rug"
-  },
-  {
-    "question": "What is the missing letter? wardro_e / Chữ cái còn thiếu là gì? wardro_e",
-    "options": ["b", "t", "d", "p"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A window", "A door", "A wall", "A floor"],
-    "correctAnswer": "A window"
-  },
-  {
-    "question": "This is a ____. You sleep on it. / Đây là một ____. Bạn ngủ trên đó.",
-    "options": ["pillow", "blanket", "sheet", "mattress"],
-    "correctAnswer": "pillow"
-  },
-  {
-    "question": "This is ____. It's where I sleep and play. / Đây là ____. Đó là nơi tôi ngủ và chơi.",
-    "options": ["my bedroom", "my school", "my playground", "my park"],
-    "correctAnswer": "my bedroom"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A desk", "A bed", "A chair", "A table"],
-    "correctAnswer": "A desk"
-  },
-  {
-    "question": "Find the word: p-i-c-t-u-r-e / Tìm từ: p-i-c-t-u-r-e",
-    "options": ["picture", "pitcher", "pickle", "picnic"],
-    "correctAnswer": "picture"
-  },
-  {
-    "question": "Is there a window in your bedroom? / Có cửa sổ trong phòng ngủ của bạn không?",
-    "options": ["Yes, there is.", "No, there isn't.", "I am in my bedroom.", "I like my bedroom."],
-    "correctAnswer": "Yes, there is."
-  },
-  {
-    "question": "My ____ is blue. / ____ của tôi màu xanh.",
-    "options": ["bed", "desk", "chair", "wardrobe"],
-    "correctAnswer": "bed"
-  },
-  {
-    "question": "What is the missing letter? windo_",
-    "options": ["w", "n", "m", "p"],
-    "correctAnswer": "w"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["bedroom", "book", "lesson", "game"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Spell the word: w-a-r-d-r-o-b-e / Đánh vần từ: w-a-r-d-r-o-b-e",
-    "options": ["wardrobe", "warden", "warrior", "warrant"],
-    "correctAnswer": "wardrobe"
-  },
-  {
-    "question": "Is this a picture of a cat? / Đây có phải là một bức tranh về một con mèo không?",
-    "options": ["Yes, it is.", "No, it is a dog.", "I can see a picture.", "I like pictures."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The bedroom has a big ____. / Phòng ngủ có một ____ lớn.",
-    "options": ["window", "door", "wall", "floor"],
-    "correctAnswer": "window"
-  },
-  {
-    "question": "What is the missing letter? _illow / Chữ cái còn thiếu là gì? _illow",
-    "options": ["p", "b", "w", "h"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A chair", "A stool", "A bench", "A sofa"],
-    "correctAnswer": "A chair"
-  },
-  {
-    "question": "My ____ is on the bed. / ____ của tôi ở trên giường.",
-    "options": ["pillow", "book", "bag", "ruler"],
-    "correctAnswer": "pillow"
-  },
-  {
-    "question": "Is the desk tidy? / Bàn học có gọn gàng không?",
-    "options": ["Yes, it is.", "No, it is messy.", "It is a desk.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a bed and a ____. / Tôi có thể thấy một cái giường và một ____.",
-    "options": ["lamp", "house", "car", "book"],
-    "correctAnswer": "lamp"
-  },
-  {
-    "question": "Find the word: b-e-d-r-o-o-m / Tìm từ: b-e-d-r-o-o-m",
-    "options": ["bedroom", "bathroom", "broom", "bed"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "This is my ____. I do my homework here. / Đây là ____ của tôi. Tôi làm bài tập về nhà ở đây.",
-    "options": ["desk", "bed", "wardrobe", "chair"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "What is the missing letter? lam_",
-    "options": ["p", "k", "t", "d"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "Is it a beautiful bedroom? / Nó có phải là một phòng ngủ đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like my bedroom.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["bedroom", "homework", "class", "test"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A blanket", "A pillow", "A sheet", "A mattress"],
-    "correctAnswer": "A blanket"
-  },
-  {
-    "question": "How many chairs are in your bedroom? / Có bao nhiêu cái ghế trong phòng ngủ của bạn?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "A bedroom is a place to ____. / Một phòng ngủ là một nơi để ____.",
-    "options": ["sleep", "cook", "eat", "watch TV"],
-    "correctAnswer": "sleep"
-  },
-  {
-    "question": "I have ____ new lamp. / Tôi có ____ cái đèn mới.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is your wardrobe? / Tủ quần áo của bạn màu gì?",
-    "options": ["It's brown.", "It's a wardrobe.", "It's big.", "I have a wardrobe."],
-    "correctAnswer": "It's brown."
-  },
-  {
-    "question": "What is on the desk? / Có gì trên bàn học?",
-    "options": ["A book and a pen", "A bed and a pillow", "A sofa and a table", "A chair and a lamp"],
-    "correctAnswer": "A book and a pen"
-  },
-  {
-    "question": "The desk is ____. / Bàn học thì ____.",
-    "options": ["wooden", "metal", "plastic", "glass"],
-    "correctAnswer": "wooden"
-  },
-  {
-    "question": "The pictures are ____. / Những bức tranh thì ____.",
-    "options": ["nice", "ugly", "sad", "bad"],
-    "correctAnswer": "nice"
-  },
-  {
-    "question": "Is your bedroom big or small? / Phòng ngủ của bạn to hay nhỏ?",
-    "options": ["It's small.", "Yes, it is.", "No, it isn't.", "Yes"],
-    "correctAnswer": "It's small."
-  },
-  {
-    "question": "My bedroom is ____. / Phòng ngủ của tôi thì ____.",
-    "options": ["cozy", "noisy", "busy", "crowded"],
-    "correctAnswer": "cozy"
-  },
-  {
-    "question": "What is the missing letter? co_y / Chữ cái còn thiếu là gì? co_y",
-    "options": ["z", "s", "t", "k"],
-    "correctAnswer": "z"
-  },
-  {
-    "question": "This is the ____. / Đây là ____.",
-    "options": ["wardrobe", "bed", "desk", "chair"],
-    "correctAnswer": "wardrobe"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["bedroom", "dog", "cat", "bird"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Is the pillow soft? / Cái gối có mềm không?",
-    "options": ["Yes, it is.", "No, it is hard.", "It is a pillow.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["bedroom", "kitchen", "bathroom", "living room"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Spell the word: p-i-l-l-o-w / Đánh vần từ: p-i-l-l-o-w",
-    "options": ["pillow", "willow", "bellow", "yellow"],
-    "correctAnswer": "pillow"
-  },
-  {
-    "question": "I have ____ big window in my bedroom. / Tôi có ____ cửa sổ lớn trong phòng ngủ.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite thing in my bedroom is my ____. / Thứ yêu thích của tôi trong phòng ngủ là ____.",
-    "options": ["bed", "desk", "wardrobe", "lamp"],
-    "correctAnswer": "bed"
-  },
-  {
-    "question": "What is the missing letter? bedroo_",
-    "options": ["m", "a", "i", "o"],
-    "correctAnswer": "m"
-  },
-  {
-    "question": "This is ____. You cover yourself with it. / Đây là ____. Bạn đắp nó lên người.",
-    "options": ["a blanket", "a pillow", "a sheet", "a mattress"],
-    "correctAnswer": "a blanket"
-  },
-  {
-    "question": "We should keep our bedroom ____. / Chúng ta nên giữ phòng ngủ của mình ____.",
-    "options": ["tidy", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "tidy"
-  },
-  {
-    "question": "Is it a wooden chair? / Nó có phải là một cái ghế gỗ không?",
-    "options": ["Yes, it is.", "No, it is plastic.", "I like chairs.", "The chair is small."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: t-i-d-y / Đánh vần từ: t-i-d-y",
-    "options": ["tidy", "tiny", "today", "tardy"],
-    "correctAnswer": "tidy"
-  },
-  {
-    "question": "I help my mom make my ____. / Tôi giúp mẹ tôi dọn ____.",
-    "options": ["bed", "desk", "chair", "wardrobe"],
-    "correctAnswer": "bed"
-  },
-  {
-    "question": "The lamp is on the ____. / Cái đèn ở trên ____.",
-    "options": ["desk", "bed", "chair", "floor"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "What is the missing letter? des_",
-    "options": ["k", "p", "t", "d"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bookshelf", "A wardrobe", "A cupboard", "A drawer"],
-    "correctAnswer": "A bookshelf"
-  },
-  {
-    "question": "My ____ is full of books. / ____ của tôi đầy sách.",
-    "options": ["bookshelf", "desk", "bag", "box"],
-    "correctAnswer": "bookshelf"
-  },
-  {
-    "question": "Is it a picture of your family? / Nó có phải là một bức ảnh của gia đình bạn không?",
-    "options": ["Yes, it is.", "No, it is my pet.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
-    "options": ["bedroom", "house", "room", "garden"],
-    "correctAnswer": "bedroom"
-  },
-  {
-    "question": "Spell the word: p-i-c-t-u-r-e / Đánh vần từ: p-i-c-t-u-r-e",
-    "options": ["picture", "pitcher", "pickle", "picnic"],
-    "correctAnswer": "picture"
-  },
-  {
-    "question": "This is a ____ day to stay in my bedroom. / Đây là một ngày ____ để ở trong phòng ngủ của tôi.",
-    "options": ["cozy", "sunny", "windy", "snowy"],
-    "correctAnswer": "cozy"
-  },
-  {
-    "question": "What is the missing letter? _ozy / Chữ cái còn thiếu là gì? _ozy",
-    "options": ["c", "s", "p", "m"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A rug", "A carpet", "A mat", "A floor"],
-    "correctAnswer": "A rug"
-  },
-  {
-    "question": "My father is reading a ____ in the bedroom. / Bố tôi đang đọc một ____ trong phòng ngủ.",
-    "options": ["book", "newspaper", "magazine", "letter"],
-    "correctAnswer": "book"
-  },
-  {
-    "question": "Are the pillows soft? / Những cái gối có mềm không?",
-    "options": ["Yes, they are.", "No, they are hard.", "They are pillows.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My bedroom has a ____. / Phòng ngủ của tôi có một ____.",
-    "options": ["balcony", "garden", "pool", "garage"],
-    "correctAnswer": "balcony"
-  },
-  {
-    "question": "Spell the word: b-a-l-c-o-n-y / Đánh vần từ: b-a-l-c-o-n-y",
-    "options": ["balcony", "balloon", "ballad", "balance"],
-    "correctAnswer": "balcony"
-  },
-  {
-    "question": "I am ____ in my bedroom. / Tôi ____ trong phòng ngủ của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? bedro_m / Chữ cái còn thiếu là gì? bedro_m",
-    "options": ["o", "a", "i", "e"],
-    "correctAnswer": "o"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A clock", "A watch", "A calendar", "A timer"],
-    "correctAnswer": "A clock"
-  },
-  {
-    "question": "My bedroom is my favorite ____. / Phòng ngủ là ____ yêu thích của tôi.",
-    "options": ["room", "place", "food", "colour"],
-    "correctAnswer": "room"
-  },
-  {
-    "question": "Is the door open? / Cửa có mở không?",
-    "options": ["No, it is closed.", "Yes, it is.", "It is a door.", "Hello."],
-    "correctAnswer": "No, it is closed."
-  },
-  {
-    "question": "The family is in the ____. / Gia đình đang ở trong ____.",
-    "options": ["living room", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "living room"
-  },
-  {
-    "question": "Spell the word: f-a-m-i-l-y / Đánh vần từ: f-a-m-i-l-y",
-    "options": ["family", "fame", "familiar", "famous"],
-    "correctAnswer": "family"
-  },
-  {
-    "question": "We sleep in our ____. / Chúng tôi ngủ trong ____ của mình.",
-    "options": ["beds", "sofas", "chairs", "tables"],
-    "correctAnswer": "beds"
-  },
-  {
-    "question": "What is the missing letter? be_s / Chữ cái còn thiếu là gì? be_s",
-    "options": ["d", "s", "t", "p"],
-    "correctAnswer": "d"
-  }
+    {
+        "question": "This is a piece of furniture you sleep on at night. What is it? / Đây là một món đồ nội thất bạn ngủ trên đó vào ban đêm. Nó là gì?",
+        "options": [
+            "A bed",
+            "A table",
+            "A chair",
+            "A sofa"
+        ],
+        "correctAnswer": "A bed"
+    },
+    {
+        "question": "You put your clothes inside this tall piece of furniture. What is it? / Bạn để quần áo của mình bên trong món đồ nội thất cao này. Nó là gì?",
+        "options": [
+            "A wardrobe",
+            "A bed",
+            "A desk",
+            "A lamp"
+        ],
+        "correctAnswer": "A wardrobe"
+    },
+    {
+        "question": "You do your homework or draw on this piece of furniture. What is it? / Bạn làm bài tập về nhà hoặc vẽ trên món đồ nội thất này. Nó là gì?",
+        "options": [
+            "A desk",
+            "A bed",
+            "A pillow",
+            "A door"
+        ],
+        "correctAnswer": "A desk"
+    },
+    {
+        "question": "This gives light so you can read when it's dark. What is it? / Cái này cung cấp ánh sáng để bạn có thể đọc khi trời tối. Nó là gì?",
+        "options": [
+            "A lamp",
+            "A window",
+            "A picture",
+            "A book"
+        ],
+        "correctAnswer": "A lamp"
+    },
+    {
+        "question": "You put your head on this when you sleep. What is it? / Bạn gối đầu lên cái này khi ngủ. Nó là gì?",
+        "options": [
+            "A pillow",
+            "A blanket",
+            "A desk",
+            "A chair"
+        ],
+        "correctAnswer": "A pillow"
+    },
+    {
+        "question": "You cover yourself with this to stay warm in bed. What is it? / Bạn đắp cái này lên người để giữ ấm trên giường. Nó là gì?",
+        "options": [
+            "A blanket",
+            "A pillow",
+            "A rug",
+            "A picture"
+        ],
+        "correctAnswer": "A blanket"
+    },
+    {
+        "question": "You hang this on the wall for decoration. What is it? / Bạn treo cái này trên tường để trang trí. Nó là gì?",
+        "options": [
+            "A picture",
+            "A lamp",
+            "A window",
+            "A door"
+        ],
+        "correctAnswer": "A picture"
+    },
+    {
+        "question": "You sit on this when you are at your desk. What is it? / Bạn ngồi trên cái này khi ở bàn học. Nó là gì?",
+        "options": [
+            "A chair",
+            "A bed",
+            "A sofa",
+            "The floor"
+        ],
+        "correctAnswer": "A chair"
+    },
+    {
+        "question": "You open this to see outside. What is it? / Bạn mở cái này để nhìn ra ngoài. Nó là gì?",
+        "options": [
+            "A window",
+            "A door",
+            "A wardrobe",
+            "A book"
+        ],
+        "correctAnswer": "A window"
+    },
+    {
+        "question": "You use this to enter or leave the room. What is it? / Bạn dùng cái này để vào hoặc rời khỏi phòng. Nó là gì?",
+        "options": [
+            "A door",
+            "A window",
+            "A wall",
+            "A floor"
+        ],
+        "correctAnswer": "A door"
+    },
+    {
+        "question": "What is the main activity you do in a bedroom? / Hoạt động chính bạn làm trong phòng ngủ là gì?",
+        "options": [
+            "Sleep",
+            "Cook",
+            "Swim",
+            "Play football"
+        ],
+        "correctAnswer": "Sleep"
+    },
+    {
+        "question": "A soft covering for the floor is a ____. / Một tấm thảm mềm trải sàn là một ____.",
+        "options": [
+            "rug",
+            "blanket",
+            "pillow",
+            "picture"
+        ],
+        "correctAnswer": "rug"
+    },
+    {
+        "question": "Where do you put your books? / Bạn đặt sách của mình ở đâu?",
+        "options": [
+            "On a bookshelf",
+            "In the wardrobe",
+            "Under the bed",
+            "On the lamp"
+        ],
+        "correctAnswer": "On a bookshelf"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Tall",
+            "Long"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "My bed is very ____, so I sleep well. / Giường của tôi rất ____, nên tôi ngủ ngon.",
+        "options": [
+            "comfortable",
+            "hard",
+            "small",
+            "cold"
+        ],
+        "correctAnswer": "comfortable"
+    },
+    {
+        "question": "Spell the word for where you sleep. / Đánh vần từ chỉ nơi bạn ngủ.",
+        "options": [
+            "b-e-d",
+            "d-e-s-k",
+            "r-u-g",
+            "l-a-m-p"
+        ],
+        "correctAnswer": "b-e-d"
+    },
+    {
+        "question": "What is the opposite of 'tidy'? / Từ trái nghĩa của 'tidy' là gì?",
+        "options": [
+            "Messy",
+            "Clean",
+            "Nice",
+            "Happy"
+        ],
+        "correctAnswer": "Messy"
+    },
+    {
+        "question": "You should keep your bedroom ____. / Bạn nên giữ phòng ngủ của mình ____.",
+        "options": [
+            "tidy",
+            "messy",
+            "dirty",
+            "dark"
+        ],
+        "correctAnswer": "tidy"
+    },
+    {
+        "question": "What is the opposite of 'on'? / Từ trái nghĩa của 'on' là gì?",
+        "options": [
+            "Under",
+            "In",
+            "Over",
+            "At"
+        ],
+        "correctAnswer": "Under"
+    },
+    {
+        "question": "The rug is ____ the bed. / Tấm thảm ở ____ giường.",
+        "options": [
+            "on",
+            "under",
+            "in",
+            "happy"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "Spell the word for the light on your desk. / Đánh vần từ chỉ cái đèn trên bàn học của bạn.",
+        "options": [
+            "l-a-m-p",
+            "b-e-d",
+            "d-o-o-r",
+            "c-h-a-i-r"
+        ],
+        "correctAnswer": "l-a-m-p"
+    },
+    {
+        "question": "What is the opposite of 'open'? / Từ trái nghĩa của 'open' là gì?",
+        "options": [
+            "Closed",
+            "In",
+            "Out",
+            "Big"
+        ],
+        "correctAnswer": "Closed"
+    },
+    {
+        "question": "The wardrobe door is ____. / Cửa tủ quần áo đang ____.",
+        "options": [
+            "closed",
+            "open",
+            "small",
+            "blue"
+        ],
+        "correctAnswer": "closed"
+    },
+    {
+        "question": "What color is the sky outside the window? / Bầu trời bên ngoài cửa sổ có màu gì?",
+        "options": [
+            "Blue",
+            "Green",
+            "Red",
+            "Brown"
+        ],
+        "correctAnswer": "Blue"
+    },
+    {
+        "question": "What is the opposite of 'soft'? / Từ trái nghĩa của 'soft' là gì?",
+        "options": [
+            "Hard",
+            "Easy",
+            "Light",
+            "Small"
+        ],
+        "correctAnswer": "Hard"
+    },
+    {
+        "question": "My pillow is very ____. / Gối của tôi rất ____.",
+        "options": [
+            "soft",
+            "hard",
+            "big",
+            "blue"
+        ],
+        "correctAnswer": "soft"
+    },
+    {
+        "question": "Spell the word for where you do homework. / Đánh vần từ chỉ nơi bạn làm bài tập về nhà.",
+        "options": [
+            "d-e-s-k",
+            "b-e-d",
+            "c-h-a-i-r",
+            "r-u-g"
+        ],
+        "correctAnswer": "d-e-s-k"
+    },
+    {
+        "question": "What is the opposite of 'light' (not heavy)? / Từ trái nghĩa của 'light' là gì? (không nặng)",
+        "options": [
+            "Heavy",
+            "Dark",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Heavy"
+    },
+    {
+        "question": "My blanket is not heavy, it is ____. / Chăn của tôi không nặng, nó ____.",
+        "options": [
+            "light",
+            "heavy",
+            "hard",
+            "dark"
+        ],
+        "correctAnswer": "light"
+    },
+    {
+        "question": "What is the opposite of 'dark'? / Từ trái nghĩa của 'dark' là gì?",
+        "options": [
+            "Bright",
+            "Heavy",
+            "Soft",
+            "Sad"
+        ],
+        "correctAnswer": "Bright"
+    },
+    {
+        "question": "The lamp makes the room ____. / Cái đèn làm cho căn phòng ____.",
+        "options": [
+            "bright",
+            "dark",
+            "cold",
+            "sad"
+        ],
+        "correctAnswer": "bright"
+    },
+    {
+        "question": "Spell the word for the room you sleep in. / Đánh vần từ chỉ căn phòng bạn ngủ.",
+        "options": [
+            "b-e-d-r-o-o-m",
+            "k-i-t-c-h-e-n",
+            "b-a-t-h-r-o-o-m",
+            "g-a-r-d-e-n"
+        ],
+        "correctAnswer": "b-e-d-r-o-o-m"
+    },
+    {
+        "question": "What do you do before you go to sleep? / Bạn làm gì trước khi đi ngủ?",
+        "options": [
+            "Read a book",
+            "Play football",
+            "Cook dinner",
+            "Go to school"
+        ],
+        "correctAnswer": "Read a book"
+    },
+    {
+        "question": "What is the opposite of 'asleep'? / Từ trái nghĩa của 'asleep' là gì?",
+        "options": [
+            "Awake",
+            "Tired",
+            "Happy",
+            "Sad"
+        ],
+        "correctAnswer": "Awake"
+    },
+    {
+        "question": "In the morning, I am ____. / Vào buổi sáng, tôi ____.",
+        "options": [
+            "awake",
+            "asleep",
+            "sad",
+            "angry"
+        ],
+        "correctAnswer": "awake"
+    },
+    {
+        "question": "Spell the word for what you put on your head to sleep. / Đánh vần từ chỉ thứ bạn gối đầu khi ngủ.",
+        "options": [
+            "p-i-l-l-o-w",
+            "b-l-a-n-k-e-t",
+            "h-a-t",
+            "b-o-o-k"
+        ],
+        "correctAnswer": "p-i-l-l-o-w"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "My bedroom is a ____ place. / Phòng ngủ của tôi là một nơi ____.",
+        "options": [
+            "quiet",
+            "noisy",
+            "busy",
+            "crowded"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What is the opposite of 'empty'? / Từ trái nghĩa của 'empty' là gì?",
+        "options": [
+            "Full",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Full"
+    },
+    {
+        "question": "My wardrobe is ____ of clothes. / Tủ quần áo của tôi ____ quần áo.",
+        "options": [
+            "full",
+            "empty",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "full"
+    },
+    {
+        "question": "Spell the word for the furniture that holds your clothes. / Đánh vần từ chỉ đồ nội thất chứa quần áo của bạn.",
+        "options": [
+            "w-a-r-d-r-o-b-e",
+            "d-e-s-k",
+            "c-h-a-i-r",
+            "b-e-d"
+        ],
+        "correctAnswer": "w-a-r-d-r-o-b-e"
+    },
+    {
+        "question": "The picture is ____ the wall. / Bức tranh ở ____ tường.",
+        "options": [
+            "on",
+            "under",
+            "in",
+            "happy"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "My shoes are ____ the bed. / Đôi giày của tôi ở ____ giường.",
+        "options": [
+            "under",
+            "on",
+            "in",
+            "blue"
+        ],
+        "correctAnswer": "under"
+    },
+    {
+        "question": "What is the opposite of 'above'? / Từ trái nghĩa của 'above' là gì?",
+        "options": [
+            "Below",
+            "On",
+            "Over",
+            "In"
+        ],
+        "correctAnswer": "Below"
+    },
+    {
+        "question": "The lamp is ____ the desk. / Cái đèn ở ____ bàn học.",
+        "options": [
+            "on",
+            "under",
+            "in",
+            "below"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "Spell the word for the opening that lets in light. / Đánh vần từ chỉ ô cửa cho ánh sáng vào.",
+        "options": [
+            "w-i-n-d-o-w",
+            "d-o-o-r",
+            "w-a-l-l",
+            "r-o-o-f"
+        ],
+        "correctAnswer": "w-i-n-d-o-w"
+    },
+    {
+        "question": "What is the opposite of 'inside'? / Từ trái nghĩa của 'inside' là gì?",
+        "options": [
+            "Outside",
+            "On",
+            "Under",
+            "Near"
+        ],
+        "correctAnswer": "Outside"
+    },
+    {
+        "question": "My bedroom is ____ my house. / Phòng ngủ của tôi ở ____ nhà tôi.",
+        "options": [
+            "inside",
+            "outside",
+            "on",
+            "under"
+        ],
+        "correctAnswer": "inside"
+    },
+    {
+        "question": "What color is your bed? / Giường của bạn màu gì?",
+        "options": [
+            "It's blue.",
+            "It's a bed.",
+            "It's big.",
+            "I have a bed."
+        ],
+        "correctAnswer": "It's blue."
+    },
+    {
+        "question": "What is the opposite of 'warm'? / Từ trái nghĩa của 'warm' là gì?",
+        "options": [
+            "Cool",
+            "Hot",
+            "Cold",
+            "Sunny"
+        ],
+        "correctAnswer": "Cool"
+    },
+    {
+        "question": "My bedroom is ____ and cozy. / Phòng ngủ của tôi ____ và ấm cúng.",
+        "options": [
+            "warm",
+            "cold",
+            "hot",
+            "sad"
+        ],
+        "correctAnswer": "warm"
+    },
+    {
+        "question": "Spell the word for what you sit on at a desk. / Đánh vần từ chỉ thứ bạn ngồi khi ở bàn học.",
+        "options": [
+            "c-h-a-i-r",
+            "b-e-d",
+            "s-o-f-a",
+            "r-u-g"
+        ],
+        "correctAnswer": "c-h-a-i-r"
+    },
+    {
+        "question": "How many windows are in your room? (Assume there is one) / Có bao nhiêu cửa sổ trong phòng bạn? (Giả sử có một)",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "None"
+        ],
+        "correctAnswer": "One"
+    },
+    {
+        "question": "A room for sleeping is a ____. / Một căn phòng để ngủ là ____.",
+        "options": [
+            "bedroom",
+            "kitchen",
+            "bathroom",
+            "dining room"
+        ],
+        "correctAnswer": "bedroom"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The picture on my wall is ____. / Bức tranh trên tường của tôi thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for the covering on the floor. / Đánh vần từ chỉ tấm thảm trên sàn.",
+        "options": [
+            "r-u-g",
+            "b-e-d",
+            "d-o-g",
+            "c-a-t"
+        ],
+        "correctAnswer": "r-u-g"
+    },
+    {
+        "question": "What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
+        "options": [
+            "Old",
+            "Young",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "My desk is not new, it is ____. / Bàn học của tôi không mới, nó ____.",
+        "options": [
+            "old",
+            "new",
+            "big",
+            "small"
+        ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "What do you see when you look in a mirror? / Bạn thấy gì khi nhìn vào gương?",
+        "options": [
+            "Myself",
+            "A book",
+            "A chair",
+            "A window"
+        ],
+        "correctAnswer": "Myself"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ in my cozy bedroom. / Tôi cảm thấy ____ trong phòng ngủ ấm cúng của mình.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "hungry"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "Spell the word for the entrance to the room. / Đánh vần từ chỉ lối vào phòng.",
+        "options": [
+            "d-o-o-r",
+            "w-a-l-l",
+            "f-l-o-o-r",
+            "r-o-o-f"
+        ],
+        "correctAnswer": "d-o-o-r"
+    },
+    {
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [
+            "Short",
+            "Long",
+            "Big",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "My wardrobe is ____. / Tủ quần áo của tôi ____.",
+        "options": [
+            "tall",
+            "short",
+            "small",
+            "round"
+        ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "What do you put on your bed besides a pillow? / Bạn đặt gì trên giường ngoài gối?",
+        "options": [
+            "A blanket",
+            "A book",
+            "A lamp",
+            "A chair"
+        ],
+        "correctAnswer": "A blanket"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "You should not have a ____ room. / Bạn không nên có một căn phòng ____.",
+        "options": [
+            "dirty",
+            "clean",
+            "tidy",
+            "bright"
+        ],
+        "correctAnswer": "dirty"
+    },
+    {
+        "question": "Spell the word for a painting or photo on the wall. / Đánh vần từ chỉ một bức tranh hoặc ảnh trên tường.",
+        "options": [
+            "p-i-c-t-u-r-e",
+            "w-i-n-d-o-w",
+            "m-i-r-r-o-r",
+            "c-l-o-c-k"
+        ],
+        "correctAnswer": "p-i-c-t-u-r-e"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Morning",
+            "Evening",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You sleep in your bedroom at ____. / Bạn ngủ trong phòng ngủ của mình vào ____.",
+        "options": [
+            "night",
+            "day",
+            "morning",
+            "noon"
+        ],
+        "correctAnswer": "night"
+    },
+    {
+        "question": "What do you put your toys in? / Bạn để đồ chơi của mình vào đâu?",
+        "options": [
+            "A toy box",
+            "A wardrobe",
+            "A bookshelf",
+            "A bed"
+        ],
+        "correctAnswer": "A toy box"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ my bedroom. / Tôi ____ phòng ngủ của mình.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "Spell the word for the thing you use to cover yourself when sleeping. / Đánh vần từ chỉ thứ bạn dùng để đắp khi ngủ.",
+        "options": [
+            "b-l-a-n-k-e-t",
+            "p-i-l-l-o-w",
+            "s-h-e-e-t",
+            "b-e-d"
+        ],
+        "correctAnswer": "b-l-a-n-k-e-t"
+    },
+    {
+        "question": "What is the opposite of 'right' (direction)? / Từ trái nghĩa của 'right' là gì? (hướng)",
+        "options": [
+            "Left",
+            "Wrong",
+            "Up",
+            "Down"
+        ],
+        "correctAnswer": "Left"
+    },
+    {
+        "question": "The desk is on the ____ side of the room. / Bàn học ở phía ____ của căn phòng.",
+        "options": [
+            "right",
+            "left",
+            "up",
+            "down"
+        ],
+        "correctAnswer": "right"
+    },
+    {
+        "question": "What do you do when you are tired? / Bạn làm gì khi mệt?",
+        "options": [
+            "Rest",
+            "Run",
+            "Jump",
+            "Play"
+        ],
+        "correctAnswer": "Rest"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Happy"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to have a messy room. / Thật ____ khi có một căn phòng bừa bộn.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "happy"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Spell the word for the flat surface you walk on inside a room. / Đánh vần từ chỉ bề mặt phẳng bạn đi lại trong phòng.",
+        "options": [
+            "f-l-o-o-r",
+            "w-a-l-l",
+            "d-o-o-r",
+            "r-o-o-f"
+        ],
+        "correctAnswer": "f-l-o-o-r"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "The light from the small lamp is ____. / Ánh sáng từ chiếc đèn nhỏ thì ____.",
+        "options": [
+            "weak",
+            "strong",
+            "big",
+            "heavy"
+        ],
+        "correctAnswer": "weak"
+    },
+    {
+        "question": "What do you see on the ceiling of your bedroom? / Bạn thấy gì trên trần phòng ngủ của mình?",
+        "options": [
+            "A light",
+            "A rug",
+            "A chair",
+            "A bed"
+        ],
+        "correctAnswer": "A light"
+    },
+    {
+        "question": "What is the opposite of 'asleep'? / Từ trái nghĩa của 'asleep' là gì?",
+        "options": [
+            "Awake",
+            "Tired",
+        "Happy",
+            "Sad"
+        ],
+        "correctAnswer": "Awake"
+    },
+    {
+        "question": "The alarm clock helps me to wake ____. / Đồng hồ báo thức giúp tôi thức ____.",
+        "options": [
+            "up",
+            "down",
+            "in",
+            "out"
+        ],
+        "correctAnswer": "up"
+    },
+    {
+        "question": "Spell the word for the vertical surfaces of a room. / Đánh vần từ chỉ các bề mặt thẳng đứng của một căn phòng.",
+        "options": [
+            "w-a-l-l-s",
+            "f-l-o-o-r",
+            "d-o-o-r-s",
+            "r-o-o-f"
+        ],
+        "correctAnswer": "w-a-l-l-s"
+    },
+    {
+        "question": "How many doors are in your bedroom? (Assume there is one) / Có bao nhiêu cửa ra vào trong phòng ngủ của bạn? (Giả sử có một)",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "None"
+        ],
+        "correctAnswer": "One"
+    },
+    {
+        "question": "A bedroom is a ____ and private space. / Phòng ngủ là một không gian ____ và riêng tư.",
+        "options": [
+            "personal",
+            "public",
+            "open",
+            "big"
+        ],
+        "correctAnswer": "personal"
+    },
+    {
+        "question": "What is the opposite of 'top'? / Từ trái nghĩa của 'top' là gì?",
+        "options": [
+            "Bottom",
+            "Side",
+            "Middle",
+            "Up"
+        ],
+        "correctAnswer": "Bottom"
+    },
+    {
+        "question": "My books are on the ____ shelf. / Sách của tôi ở trên kệ ____.",
+        "options": [
+            "top",
+            "bottom",
+            "sad",
+            "happy"
+        ],
+        "correctAnswer": "top"
+    },
+    {
+        "question": "Spell the word for a piece of furniture with shelves for books. / Đánh vần từ chỉ một món đồ nội thất có kệ để sách.",
+        "options": [
+            "b-o-o-k-s-h-e-l-f",
+            "w-a-r-d-r-o-b-e",
+            "t-a-b-l-e",
+            "c-h-a-i-r"
+        ],
+        "correctAnswer": "b-o-o-k-s-h-e-l-f"
+    }
 ]
-
