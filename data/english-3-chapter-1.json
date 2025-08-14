@@ -1,483 +1,302 @@
 [
-  {
-    "question": "How do you greet someone in the morning? / Bạn chào ai đó vào buổi sáng như thế nào?",
-    "options": ["Good morning.", "Good afternoon.", "Good evening.", "Good night."],
-    "correctAnswer": "Good morning."
-  },
-  {
-    "question": "What is your name? / Tên của bạn là gì?",
-    "options": ["My name is Linh.", "I am fine, thank you.", "I am eight years old.", "Hello."],
-    "correctAnswer": "My name is Linh."
-  },
-  {
-    "question": "How are you? / Bạn có khỏe không?",
-    "options": ["I'm fine, thank you.", "My name is Quan.", "Goodbye.", "Nice to meet you."],
-    "correctAnswer": "I'm fine, thank you."
-  },
-  {
-    "question": "What do you say when you leave? / Bạn nói gì khi bạn rời đi?",
-    "options": ["Goodbye.", "Hello.", "Hi.", "Good morning."],
-    "correctAnswer": "Goodbye."
-  },
-  {
-    "question": "Spell the word: H-E-L-L-O / Đánh vần từ: H-E-L-L-O",
-    "options": ["Hello", "Hallow", "Bellow", "Yellow"],
-    "correctAnswer": "Hello"
-  },
-  {
-    "question": "Nice to ____ you. / Rất vui được ____ bạn.",
-    "options": ["meet", "see", "go", "play"],
-    "correctAnswer": "meet"
-  },
-  {
-    "question": "A: Hello, I'm Mai. B: ____, Mai. I'm Nam. / A: Chào, tớ là Mai. B: ____, Mai. Tớ là Nam.",
-    "options": ["Hi", "Bye", "Goodbye", "Good night"],
-    "correctAnswer": "Hi"
-  },
-  {
-    "question": "Find the word: n-a-m-e / Tìm từ: n-a-m-e",
-    "options": ["name", "game", "same", "lame"],
-    "correctAnswer": "name"
-  },
-  {
-    "question": "A: How are you? B: I'm fine, ____. / A: Bạn có khỏe không? B: Tớ khỏe, ____.",
-    "options": ["thanks", "please", "sorry", "hello"],
-    "correctAnswer": "thanks"
-  },
-  {
-    "question": "What's ____ name? / ____ tên là gì?",
-    "options": ["your", "my", "I", "you"],
-    "correctAnswer": "your"
-  },
-  {
-    "question": "How do you spell your name? / Bạn đánh vần tên của bạn như thế nào?",
-    "options": ["L-I-N-H", "I am Linh.", "My name is Linh.", "I am fine."],
-    "correctAnswer": "L-I-N-H"
-  },
-  {
-    "question": "I ____ Nam. / Tớ ____ Nam.",
-    "options": ["am", "is", "are", "be"],
-    "correctAnswer": "am"
-  },
-  {
-    "question": "What is the missing letter? Hel_o / Chữ cái còn thiếu là gì? Hel_o",
-    "options": ["l", "p", "t", "d"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "This is my friend. ____ name is Ben. / Đây là bạn của tôi. ____ tên là Ben.",
-    "options": ["His", "Her", "My", "Your"],
-    "correctAnswer": "His"
-  },
-  {
-    "question": "My ____ is Lucy. / ____ của tớ là Lucy.",
-    "options": ["name", "friend", "school", "class"],
-    "correctAnswer": "name"
-  },
-  {
-    "question": "Let's say ____ to the teacher. / Hãy nói ____ với cô giáo.",
-    "options": ["hello", "goodbye", "sorry", "thanks"],
-    "correctAnswer": "hello"
-  },
-  {
-    "question": "Spell the word: f-i-n-e / Đánh vần từ: f-i-n-e",
-    "options": ["fine", "five", "find", "fire"],
-    "correctAnswer": "fine"
-  },
-  {
-    "question": "Is your name Peter? / Tên của bạn có phải là Peter không?",
-    "options": ["Yes, it is.", "No, I am not.", "I am fine.", "I have a friend."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am ____, thanks. And you? / Tớ ____, cảm ơn. Còn bạn thì sao?",
-    "options": ["fine", "name", "hello", "bye"],
-    "correctAnswer": "fine"
-  },
-  {
-    "question": "What is the missing letter? _ye / Chữ cái còn thiếu là gì? _ye",
-    "options": ["B", "H", "G", "S"],
-    "correctAnswer": "B"
-  },
-  {
-    "question": "This is a new ____. / Đây là một ____ mới.",
-    "options": ["friend", "book", "pen", "bag"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "How do you spell 'Mai'? / Bạn đánh vần 'Mai' như thế nào?",
-    "options": ["M-A-I", "M-Y", "A-M-I", "I-A-M"],
-    "correctAnswer": "M-A-I"
-  },
-  {
-    "question": "Hello. ____ am Phong. / Xin chào. ____ là Phong.",
-    "options": ["I", "My", "You", "Your"],
-    "correctAnswer": "I"
-  },
-  {
-    "question": "Spell the word: b-y-e / Đánh vần từ: b-y-e",
-    "options": ["bye", "by", "buy", "be"],
-    "correctAnswer": "bye"
-  },
-  {
-    "question": "A: Nice to meet you. B: ____. / A: Rất vui được gặp bạn. B: ____.",
-    "options": ["Nice to meet you, too.", "I'm fine.", "Goodbye.", "Hello."],
-    "correctAnswer": "Nice to meet you, too."
-  },
-  {
-    "question": "We say 'Hi' or '____' to greet people. / Chúng ta nói 'Hi' hoặc '____' để chào mọi người.",
-    "options": ["Hello", "Bye", "Thanks", "Sorry"],
-    "correctAnswer": "Hello"
-  },
-  {
-    "question": "What is the missing letter? na_e / Chữ cái còn thiếu là gì? na_e",
-    "options": ["m", "t", "d", "p"],
-    "correctAnswer": "m"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A greeting", "A question", "An answer", "A name"],
-    "correctAnswer": "A greeting"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["question", "name", "friend", "class"],
-    "correctAnswer": "question"
-  },
-  {
-    "question": "This is ____. It's a way to say goodbye. / Đây là ____. Đó là một cách để nói lời tạm biệt.",
-    "options": ["Bye", "Hello", "Hi", "Thanks"],
-    "correctAnswer": "Bye"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["The alphabet", "Numbers", "Colours", "Shapes"],
-    "correctAnswer": "The alphabet"
-  },
-  {
-    "question": "Find the word: s-p-e-l-l / Tìm từ: s-p-e-l-l",
-    "options": ["spell", "speak", "spend", "spill"],
-    "correctAnswer": "spell"
-  },
-  {
-    "question": "Is it correct? / Nó có đúng không?",
-    "options": ["Yes, it is.", "No, it is wrong.", "I am spelling.", "I like to spell."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is easy to spell. / ____ của tôi dễ đánh vần.",
-    "options": ["name", "house", "book", "pet"],
-    "correctAnswer": "name"
-  },
-  {
-    "question": "What is the missing letter? frien_",
-    "options": ["d", "a", "i", "o"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["day", "book", "lesson", "game"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Spell the word: t-h-a-n-k-s / Đánh vần từ: t-h-a-n-k-s",
-    "options": ["thanks", "thinks", "tanks", "than"],
-    "correctAnswer": "thanks"
-  },
-  {
-    "question": "Is this your friend? / Đây có phải là bạn của bạn không?",
-    "options": ["Yes, she is.", "No, he is not.", "I can see a friend.", "I like friends."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "The class has a new ____. / Lớp học có một ____ mới.",
-    "options": ["student", "teacher", "board", "desk"],
-    "correctAnswer": "student"
-  },
-  {
-    "question": "What is the missing letter? _tudent / Chữ cái còn thiếu là gì? _tudent",
-    "options": ["s", "p", "b", "c"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A classroom", "A playground", "A library", "A gym"],
-    "correctAnswer": "A classroom"
-  },
-  {
-    "question": "My ____ is in Class 3A. / ____ của tôi ở lớp 3A.",
-    "options": ["friend", "pet", "toy", "book"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "Is the teacher nice? / Cô giáo có tốt bụng không?",
-    "options": ["Yes, she is.", "No, she is not.", "It is a teacher.", "Hello."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "I can see a boy and a ____. / Tôi có thể thấy một bạn trai và một ____.",
-    "options": ["girl", "house", "car", "book"],
-    "correctAnswer": "girl"
-  },
-  {
-    "question": "Find the word: g-o-o-d-b-y-e / Tìm từ: g-o-o-d-b-y-e",
-    "options": ["goodbye", "good day", "good boy", "good life"],
-    "correctAnswer": "goodbye"
-  },
-  {
-    "question": "This is my ____. Her name is Hoa. / Đây là ____ của tôi. Tên cô ấy là Hoa.",
-    "options": ["friend", "teacher", "mother", "sister"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "What is the missing letter? than_s / Chữ cái còn thiếu là gì? than_s",
-    "options": ["k", "p", "t", "d"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "Is it a new school year? / Nó có phải là một năm học mới không?",
-    "options": ["Yes, it is.", "No, it is old.", "I like school.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["class", "homework", "lesson", "test"],
-    "correctAnswer": "class"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A school", "A house", "A shop", "A park"],
-    "correctAnswer": "A school"
-  },
-  {
-    "question": "How do you do? / Bạn có khỏe không? (cách chào trang trọng)",
-    "options": ["How do you do?", "I'm fine, thanks.", "My name is Peter.", "I am eight."],
-    "correctAnswer": "How do you do?"
-  },
-  {
-    "question": "A: ____, class. B: Good morning, Miss Hien. / A: ____, cả lớp. B: Chào buổi sáng, cô Hiền.",
-    "options": ["Good morning", "Goodbye", "Hello", "Hi"],
-    "correctAnswer": "Good morning"
-  },
-  {
-    "question": "I have ____ new friend. / Tôi có ____ người bạn mới.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What's his name? / Tên anh ấy là gì?",
-    "options": ["His name is David.", "Her name is Mary.", "My name is John.", "Your name is Tom."],
-    "correctAnswer": "His name is David."
-  },
-  {
-    "question": "What's her name? / Tên cô ấy là gì?",
-    "options": ["Her name is Mary.", "His name is David.", "My name is John.", "Your name is Tom."],
-    "correctAnswer": "Her name is Mary."
-  },
-  {
-    "question": "The boy's name is ____. / Tên của cậu bé là ____.",
-    "options": ["Tony", "Linda", "Peter", "Mai"],
-    "correctAnswer": "Tony"
-  },
-  {
-    "question": "The girl's name is ____. / Tên của cô bé là ____.",
-    "options": ["Linda", "Tony", "Peter", "Nam"],
-    "correctAnswer": "Linda"
-  },
-  {
-    "question": "Is her name Lucy? / Tên cô ấy có phải là Lucy không?",
-    "options": ["Yes, it is.", "No, it isn't.", "Yes, she is.", "No, she isn't."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My first day at school is ____. / Ngày đầu tiên của tôi ở trường thì ____.",
-    "options": ["exciting", "boring", "sad", "bad"],
-    "correctAnswer": "exciting"
-  },
-  {
-    "question": "What is the missing letter? exciti_g / Chữ cái còn thiếu là gì? exciti_g",
-    "options": ["n", "t", "d", "k"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is ____. / Đây là ____.",
-    "options": ["a friend", "a teacher", "a student", "a person"],
-    "correctAnswer": "a friend"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["friends", "dog", "cat", "bird"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "Is the teacher writing? / Cô giáo có đang viết không?",
-    "options": ["Yes, she is.", "No, she is reading.", "It is a teacher.", "Hello."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "Let's say hello to our new ____. / Hãy chào ____ mới của chúng ta.",
-    "options": ["classmate", "teacher", "friend", "student"],
-    "correctAnswer": "classmate"
-  },
-  {
-    "question": "Spell the word: c-l-a-s-s-m-a-t-e / Đánh vần từ: c-l-a-s-s-m-a-t-e",
-    "options": ["classmate", "classroom", "classwork", "classic"],
-    "correctAnswer": "classmate"
-  },
-  {
-    "question": "I have ____ new pen. / Tôi có ____ cái bút mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite person at school is my ____. / Người yêu thích của tôi ở trường là ____.",
-    "options": ["best friend", "teacher", "principal", "librarian"],
-    "correctAnswer": "best friend"
-  },
-  {
-    "question": "What is the missing letter? bes_",
-    "options": ["t", "a", "i", "o"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is ____. It's a way to introduce someone. / Đây là ____. Đó là một cách để giới thiệu ai đó.",
-    "options": ["This is...", "My name is...", "What's your name?", "How are you?"],
-    "correctAnswer": "This is..."
-  },
-  {
-    "question": "We should be ____ to our friends. / Chúng ta nên ____ với bạn bè của mình.",
-    "options": ["kind", "rude", "loud", "quiet"],
-    "correctAnswer": "kind"
-  },
-  {
-    "question": "Is it a big school? / Nó có phải là một ngôi trường lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like school.", "The school is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: k-i-n-d / Đánh vần từ: k-i-n-d",
-    "options": ["kind", "king", "find", "mind"],
-    "correctAnswer": "kind"
-  },
-  {
-    "question": "I help my friend with ____. / Tôi giúp bạn tôi với ____.",
-    "options": ["English", "Maths", "Art", "Music"],
-    "correctAnswer": "English"
-  },
-  {
-    "question": "The students are in the ____. / Các bạn học sinh đang ở trong ____.",
-    "options": ["classroom", "playground", "library", "gym"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "What is the missing letter? clas_room / Chữ cái còn thiếu là gì? clas_room",
-    "options": ["s", "p", "t", "d"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A question mark", "A full stop", "A comma", "An exclamation mark"],
-    "correctAnswer": "A question mark"
-  },
-  {
-    "question": "My ____ is full of students. / ____ của tôi đầy học sinh.",
-    "options": ["class", "desk", "bag", "box"],
-    "correctAnswer": "class"
-  },
-  {
-    "question": "Is it a picture of a school? / Nó có phải là một bức tranh về một ngôi trường không?",
-    "options": ["Yes, it is.", "No, it is a house.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to ____. / Bạn tôi thích ____.",
-    "options": ["read", "write", "draw", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: r-e-a-d / Đánh vần từ: r-e-a-d",
-    "options": ["read", "red", "road", "ride"],
-    "correctAnswer": "read"
-  },
-  {
-    "question": "This is a ____ day at school. / Đây là một ngày ____ ở trường.",
-    "options": ["happy", "rainy", "cloudy", "windy"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? _appy / Chữ cái còn thiếu là gì? _appy",
-    "options": ["h", "p", "s", "m"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A student", "A teacher", "A doctor", "A farmer"],
-    "correctAnswer": "A student"
-  },
-  {
-    "question": "My teacher is ____. / Cô giáo của tôi thì ____.",
-    "options": ["kind", "tall", "short", "young"],
-    "correctAnswer": "kind"
-  },
-  {
-    "question": "Are the students friendly? / Các bạn học sinh có thân thiện không?",
-    "options": ["Yes, they are.", "No, they are not.", "They are students.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My school has many ____. / Trường tôi có nhiều ____.",
-    "options": ["classrooms", "teachers", "students", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: f-r-i-e-n-d-l-y / Đánh vần từ: f-r-i-e-n-d-l-y",
-    "options": ["friendly", "friend", "finally", "friday"],
-    "correctAnswer": "friendly"
-  },
-  {
-    "question": "I am ____ in my class. / Tôi ____ trong lớp của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? fri_ndly / Chữ cái còn thiếu là gì? fri_ndly",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A school bus", "A car", "A bike", "A train"],
-    "correctAnswer": "A school bus"
-  },
-  {
-    "question": "My school is my favorite ____. / Trường học là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the lesson easy? / Bài học có dễ không?",
-    "options": ["Yes, it is.", "No, it is hard.", "It is a lesson.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The class has a ____. / Lớp học có một ____.",
-    "options": ["whiteboard", "blackboard", "smartboard", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Spell the word: t-e-a-c-h-e-r / Đánh vần từ: t-e-a-c-h-e-r",
-    "options": ["teacher", "reacher", "bleacher", "peacher"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "We say ____ when we meet our friends. / Chúng ta nói ____ khi gặp bạn bè.",
-    "options": ["Hi", "Bye", "Thanks", "Sorry"],
-    "correctAnswer": "Hi"
-  },
-  {
-    "question": "What is the missing letter? teache_",
-    "options": ["r", "s", "t", "p"],
-    "correctAnswer": "r"
-  }
+    {
+        "question": "What do you say when you meet a friend in the morning? / Bạn nói gì khi gặp một người bạn vào buổi sáng?",
+        "options": [
+            "Hello",
+            "Goodbye",
+            "Good night",
+            "Thank you"
+        ],
+        "correctAnswer": "Hello"
+    },
+    {
+        "question": "To ask for someone's name, you say: / Để hỏi tên của ai đó, bạn nói:",
+        "options": [
+            "What's your name?",
+            "How are you?",
+            "How old are you?",
+            "Where are you from?"
+        ],
+        "correctAnswer": "What's your name?"
+    },
+    {
+        "question": "To answer the question 'What's your name?', you say: / Để trả lời câu hỏi 'What's your name?', bạn nói:",
+        "options": [
+            "My name is...",
+            "I'm fine, thank you.",
+            "I'm seven years old.",
+            "I'm from Vietnam."
+        ],
+        "correctAnswer": "My name is..."
+    },
+    {
+        "question": "To ask how someone is feeling, you say: / Để hỏi ai đó cảm thấy thế nào, bạn nói:",
+        "options": [
+            "How are you?",
+            "What's your name?",
+            "What is this?",
+            "Is this a book?"
+        ],
+        "correctAnswer": "How are you?"
+    },
+    {
+        "question": "A common and polite answer to 'How are you?' is: / Một câu trả lời phổ biến và lịch sự cho 'How are you?' là:",
+        "options": [
+            "I'm fine, thank you.",
+            "My name is Ben.",
+            "I like cats.",
+            "It's a sunny day."
+        ],
+        "correctAnswer": "I'm fine, thank you."
+    },
+    {
+        "question": "What do you say when you are leaving and won't see your friend again today? / Bạn nói gì khi bạn rời đi và sẽ không gặp lại bạn mình trong ngày hôm nay?",
+        "options": [
+            "Goodbye",
+            "Hello",
+            "Hi",
+            "Good morning"
+        ],
+        "correctAnswer": "Goodbye"
+    },
+    {
+        "question": "A short and friendly way to say 'Hello' is: / Một cách ngắn gọn và thân thiện để nói 'Hello' là:",
+        "options": [
+            "Hi",
+            "Bye",
+            "Thanks",
+            "Sorry"
+        ],
+        "correctAnswer": "Hi"
+    },
+    {
+        "question": "A short way to say 'Goodbye' is: / Một cách ngắn gọn để nói 'Goodbye' là:",
+        "options": [
+            "Bye",
+            "Hi",
+            "Hey",
+            "Yo"
+        ],
+        "correctAnswer": "Bye"
+    },
+    {
+        "question": "If someone says 'My name is Lucy', what is her name? / Nếu ai đó nói 'My name is Lucy', tên của cô ấy là gì?",
+        "options": [
+            "Lucy",
+            "Ben",
+            "Mai",
+            "Tom"
+        ],
+        "correctAnswer": "Lucy"
+    },
+    {
+        "question": "What is the opposite of 'Hello'? / Từ trái nghĩa của 'Hello' là gì?",
+        "options": [
+            "Goodbye",
+            "Hi",
+            "Welcome",
+            "Hey"
+        ],
+        "correctAnswer": "Goodbye"
+    },
+    {
+        "question": "Spell the word for the greeting you use when you meet someone. / Đánh vần từ chỉ lời chào bạn dùng khi gặp ai đó.",
+        "options": [
+            "h-e-l-l-o",
+            "b-y-e",
+            "f-i-n-e",
+            "n-a-m-e"
+        ],
+        "correctAnswer": "h-e-l-l-o"
+    },
+    {
+        "question": "What is the opposite of 'friend'? / Từ trái nghĩa của 'friend' là gì?",
+        "options": [
+            "Enemy",
+            "Family",
+            "Teacher",
+            "Pet"
+        ],
+        "correctAnswer": "Enemy"
+    },
+    {
+        "question": "A person you know and like is your ____. / Một người bạn biết và quý mến là ____ của bạn.",
+        "options": [
+            "friend",
+            "enemy",
+            "teacher",
+            "doctor"
+        ],
+        "correctAnswer": "friend"
+    },
+    {
+        "question": "What is the correct response to 'Nice to meet you'? / Câu trả lời đúng cho 'Nice to meet you' là gì?",
+        "options": [
+            "Nice to meet you, too.",
+            "I'm fine, thank you.",
+            "My name is Phong.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Nice to meet you, too."
+    },
+    {
+        "question": "Spell the word for what you are called. / Đánh vần từ chỉ cái mà người ta gọi bạn.",
+        "options": [
+            "n-a-m-e",
+            "f-a-c-e",
+            "g-a-m-e",
+            "c-a-k-e"
+        ],
+        "correctAnswer": "n-a-m-e"
+    },
+    {
+        "question": "What is the opposite of 'I am'? / Dạng rút gọn của 'I am' là gì?",
+        "options": [
+            "I'm",
+            "You're",
+            "He's",
+            "She's"
+        ],
+        "correctAnswer": "I'm"
+    },
+    {
+        "question": "What is the full form of 'What's'? / Dạng đầy đủ của 'What's' là gì?",
+        "options": [
+            "What is",
+            "What are",
+            "What am",
+            "What was"
+        ],
+        "correctAnswer": "What is"
+    },
+    {
+        "question": "If you feel good, you can say 'I'm ____'. / Nếu bạn cảm thấy tốt, bạn có thể nói 'I'm ____'.",
+        "options": [
+            "fine",
+            "sad",
+            "angry",
+            "tired"
+        ],
+        "correctAnswer": "fine"
+    },
+    {
+        "question": "Spell the word for feeling good. / Đánh vần từ chỉ cảm giác tốt.",
+        "options": [
+            "f-i-n-e",
+            "f-i-v-e",
+            "n-i-n-e",
+            "l-i-n-e"
+        ],
+        "correctAnswer": "f-i-n-e"
+    },
+    {
+        "question": "What is the opposite of 'you'? / Từ trái nghĩa của 'you' là gì?",
+        "options": [
+            "Me",
+            "He",
+            "She",
+            "They"
+        ],
+        "correctAnswer": "Me"
+    },
+    {
+        "question": "To introduce yourself, you say '____ Ben.' / Để giới thiệu bản thân, bạn nói '____ Ben.'",
+        "options": [
+            "I'm",
+            "You're",
+            "He's",
+            "It's"
+        ],
+        "correctAnswer": "I'm"
+    },
+    {
+        "question": "Spell the word for the greeting you use when you leave. / Đánh vần từ chỉ lời chào bạn dùng khi rời đi.",
+        "options": [
+            "g-o-o-d-b-y-e",
+            "h-e-l-l-o",
+            "w-e-l-c-o-m-e",
+            "t-h-a-n-k-s"
+        ],
+        "correctAnswer": "g-o-o-d-b-y-e"
+    },
+    {
+        "question": "What do you say after someone says 'Thank you'? / Bạn nói gì sau khi ai đó nói 'Thank you'?",
+        "options": [
+            "You're welcome.",
+            "Hello.",
+            "Goodbye.",
+            "I'm fine."
+        ],
+        "correctAnswer": "You're welcome."
+    },
+    {
+        "question": "The question 'How are you?' asks about your ____. / Câu hỏi 'How are you?' hỏi về ____ của bạn.",
+        "options": [
+            "feeling",
+            "name",
+            "age",
+            "home"
+        ],
+        "correctAnswer": "feeling"
+    },
+    {
+        "question": "Spell the word for the number 2. / Đánh vần từ chỉ số 2.",
+        "options": [
+            "t-w-o",
+            "t-o-o",
+            "n-e-w",
+            "w-e-t"
+        ],
+        "correctAnswer": "t-w-o"
+    },
+    {
+        "question": "When you meet two friends, you say 'Hello' to ____ of them. / Khi bạn gặp hai người bạn, bạn nói 'Hello' với ____ họ.",
+        "options": [
+            "both",
+            "one",
+            "none",
+            "three"
+        ],
+        "correctAnswer": "both"
+    },
+    {
+        "question": "A boy's name could be ____. / Tên của một cậu bé có thể là ____.",
+        "options": [
+            "Ben",
+            "Lucy",
+            "Mai",
+            "Hoa"
+        ],
+        "correctAnswer": "Ben"
+    },
+    {
+        "question": "A girl's name could be ____. / Tên của một cô gái có thể là ____.",
+        "options": [
+            "Mary",
+            "Peter",
+            "Quan",
+            "David"
+        ],
+        "correctAnswer": "Mary"
+    },
+    {
+        "question": "What is the correct order: 'name / is / My / Quan'? / Trật tự đúng là gì: 'name / is / My / Quan'?",
+        "options": [
+            "My name is Quan.",
+            "Quan is my name.",
+            "Is my name Quan?",
+            "Name my is Quan."
+        ],
+        "correctAnswer": "My name is Quan."
+    },
+    {
+        "question": "What is the correct order: 'are / How / you'? / Trật tự đúng là gì: 'are / How / you'?",
+        "options": [
+            "How are you?",
+            "You are how?",
+            "Are you how?",
+            "How you are?"
+        ],
+        "correctAnswer": "How are you?"
+    }
 ]
-
