@@ -1,483 +1,402 @@
 [
-  {
-    "question": "What is this place? You sleep in a tent here. / Đây là nơi nào? Bạn ngủ trong lều ở đây.",
-    "options": ["A campsite", "A beach", "A farm", "A city"],
-    "correctAnswer": "A campsite"
-  },
-  {
-    "question": "This is a ____. You sleep in it when you go camping. / Đây là một ____. Bạn ngủ trong đó khi đi cắm trại.",
-    "options": ["tent", "house", "bed", "car"],
-    "correctAnswer": "tent"
-  },
-  {
-    "question": "You sit around this at night to stay warm. / Bạn ngồi quanh cái này vào ban đêm để giữ ấm.",
-    "options": ["A campfire", "A table", "A chair", "A light"],
-    "correctAnswer": "A campfire"
-  },
-  {
-    "question": "This is a ____. You sleep inside it. / Đây là một ____. Bạn ngủ bên trong nó.",
-    "options": ["sleeping bag", "blanket", "pillow", "bed"],
-    "correctAnswer": "sleeping bag"
-  },
-  {
-    "question": "Spell the word: t-e-n-t / Đánh vần từ: t-e-n-t",
-    "options": ["tent", "ten", "sent", "rent"],
-    "correctAnswer": "tent"
-  },
-  {
-    "question": "This is the ____. It has many trees. / Đây là ____. Nó có nhiều cây.",
-    "options": ["forest", "river", "mountain", "field"],
-    "correctAnswer": "forest"
-  },
-  {
-    "question": "I can see many ____ in the sky at night. / Tôi có thể thấy nhiều ____ trên bầu trời vào ban đêm.",
-    "options": ["stars", "suns", "clouds", "birds"],
-    "correctAnswer": "stars"
-  },
-  {
-    "question": "Find the word: f-o-r-e-s-t / Tìm từ: f-o-r-e-s-t",
-    "options": ["forest", "forget", "forrest", "fortress"],
-    "correctAnswer": "forest"
-  },
-  {
-    "question": "Is this a big tent? / Đây có phải là một cái lều lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a campfire.", "I have a sleeping bag."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a warm ____. / Đây là một ____ ấm áp.",
-    "options": ["campfire", "tent", "sleeping bag", "forest"],
-    "correctAnswer": "campfire"
-  },
-  {
-    "question": "What can you do at a campsite? / Bạn có thể làm gì ở khu cắm trại?",
-    "options": ["I can sing songs.", "I can go shopping.", "I can watch TV.", "I can use a computer."],
-    "correctAnswer": "I can sing songs."
-  },
-  {
-    "question": "I like to ____ marshmallows over the fire. / Tôi thích ____ kẹo dẻo trên lửa.",
-    "options": ["roast", "eat", "drink", "play"],
-    "correctAnswer": "roast"
-  },
-  {
-    "question": "What is the missing letter? ten_ / Chữ cái còn thiếu là gì? ten_",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is our ____. It's in nature. / Đây là ____ của chúng tôi. Nó ở trong thiên nhiên.",
-    "options": ["campsite", "school", "city", "shop"],
-    "correctAnswer": "campsite"
-  },
-  {
-    "question": "My family is ____ tonight. / Gia đình tôi đang ____ tối nay.",
-    "options": ["camping", "studying", "working", "sleeping"],
-    "correctAnswer": "camping"
-  },
-  {
-    "question": "Let's tell ____. / Hãy kể ____.",
-    "options": ["stories", "songs", "jokes", "poems"],
-    "correctAnswer": "stories"
-  },
-  {
-    "question": "Spell the word: s-t-a-r / Đánh vần từ: s-t-a-r",
-    "options": ["star", "start", "stare", "scar"],
-    "correctAnswer": "star"
-  },
-  {
-    "question": "Is this a big forest? / Đây có phải là một khu rừng lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a tent.", "I can see a campfire."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am sleeping in a ____. / Tôi đang ngủ trong một ____.",
-    "options": ["sleeping bag", "bed", "sofa", "chair"],
-    "correctAnswer": "sleeping bag"
-  },
-  {
-    "question": "What is the missing letter? _ampfire / Chữ cái còn thiếu là gì? _ampfire",
-    "options": ["c", "f", "t", "p"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "These are ____. They are sweet and soft. / Đây là những ____. Chúng ngọt và mềm.",
-    "options": ["marshmallows", "rocks", "sticks", "leaves"],
-    "correctAnswer": "marshmallows"
-  },
-  {
-    "question": "How many tents are there? / Có bao nhiêu cái lều?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "This is a ____. You use it to see in the dark. / Đây là một ____. Bạn dùng nó để nhìn trong bóng tối.",
-    "options": ["flashlight", "lamp", "candle", "light"],
-    "correctAnswer": "flashlight"
-  },
-  {
-    "question": "Spell the word: n-i-g-h-t / Đánh vần từ: n-i-g-h-t",
-    "options": ["night", "light", "right", "might"],
-    "correctAnswer": "night"
-  },
-  {
-    "question": "Is it dark outside? / Bên ngoài có tối không?",
-    "options": ["Yes, it is.", "No, it is bright.", "It is a campsite.", "I can see a tent."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see the ____ at night. / Chúng ta có thể thấy ____ vào ban đêm.",
-    "options": ["moon", "sun", "clouds", "rainbow"],
-    "correctAnswer": "moon"
-  },
-  {
-    "question": "What is the missing letter? moo_",
-    "options": ["n", "t", "d", "g"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A map", "A compass", "A book", "A phone"],
-    "correctAnswer": "A map"
-  },
-  {
-    "question": "This is a ____. It helps you find your way. / Đây là một ____. Nó giúp bạn tìm đường.",
-    "options": ["compass", "map", "GPS", "sign"],
-    "correctAnswer": "compass"
-  },
-  {
-    "question": "This is ____. It's an adventure. / Đây là ____. Đó là một cuộc phiêu lưu.",
-    "options": ["camping", "school", "homework", "work"],
-    "correctAnswer": "camping"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A sleeping bag", "A blanket", "A pillow", "A mattress"],
-    "correctAnswer": "A sleeping bag"
-  },
-  {
-    "question": "Find the word: s-t-o-r-y / Tìm từ: s-t-o-r-y",
-    "options": ["story", "store", "storm", "stony"],
-    "correctAnswer": "story"
-  },
-  {
-    "question": "Is it a warm sleeping bag? / Nó có phải là một cái túi ngủ ấm không?",
-    "options": ["Yes, it is.", "No, it is thin.", "I am at the campsite.", "I like camping."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is big. / ____ của tôi lớn.",
-    "options": ["tent", "sleeping bag", "campfire", "forest"],
-    "correctAnswer": "tent"
-  },
-  {
-    "question": "What is the missing letter? fores_",
-    "options": ["t", "n", "m", "p"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["campsite", "book", "lesson", "game"],
-    "correctAnswer": "campsite"
-  },
-  {
-    "question": "Spell the word: m-o-o-n / Đánh vần từ: m-o-o-n",
-    "options": ["moon", "soon", "noon", "mood"],
-    "correctAnswer": "moon"
-  },
-  {
-    "question": "Is this a scary story? / Đây có phải là một câu chuyện đáng sợ không?",
-    "options": ["No, it is a funny story.", "Yes, it is.", "I can see a story.", "I like stories."],
-    "correctAnswer": "No, it is a funny story."
-  },
-  {
-    "question": "The campsite has a big ____. / Khu cắm trại có một ____ lớn.",
-    "options": ["lake", "house", "school", "shop"],
-    "correctAnswer": "lake"
-  },
-  {
-    "question": "What is the missing letter? _ake / Chữ cái còn thiếu là gì? _ake",
-    "options": ["l", "b", "t", "r"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A backpack", "A suitcase", "A handbag", "A wallet"],
-    "correctAnswer": "A backpack"
-  },
-  {
-    "question": "My ____ is on my back. / ____ của tôi ở trên lưng.",
-    "options": ["backpack", "tent", "sleeping bag", "chair"],
-    "correctAnswer": "backpack"
-  },
-  {
-    "question": "Is the campfire hot? / Lửa trại có nóng không?",
-    "options": ["Yes, it is.", "No, it is cold.", "It is a campfire.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a tent and a ____. / Tôi có thể thấy một cái lều và một ____.",
-    "options": ["campfire", "house", "car", "book"],
-    "correctAnswer": "campfire"
-  },
-  {
-    "question": "Find the word: c-a-m-p-i-n-g / Tìm từ: c-a-m-p-i-n-g",
-    "options": ["camping", "camper", "campus", "campaign"],
-    "correctAnswer": "camping"
-  },
-  {
-    "question": "This is my ____. I carry my things in it. / Đây là ____ của tôi. Tôi mang đồ của mình trong đó.",
-    "options": ["backpack", "tent", "sleeping bag", "chair"],
-    "correctAnswer": "backpack"
-  },
-  {
-    "question": "What is the missing letter? backpac_",
-    "options": ["k", "p", "t", "d"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "Is it a beautiful night? / Nó có phải là một đêm đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like the night.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["camping trip", "homework", "class", "test"],
-    "correctAnswer": "camping trip"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A guitar", "A piano", "A drum", "A violin"],
-    "correctAnswer": "A guitar"
-  },
-  {
-    "question": "How many stars can you see? / Bạn có thể thấy bao nhiêu ngôi sao?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "A campsite is in ____. / Một khu cắm trại ở trong ____.",
-    "options": ["nature", "the city", "a building", "a house"],
-    "correctAnswer": "nature"
-  },
-  {
-    "question": "I hear ____ owl at night. / Tôi nghe thấy ____ con cú vào ban đêm.",
-    "options": ["an", "a", "many", "some"],
-    "correctAnswer": "an"
-  },
-  {
-    "question": "What colour is the tent? / Cái lều màu gì?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "What colour is the fire? / Lửa màu gì?",
-    "options": ["Orange", "White", "Black", "Pink"],
-    "correctAnswer": "Orange"
-  },
-  {
-    "question": "The forest is ____. / Khu rừng thì ____.",
-    "options": ["dark", "bright", "small", "thin"],
-    "correctAnswer": "dark"
-  },
-  {
-    "question": "The stars are ____. / Những ngôi sao thì ____.",
-    "options": ["bright", "dim", "sad", "bad"],
-    "correctAnswer": "bright"
-  },
-  {
-    "question": "Is the campsite quiet? / Khu cắm trại có yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My camping trip is ____. / Chuyến đi cắm trại của tôi thì ____.",
-    "options": ["adventurous", "boring", "busy", "crowded"],
-    "correctAnswer": "adventurous"
-  },
-  {
-    "question": "What is the missing letter? adventu_ous / Chữ cái còn thiếu là gì? adventu_ous",
-    "options": ["r", "t", "d", "k"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["tent", "house", "car", "boat"],
-    "correctAnswer": "tent"
-  },
-  {
-    "question": "I love ____. / Tôi yêu ____.",
-    "options": ["camping", "dog", "cat", "bird"],
-    "correctAnswer": "camping"
-  },
-  {
-    "question": "Is the sleeping bag comfortable? / Túi ngủ có thoải mái không?",
-    "options": ["Yes, it is.", "No, it is not.", "It is a sleeping bag.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go ____. / Hãy đi ____.",
-    "options": ["hiking", "swimming", "shopping", "to the cinema"],
-    "correctAnswer": "hiking"
-  },
-  {
-    "question": "Spell the word: s-o-n-g / Đánh vần từ: s-o-n-g",
-    "options": ["song", "sing", "long", "strong"],
-    "correctAnswer": "song"
-  },
-  {
-    "question": "I have ____ new flashlight. / Tôi có ____ cái đèn pin mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite activity is ____. / Hoạt động yêu thích của tôi là ____.",
-    "options": ["singing by the campfire", "sleeping", "eating", "reading"],
-    "correctAnswer": "singing by the campfire"
-  },
-  {
-    "question": "What is the missing letter? son_",
-    "options": ["g", "a", "i", "o"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "This is ____. It's a small animal. / Đây là ____. Nó là một con vật nhỏ.",
-    "options": ["a squirrel", "a rabbit", "a mouse", "a hamster"],
-    "correctAnswer": "a squirrel"
-  },
-  {
-    "question": "We should be careful with the ____. / Chúng ta nên cẩn thận với ____.",
-    "options": ["fire", "tent", "sleeping bag", "forest"],
-    "correctAnswer": "fire"
-  },
-  {
-    "question": "Is it a big backpack? / Nó có phải là một cái ba lô lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like backpacks.", "The backpack is heavy."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: f-i-r-e / Đánh vần từ: f-i-r-e",
-    "options": ["fire", "five", "fine", "fare"],
-    "correctAnswer": "fire"
-  },
-  {
-    "question": "I help my dad set up the ____. / Tôi giúp bố tôi dựng ____.",
-    "options": ["tent", "campfire", "table", "chairs"],
-    "correctAnswer": "tent"
-  },
-  {
-    "question": "The moon is shining ____. / Mặt trăng đang chiếu sáng ____.",
-    "options": ["brightly", "dimly", "sadly", "badly"],
-    "correctAnswer": "brightly"
-  },
-  {
-    "question": "What is the missing letter? brigh_ly / Chữ cái còn thiếu là gì? brigh_ly",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A marshmallow", "A sweet", "A candy", "A chocolate"],
-    "correctAnswer": "A marshmallow"
-  },
-  {
-    "question": "My ____ is full of camping gear. / ____ của tôi đầy đồ cắm trại.",
-    "options": ["backpack", "desk", "wardrobe", "box"],
-    "correctAnswer": "backpack"
-  },
-  {
-    "question": "Is it a picture of a bear? / Nó có phải là một bức ảnh của một con gấu không?",
-    "options": ["Yes, it is.", "No, it is a squirrel.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to play the ____. / Bạn tôi thích chơi ____.",
-    "options": ["guitar", "piano", "drum", "violin"],
-    "correctAnswer": "guitar"
-  },
-  {
-    "question": "Spell the word: g-u-i-t-a-r / Đánh vần từ: g-u-i-t-a-r",
-    "options": ["guitar", "guide", "guilt", "gulf"],
-    "correctAnswer": "guitar"
-  },
-  {
-    "question": "This is a ____ night for camping. / Đây là một đêm ____ để cắm trại.",
-    "options": ["perfect", "rainy", "cloudy", "windy"],
-    "correctAnswer": "perfect"
-  },
-  {
-    "question": "What is the missing letter? perfe_t / Chữ cái còn thiếu là gì? perfe_t",
-    "options": ["c", "k", "s", "t"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A compass", "A watch", "A map", "A phone"],
-    "correctAnswer": "A compass"
-  },
-  {
-    "question": "My father is looking at the ____. / Bố tôi đang nhìn vào ____.",
-    "options": ["map", "sky", "fire", "tent"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Are the stars beautiful? / Những ngôi sao có đẹp không?",
-    "options": ["Yes, they are.", "No, they are not.", "They are stars.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My campsite has many ____. / Khu cắm trại của tôi có nhiều ____.",
-    "options": ["trees", "houses", "cars", "shops"],
-    "correctAnswer": "trees"
-  },
-  {
-    "question": "Spell the word: n-a-t-u-r-e / Đánh vần từ: n-a-t-u-r-e",
-    "options": ["nature", "natural", "mature", "future"],
-    "correctAnswer": "nature"
-  },
-  {
-    "question": "I am ____ at the campsite. / Tôi ____ ở khu cắm trại.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? sta_",
-    "options": ["r", "t", "p", "k"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A fishing rod", "A stick", "A pole", "A bat"],
-    "correctAnswer": "A fishing rod"
-  },
-  {
-    "question": "My campsite is my favorite ____. / Khu cắm trại là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the forest quiet? / Khu rừng có yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "It is a forest.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The campsite has a ____. / Khu cắm trại có một ____.",
-    "options": ["river", "road", "path", "street"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "Spell the word: r-i-v-e-r / Đánh vần từ: r-i-v-e-r",
-    "options": ["river", "ruler", "rider", "razor"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "We go ____ in the river. / Chúng tôi đi ____ trên sông.",
-    "options": ["fishing", "swimming", "boating", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "What is the missing letter? fishin_",
-    "options": ["g", "s", "t", "p"],
-    "correctAnswer": "g"
-  }
+    {
+        "question": "This is a place in nature where you can sleep in a tent. What is it? / Đây là một nơi trong tự nhiên, nơi bạn có thể ngủ trong lều. Nó là gì?",
+        "options": [
+            "A campsite",
+            "A city",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "A campsite"
+    },
+    {
+        "question": "This is a small house made of cloth that you sleep in when you go camping. What is it? / Đây là một ngôi nhà nhỏ làm bằng vải mà bạn ngủ trong đó khi đi cắm trại. Nó là gì?",
+        "options": [
+            "A tent",
+            "A house",
+            "A car",
+            "A bed"
+        ],
+        "correctAnswer": "A tent"
+    },
+    {
+        "question": "You sleep inside this warm bag when you are in a tent. What is it? / Bạn ngủ bên trong chiếc túi ấm áp này khi ở trong lều. Nó là gì?",
+        "options": [
+            "A sleeping bag",
+            "A blanket",
+            "A pillow",
+            "A coat"
+        ],
+        "correctAnswer": "A sleeping bag"
+    },
+    {
+        "question": "This is a fire you make at a campsite to keep warm and cook food. What is it? / Đây là một ngọn lửa bạn đốt ở khu cắm trại để giữ ấm và nấu thức ăn. Nó là gì?",
+        "options": [
+            "A campfire",
+            "A stove",
+            "An oven",
+            "A lamp"
+        ],
+        "correctAnswer": "A campfire"
+    },
+    {
+        "question": "You can see these small, bright lights in the sky at night. What are they? / Bạn có thể thấy những ánh sáng nhỏ, lấp lánh này trên bầu trời vào ban đêm. Chúng là gì?",
+        "options": [
+            "Stars",
+            "The sun",
+            "Clouds",
+            "Birds"
+        ],
+        "correctAnswer": "Stars"
+    },
+    {
+        "question": "This is the big, round light you see in the sky at night. What is it? / Đây là ánh sáng lớn, tròn mà bạn thấy trên bầu trời vào ban đêm. Nó là gì?",
+        "options": [
+            "The moon",
+            "The sun",
+            "A star",
+            "A plane"
+        ],
+        "correctAnswer": "The moon"
+    },
+    {
+        "question": "This is a large area with many trees. What is it? / Đây là một khu vực rộng lớn có nhiều cây cối. Nó là gì?",
+        "options": [
+            "A forest",
+            "A field",
+            "A beach",
+            "A desert"
+        ],
+        "correctAnswer": "A forest"
+    },
+    {
+        "question": "You use this to see in the dark when you are camping. What is it? / Bạn dùng cái này để nhìn trong bóng tối khi đi cắm trại. Nó là gì?",
+        "options": [
+            "A flashlight",
+            "A candle",
+            "A lamp",
+            "The sun"
+        ],
+        "correctAnswer": "A flashlight"
+    },
+    {
+        "question": "What is the activity of walking in the forest or mountains? / Hoạt động đi bộ trong rừng hoặc núi là gì?",
+        "options": [
+            "Hiking",
+            "Swimming",
+            "Cooking",
+            "Sleeping"
+        ],
+        "correctAnswer": "Hiking"
+    },
+    {
+        "question": "What is the activity of catching fish in a river or lake? / Hoạt động bắt cá ở sông hoặc hồ là gì?",
+        "options": [
+            "Fishing",
+            "Hiking",
+            "Camping",
+            "Playing"
+        ],
+        "correctAnswer": "Fishing"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Morning",
+            "Evening",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You see the stars and the moon at ____. / Bạn nhìn thấy các vì sao và mặt trăng vào ____.",
+        "options": [
+            "night",
+            "day",
+            "noon",
+            "morning"
+        ],
+        "correctAnswer": "night"
+    },
+    {
+        "question": "What is the opposite of 'light' (not dark)? / Từ trái nghĩa của 'light' là gì? (không tối)",
+        "options": [
+            "Dark",
+            "Bright",
+            "Heavy",
+            "Soft"
+        ],
+        "correctAnswer": "Dark"
+    },
+    {
+        "question": "It is very ____ in the forest at night without a flashlight. / Trời rất ____ trong rừng vào ban đêm nếu không có đèn pin.",
+        "options": [
+            "dark",
+            "bright",
+            "sunny",
+            "hot"
+        ],
+        "correctAnswer": "dark"
+    },
+    {
+        "question": "What do you do in a sleeping bag? / Bạn làm gì trong một chiếc túi ngủ?",
+        "options": [
+            "Sleep",
+            "Eat",
+            "Walk",
+            "Cook"
+        ],
+        "correctAnswer": "Sleep"
+    },
+    {
+        "question": "Spell the word for the place where you camp. / Đánh vần từ chỉ nơi bạn cắm trại.",
+        "options": [
+            "c-a-m-p-s-i-t-e",
+            "f-o-r-e-s-t",
+            "m-o-u-n-t-a-i-n",
+            "b-e-a-c-h"
+        ],
+        "correctAnswer": "c-a-m-p-s-i-t-e"
+    },
+    {
+        "question": "What is the opposite of 'hot'? / Từ trái nghĩa của 'hot' là gì?",
+        "options": [
+            "Cold",
+            "Warm",
+            "Big",
+            "Fast"
+        ],
+        "correctAnswer": "Cold"
+    },
+    {
+        "question": "It can get ____ at night when you are camping. / Trời có thể trở ____ vào ban đêm khi bạn đi cắm trại.",
+        "options": [
+            "cold",
+            "hot",
+            "sunny",
+            "dry"
+        ],
+        "correctAnswer": "cold"
+    },
+    {
+        "question": "What do you call the stories people tell around a campfire? / Bạn gọi những câu chuyện mọi người kể quanh đống lửa trại là gì?",
+        "options": [
+            "Campfire stories",
+            "Homework",
+            "Lessons",
+            "News"
+        ],
+        "correctAnswer": "Campfire stories"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Loud",
+            "Soft",
+            "Slow",
+            "Happy"
+        ],
+        "correctAnswer": "Loud"
+    },
+    {
+        "question": "Singing songs around the campfire can be ____. / Hát những bài hát quanh đống lửa trại có thể ____.",
+        "options": [
+            "loud",
+            "quiet",
+            "sad",
+            "boring"
+        ],
+        "correctAnswer": "loud"
+    },
+    {
+        "question": "Spell the word for the house made of cloth. / Đánh vần từ chỉ ngôi nhà làm bằng vải.",
+        "options": [
+            "t-e-n-t",
+            "h-u-t",
+            "c-a-b-i-n",
+            "h-o-u-s-e"
+        ],
+        "correctAnswer": "t-e-n-t"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "You can see ____ stars in the countryside sky. / Bạn có thể thấy ____ ngôi sao trên bầu trời nông thôn.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a sweet, soft food that you can roast over a campfire? / Bạn gọi món ăn ngọt, mềm mà bạn có thể nướng trên lửa trại là gì?",
+        "options": [
+            "A marshmallow",
+            "A cake",
+            "A cookie",
+            "Bread"
+        ],
+        "correctAnswer": "A marshmallow"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ telling stories around the campfire. / Tôi ____ kể chuyện quanh đống lửa trại.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "Spell the word for the big light in the night sky. / Đánh vần từ chỉ ánh sáng lớn trên bầu trời đêm.",
+        "options": [
+            "m-o-o-n",
+            "s-u-n",
+            "s-t-a-r",
+            "l-i-g-h-t"
+        ],
+        "correctAnswer": "m-o-o-n"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You should ____ a map with you when you go hiking. / Bạn nên ____ một tấm bản đồ theo mình khi đi bộ đường dài.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "What do you call the sounds of the forest at night? / Bạn gọi những âm thanh của khu rừng vào ban đêm là gì?",
+        "options": [
+            "Nature sounds",
+            "Music",
+            "Talking",
+            "Traffic"
+        ],
+        "correctAnswer": "Nature sounds"
+    },
+    {
+        "question": "Spell the word for the small bright lights in the night sky. / Đánh vần từ chỉ những ánh sáng nhỏ, lấp lánh trên bầu trời đêm.",
+        "options": [
+            "s-t-a-r-s",
+            "l-a-m-p-s",
+            "l-i-g-h-t-s",
+            "c-a-n-d-l-e-s"
+        ],
+        "correctAnswer": "s-t-a-r-s"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to leave trash at the campsite. / Thật ____ khi để lại rác ở khu cắm trại.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a bag you carry on your back? / Bạn gọi chiếc túi bạn đeo trên lưng là gì?",
+        "options": [
+            "A backpack",
+            "A handbag",
+            "A suitcase",
+            "A wallet"
+        ],
+        "correctAnswer": "A backpack"
+    },
+    {
+        "question": "Spell the word for the warm bag you sleep in. / Đánh vần từ chỉ chiếc túi ấm bạn ngủ trong đó.",
+        "options": [
+            "s-l-e-e-p-i-n-g b-a-g",
+            "b-a-c-k-p-a-c-k",
+            "b-l-a-n-k-e-t",
+            "p-i-l-l-o-w"
+        ],
+        "correctAnswer": "s-l-e-e-p-i-n-g b-a-g"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The view of the stars from the campsite is ____. / Cảnh những vì sao từ khu cắm trại thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you do with a flashlight? / Bạn làm gì với một chiếc đèn pin?",
+        "options": [
+            "See in the dark",
+            "Cook food",
+            "Keep warm",
+            "Tell stories"
+        ],
+        "correctAnswer": "See in the dark"
+    },
+    {
+        "question": "Spell the word for the fire you make outside. / Đánh vần từ chỉ ngọn lửa bạn đốt ngoài trời.",
+        "options": [
+            "c-a-m-p-f-i-r-e",
+            "f-i-r-e-p-l-a-c-e",
+            "c-a-n-d-l-e",
+            "l-a-m-p"
+        ],
+        "correctAnswer": "c-a-m-p-f-i-r-e"
+    }
 ]
-
