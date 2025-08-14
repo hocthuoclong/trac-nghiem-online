@@ -1,483 +1,422 @@
 [
-  {
-    "question": "What is this? It's a place where people live. / Đây là gì? Đó là một nơi mọi người sinh sống.",
-    "options": ["A village", "A city", "A town", "A farm"],
-    "correctAnswer": "A village"
-  },
-  {
-    "question": "This is a ____. You walk or drive on it. / Đây là một ____. Bạn đi bộ hoặc lái xe trên đó.",
-    "options": ["road", "river", "path", "street"],
-    "correctAnswer": "road"
-  },
-  {
-    "question": "You can see a ____ in the village. It's smaller than a river. / Bạn có thể thấy một ____ trong làng. Nó nhỏ hơn một con sông.",
-    "options": ["pond", "sea", "ocean", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "This is a ____. It is in the village. / Đây là một ____. Nó ở trong làng.",
-    "options": ["house", "school", "shop", "hospital"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "Spell the word: r-o-a-d / Đánh vần từ: r-o-a-d",
-    "options": ["road", "read", "ride", "rose"],
-    "correctAnswer": "road"
-  },
-  {
-    "question": "This is a ____. It's a small road. / Đây là một ____. Nó là một con đường nhỏ.",
-    "options": ["path", "road", "street", "highway"],
-    "correctAnswer": "path"
-  },
-  {
-    "question": "I can see a big ____ in the village. / Tôi có thể thấy một ____ lớn trong làng.",
-    "options": ["tree", "building", "car", "bus"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Find the word: h-o-u-s-e / Tìm từ: h-o-u-s-e",
-    "options": ["house", "horse", "hose", "hour"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "Is this a quiet village? / Đây có phải là một ngôi làng yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "It is a village.", "I have a house."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a beautiful ____. / Đây là một ____ xinh đẹp.",
-    "options": ["village", "city", "town", "country"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "What can you see in the village? / Bạn có thể thấy gì trong làng?",
-    "options": ["I can see houses and trees.", "I can see tall buildings.", "I can see many cars.", "I can see the sea."],
-    "correctAnswer": "I can see houses and trees."
-  },
-  {
-    "question": "I like to walk on the ____. / Tôi thích đi bộ trên ____.",
-    "options": ["path", "river", "pond", "road"],
-    "correctAnswer": "path"
-  },
-  {
-    "question": "What is the missing letter? roa_",
-    "options": ["d", "t", "p", "b"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is my ____. It's peaceful. / Đây là ____ của tôi. Nó yên bình.",
-    "options": ["village", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "My grandparents live in a ____. / Ông bà tôi sống trong một ____.",
-    "options": ["village", "city", "town", "apartment"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Let's go down the ____. / Hãy đi xuống ____.",
-    "options": ["road", "river", "mountain", "hill"],
-    "correctAnswer": "road"
-  },
-  {
-    "question": "Spell the word: p-a-t-h / Đánh vần từ: p-a-t-h",
-    "options": ["path", "math", "bath", "pass"],
-    "correctAnswer": "path"
-  },
-  {
-    "question": "Is this a long road? / Đây có phải là một con đường dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a path.", "I can see a house."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am walking in the ____. / Tôi đang đi bộ trong ____.",
-    "options": ["village", "city", "town", "shop"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "What is the missing letter? _ond / Chữ cái còn thiếu là gì? _ond",
-    "options": ["p", "b", "f", "s"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "These are small ____. / Đây là những ____ nhỏ.",
-    "options": ["houses", "buildings", "towers", "castles"],
-    "correctAnswer": "houses"
-  },
-  {
-    "question": "How many houses are there? / Có bao nhiêu ngôi nhà?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "This is a ____. Ducks swim here. / Đây là một ____. Vịt bơi ở đây.",
-    "options": ["pond", "river", "sea", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "Spell the word: v-i-l-l-a-g-e / Đánh vần từ: v-i-l-l-a-g-e",
-    "options": ["village", "villa", "vintage", "vinegar"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Is it a beautiful place? / Nó có phải là một nơi đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "It is a village.", "I can see a road."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ in the village. / Chúng ta có thể thấy một ____ trong làng.",
-    "options": ["well", "fountain", "statue", "bridge"],
-    "correctAnswer": "well"
-  },
-  {
-    "question": "What is the missing letter? wel_",
-    "options": ["l", "t", "d", "g"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A river", "A road", "A path", "A pond"],
-    "correctAnswer": "A river"
-  },
-  {
-    "question": "This is a ____. People get water from here. / Đây là một ____. Mọi người lấy nước từ đây.",
-    "options": ["well", "river", "pond", "lake"],
-    "correctAnswer": "well"
-  },
-  {
-    "question": "This is ____. It's quiet. / Đây là ____. Nó yên tĩnh.",
-    "options": ["the village", "the city", "the town", "the market"],
-    "correctAnswer": "the village"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A house", "A school", "A shop", "A hospital"],
-    "correctAnswer": "A house"
-  },
-  {
-    "question": "Find the word: q-u-i-e-t / Tìm từ: q-u-i-e-t",
-    "options": ["quiet", "quite", "quit", "quilt"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Is it a noisy place? / Nó có phải là một nơi ồn ào không?",
-    "options": ["No, it is quiet.", "Yes, it is.", "I am in the village.", "I like the village."],
-    "correctAnswer": "No, it is quiet."
-  },
-  {
-    "question": "My ____ is small and pretty. / ____ của tôi nhỏ và xinh xắn.",
-    "options": ["house", "village", "road", "path"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "What is the missing letter? villag_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["village", "book", "lesson", "game"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Spell the word: t-r-e-e / Đánh vần từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Is this a tall tree? / Đây có phải là một cái cây cao không?",
-    "options": ["Yes, it is.", "No, it is short.", "I can see a tree.", "I like trees."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The village has a big ____. / Ngôi làng có một ____ lớn.",
-    "options": ["pond", "house", "school", "shop"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "What is the missing letter? _ath / Chữ cái còn thiếu là gì? _ath",
-    "options": ["p", "b", "m", "h"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A boat", "A car", "A bus", "A train"],
-    "correctAnswer": "A boat"
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["village", "house", "room", "bag"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Is the road wide? / Con đường có rộng không?",
-    "options": ["No, it is narrow.", "Yes, it is.", "It is a road.", "Hello."],
-    "correctAnswer": "No, it is narrow."
-  },
-  {
-    "question": "I can see a house and some ____. / Tôi có thể thấy một ngôi nhà và một vài ____.",
-    "options": ["trees", "rivers", "mountains", "fields"],
-    "correctAnswer": "trees"
-  },
-  {
-    "question": "Find the word: r-i-v-e-r / Tìm từ: r-i-v-e-r",
-    "options": ["river", "ruler", "rider", "razor"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "This is my ____. I feel peaceful here. / Đây là ____ của tôi. Tôi cảm thấy yên bình ở đây.",
-    "options": ["village", "city", "town", "school"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "What is the missing letter? hous_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "Is it a beautiful village? / Nó có phải là một ngôi làng đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like villages.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun to visit. / ____ của tôi rất vui để đến thăm.",
-    "options": ["village", "school", "class", "test"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A buffalo", "A cow", "A horse", "A goat"],
-    "correctAnswer": "A buffalo"
-  },
-  {
-    "question": "How many trees can you see? / Bạn có thể thấy bao nhiêu cái cây?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "A boat is on the ____. / Một chiếc thuyền ở trên ____.",
-    "options": ["river", "road", "path", "pond"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "I see ____ children playing. / Tôi thấy ____ đứa trẻ đang chơi.",
-    "options": ["some", "a", "an", "one"],
-    "correctAnswer": "some"
-  },
-  {
-    "question": "What colour is the house? / Ngôi nhà màu gì?",
-    "options": ["White", "Blue", "Red", "Yellow"],
-    "correctAnswer": "White"
-  },
-  {
-    "question": "What colour is the river? / Con sông màu gì?",
-    "options": ["Blue", "Green", "Red", "Yellow"],
-    "correctAnswer": "Blue"
-  },
-  {
-    "question": "The village is ____. / Ngôi làng thì ____.",
-    "options": ["quiet", "noisy", "small", "thin"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "The houses are ____. / Những ngôi nhà thì ____.",
-    "options": ["small", "big", "tall", "large"],
-    "correctAnswer": "small"
-  },
-  {
-    "question": "Is your village near the city? / Làng của bạn có gần thành phố không?",
-    "options": ["No, it is far.", "Yes, it is.", "Yes", "No"],
-    "correctAnswer": "No, it is far."
-  },
-  {
-    "question": "My visit to the village is ____. / Chuyến thăm làng của tôi thì ____.",
-    "options": ["nice", "noisy", "busy", "crowded"],
-    "correctAnswer": "nice"
-  },
-  {
-    "question": "What is the missing letter? ni_e / Chữ cái còn thiếu là gì? ni_e",
-    "options": ["c", "t", "d", "k"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["pond", "river", "sea", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["village", "dog", "cat", "bird"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Is the path long? / Con đường mòn có dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a path.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["village", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Spell the word: q-u-i-e-t / Đánh vần từ: q-u-i-e-t",
-    "options": ["quiet", "quite", "quit", "quilt"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "I have ____ small garden. / Tôi có ____ khu vườn nhỏ.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite place is the ____. / Nơi yêu thích của tôi là ____.",
-    "options": ["village", "school", "library", "supermarket"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "What is the missing letter? vill_ge / Chữ cái còn thiếu là gì? vill_ge",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "This is a ____. It helps the farmer. / Đây là một ____. Nó giúp người nông dân.",
-    "options": ["buffalo", "horse", "cow", "goat"],
-    "correctAnswer": "buffalo"
-  },
-  {
-    "question": "We should keep our village ____. / Chúng ta nên giữ cho làng của mình ____.",
-    "options": ["clean", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "Is it a wooden house? / Nó có phải là một ngôi nhà gỗ không?",
-    "options": ["Yes, it is.", "No, it is brick.", "I like houses.", "The house is small."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: b-o-a-t / Đánh vần từ: b-o-a-t",
-    "options": ["boat", "goat", "coat", "boot"],
-    "correctAnswer": "boat"
-  },
-  {
-    "question": "I help my grandma water the ____. / Tôi giúp bà tôi tưới ____.",
-    "options": ["plants", "house", "road", "path"],
-    "correctAnswer": "plants"
-  },
-  {
-    "question": "The boat is in the ____. / Chiếc thuyền ở trong ____.",
-    "options": ["river", "pond", "road", "path"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "What is the missing letter? rive_",
-    "options": ["r", "p", "t", "d"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bridge", "A road", "A path", "A river"],
-    "correctAnswer": "A bridge"
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["village", "house", "room", "bag"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Is it a quiet path? / Nó có phải là một con đường mòn yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is busy.", "I see a path.", "The path is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My sister likes to see the ____. / Chị tôi thích xem ____.",
-    "options": ["ducks", "cars", "buses", "trains"],
-    "correctAnswer": "ducks"
-  },
-  {
-    "question": "Spell the word: p-o-n-d / Đánh vần từ: p-o-n-d",
-    "options": ["pond", "bond", "fond", "pawn"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "This is a ____ day in the village. / Đây là một ngày ____ trong làng.",
-    "options": ["peaceful", "rainy", "cloudy", "windy"],
-    "correctAnswer": "peaceful"
-  },
-  {
-    "question": "What is the missing letter? _eaceful / Chữ cái còn thiếu là gì? _eaceful",
-    "options": ["p", "b", "f", "m"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A field", "A garden", "A park", "A forest"],
-    "correctAnswer": "A field"
-  },
-  {
-    "question": "My brother is flying a ____. / Anh trai tôi đang thả ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Are the houses big? / Những ngôi nhà có lớn không?",
-    "options": ["No, they are small.", "Yes, they are.", "They are houses.", "I am happy."],
-    "correctAnswer": "No, they are small."
-  },
-  {
-    "question": "My family is walking along the ____. / Gia đình tôi đang đi bộ dọc theo ____.",
-    "options": ["river", "road", "path", "street"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "Spell the word: b-r-i-d-g-e / Đánh vần từ: b-r-i-d-g-e",
-    "options": ["bridge", "fridge", "badge", "budge"],
-    "correctAnswer": "bridge"
-  },
-  {
-    "question": "I am ____ in the village. / Tôi ____ trong làng.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? pon_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bamboo tree", "An oak tree", "A pine tree", "A palm tree"],
-    "correctAnswer": "A bamboo tree"
-  },
-  {
-    "question": "My village is my favorite ____. / Làng của tôi là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the river deep? / Con sông có sâu không?",
-    "options": ["No, it is shallow.", "Yes, it is.", "It is a river.", "Hello."],
-    "correctAnswer": "No, it is shallow."
-  },
-  {
-    "question": "The village has a ____. / Ngôi làng có một ____.",
-    "options": ["market", "supermarket", "mall", "cinema"],
-    "correctAnswer": "market"
-  },
-  {
-    "question": "Spell the word: m-a-r-k-e-t / Đánh vần từ: m-a-r-k-e-t",
-    "options": ["market", "marker", "marmot", "marrow"],
-    "correctAnswer": "market"
-  },
-  {
-    "question": "We see green ____ everywhere. / Chúng tôi thấy ____ xanh ở khắp mọi nơi.",
-    "options": ["fields", "houses", "cars", "shops"],
-    "correctAnswer": "fields"
-  },
-  {
-    "question": "What is the missing letter? fiel_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  }
+    {
+        "question": "This is a small community of houses in the countryside. What is it? / Đây là một cộng đồng nhỏ gồm nhiều ngôi nhà ở nông thôn. Nó là gì?",
+        "options": [
+            "A village",
+            "A city",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "A village"
+    },
+    {
+        "question": "This is a path that cars and bikes travel on. What is it? / Đây là một con đường mà ô tô và xe đạp đi lại. Nó là gì?",
+        "options": [
+            "A road",
+            "A river",
+            "A field",
+            "A house"
+        ],
+        "correctAnswer": "A road"
+    },
+    {
+        "question": "This is a long body of flowing water. What is it? / Đây là một dòng nước dài đang chảy. Nó là gì?",
+        "options": [
+            "A river",
+            "A road",
+            "A mountain",
+            "A tree"
+        ],
+        "correctAnswer": "A river"
+    },
+    {
+        "question": "This is a structure built over a river so you can cross. What is it? / Đây là một công trình được xây dựng bắc qua sông để bạn có thể đi qua. Nó là gì?",
+        "options": [
+            "A bridge",
+            "A boat",
+            "A car",
+            "A house"
+        ],
+        "correctAnswer": "A bridge"
+    },
+    {
+        "question": "This is a very high hill, often with a pointed top. What is it? / Đây là một ngọn đồi rất cao, thường có đỉnh nhọn. Nó là gì?",
+        "options": [
+            "A mountain",
+            "A field",
+            "A river",
+            "A village"
+        ],
+        "correctAnswer": "A mountain"
+    },
+    {
+        "question": "This is a large area of open land, often used for farming. What is it? / Đây là một khu đất rộng, thoáng đãng, thường được dùng để canh tác. Nó là gì?",
+        "options": [
+            "A field",
+            "A garden",
+            "A house",
+            "A shop"
+        ],
+        "correctAnswer": "A field"
+    },
+    {
+        "question": "What do you call the building where people live? / Bạn gọi tòa nhà nơi mọi người sống là gì?",
+        "options": [
+            "A house",
+            "A school",
+            "A barn",
+            "A shop"
+        ],
+        "correctAnswer": "A house"
+    },
+    {
+        "question": "What do you see in the sky on a clear day? / Bạn thấy gì trên bầu trời vào một ngày quang đãng?",
+        "options": [
+            "The sun and clouds",
+            "The moon and stars",
+            "Fish and boats",
+            "Cars and roads"
+        ],
+        "correctAnswer": "The sun and clouds"
+    },
+    {
+        "question": "A village is usually ____ than a city. / Một ngôi làng thường ____ hơn một thành phố.",
+        "options": [
+            "smaller",
+            "bigger",
+            "noisier",
+            "busier"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "The air in a village is often very ____. / Không khí trong một ngôi làng thường rất ____.",
+        "options": [
+            "fresh",
+            "dirty",
+            "hot",
+            "loud"
+        ],
+        "correctAnswer": "fresh"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "Life in the village is very peaceful and ____. / Cuộc sống ở làng quê rất yên bình và ____.",
+        "options": [
+            "quiet",
+            "noisy",
+            "busy",
+            "crowded"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What do you call the people who live in a village? / Bạn gọi những người sống trong một ngôi làng là gì?",
+        "options": [
+            "Villagers",
+            "Teachers",
+            "Doctors",
+            "Farmers"
+        ],
+        "correctAnswer": "Villagers"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The countryside around the village is ____. / Vùng quê xung quanh làng thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for a small community of houses. / Đánh vần từ chỉ một cộng đồng nhỏ gồm nhiều ngôi nhà.",
+        "options": [
+            "v-i-l-l-a-g-e",
+            "c-i-t-y",
+            "t-o-w-n",
+            "h-o-u-s-e"
+        ],
+        "correctAnswer": "v-i-l-l-a-g-e"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "The river flows ____ through the village. / Dòng sông chảy ____ qua làng.",
+        "options": [
+            "slowly",
+            "fast",
+            "happily",
+            "sadly"
+        ],
+        "correctAnswer": "slowly"
+    },
+    {
+        "question": "What can you do in a river? / Bạn có thể làm gì ở một con sông?",
+        "options": [
+            "Swim or fish",
+            "Fly a kite",
+            "Drive a car",
+            "Read a book"
+        ],
+        "correctAnswer": "Swim or fish"
+    },
+    {
+        "question": "What is the opposite of 'high'? / Từ trái nghĩa của 'high' là gì?",
+        "options": [
+            "Low",
+            "Tall",
+            "Up",
+            "Big"
+        ],
+        "correctAnswer": "Low"
+    },
+    {
+        "question": "A bridge can be high or ____ over a river. / Một cây cầu có thể cao hoặc ____ bắc qua sông.",
+        "options": [
+            "low",
+            "big",
+            "small",
+            "long"
+        ],
+        "correctAnswer": "low"
+    },
+    {
+        "question": "Spell the word for the structure that crosses a river. / Đánh vần từ chỉ công trình bắc qua sông.",
+        "options": [
+            "b-r-i-d-g-e",
+            "r-o-a-d",
+            "p-a-t-h",
+            "t-u-n-n-e-l"
+        ],
+        "correctAnswer": "b-r-i-d-g-e"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ cars on the village road. / Có ____ chiếc ô tô trên đường làng.",
+        "options": [
+            "few",
+            "many",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "few"
+    },
+    {
+        "question": "What do you call a small river? / Bạn gọi một con sông nhỏ là gì?",
+        "options": [
+            "A stream",
+            "A lake",
+            "An ocean",
+            "A pond"
+        ],
+        "correctAnswer": "A stream"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "The water in the river should be ____. / Nước sông nên ____.",
+        "options": [
+            "clean",
+            "dirty",
+            "salty",
+            "hot"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "Spell the word for the flowing water. / Đánh vần từ chỉ dòng nước đang chảy.",
+        "options": [
+            "r-i-v-e-r",
+            "w-a-t-e-r",
+            "s-t-r-e-a-m",
+            "l-a-k-e"
+        ],
+        "correctAnswer": "r-i-v-e-r"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ the quiet life in the village. / Tôi ____ cuộc sống yên tĩnh ở làng quê.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a small mountain? / Bạn gọi một ngọn núi nhỏ là gì?",
+        "options": [
+            "A hill",
+            "A rock",
+            "A field",
+            "A valley"
+        ],
+        "correctAnswer": "A hill"
+    },
+    {
+        "question": "Spell the word for the very high land. / Đánh vần từ chỉ vùng đất rất cao.",
+        "options": [
+            "m-o-u-n-t-a-i-n",
+            "h-i-l-l",
+            "v-a-l-l-e-y",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "m-o-u-n-t-a-i-n"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You can ____ a walk along the river. / Bạn có thể đi dạo dọc theo bờ sông.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "What do you see in the fields? / Bạn thấy gì trên những cánh đồng?",
+        "options": [
+            "Cows and sheep",
+            "Cars and buses",
+            "Shops and schools",
+            "Boats and ships"
+        ],
+        "correctAnswer": "Cows and sheep"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "The road will ____ at the end of the village. / Con đường sẽ ____ ở cuối làng.",
+        "options": [
+            "end",
+            "start",
+            "begin",
+            "play"
+        ],
+        "correctAnswer": "end"
+    },
+    {
+        "question": "Spell the word for the open land. / Đánh vần từ chỉ vùng đất thoáng đãng.",
+        "options": [
+            "f-i-e-l-d",
+            "f-a-r-m",
+            "f-o-r-e-s-t",
+            "g-a-r-d-e-n"
+        ],
+        "correctAnswer": "f-i-e-l-d"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to throw trash in the river. / Thật ____ khi vứt rác xuống sông.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the people who live next to you? / Bạn gọi những người sống bên cạnh bạn là gì?",
+        "options": [
+            "Neighbors",
+            "Friends",
+            "Family",
+            "Classmates"
+        ],
+        "correctAnswer": "Neighbors"
+    },
+    {
+        "question": "Spell the word for a building where people live. / Đánh vần từ chỉ một tòa nhà nơi mọi người sống.",
+        "options": [
+            "h-o-u-s-e",
+            "s-c-h-o-o-l",
+            "b-a-r-n",
+            "s-h-e-d"
+        ],
+        "correctAnswer": "h-o-u-s-e"
+    }
 ]
-
