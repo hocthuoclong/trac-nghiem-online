@@ -1,483 +1,952 @@
 [
-  {
-    "question": "What is this? It's big and takes people to places. / Đây là gì? Nó to và đưa mọi người đến nhiều nơi.",
-    "options": ["A bus", "A car", "A bike", "A train"],
-    "correctAnswer": "A bus"
-  },
-  {
-    "question": "This is a ____. You wait for the bus here. / Đây là một ____. Bạn đợi xe buýt ở đây.",
-    "options": ["bus stop", "school", "shop", "park"],
-    "correctAnswer": "bus stop"
-  },
-  {
-    "question": "You need to ____ for the bus. / Bạn cần ____ xe buýt.",
-    "options": ["wait", "run", "jump", "play"],
-    "correctAnswer": "wait"
-  },
-  {
-    "question": "There are many ____ at the bus stop. / Có nhiều ____ ở trạm xe buýt.",
-    "options": ["people", "animals", "toys", "books"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "Spell the word: b-u-s / Đánh vần từ: b-u-s",
-    "options": ["bus", "but", "bug", "bun"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "The bus is ____. Let's get on. / Xe buýt đang ____. Lên xe thôi.",
-    "options": ["coming", "going", "stopping", "waiting"],
-    "correctAnswer": "coming"
-  },
-  {
-    "question": "I ____ to school by bus. / Tôi ____ đến trường bằng xe buýt.",
-    "options": ["go", "come", "run", "walk"],
-    "correctAnswer": "go"
-  },
-  {
-    "question": "Find the word: w-a-i-t / Tìm từ: w-a-i-t",
-    "options": ["wait", "want", "walk", "wash"],
-    "correctAnswer": "wait"
-  },
-  {
-    "question": "Is this a bus stop? / Đây có phải là một trạm xe buýt không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a bus.", "I can see people."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a yellow ____. / Đây là một ____ màu vàng.",
-    "options": ["bus", "car", "bike", "train"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "What can you do at the bus stop? / Bạn có thể làm gì ở trạm xe buýt?",
-    "options": ["I can wait for the bus.", "I can swim.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can wait for the bus."
-  },
-  {
-    "question": "I like to see the ____ go by. / Tôi thích nhìn ____ đi qua.",
-    "options": ["buses", "cars", "bikes", "trains"],
-    "correctAnswer": "buses"
-  },
-  {
-    "question": "What is the missing letter? bu_",
-    "options": ["s", "t", "p", "n"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is a ____. It's a place. / Đây là một ____. Nó là một nơi.",
-    "options": ["stop", "shop", "park", "school"],
-    "correctAnswer": "stop"
-  },
-  {
-    "question": "My friends are at the ____. / Bạn bè của tôi đang ở ____.",
-    "options": ["bus stop", "house", "school", "shop"],
-    "correctAnswer": "bus stop"
-  },
-  {
-    "question": "Let's get on the ____. / Hãy lên ____.",
-    "options": ["bus", "bike", "car", "train"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "Spell the word: s-t-o-p / Đánh vần từ: s-t-o-p",
-    "options": ["stop", "shop", "step", "spot"],
-    "correctAnswer": "stop"
-  },
-  {
-    "question": "Is this a big bus? / Đây có phải là một chiếc xe buýt lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a bus.", "I can see a bus stop."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am ____ for my friend. / Tôi đang ____ bạn của tôi.",
-    "options": ["waiting", "playing", "reading", "writing"],
-    "correctAnswer": "waiting"
-  },
-  {
-    "question": "What is the missing letter? _ait / Chữ cái còn thiếu là gì? _ait",
-    "options": ["w", "p", "b", "d"],
-    "correctAnswer": "w"
-  },
-  {
-    "question": "These are ____. They are waiting. / Đây là những ____. Họ đang đợi.",
-    "options": ["people", "toys", "books", "pets"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "How many people are at the bus stop? / Có bao nhiêu người ở trạm xe buýt?",
-    "options": ["Four", "One", "Two", "Three"],
-    "correctAnswer": "Four"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["ticket", "book", "pen", "bag"],
-    "correctAnswer": "ticket"
-  },
-  {
-    "question": "Spell the word: p-e-o-p-l-e / Đánh vần từ: p-e-o-p-l-e",
-    "options": ["people", "purple", "pebble", "pepper"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "Is it a busy bus stop? / Nó có phải là một trạm xe buýt đông đúc không?",
-    "options": ["Yes, it is.", "No, it is empty.", "It is a bus stop.", "I can see a bus."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ on the bus. / Chúng ta có thể thấy một ____ trên xe buýt.",
-    "options": ["driver", "teacher", "doctor", "farmer"],
-    "correctAnswer": "driver"
-  },
-  {
-    "question": "What is the missing letter? drive_",
-    "options": ["r", "t", "d", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A road", "A path", "A street", "A highway"],
-    "correctAnswer": "A road"
-  },
-  {
-    "question": "This is a ____. The bus stops here. / Đây là một ____. Xe buýt dừng ở đây.",
-    "options": ["sign", "light", "post", "tree"],
-    "correctAnswer": "sign"
-  },
-  {
-    "question": "This is ____. It's time to go to school. / Đây là ____. Đã đến giờ đi học.",
-    "options": ["morning", "afternoon", "evening", "night"],
-    "correctAnswer": "morning"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bus", "A car", "A bike", "A train"],
-    "correctAnswer": "A bus"
-  },
-  {
-    "question": "Find the word: g-o / Tìm từ: g-o",
-    "options": ["go", "no", "so", "to"],
-    "correctAnswer": "go"
-  },
-  {
-    "question": "Is it a red bus? / Nó có phải là một chiếc xe buýt màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is yellow.", "I am at the bus stop.", "I like buses."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is coming. / ____ của tôi đang đến.",
-    "options": ["bus", "car", "bike", "train"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "What is the missing letter? peopl_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["day", "book", "lesson", "game"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Spell the word: c-o-m-e / Đánh vần từ: c-o-m-e",
-    "options": ["come", "home", "some", "comb"],
-    "correctAnswer": "come"
-  },
-  {
-    "question": "Is this a school bus? / Đây có phải là một chiếc xe buýt của trường không?",
-    "options": ["Yes, it is.", "No, it is a public bus.", "I can see a bus.", "I like buses."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The bus stop has a ____. / Trạm xe buýt có một ____.",
-    "options": ["bench", "bed", "sofa", "desk"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "What is the missing letter? _ench / Chữ cái còn thiếu là gì? _ench",
-    "options": ["b", "p", "f", "c"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A ticket machine", "A vending machine", "An ATM", "A phone booth"],
-    "correctAnswer": "A ticket machine"
-  },
-  {
-    "question": "My ____ is busy. / ____ của tôi bận rộn.",
-    "options": ["bus stop", "house", "room", "bag"],
-    "correctAnswer": "bus stop"
-  },
-  {
-    "question": "Is the bus full? / Xe buýt có đầy không?",
-    "options": ["Yes, it is.", "No, it is empty.", "It is a bus.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a bus and some ____. / Tôi có thể thấy một chiếc xe buýt và một vài ____.",
-    "options": ["people", "houses", "cars", "books"],
-    "correctAnswer": "people"
-  },
-  {
-    "question": "Find the word: d-r-i-v-e-r / Tìm từ: d-r-i-v-e-r",
-    "options": ["driver", "river", "drive", "diver"],
-    "correctAnswer": "driver"
-  },
-  {
-    "question": "This is my ____. I go to school from here. / Đây là ____ của tôi. Tôi đi học từ đây.",
-    "options": ["bus stop", "home", "park", "shop"],
-    "correctAnswer": "bus stop"
-  },
-  {
-    "question": "What is the missing letter? drive_",
-    "options": ["r", "k", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Is it a beautiful day? / Nó có phải là một ngày đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like days.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["bus ride", "homework", "class", "test"],
-    "correctAnswer": "bus ride"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bus schedule", "A menu", "A map", "A book"],
-    "correctAnswer": "A bus schedule"
-  },
-  {
-    "question": "What time is the bus? / Mấy giờ có xe buýt?",
-    "options": ["It's at 8 o'clock.", "It's a bus.", "It's yellow.", "I am waiting."],
-    "correctAnswer": "It's at 8 o'clock."
-  },
-  {
-    "question": "A bus stop is a place to ____. / Một trạm xe buýt là một nơi để ____.",
-    "options": ["wait", "sleep", "play", "study"],
-    "correctAnswer": "wait"
-  },
-  {
-    "question": "I need ____ ticket. / Tôi cần ____ vé.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the bus stop sign? / Biển báo trạm xe buýt màu gì?",
-    "options": ["It's blue and white.", "It's a sign.", "It's big.", "I have a sign."],
-    "correctAnswer": "It's blue and white."
-  },
-  {
-    "question": "What is the driver doing? / Người lái xe đang làm gì?",
-    "options": ["He's driving.", "He's sleeping.", "He's eating.", "He's talking."],
-    "correctAnswer": "He's driving."
-  },
-  {
-    "question": "The bus is ____. / Xe buýt thì ____.",
-    "options": ["big", "small", "short", "thin"],
-    "correctAnswer": "big"
-  },
-  {
-    "question": "The people are ____. / Mọi người thì ____.",
-    "options": ["waiting patiently", "playing", "sad", "bad"],
-    "correctAnswer": "waiting patiently"
-  },
-  {
-    "question": "Is your school far? / Trường của bạn có xa không?",
-    "options": ["No, it is near.", "Yes, it is.", "Yes", "No"],
-    "correctAnswer": "No, it is near."
-  },
-  {
-    "question": "My bus ride is ____. / Chuyến đi xe buýt của tôi thì ____.",
-    "options": ["short", "long", "noisy", "crowded"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "What is the missing letter? shor_",
-    "options": ["t", "d", "k", "p"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is the ____. / Đây là ____.",
-    "options": ["bus stop", "park", "zoo", "farm"],
-    "correctAnswer": "bus stop"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["bus", "dog", "cat", "bird"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "Is the bus coming? / Xe buýt có đang đến không?",
-    "options": ["Yes, it is.", "No, it is not.", "It is a bus.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's get on the ____. / Hãy lên ____.",
-    "options": ["bus", "car", "bike", "train"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "Spell the word: w-a-i-t / Đánh vần từ: w-a-i-t",
-    "options": ["wait", "want", "walk", "wash"],
-    "correctAnswer": "wait"
-  },
-  {
-    "question": "I have ____ new backpack. / Tôi có ____ cái ba lô mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite way to travel is by ____. / Cách di chuyển yêu thích của tôi là bằng ____.",
-    "options": ["bus", "car", "bike", "train"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "What is the missing letter? trave_",
-    "options": ["l", "a", "i", "o"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "This is ____. You sit on it. / Đây là ____. Bạn ngồi trên đó.",
-    "options": ["a seat", "a table", "a bed", "a sofa"],
-    "correctAnswer": "a seat"
-  },
-  {
-    "question": "We should be ____ at the bus stop. / Chúng ta nên ____ ở trạm xe buýt.",
-    "options": ["patient", "rude", "loud", "quiet"],
-    "correctAnswer": "patient"
-  },
-  {
-    "question": "Is it a long line? / Nó có phải là một hàng dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "I like lines.", "The line is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: l-i-n-e / Đánh vần từ: l-i-n-e",
-    "options": ["line", "lion", "live", "like"],
-    "correctAnswer": "line"
-  },
-  {
-    "question": "I help my mom carry the ____. / Tôi giúp mẹ tôi mang ____.",
-    "options": ["bags", "desk", "chair", "floor"],
-    "correctAnswer": "bags"
-  },
-  {
-    "question": "The bus has many ____. / Xe buýt có nhiều ____.",
-    "options": ["windows", "doors", "wheels", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "What is the missing letter? windo_",
-    "options": ["w", "p", "t", "d"],
-    "correctAnswer": "w"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A wheel", "A door", "A window", "A seat"],
-    "correctAnswer": "A wheel"
-  },
-  {
-    "question": "My ____ is full of people. / ____ của tôi đầy người.",
-    "options": ["bus", "house", "room", "bag"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "Is it a picture of a bus stop? / Nó có phải là một bức tranh về một trạm xe buýt không?",
-    "options": ["Yes, it is.", "No, it is a train station.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to ride the ____. / Bạn tôi thích đi ____.",
-    "options": ["bus", "bike", "scooter", "skateboard"],
-    "correctAnswer": "bus"
-  },
-  {
-    "question": "Spell the word: r-i-d-e / Đánh vần từ: r-i-d-e",
-    "options": ["ride", "red", "road", "read"],
-    "correctAnswer": "ride"
-  },
-  {
-    "question": "This is a ____ day to wait for the bus. / Đây là một ngày ____ để đợi xe buýt.",
-    "options": ["sunny", "rainy", "cloudy", "windy"],
-    "correctAnswer": "sunny"
-  },
-  {
-    "question": "What is the missing letter? _unny / Chữ cái còn thiếu là gì? _unny",
-    "options": ["s", "f", "r", "m"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A passenger", "A driver", "A pilot", "A captain"],
-    "correctAnswer": "A passenger"
-  },
-  {
-    "question": "My father is a ____. / Bố tôi là một ____.",
-    "options": ["driver", "teacher", "doctor", "farmer"],
-    "correctAnswer": "driver"
-  },
-  {
-    "question": "Are the people waiting? / Mọi người có đang đợi không?",
-    "options": ["Yes, they are.", "No, they are running.", "They are people.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My bus stop has a ____. / Trạm xe buýt của tôi có một ____.",
-    "options": ["shelter", "shop", "cafe", "restaurant"],
-    "correctAnswer": "shelter"
-  },
-  {
-    "question": "Spell the word: s-h-e-l-t-e-r / Đánh vần từ: s-h-e-l-t-e-r",
-    "options": ["shelter", "shell", "shelf", "shepherd"],
-    "correctAnswer": "shelter"
-  },
-  {
-    "question": "I am ____ at the bus stop. / Tôi ____ ở trạm xe buýt.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? bu_",
-    "options": ["s", "t", "p", "k"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bus ticket", "A train ticket", "A plane ticket", "A movie ticket"],
-    "correctAnswer": "A bus ticket"
-  },
-  {
-    "question": "My bus stop is my favorite ____. / Trạm xe buýt là ____ yêu thích của tôi.",
-    "options": ["place to wait", "food", "colour", "toy"],
-    "correctAnswer": "place to wait"
-  },
-  {
-    "question": "Is the bus late? / Xe buýt có bị trễ không?",
-    "options": ["No, it is on time.", "Yes, it is.", "It is a bus.", "Hello."],
-    "correctAnswer": "No, it is on time."
-  },
-  {
-    "question": "The bus stop has a ____. / Trạm xe buýt có một ____.",
-    "options": ["timetable", "menu", "list", "book"],
-    "correctAnswer": "timetable"
-  },
-  {
-    "question": "Spell the word: t-i-m-e / Đánh vần từ: t-i-m-e",
-    "options": ["time", "tiny", "tie", "Tim"],
-    "correctAnswer": "time"
-  },
-  {
-    "question": "We look at the ____ to see the bus times. / Chúng tôi nhìn vào ____ để xem giờ xe buýt.",
-    "options": ["timetable", "map", "book", "poster"],
-    "correctAnswer": "timetable"
-  },
-  {
-    "question": "What is the missing letter? tim_table / Chữ cái còn thiếu là gì? tim_table",
-    "options": ["e", "s", "t", "p"],
-    "correctAnswer": "e"
-  }
+    {
+        "question": "This is a place on the street where you wait for a big yellow vehicle. What is it? / Đây là một nơi trên đường phố nơi bạn đợi một chiếc xe lớn màu vàng. Nó là gì?",
+        "options": [
+            "A bus stop",
+            "A train station",
+            "An airport",
+            "A park"
+        ],
+        "correctAnswer": "A bus stop"
+    },
+    {
+        "question": "This is a large vehicle that carries many people on the road. What is it? / Đây là một phương tiện lớn chở nhiều người trên đường. Nó là gì?",
+        "options": [
+            "A bus",
+            "A car",
+            "A bike",
+            "A boat"
+        ],
+        "correctAnswer": "A bus"
+    },
+    {
+        "question": "This is a small vehicle with four wheels for a family. What is it? / Đây là một phương tiện nhỏ có bốn bánh cho một gia đình. Nó là gì?",
+        "options": [
+            "A car",
+            "A bus",
+            "A plane",
+            "A train"
+        ],
+        "correctAnswer": "A car"
+    },
+    {
+        "question": "This vehicle has two wheels and you pedal with your feet. What is it? / Phương tiện này có hai bánh và bạn đạp bằng chân. Nó là gì?",
+        "options": [
+            "A bike",
+            "A car",
+            "A boat",
+            "A bus"
+        ],
+        "correctAnswer": "A bike"
+    },
+    {
+        "question": "This vehicle flies high in the sky. What is it? / Phương tiện này bay cao trên bầu trời. Nó là gì?",
+        "options": [
+            "A plane",
+            "A train",
+            "A ship",
+            "A car"
+        ],
+        "correctAnswer": "A plane"
+    },
+    {
+        "question": "This vehicle runs on tracks and is very long. What is it? / Phương tiện này chạy trên đường ray và rất dài. Nó là gì?",
+        "options": [
+            "A train",
+            "A plane",
+            "A bus",
+            "A bike"
+        ],
+        "correctAnswer": "A train"
+    },
+    {
+        "question": "This vehicle travels on water, like a river or the sea. What is it? / Phương tiện này di chuyển trên mặt nước, như sông hoặc biển. Nó là gì?",
+        "options": [
+            "A boat",
+            "A car",
+            "A plane",
+            "A train"
+        ],
+        "correctAnswer": "A boat"
+    },
+    {
+        "question": "What do you do at a bus stop? / Bạn làm gì ở trạm xe buýt?",
+        "options": [
+            "Wait",
+            "Play",
+            "Eat",
+            "Sleep"
+        ],
+        "correctAnswer": "Wait"
+    },
+    {
+        "question": "A person who drives a bus is a ____. / Một người lái xe buýt là một ____.",
+        "options": [
+            "driver",
+            "teacher",
+            "doctor",
+            "pilot"
+        ],
+        "correctAnswer": "driver"
+    },
+    {
+        "question": "You need this to get on a bus or a train. What is it? / Bạn cần cái này để lên xe buýt hoặc tàu hỏa. Nó là gì?",
+        "options": [
+            "A ticket",
+            "A book",
+            "A toy",
+            "Money"
+        ],
+        "correctAnswer": "A ticket"
+    },
+    {
+        "question": "What do you call the people waiting for the bus? / Bạn gọi những người đang đợi xe buýt là gì?",
+        "options": [
+            "Passengers",
+            "Drivers",
+            "Pilots",
+            "Teachers"
+        ],
+        "correctAnswer": "Passengers"
+    },
+    {
+        "question": "A bus travels on a ____. / Một chiếc xe buýt di chuyển trên một ____.",
+        "options": [
+            "road",
+            "track",
+            "river",
+            "sky"
+        ],
+        "correctAnswer": "road"
+    },
+    {
+        "question": "What is the opposite of 'go'? / Từ trái nghĩa của 'go' là gì?",
+        "options": [
+            "Stop",
+            "Run",
+            "Walk",
+            "Come"
+        ],
+        "correctAnswer": "Stop"
+    },
+    {
+        "question": "The traffic light is red, so the cars must ____. / Đèn giao thông màu đỏ, vì vậy ô tô phải ____.",
+        "options": [
+            "stop",
+            "go",
+            "fly",
+            "swim"
+        ],
+        "correctAnswer": "stop"
+    },
+    {
+        "question": "The traffic light is green, so the cars can ____. / Đèn giao thông màu xanh, vì vậy ô tô có thể ____.",
+        "options": [
+            "go",
+            "stop",
+            "wait",
+            "sleep"
+        ],
+        "correctAnswer": "go"
+    },
+    {
+        "question": "Spell the word for the large yellow vehicle. / Đánh vần từ chỉ chiếc xe lớn màu vàng.",
+        "options": [
+            "b-u-s",
+            "c-a-r",
+            "v-a-n",
+            "t-a-x-i"
+        ],
+        "correctAnswer": "b-u-s"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A bus is usually ____ than a car. / Một chiếc xe buýt thường ____ hơn một chiếc ô tô.",
+        "options": [
+            "slower",
+            "faster",
+            "smaller",
+            "shorter"
+        ],
+        "correctAnswer": "slower"
+    },
+    {
+        "question": "What do you call the place where trains stop? / Bạn gọi nơi tàu hỏa dừng lại là gì?",
+        "options": [
+            "A train station",
+            "A bus stop",
+            "An airport",
+            "A harbor"
+        ],
+        "correctAnswer": "A train station"
+    },
+    {
+        "question": "What do you call the place where planes take off and land? / Bạn gọi nơi máy bay cất cánh và hạ cánh là gì?",
+        "options": [
+            "An airport",
+            "A bus stop",
+            "A train station",
+            "A park"
+        ],
+        "correctAnswer": "An airport"
+    },
+    {
+        "question": "Spell the word for the vehicle with two wheels. / Đánh vần từ chỉ phương tiện có hai bánh.",
+        "options": [
+            "b-i-k-e",
+            "c-a-r",
+            "b-u-s",
+            "v-a-n"
+        ],
+        "correctAnswer": "b-i-k-e"
+    },
+    {
+        "question": "What is the opposite of 'arrive'? / Từ trái nghĩa của 'arrive' là gì?",
+        "options": [
+            "Leave",
+            "Come",
+            "Go",
+            "Stop"
+        ],
+        "correctAnswer": "Leave"
+    },
+    {
+        "question": "The bus will ____ at the next stop. / Xe buýt sẽ ____ ở trạm tiếp theo.",
+        "options": [
+            "arrive",
+            "leave",
+            "fly",
+            "swim"
+        ],
+        "correctAnswer": "arrive"
+    },
+    {
+        "question": "What do you call a person who flies a plane? / Bạn gọi người lái máy bay là gì?",
+        "options": [
+            "A pilot",
+            "A driver",
+            "A captain",
+            "A zookeeper"
+        ],
+        "correctAnswer": "A pilot"
+    },
+    {
+        "question": "What is the opposite of 'up'? / Từ trái nghĩa của 'up' là gì?",
+        "options": [
+            "Down",
+            "In",
+            "On",
+            "Over"
+        ],
+        "correctAnswer": "Down"
+    },
+    {
+        "question": "A plane goes ____ into the sky. / Một chiếc máy bay đi ____ lên trời.",
+        "options": [
+            "up",
+            "down",
+            "in",
+            "under"
+        ],
+        "correctAnswer": "up"
+    },
+    {
+        "question": "Spell the word for the vehicle that flies. / Đánh vần từ chỉ phương tiện bay.",
+        "options": [
+            "p-l-a-n-e",
+            "t-r-a-i-n",
+            "b-o-a-t",
+            "c-a-r"
+        ],
+        "correctAnswer": "p-l-a-n-e"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ people waiting at the bus stop. / Có ____ người đang đợi ở trạm xe buýt.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a large boat that carries people and cars? / Bạn gọi một chiếc thuyền lớn chở người và ô tô là gì?",
+        "options": [
+            "A ferry",
+            "A canoe",
+            "A kayak",
+            "A speedboat"
+        ],
+        "correctAnswer": "A ferry"
+    },
+    {
+        "question": "Spell the word for the vehicle that runs on tracks. / Đánh vần từ chỉ phương tiện chạy trên đường ray.",
+        "options": [
+            "t-r-a-i-n",
+            "p-l-a-n-e",
+            "b-u-s",
+            "b-i-k-e"
+        ],
+        "correctAnswer": "t-r-a-i-n"
+    },
+    {
+        "question": "What is the opposite of 'push'? / Từ trái nghĩa của 'push' là gì?",
+        "options": [
+            "Pull",
+            "Go",
+            "Stop",
+            "Sit"
+        ],
+        "correctAnswer": "Pull"
+    },
+    {
+        "question": "You ____ the door to get off the bus. / Bạn ____ cửa để xuống xe buýt.",
+        "options": [
+            "push",
+            "pull",
+            "read",
+            "write"
+        ],
+        "correctAnswer": "push"
+    },
+    {
+        "question": "What do you call a vehicle that you ride for fun, with pedals? / Bạn gọi phương tiện mà bạn đi để giải trí, có bàn đạp là gì?",
+        "options": [
+            "A bicycle",
+            "A car",
+            "A motorcycle",
+            "A scooter"
+        ],
+        "correctAnswer": "A bicycle"
+    },
+    {
+        "question": "What is the opposite of 'empty'? / Từ trái nghĩa của 'empty' là gì?",
+        "options": [
+            "Full",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Full"
+    },
+    {
+        "question": "The bus is ____ of passengers. / Xe buýt ____ hành khách.",
+        "options": [
+            "full",
+            "empty",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "full"
+    },
+    {
+        "question": "Spell the word for a vehicle that travels on water. / Đánh vần từ chỉ một phương tiện di chuyển trên mặt nước.",
+        "options": [
+            "b-o-a-t",
+            "c-a-r",
+            "p-l-a-n-e",
+            "t-r-a-i-n"
+        ],
+        "correctAnswer": "b-o-a-t"
+    },
+    {
+        "question": "What is the opposite of 'safe'? / Từ trái nghĩa của 'safe' là gì?",
+        "options": [
+            "Dangerous",
+            "Good",
+            "Happy",
+            "Clean"
+        ],
+        "correctAnswer": "Dangerous"
+    },
+    {
+        "question": "It is important to be ____ when crossing the road. / Điều quan trọng là phải ____ khi qua đường.",
+        "options": [
+            "safe",
+            "dangerous",
+            "fast",
+            "slow"
+        ],
+        "correctAnswer": "safe"
+    },
+    {
+        "question": "What do you call a place where many roads meet? / Bạn gọi nơi nhiều con đường gặp nhau là gì?",
+        "options": [
+            "An intersection",
+            "A park",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "An intersection"
+    },
+    {
+        "question": "Spell the word for the path that cars drive on. / Đánh vần từ chỉ con đường mà ô tô lái trên đó.",
+        "options": [
+            "r-o-a-d",
+            "p-a-t-h",
+            "t-r-a-c-k",
+            "l-a-n-e"
+        ],
+        "correctAnswer": "r-o-a-d"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Stop",
+            "Begin",
+            "Go",
+            "Finish"
+        ],
+        "correctAnswer": "Stop"
+    },
+    {
+        "question": "A bus makes many ____ on its route. / Một chiếc xe buýt có nhiều ____ trên tuyến đường của nó.",
+        "options": [
+            "stops",
+            "starts",
+            "goes",
+            "plays"
+        ],
+        "correctAnswer": "stops"
+    },
+    {
+        "question": "What do you call a small car for hire? / Bạn gọi một chiếc ô tô nhỏ cho thuê là gì?",
+        "options": [
+            "A taxi",
+            "A bus",
+            "A van",
+            "A truck"
+        ],
+        "correctAnswer": "A taxi"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are a ____ cars on the road. / Có một ____ chiếc ô tô trên đường.",
+        "options": [
+            "few",
+            "many",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "few"
+    },
+    {
+        "question": "Spell the word for the person who drives a vehicle. / Đánh vần từ chỉ người lái xe.",
+        "options": [
+            "d-r-i-v-e-r",
+            "p-i-l-o-t",
+            "c-a-p-t-a-i-n",
+            "p-a-s-s-e-n-g-e-r"
+        ],
+        "correctAnswer": "d-r-i-v-e-r"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A ride in a hot air balloon is ____. / Một chuyến đi trên khinh khí cầu thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a vehicle that goes under the ground? / Bạn gọi một phương tiện đi dưới lòng đất là gì?",
+        "options": [
+            "A subway",
+            "A bus",
+            "A plane",
+            "A boat"
+        ],
+        "correctAnswer": "A subway"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ when I miss the bus. / Tôi cảm thấy ____ khi lỡ xe buýt.",
+        "options": [
+            "sad",
+            "happy",
+            "excited",
+            "hungry"
+        ],
+        "correctAnswer": "sad"
+    },
+    {
+        "question": "Spell the word for the paper that lets you travel. / Đánh vần từ chỉ tờ giấy cho phép bạn đi lại.",
+        "options": [
+            "t-i-c-k-e-t",
+            "m-o-n-e-y",
+            "p-a-p-e-r",
+            "c-a-r-d"
+        ],
+        "correctAnswer": "t-i-c-k-e-t"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
+            "Long",
+            "Wide"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A bike is ____ than a bus. / Một chiếc xe đạp ____ hơn một chiếc xe buýt.",
+        "options": [
+            "smaller",
+            "bigger",
+            "taller",
+            "longer"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "What do you call a vehicle with a long ladder for fires? / Bạn gọi một phương tiện có thang dài để chữa cháy là gì?",
+        "options": [
+            "A fire truck",
+            "An ambulance",
+            "A police car",
+            "A bus"
+        ],
+        "correctAnswer": "A fire truck"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "A car can get ____ after driving in the rain. / Một chiếc ô tô có thể bị ____ sau khi lái xe trong mưa.",
+        "options": [
+            "dirty",
+            "clean",
+            "new",
+            "happy"
+        ],
+        "correctAnswer": "dirty"
+    },
+    {
+        "question": "Spell the word for a vehicle with one wheel. / Đánh vần từ chỉ một phương tiện có một bánh.",
+        "options": [
+            "u-n-i-c-y-c-l-e",
+            "b-i-c-y-c-l-e",
+            "t-r-i-c-y-c-l-e",
+            "w-h-e-e-l"
+        ],
+        "correctAnswer": "u-n-i-c-y-c-l-e"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ riding my bike. / Tôi ____ đi xe đạp.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call the lights that control traffic? / Bạn gọi đèn điều khiển giao thông là gì?",
+        "options": [
+            "Traffic lights",
+            "Street lights",
+            "Headlights",
+            "Flashlights"
+        ],
+        "correctAnswer": "Traffic lights"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You ____ your ticket to the driver. / Bạn ____ vé của mình cho tài xế.",
+        "options": [
+            "give",
+            "take",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "Spell the word for a person who travels on a bus. / Đánh vần từ chỉ một người đi trên xe buýt.",
+        "options": [
+            "p-a-s-s-e-n-g-e-r",
+            "d-r-i-v-e-r",
+            "p-i-l-o-t",
+            "w-a-l-k-e-r"
+        ],
+        "correctAnswer": "p-a-s-s-e-n-g-e-r"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A helicopter is ____ than a plane. / Một chiếc trực thăng ____ hơn một chiếc máy bay.",
+        "options": [
+            "slower",
+            "faster",
+            "bigger",
+            "smaller"
+        ],
+        "correctAnswer": "slower"
+    },
+    {
+        "question": "What do you call a vehicle that helps sick people? / Bạn gọi một phương tiện giúp người bệnh là gì?",
+        "options": [
+            "An ambulance",
+            "A fire truck",
+            "A police car",
+            "A taxi"
+        ],
+        "correctAnswer": "An ambulance"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A bike is not as ____ as a car. / Một chiếc xe đạp không ____ bằng một chiếc ô tô.",
+        "options": [
+            "strong",
+            "weak",
+            "small",
+            "slow"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "Spell the word for a vehicle that helps police. / Đánh vần từ chỉ một phương tiện giúp cảnh sát.",
+        "options": [
+            "p-o-l-i-c-e c-a-r",
+            "f-i-r-e t-r-u-c-k",
+            "a-m-b-u-l-a-n-c-e",
+            "t-a-x-i"
+        ],
+        "correctAnswer": "p-o-l-i-c-e c-a-r"
+    },
+    {
+        "question": "What is the opposite of 'full'? / Từ trái nghĩa của 'full' là gì?",
+        "options": [
+            "Empty",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Empty"
+    },
+    {
+        "question": "The bus stop is ____ at night. / Trạm xe buýt ____ vào ban đêm.",
+        "options": [
+            "empty",
+            "full",
+            "happy",
+            "sad"
+        ],
+        "correctAnswer": "empty"
+    },
+    {
+        "question": "What do you call a vehicle that moves on snow? / Bạn gọi một phương tiện di chuyển trên tuyết là gì?",
+        "options": [
+            "A snowmobile",
+            "A boat",
+            "A bike",
+            "A car"
+        ],
+        "correctAnswer": "A snowmobile"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to play on a busy road. / Thật ____ khi chơi trên một con đường đông đúc.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Spell the word for the sound a horn makes. / Đánh vần từ chỉ âm thanh của còi xe.",
+        "options": [
+            "b-e-e-p",
+            "r-o-a-r",
+            "m-e-o-w",
+            "w-o-o-f"
+        ],
+        "correctAnswer": "b-e-e-p"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Excited"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I am ____ to go on a trip. / Tôi ____ được đi du lịch.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "tired"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call a vehicle with three wheels? / Bạn gọi một phương tiện có ba bánh là gì?",
+        "options": [
+            "A tricycle",
+            "A bicycle",
+            "A unicycle",
+            "A car"
+        ],
+        "correctAnswer": "A tricycle"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "You should wear a ____ when riding a bike. / Bạn nên đội ____ khi đi xe đạp.",
+        "options": [
+            "helmet",
+            "hat",
+            "scarf",
+            "coat"
+        ],
+        "correctAnswer": "helmet"
+    },
+    {
+        "question": "Spell the word for a large vehicle for moving goods. / Đánh vần từ chỉ một phương tiện lớn để vận chuyển hàng hóa.",
+        "options": [
+            "t-r-u-c-k",
+            "c-a-r",
+            "b-u-s",
+            "v-a-n"
+        ],
+        "correctAnswer": "t-r-u-c-k"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A ride in a hot air balloon gives a ____ view. / Một chuyến đi trên khinh khí cầu cho một tầm nhìn ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a vehicle that you can sleep in? / Bạn gọi một phương tiện mà bạn có thể ngủ trong đó là gì?",
+        "options": [
+            "A camper van",
+            "A sports car",
+            "A taxi",
+            "A bus"
+        ],
+        "correctAnswer": "A camper van"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ seats on the bus. / Có ____ chỗ ngồi trên xe buýt.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "Spell the word for a vehicle that flies with rotating blades. / Đánh vần từ chỉ một phương tiện bay bằng các cánh quạt xoay.",
+        "options": [
+            "h-e-l-i-c-o-p-t-e-r",
+            "p-l-a-n-e",
+            "j-e-t",
+            "r-o-c-k-e-t"
+        ],
+        "correctAnswer": "h-e-l-i-c-o-p-t-e-r"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ waiting for the bus. / Tôi ____ việc đợi xe buýt.",
+        "options": [
+            "hate",
+            "love",
+            "like",
+            "enjoy"
+        ],
+        "correctAnswer": "hate"
+    },
+    {
+        "question": "What do you call a vehicle for racing? / Bạn gọi một phương tiện để đua là gì?",
+        "options": [
+            "A racing car",
+            "A family car",
+            "A bus",
+            "A truck"
+        ],
+        "correctAnswer": "A racing car"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You ____ a seat on the bus. / Bạn ____ một chỗ ngồi trên xe buýt.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "Spell the word for a vehicle that can go on land and water. / Đánh vần từ chỉ một phương tiện có thể đi trên cạn và dưới nước.",
+        "options": [
+            "a-m-p-h-i-b-i-o-u-s",
+            "b-o-a-t",
+            "c-a-r",
+            "h-o-v-e-r-c-r-a-f-t"
+        ],
+        "correctAnswer": "a-m-p-h-i-b-i-o-u-s"
+    }
 ]
-
