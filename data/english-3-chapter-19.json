@@ -1,406 +1,347 @@
 [
     {
-        "question": "What are you doing? - I'm ____ a kite. / Bạn đang làm gì vậy? - Tớ đang ____ một con diều.",
+        "question": "This is an activity you do outside, not inside a house. What is it? / Đây là một hoạt động bạn làm ở bên ngoài, không phải trong nhà. Nó là gì?",
         "options": [
-            "flying",
-            "riding",
-            "playing",
-            "having"
+            "An outdoor activity",
+            "An indoor activity",
+            "Homework",
+            "A chore"
         ],
-        "correctAnswer": "flying"
+        "correctAnswer": "An outdoor activity"
     },
     {
-        "question": "She is ____ her bike. / Cô ấy đang ____ xe đạp của mình.",
+        "question": "You do this with a kite on a windy day. What is the action? / Bạn làm điều này với một con diều vào một ngày có gió. Hành động đó là gì?",
         "options": [
-            "riding",
-            "flying",
-            "playing",
-            "having"
+            "Flying",
+            "Riding",
+            "Playing",
+            "Having"
         ],
-        "correctAnswer": "riding"
+        "correctAnswer": "Flying"
     },
     {
-        "question": "They are ____ hide-and-seek. / Họ đang ____ trốn tìm.",
+        "question": "You do this with a bicycle. What is the action? / Bạn làm điều này với một chiếc xe đạp. Hành động đó là gì?",
         "options": [
-            "playing",
-            "riding",
-            "flying",
-            "having"
+            "Riding",
+            "Flying",
+            "Driving",
+            "Swimming"
         ],
-        "correctAnswer": "playing"
+        "correctAnswer": "Riding"
     },
     {
-        "question": "Let's have a ____ in the park. / Hãy ____ trong công viên.",
+        "question": "This is a game where one person finds the others who are hiding. What is it? / Đây là một trò chơi mà một người tìm những người khác đang trốn. Nó là gì?",
         "options": [
-            "picnic",
-            "game",
-            "walk",
-            "ride"
+            "Hide-and-seek",
+            "Football",
+            "Chess",
+            "Tag"
         ],
-        "correctAnswer": "picnic"
+        "correctAnswer": "Hide-and-seek"
     },
     {
-        "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
+        "question": "This is a meal you eat outside on a blanket, often in a park. What is it? / Đây là một bữa ăn bạn ăn ngoài trời trên một tấm chăn, thường là trong công viên. Nó là gì?",
         "options": [
-            "kite",
-            "king",
-            "kiss",
-            "kitchen"
+            "A picnic",
+            "A game",
+            "A walk",
+            "A ride"
         ],
-        "correctAnswer": "kite"
+        "correctAnswer": "A picnic"
     },
     {
-        "question": "He is ____ in the park. / Cậu ấy đang ____ trong công viên.",
+        "question": "You wear these on your feet to move on wheels. What is this activity? / Bạn đi những thứ này vào chân để di chuyển trên các bánh xe. Hoạt động này là gì?",
         "options": [
-            "skating",
-            "swimming",
-            "cooking",
-            "reading"
+            "Skating",
+            "Swimming",
+            "Cooking",
+            "Reading"
         ],
-        "correctAnswer": "skating"
+        "correctAnswer": "Skating"
     },
     {
-        "question": "I like ____. It's a fun activity. / Tớ thích ____. Đó là một hoạt động vui.",
-        "options": [
-            "going for a walk",
-            "cleaning",
-            "watching TV",
-            "cooking"
-        ],
-        "correctAnswer": "going for a walk"
-    },
-    {
-        "question": "Find the word: b-i-k-e / Tìm từ: b-i-k-e",
-        "options": [
-            "bike",
-            "like",
-            "hike",
-            "bake"
-        ],
-        "correctAnswer": "bike"
-    },
-    {
-        "question": "Are you flying a kite? / Bạn đang thả diều phải không?",
-        "options": [
-            "Yes, I am.",
-            "No, I'm not.",
-            "I like kites.",
-            "It is a kite."
-        ],
-        "correctAnswer": "Yes, I am."
-    },
-    {
-        "question": "This is a sunny day. Let's go ____. / Đây là một ngày nắng. Hãy đi ____.",
-        "options": [
-            "outside",
-            "inside",
-            "to school",
-            "to bed"
-        ],
-        "correctAnswer": "outside"
-    },
-    {
-        "question": "What is she doing? / Cô ấy đang làm gì vậy?",
-        "options": [
-            "She's riding a bike.",
-            "She's reading a book.",
-            "She's writing a letter.",
-            "She's singing a song."
-        ],
-        "correctAnswer": "She's riding a bike."
-    },
-    {
-        "question": "I like to ____ with my friends. / Tớ thích ____ với bạn bè.",
-        "options": [
-            "play",
-            "read",
-            "study",
-            "sleep"
-        ],
-        "correctAnswer": "play"
-    },
-    {
-        "question": "What is the missing letter: ridin_",
-        "options": [
-            "g",
-            "a",
-            "i",
-            "o"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "This is our ____. We have fun here. / Đây là ____ của chúng tôi. Chúng tôi vui chơi ở đây.",
-        "options": [
-            "park",
-            "school",
-            "class",
-            "house"
-        ],
-        "correctAnswer": "park"
-    },
-    {
-        "question": "My friends are ____. / Bạn bè của tôi đang ____.",
-        "options": [
-            "having a picnic",
-            "studying",
-            "working",
-            "sleeping"
-        ],
-        "correctAnswer": "having a picnic"
-    },
-    {
-        "question": "Let's ____ a ball. / Hãy ____ một quả bóng.",
-        "options": [
-            "play with",
-            "read",
-            "draw",
-            "cook"
-        ],
-        "correctAnswer": "play with"
-    },
-    {
-        "question": "Spell the word: p-a-r-k / Đánh vần từ: p-a-r-k",
-        "options": [
-            "park",
-            "dark",
-            "bark",
-            "mark"
-        ],
-        "correctAnswer": "park"
-    },
-    {
-        "question": "Is he skating? / Cậu ấy đang trượt pa-tin phải không?",
-        "options": [
-            "Yes, he is.",
-            "No, he is running.",
-            "He likes skating.",
-            "It is a skate."
-        ],
-        "correctAnswer": "Yes, he is."
-    },
-    {
-        "question": "I am ____ a tree. / Tôi đang ____ một cái cây.",
-        "options": [
-            "climbing",
-            "reading",
-            "writing",
-            "playing"
-        ],
-        "correctAnswer": "climbing"
-    },
-    {
-        "question": "What is the missing letter: _utdoor / Chữ cái còn thiếu là gì? _utdoor",
-        "options": [
-            "o",
-            "i",
-            "a",
-            "u"
-        ],
-        "correctAnswer": "o"
-    },
-    {
-        "question": "These are ____ activities. / Đây là những hoạt động ____.",
-        "options": [
-            "outdoor",
-            "indoor",
-            "school",
-            "home"
-        ],
-        "correctAnswer": "outdoor"
-    },
-    {
-        "question": "What's your favorite outdoor activity? / Hoạt động ngoài trời yêu thích của bạn là gì?",
-        "options": [
-            "I like riding a bike.",
-            "I am fine.",
-            "My name is Mai.",
-            "I am eight."
-        ],
-        "correctAnswer": "I like riding a bike."
-    },
-    {
-        "question": "This is a ____. / Đây là một ____.",
-        "options": [
-            "frisbee",
-            "ball",
-            "rope",
-            "board"
-        ],
-        "correctAnswer": "frisbee"
-    },
-    {
-        "question": "Spell the word: w-a-l-k / Đánh vần từ: w-a-l-k",
+        "question": "To move by putting one foot in front of the other is to ____. / Di chuyển bằng cách đặt một chân lên trước chân kia là ____.",
         "options": [
             "walk",
-            "talk",
-            "work",
-            "wall"
+            "run",
+            "jump",
+            "fly"
         ],
         "correctAnswer": "walk"
     },
     {
-        "question": "Is it fun? / Nó có vui không?",
+        "question": "This is a vehicle with two wheels that you ride. What is it? / Đây là một phương tiện có hai bánh mà bạn đi. Nó là gì?",
         "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "It is an activity.",
-            "I can see my friends."
+            "A bike",
+            "A car",
+            "A bus",
+
+            "A plane"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "A bike"
     },
     {
-        "question": "We can ____ in the park. / Chúng ta có thể ____ trong công viên.",
+        "question": "To ask what your friend is doing, you say: / Để hỏi bạn của bạn đang làm gì, bạn nói:",
         "options": [
-            "run",
-            "fly",
-            "swim",
-            "drive"
+            "What are you doing?",
+            "What is your name?",
+            "How are you?",
+            "Do you like kites?"
         ],
-        "correctAnswer": "run"
+        "correctAnswer": "What are you doing?"
     },
     {
-        "question": "What is the missing letter: picni_",
+        "question": "A correct answer to 'What are you doing?' is: / Một câu trả lời đúng cho 'What are you doing?' là:",
         "options": [
-            "c",
-            "t",
-            "d",
-            "p"
+            "I'm flying a kite.",
+            "My name is Phong.",
+            "I'm fine, thank you.",
+            "Yes, I am."
         ],
-        "correctAnswer": "c"
+        "correctAnswer": "I'm flying a kite."
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "What is the opposite of 'outside'? / Từ trái nghĩa của 'outside' là gì?",
         "options": [
-            "A swing",
-            "A slide",
-            "A seesaw",
-            "A roundabout"
+            "Inside",
+            "On",
+            "Under",
+            "Above"
         ],
-        "correctAnswer": "A swing"
+        "correctAnswer": "Inside"
     },
     {
-        "question": "This is a ____. You can play on it. / Đây là một ____. Bạn có thể chơi trên đó.",
+        "question": "Reading a book is an ____ activity. / Đọc sách là một hoạt động ____.",
         "options": [
-            "slide",
-            "swing",
-            "seesaw",
-            "roundabout"
+            "indoor",
+            "outdoor",
+            "fun",
+            "boring"
         ],
-        "correctAnswer": "slide"
+        "correctAnswer": "indoor"
     },
     {
-        "question": "This is ____. It's healthy. / Đây là ____. Nó tốt cho sức khỏe.",
+        "question": "What do you need to fly a kite? / Bạn cần gì để thả diều?",
         "options": [
-            "exercising",
-            "sleeping",
-            "watching TV",
-            "playing video games"
+            "Wind",
+            "Rain",
+            "Snow",
+            "Sun"
         ],
-        "correctAnswer": "exercising"
+        "correctAnswer": "Wind"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "What is the opposite of 'high'? / Từ trái nghĩa của 'high' là gì?",
         "options": [
-            "A kite",
-            "A plane",
-            "A bird",
-            "A balloon"
+            "Low",
+            "Tall",
+            "Up",
+            "Big"
         ],
-        "correctAnswer": "A kite"
+        "correctAnswer": "Low"
     },
     {
-        "question": "Find the word: r-i-d-e / Tìm từ: r-i-d-e",
+        "question": "You can fly a kite ____ in the sky. / Bạn có thể thả diều ____ trên bầu trời.",
         "options": [
-            "ride",
-            "red",
-            "road",
-            "read"
+            "high",
+            "low",
+            "fast",
+            "slow"
         ],
-        "correctAnswer": "ride"
+        "correctAnswer": "high"
     },
     {
-        "question": "Are they having a picnic? / Họ đang đi dã ngoại phải không?",
+        "question": "Spell the word for the toy you fly on a string. / Đánh vần từ chỉ món đồ chơi bạn thả bay bằng dây.",
         "options": [
-            "Yes, they are.",
-            "No, they are not.",
-            "I am having a picnic.",
-            "I like picnics."
+            "k-i-t-e",
+            "b-a-l-l",
+            "b-i-k-e",
+            "d-o-l-l"
         ],
-        "correctAnswer": "Yes, they are."
+        "correctAnswer": "k-i-t-e"
     },
     {
-        "question": "My ____ is flying a kite. / ____ của tôi đang thả diều.",
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
         "options": [
-            "brother",
-            "teacher",
-            "father",
-            "mother"
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
         ],
-        "correctAnswer": "brother"
+        "correctAnswer": "Slow"
     },
     {
-        "question": "What is the missing letter: skatin_",
+        "question": "When you ride a bike uphill, you go ____. / Khi bạn đạp xe lên dốc, bạn đi ____.",
         "options": [
-            "g",
-            "n",
-            "m",
-            "p"
+            "slowly",
+            "fast",
+            "happily",
+            "sadly"
         ],
-        "correctAnswer": "g"
+        "correctAnswer": "slowly"
     },
     {
-        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
+        "question": "What do you call the action of going up a tree or a mountain? / Bạn gọi hành động đi lên một cái cây hoặc một ngọn núi là gì?",
         "options": [
-            "day",
-            "book",
-            "lesson",
-            "game"
+            "Climbing",
+            "Swimming",
+            "Flying",
+            "Running"
         ],
-        "correctAnswer": "day"
+        "correctAnswer": "Climbing"
     },
     {
-        "question": "Spell the word: h-i-d-e / Đánh vần từ: h-i-d-e",
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
         "options": [
-            "hide",
-            "ride",
-            "side",
-            "wide"
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
         ],
-        "correctAnswer": "hide"
+        "correctAnswer": "Sad"
     },
     {
-        "question": "Is this a colourful kite? / Đây có phải là một con diều nhiều màu sắc không?",
+        "question": "Playing outside on a sunny day makes me feel ____. / Chơi ngoài trời vào một ngày nắng làm tôi cảm thấy ____.",
         "options": [
-            "Yes, it is.",
-            "No, it is black.",
-            "I can see a kite.",
-            "I like kites."
+            "happy",
+            "sad",
+            "angry",
+            "scared"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "happy"
     },
     {
-        "question": "The park has many ____. / Công viên có nhiều ____.",
+        "question": "Spell the word for the vehicle with two wheels. / Đánh vần từ chỉ phương tiện có hai bánh.",
         "options": [
-            "trees",
-            "houses",
-            "shops",
-            "cars"
+            "b-i-k-e",
+            "c-a-r",
+            "b-u-s",
+            "v-a-n"
         ],
-        "correctAnswer": "trees"
+        "correctAnswer": "b-i-k-e"
     },
     {
-        "question": "What is the missing letter: _ark / Chữ cái còn thiếu là gì? _ark",
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
         "options": [
-            "p",
-            "b",
-            "d",
-            "m"
+            "Few",
+            "Some",
+            "All",
+            "None"
         ],
-        "correctAnswer": "p"
+        "correctAnswer": "Few"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "There are ____ people having a picnic in the park. / Có ____ người đang đi dã ngoại trong công viên.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a flat, round toy that you throw? / Bạn gọi một món đồ chơi tròn, dẹt mà bạn ném là gì?",
+        "options": [
+            "A frisbee",
+            "A ball",
+            "A plate",
+            "A disc"
+        ],
+        "correctAnswer": "A frisbee"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ riding my bike in the park. / Tôi ____ đi xe đạp trong công viên.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "Spell the word for the meal you eat outside. / Đánh vần từ chỉ bữa ăn bạn ăn ngoài trời.",
+        "options": [
+            "p-i-c-n-i-c",
+            "d-i-n-n-e-r",
+            "l-u-n-c-h",
+            "s-n-a-c-k"
+        ],
+        "correctAnswer": "p-i-c-n-i-c"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You should ____ a bottle of water when you go hiking. / Bạn nên ____ một chai nước khi đi bộ đường dài.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "What do you call a vehicle with a board and four small wheels? / Bạn gọi một phương tiện có một tấm ván và bốn bánh xe nhỏ là gì?",
+        "options": [
+            "A skateboard",
+            "A scooter",
+            "A bike",
+            "A car"
+        ],
+        "correctAnswer": "A skateboard"
+    },
+    {
+        "question": "Spell the word for the action of moving on wheels on your feet. / Đánh vần từ chỉ hành động di chuyển trên các bánh xe ở chân bạn.",
+        "options": [
+            "s-k-a-t-i-n-g",
+            "r-u-n-n-i-n-g",
+            "w-a-l-k-i-n-g",
+            "j-u-m-p-i-n-g"
+        ],
+        "correctAnswer": "s-k-a-t-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to ride your bike without a helmet. / Thật ____ khi đi xe đạp mà không đội mũ bảo hiểm.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a vehicle with two wheels and a handlebar that you stand on? / Bạn gọi một phương tiện có hai bánh và tay lái mà bạn đứng trên đó là gì?",
         "options": [
             "A scooter",
             "A bike",
@@ -410,553 +351,53 @@
         "correctAnswer": "A scooter"
     },
     {
-        "question": "My ____ is fun. / ____ của tôi rất vui.",
+        "question": "Spell the word for the action of moving by putting one foot in front of the other. / Đánh vần từ chỉ hành động di chuyển bằng cách đặt một chân lên trước chân kia.",
         "options": [
-            "activity",
-            "house",
-            "room",
-            "bag"
+            "w-a-l-k",
+            "r-u-n",
+            "j-u-m-p",
+            "h-o-p"
         ],
-        "correctAnswer": "activity"
+        "correctAnswer": "w-a-l-k"
     },
     {
-        "question": "Is the bike new? / Xe đạp có mới không?",
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
         "options": [
-            "Yes, it is.",
-            "No, it is old.",
-            "It is a bike.",
-            "Hello."
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "Ugly"
     },
     {
-        "question": "I can see my friends and a ____. / Tôi có thể thấy bạn bè của tôi và một ____.",
+        "question": "The park is ____ on a sunny day. / Công viên thì ____ vào một ngày nắng.",
         "options": [
-            "dog",
-            "house",
-            "car",
-            "book"
-        ],
-        "correctAnswer": "dog"
-    },
-    {
-        "question": "Find the word: s-k-a-t-e / Tìm từ: s-k-a-t-e",
-        "options": [
-            "skate",
-            "state",
-            "snake",
-            "stake"
-        ],
-        "correctAnswer": "skate"
-    },
-    {
-        "question": "This is my ____. I do it in the park. / Đây là ____ của tôi. Tôi làm nó trong công viên.",
-        "options": [
-            "hobby",
-            "homework",
-            "chore",
-            "job"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "What is the missing letter: ridin_",
-        "options": [
-            "g",
-            "k",
-            "p",
-            "t"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "Is it a good day for a picnic? / Nó có phải là một ngày tốt để đi dã ngoại không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is raining.",
-            "I like picnics.",
-            "Goodbye."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
-        "options": [
-            "adventure",
-            "homework",
-            "class",
-            "test"
-        ],
-        "correctAnswer": "adventure"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A picnic basket",
-            "A school bag",
-            "A handbag",
-            "A suitcase"
-        ],
-        "correctAnswer": "A picnic basket"
-    },
-    {
-        "question": "What are you doing? / Bạn đang làm gì vậy?",
-        "options": [
-            "I'm going for a walk.",
-            "I am fine.",
-            "My name is Lucy.",
-            "I am nine."
-        ],
-        "correctAnswer": "I'm going for a walk."
-    },
-    {
-        "question": "An outdoor activity is something you do ____. / Một hoạt động ngoài trời là thứ bạn làm ____.",
-        "options": [
-            "outside",
-            "inside",
-            "at school",
-            "at home"
-        ],
-        "correctAnswer": "outside"
-    },
-    {
-        "question": "I like ____. / Tôi thích ____.",
-        "options": [
-            "camping",
-            "reading",
-            "drawing",
-            "singing"
-        ],
-        "correctAnswer": "camping"
-    },
-    {
-        "question": "What is your favorite outdoor activity? / Hoạt động ngoài trời yêu thích của bạn là gì?",
-        "options": [
-            "My favorite activity is playing football.",
-            "I like red.",
-            "I have a dog.",
-            "I am a student."
-        ],
-        "correctAnswer": "My favorite activity is playing football."
-    },
-    {
-        "question": "What is this activity? / Đây là hoạt động gì?",
-        "options": [
-            "Gardening",
-            "Cooking",
-            "Baking",
-            "Cleaning"
-        ],
-        "correctAnswer": "Gardening"
-    },
-    {
-        "question": "My activity is ____. / Hoạt động của tôi thì ____.",
-        "options": [
-            "healthy",
-            "boring",
-            "small",
-            "thin"
-        ],
-        "correctAnswer": "healthy"
-    },
-    {
-        "question": "My friends' activities are ____. / Các hoạt động của bạn bè tôi thì ____.",
-        "options": [
-            "fun",
-            "the same",
+            "beautiful",
+            "ugly",
             "sad",
-            "bad"
+            "old"
         ],
-        "correctAnswer": "fun"
+        "correctAnswer": "beautiful"
     },
     {
-        "question": "Is your activity interesting? / Hoạt động của bạn có thú vị không?",
+        "question": "What do you call a game where you chase your friends? / Bạn gọi một trò chơi mà bạn đuổi bắt bạn bè là gì?",
         "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "Yes",
-            "No"
+            "Tag",
+            "Hide-and-seek",
+            "Chess",
+            "Football"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "Tag"
     },
     {
-        "question": "My time for activities is ____. / Thời gian cho các hoạt động của tôi thì ____.",
+        "question": "Spell the word for the game where you hide. / Đánh vần từ chỉ trò chơi mà bạn trốn.",
         "options": [
-            "enjoyable",
-            "noisy",
-            "busy",
-            "crowded"
+            "h-i-d-e",
+            "r-i-d-e",
+            "s-i-d-e",
+            "w-i-d-e"
         ],
-        "correctAnswer": "enjoyable"
-    },
-    {
-        "question": "What is the missing letter: enjoya_le / Chữ cái còn thiếu là gì? enjoya_le",
-        "options": [
-            "b",
-            "t",
-            "d",
-            "k"
-        ],
-        "correctAnswer": "b"
-    },
-    {
-        "question": "This is ____. / Đây là ____.",
-        "options": [
-            "skating",
-            "dancing",
-            "drawing",
-            "swimming"
-        ],
-        "correctAnswer": "skating"
-    },
-    {
-        "question": "I love ____. / Tôi yêu ____.",
-        "options": [
-            "playing outside",
-            "dog",
-            "cat",
-            "bird"
-        ],
-        "correctAnswer": "playing outside"
-    },
-    {
-        "question": "Is climbing a tree an outdoor activity? / Trèo cây có phải là một hoạt động ngoài trời không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is not.",
-            "It is a tree.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Let's talk about our ____. / Hãy nói về ____ của chúng ta.",
-        "options": [
-            "activities",
-            "friends",
-            "pets",
-            "books"
-        ],
-        "correctAnswer": "activities"
-    },
-    {
-        "question": "Spell the word: d-o / Đánh vần từ: d-o",
-        "options": [
-            "do",
-            "go",
-            "so",
-            "to"
-        ],
-        "correctAnswer": "do"
-    },
-    {
-        "question": "I have ____ new bike. / Tôi có ____ chiếc xe đạp mới.",
-        "options": [
-            "a",
-            "an",
-            "one",
-            "two"
-        ],
-        "correctAnswer": "a"
-    },
-    {
-        "question": "My favorite activity is ____. / Hoạt động yêu thích của tôi là ____.",
-        "options": [
-            "going camping",
-            "singing",
-            "dancing",
-            "drawing"
-        ],
-        "correctAnswer": "going camping"
-    },
-    {
-        "question": "What is the missing letter: campin_",
-        "options": [
-            "g",
-            "a",
-            "i",
-            "e"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "This is ____. You sleep in a tent. / Đây là ____. Bạn ngủ trong lều.",
-        "options": [
-            "camping",
-            "hiking",
-            "fishing",
-            "boating"
-        ],
-        "correctAnswer": "camping"
-    },
-    {
-        "question": "We should wear a ____ when riding a bike. / Chúng ta nên đội ____ khi đi xe đạp.",
-        "options": [
-            "helmet",
-            "hat",
-            "cap",
-            "beanie"
-        ],
-        "correctAnswer": "helmet"
-    },
-    {
-        "question": "Is it a fun picnic? / Nó có phải là một buổi dã ngoại vui không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "I like picnics.",
-            "The picnic is fun."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Spell the word: f-u-n / Đánh vần từ: f-u-n",
-        "options": [
-            "fun",
-            "sun",
-            "run",
-            "bun"
-        ],
-        "correctAnswer": "fun"
-    },
-    {
-        "question": "I help my mom pack the ____. / Tôi giúp mẹ tôi đóng gói ____.",
-        "options": [
-            "picnic basket",
-            "school bag",
-            "suitcase",
-            "box"
-        ],
-        "correctAnswer": "picnic basket"
-    },
-    {
-        "question": "The boy is ____. / Cậu bé đang ____.",
-        "options": [
-            "running",
-            "walking",
-            "jumping",
-            "skipping"
-        ],
-        "correctAnswer": "running"
-    },
-    {
-        "question": "What is the missing letter: runnin_",
-        "options": [
-            "g",
-            "p",
-            "t",
-            "d"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A park",
-            "A forest",
-            "A beach",
-            "A mountain"
-        ],
-        "correctAnswer": "A park"
-    },
-    {
-        "question": "My ____ is full of green trees. / ____ của tôi đầy cây xanh.",
-        "options": [
-            "park",
-            "house",
-            "room",
-            "bag"
-        ],
-        "correctAnswer": "park"
-    },
-    {
-        "question": "Is it a picture of children playing? / Nó có phải là một bức tranh về trẻ em đang chơi không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is a teacher.",
-            "I see a picture.",
-            "The picture is nice."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My friend likes to ____. / Bạn tôi thích ____.",
-        "options": [
-            "play tag",
-            "play chess",
-            "watch movies",
-            "all are correct"
-        ],
-        "correctAnswer": "play tag"
-    },
-    {
-        "question": "Spell the word: t-a-g / Đánh vần từ: t-a-g",
-        "options": [
-            "tag",
-            "bag",
-            "rag",
-            "wag"
-        ],
-        "correctAnswer": "tag"
-    },
-    {
-        "question": "This is a ____ day to play outside. / Đây là một ngày ____ để chơi ngoài trời.",
-        "options": [
-            "sunny",
-            "rainy",
-            "cloudy",
-            "windy"
-        ],
-        "correctAnswer": "sunny"
-    },
-    {
-        "question": "What is the missing letter: _unny / Chữ cái còn thiếu là gì? _unny",
-        "options": [
-            "s",
-            "f",
-            "r",
-            "m"
-        ],
-        "correctAnswer": "s"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A frisbee",
-            "A ball",
-            "A kite",
-            "A balloon"
-        ],
-        "correctAnswer": "A frisbee"
-    },
-    {
-        "question": "My father's hobby is ____. / Sở thích của bố tôi là ____.",
-        "options": [
-            "playing golf",
-            "reading",
-            "cooking",
-            "gardening"
-        ],
-        "correctAnswer": "playing golf"
-    },
-    {
-        "question": "Are the activities safe? / Các hoạt động có an toàn không?",
-        "options": [
-            "Yes, they are.",
-            "No, they are dangerous.",
-            "They are activities.",
-            "I am happy."
-        ],
-        "correctAnswer": "Yes, they are."
-    },
-    {
-        "question": "My activity is ____. / Hoạt động của tôi là ____.",
-        "options": [
-            "hiking",
-            "watching TV",
-            "playing games",
-            "reading books"
-        ],
-        "correctAnswer": "hiking"
-    },
-    {
-        "question": "Spell the word: h-i-k-e / Đánh vần từ: h-i-k-e",
-        "options": [
-            "hike",
-            "like",
-            "bike",
-            "mike"
-        ],
-        "correctAnswer": "hike"
-    },
-    {
-        "question": "I am ____ with my activities. / Tôi ____ với các hoạt động của mình.",
-        "options": [
-            "happy",
-            "sad",
-            "bored",
-            "angry"
-        ],
-        "correctAnswer": "happy"
-    },
-    {
-        "question": "What is the missing letter: activit_es / Chữ cái còn thiếu là gì? activit_es",
-        "options": [
-            "i",
-            "s",
-            "t",
-            "p"
-        ],
-        "correctAnswer": "i"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A tent",
-            "A house",
-            "A building",
-            "A castle"
-        ],
-        "correctAnswer": "A tent"
-    },
-    {
-        "question": "My activity is my favorite ____. / Hoạt động là ____ yêu thích của tôi.",
-        "options": [
-            "thing to do",
-            "food",
-            "colour",
-            "toy"
-        ],
-        "correctAnswer": "thing to do"
-    },
-    {
-        "question": "Is the weather nice? / Thời tiết có đẹp không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is bad.",
-            "It is weather.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "The children have many ____. / Bọn trẻ có nhiều ____.",
-        "options": [
-            "activities",
-            "problems",
-            "questions",
-            "answers"
-        ],
-        "correctAnswer": "activities"
-    },
-    {
-        "question": "Spell the word: a-c-t-i-v-i-t-y / Đánh vần từ: a-c-t-i-v-i-t-y",
-        "options": [
-            "activity",
-            "active",
-            "action",
-            "actor"
-        ],
-        "correctAnswer": "activity"
-    },
-    {
-        "question": "We do our hobbies in our ____. / Chúng tôi thực hiện sở thích của mình trong ____.",
-        "options": [
-            "free time",
-            "school time",
-            "work time",
-            "sleep time"
-        ],
-        "correctAnswer": "free time"
-    },
-    {
-        "question": "What is the missing letter: fre_ time / Chữ cái còn thiếu là gì? fre_ time",
-        "options": [
-            "e",
-            "s",
-            "t",
-            "p"
-        ],
-        "correctAnswer": "e"
+        "correctAnswer": "h-i-d-e"
     }
 ]
