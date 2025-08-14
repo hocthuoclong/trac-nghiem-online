@@ -1,293 +1,223 @@
 [
     {
-        "question": "This is the work a person does to earn money. What is it? / Đây là công việc một người làm để kiếm tiền. Nó là gì?",
+        "question": "This is a building where a family lives. What is it? / Đây là một tòa nhà nơi một gia đình sinh sống. Nó là gì?",
         "options": [
-            "A job",
-            "A hobby",
-            "A game",
-            "A chore"
+            "A house",
+            "A school",
+            "A shop",
+            "A hospital"
         ],
-        "correctAnswer": "A job"
+        "correctAnswer": "A house"
     },
     {
-        "question": "This person helps you when you are sick. Who is this? / Người này giúp bạn khi bạn bị ốm. Đây là ai?",
+        "question": "This is a room with a sofa and a TV where the family relaxes. What is it? / Đây là một căn phòng có ghế sofa và TV, nơi gia đình thư giãn. Nó là gì?",
         "options": [
-            "A doctor",
-            "A teacher",
-            "A farmer",
-            "A driver"
+            "A living room",
+            "A bedroom",
+            "A kitchen",
+            "A bathroom"
         ],
-        "correctAnswer": "A doctor"
+        "correctAnswer": "A living room"
     },
     {
-        "question": "This person helps a doctor take care of sick people. Who is this? / Người này giúp bác sĩ chăm sóc người bệnh. Đây là ai?",
+        "question": "This is the room where you sleep in a bed. What is it? / Đây là căn phòng nơi bạn ngủ trên giường. Nó là gì?",
         "options": [
-            "A nurse",
-            "A teacher",
-            "A singer",
-            "A worker"
+            "A bedroom",
+            "A kitchen",
+            "A garden",
+            "A dining room"
         ],
-        "correctAnswer": "A nurse"
+        "correctAnswer": "A bedroom"
     },
     {
-        "question": "This person teaches students in a school. Who is this? / Người này dạy học sinh trong một trường học. Đây là ai?",
+        "question": "This is the room where you cook food. What is it? / Đây là căn phòng nơi bạn nấu thức ăn. Nó là gì?",
         "options": [
-            "A teacher",
-            "A doctor",
-            "A farmer",
-            "A pilot"
+            "A kitchen",
+            "A living room",
+            "A bedroom",
+            "A bathroom"
         ],
-        "correctAnswer": "A teacher"
+        "correctAnswer": "A kitchen"
     },
     {
-        "question": "This person grows food like rice and vegetables on a farm. Who is this? / Người này trồng lương thực như lúa và rau trên một nông trại. Đây là ai?",
+        "question": "This is the room where you wash your hands and take a shower. What is it? / Đây là căn phòng nơi bạn rửa tay và tắm vòi sen. Nó là gì?",
         "options": [
-            "A farmer",
-            "A driver",
-            "A singer",
-            "A teacher"
+            "A bathroom",
+            "The dining room",
+            "The living room",
+            "The kitchen"
         ],
-        "correctAnswer": "A farmer"
+        "correctAnswer": "A bathroom"
     },
     {
-        "question": "This person works in a factory. Who is this? / Người này làm việc trong một nhà máy. Đây là ai?",
+        "question": "This is the room where you eat dinner with your family. What is it? / Đây là căn phòng nơi bạn ăn tối cùng gia đình. Nó là gì?",
         "options": [
-            "A worker",
-            "A farmer",
-            "A doctor",
-            "A teacher"
+            "A dining room",
+            "A bedroom",
+            "A bathroom",
+            "A garage"
         ],
-        "correctAnswer": "A worker"
+        "correctAnswer": "A dining room"
     },
     {
-        "question": "This person drives a car, a bus, or a taxi. Who is this? / Người này lái xe ô tô, xe buýt hoặc taxi. Đây là ai?",
+        "question": "This is an area outside the house with flowers and trees. What is it? / Đây là một khu vực bên ngoài ngôi nhà có hoa và cây cối. Nó là gì?",
         "options": [
-            "A driver",
-            "A farmer",
-            "A doctor",
-            "A nurse"
+            "A garden",
+            "A pond",
+            "A gate",
+            "A fence"
         ],
-        "correctAnswer": "A driver"
+        "correctAnswer": "A garden"
     },
     {
-        "question": "This person helps keep people safe and catches bad guys. Who is this? / Người này giúp giữ an toàn cho mọi người và bắt kẻ xấu. Đây là ai?",
+        "question": "This is a small pool of water in a garden, often with fish. What is it? / Đây là một hồ nước nhỏ trong vườn, thường có cá. Nó là gì?",
         "options": [
-            "A policeman",
-            "A firefighter",
-            "A doctor",
-            "A teacher"
+            "A pond",
+            "A river",
+            "A sea",
+            "A lake"
         ],
-        "correctAnswer": "A policeman"
+        "correctAnswer": "A pond"
     },
     {
-        "question": "This person puts out fires. Who is this? / Người này dập tắt các đám cháy. Đây là ai?",
+        "question": "This is like a door for the outside of your house or garden. What is it? / Cái này giống như một cánh cửa cho bên ngoài ngôi nhà hoặc khu vườn của bạn. Nó là gì?",
         "options": [
-            "A firefighter",
-            "A policeman",
-            "A singer",
-            "A driver"
+            "A gate",
+            "A window",
+            "A fence",
+            "A wall"
         ],
-        "correctAnswer": "A firefighter"
+        "correctAnswer": "A gate"
     },
     {
-        "question": "This person sings songs for a living. Who is this? / Người này hát các bài hát để kiếm sống. Đây là ai?",
+        "question": "This is a structure made of wood or metal that goes around your garden. What is it? / Đây là một cấu trúc bằng gỗ hoặc kim loại bao quanh khu vườn của bạn. Nó là gì?",
         "options": [
-            "A singer",
-            "A dancer",
-            "A teacher",
-            "A doctor"
+            "A fence",
+            "A gate",
+            "A wall",
+            "A door"
         ],
-        "correctAnswer": "A singer"
+        "correctAnswer": "A fence"
     },
     {
-        "question": "A person who learns at school is a ____. / Một người học ở trường là một ____.",
+        "question": "To ask if there is a garden, you say: '____ there a garden?' / Để hỏi có khu vườn nào không, bạn nói: '____ there a garden?'",
         "options": [
-            "pupil",
-            "teacher",
-            "doctor",
-            "farmer"
+            "Is",
+            "Are",
+            "Am",
+            "Do"
         ],
-        "correctAnswer": "pupil"
+        "correctAnswer": "Is"
     },
     {
-        "question": "Where does a doctor usually work? / Một bác sĩ thường làm việc ở đâu?",
+        "question": "The correct answer to 'Is there a pond?' is: / Câu trả lời đúng cho 'Is there a pond?' là:",
         "options": [
-            "In a hospital",
-            "In a school",
-            "On a farm",
-            "In a factory"
+            "Yes, there is.",
+            "Yes, there are.",
+            "No, there isn't one.",
+            "It is a pond."
         ],
-        "correctAnswer": "In a hospital"
+        "correctAnswer": "Yes, there is."
     },
     {
-        "question": "Where does a teacher usually work? / Một giáo viên thường làm việc ở đâu?",
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
         "options": [
-            "In a school",
-            "In a hospital",
-            "On a farm",
-            "On the road"
+            "Small",
+            "Large",
+            "Tall",
+            "Long"
         ],
-        "correctAnswer": "In a school"
+        "correctAnswer": "Small"
     },
     {
-        "question": "Where does a farmer usually work? / Một người nông dân thường làm việc ở đâu?",
+        "question": "My house is not big, it is ____. / Nhà tôi không lớn, nó ____.",
         "options": [
-            "On a farm",
-            "In a hospital",
-            "In a school",
-            "In a shop"
+            "small",
+            "big",
+            "tall",
+            "long"
         ],
-        "correctAnswer": "On a farm"
+        "correctAnswer": "small"
     },
     {
-        "question": "To ask about your father's job, you say: 'What does your father ____?' / Để hỏi về công việc của cha bạn, bạn nói: 'What does your father ____?'",
+        "question": "What do you see in a garden? / Bạn thấy gì trong một khu vườn?",
         "options": [
-            "do",
-            "is",
-            "have",
-            "like"
+            "Flowers and trees",
+            "Beds and sofas",
+            "Cars and buses",
+            "Books and pens"
         ],
-        "correctAnswer": "do"
+        "correctAnswer": "Flowers and trees"
     },
     {
-        "question": "Spell the word for the work you do. / Đánh vần từ chỉ công việc bạn làm.",
+        "question": "Spell the word for the place where you live. / Đánh vần từ chỉ nơi bạn sống.",
         "options": [
-            "j-o-b",
-            "j-o-y",
-            "j-o-g",
-            "j-a-r"
+            "h-o-u-s-e",
+            "r-o-o-m",
+            "d-o-o-r",
+            "h-o-m-e"
         ],
-        "correctAnswer": "j-o-b"
+        "correctAnswer": "h-o-u-s-e"
     },
     {
-        "question": "What is the opposite of 'safe'? / Từ trái nghĩa của 'safe' là gì?",
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
         "options": [
-            "Dangerous",
-            "Good",
-            "Happy",
-            "Clean"
-        ],
-        "correctAnswer": "Dangerous"
-    },
-    {
-        "question": "A firefighter's job can be very ____. / Công việc của một lính cứu hỏa có thể rất ____.",
-        "options": [
-            "dangerous",
-            "safe",
-            "easy",
-            "boring"
-        ],
-        "correctAnswer": "dangerous"
-    },
-    {
-        "question": "What is the opposite of 'easy'? / Từ trái nghĩa của 'easy' là gì?",
-        "options": [
-            "Difficult",
-            "Simple",
-            "Hard",
-            "Soft"
-        ],
-        "correctAnswer": "Difficult"
-    },
-    {
-        "question": "Being a doctor is a ____ job. / Làm bác sĩ là một công việc ____.",
-        "options": [
-            "difficult",
-            "easy",
-            "bad",
-            "small"
-        ],
-        "correctAnswer": "difficult"
-    },
-    {
-        "question": "Spell the word for a person who helps sick people. / Đánh vần từ chỉ một người giúp đỡ người bệnh.",
-        "options": [
-            "d-o-c-t-o-r",
-            "t-e-a-c-h-e-r",
-            "f-a-r-m-e-r",
-            "s-i-n-g-e-r"
-        ],
-        "correctAnswer": "d-o-c-t-o-r"
-    },
-    {
-        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
-        "options": [
-            "Hate",
-            "Like",
-            "Enjoy",
-            "Want"
-        ],
-        "correctAnswer": "Hate"
-    },
-    {
-        "question": "My mother is a teacher and she ____ her job. / Mẹ tôi là một giáo viên và bà ấy ____ công việc của mình.",
-        "options": [
-            "loves",
-            "hates",
-            "eats",
-            "sells"
-        ],
-        "correctAnswer": "loves"
-    },
-    {
-        "question": "What do you want to be when you grow up? / Bạn muốn làm gì khi lớn lên?",
-        "options": [
-            "I want to be a singer.",
-            "I am a student.",
-            "My name is Linh.",
-            "I am eight years old."
-        ],
-        "correctAnswer": "I want to be a singer."
-    },
-    {
-        "question": "Spell the word for a person who teaches. / Đánh vần từ chỉ một người dạy học.",
-        "options": [
-            "t-e-a-c-h-e-r",
-            "s-t-u-d-e-n-t",
-            "d-r-i-v-e-r",
-            "w-o-r-k-e-r"
-        ],
-        "correctAnswer": "t-e-a-c-h-e-r"
-    },
-    {
-        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
-        "options": [
-            "Bad",
+            "Ugly",
+            "Pretty",
             "Nice",
-            "Great",
-            "Kind"
+            "Good"
         ],
-        "correctAnswer": "Bad"
+        "correctAnswer": "Ugly"
     },
     {
-        "question": "A good job makes you feel ____. / Một công việc tốt làm bạn cảm thấy ____.",
+        "question": "My garden has many ____ flowers. / Khu vườn của tôi có nhiều bông hoa ____.",
         "options": [
-            "happy",
-            "bad",
+            "beautiful",
+            "ugly",
             "sad",
-            "tired"
+            "old"
         ],
-        "correctAnswer": "happy"
+        "correctAnswer": "beautiful"
     },
     {
-        "question": "What do you call a person who flies an airplane? / Bạn gọi một người lái máy bay là gì?",
+        "question": "What do you call the top covering of a house? / Bạn gọi phần che trên cùng của một ngôi nhà là gì?",
         "options": [
-            "A pilot",
-            "A driver",
-            "A captain",
-            "A sailor"
+            "A roof",
+            "A floor",
+            "A wall",
+            "A window"
         ],
-        "correctAnswer": "A pilot"
+        "correctAnswer": "A roof"
     },
     {
-        "question": "Spell the word for a person who works on a farm. / Đánh vần từ chỉ một người làm việc trên nông trại.",
+        "question": "What is the opposite of 'open'? / Từ trái nghĩa của 'open' là gì?",
         "options": [
-            "f-a-r-m-e-r",
-            "d-o-c-t-o-r",
-            "n-u-r-s-e",
-            "p-u-p-i-l"
+            "Closed",
+            "Shut",
+            "In",
+            "Start"
         ],
-        "correctAnswer": "f-a-r-m-e-r"
+        "correctAnswer": "Closed"
+    },
+    {
+        "question": "Please close the ____ when you leave. / Vui lòng đóng ____ khi bạn rời đi.",
+        "options": [
+            "gate",
+            "pond",
+            "garden",
+            "fence"
+        ],
+        "correctAnswer": "gate"
+    },
+    {
+        "question": "Spell the word for the area with flowers and trees. / Đánh vần từ chỉ khu vực có hoa và cây.",
+        "options": [
+            "g-a-r-d-e-n",
+            "k-i-t-c-h-e-n",
+            "y-a-r-d",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "g-a-r-d-e-n"
     },
     {
         "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
@@ -300,7 +230,7 @@
         "correctAnswer": "Few"
     },
     {
-        "question": "There are ____ jobs in the world. / Có ____ công việc trên thế giới.",
+        "question": "There are ____ rooms in my house. / Có ____ phòng trong nhà tôi.",
         "options": [
             "many",
             "no",
@@ -310,64 +240,44 @@
         "correctAnswer": "many"
     },
     {
-        "question": "What do you call a person who makes bread and cakes? / Bạn gọi một người làm bánh mì và bánh ngọt là gì?",
+        "question": "What do you call a house that is very, very big? / Bạn gọi một ngôi nhà rất, rất lớn là gì?",
         "options": [
-            "A baker",
-            "A cook",
-            "A farmer",
-            "A singer"
+            "A mansion",
+            "A cottage",
+            "A flat",
+            "An apartment"
         ],
-        "correctAnswer": "A baker"
+        "correctAnswer": "A mansion"
     },
     {
-        "question": "Spell the word for a person who helps a doctor. / Đánh vần từ chỉ một người giúp đỡ bác sĩ.",
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
         "options": [
-            "n-u-r-s-e",
-            "p-u-p-i-l",
-            "d-r-i-v-e-r",
-            "c-o-o-k"
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
         ],
-        "correctAnswer": "n-u-r-s-e"
+        "correctAnswer": "Hate"
     },
     {
-        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "question": "I ____ my cozy little house. / Tôi ____ ngôi nhà nhỏ ấm cúng của mình.",
         "options": [
-            "Sad",
-            "Angry",
-            "Tired",
-            "Hungry"
+            "love",
+            "hate",
+            "eat",
+            "sell"
         ],
-        "correctAnswer": "Sad"
+        "correctAnswer": "love"
     },
     {
-        "question": "Having a job you don't like can make you feel ____. / Có một công việc bạn không thích có thể làm bạn cảm thấy ____.",
+        "question": "Spell the word for the small pool of water. / Đánh vần từ chỉ hồ nước nhỏ.",
         "options": [
-            "sad",
-            "happy",
-            "excited",
-            "hungry"
+            "p-o-n-d",
+            "p-o-o-l",
+            "l-a-k-e",
+            "r-i-v-e-r"
         ],
-        "correctAnswer": "sad"
-    },
-    {
-        "question": "What do you call a person who builds houses? / Bạn gọi một người xây nhà là gì?",
-        "options": [
-            "A builder",
-            "A painter",
-            "A driver",
-            "A farmer"
-        ],
-        "correctAnswer": "A builder"
-    },
-    {
-        "question": "Spell the word for a person who works in a factory. / Đánh vần từ chỉ một người làm việc trong nhà máy.",
-        "options": [
-            "w-o-r-k-e-r",
-            "s-i-n-g-e-r",
-            "d-a-n-c-e-r",
-            "t-e-a-c-h-e-r"
-        ],
-        "correctAnswer": "w-o-r-k-e-r"
+        "correctAnswer": "p-o-n-d"
     },
     {
         "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
@@ -380,33 +290,113 @@
         "correctAnswer": "Take"
     },
     {
-        "question": "A teacher will ____ you homework. / Một giáo viên sẽ ____ cho bạn bài tập về nhà.",
+        "question": "You can ____ flowers from the garden to put in a vase. / Bạn có thể ____ hoa từ vườn để cắm vào bình.",
         "options": [
-            "give",
             "take",
+            "give",
             "play",
             "eat"
         ],
-        "correctAnswer": "give"
+        "correctAnswer": "take"
     },
     {
-        "question": "What do you call a person who fixes teeth? / Bạn gọi một người chữa răng là gì?",
+        "question": "What do you call the room where you park a car? / Bạn gọi căn phòng nơi bạn đỗ xe ô tô là gì?",
         "options": [
-            "A dentist",
-            "A doctor",
-            "A nurse",
-            "A surgeon"
+            "A garage",
+            "A kitchen",
+            "A bedroom",
+            "A living room"
         ],
-        "correctAnswer": "A dentist"
+        "correctAnswer": "A garage"
     },
     {
-        "question": "Spell the word for a person who drives. / Đánh vần từ chỉ một người lái xe.",
+        "question": "Spell the word for the structure around a garden. / Đánh vần từ chỉ cấu trúc xung quanh một khu vườn.",
         "options": [
-            "d-r-i-v-e-r",
-            "r-i-d-e-r",
-            "d-o-c-t-o-r",
-            "f-a-r-m-e-r"
+            "f-e-n-c-e",
+            "g-a-t-e",
+            "w-a-l-l",
+            "h-e-d-g-e"
         ],
-        "correctAnswer": "d-r-i-v-e-r"
+        "correctAnswer": "f-e-n-c-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "A house with a broken roof is in ____ condition. / Một ngôi nhà có mái bị hỏng đang ở trong tình trạng ____.",
+        "options": [
+            "bad",
+            "good",
+            "new",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the path leading to the front door? / Bạn gọi con đường dẫn đến cửa trước là gì?",
+        "options": [
+            "A path",
+            "A road",
+            "A river",
+            "A bridge"
+        ],
+        "correctAnswer": "A path"
+    },
+    {
+        "question": "Spell the word for the entrance to the garden. / Đánh vần từ chỉ lối vào khu vườn.",
+        "options": [
+            "g-a-t-e",
+            "d-o-o-r",
+            "p-a-t-h",
+            "h-o-l-e"
+        ],
+        "correctAnswer": "g-a-t-e"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "A home is a ____ place. / Một ngôi nhà là một nơi ____.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the floor outside the back of a house? / Bạn gọi sàn nhà bên ngoài phía sau một ngôi nhà là gì?",
+        "options": [
+            "A patio",
+            "A balcony",
+            "A yard",
+            "A garden"
+        ],
+        "correctAnswer": "A patio"
+    },
+    {
+        "question": "Spell the word for a place that is lovely. / Đánh vần từ chỉ một nơi đáng yêu.",
+        "options": [
+            "l-o-v-e-l-y",
+            "b-e-a-u-t-i-f-u-l",
+            "n-i-c-e",
+            "p-r-e-t-t-y"
+        ],
+        "correctAnswer": "l-o-v-e-l-y"
     }
 ]
