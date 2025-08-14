@@ -1,698 +1,602 @@
 [
-  {
-    "question": "Unit 1: How do you greet someone in the morning? / Bạn chào ai đó vào buổi sáng như thế nào?",
-    "options": ["Good morning.", "Good afternoon.", "Good evening.", "Good night."],
-    "correctAnswer": "Good morning."
-  },
-  {
-    "question": "Unit 1: What is your name? / Tên của bạn là gì?",
-    "options": ["My name is Linh.", "I am fine, thank you.", "I am eight years old.", "Hello."],
-    "correctAnswer": "My name is Linh."
-  },
-  {
-    "question": "Unit 1: How are you? / Bạn có khỏe không?",
-    "options": ["I'm fine, thank you.", "My name is Quan.", "Goodbye.", "Nice to meet you."],
-    "correctAnswer": "I'm fine, thank you."
-  },
-  {
-    "question": "Unit 1: What do you say when you leave? / Bạn nói gì khi bạn rời đi?",
-    "options": ["Goodbye.", "Hello.", "Hi.", "Good morning."],
-    "correctAnswer": "Goodbye."
-  },
-  {
-    "question": "Unit 1: Spell the word: H-E-L-L-O / Đánh vần từ: H-E-L-L-O",
-    "options": ["Hello", "Hallow", "Bellow", "Yellow"],
-    "correctAnswer": "Hello"
-  },
-  {
-    "question": "Unit 1: Nice to ____ you. / Rất vui được ____ bạn.",
-    "options": ["meet", "see", "go", "play"],
-    "correctAnswer": "meet"
-  },
-  {
-    "question": "Unit 1: A: How are you? B: I'm fine, ____. / A: Bạn có khỏe không? B: Tớ khỏe, ____.",
-    "options": ["thanks", "please", "sorry", "hello"],
-    "correctAnswer": "thanks"
-  },
-  {
-    "question": "Unit 1: How do you spell your name? / Bạn đánh vần tên của bạn như thế nào?",
-    "options": ["L-I-N-H", "I am Linh.", "My name is Linh.", "I am fine."],
-    "correctAnswer": "L-I-N-H"
-  },
-  {
-    "question": "Unit 1: This is my friend. ____ name is Ben. / Đây là bạn của tôi. ____ tên là Ben.",
-    "options": ["His", "Her", "My", "Your"],
-    "correctAnswer": "His"
-  },
-  {
-    "question": "Unit 1: Is your name Peter? / Tên của bạn có phải là Peter không?",
-    "options": ["Yes, it is.", "No, I am not.", "I am fine.", "I have a friend."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 1: How do you spell 'Mai'? / Bạn đánh vần 'Mai' như thế nào?",
-    "options": ["M-A-I", "M-Y", "A-M-I", "I-A-M"],
-    "correctAnswer": "M-A-I"
-  },
-  {
-    "question": "Unit 1: A: Nice to meet you. B: ____. / A: Rất vui được gặp bạn. B: ____.",
-    "options": ["Nice to meet you, too.", "I'm fine.", "Goodbye.", "Hello."],
-    "correctAnswer": "Nice to meet you, too."
-  },
-  {
-    "question": "Unit 1: What's his name? / Tên anh ấy là gì?",
-    "options": ["His name is David.", "Her name is Mary.", "My name is John.", "Your name is Tom."],
-    "correctAnswer": "His name is David."
-  },
-  {
-    "question": "Unit 1: What's her name? / Tên cô ấy là gì?",
-    "options": ["Her name is Mary.", "His name is David.", "My name is John.", "Your name is Tom."],
-    "correctAnswer": "Her name is Mary."
-  },
-  {
-    "question": "Unit 1: Spell the word: f-r-i-e-n-d-l-y / Đánh vần từ: f-r-i-e-n-d-l-y",
-    "options": ["friendly", "friend", "finally", "friday"],
-    "correctAnswer": "friendly"
-  },
-  {
-    "question": "Unit 2: What's ____ name? - My name's Phong. / ____ tên là gì? - Tên tớ là Phong.",
-    "options": ["your", "my", "his", "her"],
-    "correctAnswer": "your"
-  },
-  {
-    "question": "Unit 2: How do you ____ your name? / Bạn ____ tên của bạn như thế nào?",
-    "options": ["spell", "say", "read", "write"],
-    "correctAnswer": "spell"
-  },
-  {
-    "question": "Unit 2: This is Tony. And this ____ my friend, Mary. / Đây là Tony. Và đây ____ bạn của tớ, Mary.",
-    "options": ["is", "am", "are", "be"],
-    "correctAnswer": "is"
-  },
-  {
-    "question": "Unit 2: Spell the word: N-A-M-E / Đánh vần từ: N-A-M-E",
-    "options": ["name", "game", "same", "lame"],
-    "correctAnswer": "name"
-  },
-  {
-    "question": "Unit 2: A: Is that Tony? B: Yes, ____. / A: Đó có phải là Tony không? B: Vâng, ____.",
-    "options": ["it is", "I am", "he is", "she is"],
-    "correctAnswer": "it is"
-  },
-  {
-    "question": "Unit 2: My name ____ Peter. / Tên tớ ____ Peter.",
-    "options": ["is", "am", "are", "be"],
-    "correctAnswer": "is"
-  },
-  {
-    "question": "Unit 2: Is that Linda? / Đó có phải là Linda không?",
-    "options": ["Yes, it is.", "No, it isn't.", "I am Linda.", "Her name is Linda."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 2: How do you spell 'Peter'? / Bạn đánh vần 'Peter' như thế nào?",
-    "options": ["P-E-T-E-R", "P-I-T-E-R", "P-E-T-A-R", "B-E-T-E-R"],
-    "correctAnswer": "P-E-T-E-R"
-  },
-  {
-    "question": "Unit 2: What ____ your name? / Tên của bạn ____ gì?",
-    "options": ["is", "am", "are", "be"],
-    "correctAnswer": "is"
-  },
-  {
-    "question": "Unit 2: Is your name Mai? / Tên của bạn có phải là Mai không?",
-    "options": ["No, it isn't. My name is Hoa.", "Yes, I am.", "I am fine.", "I have a friend."],
-    "correctAnswer": "No, it isn't. My name is Hoa."
-  },
-  {
-    "question": "Unit 2: How do you spell 'Quan'? / Bạn đánh vần 'Quan' như thế nào?",
-    "options": ["Q-U-A-N", "C-U-A-N", "Q-A-N", "K-U-A-N"],
-    "correctAnswer": "Q-U-A-N"
-  },
-  {
-    "question": "Unit 2: A: ____ do you spell your name? B: B-I-L-L. / A: Bạn đánh vần tên của bạn ____? B: B-I-L-L.",
-    "options": ["How", "What", "Is", "Are"],
-    "correctAnswer": "How"
-  },
-  {
-    "question": "Unit 2: Find the word: a-l-p-h-a-b-e-t / Tìm từ: a-l-p-h-a-b-e-t",
-    "options": ["alphabet", "alpha", "bet", "able"],
-    "correctAnswer": "alphabet"
-  },
-  {
-    "question": "Unit 2: My ____ is easy to spell. / ____ của tôi dễ đánh vần.",
-    "options": ["name", "house", "book", "pet"],
-    "correctAnswer": "name"
-  },
-  {
-    "question": "Unit 2: My ____ is Bill. / ____ của tớ là Bill.",
-    "options": ["friend", "pet", "toy", "book"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "Unit 3: Who's that? / Đó là ai?",
-    "options": ["It's Tony.", "I'm Tony.", "My name's Tony.", "Hello, Tony."],
-    "correctAnswer": "It's Tony."
-  },
-  {
-    "question": "Unit 3: Is he your friend? / Cậu ấy có phải là bạn của bạn không?",
-    "options": ["Yes, he is.", "No, he isn't.", "Yes, it is.", "No, it isn't."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "Unit 3: She is ____. She is not short. / Cô ấy ____. Cô ấy không thấp.",
-    "options": ["tall", "short", "fat", "thin"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "Unit 3: He is ____. He is not tall. / Cậu ấy ____. Cậu ấy không cao.",
-    "options": ["short", "tall", "big", "small"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Unit 3: Is she old? / Bà ấy có già không?",
-    "options": ["Yes, she is.", "No, she isn't.", "She is young.", "She is my friend."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "Unit 3: My friend is ____. He is not old. / Bạn của tôi thì ____. Cậu ấy không già.",
-    "options": ["young", "old", "tall", "short"],
-    "correctAnswer": "young"
-  },
-  {
-    "question": "Unit 3: Find the word: w-h-o / Tìm từ: w-h-o",
-    "options": ["who", "how", "why", "what"],
-    "correctAnswer": "who"
-  },
-  {
-    "question": "Unit 3: Who ____ that? - It's my friend, Linda. / ____ là ai vậy? - Đó là bạn của tớ, Linda.",
-    "options": ["'s", "is", "are", "am"],
-    "correctAnswer": "'s"
-  },
-  {
-    "question": "Unit 3: Spell the word: t-a-l-l / Đánh vần từ: t-a-l-l",
-    "options": ["tall", "ball", "fall", "call"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "Unit 3: Spell the word: s-h-o-r-t / Đánh vần từ: s-h-o-r-t",
-    "options": ["short", "shirt", "shot", "sort"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Unit 3: Find the word: y-o-u-n-g / Tìm từ: y-o-u-n-g",
-    "options": ["young", "your", "yours", "youth"],
-    "correctAnswer": "young"
-  },
-  {
-    "question": "Unit 3: Spell the word: o-l-d / Đánh vần từ: o-l-d",
-    "options": ["old", "odd", "owl", "oil"],
-    "correctAnswer": "old"
-  },
-  {
-    "question": "Unit 3: Find the word: b-i-g / Tìm từ: b-i-g",
-    "options": ["big", "pig", "dig", "fig"],
-    "correctAnswer": "big"
-  },
-  {
-    "question": "Unit 3: What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
-    "options": ["short", "big", "small", "long"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Unit 3: What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
-    "options": ["old", "new", "big", "small"],
-    "correctAnswer": "old"
-  },
-  {
-    "question": "Unit 4: This is my ____. / Đây là ____ của tôi.",
-    "options": ["head", "hand", "foot", "leg"],
-    "correctAnswer": "head"
-  },
-  {
-    "question": "Unit 4: Touch your ____. / Chạm vào ____ của bạn.",
-    "options": ["nose", "eyes", "ears", "mouth"],
-    "correctAnswer": "nose"
-  },
-  {
-    "question": "Unit 4: I have two ____ to see. / Tôi có hai ____ để nhìn.",
-    "options": ["eyes", "ears", "hands", "feet"],
-    "correctAnswer": "eyes"
-  },
-  {
-    "question": "Unit 4: Spell the word: h-a-n-d / Đánh vần từ: h-a-n-d",
-    "options": ["hand", "head", "sand", "land"],
-    "correctAnswer": "hand"
-  },
-  {
-    "question": "Unit 4: Clap your ____! / Vỗ ____ của bạn!",
-    "options": ["hands", "feet", "legs", "arms"],
-    "correctAnswer": "hands"
-  },
-  {
-    "question": "Unit 4: I have ten ____ on my hands. / Tôi có mười ____ trên tay.",
-    "options": ["fingers", "toes", "hands", "arms"],
-    "correctAnswer": "fingers"
-  },
-  {
-    "question": "Unit 4: Find the word: f-o-o-t / Tìm từ: f-o-o-t",
-    "options": ["foot", "food", "four", "for"],
-    "correctAnswer": "foot"
-  },
-  {
-    "question": "Unit 4: What can you do with your ears? / Bạn có thể làm gì với tai của mình?",
-    "options": ["I can hear.", "I can see.", "I can smell.", "I can taste."],
-    "correctAnswer": "I can hear."
-  },
-  {
-    "question": "Unit 4: Spell the word: e-y-e / Đánh vần từ: e-y-e",
-    "options": ["eye", "ear", "eat", "egg"],
-    "correctAnswer": "eye"
-  },
-  {
-    "question": "Unit 4: Spell the word: l-e-g / Đánh vần từ: l-e-g",
-    "options": ["leg", "let", "led", "less"],
-    "correctAnswer": "leg"
-  },
-  {
-    "question": "Unit 4: Find the word: b-o-d-y / Tìm từ: b-o-d-y",
-    "options": ["body", "baby", "boy", "buddy"],
-    "correctAnswer": "body"
-  },
-  {
-    "question": "Unit 4: Spell the word: f-a-c-e / Đánh vần từ: f-a-c-e",
-    "options": ["face", "race", "case", "lace"],
-    "correctAnswer": "face"
-  },
-  {
-    "question": "Unit 4: Find the word: t-o-e / Tìm từ: t-o-e",
-    "options": ["toe", "top", "ton", "tom"],
-    "correctAnswer": "toe"
-  },
-  {
-    "question": "Unit 4: My hair is on my ____. / Tóc của tôi ở trên ____.",
-    "options": ["head", "face", "hand", "foot"],
-    "correctAnswer": "head"
-  },
-  {
-    "question": "Unit 4: I have ten ____ on my feet. / Tôi có mười ____ trên chân.",
-    "options": ["toes", "fingers", "legs", "arms"],
-    "correctAnswer": "toes"
-  },
-  {
-    "question": "Unit 5: What's your ____? - I like singing. / ____ của bạn là gì? - Tớ thích ca hát.",
-    "options": ["hobby", "name", "age", "friend"],
-    "correctAnswer": "hobby"
-  },
-  {
-    "question": "Unit 5: I like ____. I use my voice. / Tớ thích ____. Tớ dùng giọng của mình.",
-    "options": ["singing", "dancing", "drawing", "swimming"],
-    "correctAnswer": "singing"
-  },
-  {
-    "question": "Unit 5: She likes ____. She moves her body to music. / Cô ấy thích ____. Cô ấy di chuyển cơ thể theo nhạc.",
-    "options": ["dancing", "singing", "reading", "cooking"],
-    "correctAnswer": "dancing"
-  },
-  {
-    "question": "Unit 5: He likes ____. He uses pencils and paper. / Cậu ấy thích ____. Cậu ấy dùng bút chì và giấy.",
-    "options": ["drawing", "swimming", "singing", "dancing"],
-    "correctAnswer": "drawing"
-  },
-  {
-    "question": "Unit 5: Spell the word: h-o-b-b-y / Đánh vần từ: h-o-b-b-y",
-    "options": ["hobby", "happy", "lobby", "honey"],
-    "correctAnswer": "hobby"
-  },
-  {
-    "question": "Unit 5: Do you like ____? - Yes, I do. I go to the pool. / Bạn có thích ____ không? - Có, tớ có. Tớ đến hồ bơi.",
-    "options": ["swimming", "drawing", "singing", "dancing"],
-    "correctAnswer": "swimming"
-  },
-  {
-    "question": "Unit 5: My hobby is ____. I like books. / Sở thích của tớ là ____. Tớ thích sách.",
-    "options": ["reading", "cooking", "swimming", "singing"],
-    "correctAnswer": "reading"
-  },
-  {
-    "question": "Unit 5: Find the word: s-i-n-g / Tìm từ: s-i-n-g",
-    "options": ["sing", "song", "sign", "king"],
-    "correctAnswer": "sing"
-  },
-  {
-    "question": "Unit 5: Spell the word: d-a-n-c-e / Đánh vần từ: d-a-n-c-e",
-    "options": ["dance", "chance", "danger", "dark"],
-    "correctAnswer": "dance"
-  },
-  {
-    "question": "Unit 5: Spell the word: s-w-i-m / Đánh vần từ: s-w-i-m",
-    "options": ["swim", "slim", "swam", "swing"],
-    "correctAnswer": "swim"
-  },
-  {
-    "question": "Unit 5: Find the word: c-o-o-k / Tìm từ: c-o-o-k",
-    "options": ["cook", "book", "look", "hook"],
-    "correctAnswer": "cook"
-  },
-  {
-    "question": "Unit 5: Spell the word: r-e-a-d / Đánh vần từ: r-e-a-d",
-    "options": ["read", "red", "road", "ride"],
-    "correctAnswer": "read"
-  },
-  {
-    "question": "Unit 5: Find the word: d-r-a-w / Tìm từ: d-r-a-w",
-    "options": ["draw", "dream", "drink", "drive"],
-    "correctAnswer": "draw"
-  },
-  {
-    "question": "Unit 5: My favorite hobby is ____. / Sở thích yêu thích của tôi là ____.",
-    "options": ["playing the piano", "singing", "dancing", "drawing"],
-    "correctAnswer": "playing the piano"
-  },
-  {
-    "question": "Unit 5: Spell the word: f-u-n / Đánh vần từ: f-u-n",
-    "options": ["fun", "sun", "run", "bun"],
-    "correctAnswer": "fun"
-  },
-  {
-    "question": "Unit 6: Is your ____ big? - Yes, it is. / ____ của bạn có lớn không? - Có, nó lớn.",
-    "options": ["school", "house", "class", "bag"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "Unit 6: This is the ____. We can play sports here. / Đây là ____. Chúng ta có thể chơi thể thao ở đây.",
-    "options": ["gym", "library", "classroom", "computer room"],
-    "correctAnswer": "gym"
-  },
-  {
-    "question": "Unit 6: We can read books in the ____. / Chúng ta có thể đọc sách trong ____.",
-    "options": ["library", "gym", "playground", "classroom"],
-    "correctAnswer": "library"
-  },
-  {
-    "question": "Unit 6: This is the ____. We can play here during break time. / Đây là ____. Chúng ta có thể chơi ở đây trong giờ giải lao.",
-    "options": ["playground", "library", "gym", "computer room"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "Unit 6: Spell the word: s-c-h-o-o-l / Đánh vần từ: s-c-h-o-o-l",
-    "options": ["school", "cool", "pool", "tool"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "Unit 6: This is the ____. We can use computers here. / Đây là ____. Chúng ta có thể sử dụng máy tính ở đây.",
-    "options": ["computer room", "library", "gym", "playground"],
-    "correctAnswer": "computer room"
-  },
-  {
-    "question": "Unit 6: Find the word: g-y-m / Tìm từ: g-y-m",
-    "options": ["gym", "gem", "guy", "game"],
-    "correctAnswer": "gym"
-  },
-  {
-    "question": "Unit 6: Spell the word: l-i-b-r-a-r-y / Đánh vần từ: l-i-b-r-a-r-y",
-    "options": ["library", "liberty", "liberal", "librarian"],
-    "correctAnswer": "library"
-  },
-  {
-    "question": "Unit 6: This is the ____. We study here. / Đây là ____. Chúng tôi học ở đây.",
-    "options": ["classroom", "playground", "gym", "library"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Unit 6: Find the word: c-l-a-s-s-r-o-o-m / Tìm từ: c-l-a-s-s-r-o-o-m",
-    "options": ["classroom", "classmate", "classwork", "classic"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Unit 6: My favorite place at school is the ____. / Nơi yêu thích của tôi ở trường là ____.",
-    "options": ["playground", "library", "gym", "classroom"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "Unit 6: We should be ____ in the library. / Chúng ta nên ____ trong thư viện.",
-    "options": ["quiet", "loud", "running", "shouting"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Unit 6: Spell the word: q-u-i-e-t / Đánh vần từ: q-u-i-e-t",
-    "options": ["quiet", "quite", "quit", "quilt"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Unit 7: ____ your book, please. / Vui lòng ____ sách của bạn.",
-    "options": ["Open", "Close", "Read", "Write"],
-    "correctAnswer": "Open"
-  },
-  {
-    "question": "Unit 7: Sit ____, please. / Vui lòng ngồi ____.",
-    "options": ["down", "up", "in", "out"],
-    "correctAnswer": "down"
-  },
-  {
-    "question": "Unit 7: ____ up, please. / Vui lòng ____ dậy.",
-    "options": ["Stand", "Sit", "Come", "Go"],
-    "correctAnswer": "Stand"
-  },
-  {
-    "question": "Unit 7: Be ____, please. / Vui lòng ____.",
-    "options": ["quiet", "loud", "happy", "sad"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Unit 7: Spell the word: o-p-e-n / Đánh vần từ: o-p-e-n",
-    "options": ["open", "pen", "on", "pin"],
-    "correctAnswer": "open"
-  },
-  {
-    "question": "Unit 7: ____ your book, please. / Vui lòng ____ sách của bạn.",
-    "options": ["Close", "Open", "Read", "Write"],
-    "correctAnswer": "Close"
-  },
-  {
-    "question": "Unit 7: May I ____ in? / Em có thể ____ vào không ạ?",
-    "options": ["come", "go", "sit", "stand"],
-    "correctAnswer": "come"
-  },
-  {
-    "question": "Unit 7: Find the word: s-i-t / Tìm từ: s-i-t",
-    "options": ["sit", "set", "six", "sin"],
-    "correctAnswer": "sit"
-  },
-  {
-    "question": "Unit 7: Don't ____. / Đừng ____.",
-    "options": ["talk", "listen", "read", "write"],
-    "correctAnswer": "talk"
-  },
-  {
-    "question": "Unit 7: May I ____ out? / Em có thể ____ ngoài không ạ?",
-    "options": ["go", "come", "sit", "stand"],
-    "correctAnswer": "go"
-  },
-  {
-    "question": "Unit 7: Spell the word: c-l-o-s-e / Đánh vần từ: c-l-o-s-e",
-    "options": ["close", "class", "rose", "chose"],
-    "correctAnswer": "close"
-  },
-  {
-    "question": "Unit 7: I am ____ to the teacher. / Tôi đang ____ cô giáo.",
-    "options": ["listening", "talking", "playing", "eating"],
-    "correctAnswer": "listening"
-  },
-  {
-    "question": "Unit 7: Find the word: l-i-s-t-e-n / Tìm từ: l-i-s-t-e-n",
-    "options": ["listen", "letter", "little", "lesson"],
-    "correctAnswer": "listen"
-  },
-  {
-    "question": "Unit 8: What is this? / Đây là gì?",
-    "options": ["A pen", "A pencil", "A ruler", "An eraser"],
-    "correctAnswer": "A pen"
-  },
-  {
-    "question": "Unit 8: Is this your ____? - Yes, it is. / Đây có phải là ____ của bạn không? - Vâng, đúng vậy.",
-    "options": ["pencil", "pen", "book", "bag"],
-    "correctAnswer": "pencil"
-  },
-  {
-    "question": "Unit 8: I have a new ____. / Tôi có một ____ mới.",
-    "options": ["ruler", "eraser", "pencil case", "notebook"],
-    "correctAnswer": "ruler"
-  },
-  {
-    "question": "Unit 8: This is an ____. / Đây là một ____.",
-    "options": ["eraser", "ruler", "pencil", "pen"],
-    "correctAnswer": "eraser"
-  },
-  {
-    "question": "Unit 8: Spell the word: b-o-o-k / Đánh vần từ: b-o-o-k",
-    "options": ["book", "look", "cook", "hook"],
-    "correctAnswer": "book"
-  },
-  {
-    "question": "Unit 8: That is my ____. / Đó là ____ của tôi.",
-    "options": ["school bag", "pencil case", "notebook", "book"],
-    "correctAnswer": "school bag"
-  },
-  {
-    "question": "Unit 8: I put my pencils in my ____. / Tôi để bút chì vào trong ____.",
-    "options": ["pencil case", "school bag", "book", "notebook"],
-    "correctAnswer": "pencil case"
-  },
-  {
-    "question": "Unit 8: Find the word: p-e-n / Tìm từ: p-e-n",
-    "options": ["pen", "pin", "pan", "pet"],
-    "correctAnswer": "pen"
-  },
-  {
-    "question": "Unit 8: Spell the word: r-u-l-e-r / Đánh vần từ: r-u-l-e-r",
-    "options": ["ruler", "roller", "ruder", "racer"],
-    "correctAnswer": "ruler"
-  },
-  {
-    "question": "Unit 8: Find the word: e-r-a-s-e-r / Tìm từ: e-r-a-s-e-r",
-    "options": ["eraser", "erase", "reader", "easier"],
-    "correctAnswer": "eraser"
-  },
-  {
-    "question": "Unit 8: Spell the word: p-e-n-c-i-l / Đánh vần từ: p-e-n-c-i-l",
-    "options": ["pencil", "pen", "pupil", "people"],
-    "correctAnswer": "pencil"
-  },
-  {
-    "question": "Unit 8: Find the word: n-o-t-e-b-o-o-k / Tìm từ: n-o-t-e-b-o-o-k",
-    "options": ["notebook", "note", "book", "nothing"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "Unit 9: What ____ is it? - It's red. / Nó là ____ gì? - Nó màu đỏ.",
-    "options": ["colour", "name", "thing", "shape"],
-    "correctAnswer": "colour"
-  },
-  {
-    "question": "Unit 9: This is a ____ book. / Đây là một quyển sách ____.",
-    "options": ["red", "blue", "green", "yellow"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "Unit 9: I have a ____ pen. / Tôi có một cây bút mực ____.",
-    "options": ["blue", "red", "green", "yellow"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Unit 9: The box is ____. / Cái hộp thì ____.",
-    "options": ["green", "blue", "red", "yellow"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "Unit 9: Spell the word: r-e-d / Đánh vần từ: r-e-d",
-    "options": ["red", "bed", "led", "fed"],
-    "correctAnswer": "red"
-  },
-  {
-    "question": "Unit 9: This is a ____ pencil case. / Đây là một hộp bút ____.",
-    "options": ["yellow", "pink", "purple", "orange"],
-    "correctAnswer": "yellow"
-  },
-  {
-    "question": "Unit 9: Find the word: b-l-u-e / Tìm từ: b-l-u-e",
-    "options": ["blue", "glue", "clue", "true"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "Unit 9: Spell the word: g-r-e-e-n / Đánh vần từ: g-r-e-e-n",
-    "options": ["green", "queen", "seen", "screen"],
-    "correctAnswer": "green"
-  },
-  {
-    "question": "Unit 9: Spell the word: y-e-l-l-o-w / Đánh vần từ: y-e-l-l-o-w",
-    "options": ["yellow", "bellow", "fellow", "hollow"],
-    "correctAnswer": "yellow"
-  },
-  {
-    "question": "Unit 9: Find the word: o-r-a-n-g-e / Tìm từ: o-r-a-n-g-e",
-    "options": ["orange", "arrange", "range", "strange"],
-    "correctAnswer": "orange"
-  },
-  {
-    "question": "Unit 9: Spell the word: p-i-n-k / Đánh vần từ: p-i-n-k",
-    "options": ["pink", "sink", "wink", "link"],
-    "correctAnswer": "pink"
-  },
-  {
-    "question": "Unit 9: Find the word: w-h-i-t-e / Tìm từ: w-h-i-t-e",
-    "options": ["white", "while", "what", "where"],
-    "correctAnswer": "white"
-  },
-  {
-    "question": "Unit 9: Spell the word: b-l-a-c-k / Đánh vần từ: b-l-a-c-k",
-    "options": ["black", "back", "block", "blank"],
-    "correctAnswer": "black"
-  },
-  {
-    "question": "Unit 10: What are you doing? - I'm ____. / Bạn đang làm gì vậy? - Tớ đang ____.",
-    "options": ["reading", "playing", "singing", "dancing"],
-    "correctAnswer": "reading"
-  },
-  {
-    "question": "Unit 10: Let's play ____. / Hãy chơi ____.",
-    "options": ["chess", "football", "badminton", "hide-and-seek"],
-    "correctAnswer": "chess"
-  },
-  {
-    "question": "Unit 10: They are playing ____ in the playground. / Họ đang chơi ____ ở sân chơi.",
-    "options": ["football", "chess", "badminton", "hide-and-seek"],
-    "correctAnswer": "football"
-  },
-  {
-    "question": "Unit 10: She is ____ a rope. / Cô ấy đang ____ dây.",
-    "options": ["skipping", "playing", "reading", "singing"],
-    "correctAnswer": "skipping"
-  },
-  {
-    "question": "Unit 10: Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "Unit 10: He is playing ____ with his friend. / Cậu ấy đang chơi ____ với bạn của mình.",
-    "options": ["badminton", "football", "chess", "hide-and-seek"],
-    "correctAnswer": "badminton"
-  },
-  {
-    "question": "Unit 10: I like ____. It's a fun game. / Tớ thích ____. Nó là một trò chơi vui.",
-    "options": ["hide-and-seek", "reading", "singing", "dancing"],
-    "correctAnswer": "hide-and-seek"
-  },
-  {
-    "question": "Unit 10: Find the word: c-h-e-s-s / Tìm từ: c-h-e-s-s",
-    "options": ["chess", "cheese", "chest", "check"],
-    "correctAnswer": "chess"
-  },
-  {
-    "question": "Unit 10: This is ____. It's time to relax. / Đây là ____. Đã đến lúc thư giãn.",
-    "options": ["break time", "class time", "lunch time", "home time"],
-    "correctAnswer": "break time"
-  },
-  {
-    "question": "Unit 10: I like to ____ with my friends. / Tớ thích ____ với bạn bè.",
-    "options": ["chat", "read", "study", "sleep"],
-    "correctAnswer": "chat"
-  },
-  {
-    "question": "Unit 10: My friends are playing ____. / Bạn bè của tôi đang chơi ____.",
-    "options": ["table tennis", "football", "badminton", "chess"],
-    "correctAnswer": "table tennis"
-  },
-  {
-    "question": "Unit 10: Spell the word: s-k-i-p / Đánh vần từ: s-k-i-p",
-    "options": ["skip", "ship", "skin", "skid"],
-    "correctAnswer": "skip"
-  },
-  {
-    "question": "Unit 10: Spell the word: b-a-d-m-i-n-t-o-n / Đánh vần từ: b-a-d-m-i-n-t-o-n",
-    "options": ["badminton", "bad man", "bandana", "abandon"],
-    "correctAnswer": "badminton"
-  }
+    {
+        "question": "Unit 1: What do you say when you meet a friend in the morning? / Bạn nói gì khi gặp một người bạn vào buổi sáng?",
+        "options": [ "Hello", "Goodbye", "Good night", "Thank you" ],
+        "correctAnswer": "Hello"
+    },
+    {
+        "question": "Unit 1: To ask for someone's name, you say: / Để hỏi tên của ai đó, bạn nói:",
+        "options": [ "What's your name?", "How are you?", "How old are you?", "Where are you from?" ],
+        "correctAnswer": "What's your name?"
+    },
+    {
+        "question": "Unit 1: A common and polite answer to 'How are you?' is: / Một câu trả lời phổ biến và lịch sự cho 'How are you?' là:",
+        "options": [ "I'm fine, thank you.", "My name is Ben.", "I like cats.", "It's a sunny day." ],
+        "correctAnswer": "I'm fine, thank you."
+    },
+    {
+        "question": "Unit 1: What do you say when you are leaving? / Bạn nói gì khi bạn rời đi?",
+        "options": [ "Goodbye", "Hello", "Hi", "Good morning" ],
+        "correctAnswer": "Goodbye"
+    },
+    {
+        "question": "Unit 1: A short and friendly way to say 'Hello' is: / Một cách ngắn gọn và thân thiện để nói 'Hello' là:",
+        "options": [ "Hi", "Bye", "Thanks", "Sorry" ],
+        "correctAnswer": "Hi"
+    },
+    {
+        "question": "Unit 1: A short way to say 'Goodbye' is: / Một cách ngắn gọn để nói 'Goodbye' là:",
+        "options": [ "Bye", "Hi", "Hey", "Yo" ],
+        "correctAnswer": "Bye"
+    },
+    {
+        "question": "Unit 1: If someone says 'My name is Lucy', what is her name? / Nếu ai đó nói 'My name is Lucy', tên của cô ấy là gì?",
+        "options": [ "Lucy", "Ben", "Mai", "Tom" ],
+        "correctAnswer": "Lucy"
+    },
+    {
+        "question": "Unit 1: What is the full form of 'What's'? / Dạng đầy đủ của 'What's' là gì?",
+        "options": [ "What is", "What are", "What am", "What was" ],
+        "correctAnswer": "What is"
+    },
+    {
+        "question": "Unit 1: If you feel good, you can say 'I'm ____'. / Nếu bạn cảm thấy tốt, bạn có thể nói 'I'm ____'.",
+        "options": [ "fine", "sad", "angry", "tired" ],
+        "correctAnswer": "fine"
+    },
+    {
+        "question": "Unit 1: To introduce yourself, you say '____ Ben.' / Để giới thiệu bản thân, bạn nói '____ Ben.'",
+        "options": [ "I'm", "You're", "He's", "It's" ],
+        "correctAnswer": "I'm"
+    },
+    {
+        "question": "Unit 1: What is the correct response to 'Nice to meet you'? / Câu trả lời đúng cho 'Nice to meet you' là gì?",
+        "options": [ "Nice to meet you, too.", "I'm fine, thank you.", "My name is Phong.", "Goodbye." ],
+        "correctAnswer": "Nice to meet you, too."
+    },
+    {
+        "question": "Unit 1: The question 'How are you?' asks about your ____. / Câu hỏi 'How are you?' hỏi về ____ của bạn.",
+        "options": [ "feeling", "name", "age", "home" ],
+        "correctAnswer": "feeling"
+    },
+    {
+        "question": "Unit 1: A boy's name could be ____. / Tên của một cậu bé có thể là ____.",
+        "options": [ "Ben", "Lucy", "Mai", "Hoa" ],
+        "correctAnswer": "Ben"
+    },
+    {
+        "question": "Unit 1: A girl's name could be ____. / Tên của một cô gái có thể là ____.",
+        "options": [ "Mary", "Peter", "Quan", "David" ],
+        "correctAnswer": "Mary"
+    },
+    {
+        "question": "Unit 1: What is the correct order: 'name / is / My / Quan'? / Trật tự đúng là gì: 'name / is / My / Quan'?",
+        "options": [ "My name is Quan.", "Quan is my name.", "Is my name Quan?", "Name my is Quan." ],
+        "correctAnswer": "My name is Quan."
+    },
+    {
+        "question": "Unit 2: To ask how to write a name like 'Mai', you say: / Để hỏi cách viết một cái tên như 'Mai', bạn nói:",
+        "options": [ "How do you spell your name?", "What is your name?", "Are you Mai?", "Is her name Mai?" ],
+        "correctAnswer": "How do you spell your name?"
+    },
+    {
+        "question": "Unit 2: To answer 'How do you spell your name?' for the name 'Tom', you say: / Để trả lời 'How do you spell your name?' cho tên 'Tom', bạn nói:",
+        "options": [ "T-O-M", "My name is Tom.", "I am Tom.", "Yes, it is." ],
+        "correctAnswer": "T-O-M"
+    },
+    {
+        "question": "Unit 2: A person you play with and like is your ____. / Một người bạn chơi cùng và quý mến là ____ của bạn.",
+        "options": [ "friend", "teacher", "doctor", "enemy" ],
+        "correctAnswer": "friend"
+    },
+    {
+        "question": "Unit 2: To say that you have a friend who is new, you say: 'This is my ____ friend.' / Để nói rằng bạn có một người bạn mới, bạn nói: 'This is my ____ friend.'",
+        "options": [ "new", "old", "sad", "big" ],
+        "correctAnswer": "new"
+    },
+    {
+        "question": "Unit 2: What is the correct question for the answer 'My name is Peter'? / Câu hỏi đúng cho câu trả lời 'My name is Peter' là gì?",
+        "options": [ "What's your name?", "How are you?", "Is your name Peter?", "How do you spell your name?" ],
+        "correctAnswer": "What's your name?"
+    },
+    {
+        "question": "Unit 2: The word 'our' means something that belongs to ____. / Từ 'our' có nghĩa là một cái gì đó thuộc về ____.",
+        "options": [ "us", "me", "you", "them" ],
+        "correctAnswer": "us"
+    },
+    {
+        "question": "Unit 2: How do you spell the name 'Bill'? / Bạn đánh vần tên 'Bill' như thế nào?",
+        "options": [ "B-I-L-L", "B-I-L", "B-E-L-L", "B-A-L-L" ],
+        "correctAnswer": "B-I-L-L"
+    },
+    {
+        "question": "Unit 2: What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
+        "options": [ "Old", "Young", "Big", "Good" ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "Unit 2: To answer 'Is your name Linda?', you can say 'Yes, it ____.' / Để trả lời 'Is your name Linda?', bạn có thể nói 'Yes, it ____.'",
+        "options": [ "is", "are", "am", "do" ],
+        "correctAnswer": "is"
+    },
+    {
+        "question": "Unit 2: If you are talking about a boy, you say '____ is my friend.' / Nếu bạn đang nói về một cậu bé, bạn nói '____ is my friend.'",
+        "options": [ "He", "She", "It", "They" ],
+        "correctAnswer": "He"
+    },
+    {
+        "question": "Unit 2: If you are talking about a girl, you say '____ is my friend.' / Nếu bạn đang nói về một cô gái, bạn nói '____ is my friend.'",
+        "options": [ "She", "He", "It", "We" ],
+        "correctAnswer": "She"
+    },
+    {
+        "question": "Unit 2: What is the opposite of 'my'? / Từ trái nghĩa của 'my' là gì?",
+        "options": [ "Your", "His", "Her", "Our" ],
+        "correctAnswer": "Your"
+    },
+    {
+        "question": "Unit 2: How do you spell the name 'Tony'? / Bạn đánh vần tên 'Tony' như thế nào?",
+        "options": [ "T-O-N-Y", "T-O-N-I", "T-O-N-E-Y", "T-A-N-Y" ],
+        "correctAnswer": "T-O-N-Y"
+    },
+    {
+        "question": "Unit 2: What is the correct response to 'Bye, Mai'? / Câu trả lời đúng cho 'Bye, Mai' là gì?",
+        "options": [ "Bye, Peter.", "Hello, Mai.", "I'm fine.", "What's your name?" ],
+        "correctAnswer": "Bye, Peter."
+    },
+    {
+        "question": "Unit 2: What is the correct order: 'is / friend / This / my'? / Trật tự đúng là gì: 'is / friend / This / my'?",
+        "options": [ "This is my friend.", "My friend is this.", "Is this my friend?", "Friend is my this." ],
+        "correctAnswer": "This is my friend."
+    },
+    {
+        "question": "Unit 3: If you are pointing to a friend who is far away, you say: '____ is my friend.' / Nếu bạn đang chỉ một người bạn ở xa, bạn nói: '____ is my friend.'",
+        "options": [ "That", "This", "These", "Those" ],
+        "correctAnswer": "That"
+    },
+    {
+        "question": "Unit 3: A male child is a ____. / Một đứa trẻ nam là một ____.",
+        "options": [ "boy", "girl", "man", "woman" ],
+        "correctAnswer": "boy"
+    },
+    {
+        "question": "Unit 3: A female child is a ____. / Một đứa trẻ nữ là một ____.",
+        "options": [ "girl", "boy", "woman", "man" ],
+        "correctAnswer": "girl"
+    },
+    {
+        "question": "Unit 3: To ask about the person over there, you say: '____ is that?' / Để hỏi về người ở đằng kia, bạn nói: '____ is that?'",
+        "options": [ "Who", "What", "How", "Where" ],
+        "correctAnswer": "Who"
+    },
+    {
+        "question": "Unit 3: A person who is not short is ____. / Một người không thấp thì ____.",
+        "options": [ "tall", "small", "young", "old" ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "Unit 3: A person who is not tall is ____. / Một người không cao thì ____.",
+        "options": [ "short", "big", "long", "fat" ],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "Unit 3: A person who is not young is ____. / Một người không trẻ thì ____.",
+        "options": [ "old", "new", "small", "short" ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "Unit 3: The correct answer to 'Is she your friend?' is: / Câu trả lời đúng cho 'Is she your friend?' là:",
+        "options": [ "Yes, she is.", "Yes, he is.", "No, he isn't.", "I am a friend." ],
+        "correctAnswer": "Yes, she is."
+    },
+    {
+        "question": "Unit 3: The opposite of 'Yes, he is.' is: / Dạng đối lập của 'Yes, he is.' là:",
+        "options": [ "No, he isn't.", "Yes, he isn't.", "No, he is.", "Yes, she is." ],
+        "correctAnswer": "No, he isn't."
+    },
+    {
+        "question": "Unit 3: What do you do with your friends at school? / Bạn làm gì với bạn bè ở trường?",
+        "options": [ "Play and study", "Cook and sleep", "Drive and fly", "Shop and swim" ],
+        "correctAnswer": "Play and study"
+    },
+    {
+        "question": "Unit 3: What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [ "Short", "Long", "Big", "Wide" ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "Unit 3: What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
+        "options": [ "Old", "New", "Big", "Small" ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "Unit 3: That is Mary. ____ is a nice girl. / Đó là Mary. ____ là một cô gái tốt.",
+        "options": [ "She", "He", "It", "They" ],
+        "correctAnswer": "She"
+    },
+    {
+        "question": "Unit 3: That is Tom. ____ is a tall boy. / Đó là Tom. ____ là một cậu bé cao.",
+        "options": [ "He", "She", "It", "We" ],
+        "correctAnswer": "He"
+    },
+    {
+        "question": "Unit 3: What is the opposite of 'this'? / Từ trái nghĩa của 'this' là gì?",
+        "options": [ "That", "These", "Those", "It" ],
+        "correctAnswer": "That"
+    },
+    {
+        "question": "Unit 4: This is the top part of your body. It has your hair and eyes. What is it? / Đây là phần trên cùng của cơ thể bạn. Nó có tóc và mắt của bạn. Nó là gì?",
+        "options": [ "A head", "A hand", "A foot", "A leg" ],
+        "correctAnswer": "A head"
+    },
+    {
+        "question": "Unit 4: You have two of these, and you use them to see things. What are they? / Bạn có hai cái này, và bạn dùng chúng để nhìn mọi vật. Chúng là gì?",
+        "options": [ "Eyes", "Ears", "Noses", "Hands" ],
+        "correctAnswer": "Eyes"
+    },
+    {
+        "question": "Unit 4: This is in the middle of your face, and you use it to smell. What is it? / Cái này ở giữa khuôn mặt của bạn, và bạn dùng nó để ngửi. Nó là gì?",
+        "options": [ "A nose", "A mouth", "An eye", "An ear" ],
+        "correctAnswer": "A nose"
+    },
+    {
+        "question": "Unit 4: You have two of these on the sides of your head to hear music. What are they? / Bạn có hai cái này ở hai bên đầu để nghe nhạc. Chúng là gì?",
+        "options": [ "Ears", "Eyes", "Hands", "Feet" ],
+        "correctAnswer": "Ears"
+    },
+    {
+        "question": "Unit 4: You use this part of your face to eat and talk. What is it? / Bạn dùng bộ phận này trên khuôn mặt để ăn và nói. Nó là gì?",
+        "options": [ "A mouth", "A nose", "An eye", "An ear" ],
+        "correctAnswer": "A mouth"
+    },
+    {
+        "question": "Unit 4: This is at the end of your arm, and it has five fingers. What is it? / Cái này ở cuối cánh tay của bạn, và nó có năm ngón tay. Nó là gì?",
+        "options": [ "A hand", "A foot", "An elbow", "A knee" ],
+        "correctAnswer": "A hand"
+    },
+    {
+        "question": "Unit 4: You have two of these, and you use them to walk and run. What are they? / Bạn có hai cái này, và bạn dùng chúng để đi bộ và chạy. Chúng là gì?",
+        "options": [ "Legs", "Arms", "Ears", "Eyes" ],
+        "correctAnswer": "Legs"
+    },
+    {
+        "question": "Unit 4: This is at the end of your leg, and you wear a shoe on it. What is it? / Cái này ở cuối chân của bạn, và bạn đi giày vào nó. Nó là gì?",
+        "options": [ "A foot", "A hand", "A head", "An arm" ],
+        "correctAnswer": "A foot"
+    },
+    {
+        "question": "Unit 4: What is the action of looking with your eyes? / Hành động nhìn bằng mắt của bạn là gì?",
+        "options": [ "To see", "To hear", "To smell", "To touch" ],
+        "correctAnswer": "To see"
+    },
+    {
+        "question": "Unit 4: What is the action of listening with your ears? / Hành động lắng nghe bằng tai của bạn là gì?",
+        "options": [ "To hear", "To see", "To taste", "To touch" ],
+        "correctAnswer": "To hear"
+    },
+    {
+        "question": "Unit 4: What is the action of hitting your hands together? / Hành động đập hai bàn tay vào nhau là gì?",
+        "options": [ "To clap", "To stomp", "To wave", "To point" ],
+        "correctAnswer": "To clap"
+    },
+    {
+        "question": "Unit 4: My ____ are for walking. / ____ của tôi là để đi bộ.",
+        "options": [ "legs", "arms", "hands", "eyes" ],
+        "correctAnswer": "legs"
+    },
+    {
+        "question": "Unit 4: Spell the word for the part of your face you use to smell. / Đánh vần từ chỉ bộ phận trên khuôn mặt bạn dùng để ngửi.",
+        "options": [ "n-o-s-e", "e-y-e", "e-a-r", "m-o-u-t-h" ],
+        "correctAnswer": "n-o-s-e"
+    },
+    {
+        "question": "Unit 4: You have ten of these on your feet. What are they? / Bạn có mười cái này trên bàn chân. Chúng là gì?",
+        "options": [ "Toes", "Fingers", "Ankles", "Wrists" ],
+        "correctAnswer": "Toes"
+    },
+    {
+        "question": "Unit 4: What grows on your head? / Cái gì mọc trên đầu bạn?",
+        "options": [ "Hair", "Fingers", "Toes", "Grass" ],
+        "correctAnswer": "Hair"
+    },
+    {
+        "question": "Unit 5: This is an activity you do for fun in your free time. What is it? / Đây là một hoạt động bạn làm để giải trí trong thời gian rảnh. Nó là gì?",
+        "options": [ "A hobby", "A job", "Homework", "A chore" ],
+        "correctAnswer": "A hobby"
+    },
+    {
+        "question": "Unit 5: If you like to move your body to music, your hobby is ____. / Nếu bạn thích di chuyển cơ thể theo nhạc, sở thích của bạn là ____.",
+        "options": [ "dancing", "singing", "reading", "sleeping" ],
+        "correctAnswer": "dancing"
+    },
+    {
+        "question": "Unit 5: You use your voice to make music. What is this hobby? / Bạn dùng giọng của mình để tạo ra âm nhạc. Sở thích này là gì?",
+        "options": [ "Singing", "Drawing", "Swimming", "Cooking" ],
+        "correctAnswer": "Singing"
+    },
+    {
+        "question": "Unit 5: You use pencils and paper to create a picture. What is this hobby? / Bạn dùng bút chì và giấy để tạo ra một bức tranh. Sở thích này là gì?",
+        "options": [ "Drawing", "Dancing", "Singing", "Reading" ],
+        "correctAnswer": "Drawing"
+    },
+    {
+        "question": "Unit 5: This hobby is done in a pool or the sea. What is it? / Sở thích này được thực hiện ở hồ bơi hoặc biển. Nó là gì?",
+        "options": [ "Swimming", "Hiking", "Running", "Flying" ],
+        "correctAnswer": "Swimming"
+    },
+    {
+        "question": "Unit 5: What do you do with a storybook for a hobby? / Bạn làm gì với một cuốn truyện cho một sở thích?",
+        "options": [ "Read it", "Eat it", "Throw it", "Wear it" ],
+        "correctAnswer": "Read it"
+    },
+    {
+        "question": "Unit 5: If your hobby is cooking, you make ____ food. / Nếu sở thích của bạn là nấu ăn, bạn làm ra những món ăn ____.",
+        "options": [ "yummy", "bad", "sad", "old" ],
+        "correctAnswer": "yummy"
+    },
+    {
+        "question": "Unit 5: A person who sings is a ____. / Một người hát là một ____.",
+        "options": [ "singer", "dancer", "painter", "writer" ],
+        "correctAnswer": "singer"
+    },
+    {
+        "question": "Unit 5: A person who dances is a ____. / Một người nhảy múa là một ____.",
+        "options": [ "dancer", "singer", "swimmer", "cook" ],
+        "correctAnswer": "dancer"
+    },
+    {
+        "question": "Unit 5: What is the opposite of 'like'? / Từ trái nghĩa của 'like' là gì?",
+        "options": [ "Dislike", "Love", "Hate", "Enjoy" ],
+        "correctAnswer": "Dislike"
+    },
+    {
+        "question": "Unit 5: What do you need for swimming? / Bạn cần gì để bơi?",
+        "options": [ "A swimsuit and a pool", "A book and a chair", "A pencil and paper", "A ball and a field" ],
+        "correctAnswer": "A swimsuit and a pool"
+    },
+    {
+        "question": "Unit 5: What do you need for drawing? / Bạn cần gì để vẽ?",
+        "options": [ "Crayons and paper", "A swimming pool", "A kitchen", "A microphone" ],
+        "correctAnswer": "Crayons and paper"
+    },
+    {
+        "question": "Unit 5: What is the opposite of 'fun'? / Từ trái nghĩa của 'fun' là gì?",
+        "options": [ "Boring", "Happy", "Exciting", "Good" ],
+        "correctAnswer": "Boring"
+    },
+    {
+        "question": "Unit 5: What do you call a person who reads a lot? / Bạn gọi một người đọc rất nhiều là gì?",
+        "options": [ "A reader", "A writer", "A singer", "A dancer" ],
+        "correctAnswer": "A reader"
+    },
+    {
+        "question": "Unit 5: A good hobby makes you feel ____. / Một sở thích tốt làm bạn cảm thấy ____.",
+        "options": [ "good", "bad", "sad", "tired" ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "Unit 6: This is a place where you can read many books. What is it? / Đây là một nơi mà bạn có thể đọc rất nhiều sách. Nó là gì?",
+        "options": [ "A library", "A gym", "A computer room", "A canteen" ],
+        "correctAnswer": "A library"
+    },
+    {
+        "question": "Unit 6: This is a large room where you can play sports. What is it? / Đây là một căn phòng lớn nơi bạn có thể chơi thể thao. Nó là gì?",
+        "options": [ "A gym", "A classroom", "A library", "A music room" ],
+        "correctAnswer": "A gym"
+    },
+    {
+        "question": "Unit 6: This is a place outside where you can play. What is it? / Đây là một nơi bên ngoài, nơi bạn có thể chơi.",
+        "options": [ "A playground", "A computer room", "An art room", "A staff room" ],
+        "correctAnswer": "A playground"
+    },
+    {
+        "question": "Unit 6: This is a room with many computers. What is it? / Đây là một căn phòng có nhiều máy tính.",
+        "options": [ "A computer room", "A music room", "A gym", "A library" ],
+        "correctAnswer": "A computer room"
+    },
+    {
+        "question": "Unit 6: What do you do in the gym? / Bạn làm gì trong phòng thể dục?",
+        "options": [ "Play sports", "Read books", "Use a computer", "Paint a picture" ],
+        "correctAnswer": "Play sports"
+    },
+    {
+        "question": "Unit 6: Is your school new or ____? / Trường của bạn mới hay ____?",
+        "options": [ "old", "big", "clean", "happy" ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "Unit 6: The playground is ____ during break time. / Sân chơi ____ trong giờ giải lao.",
+        "options": [ "noisy", "quiet", "empty", "sad" ],
+        "correctAnswer": "noisy"
+    },
+    {
+        "question": "Unit 6: The library is a very ____ place. / Thư viện là một nơi rất ____.",
+        "options": [ "quiet", "noisy", "busy", "small" ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "Unit 6: What do you call the head of the school? / Bạn gọi người đứng đầu trường học là gì?",
+        "options": [ "The principal", "The teacher", "The student", "The librarian" ],
+        "correctAnswer": "The principal"
+    },
+    {
+        "question": "Unit 6: What do you call the room where you learn to sing? / Bạn gọi căn phòng nơi bạn học hát là gì?",
+        "options": [ "A music room", "An art room", "A computer room", "A gym" ],
+        "correctAnswer": "A music room"
+    },
+    {
+        "question": "Unit 6: What do you call the room where you learn to paint? / Bạn gọi căn phòng nơi bạn học vẽ là gì?",
+        "options": [ "An art room", "A music room", "A classroom", "A library" ],
+        "correctAnswer": "An art room"
+    },
+    {
+        "question": "Unit 6: What is the opposite of 'noisy'? / Từ trái nghĩa của 'noisy' là gì?",
+        "options": [ "Quiet", "Loud", "Big", "Small" ],
+        "correctAnswer": "Quiet"
+    },
+    {
+        "question": "Unit 6: A good student is never ____ in the library. / Một học sinh giỏi không bao giờ ____ trong thư viện.",
+        "options": [ "noisy", "quiet", "happy", "sad" ],
+        "correctAnswer": "noisy"
+    },
+    {
+        "question": "Unit 6: What do you call the bell that signals the start of a class? / Bạn gọi tiếng chuông báo hiệu bắt đầu một tiết học là gì?",
+        "options": [ "A school bell", "A doorbell", "A bicycle bell", "A fire alarm" ],
+        "correctAnswer": "A school bell"
+    },
+    {
+        "question": "Unit 6: My school has a ____ garden. / Trường tôi có một khu vườn ____.",
+        "options": [ "beautiful", "ugly", "sad", "old" ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Unit 7: When the teacher wants you to look at your book, she says: '____ your book.' / Khi giáo viên muốn bạn nhìn vào sách, cô ấy nói: '____ sách của bạn.'",
+        "options": [ "Open", "Close", "Read", "Write" ],
+        "correctAnswer": "Open"
+    },
+    {
+        "question": "Unit 7: When the lesson is finished, the teacher says: '____ your books.' / Khi tiết học kết thúc, giáo viên nói: '____ sách của các em lại.'",
+        "options": [ "Close", "Open", "Drop", "Take" ],
+        "correctAnswer": "Close"
+    },
+    {
+        "question": "Unit 7: If you are standing, the teacher might ask you to '____ down.' / Nếu bạn đang đứng, giáo viên có thể yêu cầu bạn '____ xuống.'",
+        "options": [ "Sit", "Stand", "Jump", "Run" ],
+        "correctAnswer": "Sit"
+    },
+    {
+        "question": "Unit 7: If you are sitting, the teacher might ask you to '____ up.' / Nếu bạn đang ngồi, giáo viên có thể yêu cầu bạn '____ dậy.'",
+        "options": [ "Stand", "Sit", "Look", "Listen" ],
+        "correctAnswer": "Stand"
+    },
+    {
+        "question": "Unit 7: If the class is too noisy, the teacher will say: 'Be ____.' / Nếu lớp học quá ồn ào, giáo viên sẽ nói: 'Hãy ____.'",
+        "options": [ "quiet", "loud", "happy", "sad" ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "Unit 7: If you want to enter the classroom, you should ask: 'May I ____ in?' / Nếu bạn muốn vào lớp, bạn nên hỏi: 'Em có thể ____ vào không ạ?'",
+        "options": [ "come", "go", "sit", "stand" ],
+        "correctAnswer": "come"
+    },
+    {
+        "question": "Unit 7: If you want to leave the classroom, you should ask: 'May I ____ out?' / Nếu bạn muốn rời khỏi lớp học, bạn nên hỏi: 'Em có thể ____ ngoài không ạ?'",
+        "options": [ "go", "come", "look", "listen" ],
+        "correctAnswer": "go"
+    },
+    {
+        "question": "Unit 7: When the teacher is explaining, you should ____ carefully. / Khi giáo viên đang giải thích, bạn nên ____ cẩn thận.",
+        "options": [ "listen", "talk", "play", "sleep" ],
+        "correctAnswer": "listen"
+    },
+    {
+        "question": "Unit 7: If you have a question, you should raise your ____. / Nếu bạn có câu hỏi, bạn nên giơ ____ của mình lên.",
+        "options": [ "hand", "book", "voice", "foot" ],
+        "correctAnswer": "hand"
+    },
+    {
+        "question": "Unit 7: What should you NOT do when another student is speaking? / Bạn KHÔNG nên làm gì khi một học sinh khác đang nói?",
+        "options": [ "Talk", "Listen", "Look", "Wait" ],
+        "correctAnswer": "Talk"
+    },
+    {
+        "question": "Unit 7: The teacher says 'Don't talk'. This means you must be ____. / Giáo viên nói 'Don't talk'. Điều này có nghĩa là bạn phải ____.",
+        "options": [ "quiet", "loud", "happy", "sad" ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "Unit 7: What do you do with a storybook? / Bạn làm gì với một cuốn truyện?",
+        "options": [ "Read it", "Write it", "Draw it", "Listen to it" ],
+        "correctAnswer": "Read it"
+    },
+    {
+        "question": "Unit 7: When the teacher asks a question, she wants you to ____. / Khi giáo viên đặt câu hỏi, cô ấy muốn bạn ____.",
+        "options": [ "answer", "ask", "talk", "play" ],
+        "correctAnswer": "answer"
+    },
+    {
+        "question": "Unit 7: A polite word you should always use is ____. / Một từ lịch sự bạn nên luôn luôn sử dụng là ____.",
+        "options": [ "please", "no", "what", "bad" ],
+        "correctAnswer": "please"
+    },
+    {
+        "question": "Unit 7: 'Stand up' is a ____. / 'Stand up' là một ____.",
+        "options": [ "command", "question", "answer", "story" ],
+        "correctAnswer": "command"
+    },
+    {
+        "question": "Unit 8: This is something you use to write with ink. What is it? / Đây là thứ bạn dùng để viết bằng mực. Nó là gì?",
+        "options": [ "A pen", "A pencil", "A ruler", "An eraser" ],
+        "correctAnswer": "A pen"
+    },
+    {
+        "question": "Unit 8: You use this long, flat tool to draw straight lines. What is it? / Bạn dùng dụng cụ dài, dẹt này để vẽ các đường thẳng. Nó là gì?",
+        "options": [ "A ruler", "An eraser", "A pencil case", "A notebook" ],
+        "correctAnswer": "A ruler"
+    },
+    {
+        "question": "Unit 8: You use this to fix your mistakes when you write with a pencil. What is it? / Bạn dùng cái này để sửa lỗi khi viết bằng bút chì. Nó là gì?",
+        "options": [ "An eraser", "A ruler", "A pencil", "A pen" ],
+        "correctAnswer": "An eraser"
+    },
+    {
+        "question": "Unit 8: This has many pages with stories and pictures that you read. What is it? / Cái này có nhiều trang với những câu chuyện và hình ảnh mà bạn đọc. Nó là gì?",
+        "options": [ "A book", "A look", "A cook", "A hook" ],
+        "correctAnswer": "A book"
+    },
+    {
+        "question": "Unit 8: You carry your books and pencils to school in this. What is it? / Bạn mang sách và bút chì đến trường trong cái này. Nó là gì?",
+        "options": [ "A school bag", "A pencil case", "A notebook", "A box" ],
+        "correctAnswer": "A school bag"
+    },
+    {
+        "question": "Unit 8: You put your pens and pencils inside this small bag. What is it? / Bạn để bút mực và bút chì vào trong chiếc túi nhỏ này. Nó là gì?",
+        "options": [ "A pencil case", "A school bag", "A book", "A notebook" ],
+        "correctAnswer": "A pencil case"
+    },
+    {
+        "question": "Unit 8: This is a book with empty pages for you to write in. What is it? / Đây là một cuốn sách có những trang trống để bạn viết vào. Nó là gì?",
+        "options": [ "A notebook", "A storybook", "A textbook", "A picture book" ],
+        "correctAnswer": "A notebook"
+    },
+    {
+        "question": "Unit 8: To ask if something belongs to your friend, you say: 'Is this ____ pencil?' / Để hỏi một thứ gì đó có phải của bạn mình không, bạn nói: 'Is this ____ pencil?'",
+        "options": [ "your", "my", "his", "our" ],
+        "correctAnswer": "your"
+    },
+    {
+        "question": "Unit 8: My pencil is ____, but my ruler is long. / Bút chì của tôi ____, nhưng cây thước của tôi thì dài.",
+        "options": [ "short", "long", "big", "small" ],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "Unit 8: My new pencil case is very ____. / Hộp bút mới của tôi rất ____.",
+        "options": [ "beautiful", "ugly", "sad", "old" ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Unit 8: What do you use to make a pencil sharp? / Bạn dùng gì để làm cho bút chì nhọn?",
+        "options": [ "A sharpener", "An eraser", "A ruler", "A pen" ],
+        "correctAnswer": "A sharpener"
+    },
+    {
+        "question": "Unit 8: What do you do with an eraser? / Bạn làm gì với một cục tẩy?",
+        "options": [ "Erase mistakes", "Write a story", "Draw a picture", "Read a book" ],
+        "correctAnswer": "Erase mistakes"
+    },
+    {
+        "question": "Unit 8: What color is your ruler? / Thước của bạn màu gì?",
+        "options": [ "It's blue.", "It's a ruler.", "It's long.", "I have a ruler." ],
+        "correctAnswer": "It's blue."
+    },
+    {
+        "question": "Unit 8: What do you call the things you use at school? / Bạn gọi những thứ bạn sử dụng ở trường là gì?",
+        "options": [ "School things", "Toys", "Pets", "Food" ],
+        "correctAnswer": "School things"
+    },
+    {
+        "question": "Unit 8: It is ____ to lose your school things. / Thật ____ khi làm mất đồ dùng học tập của bạn.",
+        "options": [ "bad", "good", "nice", "fun" ],
+        "correctAnswer": "bad"
+    }
 ]
-
