@@ -1,483 +1,522 @@
 [
-  {
-    "question": "What is this? The teacher writes on it with chalk. / Đây là gì? Cô giáo viết lên nó bằng phấn.",
-    "options": ["A board", "A poster", "A picture", "A map"],
-    "correctAnswer": "A board"
-  },
-  {
-    "question": "This is a ____. It has pictures and words on it. / Đây là một ____. Nó có hình ảnh và chữ viết trên đó.",
-    "options": ["poster", "board", "map", "computer"],
-    "correctAnswer": "poster"
-  },
-  {
-    "question": "You can see a beautiful ____ on the wall. / Bạn có thể thấy một ____ đẹp trên tường.",
-    "options": ["picture", "board", "poster", "map"],
-    "correctAnswer": "picture"
-  },
-  {
-    "question": "This is a ____. It shows countries and seas. / Đây là một ____. Nó cho thấy các quốc gia và biển.",
-    "options": ["map", "board", "poster", "picture"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Spell the word: b-o-a-r-d / Đánh vần từ: b-o-a-r-d",
-    "options": ["board", "beard", "bird", "boat"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "This is a ____. You can use it to learn and play games. / Đây là một ____. Bạn có thể dùng nó để học và chơi trò chơi.",
-    "options": ["computer", "board", "map", "poster"],
-    "correctAnswer": "computer"
-  },
-  {
-    "question": "I can see a big ____ in the classroom. / Tôi có thể thấy một ____ lớn trong lớp học.",
-    "options": ["board", "bed", "sofa", "table"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "Find the word: p-i-c-t-u-r-e / Tìm từ: p-i-c-t-u-r-e",
-    "options": ["picture", "pitcher", "pickle", "picnic"],
-    "correctAnswer": "picture"
-  },
-  {
-    "question": "Is this a map? / Đây có phải là một bản đồ không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a poster.", "I have a computer."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a colourful ____. / Đây là một ____ đầy màu sắc.",
-    "options": ["poster", "board", "map", "computer"],
-    "correctAnswer": "poster"
-  },
-  {
-    "question": "What can you do in the classroom? / Bạn có thể làm gì trong lớp học?",
-    "options": ["I can learn.", "I can swim.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can learn."
-  },
-  {
-    "question": "Look at the ____, please. / Vui lòng nhìn lên ____.",
-    "options": ["board", "floor", "ceiling", "door"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "What is the missing letter? ma_ / Chữ cái còn thiếu là gì? ma_",
-    "options": ["p", "t", "n", "d"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "This is our ____. It's big and bright. / Đây là ____ của chúng tôi. Nó to và sáng sủa.",
-    "options": ["classroom", "backyard", "kitchen", "bedroom"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "My teacher has a ____. / Cô giáo của tôi có một ____.",
-    "options": ["computer", "car", "bike", "pet"],
-    "correctAnswer": "computer"
-  },
-  {
-    "question": "Let's hang the ____ on the wall. / Hãy treo ____ lên tường.",
-    "options": ["picture", "board", "computer", "desk"],
-    "correctAnswer": "picture"
-  },
-  {
-    "question": "Spell the word: m-a-p / Đánh vần từ: m-a-p",
-    "options": ["map", "mat", "man", "mop"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Is this a big poster? / Đây có phải là một tấm áp phích lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a picture.", "I can see a board."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am sitting at my ____. / Tôi đang ngồi tại ____ của tôi.",
-    "options": ["desk", "board", "map", "poster"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "What is the missing letter? _oard / Chữ cái còn thiếu là gì? _oard",
-    "options": ["b", "h", "c", "d"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "These are our ____. / Đây là những ____ của chúng tôi.",
-    "options": ["desks", "beds", "sofas", "tables"],
-    "correctAnswer": "desks"
-  },
-  {
-    "question": "How many computers are there? / Có bao nhiêu máy tính?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["pencil case", "book", "bag", "chair"],
-    "correctAnswer": "pencil case"
-  },
-  {
-    "question": "Spell the word: p-o-s-t-e-r / Đánh vần từ: p-o-s-t-e-r",
-    "options": ["poster", "postman", "postcard", "potato"],
-    "correctAnswer": "poster"
-  },
-  {
-    "question": "Is it a world map? / Nó có phải là bản đồ thế giới không?",
-    "options": ["Yes, it is.", "No, it is a country map.", "It is a classroom.", "I can see a poster."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ of Vietnam. / Chúng ta có thể thấy một ____ của Việt Nam.",
-    "options": ["map", "picture", "poster", "board"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "What is the missing letter? pictu_e / Chữ cái còn thiếu là gì? pictu_e",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A computer", "A television", "A radio", "A phone"],
-    "correctAnswer": "A computer"
-  },
-  {
-    "question": "This is a ____. I put my pencils in it. / Đây là một ____. Tôi để bút chì vào trong đó.",
-    "options": ["pencil case", "bag", "box", "desk"],
-    "correctAnswer": "pencil case"
-  },
-  {
-    "question": "This is ____. It's where we learn. / Đây là ____. Đó là nơi chúng ta học.",
-    "options": ["the classroom", "the playground", "the library", "the gym"],
-    "correctAnswer": "the classroom"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A picture", "A photo", "A drawing", "A painting"],
-    "correctAnswer": "A picture"
-  },
-  {
-    "question": "Find the word: c-o-m-p-u-t-e-r / Tìm từ: c-o-m-p-u-t-e-r",
-    "options": ["computer", "commuter", "compete", "complete"],
-    "correctAnswer": "computer"
-  },
-  {
-    "question": "Is it a clean classroom? / Nó có phải là một lớp học sạch sẽ không?",
-    "options": ["Yes, it is.", "No, it is dirty.", "I am in the classroom.", "I like my classroom."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is new. / ____ của tôi mới.",
-    "options": ["pencil case", "board", "map", "poster"],
-    "correctAnswer": "pencil case"
-  },
-  {
-    "question": "What is the missing letter? compute_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["classroom", "book", "lesson", "game"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Spell the word: c-l-a-s-s-r-o-o-m / Đánh vần từ: c-l-a-s-s-r-o-o-m",
-    "options": ["classroom", "classmate", "classwork", "classic"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Is this a picture of a cat? / Đây có phải là một bức tranh về một con mèo không?",
-    "options": ["Yes, it is.", "No, it is a dog.", "I can see a picture.", "I like pictures."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The classroom has a big ____. / Lớp học có một ____ lớn.",
-    "options": ["window", "door", "wall", "floor"],
-    "correctAnswer": "window"
-  },
-  {
-    "question": "What is the missing letter? _oster / Chữ cái còn thiếu là gì? _oster",
-    "options": ["p", "b", "t", "r"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A map", "A globe", "A poster", "A picture"],
-    "correctAnswer": "A map"
-  },
-  {
-    "question": "My ____ is on the desk. / ____ của tôi ở trên bàn.",
-    "options": ["notebook", "computer", "map", "poster"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "Is the board green? / Cái bảng có màu xanh không?",
-    "options": ["Yes, it is.", "No, it is white.", "It is a board.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a map and some ____. / Tôi có thể thấy một bản đồ và một vài ____.",
-    "options": ["pictures", "houses", "cars", "books"],
-    "correctAnswer": "pictures"
-  },
-  {
-    "question": "Find the word: n-o-t-e-b-o-o-k / Tìm từ: n-o-t-e-b-o-o-k",
-    "options": ["notebook", "note", "book", "nothing"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "This is my ____. I write in it. / Đây là ____ của tôi. Tôi viết vào trong đó.",
-    "options": ["notebook", "pencil case", "bag", "desk"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "What is the missing letter? noteboo_",
-    "options": ["k", "p", "t", "d"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "Is it a colourful poster? / Nó có phải là một tấm áp phích đầy màu sắc không?",
-    "options": ["Yes, it is.", "No, it is black and white.", "I like posters.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is interesting. / ____ của tôi rất thú vị.",
-    "options": ["lesson", "homework", "class", "test"],
-    "correctAnswer": "lesson"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A globe", "A map", "A ball", "A circle"],
-    "correctAnswer": "A globe"
-  },
-  {
-    "question": "How many posters are on the wall? / Có bao nhiêu tấm áp phích trên tường?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "A classroom is in a ____. / Một lớp học ở trong một ____.",
-    "options": ["school", "house", "shop", "park"],
-    "correctAnswer": "school"
-  },
-  {
-    "question": "I see ____ teacher in the classroom. / Tôi thấy ____ cô giáo trong lớp học.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the board? / Cái bảng màu gì?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "What colour is the desk? / Cái bàn màu gì?",
-    "options": ["Brown", "White", "Black", "Pink"],
-    "correctAnswer": "Brown"
-  },
-  {
-    "question": "The computer is ____. / Máy tính thì ____.",
-    "options": ["new", "old", "small", "thin"],
-    "correctAnswer": "new"
-  },
-  {
-    "question": "The pictures are ____. / Những bức tranh thì ____.",
-    "options": ["beautiful", "ugly", "sad", "bad"],
-    "correctAnswer": "beautiful"
-  },
-  {
-    "question": "Is your classroom big? / Lớp học của bạn có lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My classroom is ____. / Lớp học của tôi thì ____.",
-    "options": ["bright", "dark", "noisy", "crowded"],
-    "correctAnswer": "bright"
-  },
-  {
-    "question": "What is the missing letter? bri_ht / Chữ cái còn thiếu là gì? bri_ht",
-    "options": ["g", "t", "d", "k"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "This is the ____. / Đây là ____.",
-    "options": ["board", "map", "poster", "picture"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["classroom", "dog", "cat", "bird"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Is the computer on? / Máy tính có đang bật không?",
-    "options": ["Yes, it is.", "No, it is off.", "It is a computer.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's learn in the ____. / Hãy học trong ____.",
-    "options": ["classroom", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Spell the word: l-e-a-r-n / Đánh vần từ: l-e-a-r-n",
-    "options": ["learn", "lean", "leaf", "lend"],
-    "correctAnswer": "learn"
-  },
-  {
-    "question": "I have ____ new notebook. / Tôi có ____ quyển vở mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite subject is ____. / Môn học yêu thích của tôi là ____.",
-    "options": ["English", "Maths", "Art", "Music"],
-    "correctAnswer": "English"
-  },
-  {
-    "question": "What is the missing letter? Engli_h / Chữ cái còn thiếu là gì? Engli_h",
-    "options": ["s", "a", "i", "o"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is a ____. It shows the whole world. / Đây là một ____. Nó cho thấy toàn bộ thế giới.",
-    "options": ["globe", "map", "picture", "poster"],
-    "correctAnswer": "globe"
-  },
-  {
-    "question": "We should keep our classroom ____. / Chúng ta nên giữ lớp học của mình ____.",
-    "options": ["clean", "dirty", "messy", "all are wrong"],
-    "correctAnswer": "clean"
-  },
-  {
-    "question": "Is it a wooden desk? / Nó có phải là một cái bàn gỗ không?",
-    "options": ["Yes, it is.", "No, it is plastic.", "I like desks.", "The desk is big."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: c-h-a-i-r / Đánh vần từ: c-h-a-i-r",
-    "options": ["chair", "hair", "pair", "fair"],
-    "correctAnswer": "chair"
-  },
-  {
-    "question": "I help my teacher clean the ____. / Tôi giúp cô giáo lau ____.",
-    "options": ["board", "desk", "chair", "floor"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "The map is on the ____. / Bản đồ ở trên ____.",
-    "options": ["wall", "floor", "ceiling", "door"],
-    "correctAnswer": "wall"
-  },
-  {
-    "question": "What is the missing letter? wa_l / Chữ cái còn thiếu là gì? wa_l",
-    "options": ["l", "p", "t", "d"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A crayon", "A pencil", "A pen", "A marker"],
-    "correctAnswer": "A crayon"
-  },
-  {
-    "question": "My ____ is full of books. / ____ của tôi đầy sách.",
-    "options": ["bookshelf", "desk", "bag", "box"],
-    "correctAnswer": "bookshelf"
-  },
-  {
-    "question": "Is it a picture of a flower? / Nó có phải là một bức tranh về một bông hoa không?",
-    "options": ["Yes, it is.", "No, it is a tree.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to draw ____. / Bạn tôi thích vẽ ____.",
-    "options": ["pictures", "maps", "posters", "boards"],
-    "correctAnswer": "pictures"
-  },
-  {
-    "question": "Spell the word: d-r-a-w / Đánh vần từ: d-r-a-w",
-    "options": ["draw", "dream", "drink", "drive"],
-    "correctAnswer": "draw"
-  },
-  {
-    "question": "This is a ____ day at school. / Đây là một ngày ____ ở trường.",
-    "options": ["happy", "rainy", "cloudy", "windy"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? _appy / Chữ cái còn thiếu là gì? _appy",
-    "options": ["h", "p", "s", "m"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A clock", "A watch", "A calendar", "A timer"],
-    "correctAnswer": "A clock"
-  },
-  {
-    "question": "My teacher is pointing to the ____. / Cô giáo của tôi đang chỉ vào ____.",
-    "options": ["map", "board", "poster", "picture"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Are the students listening? / Các bạn học sinh có đang lắng nghe không?",
-    "options": ["Yes, they are.", "No, they are talking.", "They are students.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My classroom has many ____. / Lớp học của tôi có nhiều ____.",
-    "options": ["students", "teachers", "parents", "doctors"],
-    "correctAnswer": "students"
-  },
-  {
-    "question": "Spell the word: s-t-u-d-e-n-t / Đánh vần từ: s-t-u-d-e-n-t",
-    "options": ["student", "study", "student's", "studied"],
-    "correctAnswer": "student"
-  },
-  {
-    "question": "I am ____ in my classroom. / Tôi ____ trong lớp học của mình.",
-    "options": ["learning", "playing", "sleeping", "eating"],
-    "correctAnswer": "learning"
-  },
-  {
-    "question": "What is the missing letter? pict_re / Chữ cái còn thiếu là gì? pict_re",
-    "options": ["u", "a", "i", "o"],
-    "correctAnswer": "u"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bookshelf", "A wardrobe", "A cupboard", "A drawer"],
-    "correctAnswer": "A bookshelf"
-  },
-  {
-    "question": "My classroom is my second ____. / Lớp học là ____ thứ hai của tôi.",
-    "options": ["home", "school", "playground", "park"],
-    "correctAnswer": "home"
-  },
-  {
-    "question": "Is the poster about animals? / Tấm áp phích có phải về động vật không?",
-    "options": ["Yes, it is.", "No, it is about flowers.", "It is a poster.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The globe is ____. / Quả địa cầu thì ____.",
-    "options": ["round", "square", "flat", "long"],
-    "correctAnswer": "round"
-  },
-  {
-    "question": "Spell the word: g-l-o-b-e / Đánh vần từ: g-l-o-b-e",
-    "options": ["globe", "glow", "glove", "glob"],
-    "correctAnswer": "globe"
-  },
-  {
-    "question": "We listen to the ____. / Chúng tôi lắng nghe ____.",
-    "options": ["teacher", "music", "birds", "cars"],
-    "correctAnswer": "teacher"
-  },
-  {
-    "question": "What is the missing letter? teache_",
-    "options": ["r", "s", "t", "p"],
-    "correctAnswer": "r"
-  }
+    {
+        "question": "This is a room in a school where a teacher teaches students. What is it? / Đây là một căn phòng trong trường học nơi giáo viên dạy học sinh. Nó là gì?",
+        "options": [
+            "A classroom",
+            "A kitchen",
+            "A bedroom",
+            "A park"
+        ],
+        "correctAnswer": "A classroom"
+    },
+    {
+        "question": "You sit on this piece of furniture in the classroom. What is it? / Bạn ngồi trên món đồ nội thất này trong lớp học. Nó là gì?",
+        "options": [
+            "A chair",
+            "A desk",
+            "A bed",
+            "A sofa"
+        ],
+        "correctAnswer": "A chair"
+    },
+    {
+        "question": "You put your books on this and do your work at it. What is it? / Bạn đặt sách lên đây và làm việc trên đó. Nó là gì?",
+        "options": [
+            "A desk",
+            "A chair",
+            "A board",
+            "A door"
+        ],
+        "correctAnswer": "A desk"
+    },
+    {
+        "question": "The teacher writes on this large white or green surface. What is it? / Giáo viên viết trên bề mặt lớn màu trắng hoặc xanh này. Nó là gì?",
+        "options": [
+            "A board",
+            "A table",
+            "A window",
+            "A picture"
+        ],
+        "correctAnswer": "A board"
+    },
+    {
+        "question": "You use this to write, and you can erase the marks. What is it? / Bạn dùng cái này để viết, và bạn có thể tẩy vết của nó. Nó là gì?",
+        "options": [
+            "A pencil",
+            "A pen",
+            "A marker",
+            "A crayon"
+        ],
+        "correctAnswer": "A pencil"
+    },
+    {
+        "question": "You use this to write with ink, and you cannot erase it easily. What is it? / Bạn dùng cái này để viết bằng mực, và bạn không thể tẩy nó dễ dàng. Nó là gì?",
+        "options": [
+            "A pen",
+            "A pencil",
+            "An eraser",
+            "A ruler"
+        ],
+        "correctAnswer": "A pen"
+    },
+    {
+        "question": "This has many pages with stories and information that you read. What is it? / Cái này có nhiều trang với những câu chuyện và thông tin mà bạn đọc. Nó là gì?",
+        "options": [
+            "A book",
+            "A pen",
+            "A chair",
+            "A board"
+        ],
+        "correctAnswer": "A book"
+    },
+    {
+        "question": "You write your notes and do exercises in this. What is it? / Bạn viết ghi chú và làm bài tập trong cái này. Nó là gì?",
+        "options": [
+            "A notebook",
+            "A storybook",
+            "A picture",
+            "A board"
+        ],
+        "correctAnswer": "A notebook"
+    },
+    {
+        "question": "You use this to fix mistakes made with a pencil. What is it? / Bạn dùng cái này để sửa lỗi khi viết bằng bút chì. Nó là gì?",
+        "options": [
+            "An eraser",
+            "A sharpener",
+            "A ruler",
+            "A pen"
+        ],
+        "correctAnswer": "An eraser"
+    },
+    {
+        "question": "You use this to draw straight lines or measure things. What is it? / Bạn dùng cái này để vẽ đường thẳng hoặc đo mọi thứ. Nó là gì?",
+        "options": [
+            "A ruler",
+            "An eraser",
+            "A pencil",
+            "A book"
+        ],
+        "correctAnswer": "A ruler"
+    },
+    {
+        "question": "A person who teaches you at school is your ____. / Một người dạy bạn ở trường là ____ của bạn.",
+        "options": [
+            "teacher",
+            "student",
+            "doctor",
+            "parent"
+        ],
+        "correctAnswer": "teacher"
+    },
+    {
+        "question": "A person who learns at school is a ____. / Một người học ở trường là một ____.",
+        "options": [
+            "student",
+            "teacher",
+t-e-a-c-h-e-r",
+            "friend"
+        ],
+        "correctAnswer": "student"
+    },
+    {
+        "question": "What do you do with a book? / Bạn làm gì với một cuốn sách?",
+        "options": [
+            "Read",
+            "Eat",
+            "Throw",
+            "Wear"
+        ],
+        "correctAnswer": "Read"
+    },
+    {
+        "question": "What do you do with a pencil? / Bạn làm gì với một cây bút chì?",
+        "options": [
+            "Write or draw",
+            "Listen",
+            "Sing",
+            "Run"
+        ],
+        "correctAnswer": "Write or draw"
+    },
+    {
+        "question": "What should you do when the teacher is speaking? / Bạn nên làm gì khi giáo viên đang nói?",
+        "options": [
+            "Listen",
+            "Talk",
+            "Sleep",
+            "Play"
+        ],
+        "correctAnswer": "Listen"
+    },
+    {
+        "question": "Spell the word for the room where you learn. / Đánh vần từ chỉ căn phòng nơi bạn học.",
+        "options": [
+            "c-l-a-s-s-r-o-o-m",
+            "p-l-a-y-g-r-o-u-n-d",
+            "k-i-t-c-h-e-n",
+            "g-a-r-d-e-n"
+        ],
+        "correctAnswer": "c-l-a-s-s-r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'open'? / Từ trái nghĩa của 'open' là gì?",
+        "options": [
+            "Close",
+            "In",
+            "Start",
+            "Big"
+        ],
+        "correctAnswer": "Close"
+    },
+    {
+        "question": "The teacher says, '____ your books to page 10.' / Cô giáo nói, 'Hãy ____ sách của các em ra trang 10.'",
+        "options": [
+            "Open",
+            "Close",
+            "Read",
+            "Write"
+        ],
+        "correctAnswer": "Open"
+    },
+    {
+        "question": "What is the opposite of 'sit'? / Từ trái nghĩa của 'sit' là gì?",
+        "options": [
+            "Stand",
+            "Run",
+            "Walk",
+            "Jump"
+        ],
+        "correctAnswer": "Stand"
+    },
+    {
+        "question": "When the lesson is over, you can ____ up. / Khi tiết học kết thúc, bạn có thể ____ dậy.",
+        "options": [
+            "stand",
+            "sit",
+            "sleep",
+            "play"
+        ],
+        "correctAnswer": "stand"
+    },
+    {
+        "question": "Spell the word for something you read. / Đánh vần từ chỉ một thứ bạn đọc.",
+        "options": [
+            "b-o-o-k",
+            "p-e-n",
+            "d-e-s-k",
+            "c-h-a-i-r"
+        ],
+        "correctAnswer": "b-o-o-k"
+    },
+    {
+        "question": "You carry your school supplies in a ____. / Bạn mang đồ dùng học tập của mình trong một ____.",
+        "options": [
+            "school bag",
+            "lunch box",
+            "hat",
+            "shoe"
+        ],
+        "correctAnswer": "school bag"
+    },
+    {
+        "question": "What is the opposite of 'teacher'? / Từ trái nghĩa của 'teacher' là gì?",
+        "options": [
+            "Student",
+            "Doctor",
+            "Parent",
+            "Friend"
+        ],
+        "correctAnswer": "Student"
+    },
+    {
+        "question": "What do you do if you want to ask a question? / Bạn làm gì nếu muốn đặt câu hỏi?",
+        "options": [
+            "Raise your hand",
+            "Shout loudly",
+            "Cry",
+            "Leave the room"
+        ],
+        "correctAnswer": "Raise your hand"
+    },
+    {
+        "question": "What is the opposite of 'ask'? / Từ trái nghĩa của 'ask' là gì?",
+        "options": [
+            "Answer",
+            "Tell",
+            "Say",
+            "Listen"
+        ],
+        "correctAnswer": "Answer"
+    },
+    {
+        "question": "Spell the word for what you use to write with ink. / Đánh vần từ chỉ thứ bạn dùng để viết bằng mực.",
+        "options": [
+            "p-e-n",
+            "b-o-o-k",
+            "i-n-k",
+            "p-a-p-e-r"
+        ],
+        "correctAnswer": "p-e-n"
+    },
+    {
+        "question": "A classroom is usually ____ during a lesson. / Một lớp học thường ____ trong giờ học.",
+        "options": [
+            "quiet",
+            "noisy",
+            "empty",
+            "dark"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What is the opposite of 'right' (correct)? / Từ trái nghĩa của 'right' là gì? (đúng)",
+        "options": [
+            "Wrong",
+            "Left",
+            "Good",
+            "Bad"
+        ],
+        "correctAnswer": "Wrong"
+    },
+    {
+        "question": "You use a ____ to make your pencil sharp. / Bạn dùng ____ để làm cho bút chì của mình nhọn.",
+        "options": [
+            "sharpener",
+            "eraser",
+            "ruler",
+            "pen"
+        ],
+        "correctAnswer": "sharpener"
+    },
+    {
+        "question": "Spell the word for what you write on. / Đánh vần từ chỉ thứ bạn viết lên.",
+        "options": [
+            "p-a-p-e-r",
+            "b-o-a-r-d",
+            "d-e-s-k",
+            "w-a-l-l"
+        ],
+        "correctAnswer": "p-a-p-e-r"
+    },
+    {
+        "question": "A classroom is part of a ____. / Lớp học là một phần của ____.",
+        "options": [
+            "school",
+            "house",
+            "shop",
+            "park"
+        ],
+        "correctAnswer": "school"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "Big"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "You can learn about numbers in ____ class. / Bạn có thể học về các con số trong lớp ____.",
+        "options": [
+            "Maths",
+            "Art",
+            "Music",
+            "English"
+        ],
+        "correctAnswer": "Maths"
+    },
+    {
+        "question": "You can learn to draw and paint in ____ class. / Bạn có thể học vẽ và tô màu trong lớp ____.",
+        "options": [
+            "Art",
+            "Maths",
+            "Science",
+            "History"
+        ],
+        "correctAnswer": "Art"
+    },
+    {
+        "question": "You can learn to sing and play instruments in ____ class. / Bạn có thể học hát và chơi nhạc cụ trong lớp ____.",
+        "options": [
+            "Music",
+            "Art",
+            "Maths",
+            "P.E."
+        ],
+        "correctAnswer": "Music"
+    },
+    {
+        "question": "Spell the word for a long tool to measure things. / Đánh vần từ chỉ một dụng cụ dài để đo mọi thứ.",
+        "options": [
+            "r-u-l-e-r",
+            "p-e-n-c-i-l",
+            "e-r-a-s-e-r",
+            "s-t-i-c-k"
+        ],
+        "correctAnswer": "r-u-l-e-r"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A classroom should be a ____ and tidy place. / Một lớp học nên là một nơi ____ và gọn gàng.",
+        "options": [
+            "clean",
+            "dirty",
+            "messy",
+            "ugly"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "What do you call the people in your class? / Bạn gọi những người trong lớp của bạn là gì?",
+        "options": [
+            "Classmates",
+            "Teachers",
+            "Parents",
+            "Doctors"
+        ],
+        "correctAnswer": "Classmates"
+    },
+    {
+        "question": "Spell the word for the person who learns. / Đánh vần từ chỉ người học.",
+        "options": [
+            "s-t-u-d-e-n-t",
+            "t-e-a-c-h-e-r",
+            "p-u-p-i-l",
+            "p-e-r-s-o-n"
+        ],
+        "correctAnswer": "s-t-u-d-e-n-t"
+    },
+    {
+        "question": "What is the opposite of 'easy'? / Từ trái nghĩa của 'easy' là gì?",
+        "options": [
+            "Difficult",
+            "Simple",
+            "Hard",
+            "Soft"
+        ],
+        "correctAnswer": "Difficult"
+    },
+    {
+        "question": "The Maths test was not easy, it was ____. / Bài kiểm tra Toán không dễ, nó ____.",
+        "options": [
+            "difficult",
+            "easy",
+            "fun",
+            "short"
+        ],
+        "correctAnswer": "difficult"
+    },
+    {
+        "question": "You use a ____ to see websites and play games. / Bạn dùng ____ để xem trang web và chơi game.",
+        "options": [
+            "computer",
+            "book",
+            "board",
+            "pen"
+        ],
+        "correctAnswer": "computer"
+    },
+    {
+        "question": "Spell the word for where you write your notes. / Đánh vần từ chỉ nơi bạn viết ghi chú.",
+        "options": [
+            "n-o-t-e-b-o-o-k",
+            "s-t-o-r-y-b-o-o-k",
+            "p-a-p-e-r",
+            "b-o-a-r-d"
+        ],
+        "correctAnswer": "n-o-t-e-b-o-o-k"
+    },
+    {
+        "question": "What is the opposite of 'boring'? / Từ trái nghĩa của 'boring' là gì?",
+        "options": [
+            "Interesting",
+            "Fun",
+            "Exciting",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "Learning about new things is ____. / Học về những điều mới thì ____.",
+        "options": [
+            "interesting",
+            "boring",
+            "sad",
+            "difficult"
+        ],
+        "correctAnswer": "interesting"
+    },
+    {
+        "question": "What do you call the break between classes? / Bạn gọi giờ nghỉ giữa các tiết học là gì?",
+        "options": [
+            "Break time",
+            "Class time",
+            "Work time",
+            "Sleep time"
+        ],
+        "correctAnswer": "Break time"
+    },
+    {
+        "question": "Spell the word for the container for your pens and pencils. / Đánh vần từ chỉ hộp đựng bút mực và bút chì của bạn.",
+        "options": [
+            "p-e-n-c-i-l c-a-s-e",
+            "b-o-o-k-b-a-g",
+            "l-u-n-c-h-b-o-x",
+            "w-a-l-l-e-t"
+        ],
+        "correctAnswer": "p-e-n-c-i-l c-a-s-e"
+    },
+    {
+        "question": "What is the opposite of 'question'? / Từ trái nghĩa của 'question' là gì?",
+        "options": [
+            "Answer",
+            "Ask",
+            "Query",
+            "Problem"
+        ],
+        "correctAnswer": "Answer"
+    },
+    {
+        "question": "A good student tries to ____ all the questions. / Một học sinh giỏi cố gắng ____ tất cả các câu hỏi.",
+        "options": [
+            "answer",
+            "ask",
+            "ignore",
+            "forget"
+        ],
+        "correctAnswer": "answer"
+    },
+    {
+        "question": "What do you call the work the teacher gives you to do at home? / Bạn gọi công việc mà giáo viên giao cho bạn làm ở nhà là gì?",
+        "options": [
+            "Homework",
+            "Classwork",
+            "Playtime",
+            "Lunch"
+        ],
+        "correctAnswer": "Homework"
+    },
+    {
+        "question": "Spell the word for the bag you carry to school. / Đánh vần từ chỉ chiếc cặp bạn mang đến trường.",
+        "options": [
+            "b-a-g",
+            "b-o-x",
+            "c-a-p",
+            "b-i-n"
+        ],
+        "correctAnswer": "b-a-g"
+    }
 ]
-
