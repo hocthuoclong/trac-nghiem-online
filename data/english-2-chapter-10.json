@@ -1,483 +1,482 @@
 [
-  {
-    "question": "What is this place? You can see many animals here. / Đây là nơi nào? Bạn có thể thấy nhiều động vật ở đây.",
-    "options": ["A zoo", "A farm", "A park", "A school"],
-    "correctAnswer": "A zoo"
-  },
-  {
-    "question": "This is a ____. It's the king of the jungle. / Đây là một ____. Nó là vua của rừng rậm.",
-    "options": ["lion", "tiger", "monkey", "elephant"],
-    "correctAnswer": "lion"
-  },
-  {
-    "question": "You can see a ____. It has black and white stripes. / Bạn có thể thấy một ____. Nó có sọc đen và trắng.",
-    "options": ["zebra", "tiger", "lion", "monkey"],
-    "correctAnswer": "zebra"
-  },
-  {
-    "question": "This is a ____. It's very big and has a long trunk. / Đây là một ____. Nó rất to và có một cái vòi dài.",
-    "options": ["elephant", "lion", "tiger", "monkey"],
-    "correctAnswer": "elephant"
-  },
-  {
-    "question": "Spell the word: z-o-o / Đánh vần từ: z-o-o",
-    "options": ["zoo", "zip", "zen", "zero"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "This is a ____. It likes to climb trees and eat bananas. / Đây là một ____. Nó thích trèo cây và ăn chuối.",
-    "options": ["monkey", "lion", "tiger", "elephant"],
-    "correctAnswer": "monkey"
-  },
-  {
-    "question": "I can see a big ____ at the zoo. / Tôi có thể thấy một ____ lớn ở sở thú.",
-    "options": ["tiger", "cat", "dog", "pig"],
-    "correctAnswer": "tiger"
-  },
-  {
-    "question": "Find the word: l-i-o-n / Tìm từ: l-i-o-n",
-    "options": ["lion", "line", "live", "like"],
-    "correctAnswer": "lion"
-  },
-  {
-    "question": "Is this a monkey? / Đây có phải là một con khỉ không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a lion.", "I have a tiger."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a tall ____. It has a very long neck. / Đây là một ____ cao. Nó có một cái cổ rất dài.",
-    "options": ["giraffe", "elephant", "zebra", "lion"],
-    "correctAnswer": "giraffe"
-  },
-  {
-    "question": "What can you do at the zoo? / Bạn có thể làm gì ở sở thú?",
-    "options": ["I can see animals.", "I can swim.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can see animals."
-  },
-  {
-    "question": "I like to watch the ____. / Tôi thích xem ____.",
-    "options": ["monkeys", "lions", "tigers", "elephants"],
-    "correctAnswer": "monkeys"
-  },
-  {
-    "question": "What is the missing letter? lio_ / Chữ cái còn thiếu là gì? lio_",
-    "options": ["n", "m", "p", "t"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is the ____. It's a fun place. / Đây là ____. Đó là một nơi vui vẻ.",
-    "options": ["zoo", "school", "city", "shop"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "My family is at the ____. / Gia đình tôi đang ở ____.",
-    "options": ["zoo", "farm", "beach", "park"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "Let's see the ____. / Hãy xem ____.",
-    "options": ["elephants", "books", "pencils", "chairs"],
-    "correctAnswer": "elephants"
-  },
-  {
-    "question": "Spell the word: t-i-g-e-r / Đánh vần từ: t-i-g-e-r",
-    "options": ["tiger", "time", "tire", "tiny"],
-    "correctAnswer": "tiger"
-  },
-  {
-    "question": "Is this a big elephant? / Đây có phải là một con voi lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a lion.", "I can see a monkey."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am looking at a ____. / Tôi đang nhìn một ____.",
-    "options": ["zebra", "lion", "tiger", "monkey"],
-    "correctAnswer": "zebra"
-  },
-  {
-    "question": "What is the missing letter? _ebra / Chữ cái còn thiếu là gì? _ebra",
-    "options": ["z", "y", "x", "w"],
-    "correctAnswer": "z"
-  },
-  {
-    "question": "These are wild ____. / Đây là những ____ hoang dã.",
-    "options": ["animals", "pets", "toys", "books"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "How many lions are there? / Có bao nhiêu con sư tử?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "This is a ____. It's very long and has no legs. / Đây là một ____. Nó rất dài và không có chân.",
-    "options": ["snake", "lizard", "crocodile", "turtle"],
-    "correctAnswer": "snake"
-  },
-  {
-    "question": "Spell the word: m-o-n-k-e-y / Đánh vần từ: m-o-n-k-e-y",
-    "options": ["monkey", "money", "donkey", "monday"],
-    "correctAnswer": "monkey"
-  },
-  {
-    "question": "Is it a dangerous animal? / Nó có phải là một con vật nguy hiểm không?",
-    "options": ["Yes, it is.", "No, it is friendly.", "It is a zoo.", "I can see animals."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ in the water. / Chúng ta có thể thấy một ____ trong nước.",
-    "options": ["crocodile", "lion", "tiger", "monkey"],
-    "correctAnswer": "crocodile"
-  },
-  {
-    "question": "What is the missing letter? snak_",
-    "options": ["e", "t", "d", "g"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A giraffe", "A zebra", "An elephant", "A lion"],
-    "correctAnswer": "A giraffe"
-  },
-  {
-    "question": "This is a ____. It's the zookeeper. / Đây là một ____. Anh ấy là người trông coi sở thú.",
-    "options": ["man", "woman", "boy", "girl"],
-    "correctAnswer": "man"
-  },
-  {
-    "question": "This is ____. It's exciting. / Đây là ____. Thật là thú vị.",
-    "options": ["the zoo", "school", "homework", "work"],
-    "correctAnswer": "the zoo"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A tiger", "A lion", "A cat", "A dog"],
-    "correctAnswer": "A tiger"
-  },
-  {
-    "question": "Find the word: e-l-e-p-h-a-n-t / Tìm từ: e-l-e-p-h-a-n-t",
-    "options": ["elephant", "elegant", "element", "elevator"],
-    "correctAnswer": "elephant"
-  },
-  {
-    "question": "Is it a fast animal? / Nó có phải là một con vật nhanh nhẹn không?",
-    "options": ["Yes, it is.", "No, it is slow.", "I am at the zoo.", "I like animals."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is big. / ____ của tôi lớn.",
-    "options": ["zoo", "house", "car", "bag"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "What is the missing letter? giraff_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["day", "book", "lesson", "game"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Spell the word: z-e-b-r-a / Đánh vần từ: z-e-b-r-a",
-    "options": ["zebra", "zero", "zest", "zinc"],
-    "correctAnswer": "zebra"
-  },
-  {
-    "question": "Is this a tall giraffe? / Đây có phải là một con hươu cao cổ cao không?",
-    "options": ["Yes, it is.", "No, it is short.", "I can see a giraffe.", "I like giraffes."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The zoo has a big ____ for the lions. / Sở thú có một ____ lớn cho sư tử.",
-    "options": ["enclosure", "house", "school", "shop"],
-    "correctAnswer": "enclosure"
-  },
-  {
-    "question": "What is the missing letter? _nimal / Chữ cái còn thiếu là gì? _nimal",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bear", "A lion", "A tiger", "A wolf"],
-    "correctAnswer": "A bear"
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["visit", "homework", "class", "test"],
-    "correctAnswer": "visit"
-  },
-  {
-    "question": "Is the lion sleeping? / Con sư tử có đang ngủ không?",
-    "options": ["Yes, it is.", "No, it is roaring.", "It is a lion.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a monkey and some ____. / Tôi có thể thấy một con khỉ và một vài ____.",
-    "options": ["birds", "houses", "cars", "books"],
-    "correctAnswer": "birds"
-  },
-  {
-    "question": "Find the word: s-n-a-k-e / Tìm từ: s-n-a-k-e",
-    "options": ["snake", "snack", "snail", "snap"],
-    "correctAnswer": "snake"
-  },
-  {
-    "question": "This is my ____. I can see many animals here. / Đây là ____ của tôi. Tôi có thể thấy nhiều động vật ở đây.",
-    "options": ["zoo", "backyard", "school", "park"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "What is the missing letter? tige_",
-    "options": ["r", "k", "p", "d"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Is it a beautiful bird? / Nó có phải là một con chim đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like birds.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
-    "options": ["day", "homework", "class", "test"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A kangaroo", "A koala", "A panda", "A bear"],
-    "correctAnswer": "A kangaroo"
-  },
-  {
-    "question": "How many monkeys can you see? / Bạn có thể thấy bao nhiêu con khỉ?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "A zoo is a place for ____. / Sở thú là một nơi dành cho ____.",
-    "options": ["animals", "people", "plants", "cars"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "I see ____ elephant. / Tôi thấy ____ con voi.",
-    "options": ["an", "a", "many", "some"],
-    "correctAnswer": "an"
-  },
-  {
-    "question": "What colour is the tiger? / Con hổ màu gì?",
-    "options": ["Orange and black", "White and black", "Yellow and black", "Brown and black"],
-    "correctAnswer": "Orange and black"
-  },
-  {
-    "question": "What colour is the snake? / Con rắn màu gì?",
-    "options": ["Green", "White", "Black", "Pink"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "The elephant is ____. / Con voi thì ____.",
-    "options": ["huge", "small", "short", "thin"],
-    "correctAnswer": "huge"
-  },
-  {
-    "question": "The monkeys are ____. / Những con khỉ thì ____.",
-    "options": ["playful", "quiet", "sad", "bad"],
-    "correctAnswer": "playful"
-  },
-  {
-    "question": "Is the zoo open? / Sở thú có mở cửa không?",
-    "options": ["Yes, it is.", "No, it is closed.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My visit to the zoo is ____. / Chuyến thăm sở thú của tôi thì ____.",
-    "options": ["amazing", "boring", "busy", "crowded"],
-    "correctAnswer": "amazing"
-  },
-  {
-    "question": "What is the missing letter? amazi_g / Chữ cái còn thiếu là gì? amazi_g",
-    "options": ["n", "t", "d", "k"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["lion", "tiger", "monkey", "elephant"],
-    "correctAnswer": "lion"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["zoo", "dog", "cat", "bird"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "Is the tiger running? / Con hổ có đang chạy không?",
-    "options": ["No, it is walking.", "Yes, it is.", "It is a tiger.", "Hello."],
-    "correctAnswer": "No, it is walking."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["zoo", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "Spell the word: a-n-i-m-a-l / Đánh vần từ: a-n-i-m-a-l",
-    "options": ["animal", "anime", "animate", "enamel"],
-    "correctAnswer": "animal"
-  },
-  {
-    "question": "I have ____ ticket for the zoo. / Tôi có ____ vé vào sở thú.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite animal is the ____. / Con vật yêu thích của tôi là ____.",
-    "options": ["panda", "lion", "tiger", "monkey"],
-    "correctAnswer": "panda"
-  },
-  {
-    "question": "What is the missing letter? pand_",
-    "options": ["a", "e", "i", "o"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "This is a ____. It's black and white. / Đây là một ____. Nó màu đen và trắng.",
-    "options": ["panda", "zebra", "penguin", "cow"],
-    "correctAnswer": "panda"
-  },
-  {
-    "question": "We should not feed the ____. / Chúng ta không nên cho ____ ăn.",
-    "options": ["animals", "fence", "bench", "swing"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "Is it a big cage? / Nó có phải là một cái lồng lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like cages.", "The cage is strong."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: c-a-g-e / Đánh vần từ: c-a-g-e",
-    "options": ["cage", "cake", "case", "cane"],
-    "correctAnswer": "cage"
-  },
-  {
-    "question": "I help the zookeeper feed the ____. / Tôi giúp người trông coi sở thú cho ____ ăn.",
-    "options": ["monkeys", "lions", "tigers", "snakes"],
-    "correctAnswer": "monkeys"
-  },
-  {
-    "question": "The elephant is drinking ____. / Con voi đang uống ____.",
-    "options": ["water", "milk", "juice", "soda"],
-    "correctAnswer": "water"
-  },
-  {
-    "question": "What is the missing letter? wate_",
-    "options": ["r", "p", "t", "d"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A parrot", "A peacock", "An eagle", "An owl"],
-    "correctAnswer": "A parrot"
-  },
-  {
-    "question": "My ____ is full of amazing animals. / ____ của tôi đầy những con vật tuyệt vời.",
-    "options": ["zoo", "house", "room", "bag"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "Is it a noisy monkey? / Nó có phải là một con khỉ ồn ào không?",
-    "options": ["Yes, it is.", "No, it is quiet.", "I see a monkey.", "The monkey is brown."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My sister likes to see the ____. / Chị tôi thích xem ____.",
-    "options": ["giraffes", "lions", "tigers", "snakes"],
-    "correctAnswer": "giraffes"
-  },
-  {
-    "question": "Spell the word: p-a-r-r-o-t / Đánh vần từ: p-a-r-r-o-t",
-    "options": ["parrot", "carrot", "parent", "party"],
-    "correctAnswer": "parrot"
-  },
-  {
-    "question": "This is a ____ day at the zoo. / Đây là một ngày ____ ở sở thú.",
-    "options": ["sunny", "rainy", "cloudy", "windy"],
-    "correctAnswer": "sunny"
-  },
-  {
-    "question": "What is the missing letter? _unny / Chữ cái còn thiếu là gì? _unny",
-    "options": ["s", "f", "r", "m"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A zookeeper", "A farmer", "A doctor", "A teacher"],
-    "correctAnswer": "A zookeeper"
-  },
-  {
-    "question": "My brother is taking a picture of the ____. / Anh trai tôi đang chụp ảnh ____.",
-    "options": ["lion", "tiger", "monkey", "elephant"],
-    "correctAnswer": "lion"
-  },
-  {
-    "question": "Are the penguins black and white? / Chim cánh cụt có màu đen và trắng không?",
-    "options": ["Yes, they are.", "No, they are colourful.", "They are penguins.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My family is having a fun day at the ____. / Gia đình tôi đang có một ngày vui vẻ ở ____.",
-    "options": ["zoo", "beach", "park", "farm"],
-    "correctAnswer": "zoo"
-  },
-  {
-    "question": "Spell the word: p-e-n-g-u-i-n / Đánh vần từ: p-e-n-g-u-i-n",
-    "options": ["penguin", "pumpkin", "pencil", "pendant"],
-    "correctAnswer": "penguin"
-  },
-  {
-    "question": "I am ____ at the zoo. / Tôi ____ ở sở thú.",
-    "options": ["excited", "sad", "bored", "angry"],
-    "correctAnswer": "excited"
-  },
-  {
-    "question": "What is the missing letter? zeb_a / Chữ cái còn thiếu là gì? zeb_a",
-    "options": ["r", "t", "p", "k"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A ticket", "A map", "A book", "A card"],
-    "correctAnswer": "A ticket"
-  },
-  {
-    "question": "My zoo is my favorite ____. / Sở thú là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the snake long? / Con rắn có dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a snake.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The zoo has a ____. / Sở thú có một ____.",
-    "options": ["map", "menu", "list", "book"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Spell the word: m-a-p / Đánh vần từ: m-a-p",
-    "options": ["map", "mat", "man", "mop"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "We see many different ____ of animals. / Chúng tôi thấy nhiều ____ động vật khác nhau.",
-    "options": ["kinds", "houses", "cars", "shops"],
-    "correctAnswer": "kinds"
-  },
-  {
-    "question": "What is the missing letter? kin_s / Chữ cái còn thiếu là gì? kin_s",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  }
+    {
+        "question": "This is a place where you can see many different animals from all over the world. What is it? / Đây là nơi bạn có thể xem nhiều loài động vật khác nhau từ khắp nơi trên thế giới. Nó là gì?",
+        "options": [
+            "A zoo",
+            "A farm",
+            "A park",
+            "A school"
+        ],
+        "correctAnswer": "A zoo"
+    },
+    {
+        "question": "This large, grey animal has a very long nose called a trunk. What is it? / Con vật lớn, màu xám này có một cái mũi rất dài gọi là vòi. Nó là gì?",
+        "options": [
+            "An elephant",
+            "A lion",
+            "A monkey",
+            "A giraffe"
+        ],
+        "correctAnswer": "An elephant"
+    },
+    {
+        "question": "This animal is called the 'king of the jungle' and has a loud roar. What is it? / Con vật này được gọi là 'vua của rừng xanh' và có tiếng gầm lớn. Nó là gì?",
+        "options": [
+            "A lion",
+            "A tiger",
+            "A bear",
+            "A monkey"
+        ],
+        "correctAnswer": "A lion"
+    },
+    {
+        "question": "This big cat has orange fur with black stripes. What is it? / Loài mèo lớn này có bộ lông màu cam với các sọc đen. Nó là gì?",
+        "options": [
+            "A tiger",
+            "A lion",
+            "A zebra",
+            "A cheetah"
+        ],
+        "correctAnswer": "A tiger"
+    },
+    {
+        "question": "This animal likes to climb trees and eat bananas. What is it? / Con vật này thích trèo cây và ăn chuối. Nó là gì?",
+        "options": [
+            "A monkey",
+            "A snake",
+            "A fish",
+            "A penguin"
+        ],
+        "correctAnswer": "A monkey"
+    },
+    {
+        "question": "This animal is very tall and has a very long neck to eat leaves from trees. What is it? / Con vật này rất cao và có chiếc cổ rất dài để ăn lá cây. Nó là gì?",
+        "options": [
+            "A giraffe",
+            "An elephant",
+            "A kangaroo",
+            "A bear"
+        ],
+        "correctAnswer": "A giraffe"
+    },
+    {
+        "question": "This animal looks like a horse but has black and white stripes. What is it? / Con vật này trông giống ngựa nhưng có sọc đen và trắng. Nó là gì?",
+        "options": [
+            "A zebra",
+            "A horse",
+            "A tiger",
+            "A cow"
+        ],
+        "correctAnswer": "A zebra"
+    },
+    {
+        "question": "This is a large, furry animal that can be brown or black and likes honey. What is it? / Đây là một con vật to lớn, có lông dày, có thể có màu nâu hoặc đen và thích mật ong. Nó là gì?",
+        "options": [
+            "A bear",
+            "A lion",
+            "A hippo",
+            "A rhino"
+        ],
+        "correctAnswer": "A bear"
+    },
+    {
+        "question": "This is a long animal with no legs that slithers on the ground. What is it? / Đây là một con vật dài không có chân, trườn trên mặt đất. Nó là gì?",
+        "options": [
+            "A snake",
+            "A fish",
+            "A worm",
+            "An eel"
+        ],
+        "correctAnswer": "A snake"
+    },
+    {
+        "question": "This bird lives in cold places, is black and white, and cannot fly. What is it? / Loài chim này sống ở những nơi lạnh giá, có màu đen và trắng, và không thể bay. Nó là gì?",
+        "options": [
+            "A penguin",
+            "An ostrich",
+            "A parrot",
+            "An eagle"
+        ],
+        "correctAnswer": "A penguin"
+    },
+    {
+        "question": "This animal from Australia jumps on two legs and carries its baby in a pouch. What is it? / Con vật này từ Úc nhảy bằng hai chân và mang con trong một cái túi. Nó là gì?",
+        "options": [
+            "A kangaroo",
+            "A koala",
+            "A monkey",
+            "A rabbit"
+        ],
+        "correctAnswer": "A kangaroo"
+    },
+    {
+        "question": "This large animal spends a lot of time in the water and has a very big mouth. What is it? / Con vật lớn này dành nhiều thời gian ở dưới nước và có cái miệng rất to. Nó là gì?",
+        "options": [
+            "A hippo",
+            "An elephant",
+            "A rhino",
+            "A crocodile"
+        ],
+        "correctAnswer": "A hippo"
+    },
+    {
+        "question": "What do you call a person who takes care of the animals at the zoo? / Bạn gọi người chăm sóc động vật ở sở thú là gì?",
+        "options": [
+            "A zookeeper",
+            "A farmer",
+            "A vet",
+            "A teacher"
+        ],
+        "correctAnswer": "A zookeeper"
+    },
+    {
+        "question": "What is the opposite of 'wild'? / Từ trái nghĩa của 'wild' là gì?",
+        "options": [
+            "Tame",
+            "Free",
+            "Happy",
+            "Big"
+        ],
+        "correctAnswer": "Tame"
+    },
+    {
+        "question": "Animals like lions and tigers are ____ animals. / Các loài động vật như sư tử và hổ là động vật ____.",
+        "options": [
+            "wild",
+            "tame",
+            "small",
+            "sad"
+        ],
+        "correctAnswer": "wild"
+    },
+    {
+        "question": "Spell the word for the place where you see wild animals. / Đánh vần từ chỉ nơi bạn xem động vật hoang dã.",
+        "options": [
+            "z-o-o",
+            "p-a-r-k",
+            "f-a-r-m",
+            "s-h-o-p"
+        ],
+        "correctAnswer": "z-o-o"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
+            "Long",
+            "Happy"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A monkey is ____ than an elephant. / Một con khỉ ____ hơn một con voi.",
+        "options": [
+            "smaller",
+            "bigger",
+            "taller",
+            "stronger"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "What sound does a snake make? / Rắn tạo ra âm thanh gì?",
+        "options": [
+            "Hiss",
+            "Roar",
+            "Meow",
+            "Woof"
+        ],
+        "correctAnswer": "Hiss"
+    },
+    {
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [
+            "Short",
+            "Long",
+            "Big",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "A penguin is ____ than a giraffe. / Một con chim cánh cụt ____ hơn một con hươu cao cổ.",
+        "options": [
+            "shorter",
+            "taller",
+            "bigger",
+            "faster"
+        ],
+        "correctAnswer": "shorter"
+    },
+    {
+        "question": "Spell the word for the king of the jungle. / Đánh vần từ chỉ vua của rừng xanh.",
+        "options": [
+            "l-i-o-n",
+            "t-i-g-e-r",
+            "b-e-a-r",
+            "z-e-b-r-a"
+        ],
+        "correctAnswer": "l-i-o-n"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A big bear can run ____. / Một con gấu lớn có thể chạy ____.",
+        "options": [
+            "fast",
+            "slow",
+            "quietly",
+            "sadly"
+        ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "What do you call a baby bear? / Bạn gọi một con gấu con là gì?",
+        "options": [
+            "A cub",
+            "A kitten",
+            "A puppy",
+            "A chick"
+        ],
+        "correctAnswer": "A cub"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ monkeys playing in the enclosure. / Có ____ con khỉ đang chơi trong chuồng.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "Spell the word for the big cat with stripes. / Đánh vần từ chỉ loài mèo lớn có sọc.",
+        "options": [
+            "t-i-g-e-r",
+            "l-i-o-n",
+            "c-h-e-e-t-a-h",
+            "l-e-o-p-a-r-d"
+        ],
+        "correctAnswer": "t-i-g-e-r"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A peacock has ____ feathers. / Một con công có bộ lông ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "small",
+            "short"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a big reptile with many sharp teeth? / Bạn gọi một loài bò sát lớn có nhiều răng sắc nhọn là gì?",
+        "options": [
+            "A crocodile",
+            "A snake",
+            "A lizard",
+            "A turtle"
+        ],
+        "correctAnswer": "A crocodile"
+    },
+    {
+        "question": "Spell the word for the tall animal with a long neck. / Đánh vần từ chỉ con vật cao có cổ dài.",
+        "options": [
+            "g-i-r-a-f-f-e",
+            "e-l-e-p-h-a-n-t",
+            "z-e-b-r-a",
+            "m-o-n-k-e-y"
+        ],
+        "correctAnswer": "g-i-r-a-f-f-e"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ watching the monkeys play. / Tôi ____ xem những con khỉ chơi đùa.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a big, black and white bear that eats bamboo? / Bạn gọi một con gấu lớn, màu đen và trắng ăn tre là gì?",
+        "options": [
+            "A panda",
+            "A polar bear",
+            "A grizzly bear",
+            "A koala"
+        ],
+        "correctAnswer": "A panda"
+    },
+    {
+        "question": "Spell the word for the animal that looks like a striped horse. / Đánh vần từ chỉ con vật trông giống ngựa có sọc.",
+        "options": [
+            "z-e-b-r-a",
+            "h-o-r-s-e",
+            "d-o-n-k-e-y",
+            "g-o-a-t"
+        ],
+        "correctAnswer": "z-e-b-r-a"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A lion is a very ____ animal. / Sư tử là một loài vật rất ____.",
+        "options": [
+            "strong",
+            "weak",
+            "small",
+            "tame"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "What do you call a bird that can copy human speech? / Bạn gọi một con chim có thể bắt chước tiếng người là gì?",
+        "options": [
+            "A parrot",
+            "An owl",
+            "An eagle",
+            "A penguin"
+        ],
+        "correctAnswer": "A parrot"
+    },
+    {
+        "question": "Spell the word for the big grey animal with a trunk. / Đánh vần từ chỉ con vật to màu xám có vòi.",
+        "options": [
+            "e-l-e-p-h-a-n-t",
+            "h-i-p-p-o",
+            "r-h-i-n-o",
+            "w-h-a-l-e"
+        ],
+        "correctAnswer": "e-l-e-p-h-a-n-t"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "It is ____ to see animals in big, natural enclosures. / Thật ____ khi thấy động vật trong những khu chuồng lớn, tự nhiên.",
+        "options": [
+            "good",
+            "bad",
+            "sad",
+            "ugly"
+        ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "What do you call an animal that is active at night? / Bạn gọi một con vật hoạt động vào ban đêm là gì?",
+        "options": [
+            "Nocturnal",
+            "Diurnal",
+            "Wild",
+            "Tame"
+        ],
+        "correctAnswer": "Nocturnal"
+    },
+    {
+        "question": "Spell the word for the animal that likes bananas. / Đánh vần từ chỉ con vật thích chuối.",
+        "options": [
+            "m-o-n-k-e-y",
+            "d-o-n-k-e-y",
+            "t-u-r-k-e-y",
+            "h-o-n-e-y"
+        ],
+        "correctAnswer": "m-o-n-k-e-y"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "Hippos like to stay in ____ water. / Hà mã thích ở trong nước ____.",
+        "options": [
+            "muddy",
+            "clean",
+            "hot",
+            "salty"
+        ],
+        "correctAnswer": "muddy"
+    },
+    {
+        "question": "What do you call a large animal with a horn on its nose? / Bạn gọi một con vật lớn có sừng trên mũi là gì?",
+        "options": [
+            "A rhino",
+            "A hippo",
+            "An elephant",
+            "A bull"
+        ],
+        "correctAnswer": "A rhino"
+    },
+    {
+        "question": "Spell the word for the large, furry animal. / Đánh vần từ chỉ con vật to lớn, có lông.",
+        "options": [
+            "b-e-a-r",
+            "d-e-e-r",
+            "p-e-a-r",
+            "f-e-a-r"
+        ],
+        "correctAnswer": "b-e-a-r"
+    }
 ]
-
