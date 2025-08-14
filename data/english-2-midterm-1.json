@@ -1,703 +1,642 @@
 [
-  {
-    "question": "Unit 1: What is this? It's sweet and you eat it at a party. / Đây là gì? Nó ngọt và bạn ăn nó ở bữa tiệc.",
-    "options": ["A cake", "A book", "A chair", "A car"],
-    "correctAnswer": "A cake"
-  },
-  {
-    "question": "Unit 1: You blow these out on your birthday cake. / Bạn thổi những thứ này trên bánh sinh nhật.",
-    "options": ["Candles", "Balloons", "Hats", "Cards"],
-    "correctAnswer": "Candles"
-  },
-  {
-    "question": "Unit 1: Spell the word: p-a-r-t-y / Đánh vần từ: p-a-r-t-y",
-    "options": ["party", "part", "park", "pretty"],
-    "correctAnswer": "party"
-  },
-  {
-    "question": "Unit 1: What do you say on someone's birthday? / Bạn nói gì vào ngày sinh nhật của ai đó?",
-    "options": ["Happy birthday!", "Hello!", "Goodbye!", "Thank you!"],
-    "correctAnswer": "Happy birthday!"
-  },
-  {
-    "question": "Unit 1: I invite my ____ to my party. / Tôi mời ____ của tôi đến bữa tiệc.",
-    "options": ["friends", "teachers", "pets", "toys"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "Unit 1: How old are you? / Bạn bao nhiêu tuổi?",
-    "options": ["I'm seven.", "I'm fine.", "My name is Ben.", "I have a present."],
-    "correctAnswer": "I'm seven."
-  },
-  {
-    "question": "Unit 1: We ____ games at the party. / Chúng tôi ____ các trò chơi ở bữa tiệc.",
-    "options": ["play", "eat", "drink", "sing"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "Unit 1: Find the word: f-r-i-e-n-d / Tìm từ: f-r-i-e-n-d",
-    "options": ["friend", "find", "fries", "front"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "Unit 1: My friends ____ 'Happy Birthday' to me. / Bạn bè của tôi ____ 'Chúc mừng sinh nhật' cho tôi.",
-    "options": ["sing", "eat", "drink", "play"],
-    "correctAnswer": "sing"
-  },
-  {
-    "question": "Unit 1: This is a ____. You get it on your birthday. / Đây là một ____. Bạn nhận được nó vào ngày sinh nhật.",
-    "options": ["present", "pencil", "pet", "plate"],
-    "correctAnswer": "present"
-  },
-  {
-    "question": "Unit 1: These are colourful and float in the air. / Những thứ này nhiều màu sắc và bay trong không khí.",
-    "options": ["Balloons", "Candles", "Presents", "Cakes"],
-    "correctAnswer": "Balloons"
-  },
-  {
-    "question": "Unit 1: This is a ____. You wear it on your head at a party. / Đây là một ____. Bạn đội nó trên đầu trong bữa tiệc.",
-    "options": ["hat", "shirt", "shoe", "sock"],
-    "correctAnswer": "hat"
-  },
-  {
-    "question": "Unit 1: Is this your birthday cake? / Đây có phải là bánh sinh nhật của bạn không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a present.", "I have a balloon."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 1: What is the missing letter? ca_dle / Chữ cái còn thiếu là gì? ca_dle",
-    "options": ["n", "m", "p", "t"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "Unit 1: Spell the word: b-a-l-l-o-o-n / Đánh vần từ: b-a-l-l-o-o-n",
-    "options": ["balloon", "baboon", "ball", "bamboo"],
-    "correctAnswer": "balloon"
-  },
-  {
-    "question": "Unit 1: This is a ____. It's from my friend. / Đây là một ____. Nó từ bạn của tôi.",
-    "options": ["gift", "hat", "cake", "balloon"],
-    "correctAnswer": "gift"
-  },
-  {
-    "question": "Unit 1: We should say ____ for the presents. / Chúng ta nên nói ____ cho những món quà.",
-    "options": ["thank you", "hello", "goodbye", "sorry"],
-    "correctAnswer": "thank you"
-  },
-  {
-    "question": "Unit 1: I ____ with my friends at the party. / Tôi ____ với bạn bè ở bữa tiệc.",
-    "options": ["dance", "study", "work", "sleep"],
-    "correctAnswer": "dance"
-  },
-  {
-    "question": "Unit 1: My mother is lighting the ____. / Mẹ tôi đang thắp ____.",
-    "options": ["candles", "balloons", "presents", "hats"],
-    "correctAnswer": "candles"
-  },
-  {
-    "question": "Unit 2: What is this? It's big and green in the backyard. / Đây là gì? Nó to và màu xanh ở sân sau.",
-    "options": ["A tree", "A flower", "A house", "A car"],
-    "correctAnswer": "A tree"
-  },
-  {
-    "question": "Unit 2: This is a ____. It's beautiful and has many colours. / Đây là một ____. Nó đẹp và có nhiều màu sắc.",
-    "options": ["flower", "tree", "leaf", "stone"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Unit 2: You can sit on this in the backyard. / Bạn có thể ngồi trên cái này ở sân sau.",
-    "options": ["A bench", "A bed", "A chair", "A sofa"],
-    "correctAnswer": "A bench"
-  },
-  {
-    "question": "Unit 2: This is a ____. You can play on it. / Đây là một ____. Bạn có thể chơi trên đó.",
-    "options": ["swing", "slide", "seesaw", "ball"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "Unit 2: Spell the word: t-r-e-e / Đánh vần từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Unit 2: This is a ____. It's around the backyard. / Đây là một ____. Nó ở xung quanh sân sau.",
-    "options": ["fence", "wall", "door", "window"],
-    "correctAnswer": "fence"
-  },
-  {
-    "question": "Unit 2: Find the word: f-l-o-w-e-r / Tìm từ: f-l-o-w-e-r",
-    "options": ["flower", "floor", "flour", "follow"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Unit 2: Is this a tree? / Đây có phải là một cái cây không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a flower.", "I have a bench."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 2: Let's run on the ____. / Hãy chạy trên ____.",
-    "options": ["grass", "bench", "fence", "swing"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Unit 2: Spell the word: s-w-i-n-g / Đánh vần từ: s-w-i-n-g",
-    "options": ["swing", "sing", "swim", "sweet"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "Unit 2: What is the missing letter? _ence / Chữ cái còn thiếu là gì? _ence",
-    "options": ["f", "p", "t", "d"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "Unit 2: Spell the word: g-r-a-s-s / Đánh vần từ: g-r-a-s-s",
-    "options": ["grass", "glass", "grape", "great"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Unit 2: This is a ____. You open it to enter the backyard. / Đây là một ____. Bạn mở nó để vào sân sau.",
-    "options": ["gate", "door", "window", "fence"],
-    "correctAnswer": "gate"
-  },
-  {
-    "question": "Unit 2: Find the word: g-a-t-e / Tìm từ: g-a-t-e",
-    "options": ["gate", "game", "gave", "late"],
-    "correctAnswer": "gate"
-  },
-  {
-    "question": "Unit 2: Spell the word: l-e-a-f / Đánh vần từ: l-e-a-f",
-    "options": ["leaf", "life", "left", "leap"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "Unit 2: The tree is ____. / Cái cây thì ____.",
-    "options": ["tall", "short", "small", "thin"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "Unit 2: Find the word: b-e-n-c-h / Tìm từ: b-e-n-c-h",
-    "options": ["bench", "beach", "bunch", "bend"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "Unit 2: A backyard is behind the ____. / Sân sau ở phía sau ____.",
-    "options": ["house", "school", "shop", "park"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "Unit 2: My brother is flying a ____. / Anh trai tôi đang thả ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Unit 3: What is this? It's big and blue. / Đây là gì? Nó to và màu xanh dương.",
-    "options": ["The sea", "The sand", "A shell", "A boat"],
-    "correctAnswer": "The sea"
-  },
-  {
-    "question": "Unit 3: This is ____. It's yellow and you can walk on it. / Đây là ____. Nó màu vàng và bạn có thể đi trên đó.",
-    "options": ["sand", "sea", "shell", "sun"],
-    "correctAnswer": "sand"
-  },
-  {
-    "question": "Unit 3: You can find this on the beach. / Bạn có thể tìm thấy thứ này trên bãi biển.",
-    "options": ["A shell", "A star", "A moon", "A cloud"],
-    "correctAnswer": "A shell"
-  },
-  {
-    "question": "Unit 3: This is a ____. It floats on the water. / Đây là một ____. Nó nổi trên mặt nước.",
-    "options": ["boat", "car", "bus", "plane"],
-    "correctAnswer": "boat"
-  },
-  {
-    "question": "Unit 3: Spell the word: s-e-a / Đánh vần từ: s-e-a",
-    "options": ["sea", "see", "she", "set"],
-    "correctAnswer": "sea"
-  },
-  {
-    "question": "Unit 3: This is the ____. It's bright and yellow in the sky. / Đây là ____. Nó sáng và màu vàng trên bầu trời.",
-    "options": ["sun", "moon", "star", "cloud"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "Unit 3: I can see a ____ in the sand. It walks sideways. / Tôi có thể thấy một ____ trong cát. Nó đi ngang.",
-    "options": ["crab", "fish", "bird", "cat"],
-    "correctAnswer": "crab"
-  },
-  {
-    "question": "Unit 3: Find the word: s-h-e-l-l / Tìm từ: s-h-e-l-l",
-    "options": ["shell", "sell", "shall", "share"],
-    "correctAnswer": "shell"
-  },
-  {
-    "question": "Unit 3: What can you do at the seaside? / Bạn có thể làm gì ở bờ biển?",
-    "options": ["I can swim.", "I can fly.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can swim."
-  },
-  {
-    "question": "Unit 3: Let's build a ____. / Hãy xây một ____.",
-    "options": ["sandcastle", "house", "school", "shop"],
-    "correctAnswer": "sandcastle"
-  },
-  {
-    "question": "Unit 3: Spell the word: b-o-a-t / Đánh vần từ: b-o-a-t",
-    "options": ["boat", "goat", "coat", "boot"],
-    "correctAnswer": "boat"
-  },
-  {
-    "question": "Unit 3: Spell the word: s-w-i-m / Đánh vần từ: s-w-i-m",
-    "options": ["swim", "slim", "swam", "swing"],
-    "correctAnswer": "swim"
-  },
-  {
-    "question": "Unit 3: Find the word: s-a-n-d / Tìm từ: s-a-n-d",
-    "options": ["sand", "send", "hand", "land"],
-    "correctAnswer": "sand"
-  },
-  {
-    "question": "Unit 3: Spell the word: s-u-n / Đánh vần từ: s-u-n",
-    "options": ["sun", "son", "fun", "run"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "Unit 3: Find the word: c-r-a-b / Tìm từ: c-r-a-b",
-    "options": ["crab", "cab", "crib", "grab"],
-    "correctAnswer": "crab"
-  },
-  {
-    "question": "Unit 3: What colour is the sea? / Biển màu gì?",
-    "options": ["Blue", "Green", "Red", "Yellow"],
-    "correctAnswer": "Blue"
-  },
-  {
-    "question": "Unit 3: Spell the word: b-e-a-c-h / Đánh vần từ: b-e-a-c-h",
-    "options": ["beach", "peach", "teach", "reach"],
-    "correctAnswer": "beach"
-  },
-  {
-    "question": "Unit 3: We should wear a ____ to protect from the sun. / Chúng ta nên đội ____ để bảo vệ khỏi ánh nắng mặt trời.",
-    "options": ["hat", "shirt", "shoe", "sock"],
-    "correctAnswer": "hat"
-  },
-  {
-    "question": "Unit 3: My brother likes to catch ____. / Anh trai tôi thích bắt ____.",
-    "options": ["crabs", "fish", "birds", "butterflies"],
-    "correctAnswer": "crabs"
-  },
-  {
-    "question": "Unit 4: This is a ____. It's very high. / Đây là một ____. Nó rất cao.",
-    "options": ["mountain", "river", "field", "tree"],
-    "correctAnswer": "mountain"
-  },
-  {
-    "question": "Unit 4: You can see many green plants here. / Bạn có thể thấy nhiều cây xanh ở đây.",
-    "options": ["A field", "A river", "A mountain", "A house"],
-    "correctAnswer": "A field"
-  },
-  {
-    "question": "Unit 4: Spell the word: r-i-v-e-r / Đánh vần từ: r-i-v-e-r",
-    "options": ["river", "ruler", "rider", "razor"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "Unit 4: This is a ____. It's big and green. / Đây là một ____. Nó to và màu xanh.",
-    "options": ["tree", "flower", "river", "mountain"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Unit 4: I can see a ____ in the field. It says 'moo'. / Tôi có thể thấy một ____ trên cánh đồng. Nó kêu 'moo'.",
-    "options": ["cow", "goat", "sheep", "horse"],
-    "correctAnswer": "cow"
-  },
-  {
-    "question": "Unit 4: Find the word: f-i-e-l-d / Tìm từ: f-i-e-l-d",
-    "options": ["field", "find", "fill", "friend"],
-    "correctAnswer": "field"
-  },
-  {
-    "question": "Unit 4: What can you do in the countryside? / Bạn có thể làm gì ở nông thôn?",
-    "options": ["I can fly a kite.", "I can drive a car.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can fly a kite."
-  },
-  {
-    "question": "Unit 4: Let's fly a ____. / Hãy thả một ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Unit 4: Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
-    "options": ["kite", "king", "kiss", "kitchen"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Unit 4: This is a ____. It eats grass. / Đây là một ____. Nó ăn cỏ.",
-    "options": ["goat", "cow", "sheep", "horse"],
-    "correctAnswer": "goat"
-  },
-  {
-    "question": "Unit 4: Spell the word: f-l-o-w-e-r / Đánh vần từ: f-l-o-w-e-r",
-    "options": ["flower", "floor", "flour", "follow"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Unit 4: Spell the word: c-o-w / Đánh vần từ: c-o-w",
-    "options": ["cow", "now", "how", "bow"],
-    "correctAnswer": "cow"
-  },
-  {
-    "question": "Unit 4: Find the word: g-o-a-t / Tìm từ: g-o-a-t",
-    "options": ["goat", "boat", "coat", "goal"],
-    "correctAnswer": "goat"
-  },
-  {
-    "question": "Unit 4: The air is ____. / Không khí thì ____.",
-    "options": ["fresh", "polluted", "sad", "bad"],
-    "correctAnswer": "fresh"
-  },
-  {
-    "question": "Unit 4: Spell the word: v-i-l-l-a-g-e / Đánh vần từ: v-i-l-l-a-g-e",
-    "options": ["village", "villa", "vintage", "vinegar"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Unit 4: This is a ____. It gives us milk. / Đây là một ____. Nó cho chúng ta sữa.",
-    "options": ["cow", "goat", "sheep", "horse"],
-    "correctAnswer": "cow"
-  },
-  {
-    "question": "Unit 4: Spell the word: s-h-e-e-p / Đánh vần từ: s-h-e-e-p",
-    "options": ["sheep", "ship", "shop", "sheet"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "Unit 4: My brother is riding a ____. / Anh trai tôi đang cưỡi ____.",
-    "options": ["horse", "bike", "cow", "goat"],
-    "correctAnswer": "horse"
-  },
-  {
-    "question": "Unit 4: We visit a ____ in the countryside. / Chúng tôi thăm một ____ ở nông thôn.",
-    "options": ["farm", "factory", "office", "library"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Unit 5: The teacher writes on it with chalk. / Cô giáo viết lên nó bằng phấn.",
-    "options": ["A board", "A poster", "A picture", "A map"],
-    "correctAnswer": "A board"
-  },
-  {
-    "question": "Unit 5: This is a ____. It has pictures and words on it. / Đây là một ____. Nó có hình ảnh và chữ viết trên đó.",
-    "options": ["poster", "board", "map", "computer"],
-    "correctAnswer": "poster"
-  },
-  {
-    "question": "Unit 5: This is a ____. It shows countries and seas. / Đây là một ____. Nó cho thấy các quốc gia và biển.",
-    "options": ["map", "board", "poster", "picture"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Unit 5: Spell the word: b-o-a-r-d / Đánh vần từ: b-o-a-r-d",
-    "options": ["board", "beard", "bird", "boat"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "Unit 5: This is a ____. You can use it to learn and play games. / Đây là một ____. Bạn có thể dùng nó để học và chơi trò chơi.",
-    "options": ["computer", "board", "map", "poster"],
-    "correctAnswer": "computer"
-  },
-  {
-    "question": "Unit 5: Find the word: p-i-c-t-u-r-e / Tìm từ: p-i-c-t-u-r-e",
-    "options": ["picture", "pitcher", "pickle", "picnic"],
-    "correctAnswer": "picture"
-  },
-  {
-    "question": "Unit 5: Look at the ____, please. / Vui lòng nhìn lên ____.",
-    "options": ["board", "floor", "ceiling", "door"],
-    "correctAnswer": "board"
-  },
-  {
-    "question": "Unit 5: Spell the word: m-a-p / Đánh vần từ: m-a-p",
-    "options": ["map", "mat", "man", "mop"],
-    "correctAnswer": "map"
-  },
-  {
-    "question": "Unit 5: I am sitting at my ____. / Tôi đang ngồi tại ____ của tôi.",
-    "options": ["desk", "board", "map", "poster"],
-    "correctAnswer": "desk"
-  },
-  {
-    "question": "Unit 5: Spell the word: p-o-s-t-e-r / Đánh vần từ: p-o-s-t-e-r",
-    "options": ["poster", "postman", "postcard", "potato"],
-    "correctAnswer": "poster"
-  },
-  {
-    "question": "Unit 5: Find the word: c-o-m-p-u-t-e-r / Tìm từ: c-o-m-p-u-t-e-r",
-    "options": ["computer", "commuter", "compete", "complete"],
-    "correctAnswer": "computer"
-  },
-  {
-    "question": "Unit 5: Spell the word: c-l-a-s-s-r-o-o-m / Đánh vần từ: c-l-a-s-s-r-o-o-m",
-    "options": ["classroom", "classmate", "classwork", "classic"],
-    "correctAnswer": "classroom"
-  },
-  {
-    "question": "Unit 5: My ____ is on the desk. / ____ của tôi ở trên bàn.",
-    "options": ["notebook", "computer", "map", "poster"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "Unit 5: Find the word: n-o-t-e-b-o-o-k / Tìm từ: n-o-t-e-b-o-o-k",
-    "options": ["notebook", "note", "book", "nothing"],
-    "correctAnswer": "notebook"
-  },
-  {
-    "question": "Unit 5: This is a ____. It shows the whole world. / Đây là một ____. Nó cho thấy toàn bộ thế giới.",
-    "options": ["globe", "map", "picture", "poster"],
-    "correctAnswer": "globe"
-  },
-  {
-    "question": "Unit 5: Spell the word: l-e-a-r-n / Đánh vần từ: l-e-a-r-n",
-    "options": ["learn", "lean", "leaf", "lend"],
-    "correctAnswer": "learn"
-  },
-  {
-    "question": "Unit 5: My favorite subject is ____. / Môn học yêu thích của tôi là ____.",
-    "options": ["English", "Maths", "Art", "Music"],
-    "correctAnswer": "English"
-  },
-  {
-    "question": "Unit 5: Spell the word: d-r-a-w / Đánh vần từ: d-r-a-w",
-    "options": ["draw", "dream", "drink", "drive"],
-    "correctAnswer": "draw"
-  },
-  {
-    "question": "Unit 5: Spell the word: s-t-u-d-e-n-t / Đánh vần từ: s-t-u-d-e-n-t",
-    "options": ["student", "study", "student's", "studied"],
-    "correctAnswer": "student"
-  },
-  {
-    "question": "Unit 6: This animal says 'oink oink'. / Con vật này kêu 'oink oink'.",
-    "options": ["A pig", "A chicken", "A duck", "A horse"],
-    "correctAnswer": "A pig"
-  },
-  {
-    "question": "Unit 6: This animal gives us eggs. / Con vật này cho chúng ta trứng.",
-    "options": ["A chicken", "A pig", "A horse", "A duck"],
-    "correctAnswer": "A chicken"
-  },
-  {
-    "question": "Unit 6: You can ride this animal. / Bạn có thể cưỡi con vật này.",
-    "options": ["A horse", "A pig", "A chicken", "A duck"],
-    "correctAnswer": "A horse"
-  },
-  {
-    "question": "Unit 6: This animal can swim in the pond. / Con vật này có thể bơi trong ao.",
-    "options": ["A duck", "A chicken", "A pig", "A horse"],
-    "correctAnswer": "A duck"
-  },
-  {
-    "question": "Unit 6: Spell the word: p-i-g / Đánh vần từ: p-i-g",
-    "options": ["pig", "big", "dig", "fig"],
-    "correctAnswer": "pig"
-  },
-  {
-    "question": "Unit 6: This animal gives us wool. / Con vật này cho chúng ta len.",
-    "options": ["A sheep", "A goat", "A cow", "A horse"],
-    "correctAnswer": "A sheep"
-  },
-  {
-    "question": "Unit 6: A ____ works on the farm. / Một ____ làm việc ở nông trại.",
-    "options": ["farmer", "doctor", "teacher", "pilot"],
-    "correctAnswer": "farmer"
-  },
-  {
-    "question": "Unit 6: Spell the word: f-a-r-m / Đánh vần từ: f-a-r-m",
-    "options": ["farm", "form", "from", "arm"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Unit 6: Find the word: s-h-e-e-p / Tìm từ: s-h-e-e-p",
-    "options": ["sheep", "ship", "shop", "sheet"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "Unit 6: Find the word: f-a-r-m-e-r / Tìm từ: f-a-r-m-e-r",
-    "options": ["farmer", "father", "former", "famous"],
-    "correctAnswer": "farmer"
-  },
-  {
-    "question": "Unit 6: Spell the word: e-g-g / Đánh vần từ: e-g-g",
-    "options": ["egg", "leg", "beg", "peg"],
-    "correctAnswer": "egg"
-  },
-  {
-    "question": "Unit 6: This is a ____. The farmer drives it. / Đây là một ____. Người nông dân lái nó.",
-    "options": ["tractor", "horse", "cow", "pig"],
-    "correctAnswer": "tractor"
-  },
-  {
-    "question": "Unit 6: This is ____. It's where the animals sleep. / Đây là ____. Đó là nơi các con vật ngủ.",
-    "options": ["a barn", "a house", "a school", "a shop"],
-    "correctAnswer": "a barn"
-  },
-  {
-    "question": "Unit 6: Spell the word: t-r-a-c-t-o-r / Đánh vần từ: t-r-a-c-t-o-r",
-    "options": ["tractor", "doctor", "actor", "factor"],
-    "correctAnswer": "tractor"
-  },
-  {
-    "question": "Unit 6: The ducks are ____. / Những con vịt thì ____.",
-    "options": ["swimming", "flying", "running", "sleeping"],
-    "correctAnswer": "swimming"
-  },
-  {
-    "question": "Unit 7: You sit on it to eat. / Bạn ngồi trên nó để ăn.",
-    "options": ["A chair", "A table", "A cup", "A plate"],
-    "correctAnswer": "A chair"
-  },
-  {
-    "question": "Unit 7: You put food on it. / Bạn đặt thức ăn lên đó.",
-    "options": ["A table", "A chair", "A cup", "A plate"],
-    "correctAnswer": "A table"
-  },
-  {
-    "question": "Unit 7: You drink this from a fruit. / Bạn uống thứ này từ trái cây.",
-    "options": ["Juice", "Milk", "Water", "Tea"],
-    "correctAnswer": "Juice"
-  },
-  {
-    "question": "Unit 7: This is ____. It's round and has cheese on it. / Đây là ____. Nó hình tròn và có phô mai ở trên.",
-    "options": ["pizza", "chicken", "fish", "rice"],
-    "correctAnswer": "pizza"
-  },
-  {
-    "question": "Unit 7: Spell the word: j-u-i-c-e / Đánh vần từ: j-u-i-c-e",
-    "options": ["juice", "judge", "jungle", "just"],
-    "correctAnswer": "juice"
-  },
-  {
-    "question": "Unit 7: This is ____. It's a bird you can eat. / Đây là ____. Nó là một loài chim bạn có thể ăn.",
-    "options": ["chicken", "fish", "pizza", "juice"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "Unit 7: Find the word: c-h-a-i-r / Tìm từ: c-h-a-i-r",
-    "options": ["chair", "hair", "pair", "fair"],
-    "correctAnswer": "chair"
-  },
-  {
-    "question": "Unit 7: This is food from the sea. / Đây là thức ăn từ biển.",
-    "options": ["Fish", "Chicken", "Pizza", "Pork"],
-    "correctAnswer": "Fish"
-  },
-  {
-    "question": "Unit 7: Spell the word: c-h-i-c-k-e-n / Đánh vần từ: c-h-i-c-k-e-n",
-    "options": ["chicken", "kitchen", "children", "chimney"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "Unit 7: We can get ____ from cows. / Chúng ta có thể lấy ____ từ bò.",
-    "options": ["milk", "eggs", "juice", "wool"],
-    "correctAnswer": "milk"
-  },
-  {
-    "question": "Unit 7: Find the word: k-i-t-c-h-e-n / Tìm từ: k-i-t-c-h-e-n",
-    "options": ["kitchen", "chicken", "kitten", "kicking"],
-    "correctAnswer": "kitchen"
-  },
-  {
-    "question": "Unit 7: Spell the word: f-i-s-h / Đánh vần từ: f-i-s-h",
-    "options": ["fish", "dish", "wish", "fist"],
-    "correctAnswer": "fish"
-  },
-  {
-    "question": "Unit 7: The pizza is ____. / Chiếc pizza thì ____.",
-    "options": ["hot", "cold", "small", "thin"],
-    "correctAnswer": "hot"
-  },
-  {
-    "question": "Unit 7: Spell the word: p-l-a-t-e / Đánh vần từ: p-l-a-t-e",
-    "options": ["plate", "plane", "plant", "play"],
-    "correctAnswer": "plate"
-  },
-  {
-    "question": "Unit 7: Spell the word: e-a-t / Đánh vần từ: e-a-t",
-    "options": ["eat", "tea", "ate", "neat"],
-    "correctAnswer": "eat"
-  },
-  {
-    "question": "Unit 8: This is a ____. You walk or drive on it. / Đây là một ____. Bạn đi bộ hoặc lái xe trên đó.",
-    "options": ["road", "river", "path", "street"],
-    "correctAnswer": "road"
-  },
-  {
-    "question": "Unit 8: You can see a ____ in the village. It's smaller than a river. / Bạn có thể thấy một ____ trong làng. Nó nhỏ hơn một con sông.",
-    "options": ["pond", "sea", "ocean", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "Unit 8: Spell the word: r-o-a-d / Đánh vần từ: r-o-a-d",
-    "options": ["road", "read", "ride", "rose"],
-    "correctAnswer": "road"
-  },
-  {
-    "question": "Unit 8: This is a ____. It's a small road. / Đây là một ____. Nó là một con đường nhỏ.",
-    "options": ["path", "road", "street", "highway"],
-    "correctAnswer": "path"
-  },
-  {
-    "question": "Unit 8: Find the word: h-o-u-s-e / Tìm từ: h-o-u-s-e",
-    "options": ["house", "horse", "hose", "hour"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "Unit 8: Is this a quiet village? / Đây có phải là một ngôi làng yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "It is a village.", "I have a house."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Unit 8: Spell the word: p-a-t-h / Đánh vần từ: p-a-t-h",
-    "options": ["path", "math", "bath", "pass"],
-    "correctAnswer": "path"
-  },
-  {
-    "question": "Unit 8: Spell the word: v-i-l-l-a-g-e / Đánh vần từ: v-i-l-l-a-g-e",
-    "options": ["village", "villa", "vintage", "vinegar"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "Unit 8: This is a ____. People get water from here. / Đây là một ____. Mọi người lấy nước từ đây.",
-    "options": ["well", "river", "pond", "lake"],
-    "correctAnswer": "well"
-  },
-  {
-    "question": "Unit 8: Find the word: q-u-i-e-t / Tìm từ: q-u-i-e-t",
-    "options": ["quiet", "quite", "quit", "quilt"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Unit 8: Find the word: r-i-v-e-r / Tìm từ: r-i-v-e-r",
-    "options": ["river", "ruler", "rider", "razor"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "Unit 8: The village is ____. / Ngôi làng thì ____.",
-    "options": ["quiet", "noisy", "small", "thin"],
-    "correctAnswer": "quiet"
-  },
-  {
-    "question": "Unit 8: Spell the word: b-o-a-t / Đánh vần từ: b-o-a-t",
-    "options": ["boat", "goat", "coat", "boot"],
-    "correctAnswer": "boat"
-  },
-  {
-    "question": "Unit 8: Spell the word: p-o-n-d / Đánh vần từ: p-o-n-d",
-    "options": ["pond", "bond", "fond", "pawn"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "Unit 8: This is a ____. / Đây là một ____.",
-    "options": ["buffalo", "cow", "horse", "goat"],
-    "correctAnswer": "buffalo"
-  }
+    {
+        "question": "Unit 1: This is a sweet food you eat at a birthday party, often with candles. What is it? / Đây là một món ăn ngọt bạn ăn ở tiệc sinh nhật, thường có nến. Nó là gì?",
+        "options": [
+            "A cake",
+            "A sandwich",
+            "Rice",
+            "Soup"
+        ],
+        "correctAnswer": "A cake"
+    },
+    {
+        "question": "Unit 2: This is the grassy area behind a house where you can play. What is it? / Đây là khu vực có cỏ phía sau nhà, nơi bạn có thể chơi. Nó là gì?",
+        "options": [
+            "A backyard",
+            "A kitchen",
+            "A bedroom",
+            "A school"
+        ],
+        "correctAnswer": "A backyard"
+    },
+    {
+        "question": "Unit 3: This is a place with a lot of sand next to the sea. What is it? / Đây là một nơi có rất nhiều cát bên cạnh biển. Nó là gì?",
+        "options": [
+            "A beach",
+            "A mountain",
+            "A forest",
+            "A city"
+        ],
+        "correctAnswer": "A beach"
+    },
+    {
+        "question": "Unit 4: This is an area with fields and farms, not a city. What is it? / Đây là một khu vực có những cánh đồng và trang trại, không phải thành phố. Nó là gì?",
+        "options": [
+            "The countryside",
+            "The seaside",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "The countryside"
+    },
+    {
+        "question": "Unit 5: This is a room in a school where a teacher teaches students. What is it? / Đây là một căn phòng trong trường học nơi giáo viên dạy học sinh. Nó là gì?",
+        "options": [
+            "A classroom",
+            "A kitchen",
+            "A bedroom",
+            "A park"
+        ],
+        "correctAnswer": "A classroom"
+    },
+    {
+        "question": "Unit 6: This large animal lives on a farm, says 'moo', and gives us milk. What is it? / Con vật lớn này sống trong trang trại, kêu 'moo' và cho chúng ta sữa. Nó là gì?",
+        "options": [
+            "A cow",
+            "A horse",
+            "A sheep",
+            "A pig"
+        ],
+        "correctAnswer": "A cow"
+    },
+    {
+        "question": "Unit 7: This is a big machine in the kitchen that keeps food cold. What is it? / Đây là một cái máy lớn trong bếp giữ cho thức ăn lạnh. Nó là gì?",
+        "options": [
+            "A fridge",
+            "An oven",
+            "A stove",
+            "A sink"
+        ],
+        "correctAnswer": "A fridge"
+    },
+    {
+        "question": "Unit 8: This is a small community of houses in the countryside. What is it? / Đây là một cộng đồng nhỏ gồm nhiều ngôi nhà ở nông thôn. Nó là gì?",
+        "options": [
+            "A village",
+            "A city",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "A village"
+    },
+    {
+        "question": "Unit 1: You blow these out on your cake and make a wish. What are they? / Bạn thổi những thứ này trên bánh kem và ước một điều. Chúng là gì?",
+        "options": [
+            "Candles",
+            "Balloons",
+            "Presents",
+            "Hats"
+        ],
+        "correctAnswer": "Candles"
+    },
+    {
+        "question": "Unit 2: This is a tall plant with a trunk and green leaves. What is it? / Đây là một loài cây cao có thân và lá màu xanh. Nó là gì?",
+        "options": [
+            "A tree",
+            "A flower",
+            "A fence",
+            "A gate"
+        ],
+        "correctAnswer": "A tree"
+    },
+    {
+        "question": "Unit 3: This is the big, salty water that covers most of the Earth. What is it? / Đây là vùng nước mặn, rộng lớn bao phủ hầu hết Trái Đất. Nó là gì?",
+        "options": [
+            "The sea",
+            "A river",
+            "A lake",
+            "A pond"
+        ],
+        "correctAnswer": "The sea"
+    },
+    {
+        "question": "Unit 4: A person who works on a farm is a ____. / Một người làm việc trên nông trại là một ____.",
+        "options": [
+            "farmer",
+            "teacher",
+            "doctor",
+            "driver"
+        ],
+        "correctAnswer": "farmer"
+    },
+    {
+        "question": "Unit 5: You sit on this piece of furniture in the classroom. What is it? / Bạn ngồi trên món đồ nội thất này trong lớp học. Nó là gì?",
+        "options": [
+            "A chair",
+            "A desk",
+            "A bed",
+            "A sofa"
+        ],
+        "correctAnswer": "A chair"
+    },
+    {
+        "question": "Unit 6: This animal is covered in wool and says 'baa'. What is it? / Con vật này được bao phủ bởi lông cừu và kêu 'baa'. Nó là gì?",
+        "options": [
+            "A sheep",
+            "A goat",
+            "A cow",
+            "A chicken"
+        ],
+        "correctAnswer": "A sheep"
+    },
+    {
+        "question": "Unit 7: You cook food in pots and pans on top of this. What is it? / Bạn nấu thức ăn trong nồi và chảo trên cái này. Nó là gì?",
+        "options": [
+            "A stove",
+            "A fridge",
+            "A table",
+            "A chair"
+        ],
+        "correctAnswer": "A stove"
+    },
+    {
+        "question": "Unit 8: This is a path that cars and bikes travel on. What is it? / Đây là một con đường mà ô tô và xe đạp đi lại. Nó là gì?",
+        "options": [
+            "A road",
+            "A river",
+            "A field",
+            "A house"
+        ],
+        "correctAnswer": "A road"
+    },
+    {
+        "question": "Unit 1: These are colorful, filled with air, and used for decoration. What are they? / Đây là những vật nhiều màu sắc, chứa đầy không khí và dùng để trang trí. Chúng là gì?",
+        "options": [
+            "Balloons",
+            "Candles",
+            "Cakes",
+            "Chairs"
+        ],
+        "correctAnswer": "Balloons"
+    },
+    {
+        "question": "Unit 2: This is a structure made of wood or metal that goes around a yard. What is it? / Đây là một cấu trúc bằng gỗ hoặc kim loại bao quanh sân. Nó là gì?",
+        "options": [
+            "A fence",
+            "A gate",
+            "A wall",
+            "A door"
+        ],
+        "correctAnswer": "A fence"
+    },
+    {
+        "question": "Unit 3: You can build this with sand and a bucket. What is it? / Bạn có thể xây cái này bằng cát và một cái xô. Nó là gì?",
+        "options": [
+            "A sandcastle",
+            "A house",
+            "A school",
+            "A boat"
+        ],
+        "correctAnswer": "A sandcastle"
+    },
+    {
+        "question": "Unit 4: This large farm animal says 'moo' and gives us milk. What is it? / Con vật nuôi lớn này kêu 'moo' và cho chúng ta sữa. Nó là gì?",
+        "options": [
+            "A cow",
+            "A sheep",
+            "A horse",
+            "A chicken"
+        ],
+        "correctAnswer": "A cow"
+    },
+    {
+        "question": "Unit 5: The teacher writes on this large white or green surface. What is it? / Giáo viên viết trên bề mặt lớn màu trắng hoặc xanh này. Nó là gì?",
+        "options": [
+            "A board",
+            "A table",
+            "A window",
+            "A picture"
+        ],
+        "correctAnswer": "A board"
+    },
+    {
+        "question": "Unit 6: This is a large animal that people can ride. What is it? / Đây là một con vật lớn mà mọi người có thể cưỡi. Nó là gì?",
+        "options": [
+            "A horse",
+            "A sheep",
+            "A cow",
+            "A duck"
+        ],
+        "correctAnswer": "A horse"
+    },
+    {
+        "question": "Unit 7: You bake cakes and bread inside this machine. What is it? / Bạn nướng bánh ngọt và bánh mì bên trong cái máy này. Nó là gì?",
+        "options": [
+            "An oven",
+            "A microwave",
+            "A fridge",
+            "A sink"
+        ],
+        "correctAnswer": "An oven"
+    },
+    {
+        "question": "Unit 8: This is a structure built over a river so you can cross. What is it? / Đây là một công trình được xây dựng bắc qua sông để bạn có thể đi qua. Nó là gì?",
+        "options": [
+            "A bridge",
+            "A boat",
+            "A car",
+            "A house"
+        ],
+        "correctAnswer": "A bridge"
+    },
+    {
+        "question": "Unit 1: What do you say to your friends when they give you a present? / Bạn nói gì với bạn bè khi họ tặng bạn một món quà?",
+        "options": [
+            "Thank you",
+            "Hello",
+            "Goodbye",
+            "Sorry"
+        ],
+        "correctAnswer": "Thank you"
+    },
+    {
+        "question": "Unit 2: What do you do in the backyard with your friends? / Bạn làm gì trong sân sau với bạn bè?",
+        "options": [
+            "Play",
+            "Cook",
+            "Sleep",
+            "Study"
+        ],
+        "correctAnswer": "Play"
+    },
+    {
+        "question": "Unit 3: What activity do you do in the sea? / Bạn làm hoạt động gì ở biển?",
+        "options": [
+            "Swim",
+            "Fly",
+            "Run",
+            "Read"
+        ],
+        "correctAnswer": "Swim"
+    },
+    {
+        "question": "Unit 4: What do farmers grow in the fields? / Nông dân trồng gì trên cánh đồng?",
+        "options": [
+            "Vegetables and grains",
+            "Toys and books",
+            "Cars and bikes",
+            "Houses and schools"
+        ],
+        "correctAnswer": "Vegetables and grains"
+    },
+    {
+        "question": "Unit 5: What do you do with a book? / Bạn làm gì với một cuốn sách?",
+        "options": [
+            "Read",
+            "Eat",
+            "Throw",
+            "Wear"
+        ],
+        "correctAnswer": "Read"
+    },
+    {
+        "question": "Unit 6: What do you call a baby sheep? / Bạn gọi một con cừu con là gì?",
+        "options": [
+            "A lamb",
+            "A calf",
+            "A foal",
+            "A chick"
+        ],
+        "correctAnswer": "A lamb"
+    },
+    {
+        "question": "Unit 7: What do you do when you are thirsty? / Bạn làm gì khi bạn khát?",
+        "options": [
+            "Drink",
+            "Eat",
+            "Run",
+            "Draw"
+        ],
+        "correctAnswer": "Drink"
+    },
+    {
+        "question": "Unit 8: What do you call the people who live in a village? / Bạn gọi những người sống trong một ngôi làng là gì?",
+        "options": [
+            "Villagers",
+            "Teachers",
+            "Doctors",
+            "Farmers"
+        ],
+        "correctAnswer": "Villagers"
+    },
+    {
+        "question": "Unit 1: Spell the word for the sweet food with candles. / Đánh vần từ chỉ món ăn ngọt có nến.",
+        "options": [
+            "c-a-k-e",
+            "j-u-i-c-e",
+            "c-a-n-d-y",
+            "f-o-o-d"
+        ],
+        "correctAnswer": "c-a-k-e"
+    },
+    {
+        "question": "Unit 2: Spell the word for the tall plant with leaves. / Đánh vần từ chỉ loài cây cao có lá.",
+        "options": [
+            "t-r-e-e",
+            "f-e-n-c-e",
+            "g-a-t-e",
+            "g-r-a-s-s"
+        ],
+        "correctAnswer": "t-r-e-e"
+    },
+    {
+        "question": "Unit 3: Spell the word for the big body of salt water. / Đánh vần từ chỉ vùng nước mặn rộng lớn.",
+        "options": [
+            "s-e-a",
+            "l-a-k-e",
+            "p-o-n-d",
+            "b-e-d"
+        ],
+        "correctAnswer": "s-e-a"
+    },
+    {
+        "question": "Unit 4: Spell the word for the person who works on a farm. / Đánh vần từ chỉ người làm việc trên nông trại.",
+        "options": [
+            "f-a-r-m-e-r",
+            "t-e-a-c-h-e-r",
+            "d-o-c-t-o-r",
+            "d-r-i-v-e-r"
+        ],
+        "correctAnswer": "f-a-r-m-e-r"
+    },
+    {
+        "question": "Unit 5: Spell the word for the room where you learn. / Đánh vần từ chỉ căn phòng nơi bạn học.",
+        "options": [
+            "c-l-a-s-s-r-o-o-m",
+            "p-l-a-y-g-r-o-u-n-d",
+            "k-i-t-c-h-e-n",
+            "g-a-r-d-e-n"
+        ],
+        "correctAnswer": "c-l-a-s-s-r-o-o-m"
+    },
+    {
+        "question": "Unit 6: Spell the word for the animal that gives us wool. / Đánh vần từ chỉ con vật cho chúng ta len.",
+        "options": [
+            "s-h-e-e-p",
+            "g-o-a-t",
+            "c-o-w",
+            "h-o-r-s-e"
+        ],
+        "correctAnswer": "s-h-e-e-p"
+    },
+    {
+        "question": "Unit 7: Spell the word for the machine that keeps food cold. / Đánh vần từ chỉ cái máy giữ lạnh thức ăn.",
+        "options": [
+            "f-r-i-d-g-e",
+            "s-t-o-v-e",
+            "o-v-e-n",
+            "s-i-n-k"
+        ],
+        "correctAnswer": "f-r-i-d-g-e"
+    },
+    {
+        "question": "Unit 8: Spell the word for the structure that crosses a river. / Đánh vần từ chỉ công trình bắc qua sông.",
+        "options": [
+            "b-r-i-d-g-e",
+            "r-o-a-d",
+            "p-a-t-h",
+            "t-u-n-n-e-l"
+        ],
+        "correctAnswer": "b-r-i-d-g-e"
+    },
+    {
+        "question": "Unit 1: The people you invite to your party are your ____. / Những người bạn mời đến bữa tiệc của mình là ____ của bạn.",
+        "options": [
+            "friends",
+            "teachers",
+            "doctors",
+            "pets"
+        ],
+        "correctAnswer": "friends"
+    },
+    {
+        "question": "Unit 2: This is a structure that goes around a yard. What is it? / Đây là một cấu trúc bao quanh sân. Nó là gì?",
+        "options": [
+            "A fence",
+            "A gate",
+            "A wall",
+            "A door"
+        ],
+        "correctAnswer": "A fence"
+    },
+    {
+        "question": "Unit 3: This animal has a hard shell and walks sideways. What is it? / Con vật này có mai cứng và đi ngang. Nó là gì?",
+        "options": [
+            "A crab",
+            "A fish",
+            "A bird",
+            "A turtle"
+        ],
+        "correctAnswer": "A crab"
+    },
+    {
+        "question": "Unit 4: This farm bird gives us eggs. What is it? / Loài gia cầm này cho chúng ta trứng. Nó là gì?",
+        "options": [
+            "A chicken",
+            "A duck",
+            "A goose",
+            "A turkey"
+        ],
+        "correctAnswer": "A chicken"
+    },
+    {
+        "question": "Unit 5: You use this to write, and you can erase the marks. What is it? / Bạn dùng cái này để viết, và bạn có thể tẩy vết của nó. Nó là gì?",
+        "options": [
+            "A pencil",
+            "A pen",
+            "A marker",
+            "A crayon"
+        ],
+        "correctAnswer": "A pencil"
+    },
+    {
+        "question": "Unit 6: This pink animal lives on a farm and says 'oink'. What is it? / Con vật màu hồng này sống trong trang trại và kêu 'oink'. Nó là gì?",
+        "options": [
+            "A pig",
+            "A sheep",
+            "A horse",
+            "A cow"
+        ],
+        "correctAnswer": "A pig"
+    },
+    {
+        "question": "Unit 7: You wash your hands and the dishes here. What is it? / Bạn rửa tay và bát đĩa ở đây. Nó là gì?",
+        "options": [
+            "A sink",
+            "A stove",
+            "A bed",
+            "A sofa"
+        ],
+        "correctAnswer": "A sink"
+    },
+    {
+        "question": "Unit 8: This is a very high hill. What is it? / Đây là một ngọn đồi rất cao. Nó là gì?",
+        "options": [
+            "A mountain",
+            "A field",
+            "A river",
+            "A village"
+        ],
+        "correctAnswer": "A mountain"
+    },
+    {
+        "question": "Unit 1: What do you wear on your head at a birthday party? / Bạn đội gì trên đầu trong một bữa tiệc sinh nhật?",
+        "options": [
+            "A party hat",
+            "A helmet",
+            "A scarf",
+            "Shoes"
+        ],
+        "correctAnswer": "A party hat"
+    },
+    {
+        "question": "Unit 2: To push yourself up into the air is to ____. / Đẩy mình lên không trung là ____.",
+        "options": [
+            "jump",
+            "crawl",
+            "eat",
+            "drink"
+        ],
+        "correctAnswer": "jump"
+    },
+    {
+        "question": "Unit 3: What do you use to dig in the sand? / Bạn dùng gì để đào cát?",
+        "options": [
+            "A spade",
+            "A fork",
+            "A spoon",
+            "A pen"
+        ],
+        "correctAnswer": "A spade"
+    },
+    {
+        "question": "Unit 4: A farmer drives this vehicle in the fields. What is it? / Một người nông dân lái phương tiện này trên cánh đồng. Nó là gì?",
+        "options": [
+            "A tractor",
+            "A car",
+            "A bus",
+            "A bike"
+        ],
+        "correctAnswer": "A tractor"
+    },
+    {
+        "question": "Unit 5: You use this to fix mistakes made with a pencil. What is it? / Bạn dùng cái này để sửa lỗi khi viết bằng bút chì. Nó là gì?",
+        "options": [
+            "An eraser",
+            "A sharpener",
+            "A ruler",
+            "A pen"
+        ],
+        "correctAnswer": "An eraser"
+    },
+    {
+        "question": "Unit 6: What do you call a baby chicken? / Bạn gọi một con gà con là gì?",
+        "options": [
+            "A chick",
+            "A duckling",
+            "A gosling",
+            "A puppy"
+        ],
+        "correctAnswer": "A chick"
+    },
+    {
+        "question": "Unit 7: You drink water or juice from this. What is it? / Bạn uống nước hoặc nước ép từ cái này. Nó là gì?",
+        "options": [
+            "A glass",
+            "A plate",
+            "A bowl",
+            "A fork"
+        ],
+        "correctAnswer": "A glass"
+    },
+    {
+        "question": "Unit 8: The air in a village is often very ____. / Không khí trong một ngôi làng thường rất ____.",
+        "options": [
+            "fresh",
+            "dirty",
+            "hot",
+            "loud"
+        ],
+        "correctAnswer": "fresh"
+    },
+    {
+        "question": "Unit 1: What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Big",
+            "Fast",
+            "Hot"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Unit 2: What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [
+            "Short",
+            "Long",
+            "Big",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "Unit 3: What is the opposite of 'hot'? / Từ trái nghĩa của 'hot' là gì?",
+        "options": [
+            "Cold",
+            "Warm",
+            "Sunny",
+            "Dry"
+        ],
+        "correctAnswer": "Cold"
+    },
+    {
+        "question": "Unit 4: What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "Unit 5: What is the opposite of 'open'? / Từ trái nghĩa của 'open' là gì?",
+        "options": [
+            "Close",
+            "In",
+            "Start",
+            "Big"
+        ],
+        "correctAnswer": "Close"
+    },
+    {
+        "question": "Unit 6: What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "Unit 7: What is the opposite of 'full'? / Từ trái nghĩa của 'full' là gì?",
+        "options": [
+            "Empty",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Empty"
+    },
+    {
+        "question": "Unit 8: What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    }
 ]
-
