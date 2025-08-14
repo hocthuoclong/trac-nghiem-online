@@ -1,962 +1,402 @@
 [
     {
-        "question": "Do you have a ____? - Yes, I do. / Bạn có một ____ không? - Vâng, tớ có.",
+        "question": "This is something you play with for fun. What is it? / Đây là thứ bạn chơi để giải trí. Nó là gì?",
         "options": [
-            "robot",
-            "book",
-            "pen",
-            "chair"
+            "A toy",
+            "A book",
+            "A pen",
+            "A chair"
         ],
-        "correctAnswer": "robot"
+        "correctAnswer": "A toy"
     },
     {
-        "question": "This is my ____. It's a beautiful girl. / Đây là ____ của tôi. Đó là một cô gái xinh đẹp.",
-        "options": [
-            "doll",
-            "robot",
-            "car",
-            "ball"
-        ],
-        "correctAnswer": "doll"
-    },
-    {
-        "question": "I have a ____. Let's play football. / Tôi có một ____. Hãy chơi bóng đá nào.",
-        "options": [
-            "ball",
-            "doll",
-            "robot",
-            "kite"
-        ],
-        "correctAnswer": "ball"
-    },
-    {
-        "question": "This is a ____. It can fly high in the sky. / Đây là một ____. Nó có thể bay cao trên bầu trời.",
-        "options": [
-            "kite",
-            "ship",
-            "plane",
-            "car"
-        ],
-        "correctAnswer": "kite"
-    },
-    {
-        "question": "Spell the word: t-o-y / Đánh vần từ: t-o-y",
-        "options": [
-            "toy",
-            "top",
-            "ton",
-            "tom"
-        ],
-        "correctAnswer": "toy"
-    },
-    {
-        "question": "This is a ____. It sails on the sea. / Đây là một ____. Nó đi trên biển.",
-        "options": [
-            "ship",
-            "plane",
-            "car",
-            "bus"
-        ],
-        "correctAnswer": "ship"
-    },
-    {
-        "question": "My favorite toy is a ____. It can fly. / Đồ chơi yêu thích của tôi là một ____. Nó có thể bay.",
-        "options": [
-            "plane",
-            "ship",
-            "car",
-            "robot"
-        ],
-        "correctAnswer": "plane"
-    },
-    {
-        "question": "Find the word: d-o-l-l / Tìm từ: d-o-l-l",
-        "options": [
-            "doll",
-            "ball",
-            "door",
-            "tall"
-        ],
-        "correctAnswer": "doll"
-    },
-    {
-        "question": "Do you have any toys? / Bạn có đồ chơi nào không?",
-        "options": [
-            "Yes, I do. I have many toys.",
-            "No, I don't.",
-            "I am playing.",
-            "I like toys."
-        ],
-        "correctAnswer": "Yes, I do. I have many toys."
-    },
-    {
-        "question": "This is a colourful ____. / Đây là một ____ đầy màu sắc.",
-        "options": [
-            "kite",
-            "robot",
-            "ship",
-            "plane"
-        ],
-        "correctAnswer": "kite"
-    },
-    {
-        "question": "What are they doing? / Họ đang làm gì vậy?",
-        "options": [
-            "They're playing with their toys.",
-            "They're reading.",
-            "They're writing.",
-            "They're sleeping."
-        ],
-        "correctAnswer": "They're playing with their toys."
-    },
-    {
-        "question": "I like to ____ with my robot. / Tớ thích ____ với con rô-bốt của tớ.",
-        "options": [
-            "play",
-            "read",
-            "study",
-            "sleep"
-        ],
-        "correctAnswer": "play"
-    },
-    {
-        "question": "What is the missing letter: to_",
-        "options": [
-            "y",
-            "p",
-            "d",
-            "k"
-        ],
-        "correctAnswer": "y"
-    },
-    {
-        "question": "This is my ____. It's new. / Đây là ____ của tôi. Nó mới.",
-        "options": [
-            "plane",
-            "ship",
-            "kite",
-            "robot"
-        ],
-        "correctAnswer": "plane"
-    },
-    {
-        "question": "My ____ is very fast. / ____ của tôi rất nhanh.",
-        "options": [
-            "car",
-            "ship",
-            "kite",
-            "doll"
-        ],
-        "correctAnswer": "car"
-    },
-    {
-        "question": "Let's play with the ____. / Hãy chơi với ____.",
-        "options": [
-            "ball",
-            "books",
-            "pencils",
-            "chairs"
-        ],
-        "correctAnswer": "ball"
-    },
-    {
-        "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
-        "options": [
-            "kite",
-            "king",
-            "kiss",
-            "kitchen"
-        ],
-        "correctAnswer": "kite"
-    },
-    {
-        "question": "Is this a big ship? / Đây có phải là một con tàu lớn không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is small.",
-            "It is a ship.",
-            "I can see a ship."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "I am flying my ____. / Tôi đang thả ____ của tôi.",
-        "options": [
-            "kite",
-            "plane",
-            "robot",
-            "ship"
-        ],
-        "correctAnswer": "kite"
-    },
-    {
-        "question": "What is the missing letter: _obot / Chữ cái còn thiếu là gì? _obot",
-        "options": [
-            "r",
-            "p",
-            "b",
-            "d"
-        ],
-        "correctAnswer": "r"
-    },
-    {
-        "question": "These are our ____. / Đây là những ____ của chúng tôi.",
-        "options": [
-            "toys",
-            "pets",
-            "books",
-            "friends"
-        ],
-        "correctAnswer": "toys"
-    },
-    {
-        "question": "How many dolls do you have? / Bạn có bao nhiêu búp bê?",
-        "options": [
-            "Two",
-            "One",
-            "Three",
-            "Four"
-        ],
-        "correctAnswer": "Two"
-    },
-    {
-        "question": "This is a ____. / Đây là một ____.",
-        "options": [
-            "robot",
-            "doll",
-            "car",
-            "ball"
-        ],
-        "correctAnswer": "robot"
-    },
-    {
-        "question": "Spell the word: p-l-a-n-e / Đánh vần từ: p-l-a-n-e",
-        "options": [
-            "plane",
-            "plan",
-            "plant",
-            "plate"
-        ],
-        "correctAnswer": "plane"
-    },
-    {
-        "question": "Is it a fun toy? / Nó có phải là một món đồ chơi vui không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "It is a toy.",
-            "I can see a toy."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "We can see a ____ in the sky. / Chúng ta có thể thấy một ____ trên bầu trời.",
-        "options": [
-            "plane",
-            "ship",
-            "car",
-            "bus"
-        ],
-        "correctAnswer": "plane"
-    },
-    {
-        "question": "What is the missing letter: shi_",
-        "options": [
-            "p",
-            "t",
-            "d",
-            "g"
-        ],
-        "correctAnswer": "p"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A car",
-            "A bus",
-            "A train",
-            "A bike"
-        ],
-        "correctAnswer": "A car"
-    },
-    {
-        "question": "This is a ____. It's my favorite toy. / Đây là một ____. Nó là đồ chơi yêu thích của tôi.",
-        "options": [
-            "teddy bear",
-            "doll",
-            "robot",
-            "car"
-        ],
-        "correctAnswer": "teddy bear"
-    },
-    {
-        "question": "This is ____. It's fun to play with toys. / Đây là ____. Thật vui khi chơi với đồ chơi.",
-        "options": [
-            "true",
-            "false",
-            "a game",
-            "a story"
-        ],
-        "correctAnswer": "true"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
+        "question": "This is a toy that looks like a person, often a girl or a baby. What is it? / Đây là một món đồ chơi trông giống như một người, thường là một cô gái hoặc em bé. Nó là gì?",
         "options": [
             "A doll",
             "A robot",
-            "A teddy bear",
-            "A puppet"
+            "A car",
+            "A ball"
         ],
         "correctAnswer": "A doll"
     },
     {
-        "question": "Find the word: b-a-l-l / Tìm từ: b-a-l-l",
+        "question": "This is a mechanical toy that can often walk and make sounds. What is it? / Đây là một món đồ chơi cơ khí thường có thể đi và phát ra âm thanh. Nó là gì?",
         "options": [
-            "ball",
-            "doll",
-            "fall",
-            "call"
+            "A robot",
+            "A teddy bear",
+            "A kite",
+            "A puzzle"
         ],
-        "correctAnswer": "ball"
+        "correctAnswer": "A robot"
     },
     {
-        "question": "Is it a red car? / Nó có phải là một chiếc xe màu đỏ không?",
+        "question": "This is a round toy that you can kick or throw. What is it? / Đây là một món đồ chơi hình tròn mà bạn có thể đá hoặc ném. Nó là gì?",
         "options": [
-            "Yes, it is.",
-            "No, it is blue.",
-            "I am playing.",
-            "I like cars."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My ____ is very smart. / ____ của tôi rất thông minh.",
-        "options": [
-            "robot",
-            "doll",
-            "teddy bear",
-            "kite"
-        ],
-        "correctAnswer": "robot"
-    },
-    {
-        "question": "What is the missing letter: plan_",
-        "options": [
-            "e",
-            "n",
-            "m",
-            "p"
-        ],
-        "correctAnswer": "e"
-    },
-    {
-        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-        "options": [
-            "toy",
-            "book",
-            "lesson",
-            "game"
-        ],
-        "correctAnswer": "toy"
-    },
-    {
-        "question": "Spell the word: s-h-i-p / Đánh vần từ: s-h-i-p",
-        "options": [
-            "ship",
-            "shop",
-            "sheep",
-            "shin"
-        ],
-        "correctAnswer": "ship"
-    },
-    {
-        "question": "Is this a colourful kite? / Đây có phải là một con diều nhiều màu sắc không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is black.",
-            "I can see a kite.",
-            "I like kites."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "The toy shop has many ____. / Cửa hàng đồ chơi có nhiều ____.",
-        "options": [
-            "toys",
-            "books",
-            "pets",
-            "clothes"
-        ],
-        "correctAnswer": "toys"
-    },
-    {
-        "question": "What is the missing letter: _oy / Chữ cái còn thiếu là gì? _oy",
-        "options": [
-            "t",
-            "b",
-            "p",
-            "c"
-        ],
-        "correctAnswer": "t"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
+            "A ball",
+            "A block",
             "A puzzle",
-            "A game",
-            "A book",
-            "A toy"
+            "A car"
         ],
-        "correctAnswer": "A puzzle"
+        "correctAnswer": "A ball"
     },
     {
-        "question": "My ____ is small. / ____ của tôi nhỏ.",
+        "question": "This is a toy that flies high in the sky on a string. What is it? / Đây là một món đồ chơi bay cao trên bầu trời bằng một sợi dây. Nó là gì?",
         "options": [
-            "car",
-            "ship",
-            "plane",
-            "robot"
+            "A kite",
+            "A ship",
+            "A train",
+            "A boat"
         ],
-        "correctAnswer": "car"
+        "correctAnswer": "A kite"
     },
     {
-        "question": "Is the robot walking? / Con rô-bốt có đang đi không?",
+        "question": "This is a toy that travels on water. What is it? / Đây là một món đồ chơi di chuyển trên mặt nước. Nó là gì?",
         "options": [
-            "Yes, it is.",
-            "No, it is standing.",
-            "It is a robot.",
-            "Hello."
+            "A ship",
+            "A plane",
+            "A car",
+            "A bus"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "A ship"
     },
     {
-        "question": "I can see a doll and a ____. / Tôi có thể thấy một con búp bê và một ____.",
+        "question": "This is a toy with wings that flies in the air. What is it? / Đây là một món đồ chơi có cánh bay trên không. Nó là gì?",
         "options": [
-            "teddy bear",
-            "house",
-            "car",
-            "book"
+            "A plane",
+            "A ship",
+            "A car",
+            "A train"
         ],
-        "correctAnswer": "teddy bear"
+        "correctAnswer": "A plane"
     },
     {
-        "question": "Find the word: p-u-z-z-l-e / Tìm từ: p-u-z-z-l-e",
+        "question": "This is a toy that runs on tracks. What is it? / Đây là một món đồ chơi chạy trên đường ray. Nó là gì?",
         "options": [
-            "puzzle",
-            "puddle",
-            "purple",
-            "puzzling"
+            "A train",
+            "A plane",
+            "A ship",
+            "A car"
         ],
-        "correctAnswer": "puzzle"
+        "correctAnswer": "A train"
     },
     {
-        "question": "This is my ____. I play with it every day. / Đây là ____ của tôi. Tôi chơi với nó mỗi ngày.",
+        "question": "To ask if your friend has a toy, you say: 'Do you have a ____?' / Để hỏi bạn của bạn có đồ chơi không, bạn nói: 'Do you have a ____?'",
         "options": [
             "toy",
-            "homework",
-            "chore",
-            "job"
-        ],
-        "correctAnswer": "toy"
-    },
-    {
-        "question": "What is the missing letter: robo_",
-        "options": [
-            "t",
-            "k",
-            "p",
-            "d"
-        ],
-        "correctAnswer": "t"
-    },
-    {
-        "question": "Is it a beautiful doll? / Nó có phải là một con búp bê đẹp không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is ugly.",
-            "I like dolls.",
-            "Goodbye."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My ____ are fun. / ____ của tôi rất vui.",
-        "options": [
-            "toys",
-            "homework",
-            "class",
-            "test"
-        ],
-        "correctAnswer": "toys"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A yo-yo",
-            "A top",
-            "A marble",
-            "A dice"
-        ],
-        "correctAnswer": "A yo-yo"
-    },
-    {
-        "question": "What do you do with your toys? / Bạn làm gì với đồ chơi của mình?",
-        "options": [
-            "I play with them.",
-            "I read them.",
-            "I write them.",
-            "I eat them."
-        ],
-        "correctAnswer": "I play with them."
-    },
-    {
-        "question": "A toy is something for ____. / Một món đồ chơi là một thứ để ____.",
-        "options": [
-            "playing",
-            "eating",
-            "sleeping",
-            "working"
-        ],
-        "correctAnswer": "playing"
-    },
-    {
-        "question": "I have ____ old teddy bear. / Tôi có ____ con gấu bông cũ.",
-        "options": [
-            "an",
-            "a",
-            "many",
-            "some"
-        ],
-        "correctAnswer": "an"
-    },
-    {
-        "question": "What colour is your ball? / Quả bóng của bạn màu gì?",
-        "options": [
-            "It's blue.",
-            "It's a ball.",
-            "It's round.",
-            "I have a ball."
-        ],
-        "correctAnswer": "It's blue."
-    },
-    {
-        "question": "What is the robot doing? / Con rô-bốt đang làm gì?",
-        "options": [
-            "It's dancing.",
-            "It's sleeping.",
-            "It's eating.",
-            "It's flying."
-        ],
-        "correctAnswer": "It's dancing."
-    },
-    {
-        "question": "The kite is ____. / Con diều thì ____.",
-        "options": [
-            "flying",
-            "swimming",
-            "running",
-            "jumping"
-        ],
-        "correctAnswer": "flying"
-    },
-    {
-        "question": "The toys are ____. / Những món đồ chơi thì ____.",
-        "options": [
-            "colourful",
-            "ugly",
-            "sad",
-            "bad"
-        ],
-        "correctAnswer": "colourful"
-    },
-    {
-        "question": "Is your room tidy? / Phòng của bạn có gọn gàng không?",
-        "options": [
-            "No, it is messy with toys.",
-            "Yes, it is.",
-            "Yes",
-            "No"
-        ],
-        "correctAnswer": "No, it is messy with toys."
-    },
-    {
-        "question": "My playtime is ____. / Giờ chơi của tôi thì ____.",
-        "options": [
-            "fun",
-            "noisy",
-            "busy",
-            "crowded"
-        ],
-        "correctAnswer": "fun"
-    },
-    {
-        "question": "What is the missing letter: fu_",
-        "options": [
-            "n",
-            "t",
-            "d",
-            "k"
-        ],
-        "correctAnswer": "n"
-    },
-    {
-        "question": "This is a ____. / Đây là một ____.",
-        "options": [
-            "ship",
-            "plane",
-            "car",
-            "bus"
-        ],
-        "correctAnswer": "ship"
-    },
-    {
-        "question": "I love my ____. / Tôi yêu ____ của tôi.",
-        "options": [
-            "toys",
-            "school",
             "book",
-            "car"
-        ],
-        "correctAnswer": "toys"
-    },
-    {
-        "question": "Is the plane flying high? / Máy bay có đang bay cao không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is low.",
-            "It is a plane.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Let's put away our ____. / Hãy cất ____ của chúng ta đi.",
-        "options": [
-            "toys",
-            "friends",
-            "pets",
-            "books"
-        ],
-        "correctAnswer": "toys"
-    },
-    {
-        "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
-        "options": [
-            "play",
-            "plan",
-            "plus",
-            "plum"
-        ],
-        "correctAnswer": "play"
-    },
-    {
-        "question": "I have ____ new toy car. / Tôi có ____ chiếc xe ô tô đồ chơi mới.",
-        "options": [
-            "a",
-            "an",
-            "one",
-            "two"
-        ],
-        "correctAnswer": "a"
-    },
-    {
-        "question": "My favorite toy is a ____. / Đồ chơi yêu thích của tôi là một ____.",
-        "options": [
-            "train",
-            "car",
-            "plane",
-            "ship"
-        ],
-        "correctAnswer": "train"
-    },
-    {
-        "question": "What is the missing letter: trai_",
-        "options": [
-            "n",
-            "a",
-            "i",
-            "e"
-        ],
-        "correctAnswer": "n"
-    },
-    {
-        "question": "This is ____. It runs on tracks. / Đây là ____. Nó chạy trên đường ray.",
-        "options": [
-            "a train",
-            "a car",
-            "a bus",
-            "a truck"
-        ],
-        "correctAnswer": "a train"
-    },
-    {
-        "question": "We should share our ____ with friends. / Chúng ta nên chia sẻ ____ với bạn bè.",
-        "options": [
-            "toys",
-            "food",
-            "secrets",
-            "all are correct"
-        ],
-        "correctAnswer": "all are correct"
-    },
-    {
-        "question": "Is it a big toy box? / Nó có phải là một hộp đồ chơi lớn không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is small.",
-            "I like toy boxes.",
-            "The toy box is full."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Spell the word: s-h-a-r-e / Đánh vần từ: s-h-a-r-e",
-        "options": [
-            "share",
-            "shore",
-            "sure",
-            "shape"
-        ],
-        "correctAnswer": "share"
-    },
-    {
-        "question": "I help my brother fix his ____. / Tôi giúp anh trai tôi sửa ____ của anh ấy.",
-        "options": [
-            "toy",
-            "bike",
-            "car",
-            "robot"
+            "pet",
+            "house"
         ],
         "correctAnswer": "toy"
     },
     {
-        "question": "The doll is in her ____. / Con búp bê đang ở trong ____ của nó.",
+        "question": "A polite answer to 'Do you have a ball?' is: / Một câu trả lời lịch sự cho 'Do you have a ball?' là:",
         "options": [
-            "dollhouse",
-            "cage",
-            "tank",
-            "box"
+            "Yes, I do.",
+            "I am playing.",
+            "It is a ball.",
+            "I like balls."
         ],
-        "correctAnswer": "dollhouse"
+        "correctAnswer": "Yes, I do."
     },
     {
-        "question": "What is the missing letter: dollhous_",
+        "question": "What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
         "options": [
-            "e",
-            "p",
-            "t",
-            "d"
+            "Old",
+            "Young",
+            "Big",
+            "Good"
         ],
-        "correctAnswer": "e"
+        "correctAnswer": "Old"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "My teddy bear is not new, it is ____. / Gấu bông của tôi không mới, nó ____.",
         "options": [
-            "A puppet",
-            "A doll",
-            "A robot",
-            "A teddy bear"
+            "old",
+            "new",
+            "happy",
+            "sad"
         ],
-        "correctAnswer": "A puppet"
+        "correctAnswer": "old"
     },
     {
-        "question": "My ____ is full of toys. / ____ của tôi đầy đồ chơi.",
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
         "options": [
-            "room",
-            "desk",
-            "bag",
-            "box"
+            "Small",
+            "Tall",
+            "Long",
+            "Happy"
         ],
-        "correctAnswer": "room"
+        "correctAnswer": "Small"
     },
     {
-        "question": "Is it a picture of your favorite toy? / Nó có phải là một bức tranh về đồ chơi yêu thích của bạn không?",
+        "question": "A toy car is ____ than a real car. / Một chiếc ô tô đồ chơi ____ hơn một chiếc ô tô thật.",
         "options": [
-            "Yes, it is.",
-            "No, it is my friend's toy.",
-            "I see a picture.",
-            "The picture is nice."
+            "smaller",
+            "bigger",
+            "faster",
+            "heavier"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "smaller"
     },
     {
-        "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
+        "question": "What do you do with a puzzle? / Bạn làm gì với một bộ xếp hình?",
         "options": [
-            "robot",
-            "doll",
-            "car",
-            "ball"
+            "Solve it",
+            "Eat it",
+            "Wear it",
+            "Throw it"
         ],
-        "correctAnswer": "robot"
+        "correctAnswer": "Solve it"
     },
     {
-        "question": "Spell the word: l-o-v-e / Đánh vần từ: l-o-v-e",
+        "question": "Spell the word for something you play with. / Đánh vần từ chỉ một thứ bạn chơi cùng.",
         "options": [
-            "love",
-            "live",
-            "leave",
-            "life"
+            "t-o-y",
+            "b-o-y",
+            "j-o-y",
+            "c-o-y"
         ],
-        "correctAnswer": "love"
+        "correctAnswer": "t-o-y"
     },
     {
-        "question": "This is a ____ day to play with toys. / Đây là một ngày ____ để chơi với đồ chơi.",
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
         "options": [
-            "perfect",
-            "rainy",
-            "cloudy",
-            "windy"
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
         ],
-        "correctAnswer": "perfect"
+        "correctAnswer": "Sad"
     },
     {
-        "question": "What is the missing letter: per_ect / Chữ cái còn thiếu là gì? per_ect",
-        "options": [
-            "f",
-            "p",
-            "s",
-            "m"
-        ],
-        "correctAnswer": "f"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A toy soldier",
-            "A doll",
-            "A robot",
-            "A puppet"
-        ],
-        "correctAnswer": "A toy soldier"
-    },
-    {
-        "question": "My father is buying me a ____. / Bố tôi đang mua cho tôi một ____.",
-        "options": [
-            "new toy",
-            "new book",
-            "new pen",
-            "new bag"
-        ],
-        "correctAnswer": "new toy"
-    },
-    {
-        "question": "Are the toys expensive? / Đồ chơi có đắt không?",
-        "options": [
-            "No, they are cheap.",
-            "Yes, they are.",
-            "They are toys.",
-            "I am happy."
-        ],
-        "correctAnswer": "No, they are cheap."
-    },
-    {
-        "question": "My toy shop has many ____. / Cửa hàng đồ chơi của tôi có nhiều ____.",
-        "options": [
-            "customers",
-            "teachers",
-            "parents",
-            "doctors"
-        ],
-        "correctAnswer": "customers"
-    },
-    {
-        "question": "Spell the word: c-h-e-a-p / Đánh vần từ: c-h-e-a-p",
-        "options": [
-            "cheap",
-            "cheat",
-            "chap",
-            "chip"
-        ],
-        "correctAnswer": "cheap"
-    },
-    {
-        "question": "I am ____ with my new toys. / Tôi ____ với những món đồ chơi mới của mình.",
+        "question": "Getting a new toy makes you feel ____. / Có một món đồ chơi mới làm bạn cảm thấy ____.",
         "options": [
             "happy",
             "sad",
-            "bored",
-            "angry"
+            "angry",
+            "scared"
         ],
         "correctAnswer": "happy"
     },
     {
-        "question": "What is the missing letter: dol_",
+        "question": "A soft, cuddly animal toy is a ____. / Một món đồ chơi động vật mềm, đáng yêu là một ____.",
         "options": [
-            "l",
-            "s",
-            "t",
-            "p"
+            "stuffed animal",
+            "robot",
+            "car",
+            "puzzle"
         ],
-        "correctAnswer": "l"
+        "correctAnswer": "stuffed animal"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
         "options": [
-            "A toy box",
-            "A school bag",
-            "A lunch box",
-            "A pencil case"
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
         ],
-        "correctAnswer": "A toy box"
+        "correctAnswer": "Hate"
     },
     {
-        "question": "My toys are my favorite ____. / Đồ chơi là ____ yêu thích của tôi.",
+        "question": "I ____ playing with my new train set. / Tôi ____ chơi với bộ tàu hỏa mới của mình.",
         "options": [
-            "things",
-            "food",
-            "colour",
-            "pets"
+            "love",
+            "hate",
+            "eat",
+            "sell"
         ],
-        "correctAnswer": "things"
+        "correctAnswer": "love"
     },
     {
-        "question": "Is the teddy bear soft? / Gấu bông có mềm không?",
+        "question": "Spell the word for a mechanical person toy. / Đánh vần từ chỉ một món đồ chơi người máy.",
         "options": [
-            "Yes, it is.",
-            "No, it is hard.",
-            "It is a teddy bear.",
-            "Hello."
+            "r-o-b-o-t",
+            "d-o-l-l",
+            "p-u-p-p-e-t",
+            "t-e-d-d-y"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "r-o-b-o-t"
     },
     {
-        "question": "The children have many ____. / Bọn trẻ có nhiều ____.",
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
         "options": [
-            "toys",
-            "problems",
-            "questions",
-            "answers"
+            "Few",
+            "Some",
+            "All",
+            "None"
         ],
-        "correctAnswer": "toys"
+        "correctAnswer": "Few"
     },
     {
-        "question": "Spell the word: t-e-d-d-y / Đánh vần từ: t-e-d-d-y",
+        "question": "I have ____ toys in my toy box. / Tôi có ____ đồ chơi trong hộp đồ chơi của mình.",
         "options": [
-            "teddy",
-            "today",
-            "tidy",
-            "tardy"
+            "many",
+            "no",
+            "sad",
+            "old"
         ],
-        "correctAnswer": "teddy"
+        "correctAnswer": "many"
     },
     {
-        "question": "We play with ____ in our free time. / Chúng tôi chơi với ____ trong thời gian rảnh.",
+        "question": "What do you call a toy you build with? / Bạn gọi một món đồ chơi mà bạn dùng để xây dựng là gì?",
         "options": [
-            "toys",
-            "books",
-            "pencils",
-            "chairs"
+            "Building blocks",
+            "A doll",
+            "A ball",
+            "A kite"
         ],
-        "correctAnswer": "toys"
+        "correctAnswer": "Building blocks"
     },
     {
-        "question": "What is the missing letter: tedd_ bear / Chữ cái còn thiếu là gì? tedd_ bear",
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
         "options": [
-            "y",
-            "s",
-            "t",
-            "p"
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
         ],
-        "correctAnswer": "y"
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "It is nice to ____ your toys with your friends. / Thật tốt khi ____ đồ chơi của bạn với bạn bè.",
+        "options": [
+            "share",
+            "take",
+            "hide",
+            "break"
+        ],
+        "correctAnswer": "share"
+    },
+    {
+        "question": "Spell the word for a toy that flies on a string. / Đánh vần từ chỉ thứ bạn thả bay bằng dây.",
+        "options": [
+            "k-i-t-e",
+            "p-l-a-n-e",
+            "b-i-r-d",
+            "b-a-l-l"
+        ],
+        "correctAnswer": "k-i-t-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to break your toys. / Thật ____ khi làm hỏng đồ chơi của bạn.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a toy that is a small copy of a person? / Bạn gọi một món đồ chơi là bản sao nhỏ của một người là gì?",
+        "options": [
+            "An action figure",
+            "A doll",
+            "A robot",
+            "A puppet"
+        ],
+        "correctAnswer": "An action figure"
+    },
+    {
+        "question": "Spell the word for a toy that travels on water. / Đánh vần từ chỉ một món đồ chơi di chuyển trên mặt nước.",
+        "options": [
+            "s-h-i-p",
+            "b-o-a-t",
+            "y-a-c-h-t",
+            "f-e-r-r-y"
+        ],
+        "correctAnswer": "s-h-i-p"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "My sister's doll has a ____ dress. / Búp bê của em gái tôi có một chiếc váy ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a toy that you can wind up to make it move? / Bạn gọi một món đồ chơi mà bạn có thể lên dây cót để làm nó di chuyển là gì?",
+        "options": [
+            "A wind-up toy",
+            "A robot",
+            "A car",
+            "A doll"
+        ],
+        "correctAnswer": "A wind-up toy"
+    },
+    {
+        "question": "Spell the word for a toy that flies in the air. / Đánh vần từ chỉ một món đồ chơi bay trên không.",
+        "options": [
+            "p-l-a-n-e",
+            "c-a-r",
+            "s-h-i-p",
+            "t-r-a-i-n"
+        ],
+        "correctAnswer": "p-l-a-n-e"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ when my favorite toy is lost. / Tôi cảm thấy ____ khi món đồ chơi yêu thích của mình bị mất.",
+        "options": [
+            "sad",
+            "happy",
+            "excited",
+            "hungry"
+        ],
+        "correctAnswer": "sad"
+    },
+    {
+        "question": "What do you call a toy that you control with your hands inside it? / Bạn gọi một món đồ chơi mà bạn điều khiển bằng tay bên trong nó là gì?",
+        "options": [
+            "A puppet",
+            "A doll",
+            "A robot",
+            "An action figure"
+        ],
+        "correctAnswer": "A puppet"
+    },
+    {
+        "question": "Spell the word for a game with many pieces. / Đánh vần từ chỉ một trò chơi có nhiều mảnh ghép.",
+        "options": [
+            "p-u-z-z-l-e",
+            "g-a-m-e",
+            "b-a-l-l",
+            "c-a-r-d"
+        ],
+        "correctAnswer": "p-u-z-z-l-e"
     }
 ]
