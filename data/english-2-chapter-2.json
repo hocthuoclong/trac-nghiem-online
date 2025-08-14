@@ -1,483 +1,422 @@
 [
-  {
-    "question": "What is this? It's big and green in the backyard. / Đây là gì? Nó to và màu xanh ở sân sau.",
-    "options": ["A tree", "A flower", "A house", "A car"],
-    "correctAnswer": "A tree"
-  },
-  {
-    "question": "This is a ____. It's beautiful and has many colours. / Đây là một ____. Nó đẹp và có nhiều màu sắc.",
-    "options": ["flower", "tree", "leaf", "stone"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "You can sit on this in the backyard. / Bạn có thể ngồi trên cái này ở sân sau.",
-    "options": ["A bench", "A bed", "A chair", "A sofa"],
-    "correctAnswer": "A bench"
-  },
-  {
-    "question": "This is a ____. You can play on it. / Đây là một ____. Bạn có thể chơi trên đó.",
-    "options": ["swing", "slide", "seesaw", "ball"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "Spell the word: t-r-e-e / Đánh vần từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "This is a ____. It's around the backyard. / Đây là một ____. Nó ở xung quanh sân sau.",
-    "options": ["fence", "wall", "door", "window"],
-    "correctAnswer": "fence"
-  },
-  {
-    "question": "I can see a green ____. / Tôi có thể thấy một ____ màu xanh lá.",
-    "options": ["leaf", "flower", "sun", "sky"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "Find the word: f-l-o-w-e-r / Tìm từ: f-l-o-w-e-r",
-    "options": ["flower", "floor", "flour", "follow"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Is this a tree? / Đây có phải là một cái cây không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a flower.", "I have a bench."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a red ____. / Đây là một ____ màu đỏ.",
-    "options": ["flower", "tree", "leaf", "fence"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "What can you do in the backyard? / Bạn có thể làm gì ở sân sau?",
-    "options": ["I can play.", "I can cook.", "I can sleep.", "I can study."],
-    "correctAnswer": "I can play."
-  },
-  {
-    "question": "I like to ____ on the swing. / Tôi thích ____ trên xích đu.",
-    "options": ["swing", "read", "eat", "drink"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "What is the missing letter? tre_ / Chữ cái còn thiếu là gì? tre_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is my ____. It's beautiful. / Đây là ____ của tôi. Nó rất đẹp.",
-    "options": ["backyard", "bedroom", "kitchen", "bathroom"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "My father is sitting on the ____. / Bố tôi đang ngồi trên ____.",
-    "options": ["bench", "swing", "tree", "fence"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "Let's run on the ____. / Hãy chạy trên ____.",
-    "options": ["grass", "bench", "fence", "swing"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Spell the word: s-w-i-n-g / Đánh vần từ: s-w-i-n-g",
-    "options": ["swing", "sing", "swim", "sweet"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "Is this a white fence? / Đây có phải là hàng rào màu trắng không?",
-    "options": ["Yes, it is.", "No, it is brown.", "It is a tree.", "I can see a flower."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am playing in the ____. / Tôi đang chơi ở ____.",
-    "options": ["backyard", "house", "school", "shop"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "What is the missing letter? _ence / Chữ cái còn thiếu là gì? _ence",
-    "options": ["f", "p", "t", "d"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "These are beautiful ____. / Đây là những ____ xinh đẹp.",
-    "options": ["flowers", "trees", "leaves", "benches"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "How many trees are there? / Có bao nhiêu cái cây?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["leaf", "flower", "tree", "bench"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "Spell the word: g-r-a-s-s / Đánh vần từ: g-r-a-s-s",
-    "options": ["grass", "glass", "grape", "great"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Is it a big backyard? / Nó có phải là một cái sân sau lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is my house.", "I can see a tree."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see the ____ in the backyard. / Chúng ta có thể thấy ____ ở sân sau.",
-    "options": ["sun", "moon", "star", "rain"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "What is the missing letter? ben_h / Chữ cái còn thiếu là gì? ben_h",
-    "options": ["c", "s", "t", "p"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["My backyard", "My garden", "My park", "My forest"],
-    "correctAnswer": "My backyard"
-  },
-  {
-    "question": "This is a ____. You open it to enter the backyard. / Đây là một ____. Bạn mở nó để vào sân sau.",
-    "options": ["gate", "door", "window", "fence"],
-    "correctAnswer": "gate"
-  },
-  {
-    "question": "This is a ____. It is on the tree. / Đây là một ____. Nó ở trên cây.",
-    "options": ["leaf", "flower", "fruit", "bird"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A swing", "A slide", "A seesaw", "A bench"],
-    "correctAnswer": "A swing"
-  },
-  {
-    "question": "Find the word: g-a-t-e / Tìm từ: g-a-t-e",
-    "options": ["gate", "game", "gave", "late"],
-    "correctAnswer": "gate"
-  },
-  {
-    "question": "Is it a sunny day? / Hôm nay có phải là một ngày nắng không?",
-    "options": ["Yes, it is.", "No, it is rainy.", "I am in the backyard.", "I like to play."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is green. / ____ của tôi màu xanh lá.",
-    "options": ["grass", "sky", "sun", "flower"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "What is the missing letter? flowe_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["backyard", "book", "lesson", "game"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "Spell the word: l-e-a-f / Đánh vần từ: l-e-a-f",
-    "options": ["leaf", "life", "left", "leap"],
-    "correctAnswer": "leaf"
-  },
-  {
-    "question": "Is this a tall tree? / Đây có phải là một cái cây cao không?",
-    "options": ["Yes, it is.", "No, it is short.", "I can see a tree.", "I like trees."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My backyard has a ____. / Sân sau của tôi có một ____.",
-    "options": ["swing", "bed", "desk", "sofa"],
-    "correctAnswer": "swing"
-  },
-  {
-    "question": "What is the missing letter? _rass / Chữ cái còn thiếu là gì? _rass",
-    "options": ["g", "c", "b", "p"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A fence", "A wall", "A gate", "A door"],
-    "correctAnswer": "A fence"
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["flower", "tree", "leaf", "grass"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Is the bench long? / Cái ghế dài phải không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is a bench.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a tree and some ____. / Tôi có thể thấy một cái cây và một vài ____.",
-    "options": ["flowers", "houses", "cars", "books"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "Find the word: b-e-n-c-h / Tìm từ: b-e-n-c-h",
-    "options": ["bench", "beach", "bunch", "bend"],
-    "correctAnswer": "bench"
-  },
-  {
-    "question": "This is my ____. I can relax here. / Đây là ____ của tôi. Tôi có thể thư giãn ở đây.",
-    "options": ["backyard", "bedroom", "school", "office"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "What is the missing letter? swin_",
-    "options": ["g", "k", "p", "t"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "Is it a red flower? / Nó có phải là một bông hoa màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is yellow.", "I like flowers.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["backyard", "homework", "class", "test"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A gate", "A door", "A window", "A fence"],
-    "correctAnswer": "A gate"
-  },
-  {
-    "question": "How many flowers can you see? / Bạn có thể thấy bao nhiêu bông hoa?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "A backyard is behind the ____. / Sân sau ở phía sau ____.",
-    "options": ["house", "school", "shop", "park"],
-    "correctAnswer": "house"
-  },
-  {
-    "question": "I see ____ bird in the tree. / Tôi thấy ____ con chim trên cây.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the grass? / Cỏ màu gì?",
-    "options": ["Green", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Green"
-  },
-  {
-    "question": "What colour is the swing? / Xích đu màu gì?",
-    "options": ["Brown", "White", "Black", "Pink"],
-    "correctAnswer": "Brown"
-  },
-  {
-    "question": "The tree is ____. / Cái cây thì ____.",
-    "options": ["tall", "short", "small", "thin"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "The flowers are ____. / Những bông hoa thì ____.",
-    "options": ["pretty", "ugly", "sad", "bad"],
-    "correctAnswer": "pretty"
-  },
-  {
-    "question": "Is your backyard clean? / Sân sau của bạn có sạch không?",
-    "options": ["Yes, it is.", "No, it is dirty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My backyard is ____. / Sân sau của tôi thì ____.",
-    "options": ["peaceful", "noisy", "busy", "crowded"],
-    "correctAnswer": "peaceful"
-  },
-  {
-    "question": "What is the missing letter? pea_eful / Chữ cái còn thiếu là gì? pea_eful",
-    "options": ["c", "t", "d", "k"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["tree", "flower", "leaf", "grass"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["backyard", "dog", "cat", "bird"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "Is the gate open? / Cổng có mở không?",
-    "options": ["Yes, it is.", "No, it is closed.", "It is a gate.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's play in the ____. / Hãy chơi ở ____.",
-    "options": ["backyard", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
-    "options": ["play", "plan", "plus", "plum"],
-    "correctAnswer": "play"
-  },
-  {
-    "question": "I have ____ small garden in my backyard. / Tôi có ____ khu vườn nhỏ ở sân sau.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite place is the ____. / Nơi yêu thích của tôi là ____.",
-    "options": ["backyard", "school", "library", "supermarket"],
-    "correctAnswer": "backyard"
-  },
-  {
-    "question": "What is the missing letter? gard_n / Chữ cái còn thiếu là gì? gard_n",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a ____. It has pretty petals. / Đây là một ____. Nó có những cánh hoa xinh đẹp.",
-    "options": ["flower", "tree", "leaf", "grass"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "We should water the ____. / Chúng ta nên tưới ____.",
-    "options": ["plants", "fence", "bench", "swing"],
-    "correctAnswer": "plants"
-  },
-  {
-    "question": "Is it a wooden bench? / Nó có phải là một cái ghế gỗ không?",
-    "options": ["Yes, it is.", "No, it is metal.", "I like benches.", "The bench is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: g-a-r-d-e-n / Đánh vần từ: g-a-r-d-e-n",
-    "options": ["garden", "golden", "gargle", "guardian"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "I help my dad in the ____. / Tôi giúp bố tôi ở ____.",
-    "options": ["garden", "kitchen", "office", "car"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "The tree has many ____. / Cái cây có nhiều ____.",
-    "options": ["leaves", "flowers", "fruits", "branches"],
-    "correctAnswer": "leaves"
-  },
-  {
-    "question": "What is the missing letter? lea_",
-    "options": ["f", "p", "t", "d"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A butterfly", "A bee", "A bird", "An ant"],
-    "correctAnswer": "A butterfly"
-  },
-  {
-    "question": "My ____ is full of flowers. / ____ của tôi đầy hoa.",
-    "options": ["garden", "house", "room", "bag"],
-    "correctAnswer": "garden"
-  },
-  {
-    "question": "Is it a green leaf? / Nó có phải là một chiếc lá màu xanh không?",
-    "options": ["Yes, it is.", "No, it is yellow.", "I see a leaf.", "The leaf is small."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My sister likes to smell the ____. / Chị tôi thích ngửi ____.",
-    "options": ["flowers", "trees", "grass", "leaves"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "Spell the word: s-u-n / Đánh vần từ: s-u-n",
-    "options": ["sun", "son", "fun", "run"],
-    "correctAnswer": "sun"
-  },
-  {
-    "question": "This is a ____ day. / Đây là một ngày ____.",
-    "options": ["sunny", "rainy", "cloudy", "windy"],
-    "correctAnswer": "sunny"
-  },
-  {
-    "question": "What is the missing letter? _unny / Chữ cái còn thiếu là gì? _unny",
-    "options": ["s", "f", "r", "m"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cloud", "The sun", "The moon", "A star"],
-    "correctAnswer": "A cloud"
-  },
-  {
-    "question": "My brother is flying a ____. / Anh trai tôi đang thả ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Are the flowers yellow? / Những bông hoa màu vàng phải không?",
-    "options": ["Yes, they are.", "No, they are red.", "They are flowers.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My dog is running on the ____. / Con chó của tôi đang chạy trên ____.",
-    "options": ["grass", "bench", "fence", "swing"],
-    "correctAnswer": "grass"
-  },
-  {
-    "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
-    "options": ["kite", "king", "kiss", "kitchen"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "I am ____ in my backyard. / Tôi ____ ở sân sau của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? gat_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A watering can", "A bucket", "A bottle", "A cup"],
-    "correctAnswer": "A watering can"
-  },
-  {
-    "question": "My backyard is my favorite ____. / Sân sau là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the grass short? / Cỏ có ngắn không?",
-    "options": ["Yes, it is.", "No, it is long.", "It is green grass.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The tree has a ____ on it. / Cái cây có một ____ trên đó.",
-    "options": ["bird's nest", "cat", "dog", "ball"],
-    "correctAnswer": "bird's nest"
-  },
-  {
-    "question": "Spell the word: b-i-r-d / Đánh vần từ: b-i-r-d",
-    "options": ["bird", "beard", "board", "bind"],
-    "correctAnswer": "bird"
-  },
-  {
-    "question": "We play ____ in the backyard. / Chúng tôi chơi ____ ở sân sau.",
-    "options": ["hide-and-seek", "chess", "video games", "cards"],
-    "correctAnswer": "hide-and-seek"
-  },
-  {
-    "question": "What is the missing letter? tr_e / Chữ cái còn thiếu là gì? tr_e",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  }
+    {
+        "question": "This is the grassy area behind a house where you can play. What is it? / Đây là khu vực có cỏ phía sau nhà, nơi bạn có thể chơi. Nó là gì?",
+        "options": [
+            "A backyard",
+            "A kitchen",
+            "A bedroom",
+            "A school"
+        ],
+        "correctAnswer": "A backyard"
+    },
+    {
+        "question": "This is a tall plant with a trunk and green leaves. What is it? / Đây là một loài cây cao có thân và lá màu xanh. Nó là gì?",
+        "options": [
+            "A tree",
+            "A flower",
+            "A fence",
+            "A gate"
+        ],
+        "correctAnswer": "A tree"
+    },
+    {
+        "question": "This is a beautiful plant that can be red, yellow, or pink. What is it? / Đây là một loài cây đẹp có thể có màu đỏ, vàng hoặc hồng. Nó là gì?",
+        "options": [
+            "A flower",
+            "A tree",
+            "Grass",
+            "A swing"
+        ],
+        "correctAnswer": "A flower"
+    },
+    {
+        "question": "This is a structure made of wood or metal that goes around a yard. What is it? / Đây là một cấu trúc bằng gỗ hoặc kim loại bao quanh sân. Nó là gì?",
+        "options": [
+            "A fence",
+            "A gate",
+            "A wall",
+            "A door"
+        ],
+        "correctAnswer": "A fence"
+    },
+    {
+        "question": "This is like a door in a fence that you can open and close. What is it? / Cái này giống như một cánh cửa trong hàng rào mà bạn có thể mở và đóng. Nó là gì?",
+        "options": [
+            "A gate",
+            "A window",
+            "A fence",
+            "A tree"
+        ],
+        "correctAnswer": "A gate"
+    },
+    {
+        "question": "You can sit on this and move back and forth in the air. What is it? / Bạn có thể ngồi trên cái này và di chuyển tới lui trên không. Nó là gì?",
+        "options": [
+            "A swing",
+            "A chair",
+            "A table",
+            "A bed"
+        ],
+        "correctAnswer": "A swing"
+    },
+    {
+        "question": "What do you do in the backyard with your friends? / Bạn làm gì trong sân sau với bạn bè?",
+        "options": [
+            "Play",
+            "Cook",
+            "Sleep",
+            "Study"
+        ],
+        "correctAnswer": "Play"
+    },
+    {
+        "question": "To move your legs very fast is to ____. / Di chuyển đôi chân của bạn rất nhanh là ____.",
+        "options": [
+            "run",
+            "walk",
+            "sit",
+            "stand"
+        ],
+        "correctAnswer": "run"
+    },
+    {
+        "question": "To push yourself up into the air is to ____. / Đẩy mình lên không trung là ____.",
+        "options": [
+            "jump",
+            "crawl",
+            "eat",
+            "drink"
+        ],
+        "correctAnswer": "jump"
+    },
+    {
+        "question": "In the game 'hide-and-seek', one person tries to ____ the others. / Trong trò chơi 'trốn tìm', một người cố gắng ____ những người khác.",
+        "options": [
+            "find",
+            "hide",
+            "eat",
+            "read"
+        ],
+        "correctAnswer": "find"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
+            "Long",
+            "Happy"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A big tree can have a ____ swing. / Một cái cây lớn có thể có một chiếc xích đu ____.",
+        "options": [
+            "big",
+            "small",
+            "short",
+            "sad"
+        ],
+        "correctAnswer": "big"
+    },
+    {
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [
+            "Short",
+            "Long",
+            "Big",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "Flowers are usually ____ than trees. / Hoa thường ____ hơn cây.",
+        "options": [
+            "shorter",
+            "taller",
+            "bigger",
+            "stronger"
+        ],
+        "correctAnswer": "shorter"
+    },
+    {
+        "question": "What do you call an animal with feathers that can fly? / Bạn gọi một con vật có lông vũ có thể bay là gì?",
+        "options": [
+            "A bird",
+            "A fish",
+            "A dog",
+            "A cat"
+        ],
+        "correctAnswer": "A bird"
+    },
+    {
+        "question": "Spell the word for the green plant that covers the ground. / Đánh vần từ chỉ loài cây xanh bao phủ mặt đất.",
+        "options": [
+            "g-r-a-s-s",
+            "t-r-e-e",
+            "f-l-o-w-e-r",
+            "l-e-a-f"
+        ],
+        "correctAnswer": "g-r-a-s-s"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Playing in the backyard makes me feel ____. / Chơi ở sân sau làm tôi cảm thấy ____.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "This insect has colorful wings and flies around flowers. What is it? / Loài côn trùng này có đôi cánh sặc sỡ và bay quanh những bông hoa. Nó là gì?",
+        "options": [
+            "A butterfly",
+            "A bee",
+            "An ant",
+            "A spider"
+        ],
+        "correctAnswer": "A butterfly"
+    },
+    {
+        "question": "What is the opposite of 'open'? / Từ trái nghĩa của 'open' là gì?",
+        "options": [
+            "Closed",
+            "Shut",
+            "In",
+            "Start"
+        ],
+        "correctAnswer": "Closed"
+    },
+    {
+        "question": "You need to open the ____ to enter the backyard. / Bạn cần mở ____ để vào sân sau.",
+        "options": [
+            "gate",
+            "fence",
+            "door",
+            "window"
+        ],
+        "correctAnswer": "gate"
+    },
+    {
+        "question": "Spell the word for the tall plant with leaves. / Đánh vần từ chỉ loài cây cao có lá.",
+        "options": [
+            "t-r-e-e",
+            "f-e-n-c-e",
+            "g-a-t-e",
+            "g-r-a-s-s"
+        ],
+        "correctAnswer": "t-r-e-e"
+    },
+    {
+        "question": "What is the opposite of 'high'? / Từ trái nghĩa của 'high' là gì?",
+        "options": [
+            "Low",
+            "Tall",
+            "Up",
+            "Big"
+        ],
+        "correctAnswer": "Low"
+    },
+    {
+        "question": "A fence can be high or ____. / Một hàng rào có thể cao hoặc ____.",
+        "options": [
+            "low",
+            "big",
+            "small",
+            "long"
+        ],
+        "correctAnswer": "low"
+    },
+    {
+        "question": "What do you do when you play hide-and-seek? / Bạn làm gì khi chơi trốn tìm?",
+        "options": [
+            "Hide and find",
+            "Sing and dance",
+            "Eat and drink",
+            "Read and write"
+        ],
+        "correctAnswer": "Hide and find"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The flowers in the backyard are ____. / Những bông hoa ở sân sau thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for the toy you can sit on and swing. / Đánh vần từ chỉ món đồ chơi bạn có thể ngồi lên và đu.",
+        "options": [
+            "s-w-i-n-g",
+            "s-l-i-d-e",
+            "b-a-l-l",
+            "c-h-a-i-r"
+        ],
+        "correctAnswer": "s-w-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ birds in the tree. / Có ____ con chim trên cây.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call the big star that gives us light and warmth? / Bạn gọi ngôi sao lớn cho chúng ta ánh sáng và hơi ấm là gì?",
+        "options": [
+            "The sun",
+            "The moon",
+            "A cloud",
+            "A star"
+        ],
+        "correctAnswer": "The sun"
+    },
+    {
+        "question": "Spell the word for the area behind your house. / Đánh vần từ chỉ khu vực phía sau nhà bạn.",
+        "options": [
+            "b-a-c-k-y-a-r-d",
+            "g-a-r-d-e-n",
+            "p-a-r-k",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "b-a-c-k-y-a-r-d"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "After playing in the mud, your shoes are ____. / Sau khi chơi trong bùn, đôi giày của bạn bị ____.",
+        "options": [
+            "dirty",
+            "clean",
+            "new",
+            "happy"
+        ],
+        "correctAnswer": "dirty"
+    },
+    {
+        "question": "What do you call a small, flying animal that sings? / Bạn gọi một con vật nhỏ biết bay và biết hót là gì?",
+        "options": [
+            "A bird",
+            "A fish",
+            "A frog",
+            "A bug"
+        ],
+        "correctAnswer": "A bird"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ playing in my backyard. / Tôi ____ chơi ở sân sau nhà mình.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "Spell the word for the structure that goes around the yard. / Đánh vần từ chỉ cấu trúc bao quanh sân.",
+        "options": [
+            "f-e-n-c-e",
+            "g-a-t-e",
+            "w-a-l-l",
+            "h-e-d-g-e"
+        ],
+        "correctAnswer": "f-e-n-c-e"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You can ____ a ball and throw it to your friend. / Bạn có thể ____ một quả bóng và ném nó cho bạn của mình.",
+        "options": [
+            "catch",
+            "give",
+            "read",
+            "eat"
+        ],
+        "correctAnswer": "catch"
+    },
+    {
+        "question": "What do you call white, fluffy things in the sky? / Bạn gọi những vật trắng, xốp trên bầu trời là gì?",
+        "options": [
+            "Clouds",
+            "Stars",
+            "The moon",
+            "Fish"
+        ],
+        "correctAnswer": "Clouds"
+    },
+    {
+        "question": "Spell the word for the entrance in a fence. / Đánh vần từ chỉ lối vào trong hàng rào.",
+        "options": [
+            "g-a-t-e",
+            "d-o-o-r",
+            "p-a-t-h",
+            "h-o-l-e"
+        ],
+        "correctAnswer": "g-a-t-e"
+    }
 ]
-
