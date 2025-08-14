@@ -1,483 +1,642 @@
 [
-  {
-    "question": "What is this? It's a game with a ball. / Đây là gì? Nó là một trò chơi với một quả bóng.",
-    "options": ["A football match", "A party", "A class", "A concert"],
-    "correctAnswer": "A football match"
-  },
-  {
-    "question": "This is a ____. You kick it. / Đây là một ____. Bạn đá nó.",
-    "options": ["football", "doll", "car", "robot"],
-    "correctAnswer": "football"
-  },
-  {
-    "question": "You score a ____ when the ball goes into the net. / Bạn ghi một ____ khi quả bóng đi vào lưới.",
-    "options": ["goal", "point", "run", "hit"],
-    "correctAnswer": "goal"
-  },
-  {
-    "question": "This is a ____. They play football together. / Đây là một ____. Họ chơi bóng đá cùng nhau.",
-    "options": ["team", "family", "class", "group"],
-    "correctAnswer": "team"
-  },
-  {
-    "question": "Spell the word: b-a-l-l / Đánh vần từ: b-a-l-l",
-    "options": ["ball", "doll", "fall", "call"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "This is a ____. He plays football. / Đây là một ____. Anh ấy chơi bóng đá.",
-    "options": ["player", "teacher", "doctor", "farmer"],
-    "correctAnswer": "player"
-  },
-  {
-    "question": "I like to ____ the football match. / Tôi thích ____ trận đấu bóng đá.",
-    "options": ["watch", "read", "cook", "sleep"],
-    "correctAnswer": "watch"
-  },
-  {
-    "question": "Find the word: g-o-a-l / Tìm từ: g-o-a-l",
-    "options": ["goal", "goat", "gold", "go"],
-    "correctAnswer": "goal"
-  },
-  {
-    "question": "Is this a football match? / Đây có phải là một trận đấu bóng đá không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a ball.", "I have a team."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is an exciting ____. / Đây là một ____ thú vị.",
-    "options": ["match", "book", "lesson", "test"],
-    "correctAnswer": "match"
-  },
-  {
-    "question": "What can you do at a football match? / Bạn có thể làm gì tại một trận đấu bóng đá?",
-    "options": ["I can cheer.", "I can swim.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can cheer."
-  },
-  {
-    "question": "I like to ____ for my team. / Tôi thích ____ cho đội của tôi.",
-    "options": ["cheer", "cry", "shout", "sing"],
-    "correctAnswer": "cheer"
-  },
-  {
-    "question": "What is the missing letter? goa_",
-    "options": ["l", "t", "p", "b"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "This is a ____. It's a big place for football. / Đây là một ____. Đó là một nơi lớn cho bóng đá.",
-    "options": ["stadium", "school", "city", "shop"],
-    "correctAnswer": "stadium"
-  },
-  {
-    "question": "My father is at the ____. / Bố tôi đang ở ____.",
-    "options": ["football match", "farm", "beach", "park"],
-    "correctAnswer": "football match"
-  },
-  {
-    "question": "Let's ____ the ball. / Hãy ____ quả bóng.",
-    "options": ["kick", "read", "draw", "cook"],
-    "correctAnswer": "kick"
-  },
-  {
-    "question": "Spell the word: t-e-a-m / Đánh vần từ: t-e-a-m",
-    "options": ["team", "time", "tame", "tear"],
-    "correctAnswer": "team"
-  },
-  {
-    "question": "Is this a big stadium? / Đây có phải là một sân vận động lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a match.", "I can see a player."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am watching the ____. / Tôi đang xem ____.",
-    "options": ["players", "teachers", "doctors", "farmers"],
-    "correctAnswer": "players"
-  },
-  {
-    "question": "What is the missing letter? _ootball / Chữ cái còn thiếu là gì? _ootball",
-    "options": ["f", "b", "p", "d"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "These are the ____. They watch the match. / Đây là những ____. Họ xem trận đấu.",
-    "options": ["fans", "players", "teams", "coaches"],
-    "correctAnswer": "fans"
-  },
-  {
-    "question": "How many players are on a team? / Có bao nhiêu cầu thủ trong một đội?",
-    "options": ["Eleven", "One", "Two", "Three"],
-    "correctAnswer": "Eleven"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["goal", "ball", "team", "player"],
-    "correctAnswer": "goal"
-  },
-  {
-    "question": "Spell the word: k-i-c-k / Đánh vần từ: k-i-c-k",
-    "options": ["kick", "king", "kiss", "kitchen"],
-    "correctAnswer": "kick"
-  },
-  {
-    "question": "Is it an exciting match? / Nó có phải là một trận đấu hấp dẫn không?",
-    "options": ["Yes, it is.", "No, it is boring.", "It is a match.", "I can see a ball."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see a ____ on the field. / Chúng ta có thể thấy một ____ trên sân.",
-    "options": ["referee", "teacher", "doctor", "farmer"],
-    "correctAnswer": "referee"
-  },
-  {
-    "question": "What is the missing letter? matc_",
-    "options": ["h", "t", "d", "p"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A football shirt", "A dress", "A skirt", "A coat"],
-    "correctAnswer": "A football shirt"
-  },
-  {
-    "question": "This is a ____. The players wear it. / Đây là một ____. Các cầu thủ mặc nó.",
-    "options": ["uniform", "costume", "pajamas", "suit"],
-    "correctAnswer": "uniform"
-  },
-  {
-    "question": "This is ____. It's a popular sport. / Đây là ____. Nó là một môn thể thao phổ biến.",
-    "options": ["football", "basketball", "volleyball", "tennis"],
-    "correctAnswer": "football"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A whistle", "A bell", "A horn", "A drum"],
-    "correctAnswer": "A whistle"
-  },
-  {
-    "question": "Find the word: s-c-o-r-e / Tìm từ: s-c-o-r-e",
-    "options": ["score", "store", "shore", "sore"],
-    "correctAnswer": "score"
-  },
-  {
-    "question": "Is it a red team? / Đó có phải là một đội màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is blue.", "I am at the match.", "I like teams."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is winning. / ____ của tôi đang chiến thắng.",
-    "options": ["team", "house", "car", "bag"],
-    "correctAnswer": "team"
-  },
-  {
-    "question": "What is the missing letter? playe_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["day", "book", "lesson", "game"],
-    "correctAnswer": "day"
-  },
-  {
-    "question": "Spell the word: w-i-n / Đánh vần từ: w-i-n",
-    "options": ["win", "pin", "tin", "fin"],
-    "correctAnswer": "win"
-  },
-  {
-    "question": "Is this a big stadium? / Đây có phải là một sân vận động lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I can see a stadium.", "I like stadiums."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The stadium has many ____. / Sân vận động có nhiều ____.",
-    "options": ["seats", "books", "toys", "pets"],
-    "correctAnswer": "seats"
-  },
-  {
-    "question": "What is the missing letter? _eat / Chữ cái còn thiếu là gì? _eat",
-    "options": ["s", "b", "m", "h"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A trophy", "A medal", "A cup", "A prize"],
-    "correctAnswer": "A trophy"
-  },
-  {
-    "question": "My ____ is exciting. / ____ của tôi rất thú vị.",
-    "options": ["match", "house", "room", "bag"],
-    "correctAnswer": "match"
-  },
-  {
-    "question": "Is the ball round? / Quả bóng có tròn không?",
-    "options": ["Yes, it is.", "No, it is square.", "It is a ball.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a player and a ____. / Tôi có thể thấy một cầu thủ và một ____.",
-    "options": ["ball", "house", "car", "book"],
-    "correctAnswer": "ball"
-  },
-  {
-    "question": "Find the word: f-a-n / Tìm từ: f-a-n",
-    "options": ["fan", "fun", "van", "pan"],
-    "correctAnswer": "fan"
-  },
-  {
-    "question": "This is my ____. I support my team. / Đây là ____ của tôi. Tôi ủng hộ đội của tôi.",
-    "options": ["favorite team", "homework", "chore", "job"],
-    "correctAnswer": "favorite team"
-  },
-  {
-    "question": "What is the missing letter? tea_",
-    "options": ["m", "k", "p", "t"],
-    "correctAnswer": "m"
-  },
-  {
-    "question": "Is it a beautiful day? / Nó có phải là một ngày đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like days.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["day at the match", "homework", "class", "test"],
-    "correctAnswer": "day at the match"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A flag", "A banner", "A scarf", "A hat"],
-    "correctAnswer": "A flag"
-  },
-  {
-    "question": "What is the score? / Tỷ số là bao nhiêu?",
-    "options": ["It's one-nil.", "It's a football match.", "It's exciting.", "I am watching."],
-    "correctAnswer": "It's one-nil."
-  },
-  {
-    "question": "A football match is a ____. / Một trận đấu bóng đá là một ____.",
-    "options": ["game", "place", "thing", "person"],
-    "correctAnswer": "game"
-  },
-  {
-    "question": "I would like ____ ticket, please. / Vui lòng cho tôi ____ vé.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the ball? / Quả bóng màu gì?",
-    "options": ["It's white and black.", "It's a ball.", "It's round.", "I have a ball."],
-    "correctAnswer": "It's white and black."
-  },
-  {
-    "question": "What is the player doing? / Cầu thủ đang làm gì?",
-    "options": ["He's running.", "He's sleeping.", "He's eating.", "He's talking."],
-    "correctAnswer": "He's running."
-  },
-  {
-    "question": "The team is ____. / Đội thì ____.",
-    "options": ["strong", "weak", "small", "thin"],
-    "correctAnswer": "strong"
-  },
-  {
-    "question": "The fans are ____. / Các cổ động viên thì ____.",
-    "options": ["cheering", "playing", "sad", "bad"],
-    "correctAnswer": "cheering"
-  },
-  {
-    "question": "Is the stadium full? / Sân vận động có đầy không?",
-    "options": ["Yes, it is.", "No, it is empty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My day at the match is ____. / Ngày của tôi ở trận đấu thì ____.",
-    "options": ["exciting", "noisy", "busy", "crowded"],
-    "correctAnswer": "exciting"
-  },
-  {
-    "question": "What is the missing letter? excitin_",
-    "options": ["g", "t", "d", "k"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "This is the ____. / Đây là ____.",
-    "options": ["goal", "ball", "team", "player"],
-    "correctAnswer": "goal"
-  },
-  {
-    "question": "I love ____. / Tôi yêu ____.",
-    "options": ["football", "dog", "cat", "bird"],
-    "correctAnswer": "football"
-  },
-  {
-    "question": "Is the referee running? / Trọng tài có đang chạy không?",
-    "options": ["Yes, he is.", "No, he is standing.", "It is a referee.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["football match", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "football match"
-  },
-  {
-    "question": "Spell the word: w-a-t-c-h / Đánh vần từ: w-a-t-c-h",
-    "options": ["watch", "witch", "wash", "water"],
-    "correctAnswer": "watch"
-  },
-  {
-    "question": "I have ____ new football shirt. / Tôi có ____ chiếc áo bóng đá mới.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite player is ____. / Cầu thủ yêu thích của tôi là ____.",
-    "options": ["Ronaldo", "Messi", "Neymar", "Mbappe"],
-    "correctAnswer": "Ronaldo"
-  },
-  {
-    "question": "What is the missing letter? playe_",
-    "options": ["r", "a", "i", "o"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is ____. The players kick the ball into it. / Đây là ____. Các cầu thủ đá bóng vào đó.",
-    "options": ["the net", "the goal", "the post", "the bar"],
-    "correctAnswer": "the net"
-  },
-  {
-    "question": "We should cheer for our ____. / Chúng ta nên cổ vũ cho ____ của mình.",
-    "options": ["team", "friends", "family", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "Is it a big crowd? / Đó có phải là một đám đông lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like crowds.", "The crowd is loud."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: c-r-o-w-d / Đánh vần từ: c-r-o-w-d",
-    "options": ["crowd", "crown", "cloud", "clown"],
-    "correctAnswer": "crowd"
-  },
-  {
-    "question": "I help my dad wave the ____. / Tôi giúp bố tôi vẫy ____.",
-    "options": ["flag", "scarf", "banner", "hat"],
-    "correctAnswer": "flag"
-  },
-  {
-    "question": "The players are wearing ____. / Các cầu thủ đang mặc ____.",
-    "options": ["boots", "shoes", "sandals", "slippers"],
-    "correctAnswer": "boots"
-  },
-  {
-    "question": "What is the missing letter? boo_",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A whistle", "A bell", "A horn", "A drum"],
-    "correctAnswer": "A whistle"
-  },
-  {
-    "question": "My ____ is full of fans. / ____ của tôi đầy những người hâm mộ.",
-    "options": ["stadium", "desk", "bag", "box"],
-    "correctAnswer": "stadium"
-  },
-  {
-    "question": "Is it a picture of a football match? / Nó có phải là một bức tranh về một trận đấu bóng đá không?",
-    "options": ["Yes, it is.", "No, it is a basketball match.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to play ____. / Bạn tôi thích chơi ____.",
-    "options": ["football", "chess", "badminton", "hide-and-seek"],
-    "correctAnswer": "football"
-  },
-  {
-    "question": "Spell the word: f-o-o-t-b-a-l-l / Đánh vần từ: f-o-o-t-b-a-l-l",
-    "options": ["football", "foothill", "footpath", "footprint"],
-    "correctAnswer": "football"
-  },
-  {
-    "question": "This is a ____ day for a match. / Đây là một ngày ____ cho một trận đấu.",
-    "options": ["perfect", "rainy", "cloudy", "windy"],
-    "correctAnswer": "perfect"
-  },
-  {
-    "question": "What is the missing letter? per_ect / Chữ cái còn thiếu là gì? per_ect",
-    "options": ["f", "p", "s", "m"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A scoreboard", "A clock", "A timer", "A calendar"],
-    "correctAnswer": "A scoreboard"
-  },
-  {
-    "question": "My father is looking at the ____. / Bố tôi đang nhìn vào ____.",
-    "options": ["scoreboard", "sky", "fire", "tent"],
-    "correctAnswer": "scoreboard"
-  },
-  {
-    "question": "Are the players tired? / Các cầu thủ có mệt không?",
-    "options": ["Yes, they are.", "No, they are energetic.", "They are players.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My football match has many ____. / Trận đấu bóng đá của tôi có nhiều ____.",
-    "options": ["goals", "lessons", "tests", "books"],
-    "correctAnswer": "goals"
-  },
-  {
-    "question": "Spell the word: s-c-o-r-e / Đánh vần từ: s-c-o-r-e",
-    "options": ["score", "store", "shore", "sore"],
-    "correctAnswer": "score"
-  },
-  {
-    "question": "I am ____ at the football match. / Tôi ____ ở trận đấu bóng đá.",
-    "options": ["excited", "sad", "bored", "angry"],
-    "correctAnswer": "excited"
-  },
-  {
-    "question": "What is the missing letter? matc_",
-    "options": ["h", "s", "t", "p"],
-    "correctAnswer": "h"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A coach", "A player", "A fan", "A referee"],
-    "correctAnswer": "A coach"
-  },
-  {
-    "question": "The football match is my favorite ____. / Trận đấu bóng đá là ____ yêu thích của tôi.",
-    "options": ["event", "food", "colour", "toy"],
-    "correctAnswer": "event"
-  },
-  {
-    "question": "Is the field green? / Sân có màu xanh không?",
-    "options": ["Yes, it is.", "No, it is brown.", "It is a field.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The team has a ____. / Đội có một ____.",
-    "options": ["captain", "driver", "pilot", "teacher"],
-    "correctAnswer": "captain"
-  },
-  {
-    "question": "Spell the word: c-a-p-t-a-i-n / Đánh vần từ: c-a-p-t-a-i-n",
-    "options": ["captain", "curtain", "certain", "fountain"],
-    "correctAnswer": "captain"
-  },
-  {
-    "question": "We cheer when our team ____. / Chúng tôi cổ vũ khi đội của chúng tôi ____.",
-    "options": ["scores a goal", "loses", "makes a mistake", "is tired"],
-    "correctAnswer": "scores a goal"
-  },
-  {
-    "question": "What is the missing letter? chee_",
-    "options": ["r", "s", "t", "p"],
-    "correctAnswer": "r"
-  }
+    {
+        "question": "This is a game where two teams try to kick a ball into a goal. What is it? / Đây là một trò chơi mà hai đội cố gắng đá một quả bóng vào khung thành. Nó là gì?",
+        "options": [
+            "Football",
+            "Basketball",
+            "Tennis",
+            "Swimming"
+        ],
+        "correctAnswer": "Football"
+    },
+    {
+        "question": "A group of people playing together against another group is a ____. / Một nhóm người chơi cùng nhau chống lại một nhóm khác là một ____.",
+        "options": [
+            "team",
+            "crowd",
+            "family",
+            "class"
+        ],
+        "correctAnswer": "team"
+    },
+    {
+        "question": "A person who plays on a team is a ____. / Một người chơi trong một đội là một ____.",
+        "options": [
+            "player",
+            "teacher",
+            "doctor",
+            "cook"
+        ],
+        "correctAnswer": "player"
+    },
+    {
+        "question": "You use your feet to hit the ball in football. This action is called ____. / Bạn dùng chân để đánh bóng trong bóng đá. Hành động này được gọi là ____.",
+        "options": [
+            "kick",
+            "throw",
+            "catch",
+            "read"
+        ],
+        "correctAnswer": "kick"
+    },
+    {
+        "question": "The round object that players kick is a ____. / Vật thể tròn mà các cầu thủ đá là một ____.",
+        "options": [
+            "ball",
+            "box",
+            "book",
+            "hat"
+        ],
+        "correctAnswer": "ball"
+    },
+    {
+        "question": "When a player kicks the ball into the net, it is a ____! / Khi một cầu thủ đá bóng vào lưới, đó là một ____!",
+        "options": [
+            "goal",
+            "point",
+            "run",
+            "stop"
+        ],
+        "correctAnswer": "goal"
+    },
+    {
+        "question": "The player who protects the goal is the ____. / Cầu thủ bảo vệ khung thành là ____.",
+        "options": [
+            "goalkeeper",
+            "striker",
+            "defender",
+            "captain"
+        ],
+        "correctAnswer": "goalkeeper"
+    },
+    {
+        "question": "A game between two teams is called a ____. / Một trận đấu giữa hai đội được gọi là ____.",
+        "options": [
+            "match",
+            "party",
+            "lesson",
+            "show"
+        ],
+        "correctAnswer": "match"
+    },
+    {
+        "question": "The people who watch the match are the ____. / Những người xem trận đấu là ____.",
+        "options": [
+            "crowd",
+            "team",
+            "players",
+            "family"
+        ],
+        "correctAnswer": "crowd"
+    },
+    {
+        "question": "When the crowd is happy, they ____ loudly. / Khi đám đông vui mừng, họ ____ rất to.",
+        "options": [
+            "cheer",
+            "cry",
+            "sleep",
+            "whisper"
+        ],
+        "correctAnswer": "cheer"
+    },
+    {
+        "question": "What is the opposite of 'win'? / Từ trái nghĩa của 'win' là gì?",
+        "options": [
+            "Lose",
+            "Play",
+            "Start",
+            "Finish"
+        ],
+        "correctAnswer": "Lose"
+    },
+    {
+        "question": "If your team scores more goals, you ____ the match. / Nếu đội của bạn ghi được nhiều bàn thắng hơn, bạn ____ trận đấu.",
+        "options": [
+            "win",
+            "lose",
+            "draw",
+            "stop"
+        ],
+        "correctAnswer": "win"
+    },
+    {
+        "question": "What is the opposite of 'lose'? / Từ trái nghĩa của 'lose' là gì?",
+        "options": [
+            "Win",
+            "Find",
+            "Play",
+            "Stop"
+        ],
+        "correctAnswer": "Win"
+    },
+    {
+        "question": "A football match is very ____ to watch. / Một trận bóng đá rất ____ để xem.",
+        "options": [
+            "exciting",
+            "boring",
+            "sad",
+            "quiet"
+        ],
+        "correctAnswer": "exciting"
+    },
+    {
+        "question": "Players wear the same clothes, called a ____. / Các cầu thủ mặc quần áo giống nhau, được gọi là ____.",
+        "options": [
+            "uniform",
+            "costume",
+            "dress",
+            "shirt"
+        ],
+        "correctAnswer": "uniform"
+    },
+    {
+        "question": "Spell the word for the game played with a ball and feet. / Đánh vần từ chỉ trò chơi được chơi bằng bóng và chân.",
+        "options": [
+            "f-o-o-t-b-a-l-l",
+            "b-a-s-k-e-t-b-a-l-l",
+            "t-e-n-n-i-s",
+            "s-w-i-m"
+        ],
+        "correctAnswer": "f-o-o-t-b-a-l-l"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "Football players need to run very ____. / Các cầu thủ bóng đá cần phải chạy rất ____.",
+        "options": [
+            "fast",
+            "slow",
+            "sadly",
+            "quietly"
+        ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "What do you call the large place where you watch a football match? / Bạn gọi nơi lớn mà bạn xem một trận bóng đá là gì?",
+        "options": [
+            "A stadium",
+            "A cinema",
+            "A school",
+            "A library"
+        ],
+        "correctAnswer": "A stadium"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A good football player is very ____. / Một cầu thủ bóng đá giỏi thì rất ____.",
+        "options": [
+            "strong",
+            "weak",
+            "small",
+            "sad"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "Spell the word for a group of players. / Đánh vần từ chỉ một nhóm cầu thủ.",
+        "options": [
+            "t-e-a-m",
+            "c-r-o-w-d",
+            "g-r-o-u-p",
+            "c-l-a-s-s"
+        ],
+        "correctAnswer": "t-e-a-m"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "The losing team feels ____. / Đội thua cuộc cảm thấy ____.",
+        "options": [
+            "sad",
+            "happy",
+            "excited",
+            "hungry"
+        ],
+        "correctAnswer": "sad"
+    },
+    {
+        "question": "What do you call the person who controls the game and wears black? / Bạn gọi người điều khiển trận đấu và mặc đồ đen là gì?",
+        "options": [
+            "A referee",
+            "A player",
+            "A coach",
+            "A fan"
+        ],
+        "correctAnswer": "A referee"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "A football match will ____ after 90 minutes. / Một trận bóng đá sẽ ____ sau 90 phút.",
+        "options": [
+            "finish",
+            "start",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "finish"
+    },
+    {
+        "question": "Spell the word for what you score in football. / Đánh vần từ chỉ thứ bạn ghi điểm trong bóng đá.",
+        "options": [
+            "g-o-a-l",
+            "b-a-l-l",
+            "p-o-i-n-t",
+            "r-u-n"
+        ],
+        "correctAnswer": "g-o-a-l"
+    },
+    {
+        "question": "What is the opposite of 'loud'? / Từ trái nghĩa của 'loud' là gì?",
+        "options": [
+            "Quiet",
+            "Soft",
+            "Slow",
+            "Happy"
+        ],
+        "correctAnswer": "Quiet"
+    },
+    {
+        "question": "Before the match starts, the stadium is ____. / Trước khi trận đấu bắt đầu, sân vận động ____.",
+        "options": [
+            "quiet",
+            "loud",
+            "noisy",
+            "full"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What do you call a person who loves and supports a team? / Bạn gọi một người yêu mến và ủng hộ một đội là gì?",
+        "options": [
+            "A fan",
+            "A player",
+            "A referee",
+            "A coach"
+        ],
+        "correctAnswer": "A fan"
+    },
+    {
+        "question": "Spell the word for the action of hitting the ball with your foot. / Đánh vần từ chỉ hành động đá bóng bằng chân.",
+        "options": [
+            "k-i-c-k",
+            "h-i-t",
+            "p-u-s-h",
+            "t-h-r-o-w"
+        ],
+        "correctAnswer": "k-i-c-k"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "Players ____ the ball to each other. / Các cầu thủ ____ bóng cho nhau.",
+        "options": [
+            "pass",
+            "take",
+            "eat",
+            "read"
+        ],
+        "correctAnswer": "pass"
+    },
+    {
+        "question": "What do you call the green area where football is played? / Bạn gọi khu vực màu xanh lá cây nơi chơi bóng đá là gì?",
+        "options": [
+            "A field",
+            "A court",
+            "A pool",
+            "A track"
+        ],
+        "correctAnswer": "A field"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ goals in a low-scoring match. / Có ____ bàn thắng trong một trận đấu có tỷ số thấp.",
+        "options": [
+            "few",
+            "many",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "few"
+    },
+    {
+        "question": "Spell the word for the round object in the game. / Đánh vần từ chỉ vật thể tròn trong trò chơi.",
+        "options": [
+            "b-a-l-l",
+            "g-o-a-l",
+            "f-a-n",
+            "n-e-t"
+        ],
+        "correctAnswer": "b-a-l-l"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "Scoring a goal is a ____ moment. / Ghi một bàn thắng là một khoảnh khắc ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call the person who trains the team? / Bạn gọi người huấn luyện đội bóng là gì?",
+        "options": [
+            "A coach",
+            "A teacher",
+            "A referee",
+            "A fan"
+        ],
+        "correctAnswer": "A coach"
+    },
+    {
+        "question": "Spell the word for the person who protects the goal. / Đánh vần từ chỉ người bảo vệ khung thành.",
+        "options": [
+            "g-o-a-l-k-e-e-p-e-r",
+            "p-l-a-y-e-r",
+            "c-o-a-c-h",
+            "f-a-n"
+        ],
+        "correctAnswer": "g-o-a-l-k-e-e-p-e-r"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ watching football with my dad. / Tôi ____ xem bóng đá với bố tôi.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call the two halves of a football match? / Bạn gọi hai nửa của một trận bóng đá là gì?",
+        "options": [
+            "Halves",
+            "Quarters",
+            "Parts",
+            "Sections"
+        ],
+        "correctAnswer": "Halves"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Receive",
+            "Take",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Receive"
+    },
+    {
+        "question": "The winning team will ____ a trophy. / Đội chiến thắng sẽ ____ một chiếc cúp.",
+        "options": [
+            "receive",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "receive"
+    },
+    {
+        "question": "Spell the word for a competition between two teams. / Đánh vần từ chỉ một cuộc thi đấu giữa hai đội.",
+        "options": [
+            "m-a-t-c-h",
+            "g-a-m-e",
+            "r-a-c-e",
+            "t-e-s-t"
+        ],
+        "correctAnswer": "m-a-t-c-h"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "The game can feel ____ when no one scores a goal. / Trò chơi có thể cảm thấy ____ khi không ai ghi được bàn thắng.",
+        "options": [
+            "slow",
+            "fast",
+            "happy",
+            "sad"
+        ],
+        "correctAnswer": "slow"
+    },
+    {
+        "question": "What do you call the shoes that players wear? / Bạn gọi đôi giày mà các cầu thủ đi là gì?",
+        "options": [
+            "Boots",
+            "Sandals",
+            "Slippers",
+            "Shoes"
+        ],
+        "correctAnswer": "Boots"
+    },
+    {
+        "question": "Spell the word for the clothes players wear. / Đánh vần từ chỉ quần áo các cầu thủ mặc.",
+        "options": [
+            "u-n-i-f-o-r-m",
+            "c-l-o-t-h-e-s",
+            "d-r-e-s-s",
+            "s-h-i-r-t"
+        ],
+        "correctAnswer": "u-n-i-f-o-r-m"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A team with injured players might be ____. / Một đội có những cầu thủ bị thương có thể ____.",
+        "options": [
+            "weak",
+            "strong",
+            "happy",
+            "fast"
+        ],
+        "correctAnswer": "weak"
+    },
+    {
+        "question": "What do you call the break in the middle of the match? / Bạn gọi giờ nghỉ giữa trận đấu là gì?",
+        "options": [
+            "Half-time",
+            "Break time",
+            "Lunchtime",
+            "End time"
+        ],
+        "correctAnswer": "Half-time"
+    },
+    {
+        "question": "Spell the word for a person who plays a game. / Đánh vần từ chỉ một người chơi một trò chơi.",
+        "options": [
+            "p-l-a-y-e-r",
+            "w-a-t-c-h-e-r",
+            "s-i-n-g-e-r",
+            "d-a-n-c-e-r"
+        ],
+        "correctAnswer": "p-l-a-y-e-r"
+    },
+    {
+        "question": "What is the opposite of 'full'? / Từ trái nghĩa của 'full' là gì?",
+        "options": [
+            "Empty",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Empty"
+    },
+    {
+        "question": "The stadium is never ____ during a big match. / Sân vận động không bao giờ ____ trong một trận đấu lớn.",
+        "options": [
+            "empty",
+            "full",
+            "quiet",
+            "sad"
+        ],
+        "correctAnswer": "empty"
+    },
+    {
+        "question": "What do you call the final result of the match? / Bạn gọi kết quả cuối cùng của trận đấu là gì?",
+        "options": [
+            "The score",
+            "The time",
+            "The end",
+            "The prize"
+        ],
+        "correctAnswer": "The score"
+    },
+    {
+        "question": "Spell the word for the sound of the crowd. / Đánh vần từ chỉ âm thanh của đám đông.",
+        "options": [
+            "c-h-e-e-r",
+            "s-h-o-u-t",
+            "c-l-a-p",
+            "s-i-n-g"
+        ],
+        "correctAnswer": "c-h-e-e-r"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ to fight with the other team. / Thật ____ khi đánh nhau với đội khác.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the leader of the team? / Bạn gọi người lãnh đạo của đội là gì?",
+        "options": [
+            "The captain",
+            "The coach",
+            "The referee",
+            "The fan"
+        ],
+        "correctAnswer": "The captain"
+    },
+    {
+        "question": "Spell the word for the large place where you watch sports. / Đánh vần từ chỉ nơi lớn bạn xem thể thao.",
+        "options": [
+            "s-t-a-d-i-u-m",
+            "c-i-n-e-m-a",
+            "t-h-e-a-t-e-r",
+            "s-c-h-o-o-l"
+        ],
+        "correctAnswer": "s-t-a-d-i-u-m"
+    }
 ]
-
