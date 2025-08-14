@@ -1,483 +1,412 @@
 [
-  {
-    "question": "Who's that? / Đó là ai?",
-    "options": ["It's Tony.", "I'm Tony.", "My name's Tony.", "Hello, Tony."],
-    "correctAnswer": "It's Tony."
-  },
-  {
-    "question": "Is he your friend? / Cậu ấy có phải là bạn của bạn không?",
-    "options": ["Yes, he is.", "No, he isn't.", "Yes, it is.", "No, it isn't."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "She is ____. She is not short. / Cô ấy ____. Cô ấy không thấp.",
-    "options": ["tall", "short", "fat", "thin"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "He is ____. He is not tall. / Cậu ấy ____. Cậu ấy không cao.",
-    "options": ["short", "tall", "big", "small"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Spell the word: f-r-i-e-n-d / Đánh vần từ: f-r-i-e-n-d",
-    "options": ["friend", "find", "fries", "front"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "Is she old? / Bà ấy có già không?",
-    "options": ["Yes, she is.", "No, she isn't.", "She is young.", "She is my friend."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "My friend is ____. He is not old. / Bạn của tôi thì ____. Cậu ấy không già.",
-    "options": ["young", "old", "tall", "short"],
-    "correctAnswer": "young"
-  },
-  {
-    "question": "Find the word: w-h-o / Tìm từ: w-h-o",
-    "options": ["who", "how", "why", "what"],
-    "correctAnswer": "who"
-  },
-  {
-    "question": "Is he short? / Cậu ấy có thấp không?",
-    "options": ["No, he isn't. He's tall.", "Yes, he is.", "He is my friend.", "I have a friend."],
-    "correctAnswer": "No, he isn't. He's tall."
-  },
-  {
-    "question": "This is a ____ boy. / Đây là một cậu bé ____.",
-    "options": ["big", "small", "tall", "short"],
-    "correctAnswer": "big"
-  },
-  {
-    "question": "Who ____ that? - It's my friend, Linda. / ____ là ai vậy? - Đó là bạn của tớ, Linda.",
-    "options": ["'s", "is", "are", "am"],
-    "correctAnswer": "'s"
-  },
-  {
-    "question": "I like my ____. / Tôi thích ____ của tôi.",
-    "options": ["friends", "school", "books", "pets"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "What is the missing letter? frien_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is my ____. His name is Peter. / Đây là ____ của tôi. Tên cậu ấy là Peter.",
-    "options": ["friend", "teacher", "father", "brother"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "My grandfather is ____. / Ông của tôi thì ____.",
-    "options": ["old", "young", "short", "tall"],
-    "correctAnswer": "old"
-  },
-  {
-    "question": "Let's play with our ____. / Hãy chơi với ____ của chúng ta.",
-    "options": ["friends", "books", "pencils", "chairs"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "Spell the word: t-a-l-l / Đánh vần từ: t-a-l-l",
-    "options": ["tall", "ball", "fall", "call"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "Is this a small book? / Đây có phải là một quyển sách nhỏ không?",
-    "options": ["Yes, it is.", "No, it is big.", "It is a book.", "I can see a book."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am ____. I am not short. / Tôi ____. Tôi không thấp.",
-    "options": ["tall", "short", "big", "small"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "What is the missing letter? _ld / Chữ cái còn thiếu là gì? _ld",
-    "options": ["o", "a", "e", "u"],
-    "correctAnswer": "o"
-  },
-  {
-    "question": "These are my ____. / Đây là những ____ của tôi.",
-    "options": ["friends", "toys", "books", "pets"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "How many friends do you have? / Bạn có bao nhiêu người bạn?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "This is a ____ girl. / Đây là một cô bé ____.",
-    "options": ["short", "tall", "big", "small"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Spell the word: s-h-o-r-t / Đánh vần từ: s-h-o-r-t",
-    "options": ["short", "shirt", "shot", "sort"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Is he your best friend? / Cậu ấy có phải là bạn thân nhất của bạn không?",
-    "options": ["Yes, he is.", "No, he isn't.", "It is a friend.", "I can see a boy."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "We can see a ____ man. / Chúng ta có thể thấy một người đàn ông ____.",
-    "options": ["tall", "short", "young", "old"],
-    "correctAnswer": "tall"
-  },
-  {
-    "question": "What is the missing letter? youn_",
-    "options": ["g", "t", "d", "p"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "Who's that? / Đó là ai?",
-    "options": ["It's my teacher.", "I am a teacher.", "My name is a teacher.", "Hello, teacher."],
-    "correctAnswer": "It's my teacher."
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["boy", "girl", "man", "woman"],
-    "correctAnswer": "boy"
-  },
-  {
-    "question": "This is ____. She is my friend. / Đây là ____. Cô ấy là bạn của tôi.",
-    "options": ["Mary", "Peter", "Tom", "Ben"],
-    "correctAnswer": "Mary"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A picture of my friends", "A book", "A toy", "A pet"],
-    "correctAnswer": "A picture of my friends"
-  },
-  {
-    "question": "Find the word: y-o-u-n-g / Tìm từ: y-o-u-n-g",
-    "options": ["young", "your", "yours", "youth"],
-    "correctAnswer": "young"
-  },
-  {
-    "question": "Is it a small cat? / Nó có phải là một con mèo nhỏ không?",
-    "options": ["Yes, it is.", "No, it is big.", "I am at home.", "I like cats."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is friendly. / ____ của tôi rất thân thiện.",
-    "options": ["friend", "dog", "cat", "pet"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "What is the missing letter? tal_",
-    "options": ["l", "n", "m", "p"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["photo", "book", "lesson", "game"],
-    "correctAnswer": "photo"
-  },
-  {
-    "question": "Spell the word: o-l-d / Đánh vần từ: o-l-d",
-    "options": ["old", "odd", "owl", "oil"],
-    "correctAnswer": "old"
-  },
-  {
-    "question": "Is this a young woman? / Đây có phải là một phụ nữ trẻ không?",
-    "options": ["Yes, she is.", "No, she is old.", "I can see a woman.", "I like women."],
-    "correctAnswer": "Yes, she is."
-  },
-  {
-    "question": "The boy is ____. / Cậu bé thì ____.",
-    "options": ["short", "tall", "old", "young"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "What is the missing letter? _ig / Chữ cái còn thiếu là gì? _ig",
-    "options": ["b", "p", "d", "f"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A girl", "A boy", "A man", "A woman"],
-    "correctAnswer": "A girl"
-  },
-  {
-    "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-    "options": ["friend", "house", "room", "bag"],
-    "correctAnswer": "friend"
-  },
-  {
-    "question": "Is the man tall? / Người đàn ông có cao không?",
-    "options": ["Yes, he is.", "No, he is short.", "It is a man.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "I can see a tall man and a ____ woman. / Tôi có thể thấy một người đàn ông cao và một người phụ nữ ____.",
-    "options": ["short", "tall", "big", "small"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "Find the word: b-i-g / Tìm từ: b-i-g",
-    "options": ["big", "pig", "dig", "fig"],
-    "correctAnswer": "big"
-  },
-  {
-    "question": "This is my ____. He is very old. / Đây là ____ của tôi. Ông ấy rất già.",
-    "options": ["grandfather", "father", "brother", "uncle"],
-    "correctAnswer": "grandfather"
-  },
-  {
-    "question": "What is the missing letter? shor_",
-    "options": ["t", "k", "p", "d"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "Is it a big dog? / Nó có phải là một con chó lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like dogs.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["friendship", "homework", "class", "test"],
-    "correctAnswer": "friendship"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A family", "A group of friends", "A class", "A team"],
-    "correctAnswer": "A group of friends"
-  },
-  {
-    "question": "How many people are in the picture? / Có bao nhiêu người trong bức tranh?",
-    "options": ["Three", "One", "Two", "Four"],
-    "correctAnswer": "Three"
-  },
-  {
-    "question": "A friend is a person you ____. / Một người bạn là một người mà bạn ____.",
-    "options": ["like", "hate", "dislike", "ignore"],
-    "correctAnswer": "like"
-  },
-  {
-    "question": "I have ____ best friend. / Tôi có ____ người bạn thân nhất.",
-    "options": ["one", "a", "an", "some"],
-    "correctAnswer": "one"
-  },
-  {
-    "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
-    "options": ["short", "big", "small", "long"],
-    "correctAnswer": "short"
-  },
-  {
-    "question": "What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
-    "options": ["old", "new", "big", "small"],
-    "correctAnswer": "old"
-  },
-  {
-    "question": "The elephant is ____. / Con voi thì ____.",
-    "options": ["big", "small", "short", "thin"],
-    "correctAnswer": "big"
-  },
-  {
-    "question": "The mouse is ____. / Con chuột thì ____.",
-    "options": ["small", "big", "tall", "long"],
-    "correctAnswer": "small"
-  },
-  {
-    "question": "Is your friend a boy or a girl? / Bạn của bạn là con trai hay con gái?",
-    "options": ["She is a girl.", "Yes, he is.", "No, she isn't.", "Yes"],
-    "correctAnswer": "She is a girl."
-  },
-  {
-    "question": "My friend is ____. / Bạn của tôi thì ____.",
-    "options": ["kind", "noisy", "busy", "crowded"],
-    "correctAnswer": "kind"
-  },
-  {
-    "question": "What is the missing letter? kin_",
-    "options": ["d", "t", "k", "p"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "This is ____. / Đây là ____.",
-    "options": ["my friend", "my teacher", "my father", "my mother"],
-    "correctAnswer": "my friend"
-  },
-  {
-    "question": "I love my ____. / Tôi yêu ____ của tôi.",
-    "options": ["friends", "dog", "cat", "bird"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "Is the girl tall? / Cô gái có cao không?",
-    "options": ["No, she is short.", "Yes, she is.", "It is a girl.", "Hello."],
-    "correctAnswer": "No, she is short."
-  },
-  {
-    "question": "Let's introduce our ____. / Hãy giới thiệu ____ của chúng ta.",
-    "options": ["friends", "pets", "toys", "books"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "Spell the word: w-h-o / Đánh vần từ: w-h-o",
-    "options": ["who", "how", "why", "what"],
-    "correctAnswer": "who"
-  },
-  {
-    "question": "I have ____ old book. / Tôi có ____ quyển sách cũ.",
-    "options": ["an", "a", "one", "two"],
-    "correctAnswer": "an"
-  },
-  {
-    "question": "My best friend's name is ____. / Tên của bạn thân nhất của tôi là ____.",
-    "options": ["Quan", "Teacher", "School", "Class"],
-    "correctAnswer": "Quan"
-  },
-  {
-    "question": "What is the missing letter? fri_nd / Chữ cái còn thiếu là gì? fri_nd",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is ____. He is my classmate. / Đây là ____. Cậu ấy là bạn cùng lớp của tôi.",
-    "options": ["Ben", "Lucy", "Mary", "Linda"],
-    "correctAnswer": "Ben"
-  },
-  {
-    "question": "We should be ____ to our new friends. / Chúng ta nên ____ với những người bạn mới.",
-    "options": ["friendly", "rude", "loud", "quiet"],
-    "correctAnswer": "friendly"
-  },
-  {
-    "question": "Is it a big school? / Nó có phải là một ngôi trường lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like school.", "The school is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: f-r-i-e-n-d-l-y / Đánh vần từ: f-r-i-e-n-d-l-y",
-    "options": ["friendly", "friend", "finally", "friday"],
-    "correctAnswer": "friendly"
-  },
-  {
-    "question": "I help my friend with his ____. / Tôi giúp bạn tôi với ____ của cậu ấy.",
-    "options": ["homework", "drawing", "singing", "dancing"],
-    "correctAnswer": "homework"
-  },
-  {
-    "question": "The friends are in the ____. / Các bạn đang ở trong ____.",
-    "options": ["playground", "classroom", "library", "gym"],
-    "correctAnswer": "playground"
-  },
-  {
-    "question": "What is the missing letter? play_round / Chữ cái còn thiếu là gì? play_round",
-    "options": ["g", "p", "t", "d"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A group photo", "A selfie", "A portrait", "A landscape"],
-    "correctAnswer": "A group photo"
-  },
-  {
-    "question": "My ____ is full of friends. / ____ của tôi đầy bạn bè.",
-    "options": ["photo album", "desk", "bag", "box"],
-    "correctAnswer": "photo album"
-  },
-  {
-    "question": "Is it a picture of your best friend? / Nó có phải là một bức ảnh của bạn thân nhất của bạn không?",
-    "options": ["Yes, it is.", "No, it is my brother.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to ____. / Bạn tôi thích ____.",
-    "options": ["laugh", "cry", "shout", "fight"],
-    "correctAnswer": "laugh"
-  },
-  {
-    "question": "Spell the word: l-a-u-g-h / Đánh vần từ: l-a-u-g-h",
-    "options": ["laugh", "tough", "rough", "cough"],
-    "correctAnswer": "laugh"
-  },
-  {
-    "question": "This is a ____ day to make new friends. / Đây là một ngày ____ để kết bạn mới.",
-    "options": ["good", "rainy", "cloudy", "windy"],
-    "correctAnswer": "good"
-  },
-  {
-    "question": "What is the missing letter? _ood / Chữ cái còn thiếu là gì? _ood",
-    "options": ["g", "h", "w", "f"],
-    "correctAnswer": "g"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A handshake", "A hug", "A high-five", "A wave"],
-    "correctAnswer": "A handshake"
-  },
-  {
-    "question": "My teacher is ____. / Cô giáo của tôi thì ____.",
-    "options": ["friendly", "tall", "short", "young"],
-    "correctAnswer": "friendly"
-  },
-  {
-    "question": "Are the children playing together? / Bọn trẻ có đang chơi cùng nhau không?",
-    "options": ["Yes, they are.", "No, they are fighting.", "They are children.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My class has many ____. / Lớp tôi có nhiều ____.",
-    "options": ["friends", "teachers", "parents", "doctors"],
-    "correctAnswer": "friends"
-  },
-  {
-    "question": "Spell the word: t-o-g-e-t-h-e-r / Đánh vần từ: t-o-g-e-t-h-e-r",
-    "options": ["together", "gather", "weather", "feather"],
-    "correctAnswer": "together"
-  },
-  {
-    "question": "I am ____ with my friends. / Tôi ____ với bạn bè của mình.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? frie_dly / Chữ cái còn thiếu là gì? frie_dly",
-    "options": ["n", "s", "t", "p"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A playground", "A school", "A house", "A park"],
-    "correctAnswer": "A playground"
-  },
-  {
-    "question": "My school is my favorite ____. / Trường học là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the boy tall or short? / Cậu bé cao hay thấp?",
-    "options": ["He is tall.", "He is short.", "It is a boy.", "Hello."],
-    "correctAnswer": "He is tall."
-  },
-  {
-    "question": "The friends are ____. / Các bạn thì ____.",
-    "options": ["playing", "studying", "working", "sleeping"],
-    "correctAnswer": "playing"
-  },
-  {
-    "question": "Spell the word: p-l-a-y-i-n-g / Đánh vần từ: p-l-a-y-i-n-g",
-    "options": ["playing", "paying", "planning", "placing"],
-    "correctAnswer": "playing"
-  },
-  {
-    "question": "We say ____ when we see our friends. / Chúng ta nói ____ khi chúng ta thấy bạn bè.",
-    "options": ["Hello", "Bye", "Thanks", "Sorry"],
-    "correctAnswer": "Hello"
-  },
-  {
-    "question": "What is the missing letter? hel_o / Chữ cái còn thiếu là gì? hel_o",
-    "options": ["l", "s", "t", "p"],
-    "correctAnswer": "l"
-  }
+    {
+        "question": "This is a person you like and play with. Who is this? / Đây là một người bạn thích và chơi cùng. Người này là ai?",
+        "options": [
+            "A friend",
+            "A teacher",
+            "A doctor",
+            "An enemy"
+        ],
+        "correctAnswer": "A friend"
+    },
+    {
+        "question": "To introduce a boy named Quan, you say: '____ is Quan.' / Để giới thiệu một bạn nam tên Quân, bạn nói: '____ is Quan.'",
+        "options": [
+            "This",
+            "These",
+            "They",
+            "It"
+        ],
+        "correctAnswer": "This"
+    },
+    {
+        "question": "If you are pointing to a friend who is far away, you say: '____ is my friend.' / Nếu bạn đang chỉ một người bạn ở xa, bạn nói: '____ is my friend.'",
+        "options": [
+            "That",
+            "This",
+            "These",
+            "Those"
+        ],
+        "correctAnswer": "That"
+    },
+    {
+        "question": "A male child is a ____. / Một đứa trẻ nam là một ____.",
+        "options": [
+            "boy",
+            "girl",
+            "man",
+            "woman"
+        ],
+        "correctAnswer": "boy"
+    },
+    {
+        "question": "A female child is a ____. / Một đứa trẻ nữ là một ____.",
+        "options": [
+            "girl",
+            "boy",
+            "woman",
+            "man"
+        ],
+        "correctAnswer": "girl"
+    },
+    {
+        "question": "To ask about the person over there, you say: '____ is that?' / Để hỏi về người ở đằng kia, bạn nói: '____ is that?'",
+        "options": [
+            "Who",
+            "What",
+            "How",
+            "Where"
+        ],
+        "correctAnswer": "Who"
+    },
+    {
+        "question": "The correct answer to 'Who is that?' could be: / Câu trả lời đúng cho 'Who is that?' có thể là:",
+        "options": [
+            "That's my friend, Peter.",
+            "I'm fine, thank you.",
+            "It's a book.",
+            "I'm seven years old."
+        ],
+        "correctAnswer": "That's my friend, Peter."
+    },
+    {
+        "question": "A person who is not short is ____. / Một người không thấp thì ____.",
+        "options": [
+            "tall",
+            "small",
+            "young",
+            "old"
+        ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "A person who is not tall is ____. / Một người không cao thì ____.",
+        "options": [
+            "short",
+            "big",
+            "long",
+            "fat"
+        ],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "A person who is not young is ____. / Một người không trẻ thì ____.",
+        "options": [
+            "old",
+            "new",
+            "small",
+            "short"
+        ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "A person who is not old is ____. / Một người không già thì ____.",
+        "options": [
+            "young",
+            "big",
+            "tall",
+            "happy"
+        ],
+        "correctAnswer": "young"
+    },
+    {
+        "question": "To ask if someone is your friend, you say: '____ he your friend?' / Để hỏi ai đó có phải là bạn của bạn không, bạn nói: '____ he your friend?'",
+        "options": [
+            "Is",
+            "Are",
+            "Am",
+            "Do"
+        ],
+        "correctAnswer": "Is"
+    },
+    {
+        "question": "The correct answer to 'Is she your friend?' is: / Câu trả lời đúng cho 'Is she your friend?' là:",
+        "options": [
+            "Yes, she is.",
+            "Yes, he is.",
+            "No, he isn't.",
+            "I am a friend."
+        ],
+        "correctAnswer": "Yes, she is."
+    },
+    {
+        "question": "The opposite of 'Yes, he is.' is: / Dạng đối lập của 'Yes, he is.' là:",
+        "options": [
+            "No, he isn't.",
+            "Yes, he isn't.",
+            "No, he is.",
+            "Yes, she is."
+        ],
+        "correctAnswer": "No, he isn't."
+    },
+    {
+        "question": "What do you do with your friends at school? / Bạn làm gì với bạn bè ở trường?",
+        "options": [
+            "Play and study",
+            "Cook and sleep",
+            "Drive and fly",
+            "Shop and swim"
+        ],
+        "correctAnswer": "Play and study"
+    },
+    {
+        "question": "Spell the word for a person you like. / Đánh vần từ chỉ một người bạn thích.",
+        "options": [
+            "f-r-i-e-n-d",
+            "t-e-a-c-h-e-r",
+            "d-o-c-t-o-r",
+            "p-a-r-e-n-t"
+        ],
+        "correctAnswer": "f-r-i-e-n-d"
+    },
+    {
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
+        "options": [
+            "Short",
+            "Long",
+            "Big",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "My friend is not short, he is ____. / Bạn tôi không thấp, cậu ấy ____.",
+        "options": [
+            "tall",
+            "small",
+            "old",
+            "sad"
+        ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
+        "options": [
+            "Old",
+            "New",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "My grandfather is ____, but my brother is young. / Ông tôi thì ____, nhưng anh trai tôi thì trẻ.",
+        "options": [
+            "old",
+            "new",
+            "short",
+            "happy"
+        ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "Spell the word for a male child. / Đánh vần từ chỉ một đứa trẻ nam.",
+        "options": [
+            "b-o-y",
+            "g-i-r-l",
+            "m-a-n",
+            "t-o-y"
+        ],
+        "correctAnswer": "b-o-y"
+    },
+    {
+        "question": "What is the opposite of 'he'? / Từ trái nghĩa của 'he' là gì?",
+        "options": [
+            "She",
+            "It",
+            "They",
+            "We"
+        ],
+        "correctAnswer": "She"
+    },
+    {
+        "question": "That is Mary. ____ is a nice girl. / Đó là Mary. ____ là một cô gái tốt.",
+        "options": [
+            "She",
+            "He",
+            "It",
+            "They"
+        ],
+        "correctAnswer": "She"
+    },
+    {
+        "question": "That is Tom. ____ is a tall boy. / Đó là Tom. ____ là một cậu bé cao.",
+        "options": [
+            "He",
+            "She",
+            "It",
+            "We"
+        ],
+        "correctAnswer": "He"
+    },
+    {
+        "question": "What is the opposite of 'this'? / Từ trái nghĩa của 'this' là gì?",
+        "options": [
+            "That",
+            "These",
+            "Those",
+            "It"
+        ],
+        "correctAnswer": "That"
+    },
+    {
+        "question": "If something is near you, you say '____ is my book.' / Nếu có thứ gì đó ở gần bạn, bạn nói '____ is my book.'",
+        "options": [
+            "This",
+            "That",
+            "Those",
+            "These"
+        ],
+        "correctAnswer": "This"
+    },
+    {
+        "question": "Spell the word for a female child. / Đánh vần từ chỉ một đứa trẻ nữ.",
+        "options": [
+            "g-i-r-l",
+            "b-o-y",
+            "w-o-m-a-n",
+            "d-o-l-l"
+        ],
+        "correctAnswer": "g-i-r-l"
+    },
+    {
+        "question": "What is the opposite of 'friendship'? / Từ trái nghĩa của 'friendship' là gì?",
+        "options": [
+            "Enmity",
+            "Love",
+            "Happiness",
+            "Family"
+        ],
+        "correctAnswer": "Enmity"
+    },
+    {
+        "question": "A good friend is always ____ to you. / Một người bạn tốt luôn ____ với bạn.",
+        "options": [
+            "kind",
+            "mean",
+            "sad",
+            "angry"
+        ],
+        "correctAnswer": "kind"
+    },
+    {
+        "question": "What do you call more than one friend? / Bạn gọi nhiều hơn một người bạn là gì?",
+        "options": [
+            "Friends",
+            "Friend",
+            "A friend",
+            "Friendly"
+        ],
+        "correctAnswer": "Friends"
+    },
+    {
+        "question": "Spell the word for not short. / Đánh vần từ chỉ việc không thấp.",
+        "options": [
+            "t-a-l-l",
+            "s-h-o-r-t",
+            "b-i-g",
+            "l-o-n-g"
+        ],
+        "correctAnswer": "t-a-l-l"
+    },
+    {
+        "question": "What is the opposite of 'yes'? / Từ trái nghĩa của 'yes' là gì?",
+        "options": [
+            "No",
+            "Okay",
+            "Good",
+            "Fine"
+        ],
+        "correctAnswer": "No"
+    },
+    {
+        "question": "'Is he sad?' - '____, he is happy.' / 'Cậu ấy có buồn không?' - '____, cậu ấy vui.'",
+        "options": [
+            "No",
+            "Yes",
+            "Maybe",
+            "Okay"
+        ],
+        "correctAnswer": "No"
+    },
+    {
+        "question": "What do you call the action of playing together? / Bạn gọi hành động chơi cùng nhau là gì?",
+        "options": [
+            "Sharing",
+            "Fighting",
+            "Crying",
+            "Sleeping"
+        ],
+        "correctAnswer": "Sharing"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "A good friend is never ____. / Một người bạn tốt không bao giờ ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "happy"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Spell the word for not tall. / Đánh vần từ chỉ việc không cao.",
+        "options": [
+            "s-h-o-r-t",
+            "t-a-l-l",
+            "s-m-a-l-l",
+            "l-i-t-t-l-e"
+        ],
+        "correctAnswer": "s-h-o-r-t"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "You should ____ your friends. / Bạn nên ____ bạn bè của mình.",
+        "options": [
+            "love",
+            "hate",
+            "fight",
+            "ignore"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a group of three friends? / Bạn gọi một nhóm ba người bạn là gì?",
+        "options": [
+            "A trio",
+            "A duo",
+            "A team",
+            "A class"
+        ],
+        "correctAnswer": "A trio"
+    },
+    {
+        "question": "Spell the word for not old. / Đánh vần từ chỉ việc không già.",
+        "options": [
+            "y-o-u-n-g",
+            "o-l-d",
+            "n-e-w",
+            "s-m-a-l-l"
+        ],
+        "correctAnswer": "y-o-u-n-g"
+    }
 ]
-
