@@ -1,256 +1,96 @@
 [
     {
-        "question": "Who is this? / Đây là ai?",
+        "question": "This is a group of people you live with, like your parents and siblings. What is it? / Đây là một nhóm người bạn sống cùng, như cha mẹ và anh chị em. Nó là gì?",
         "options": [
-            "This is my father.",
-            "This is my friend.",
-            "This is my teacher.",
-            "This is a doctor."
+            "A family",
+            "A class",
+            "A team",
+            "A crowd"
         ],
-        "correctAnswer": "This is my father."
+        "correctAnswer": "A family"
     },
     {
-        "question": "Is this your ____? - Yes, she is. / Đây có phải là ____ của bạn không? - Vâng, đúng vậy.",
+        "question": "This person is your male parent. Who is this? / Người này là cha mẹ nam của bạn. Đây là ai?",
         "options": [
-            "mother",
-            "father",
-            "brother",
-            "sister"
+            "Father",
+            "Mother",
+            "Brother",
+            "Sister"
         ],
-        "correctAnswer": "mother"
+        "correctAnswer": "Father"
     },
     {
-        "question": "I have a new picture of my ____. / Tôi có một bức ảnh mới về ____ của tôi.",
+        "question": "This person is your female parent. Who is this? / Người này là cha mẹ nữ của bạn. Đây là ai?",
         "options": [
-            "family",
-            "school",
-            "friends",
-            "pets"
+            "Mother",
+            "Father",
+            "Uncle",
+            "Grandfather"
         ],
-        "correctAnswer": "family"
+        "correctAnswer": "Mother"
     },
     {
-        "question": "This is my ____. He is young. / Đây là ____ của tôi. Cậu ấy còn trẻ.",
+        "question": "This is a boy who has the same parents as you. Who is this? / Đây là một cậu bé có cùng cha mẹ với bạn. Đây là ai?",
         "options": [
-            "brother",
-            "father",
-            "grandfather",
-            "uncle"
+            "A brother",
+            "A sister",
+            "A father",
+            "A friend"
         ],
-        "correctAnswer": "brother"
+        "correctAnswer": "A brother"
     },
     {
-        "question": "Spell the word: f-a-m-i-l-y / Đánh vần từ: f-a-m-i-l-y",
+        "question": "This is a girl who has the same parents as you. Who is this? / Đây là một cô gái có cùng cha mẹ với bạn. Đây là ai?",
         "options": [
-            "family",
-            "fame",
-            "familiar",
-            "famous"
+            "A sister",
+            "A brother",
+            "A mother",
+            "An aunt"
         ],
-        "correctAnswer": "family"
+        "correctAnswer": "A sister"
     },
     {
-        "question": "That is my ____. She is old. / Đó là ____ của tôi. Bà ấy đã già.",
+        "question": "This person is your father's father. Who is this? / Người này là cha của cha bạn. Đây là ai?",
         "options": [
-            "grandmother",
-            "mother",
-            "sister",
-            "aunt"
+            "Grandfather",
+            "Father",
+            "Brother",
+            "Uncle"
         ],
-        "correctAnswer": "grandmother"
+        "correctAnswer": "Grandfather"
     },
     {
-        "question": "I love my ____ very much. / Tôi yêu ____ của tôi rất nhiều.",
+        "question": "This person is your mother's mother. Who is this? / Người này là mẹ của mẹ bạn. Đây là ai?",
         "options": [
-            "family",
-            "school",
-            "books",
-            "toys"
+            "Grandmother",
+            "Mother",
+            "Sister",
+            "Aunt"
         ],
-        "correctAnswer": "family"
+        "correctAnswer": "Grandmother"
     },
     {
-        "question": "Find the word: m-o-t-h-e-r / Tìm từ: m-o-t-h-e-r",
-        "options": [
-            "mother",
-            "brother",
-            "other",
-            "another"
-        ],
-        "correctAnswer": "mother"
-    },
-    {
-        "question": "Is that your grandfather? / Đó có phải là ông của bạn không?",
-        "options": [
-            "Yes, he is.",
-            "No, she isn't.",
-            "It is a family.",
-            "I have a brother."
-        ],
-        "correctAnswer": "Yes, he is."
-    },
-    {
-        "question": "This is a photo of my ____. / Đây là một bức ảnh của ____ tôi.",
-        "options": [
-            "sister",
-            "brother",
-            "father",
-            "mother"
-        ],
-        "correctAnswer": "sister"
-    },
-    {
-        "question": "What does your father do? / Bố của bạn làm nghề gì?",
-        "options": [
-            "He's a doctor.",
-            "He is tall.",
-            "He is fine.",
-            "His name is Tuan."
-        ],
-        "correctAnswer": "He's a doctor."
-    },
-    {
-        "question": "My mother is a ____. She works in a school. / Mẹ tôi là một ____. Bà ấy làm việc trong một trường học.",
-        "options": [
-            "teacher",
-            "doctor",
-            "farmer",
-            "worker"
-        ],
-        "correctAnswer": "teacher"
-    },
-    {
-        "question": "What is the missing letter: fathe_",
-        "options": [
-            "r",
-            "t",
-            "p",
-            "k"
-        ],
-        "correctAnswer": "r"
-    },
-    {
-        "question": "This is my ____. She is beautiful. / Đây là ____ của tôi. Cô ấy rất đẹp.",
-        "options": [
-            "mother",
-            "father",
-            "brother",
-            "grandfather"
-        ],
-        "correctAnswer": "mother"
-    },
-    {
-        "question": "My ____ is a farmer. He works on a farm. / ____ của tôi là một nông dân. Ông ấy làm việc trên một nông trại.",
-        "options": [
-            "grandfather",
-            "father",
-            "brother",
-            "uncle"
-        ],
-        "correctAnswer": "grandfather"
-    },
-    {
-        "question": "Let's draw our ____. / Hãy vẽ ____ của chúng ta.",
-        "options": [
-            "family",
-            "books",
-            "pencils",
-            "chairs"
-        ],
-        "correctAnswer": "family"
-    },
-    {
-        "question": "Spell the word: b-r-o-t-h-e-r / Đánh vần từ: b-r-o-t-h-e-r",
-        "options": [
-            "brother",
-            "mother",
-            "other",
-            "bother"
-        ],
-        "correctAnswer": "brother"
-    },
-    {
-        "question": "Is she a nurse? / Cô ấy có phải là một y tá không?",
-        "options": [
-            "Yes, she is.",
-            "No, she is a doctor.",
-            "She is my mother.",
-            "I can see a nurse."
-        ],
-        "correctAnswer": "Yes, she is."
-    },
-    {
-        "question": "I am ____ a picture of my family. / Tôi đang ____ một bức tranh về gia đình tôi.",
-        "options": [
-            "drawing",
-            "reading",
-            "writing",
-            "playing"
-        ],
-        "correctAnswer": "drawing"
-    },
-    {
-        "question": "What is the missing letter: _ister / Chữ cái còn thiếu là gì? _ister",
-        "options": [
-            "s",
-            "m",
-            "p",
-            "br"
-        ],
-        "correctAnswer": "s"
-    },
-    {
-        "question": "These are my ____. / Đây là ____ của tôi.",
+        "question": "Your mother and father together are your ____. / Mẹ và cha của bạn cùng nhau là ____ của bạn.",
         "options": [
             "parents",
-            "friends",
-            "teachers",
-            "pets"
+            "siblings",
+            "children",
+            "friends"
         ],
         "correctAnswer": "parents"
     },
     {
-        "question": "How many people are in your family? / Gia đình bạn có bao nhiêu người?",
+        "question": "To ask about someone's job, you say: 'What does he/she ____?' / Để hỏi về công việc của ai đó, bạn nói: 'What does he/she ____?'",
         "options": [
-            "There are four.",
-            "I am fine.",
-            "My name is Mai.",
-            "I am eight."
+            "do",
+            "is",
+            "have",
+            "like"
         ],
-        "correctAnswer": "There are four."
+        "correctAnswer": "do"
     },
     {
-        "question": "This is a ____. He drives a car. / Đây là một ____. Ông ấy lái xe ô tô.",
-        "options": [
-            "driver",
-            "doctor",
-            "teacher",
-            "farmer"
-        ],
-        "correctAnswer": "driver"
-    },
-    {
-        "question": "Spell the word: d-o-c-t-o-r / Đánh vần từ: d-o-c-t-o-r",
-        "options": [
-            "doctor",
-            "dollar",
-            "door",
-            "dark"
-        ],
-        "correctAnswer": "doctor"
-    },
-    {
-        "question": "Is your family big? / Gia đình bạn có lớn không?",
-        "options": [
-            "No, it is small.",
-            "Yes, it is.",
-            "It is a family.",
-            "I can see my family."
-        ],
-        "correctAnswer": "No, it is small."
-    },
-    {
-        "question": "We can see a ____ in the hospital. / Chúng ta có thể thấy một ____ trong bệnh viện.",
+        "question": "A person who works in a hospital and helps sick people is a ____. / Một người làm việc trong bệnh viện và giúp đỡ người bệnh là một ____.",
         "options": [
             "doctor",
             "teacher",
@@ -260,497 +100,219 @@
         "correctAnswer": "doctor"
     },
     {
-        "question": "What is the missing letter: teache_",
+        "question": "A person who works in a school and teaches students is a ____. / Một người làm việc trong trường học và dạy học sinh là một ____.",
         "options": [
-            "r",
-            "t",
-            "d",
-            "p"
+            "teacher",
+            "doctor",
+            "nurse",
+            "worker"
         ],
-        "correctAnswer": "r"
+        "correctAnswer": "teacher"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "A person who works on a farm is a ____. / Một người làm việc trên nông trại là một ____.",
         "options": [
-            "A family tree",
-            "A picture",
-            "A poster",
-            "A map"
+            "farmer",
+            "driver",
+            "singer",
+            "teacher"
         ],
-        "correctAnswer": "A family tree"
+        "correctAnswer": "farmer"
     },
     {
-        "question": "This is a ____. He works in a factory. / Đây là một ____. Ông ấy làm việc trong một nhà máy.",
+        "question": "A person who drives a car or bus is a ____. / Một người lái xe ô tô hoặc xe buýt là một ____.",
         "options": [
-            "worker",
+            "driver",
             "farmer",
             "doctor",
+            "nurse"
+        ],
+        "correctAnswer": "driver"
+    },
+    {
+        "question": "A person who helps a doctor in a hospital is a ____. / Một người giúp bác sĩ trong bệnh viện là một ____.",
+        "options": [
+            "nurse",
+            "teacher",
+            "farmer",
+            "worker"
+        ],
+        "correctAnswer": "nurse"
+    },
+    {
+        "question": "A person who works in a factory is a ____. / Một người làm việc trong một nhà máy là một ____.",
+        "options": [
+            "worker",
+
+            "singer",
+            "dancer",
             "teacher"
         ],
         "correctAnswer": "worker"
     },
     {
-        "question": "This is ____. It's my family. / Đây là ____. Đó là gia đình của tôi.",
+        "question": "Spell the word for your family members. / Đánh vần từ chỉ các thành viên trong gia đình bạn.",
         "options": [
-            "us",
-            "we",
-            "our",
-            "ours"
+            "f-a-m-i-l-y",
+            "f-r-i-e-n-d-s",
+            "p-e-o-p-l-e",
+            "c-l-a-s-s"
         ],
-        "correctAnswer": "us"
+        "correctAnswer": "f-a-m-i-l-y"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
         "options": [
-            "A father",
-            "A mother",
-            "A brother",
-            "A sister"
+            "Old",
+            "New",
+            "Big",
+            "Small"
         ],
-        "correctAnswer": "A father"
+        "correctAnswer": "Old"
     },
     {
-        "question": "Find the word: s-i-s-t-e-r / Tìm từ: s-i-s-t-e-r",
+        "question": "My grandfather is ____, but I am young. / Ông tôi thì ____, nhưng tôi thì trẻ.",
         "options": [
-            "sister",
-            "mister",
-            "silver",
-            "listen"
-        ],
-        "correctAnswer": "sister"
-    },
-    {
-        "question": "Is your mother a teacher? / Mẹ của bạn có phải là giáo viên không?",
-        "options": [
-            "Yes, she is.",
-            "No, she is a nurse.",
-            "I am in the class.",
-            "I like my teacher."
-        ],
-        "correctAnswer": "Yes, she is."
-    },
-    {
-        "question": "My ____ is a student. / ____ của tôi là một học sinh.",
-        "options": [
-            "brother",
-            "father",
-            "grandfather",
-            "uncle"
-        ],
-        "correctAnswer": "brother"
-    },
-    {
-        "question": "What is the missing letter: grand_ather / Chữ cái còn thiếu là gì? grand_ather",
-        "options": [
-            "f",
-            "p",
-            "t",
-            "d"
-        ],
-        "correctAnswer": "f"
-    },
-    {
-        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-        "options": [
-            "family",
-            "book",
-            "lesson",
-            "game"
-        ],
-        "correctAnswer": "family"
-    },
-    {
-        "question": "Spell the word: n-u-r-s-e / Đánh vần từ: n-u-r-s-e",
-        "options": [
-            "nurse",
-            "purse",
-            "curse",
-            "verse"
-        ],
-        "correctAnswer": "nurse"
-    },
-    {
-        "question": "Is this a picture of your brother? / Đây có phải là một bức ảnh của anh trai bạn không?",
-        "options": [
-            "Yes, he is.",
-            "No, it is my sister.",
-            "I can see a picture.",
-            "I like pictures."
-        ],
-        "correctAnswer": "Yes, he is."
-    },
-    {
-        "question": "The family has a big ____. / Gia đình có một ____ lớn.",
-        "options": [
-            "house",
-            "car",
-            "dog",
-            "cat"
-        ],
-        "correctAnswer": "house"
-    },
-    {
-        "question": "What is the missing letter: _armer / Chữ cái còn thiếu là gì? _armer",
-        "options": [
-            "f",
-            "p",
-            "b",
-            "c"
-        ],
-        "correctAnswer": "f"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A mother",
-            "A father",
-            "A sister",
-            "A brother"
-        ],
-        "correctAnswer": "A mother"
-    },
-    {
-        "question": "My ____ is beautiful. / ____ của tôi rất đẹp.",
-        "options": [
-            "mother",
-            "house",
-            "room",
-            "bag"
-        ],
-        "correctAnswer": "mother"
-    },
-    {
-        "question": "Is your father a driver? / Bố của bạn có phải là tài xế không?",
-        "options": [
-            "Yes, he is.",
-            "No, he is a doctor.",
-            "It is a driver.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, he is."
-    },
-    {
-        "question": "I can see my father and my ____. / Tôi có thể thấy bố tôi và ____ của tôi.",
-        "options": [
-            "mother",
-            "house",
-            "car",
-            "book"
-        ],
-        "correctAnswer": "mother"
-    },
-    {
-        "question": "Find the word: d-r-i-v-e-r / Tìm từ: d-r-i-v-e-r",
-        "options": [
-            "driver",
-            "river",
-            "drive",
-            "diver"
-        ],
-        "correctAnswer": "driver"
-    },
-    {
-        "question": "This is my ____. He is very old. / Đây là ____ của tôi. Ông ấy rất già.",
-        "options": [
-            "grandfather",
-            "father",
-            "brother",
-            "uncle"
-        ],
-        "correctAnswer": "grandfather"
-    },
-    {
-        "question": "What is the missing letter: worke_",
-        "options": [
-            "r",
-            "k",
-            "p",
-            "t"
-        ],
-        "correctAnswer": "r"
-    },
-    {
-        "question": "Is it a happy family? / Đó có phải là một gia đình hạnh phúc không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is sad.",
-            "I like families.",
-            "Goodbye."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My ____ is fun. / ____ của tôi rất vui.",
-        "options": [
-            "family",
-            "homework",
-            "class",
-            "test"
-        ],
-        "correctAnswer": "family"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A family photo",
-            "A school photo",
-            "A class photo",
-            "A group photo"
-        ],
-        "correctAnswer": "A family photo"
-    },
-    {
-        "question": "How many sisters do you have? / Bạn có bao nhiêu chị em gái?",
-        "options": [
-            "I have one sister.",
-            "I am fine.",
-            "My name is Mai.",
-            "I am eight."
-        ],
-        "correctAnswer": "I have one sister."
-    },
-    {
-        "question": "A family is a group of ____. / Một gia đình là một nhóm ____.",
-        "options": [
-            "people",
-            "animals",
-            "plants",
-            "cars"
-        ],
-        "correctAnswer": "people"
-    },
-    {
-        "question": "I have ____ older brother. / Tôi có ____ anh trai.",
-        "options": [
-            "an",
-            "a",
-            "many",
-            "some"
-        ],
-        "correctAnswer": "an"
-    },
-    {
-        "question": "What is your mother's job? / Mẹ của bạn làm nghề gì?",
-        "options": [
-            "She's a nurse.",
-            "She is beautiful.",
-            "She is at home.",
-            "Her name is Lan."
-        ],
-        "correctAnswer": "She's a nurse."
-    },
-    {
-        "question": "What is your father's job? / Bố của bạn làm nghề gì?",
-        "options": [
-            "He's a worker.",
-            "He is tall.",
-            "He is at work.",
-            "His name is Nam."
-        ],
-        "correctAnswer": "He's a worker."
-    },
-    {
-        "question": "My brother is ____. / Anh trai tôi thì ____.",
-        "options": [
-            "tall",
-            "short",
-            "small",
-            "thin"
-        ],
-        "correctAnswer": "tall"
-    },
-    {
-        "question": "My sister is ____. / Chị gái tôi thì ____.",
-        "options": [
-            "young",
             "old",
-            "sad",
-            "bad"
+            "new",
+            "short",
+            "happy"
         ],
-        "correctAnswer": "young"
+        "correctAnswer": "old"
     },
     {
-        "question": "Is your grandfather a farmer? / Ông của bạn có phải là nông dân không?",
+        "question": "What is the opposite of 'tall'? / Từ trái nghĩa của 'tall' là gì?",
         "options": [
-            "Yes, he is.",
-            "No, he is a doctor.",
-            "Yes",
-            "No"
+            "Short",
+            "Long",
+
+            "Big",
+            "Wide"
         ],
-        "correctAnswer": "Yes, he is."
+        "correctAnswer": "Short"
     },
     {
-        "question": "My family is ____. / Gia đình tôi thì ____.",
+        "question": "My father is tall, but my little brother is ____. / Bố tôi cao, nhưng em trai tôi thì ____.",
+        "options": [
+            "short",
+            "tall",
+            "old",
+            "big"
+        ],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "Spell the word for your male parent. / Đánh vần từ chỉ bố của bạn.",
+        "options": [
+            "f-a-t-h-e-r",
+            "m-o-t-h-e-r",
+            "b-r-o-t-h-e-r",
+            "u-n-c-l-e"
+        ],
+        "correctAnswer": "f-a-t-h-e-r"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "My family is always ____ when we are together. / Gia đình tôi luôn ____ khi chúng tôi ở bên nhau.",
         "options": [
             "happy",
-            "noisy",
-            "busy",
-            "crowded"
+            "sad",
+            "angry",
+            "scared"
         ],
         "correctAnswer": "happy"
     },
     {
-        "question": "What is the missing letter: happ_",
+        "question": "What do you call a picture of your family? / Bạn gọi một bức ảnh của gia đình bạn là gì?",
         "options": [
-            "y",
-            "t",
-            "d",
-            "k"
+            "A family photo",
+            "A school photo",
+            "A class photo",
+            "A selfie"
         ],
-        "correctAnswer": "y"
+        "correctAnswer": "A family photo"
     },
     {
-        "question": "This is my ____. / Đây là ____ của tôi.",
+        "question": "Spell the word for your female parent. / Đánh vần từ chỉ mẹ của bạn.",
         "options": [
-            "grandmother",
-            "grandfather",
-            "father",
-            "mother"
+            "m-o-t-h-e-r",
+            "f-a-t-h-e-r",
+            "s-i-s-t-e-r",
+            "b-r-o-t-h-e-r"
         ],
-        "correctAnswer": "grandmother"
+        "correctAnswer": "m-o-t-h-e-r"
     },
     {
-        "question": "I love my ____. / Tôi yêu ____ của tôi.",
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
         "options": [
-            "parents",
-            "dog",
-            "cat",
-            "bird"
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
         ],
-        "correctAnswer": "parents"
+        "correctAnswer": "Hate"
     },
     {
-        "question": "Is your sister a student? / Chị của bạn có phải là học sinh không?",
+        "question": "It is important to ____ and respect your parents. / Điều quan trọng là phải ____ và kính trọng cha mẹ của bạn.",
         "options": [
-            "Yes, she is.",
-            "No, she is a teacher.",
-            "She is my sister.",
-            "Hello."
+            "love",
+            "hate",
+            "ignore",
+            "fight"
         ],
-        "correctAnswer": "Yes, she is."
+        "correctAnswer": "love"
     },
     {
-        "question": "Let's introduce our ____. / Hãy giới thiệu ____ của chúng ta.",
+        "question": "What do you call your father's mother? / Bạn gọi mẹ của cha bạn là gì?",
         "options": [
-            "family",
-            "friends",
-            "pets",
-            "books"
+            "Grandmother",
+            "Mother",
+            "Aunt",
+            "Sister"
         ],
-        "correctAnswer": "family"
+        "correctAnswer": "Grandmother"
     },
     {
-        "question": "Spell the word: p-a-r-e-n-t-s / Đánh vần từ: p-a-r-e-n-t-s",
+        "question": "Spell the word for a boy in your family. / Đánh vần từ chỉ một cậu bé trong gia đình bạn.",
         "options": [
-            "parents",
-            "parent",
-            "apparent",
-            "partner"
+            "b-r-o-t-h-e-r",
+            "s-i-s-t-e-r",
+            "f-a-t-h-e-r",
+            "c-o-u-s-i-n"
         ],
-        "correctAnswer": "parents"
+        "correctAnswer": "b-r-o-t-h-e-r"
     },
     {
-        "question": "I have ____ loving family. / Tôi có ____ gia đình yêu thương.",
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
         "options": [
-            "a",
-            "an",
-            "one",
-            "two"
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
         ],
-        "correctAnswer": "a"
+        "correctAnswer": "Take"
     },
     {
-        "question": "My favorite person in my family is my ____. / Người yêu thích của tôi trong gia đình là ____.",
+        "question": "You can ____ a hug to your mother. / Bạn có thể ____ mẹ một cái ôm.",
         "options": [
-            "mother",
-            "father",
-            "brother",
-            "sister"
+            "give",
+            "take",
+            "play",
+            "eat"
         ],
-        "correctAnswer": "mother"
+        "correctAnswer": "give"
     },
     {
-        "question": "What is the missing letter: fami_y / Chữ cái còn thiếu là gì? fami_y",
-        "options": [
-            "l",
-            "a",
-            "i",
-            "o"
-        ],
-        "correctAnswer": "l"
-    },
-    {
-        "question": "This is ____. He is my father's brother. / Đây là ____. Ông ấy là anh trai của bố tôi.",
-        "options": [
-            "my uncle",
-            "my aunt",
-            "my cousin",
-            "my grandfather"
-        ],
-        "correctAnswer": "my uncle"
-    },
-    {
-        "question": "We should love and respect our ____. / Chúng ta nên yêu thương và kính trọng ____ của mình.",
-        "options": [
-            "family",
-            "friends",
-            "teachers",
-            "all are correct"
-        ],
-        "correctAnswer": "all are correct"
-    },
-    {
-        "question": "Is it a big family? / Đó có phải là một gia đình lớn không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is small.",
-            "I like families.",
-            "The family is happy."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Spell the word: u-n-c-l-e / Đánh vần từ: u-n-c-l-e",
-        "options": [
-            "uncle",
-            "under",
-            "until",
-            "unless"
-        ],
-        "correctAnswer": "uncle"
-    },
-    {
-        "question": "I help my mom in the ____. / Tôi giúp mẹ tôi trong ____.",
-        "options": [
-            "kitchen",
-            "garden",
-            "office",
-            "car"
-        ],
-        "correctAnswer": "kitchen"
-    },
-    {
-        "question": "The family lives in a ____. / Gia đình sống trong một ____.",
-        "options": [
-            "house",
-            "apartment",
-            "flat",
-            "all are correct"
-        ],
-        "correctAnswer": "all are correct"
-    },
-    {
-        "question": "What is the missing letter: hous_",
-        "options": [
-            "e",
-            "p",
-            "t",
-            "d"
-        ],
-        "correctAnswer": "e"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
+        "question": "What do you call your mother's sister? / Bạn gọi chị gái của mẹ bạn là gì?",
         "options": [
             "An aunt",
             "An uncle",
@@ -760,203 +322,93 @@
         "correctAnswer": "An aunt"
     },
     {
-        "question": "My ____ is full of love. / ____ của tôi tràn đầy tình yêu thương.",
+        "question": "Spell the word for a girl in your family. / Đánh vần từ chỉ một cô gái trong gia đình bạn.",
         "options": [
-            "family",
-            "house",
-            "room",
-            "bag"
+            "s-i-s-t-e-r",
+            "b-r-o-t-h-e-r",
+            "m-o-t-h-e-r",
+            "a-u-n-t"
         ],
-        "correctAnswer": "family"
+        "correctAnswer": "s-i-s-t-e-r"
     },
     {
-        "question": "Is it a picture of your parents? / Nó có phải là một bức ảnh của bố mẹ bạn không?",
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
         "options": [
-            "Yes, it is.",
-            "No, it is my grandparents.",
-            "I see a picture.",
-            "The picture is nice."
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "Bad"
     },
     {
-        "question": "My friend likes my ____. / Bạn tôi thích ____ của tôi.",
+        "question": "A family that argues a lot is not a ____ family. / Một gia đình hay cãi nhau không phải là một gia đình ____.",
         "options": [
-            "family",
-            "house",
-            "room",
-            "bag"
-        ],
-        "correctAnswer": "family"
-    },
-    {
-        "question": "Spell the word: a-u-n-t / Đánh vần từ: a-u-n-t",
-        "options": [
-            "aunt",
-            "ant",
-            "and",
-            "art"
-        ],
-        "correctAnswer": "aunt"
-    },
-    {
-        "question": "This is a ____ day to be with family. / Đây là một ngày ____ để ở bên gia đình.",
-        "options": [
+            "good",
+            "bad",
             "happy",
-            "rainy",
-            "cloudy",
-            "windy"
+            "big"
         ],
-        "correctAnswer": "happy"
+        "correctAnswer": "good"
     },
     {
-        "question": "What is the missing letter: _appy / Chữ cái còn thiếu là gì? _appy",
-        "options": [
-            "h",
-            "p",
-            "s",
-            "m"
-        ],
-        "correctAnswer": "h"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
+        "question": "What do you call your uncle's child? / Bạn gọi con của chú bạn là gì?",
         "options": [
             "A cousin",
             "A brother",
             "A sister",
-            "A friend"
+            "A nephew"
         ],
         "correctAnswer": "A cousin"
     },
     {
-        "question": "My father is a ____. / Bố tôi là một ____.",
+        "question": "Spell the word for your father's father. / Đánh vần từ chỉ cha của cha bạn.",
         "options": [
-            "worker",
-            "teacher",
-            "doctor",
-            "farmer"
+            "g-r-a-n-d-f-a-t-h-e-r",
+            "f-a-t-h-e-r",
+            "u-n-c-l-e",
+            "b-r-o-t-h-e-r"
         ],
-        "correctAnswer": "worker"
+        "correctAnswer": "g-r-a-n-d-f-a-t-h-e-r"
     },
     {
-        "question": "Are the children happy? / Bọn trẻ có vui không?",
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
         "options": [
-            "Yes, they are.",
-            "No, they are sad.",
-            "They are children.",
-            "I am happy."
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
         ],
-        "correctAnswer": "Yes, they are."
+        "correctAnswer": "Ugly"
     },
     {
-        "question": "My family has a ____. / Gia đình tôi có một ____.",
+        "question": "My mother has a ____ smile. / Mẹ tôi có một nụ cười ____.",
         "options": [
-            "pet",
-            "car",
-            "house",
-            "all are correct"
-        ],
-        "correctAnswer": "all are correct"
-    },
-    {
-        "question": "Spell the word: c-o-u-s-i-n / Đánh vần từ: c-o-u-s-i-n",
-        "options": [
-            "cousin",
-            "coupon",
-            "could",
-            "count"
-        ],
-        "correctAnswer": "cousin"
-    },
-    {
-        "question": "I am ____ with my family. / Tôi ____ với gia đình của mình.",
-        "options": [
-            "happy",
+            "beautiful",
+            "ugly",
             "sad",
-            "bored",
-            "angry"
+            "old"
         ],
-        "correctAnswer": "happy"
+        "correctAnswer": "beautiful"
     },
     {
-        "question": "What is the missing letter: fath_r / Chữ cái còn thiếu là gì? fath_r",
+        "question": "What do you call the activity of helping with jobs at home? / Bạn gọi hoạt động giúp đỡ các công việc ở nhà là gì?",
         "options": [
-            "e",
-            "a",
-            "i",
-            "o"
+            "Doing chores",
+            "Doing homework",
+            "Playing games",
+            "Watching TV"
         ],
-        "correctAnswer": "e"
+        "correctAnswer": "Doing chores"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "Spell the word for your mother's mother. / Đánh vần từ chỉ mẹ của mẹ bạn.",
         "options": [
-            "A family dinner",
-            "A birthday party",
-            "A picnic",
-            "A wedding"
+            "g-r-a-n-d-m-o-t-h-e-r",
+            "m-o-t-h-e-r",
+            "a-u-n-t",
+            "s-i-s-t-e-r"
         ],
-        "correctAnswer": "A family dinner"
-    },
-    {
-        "question": "My family is my favorite ____. / Gia đình là ____ yêu thích của tôi.",
-        "options": [
-            "team",
-            "group",
-            "class",
-            "club"
-        ],
-        "correctAnswer": "team"
-    },
-    {
-        "question": "Is your brother older than you? / Anh trai của bạn có lớn hơn bạn không?",
-        "options": [
-            "Yes, he is.",
-            "No, he is younger.",
-            "He is my brother.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, he is."
-    },
-    {
-        "question": "The family is ____. / Gia đình đang ____.",
-        "options": [
-            "eating",
-            "playing",
-            "studying",
-            "working"
-        ],
-        "correctAnswer": "eating"
-    },
-    {
-        "question": "Spell the word: e-a-t-i-n-g / Đánh vần từ: e-a-t-i-n-g",
-        "options": [
-            "eating",
-            "beating",
-            "heating",
-            "seating"
-        ],
-        "correctAnswer": "eating"
-    },
-    {
-        "question": "We eat ____ together. / Chúng tôi ăn ____ cùng nhau.",
-        "options": [
-            "dinner",
-            "lunch",
-            "breakfast",
-            "all are correct"
-        ],
-        "correctAnswer": "all are correct"
-    },
-    {
-        "question": "What is the missing letter: dinne_",
-        "options": [
-            "r",
-            "s",
-            "t",
-            "p"
-        ],
-        "correctAnswer": "r"
+        "correctAnswer": "g-r-a-n-d-m-o-t-h-e-r"
     }
 ]
