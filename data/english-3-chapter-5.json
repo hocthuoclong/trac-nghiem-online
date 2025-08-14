@@ -1,962 +1,422 @@
 [
     {
-        "question": "What's your ____? - I like singing. / ____ của bạn là gì? - Tớ thích ca hát.",
+        "question": "This is an activity you do for fun in your free time. What is it? / Đây là một hoạt động bạn làm để giải trí trong thời gian rảnh. Nó là gì?",
         "options": [
-            "hobby",
-            "name",
-            "age",
-            "friend"
+            "A hobby",
+            "A job",
+            "Homework",
+            "A chore"
         ],
-        "correctAnswer": "hobby"
+        "correctAnswer": "A hobby"
     },
     {
-        "question": "I like ____. I use my voice. / Tớ thích ____. Tớ dùng giọng của mình.",
-        "options": [
-            "singing",
-            "dancing",
-            "drawing",
-            "swimming"
-        ],
-        "correctAnswer": "singing"
-    },
-    {
-        "question": "She likes ____. She moves her body to music. / Cô ấy thích ____. Cô ấy di chuyển cơ thể theo nhạc.",
+        "question": "If you like to move your body to music, your hobby is ____. / Nếu bạn thích di chuyển cơ thể theo nhạc, sở thích của bạn là ____.",
         "options": [
             "dancing",
             "singing",
             "reading",
-            "cooking"
+            "sleeping"
         ],
         "correctAnswer": "dancing"
     },
     {
-        "question": "He likes ____. He uses pencils and paper. / Cậu ấy thích ____. Cậu ấy dùng bút chì và giấy.",
+        "question": "You use your voice to make music. What is this hobby? / Bạn dùng giọng của mình để tạo ra âm nhạc. Sở thích này là gì?",
         "options": [
-            "drawing",
-            "swimming",
-            "singing",
-            "dancing"
+            "Singing",
+            "Drawing",
+            "Swimming",
+            "Cooking"
         ],
-        "correctAnswer": "drawing"
+        "correctAnswer": "Singing"
     },
     {
-        "question": "Spell the word: h-o-b-b-y / Đánh vần từ: h-o-b-b-y",
+        "question": "You use pencils and paper to create a picture. What is this hobby? / Bạn dùng bút chì và giấy để tạo ra một bức tranh. Sở thích này là gì?",
         "options": [
-            "hobby",
-            "happy",
-            "lobby",
-            "honey"
+            "Drawing",
+            "Dancing",
+            "Singing",
+            "Reading"
         ],
-        "correctAnswer": "hobby"
+        "correctAnswer": "Drawing"
     },
     {
-        "question": "Do you like ____? - Yes, I do. I go to the pool. / Bạn có thích ____ không? - Có, tớ có. Tớ đến hồ bơi.",
+        "question": "This hobby is done in a pool or the sea. What is it? / Sở thích này được thực hiện ở hồ bơi hoặc biển. Nó là gì?",
         "options": [
-            "swimming",
-            "drawing",
-            "singing",
-            "dancing"
+            "Swimming",
+            "Hiking",
+            "Running",
+            "Flying"
         ],
-        "correctAnswer": "swimming"
+        "correctAnswer": "Swimming"
     },
     {
-        "question": "My hobby is ____. I like books. / Sở thích của tớ là ____. Tớ thích sách.",
+        "question": "What do you do with a storybook for a hobby? / Bạn làm gì với một cuốn truyện cho một sở thích?",
         "options": [
-            "reading",
-            "cooking",
-            "swimming",
-            "singing"
+            "Read it",
+            "Eat it",
+            "Throw it",
+            "Wear it"
         ],
-        "correctAnswer": "reading"
+        "correctAnswer": "Read it"
     },
     {
-        "question": "Find the word: s-i-n-g / Tìm từ: s-i-n-g",
+        "question": "If your hobby is cooking, you make ____ food. / Nếu sở thích của bạn là nấu ăn, bạn làm ra những món ăn ____.",
         "options": [
-            "sing",
-            "song",
-            "sign",
-            "king"
+            "yummy",
+            "bad",
+            "sad",
+            "old"
         ],
-        "correctAnswer": "sing"
+        "correctAnswer": "yummy"
     },
     {
-        "question": "Do you like dancing? / Bạn có thích nhảy múa không?",
+        "question": "To ask about someone's favorite activity, you say: / Để hỏi về hoạt động yêu thích của ai đó, bạn nói:",
         "options": [
-            "Yes, I do.",
-            "No, I don't.",
-            "I am dancing.",
-            "I have a friend."
+            "What's your hobby?",
+            "What's your name?",
+            "How are you?",
+            "How old are you?"
         ],
-        "correctAnswer": "Yes, I do."
+        "correctAnswer": "What's your hobby?"
     },
     {
-        "question": "This is my hobby. I ____ pictures. / Đây là sở thích của tớ. Tớ ____ những bức tranh.",
+        "question": "A person who sings is a ____. / Một người hát là một ____.",
         "options": [
-            "draw",
-            "read",
-            "sing",
-            "dance"
+            "singer",
+            "dancer",
+            "painter",
+            "writer"
         ],
-        "correctAnswer": "draw"
+        "correctAnswer": "singer"
     },
     {
-        "question": "What's your hobby? / Sở thích của bạn là gì?",
+        "question": "A person who dances is a ____. / Một người nhảy múa là một ____.",
         "options": [
-            "I like cooking.",
-            "I am fine.",
-            "My name is Tom.",
-            "I am eight."
-        ],
-        "correctAnswer": "I like cooking."
-    },
-    {
-        "question": "I like ____ with my friends. / Tớ thích ____ với bạn bè.",
-        "options": [
-            "playing football",
-            "reading",
-            "cooking",
-            "drawing"
-        ],
-        "correctAnswer": "playing football"
-    },
-    {
-        "question": "What is the missing letter? hob_y / Chữ cái còn thiếu là gì? hob_y",
-        "options": [
-            "b",
-            "p",
-            "t",
-            "d"
-        ],
-        "correctAnswer": "b"
-    },
-    {
-        "question": "This is my ____. It's fun. / Đây là ____ của tôi. Nó rất vui.",
-        "options": [
-            "hobby",
-            "school",
-            "class",
-            "homework"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "My sister likes ____. She makes yummy food. / Chị tôi thích ____. Chị ấy làm những món ăn ngon.",
-        "options": [
-            "cooking",
-            "singing",
-            "dancing",
-            "reading"
-        ],
-        "correctAnswer": "cooking"
-    },
-    {
-        "question": "Let's ____ a song. / Hãy ____ một bài hát.",
-        "options": [
-            "sing",
-            "draw",
-            "read",
+            "dancer",
+            "singer",
+            "swimmer",
             "cook"
         ],
-        "correctAnswer": "sing"
+        "correctAnswer": "dancer"
     },
     {
-        "question": "Spell the word: d-a-n-c-e / Đánh vần từ: d-a-n-c-e",
+        "question": "What is the opposite of 'like'? / Từ trái nghĩa của 'like' là gì?",
         "options": [
-            "dance",
-            "chance",
-            "danger",
-            "dark"
+            "Dislike",
+            "Love",
+            "Hate",
+            "Enjoy"
         ],
-        "correctAnswer": "dance"
+        "correctAnswer": "Dislike"
     },
     {
-        "question": "Is this your hobby? / Đây có phải là sở thích của bạn không?",
+        "question": "I ____ doing homework, but I like playing football. / Tôi ____ làm bài tập về nhà, nhưng tôi thích chơi bóng đá.",
         "options": [
-            "Yes, it is.",
-            "No, it isn't.",
-            "It is a book.",
-            "I can see a picture."
+            "dislike",
+            "like",
+            "love",
+            "enjoy"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "dislike"
     },
     {
-        "question": "I am ____ a picture of a cat. / Tôi đang ____ một bức tranh về một con mèo.",
+        "question": "What do you need for swimming? / Bạn cần gì để bơi?",
         "options": [
-            "drawing",
-            "singing",
-            "dancing",
-            "reading"
+            "A swimsuit and a pool",
+            "A book and a chair",
+            "A pencil and paper",
+            "A ball and a field"
         ],
-        "correctAnswer": "drawing"
+        "correctAnswer": "A swimsuit and a pool"
     },
     {
-        "question": "What is the missing letter? _eading / Chữ cái còn thiếu là gì? _eading",
+        "question": "What do you need for drawing? / Bạn cần gì để vẽ?",
         "options": [
-            "r",
-            "p",
-            "b",
-            "d"
+            "Crayons and paper",
+            "A swimming pool",
+            "A kitchen",
+            "A microphone"
         ],
-        "correctAnswer": "r"
+        "correctAnswer": "Crayons and paper"
     },
     {
-        "question": "These are my ____. / Đây là những ____ của tôi.",
+        "question": "What is the opposite of 'fun'? / Từ trái nghĩa của 'fun' là gì?",
         "options": [
-            "hobbies",
-            "toys",
-            "books",
-            "pets"
+            "Boring",
+            "Happy",
+            "Exciting",
+            "Good"
         ],
-        "correctAnswer": "hobbies"
+        "correctAnswer": "Boring"
     },
     {
-        "question": "How many hobbies do you have? / Bạn có bao nhiêu sở thích?",
+        "question": "Spell the word for an activity you do for fun. / Đánh vần từ chỉ một hoạt động bạn làm để giải trí.",
         "options": [
-            "Many",
-            "One",
-            "Two",
-            "Three"
+            "h-o-b-b-y",
+            "h-a-p-p-y",
+            "l-o-b-b-y",
+            "h-o-n-e-y"
         ],
-        "correctAnswer": "Many"
+        "correctAnswer": "h-o-b-b-y"
     },
     {
-        "question": "This is a ____. / Đây là một ____.",
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
         "options": [
-            "book",
-            "song",
-            "picture",
-            "dance"
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
         ],
-        "correctAnswer": "book"
+        "correctAnswer": "Bad"
     },
     {
-        "question": "Spell the word: s-w-i-m / Đánh vần từ: s-w-i-m",
-        "options": [
-            "swim",
-            "slim",
-            "swam",
-            "swing"
-        ],
-        "correctAnswer": "swim"
-    },
-    {
-        "question": "Is it fun? / Nó có vui không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "It is a hobby.",
-            "I can see a book."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "We can ____ in the sea. / Chúng ta có thể ____ ở biển.",
-        "options": [
-            "swim",
-            "fly",
-            "run",
-            "walk"
-        ],
-        "correctAnswer": "swim"
-    },
-    {
-        "question": "What is the missing letter? cookin_",
-        "options": [
-            "g",
-            "t",
-            "d",
-            "p"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A song",
-            "A story",
-            "A picture",
-            "A dance"
-        ],
-        "correctAnswer": "A song"
-    },
-    {
-        "question": "This is a ____. You can read it. / Đây là một ____. Bạn có thể đọc nó.",
-        "options": [
-            "book",
-            "song",
-            "picture",
-            "dance"
-        ],
-        "correctAnswer": "book"
-    },
-    {
-        "question": "This is ____. It's my favorite thing to do. / Đây là ____. Đó là việc yêu thích của tôi.",
-        "options": [
-            "my hobby",
-            "my school",
-            "my playground",
-            "my park"
-        ],
-        "correctAnswer": "my hobby"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A drawing",
-            "A photo",
-            "A painting",
-            "A picture"
-        ],
-        "correctAnswer": "A drawing"
-    },
-    {
-        "question": "Find the word: c-o-o-k / Tìm từ: c-o-o-k",
-        "options": [
-            "cook",
-            "book",
-            "look",
-            "hook"
-        ],
-        "correctAnswer": "cook"
-    },
-    {
-        "question": "Is it a good song? / Nó có phải là một bài hát hay không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is bad.",
-            "I am singing.",
-            "I like songs."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My ____ is interesting. / ____ của tôi rất thú vị.",
-        "options": [
-            "hobby",
-            "house",
-            "book",
-            "pet"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "What is the missing letter: dancin_",
-        "options": [
-            "g",
-            "n",
-            "m",
-            "p"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-        "options": [
-            "hobby",
-            "book",
-            "lesson",
-            "game"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "Spell the word: r-e-a-d / Đánh vần từ: r-e-a-d",
-        "options": [
-            "read",
-            "red",
-            "road",
-            "ride"
-        ],
-        "correctAnswer": "read"
-    },
-    {
-        "question": "Is this a colourful picture? / Đây có phải là một bức tranh đầy màu sắc không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is black and white.",
-            "I can see a picture.",
-            "I like pictures."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "The hobby is ____. / Sở thích thì ____.",
-        "options": [
-            "relaxing",
-            "tiring",
-            "boring",
-            "difficult"
-        ],
-        "correctAnswer": "relaxing"
-    },
-    {
-        "question": "What is the missing letter? _inging / Chữ cái còn thiếu là gì? _inging",
-        "options": [
-            "s",
-            "p",
-            "b",
-            "c"
-        ],
-        "correctAnswer": "s"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A football",
-            "A basketball",
-            "A volleyball",
-            "A tennis ball"
-        ],
-        "correctAnswer": "A football"
-    },
-    {
-        "question": "My ____ is playing sports. / ____ của tôi là chơi thể thao.",
-        "options": [
-            "hobby",
-            "name",
-            "age",
-            "friend"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "Is swimming your hobby? / Bơi lội có phải là sở thích của bạn không?",
-        "options": [
-            "Yes, it is.",
-            "No, it isn't.",
-            "It is swimming.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "I can see my friends ____. / Tôi có thể thấy bạn bè của tôi ____.",
-        "options": [
-            "playing",
-            "reading",
-            "singing",
-            "dancing"
-        ],
-        "correctAnswer": "playing"
-    },
-    {
-        "question": "Find the word: d-r-a-w / Tìm từ: d-r-a-w",
-        "options": [
-            "draw",
-            "dream",
-            "drink",
-            "drive"
-        ],
-        "correctAnswer": "draw"
-    },
-    {
-        "question": "This is my ____. I do it every day. / Đây là ____ của tôi. Tôi làm nó mỗi ngày.",
-        "options": [
-            "hobby",
-            "homework",
-            "chore",
-            "job"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "What is the missing letter? swimmin_",
-        "options": [
-            "g",
-            "k",
-            "p",
-            "t"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "Is it a good book? / Nó có phải là một quyển sách hay không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "I like books.",
-            "Goodbye."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My ____ is fun. / ____ của tôi rất vui.",
-        "options": [
-            "hobby",
-            "homework",
-            "class",
-            "test"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A guitar",
-            "A piano",
-            "A drum",
-            "A violin"
-        ],
-        "correctAnswer": "A guitar"
-    },
-    {
-        "question": "What do you like doing? / Bạn thích làm gì?",
-        "options": [
-            "I like painting.",
-            "I am fine.",
-            "My name is Lucy.",
-            "I am nine."
-        ],
-        "correctAnswer": "I like painting."
-    },
-    {
-        "question": "A hobby is something you do for ____. / Một sở thích là thứ bạn làm để ____.",
-        "options": [
-            "fun",
-            "work",
-            "money",
-            "school"
-        ],
-        "correctAnswer": "fun"
-    },
-    {
-        "question": "I like ____ pictures. / Tôi thích ____ tranh.",
-        "options": [
-            "painting",
-            "drawing",
-            "taking",
-            "making"
-        ],
-        "correctAnswer": "painting"
-    },
-    {
-        "question": "What is your favorite hobby? / Sở thích yêu thích của bạn là gì?",
-        "options": [
-            "My favorite hobby is reading.",
-            "I like red.",
-            "I have a dog.",
-            "I am a student."
-        ],
-        "correctAnswer": "My favorite hobby is reading."
-    },
-    {
-        "question": "What is this hobby? / Đây là sở thích gì?",
-        "options": [
-            "Gardening",
-            "Cooking",
-            "Baking",
-            "Cleaning"
-        ],
-        "correctAnswer": "Gardening"
-    },
-    {
-        "question": "My hobby is ____. / Sở thích của tôi là ____.",
-        "options": [
-            "creative",
-            "boring",
-            "small",
-            "thin"
-        ],
-        "correctAnswer": "creative"
-    },
-    {
-        "question": "My friends' hobbies are ____. / Sở thích của bạn bè tôi thì ____.",
-        "options": [
-            "different",
-            "the same",
-            "sad",
-            "bad"
-        ],
-        "correctAnswer": "different"
-    },
-    {
-        "question": "Is your hobby interesting? / Sở thích của bạn có thú vị không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "Yes",
-            "No"
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My time for hobbies is ____. / Thời gian cho sở thích của tôi thì ____.",
-        "options": [
-            "relaxing",
-            "noisy",
-            "busy",
-            "crowded"
-        ],
-        "correctAnswer": "relaxing"
-    },
-    {
-        "question": "What is the missing letter? relaxi_g / Chữ cái còn thiếu là gì? relaxi_g",
-        "options": [
-            "n",
-            "t",
-            "d",
-            "k"
-        ],
-        "correctAnswer": "n"
-    },
-    {
-        "question": "This is ____. / Đây là ____.",
-        "options": [
-            "singing",
-            "dancing",
-            "drawing",
-            "swimming"
-        ],
-        "correctAnswer": "singing"
-    },
-    {
-        "question": "I love my ____. / Tôi yêu ____ của tôi.",
-        "options": [
-            "hobbies",
-            "dog",
-            "cat",
-            "bird"
-        ],
-        "correctAnswer": "hobbies"
-    },
-    {
-        "question": "Is painting a hobby? / Vẽ có phải là một sở thích không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is not.",
-            "It is a painting.",
-            "Hello."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Let's talk about our ____. / Hãy nói về ____ của chúng ta.",
-        "options": [
-            "hobbies",
-            "friends",
-            "pets",
-            "books"
-        ],
-        "correctAnswer": "hobbies"
-    },
-    {
-        "question": "Spell the word: p-l-a-y / Đánh vần từ: p-l-a-y",
-        "options": [
-            "play",
-            "plan",
-            "plus",
-            "plum"
-        ],
-        "correctAnswer": "play"
-    },
-    {
-        "question": "I have ____ new hobby. / Tôi có ____ sở thích mới.",
-        "options": [
-            "a",
-            "an",
-            "one",
-            "two"
-        ],
-        "correctAnswer": "a"
-    },
-    {
-        "question": "My favorite hobby is ____. / Sở thích yêu thích của tôi là ____.",
-        "options": [
-            "playing the piano",
-            "singing",
-            "dancing",
-            "drawing"
-        ],
-        "correctAnswer": "playing the piano"
-    },
-    {
-        "question": "What is the missing letter? pian_",
-        "options": [
-            "o",
-            "a",
-            "i",
-            "e"
-        ],
-        "correctAnswer": "o"
-    },
-    {
-        "question": "This is ____. You ride it. / Đây là ____. Bạn cưỡi nó.",
-        "options": [
-            "a bike",
-            "a car",
-            "a bus",
-            "a train"
-        ],
-        "correctAnswer": "a bike"
-    },
-    {
-        "question": "We should have ____. / Chúng ta nên có ____.",
-        "options": [
-            "hobbies",
-            "problems",
-            "fights",
-            "all are wrong"
-        ],
-        "correctAnswer": "hobbies"
-    },
-    {
-        "question": "Is it a fun hobby? / Nó có phải là một sở thích vui không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is boring.",
-            "I like hobbies.",
-            "The hobby is fun."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "Spell the word: f-u-n / Đánh vần từ: f-u-n",
-        "options": [
-            "fun",
-            "sun",
-            "run",
-            "bun"
-        ],
-        "correctAnswer": "fun"
-    },
-    {
-        "question": "I help my mom with her ____. / Tôi giúp mẹ tôi với ____ của bà ấy.",
-        "options": [
-            "gardening",
-            "cooking",
-            "cleaning",
-            "shopping"
-        ],
-        "correctAnswer": "gardening"
-    },
-    {
-        "question": "The boy is ____. / Cậu bé đang ____.",
-        "options": [
-            "fishing",
-            "swimming",
-            "running",
-            "jumping"
-        ],
-        "correctAnswer": "fishing"
-    },
-    {
-        "question": "What is the missing letter: fishin_",
-        "options": [
-            "g",
-            "p",
-            "t",
-            "d"
-        ],
-        "correctAnswer": "g"
-    },
-    {
-        "question": "What is this? / Đây là gì?",
-        "options": [
-            "A camera",
-            "A phone",
-            "A computer",
-            "A radio"
-        ],
-        "correctAnswer": "A camera"
-    },
-    {
-        "question": "My ____ is taking photos. / ____ của tôi là chụp ảnh.",
-        "options": [
-            "hobby",
-            "desk",
-            "bag",
-            "box"
-        ],
-        "correctAnswer": "hobby"
-    },
-    {
-        "question": "Is it a picture of a flower? / Nó có phải là một bức tranh về một bông hoa không?",
-        "options": [
-            "Yes, it is.",
-            "No, it is a tree.",
-            "I see a picture.",
-            "The picture is nice."
-        ],
-        "correctAnswer": "Yes, it is."
-    },
-    {
-        "question": "My friend likes to ____. / Bạn tôi thích ____.",
-        "options": [
-            "collect stamps",
-            "play chess",
-            "watch movies",
-            "all are correct"
-        ],
-        "correctAnswer": "all are correct"
-    },
-    {
-        "question": "Spell the word: c-h-e-s-s / Đánh vần từ: c-h-e-s-s",
-        "options": [
-            "chess",
-            "cheese",
-            "chest",
-            "check"
-        ],
-        "correctAnswer": "chess"
-    },
-    {
-        "question": "This is a ____ day to start a new hobby. / Đây là một ngày ____ để bắt đầu một sở thích mới.",
+        "question": "A good hobby makes you feel ____. / Một sở thích tốt làm bạn cảm thấy ____.",
         "options": [
             "good",
-            "rainy",
-            "cloudy",
-            "windy"
+            "bad",
+            "sad",
+            "tired"
         ],
         "correctAnswer": "good"
     },
     {
-        "question": "What is the missing letter: _ood / Chữ cái còn thiếu là gì? _ood",
+        "question": "What do you call a person who cooks? / Bạn gọi một người nấu ăn là gì?",
         "options": [
-            "g",
-            "h",
-            "w",
-            "f"
+            "A cook",
+            "A singer",
+            "A dancer",
+            "A painter"
         ],
-        "correctAnswer": "g"
+        "correctAnswer": "A cook"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
         "options": [
-            "A kite",
-            "A plane",
-            "A bird",
-            "A balloon"
+            "Few",
+            "Some",
+            "All",
+            "None"
         ],
-        "correctAnswer": "A kite"
+        "correctAnswer": "Few"
     },
     {
-        "question": "My father's hobby is ____. / Sở thích của bố tôi là ____.",
+        "question": "Some people have many hobbies, some have only a ____. / Một số người có nhiều sở thích, một số chỉ có một ____.",
         "options": [
-            "flying a kite",
-            "reading",
-            "cooking",
-            "gardening"
+            "few",
+            "many",
+            "lot",
+            "all"
         ],
-        "correctAnswer": "flying a kite"
+        "correctAnswer": "few"
     },
     {
-        "question": "Are the hobbies interesting? / Các sở thích có thú vị không?",
+        "question": "Spell the word for the hobby of making music with your voice. / Đánh vần từ chỉ sở thích tạo ra âm nhạc bằng giọng nói của bạn.",
         "options": [
-            "Yes, they are.",
-            "No, they are boring.",
-            "They are hobbies.",
-            "I am happy."
+            "s-i-n-g-i-n-g",
+            "d-a-n-c-i-n-g",
+            "r-e-a-d-i-n-g",
+            "c-o-o-k-i-n-g"
         ],
-        "correctAnswer": "Yes, they are."
+        "correctAnswer": "s-i-n-g-i-n-g"
     },
     {
-        "question": "My hobby is ____. / Sở thích của tôi là ____.",
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
         "options": [
-            "listening to music",
-            "watching TV",
-            "playing games",
-            "reading books"
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
         ],
-        "correctAnswer": "listening to music"
+        "correctAnswer": "Hate"
     },
     {
-        "question": "Spell the word: m-u-s-i-c / Đánh vần từ: m-u-s-i-c",
+        "question": "If you don't like something at all, you ____ it. / Nếu bạn không thích một thứ gì đó chút nào, bạn ____ nó.",
         "options": [
-            "music",
-            "museum",
-            "magic",
-            "must"
+            "hate",
+            "love",
+            "like",
+            "enjoy"
         ],
-        "correctAnswer": "music"
+        "correctAnswer": "hate"
     },
     {
-        "question": "I am ____ with my hobbies. / Tôi ____ với những sở thích của mình.",
+        "question": "What do you call a person who reads a lot? / Bạn gọi một người đọc rất nhiều là gì?",
+        "options": [
+            "A reader",
+            "A writer",
+            "A singer",
+            "A dancer"
+        ],
+        "correctAnswer": "A reader"
+    },
+    {
+        "question": "Spell the word for the hobby of moving your body to music. / Đánh vần từ chỉ sở thích di chuyển cơ thể theo nhạc.",
+        "options": [
+            "d-a-n-c-i-n-g",
+            "s-i-n-g-i-n-g",
+            "d-r-a-w-i-n-g",
+            "s-w-i-m-m-i-n-g"
+        ],
+        "correctAnswer": "d-a-n-c-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You can ____ a drawing to your friend as a gift. / Bạn có thể ____ một bức vẽ cho bạn của mình như một món quà.",
+        "options": [
+            "give",
+            "take",
+            "eat",
+            "read"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "What do you call a person who swims? / Bạn gọi một người bơi là gì?",
+        "options": [
+            "A swimmer",
+            "A runner",
+            "A jumper",
+            "A player"
+        ],
+        "correctAnswer": "A swimmer"
+    },
+    {
+        "question": "Spell the word for the hobby of creating pictures. / Đánh vần từ chỉ sở thích tạo ra những bức tranh.",
+        "options": [
+            "d-r-a-w-i-n-g",
+            "p-a-i-n-t-i-n-g",
+            "w-r-i-t-i-n-g",
+            "r-e-a-d-i-n-g"
+        ],
+        "correctAnswer": "d-r-a-w-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "When you ____ reading a book, you can start a new one. / Khi bạn ____ đọc một cuốn sách, bạn có thể bắt đầu một cuốn mới.",
+        "options": [
+            "finish",
+            "start",
+            "begin",
+            "play"
+        ],
+        "correctAnswer": "finish"
+    },
+    {
+        "question": "What do you call a person who plays football? / Bạn gọi một người chơi bóng đá là gì?",
+        "options": [
+            "A football player",
+            "A swimmer",
+            "A singer",
+            "A dancer"
+        ],
+        "correctAnswer": "A football player"
+    },
+    {
+        "question": "Spell the word for the hobby of being in water. / Đánh vần từ chỉ sở thích ở dưới nước.",
+        "options": [
+            "s-w-i-m-m-i-n-g",
+            "r-u-n-n-i-n-g",
+            "j-u-m-p-i-n-g",
+            "h-i-k-i-n-g"
+        ],
+        "correctAnswer": "s-w-i-m-m-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A good drawing can be very ____. / Một bức vẽ đẹp có thể rất ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a person who makes food? / Bạn gọi một người làm thức ăn là gì?",
+        "options": [
+            "A chef or a cook",
+            "A waiter",
+            "A customer",
+            "A singer"
+        ],
+        "correctAnswer": "A chef or a cook"
+    },
+    {
+        "question": "Spell the word for the hobby of looking at books. / Đánh vần từ chỉ sở thích xem sách.",
+        "options": [
+            "r-e-a-d-i-n-g",
+            "w-r-i-t-i-n-g",
+            "s-p-e-l-l-i-n-g",
+            "c-o-u-n-t-i-n-g"
+        ],
+        "correctAnswer": "r-e-a-d-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Doing your favorite hobby makes you feel ____. / Làm sở thích yêu thích của bạn làm bạn cảm thấy ____.",
         "options": [
             "happy",
             "sad",
-            "bored",
-            "angry"
+            "angry",
+            "scared"
         ],
         "correctAnswer": "happy"
     },
     {
-        "question": "What is the missing letter: hob_ies / Chữ cái còn thiếu là gì? hob_ies",
+        "question": "What do you call a book with many pictures? / Bạn gọi một cuốn sách có nhiều hình ảnh là gì?",
         "options": [
-            "b",
-            "s",
-            "t",
-            "p"
+            "A picture book",
+            "A notebook",
+            "A textbook",
+            "A dictionary"
         ],
-        "correctAnswer": "b"
+        "correctAnswer": "A picture book"
     },
     {
-        "question": "What is this? / Đây là gì?",
+        "question": "Spell the word for the hobby of making food. / Đánh vần từ chỉ sở thích làm thức ăn.",
         "options": [
-            "A computer game",
-            "A board game",
-            "A card game",
-            "A puzzle"
+            "c-o-o-k-i-n-g",
+            "e-a-t-i-n-g",
+            "d-r-i-n-k-i-n-g",
+            "s-h-o-p-p-i-n-g"
         ],
-        "correctAnswer": "A computer game"
-    },
-    {
-        "question": "My hobby is my favorite ____. / Sở thích của tôi là ____ yêu thích của tôi.",
-        "options": [
-            "activity",
-            "food",
-            "colour",
-            "toy"
-        ],
-        "correctAnswer": "activity"
-    },
-    {
-        "question": "Is the music loud? / Âm nhạc có lớn không?",
-        "options": [
-            "No, it is soft.",
-            "Yes, it is.",
-            "It is music.",
-            "Hello."
-        ],
-        "correctAnswer": "No, it is soft."
-    },
-    {
-        "question": "The children have many ____. / Bọn trẻ có nhiều ____.",
-        "options": [
-            "hobbies",
-            "problems",
-            "questions",
-            "answers"
-        ],
-        "correctAnswer": "hobbies"
-    },
-    {
-        "question": "Spell the word: a-c-t-i-v-i-t-y / Đánh vần từ: a-c-t-i-v-i-t-y",
-        "options": [
-            "activity",
-            "active",
-            "action",
-            "actor"
-        ],
-        "correctAnswer": "activity"
-    },
-    {
-        "question": "We do our hobbies in our ____. / Chúng tôi thực hiện sở thích của mình trong ____.",
-        "options": [
-            "free time",
-            "school time",
-            "work time",
-            "sleep time"
-        ],
-        "correctAnswer": "free time"
-    },
-    {
-        "question": "What is the missing letter: fre_ time / Chữ cái còn thiếu là gì? fre_ time",
-        "options": [
-            "e",
-            "s",
-            "t",
-            "p"
-        ],
-        "correctAnswer": "e"
+        "correctAnswer": "c-o-o-k-i-n-g"
     }
 ]
