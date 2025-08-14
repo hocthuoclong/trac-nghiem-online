@@ -1,483 +1,402 @@
 [
-  {
-    "question": "What is this place? You can buy drinks and cakes here. / Đây là nơi nào? Bạn có thể mua đồ uống và bánh ngọt ở đây.",
-    "options": ["A cafe", "A school", "A library", "A zoo"],
-    "correctAnswer": "A cafe"
-  },
-  {
-    "question": "This is a ____. It's a sweet, cold food. / Đây là một ____. Nó là một món ăn ngọt, lạnh.",
-    "options": ["ice cream", "pizza", "sandwich", "salad"],
-    "correctAnswer": "ice cream"
-  },
-  {
-    "question": "You can drink this. It's made with milk and ice cream. / Bạn có thể uống thứ này. Nó được làm bằng sữa và kem.",
-    "options": ["A milkshake", "A coffee", "A tea", "A soda"],
-    "correctAnswer": "A milkshake"
-  },
-  {
-    "question": "This is a ____. It's a sweet food you eat for dessert. / Đây là một ____. Nó là một món ăn ngọt bạn ăn để tráng miệng.",
-    "options": ["cake", "pizza", "chicken", "fish"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "Spell the word: c-a-k-e / Đánh vần từ: c-a-k-e",
-    "options": ["cake", "case", "cane", "cape"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "This is ____. You can order it at a cafe. / Đây là ____. Bạn có thể gọi nó ở quán cà phê.",
-    "options": ["pizza", "rice", "noodles", "soup"],
-    "correctAnswer": "pizza"
-  },
-  {
-    "question": "I would like a glass of ____, please. / Vui lòng cho tôi một ly ____.",
-    "options": ["lemonade", "milk", "water", "tea"],
-    "correctAnswer": "lemonade"
-  },
-  {
-    "question": "Find the word: m-e-n-u / Tìm từ: m-e-n-u",
-    "options": ["menu", "men", "mean", "mend"],
-    "correctAnswer": "menu"
-  },
-  {
-    "question": "Is this an ice cream? / Đây có phải là một que kem không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a cake.", "I have a milkshake."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a delicious ____. / Đây là một ____ ngon.",
-    "options": ["milkshake", "table", "chair", "menu"],
-    "correctAnswer": "milkshake"
-  },
-  {
-    "question": "What can you do at a cafe? / Bạn có thể làm gì ở quán cà phê?",
-    "options": ["I can eat and drink.", "I can swim.", "I can sleep.", "I can study."],
-    "correctAnswer": "I can eat and drink."
-  },
-  {
-    "question": "I like to eat ____. / Tôi thích ăn ____.",
-    "options": ["cake", "ice cream", "pizza", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "What is the missing letter? cak_ / Chữ cái còn thiếu là gì? cak_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a ____. It's a nice place. / Đây là một ____. Đó là một nơi tốt đẹp.",
-    "options": ["cafe", "school", "city", "shop"],
-    "correctAnswer": "cafe"
-  },
-  {
-    "question": "My friends are at the ____. / Bạn bè của tôi đang ở ____.",
-    "options": ["cafe", "farm", "beach", "park"],
-    "correctAnswer": "cafe"
-  },
-  {
-    "question": "Let's look at the ____. / Hãy nhìn vào ____.",
-    "options": ["menu", "book", "pencil", "chair"],
-    "correctAnswer": "menu"
-  },
-  {
-    "question": "Spell the word: p-i-z-z-a / Đánh vần từ: p-i-z-z-a",
-    "options": ["pizza", "plaza", "piazza", "pizzas"],
-    "correctAnswer": "pizza"
-  },
-  {
-    "question": "Is this a big cafe? / Đây có phải là một quán cà phê lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a cake.", "I can see a menu."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am sitting at a ____. / Tôi đang ngồi tại một ____.",
-    "options": ["table", "chair", "menu", "counter"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "What is the missing letter? _enu / Chữ cái còn thiếu là gì? _enu",
-    "options": ["m", "n", "p", "t"],
-    "correctAnswer": "m"
-  },
-  {
-    "question": "This is a person who serves you. / Đây là một người phục vụ bạn.",
-    "options": ["A waiter", "A doctor", "A teacher", "A farmer"],
-    "correctAnswer": "A waiter"
-  },
-  {
-    "question": "How many cakes are there? / Có bao nhiêu cái bánh?",
-    "options": ["One", "Two", "Three", "Four"],
-    "correctAnswer": "One"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["cup of tea", "glass of milk", "bottle of water", "can of soda"],
-    "correctAnswer": "cup of tea"
-  },
-  {
-    "question": "Spell the word: i-c-e / Đánh vần từ: i-c-e",
-    "options": ["ice", "ace", "ink", "ill"],
-    "correctAnswer": "ice"
-  },
-  {
-    "question": "Is it delicious? / Nó có ngon không?",
-    "options": ["Yes, it is.", "No, it is not.", "It is a cafe.", "I can see a table."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can get ____ at the cafe. / Chúng ta có thể lấy ____ ở quán cà phê.",
-    "options": ["snacks", "books", "toys", "pets"],
-    "correctAnswer": "snacks"
-  },
-  {
-    "question": "What is the missing letter? lemo_ade / Chữ cái còn thiếu là gì? lemo_ade",
-    "options": ["n", "t", "d", "g"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A sandwich", "A pizza", "A burger", "A salad"],
-    "correctAnswer": "A sandwich"
-  },
-  {
-    "question": "This is a ____. You can order food here. / Đây là một ____. Bạn có thể gọi đồ ăn ở đây.",
-    "options": ["counter", "table", "chair", "door"],
-    "correctAnswer": "counter"
-  },
-  {
-    "question": "This is ____. It's a hot drink. / Đây là ____. Nó là một loại đồ uống nóng.",
-    "options": ["tea", "milk", "juice", "water"],
-    "correctAnswer": "tea"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["Ice cream", "Yogurt", "Pudding", "Jelly"],
-    "correctAnswer": "Ice cream"
-  },
-  {
-    "question": "Find the word: w-a-i-t-e-r / Tìm từ: w-a-i-t-e-r",
-    "options": ["waiter", "water", "writer", "winter"],
-    "correctAnswer": "waiter"
-  },
-  {
-    "question": "Is it a chocolate milkshake? / Nó có phải là sữa lắc sô cô la không?",
-    "options": ["Yes, it is.", "No, it is strawberry.", "I am at the cafe.", "I like milkshakes."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is yummy. / ____ của tôi rất ngon.",
-    "options": ["cake", "table", "chair", "menu"],
-    "correctAnswer": "cake"
-  },
-  {
-    "question": "What is the missing letter? milksha_e / Chữ cái còn thiếu là gì? milksha_e",
-    "options": ["k", "n", "m", "p"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["cafe", "book", "lesson", "game"],
-    "correctAnswer": "cafe"
-  },
-  {
-    "question": "Spell the word: t-e-a / Đánh vần từ: t-e-a",
-    "options": ["tea", "eat", "ten", "sea"],
-    "correctAnswer": "tea"
-  },
-  {
-    "question": "Is this a big pizza? / Đây có phải là một chiếc pizza lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I can see a pizza.", "I like pizza."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The cafe has nice ____. / Quán cà phê có ____ đẹp.",
-    "options": ["music", "books", "toys", "pets"],
-    "correctAnswer": "music"
-  },
-  {
-    "question": "What is the missing letter? _usic / Chữ cái còn thiếu là gì? _usic",
-    "options": ["m", "n", "s", "p"],
-    "correctAnswer": "m"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A menu", "A book", "A magazine", "A newspaper"],
-    "correctAnswer": "A menu"
-  },
-  {
-    "question": "My ____ is on the table. / ____ của tôi ở trên bàn.",
-    "options": ["drink", "computer", "map", "poster"],
-    "correctAnswer": "drink"
-  },
-  {
-    "question": "Is the cake sweet? / Bánh có ngọt không?",
-    "options": ["Yes, it is.", "No, it is sour.", "It is a cake.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a waiter and some ____. / Tôi có thể thấy một người phục vụ và một vài ____.",
-    "options": ["customers", "houses", "cars", "books"],
-    "correctAnswer": "customers"
-  },
-  {
-    "question": "Find the word: c-u-s-t-o-m-e-r / Tìm từ: c-u-s-t-o-m-e-r",
-    "options": ["customer", "costume", "custom", "costly"],
-    "correctAnswer": "customer"
-  },
-  {
-    "question": "This is my ____. I pay for the food here. / Đây là ____ của tôi. Tôi trả tiền thức ăn ở đây.",
-    "options": ["bill", "menu", "plate", "cup"],
-    "correctAnswer": "bill"
-  },
-  {
-    "question": "What is the missing letter? bil_",
-    "options": ["l", "k", "p", "t"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "Is it a delicious meal? / Nó có phải là một bữa ăn ngon không?",
-    "options": ["Yes, it is.", "No, it is not.", "I like meals.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["outing", "homework", "class", "test"],
-    "correctAnswer": "outing"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cookie", "A cake", "A biscuit", "A cracker"],
-    "correctAnswer": "A cookie"
-  },
-  {
-    "question": "How much is the cake? / Cái bánh giá bao nhiêu?",
-    "options": ["It's 20,000 dong.", "It's a cake.", "It's sweet.", "I want to buy it."],
-    "correctAnswer": "It's 20,000 dong."
-  },
-  {
-    "question": "A cafe is a place to ____. / Một quán cà phê là một nơi để ____.",
-    "options": ["relax", "study", "sleep", "work"],
-    "correctAnswer": "relax"
-  },
-  {
-    "question": "I would like ____ of water. / Tôi muốn ____ nước.",
-    "options": ["a bottle", "a glass", "a cup", "a can"],
-    "correctAnswer": "a bottle"
-  },
-  {
-    "question": "What flavour is the ice cream? / Kem có vị gì?",
-    "options": ["Chocolate", "Vanilla", "Strawberry", "All are correct"],
-    "correctAnswer": "All are correct"
-  },
-  {
-    "question": "What colour is the lemonade? / Nước chanh màu gì?",
-    "options": ["Yellow", "White", "Black", "Pink"],
-    "correctAnswer": "Yellow"
-  },
-  {
-    "question": "The milkshake is ____. / Sữa lắc thì ____.",
-    "options": ["cold", "hot", "small", "thin"],
-    "correctAnswer": "cold"
-  },
-  {
-    "question": "The waiter is ____. / Người phục vụ thì ____.",
-    "options": ["friendly", "ugly", "sad", "bad"],
-    "correctAnswer": "friendly"
-  },
-  {
-    "question": "Is the cafe busy? / Quán cà phê có đông khách không?",
-    "options": ["Yes, it is.", "No, it is empty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My time at the cafe is ____. / Thời gian của tôi ở quán cà phê thì ____.",
-    "options": ["nice", "noisy", "busy", "crowded"],
-    "correctAnswer": "nice"
-  },
-  {
-    "question": "What is the missing letter? ni_e / Chữ cái còn thiếu là gì? ni_e",
-    "options": ["c", "t", "d", "k"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "This is ____. / Đây là ____.",
-    "options": ["a cake", "a pizza", "a sandwich", "a salad"],
-    "correctAnswer": "a cake"
-  },
-  {
-    "question": "I love ____. / Tôi yêu ____.",
-    "options": ["ice cream", "dog", "cat", "bird"],
-    "correctAnswer": "ice cream"
-  },
-  {
-    "question": "Is the tea hot? / Trà có nóng không?",
-    "options": ["Yes, it is.", "No, it is cold.", "It is tea.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["cafe", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "cafe"
-  },
-  {
-    "question": "Spell the word: o-r-d-e-r / Đánh vần từ: o-r-d-e-r",
-    "options": ["order", "other", "older", "odor"],
-    "correctAnswer": "order"
-  },
-  {
-    "question": "I would like to ____ a pizza. / Tôi muốn ____ một chiếc pizza.",
-    "options": ["order", "eat", "drink", "buy"],
-    "correctAnswer": "order"
-  },
-  {
-    "question": "My favorite drink is ____. / Đồ uống yêu thích của tôi là ____.",
-    "options": ["a milkshake", "tea", "coffee", "water"],
-    "correctAnswer": "a milkshake"
-  },
-  {
-    "question": "What is the missing letter? orde_",
-    "options": ["r", "a", "i", "o"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is ____. It's a small cake. / Đây là ____. Nó là một cái bánh nhỏ.",
-    "options": ["a cupcake", "a muffin", "a cookie", "a biscuit"],
-    "correctAnswer": "a cupcake"
-  },
-  {
-    "question": "We should be ____ to the waiter. / Chúng ta nên ____ với người phục vụ.",
-    "options": ["polite", "rude", "loud", "quiet"],
-    "correctAnswer": "polite"
-  },
-  {
-    "question": "Is it a quiet cafe? / Nó có phải là một quán cà phê yên tĩnh không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "I like cafes.", "The cafe is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: p-o-l-i-t-e / Đánh vần từ: p-o-l-i-t-e",
-    "options": ["polite", "police", "policy", "polish"],
-    "correctAnswer": "polite"
-  },
-  {
-    "question": "I help my mom read the ____. / Tôi giúp mẹ tôi đọc ____.",
-    "options": ["menu", "book", "letter", "card"],
-    "correctAnswer": "menu"
-  },
-  {
-    "question": "The cake is on a ____. / Cái bánh ở trên một ____.",
-    "options": ["plate", "bowl", "cup", "glass"],
-    "correctAnswer": "plate"
-  },
-  {
-    "question": "What is the missing letter? plat_",
-    "options": ["e", "p", "t", "d"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A straw", "A spoon", "A fork", "A knife"],
-    "correctAnswer": "A straw"
-  },
-  {
-    "question": "My ____ is full of delicious food. / ____ của tôi đầy những món ăn ngon.",
-    "options": ["table", "desk", "bag", "box"],
-    "correctAnswer": "table"
-  },
-  {
-    "question": "Is it a picture of a cafe? / Nó có phải là một bức tranh về một quán cà phê không?",
-    "options": ["Yes, it is.", "No, it is a restaurant.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to drink ____. / Bạn tôi thích uống ____.",
-    "options": ["lemonade", "milk", "water", "tea"],
-    "correctAnswer": "lemonade"
-  },
-  {
-    "question": "Spell the word: d-r-i-n-k / Đánh vần từ: d-r-i-n-k",
-    "options": ["drink", "drive", "drip", "brink"],
-    "correctAnswer": "drink"
-  },
-  {
-    "question": "This is a ____ day for a coffee. / Đây là một ngày ____ để uống cà phê.",
-    "options": ["perfect", "rainy", "cloudy", "windy"],
-    "correctAnswer": "perfect"
-  },
-  {
-    "question": "What is the missing letter? per_ect / Chữ cái còn thiếu là gì? per_ect",
-    "options": ["f", "p", "s", "m"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A bill", "A menu", "A receipt", "A card"],
-    "correctAnswer": "A bill"
-  },
-  {
-    "question": "My father is paying the ____. / Bố tôi đang thanh toán ____.",
-    "options": ["bill", "menu", "waiter", "customer"],
-    "correctAnswer": "bill"
-  },
-  {
-    "question": "Are the chairs comfortable? / Những cái ghế có thoải mái không?",
-    "options": ["Yes, they are.", "No, they are hard.", "They are chairs.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My cafe has free ____. / Quán cà phê của tôi có ____ miễn phí.",
-    "options": ["Wi-Fi", "food", "drinks", "music"],
-    "correctAnswer": "Wi-Fi"
-  },
-  {
-    "question": "Spell the word: w-i-f-i / Đánh vần từ: w-i-f-i",
-    "options": ["wifi", "wife", "will", "win"],
-    "correctAnswer": "wifi"
-  },
-  {
-    "question": "I am ____ at the cafe. / Tôi ____ ở quán cà phê.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? caf_",
-    "options": ["e", "t", "p", "k"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A sugar packet", "A salt shaker", "A pepper shaker", "A napkin"],
-    "correctAnswer": "A sugar packet"
-  },
-  {
-    "question": "My cafe is my favorite ____. / Quán cà phê là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the pizza cheesy? / Pizza có nhiều phô mai không?",
-    "options": ["Yes, it is.", "No, it is not.", "It is a pizza.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The cafe has a ____. / Quán cà phê có một ____.",
-    "options": ["terrace", "garden", "playground", "pool"],
-    "correctAnswer": "terrace"
-  },
-  {
-    "question": "Spell the word: m-u-s-i-c / Đánh vần từ: m-u-s-i-c",
-    "options": ["music", "museum", "magic", "must"],
-    "correctAnswer": "music"
-  },
-  {
-    "question": "We listen to soft ____ at the cafe. / Chúng tôi nghe nhạc nhẹ ở quán cà phê.",
-    "options": ["music", "sounds", "noises", "voices"],
-    "correctAnswer": "music"
-  },
-  {
-    "question": "What is the missing letter? musi_",
-    "options": ["c", "k", "t", "p"],
-    "correctAnswer": "c"
-  }
+    {
+        "question": "This is a place where you can sit at a table and buy drinks and cakes. What is it? / Đây là nơi bạn có thể ngồi vào bàn và mua đồ uống và bánh ngọt. Nó là gì?",
+        "options": [
+            "A cafe",
+            "A library",
+            "A school",
+            "A park"
+        ],
+        "correctAnswer": "A cafe"
+    },
+    {
+        "question": "This is a sweet, baked food you can eat at a cafe. What is it? / Đây là một món ăn ngọt, được nướng mà bạn có thể ăn ở quán cà phê. Nó là gì?",
+        "options": [
+            "A cake",
+            "A sandwich",
+            "A pizza",
+            "A salad"
+        ],
+        "correctAnswer": "A cake"
+    },
+    {
+        "question": "This is a cold, sweet dessert made from milk or cream. What is it? / Đây là một món tráng miệng lạnh, ngọt làm từ sữa hoặc kem. Nó là gì?",
+        "options": [
+            "Ice cream",
+            "Cake",
+            "Bread",
+            "Soup"
+        ],
+        "correctAnswer": "Ice cream"
+    },
+    {
+        "question": "This is a drink made from fruit like oranges or apples. What is it? / Đây là một loại đồ uống làm từ các loại trái cây như cam hoặc táo. Nó là gì?",
+        "options": [
+            "Juice",
+            "Milk",
+            "Water",
+            "Tea"
+        ],
+        "correctAnswer": "Juice"
+    },
+    {
+        "question": "This is a hot drink, often brown, that adults drink. What is it? / Đây là một loại đồ uống nóng, thường có màu nâu mà người lớn uống. Nó là gì?",
+        "options": [
+            "Coffee",
+            "Juice",
+            "Milk",
+            "Water"
+        ],
+        "correctAnswer": "Coffee"
+    },
+    {
+        "question": "This is a hot drink made with leaves. What is it? / Đây là một loại đồ uống nóng làm từ lá cây. Nó là gì?",
+        "options": [
+            "Tea",
+            "Coffee",
+            "Soda",
+            "Milkshake"
+        ],
+        "correctAnswer": "Tea"
+    },
+    {
+        "question": "A person who serves you food and drinks at a cafe is a ____. / Một người phục vụ bạn thức ăn và đồ uống tại một quán cà phê là một ____.",
+        "options": [
+            "waiter",
+            "teacher",
+            "doctor",
+            "farmer"
+        ],
+        "correctAnswer": "waiter"
+    },
+    {
+        "question": "This is a list of all the food and drinks you can buy. What is it? / Đây là một danh sách tất cả các món ăn và đồ uống bạn có thể mua. Nó là gì?",
+        "options": [
+            "A menu",
+            "A book",
+            "A letter",
+            "A map"
+        ],
+        "correctAnswer": "A menu"
+    },
+    {
+        "question": "What do you do when you want to get something from the menu? / Bạn làm gì khi muốn lấy một thứ gì đó từ thực đơn?",
+        "options": [
+            "Order",
+            "Play",
+            "Sing",
+            "Sleep"
+        ],
+        "correctAnswer": "Order"
+    },
+    {
+        "question": "What do you do with a cake? / Bạn làm gì với một chiếc bánh?",
+        "options": [
+            "Eat it",
+            "Drink it",
+            "Read it",
+            "Wear it"
+        ],
+        "correctAnswer": "Eat it"
+    },
+    {
+        "question": "What do you do with juice? / Bạn làm gì với nước ép?",
+        "options": [
+            "Drink it",
+            "Eat it",
+            "Play with it",
+            "Write with it"
+        ],
+        "correctAnswer": "Drink it"
+    },
+    {
+        "question": "To ask for something politely, you can say: / Để yêu cầu một thứ gì đó một cách lịch sự, bạn có thể nói:",
+        "options": [
+            "Can I have a cake, please?",
+            "Give me a cake!",
+            "I want a cake now!",
+            "Where is the cake?"
+        ],
+        "correctAnswer": "Can I have a cake, please?"
+    },
+    {
+        "question": "What is the opposite of 'hot'? / Từ trái nghĩa của 'hot' là gì?",
+        "options": [
+            "Cold",
+            "Warm",
+            "Big",
+            "Fast"
+        ],
+        "correctAnswer": "Cold"
+    },
+    {
+        "question": "Ice cream is a ____ dessert. / Kem là một món tráng miệng ____.",
+        "options": [
+            "cold",
+            "hot",
+            "dry",
+            "salty"
+        ],
+        "correctAnswer": "cold"
+    },
+    {
+        "question": "What do you call a sweet drink made with milk and ice cream? / Bạn gọi một loại đồ uống ngọt làm từ sữa và kem là gì?",
+        "options": [
+            "A milkshake",
+            "Juice",
+            "Tea",
+            "Coffee"
+        ],
+        "correctAnswer": "A milkshake"
+    },
+    {
+        "question": "Spell the word for the place where you buy coffee and cake. / Đánh vần từ chỉ nơi bạn mua cà phê và bánh.",
+        "options": [
+            "c-a-f-e",
+            "z-o-o",
+            "p-a-r-k",
+            "s-h-o-p"
+        ],
+        "correctAnswer": "c-a-f-e"
+    },
+    {
+        "question": "What is the opposite of 'sweet'? / Từ trái nghĩa của 'sweet' là gì?",
+        "options": [
+            "Sour",
+            "Salty",
+            "Bitter",
+            "Spicy"
+        ],
+        "correctAnswer": "Sour"
+    },
+    {
+        "question": "A cake is usually very ____. / Một chiếc bánh thường rất ____.",
+        "options": [
+            "sweet",
+            "sour",
+            "salty",
+            "bitter"
+        ],
+        "correctAnswer": "sweet"
+    },
+    {
+        "question": "What do you use to pay for your food and drinks? / Bạn dùng gì để trả tiền cho thức ăn và đồ uống của mình?",
+        "options": [
+            "Money",
+            "A book",
+            "A toy",
+            "A hug"
+        ],
+        "correctAnswer": "Money"
+    },
+    {
+        "question": "What is the opposite of 'delicious'? / Từ trái nghĩa của 'delicious' là gì?",
+        "options": [
+            "Awful",
+            "Yummy",
+            "Good",
+            "Nice"
+        ],
+        "correctAnswer": "Awful"
+    },
+    {
+        "question": "The ice cream at this cafe is ____. / Kem ở quán cà phê này ____.",
+        "options": [
+            "delicious",
+            "awful",
+            "sad",
+            "cold"
+        ],
+        "correctAnswer": "delicious"
+    },
+    {
+        "question": "Spell the word for the sweet, baked food. / Đánh vần từ chỉ món ăn ngọt, được nướng.",
+        "options": [
+            "c-a-k-e",
+            "j-u-i-c-e",
+            "c-o-o-k-i-e",
+            "f-o-o-d"
+        ],
+        "correctAnswer": "c-a-k-e"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ tables in the cafe. / Có ____ cái bàn trong quán cà phê.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a small, sweet baked good, often round? / Bạn gọi một món nướng nhỏ, ngọt, thường có hình tròn là gì?",
+        "options": [
+            "A cookie",
+            "A cake",
+            "Bread",
+            "A pie"
+        ],
+        "correctAnswer": "A cookie"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "The waiter will ____ your order to the kitchen. / Người phục vụ sẽ ____ đơn đặt hàng của bạn đến nhà bếp.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "Spell the word for the cold, sweet dessert. / Đánh vần từ chỉ món tráng miệng lạnh, ngọt.",
+        "options": [
+            "i-c-e c-r-e-a-m",
+            "c-a-k-e",
+            "j-u-i-c-e",
+            "c-o-o-k-i-e"
+        ],
+        "correctAnswer": "i-c-e c-r-e-a-m"
+    },
+    {
+        "question": "What is the opposite of 'full'? / Từ trái nghĩa của 'full' là gì?",
+        "options": [
+            "Empty",
+            "Open",
+            "Closed",
+            "Big"
+        ],
+        "correctAnswer": "Empty"
+    },
+    {
+        "question": "My glass is ____. I need more juice. / Cốc của tôi ____. Tôi cần thêm nước ép.",
+        "options": [
+            "empty",
+            "full",
+            "hot",
+            "small"
+        ],
+        "correctAnswer": "empty"
+    },
+    {
+        "question": "What do you call the piece of paper that shows how much you have to pay? / Bạn gọi tờ giấy cho thấy bạn phải trả bao nhiêu tiền là gì?",
+        "options": [
+            "A bill",
+            "A menu",
+            "A ticket",
+            "A list"
+        ],
+        "correctAnswer": "A bill"
+    },
+    {
+        "question": "Spell the word for the drink made from fruit. / Đánh vần từ chỉ đồ uống làm từ trái cây.",
+        "options": [
+            "j-u-i-c-e",
+            "w-a-t-e-r",
+            "m-i-l-k",
+            "s-o-d-a"
+        ],
+        "correctAnswer": "j-u-i-c-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "This coffee tastes ____. I don't like it. / Cà phê này có vị ____. Tôi không thích nó.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "sweet"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a small meal you eat between main meals? / Bạn gọi một bữa ăn nhỏ bạn ăn giữa các bữa ăn chính là gì?",
+        "options": [
+            "A snack",
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "correctAnswer": "A snack"
+    },
+    {
+        "question": "Spell the word for the person who serves you. / Đánh vần từ chỉ người phục vụ bạn.",
+        "options": [
+            "w-a-i-t-e-r",
+            "c-o-o-k",
+            "c-u-s-t-o-m-e-r",
+            "d-o-c-t-o-r"
+        ],
+        "correctAnswer": "w-a-i-t-e-r"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ going to the cafe with my friends. / Tôi ____ đi đến quán cà phê với bạn bè.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you do with a menu? / Bạn làm gì với một thực đơn?",
+        "options": [
+            "Read it",
+            "Eat it",
+            "Drink it",
+            "Wear it"
+        ],
+        "correctAnswer": "Read it"
+    },
+    {
+        "question": "Spell the word for the list of food. / Đánh vần từ chỉ danh sách món ăn.",
+        "options": [
+            "m-e-n-u",
+            "l-i-s-t",
+            "b-o-o-k",
+            "c-a-r-d"
+        ],
+        "correctAnswer": "m-e-n-u"
+    }
 ]
-
