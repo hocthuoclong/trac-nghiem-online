@@ -1,483 +1,402 @@
 [
-  {
-    "question": "What is this place? You buy clothes here. / Đây là nơi nào? Bạn mua quần áo ở đây.",
-    "options": ["A clothes shop", "A grocery store", "A bookshop", "A toy shop"],
-    "correctAnswer": "A clothes shop"
-  },
-  {
-    "question": "This is a ____. A girl wears it. / Đây là một ____. Một cô gái mặc nó.",
-    "options": ["skirt", "T-shirt", "trousers", "coat"],
-    "correctAnswer": "skirt"
-  },
-  {
-    "question": "You wear this on your upper body. / Bạn mặc cái này ở phần trên cơ thể.",
-    "options": ["A T-shirt", "Trousers", "Shorts", "Shoes"],
-    "correctAnswer": "A T-shirt"
-  },
-  {
-    "question": "This is a ____. It's a long piece of clothing for girls. / Đây là một ____. Nó là một bộ quần áo dài cho các cô gái.",
-    "options": ["dress", "skirt", "T-shirt", "coat"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Spell the word: s-k-i-r-t / Đánh vần từ: s-k-i-r-t",
-    "options": ["skirt", "shirt", "short", "start"],
-    "correctAnswer": "skirt"
-  },
-  {
-    "question": "These are ____. You wear them on your legs. / Đây là ____. Bạn mặc chúng ở chân.",
-    "options": ["trousers", "shirts", "dresses", "hats"],
-    "correctAnswer": "trousers"
-  },
-  {
-    "question": "I want to buy a new ____. / Tôi muốn mua một ____ mới.",
-    "options": ["dress", "book", "toy", "pet"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Find the word: c-o-a-t / Tìm từ: c-o-a-t",
-    "options": ["coat", "cat", "boat", "goat"],
-    "correctAnswer": "coat"
-  },
-  {
-    "question": "Do you like this T-shirt? / Bạn có thích chiếc áo phông này không?",
-    "options": ["Yes, I do.", "No, I don't.", "It is a shop.", "I have a skirt."],
-    "correctAnswer": "Yes, I do."
-  },
-  {
-    "question": "This is a blue ____. / Đây là một ____ màu xanh dương.",
-    "options": ["coat", "skirt", "dress", "T-shirt"],
-    "correctAnswer": "coat"
-  },
-  {
-    "question": "What can you do in a clothes shop? / Bạn có thể làm gì trong một cửa hàng quần áo?",
-    "options": ["I can buy clothes.", "I can swim.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can buy clothes."
-  },
-  {
-    "question": "I like to wear ____. / Tôi thích mặc ____.",
-    "options": ["dresses", "trousers", "shirts", "all are correct"],
-    "correctAnswer": "all are correct"
-  },
-  {
-    "question": "What is the missing letter? coa_ / Chữ cái còn thiếu là gì? coa_",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a ____. It's a nice place. / Đây là một ____. Đó là một nơi tốt đẹp.",
-    "options": ["shop", "school", "city", "farm"],
-    "correctAnswer": "shop"
-  },
-  {
-    "question": "My mother is in the ____. / Mẹ tôi đang ở trong ____.",
-    "options": ["clothes shop", "kitchen", "bedroom", "garden"],
-    "correctAnswer": "clothes shop"
-  },
-  {
-    "question": "Let's try on this ____. / Hãy thử ____ này.",
-    "options": ["T-shirt", "book", "pencil", "chair"],
-    "correctAnswer": "T-shirt"
-  },
-  {
-    "question": "Spell the word: d-r-e-s-s / Đánh vần từ: d-r-e-s-s",
-    "options": ["dress", "press", "stress", "chess"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Is this a big shop? / Đây có phải là một cửa hàng lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a skirt.", "I can see a coat."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am looking for a ____. / Tôi đang tìm một ____.",
-    "options": ["pair of trousers", "dress", "skirt", "T-shirt"],
-    "correctAnswer": "pair of trousers"
-  },
-  {
-    "question": "What is the missing letter? _kirt / Chữ cái còn thiếu là gì? _kirt",
-    "options": ["s", "c", "b", "d"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is a ____. You wear it when it's cold. / Đây là một ____. Bạn mặc nó khi trời lạnh.",
-    "options": ["jacket", "T-shirt", "shorts", "skirt"],
-    "correctAnswer": "jacket"
-  },
-  {
-    "question": "How much is this dress? / Cái váy này giá bao nhiêu?",
-    "options": ["It's 100,000 dong.", "It's a dress.", "It's pink.", "I want to buy it."],
-    "correctAnswer": "It's 100,000 dong."
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["hat", "scarf", "glove", "sock"],
-    "correctAnswer": "hat"
-  },
-  {
-    "question": "Spell the word: T-s-h-i-r-t / Đánh vần từ: T-s-h-i-r-t",
-    "options": ["T-shirt", "shirt", "short", "skirt"],
-    "correctAnswer": "T-shirt"
-  },
-  {
-    "question": "Is it expensive? / Nó có đắt không?",
-    "options": ["No, it is cheap.", "Yes, it is.", "It is a clothes shop.", "I can see a dress."],
-    "correctAnswer": "No, it is cheap."
-  },
-  {
-    "question": "We can try on clothes in the ____. / Chúng ta có thể thử quần áo trong ____.",
-    "options": ["fitting room", "bedroom", "bathroom", "living room"],
-    "correctAnswer": "fitting room"
-  },
-  {
-    "question": "What is the missing letter? trou_ers / Chữ cái còn thiếu là gì? trou_ers",
-    "options": ["s", "t", "d", "g"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A pair of shoes", "A pair of socks", "A pair of gloves", "A pair of trousers"],
-    "correctAnswer": "A pair of shoes"
-  },
-  {
-    "question": "This is a ____. You pay for the clothes here. / Đây là một ____. Bạn trả tiền quần áo ở đây.",
-    "options": ["cashier", "waiter", "doctor", "teacher"],
-    "correctAnswer": "cashier"
-  },
-  {
-    "question": "This is ____. It's a fun activity. / Đây là ____. Đó là một hoạt động vui vẻ.",
-    "options": ["shopping", "studying", "working", "sleeping"],
-    "correctAnswer": "shopping"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A skirt", "A dress", "A T-shirt", "A coat"],
-    "correctAnswer": "A skirt"
-  },
-  {
-    "question": "Find the word: s-h-o-p / Tìm từ: s-h-o-p",
-    "options": ["shop", "ship", "shoe", "show"],
-    "correctAnswer": "shop"
-  },
-  {
-    "question": "Is it a red dress? / Nó có phải là một chiếc váy màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is blue.", "I am in the shop.", "I like dresses."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is new. / ____ của tôi mới.",
-    "options": ["jacket", "skirt", "dress", "T-shirt"],
-    "correctAnswer": "jacket"
-  },
-  {
-    "question": "What is the missing letter? jacke_",
-    "options": ["t", "n", "m", "p"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["shop", "book", "lesson", "game"],
-    "correctAnswer": "shop"
-  },
-  {
-    "question": "Spell the word: j-e-a-n-s / Đánh vần từ: j-e-a-n-s",
-    "options": ["jeans", "gems", "jeep", "join"],
-    "correctAnswer": "jeans"
-  },
-  {
-    "question": "Is this a blue T-shirt? / Đây có phải là một chiếc áo phông màu xanh không?",
-    "options": ["Yes, it is.", "No, it is green.", "I can see a T-shirt.", "I like T-shirts."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The clothes shop has many ____. / Cửa hàng quần áo có nhiều ____.",
-    "options": ["clothes", "books", "toys", "pets"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "What is the missing letter? _hop / Chữ cái còn thiếu là gì? _hop",
-    "options": ["s", "c", "p", "t"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A sweater", "A T-shirt", "A coat", "A jacket"],
-    "correctAnswer": "A sweater"
-  },
-  {
-    "question": "My ____ is on the rack. / ____ của tôi ở trên giá.",
-    "options": ["dress", "bed", "sofa", "chair"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "Is the coat warm? / Áo khoác có ấm không?",
-    "options": ["Yes, it is.", "No, it is thin.", "It is a coat.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a dress and a ____. / Tôi có thể thấy một chiếc váy và một ____.",
-    "options": ["skirt", "house", "car", "book"],
-    "correctAnswer": "skirt"
-  },
-  {
-    "question": "Find the word: p-r-i-c-e / Tìm từ: p-r-i-c-e",
-    "options": ["price", "prince", "prize", "pride"],
-    "correctAnswer": "price"
-  },
-  {
-    "question": "This is my ____. I wear it in winter. / Đây là ____ của tôi. Tôi mặc nó vào mùa đông.",
-    "options": ["sweater", "T-shirt", "shorts", "skirt"],
-    "correctAnswer": "sweater"
-  },
-  {
-    "question": "What is the missing letter? sweate_",
-    "options": ["r", "k", "p", "t"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "Is it a beautiful dress? / Nó có phải là một chiếc váy đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like dresses.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["shopping trip", "homework", "class", "test"],
-    "correctAnswer": "shopping trip"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A price tag", "A label", "A sticker", "A name tag"],
-    "correctAnswer": "A price tag"
-  },
-  {
-    "question": "What size is it? / Nó cỡ nào?",
-    "options": ["It's small.", "It's a T-shirt.", "It's blue.", "I want to buy it."],
-    "correctAnswer": "It's small."
-  },
-  {
-    "question": "A clothes shop sells ____. / Một cửa hàng quần áo bán ____.",
-    "options": ["clothes", "groceries", "toys", "books"],
-    "correctAnswer": "clothes"
-  },
-  {
-    "question": "I need ____ of jeans. / Tôi cần ____ quần jean.",
-    "options": ["a pair", "a piece", "a slice", "a box"],
-    "correctAnswer": "a pair"
-  },
-  {
-    "question": "What colour is the skirt? / Cái váy màu gì?",
-    "options": ["Pink", "Blue", "Red", "Yellow"],
-    "correctAnswer": "Pink"
-  },
-  {
-    "question": "What colour are the trousers? / Quần dài màu gì?",
-    "options": ["Black", "White", "Brown", "Grey"],
-    "correctAnswer": "Black"
-  },
-  {
-    "question": "The T-shirt is ____. / Áo phông thì ____.",
-    "options": ["cool", "hot", "small", "thin"],
-    "correctAnswer": "cool"
-  },
-  {
-    "question": "The clothes are ____. / Quần áo thì ____.",
-    "options": ["new", "old", "sad", "bad"],
-    "correctAnswer": "new"
-  },
-  {
-    "question": "Is the shop open? / Cửa hàng có mở cửa không?",
-    "options": ["Yes, it is.", "No, it is closed.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My shopping trip is ____. / Chuyến đi mua sắm của tôi thì ____.",
-    "options": ["exciting", "noisy", "busy", "crowded"],
-    "correctAnswer": "exciting"
-  },
-  {
-    "question": "What is the missing letter? exciti_g / Chữ cái còn thiếu là gì? exciti_g",
-    "options": ["n", "t", "d", "k"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["T-shirt", "dress", "skirt", "coat"],
-    "correctAnswer": "T-shirt"
-  },
-  {
-    "question": "I love ____. / Tôi yêu ____.",
-    "options": ["shopping", "dog", "cat", "bird"],
-    "correctAnswer": "shopping"
-  },
-  {
-    "question": "Is the jacket expensive? / Áo khoác có đắt không?",
-    "options": ["No, it is cheap.", "Yes, it is.", "It is a jacket.", "Hello."],
-    "correctAnswer": "No, it is cheap."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["clothes shop", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "clothes shop"
-  },
-  {
-    "question": "Spell the word: b-u-y / Đánh vần từ: b-u-y",
-    "options": ["buy", "by", "bye", "boy"],
-    "correctAnswer": "buy"
-  },
-  {
-    "question": "I want to ____ a new hat. / Tôi muốn ____ một cái mũ mới.",
-    "options": ["buy", "sell", "wear", "try"],
-    "correctAnswer": "buy"
-  },
-  {
-    "question": "My favorite colour is ____. / Màu sắc yêu thích của tôi là ____.",
-    "options": ["blue", "red", "green", "yellow"],
-    "correctAnswer": "blue"
-  },
-  {
-    "question": "What is the missing letter? pric_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a ____. You wear it around your neck. / Đây là một ____. Bạn quàng nó quanh cổ.",
-    "options": ["scarf", "hat", "glove", "sock"],
-    "correctAnswer": "scarf"
-  },
-  {
-    "question": "We should try clothes on before we ____. / Chúng ta nên thử quần áo trước khi ____.",
-    "options": ["buy", "sell", "wear", "wash"],
-    "correctAnswer": "buy"
-  },
-  {
-    "question": "Is it a big fitting room? / Nó có phải là một phòng thử đồ lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "I like fitting rooms.", "The fitting room is clean."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: s-i-z-e / Đánh vần từ: s-i-z-e",
-    "options": ["size", "side", "rise", "wise"],
-    "correctAnswer": "size"
-  },
-  {
-    "question": "I help my mom choose a ____. / Tôi giúp mẹ tôi chọn một ____.",
-    "options": ["dress", "skirt", "T-shirt", "coat"],
-    "correctAnswer": "dress"
-  },
-  {
-    "question": "The shop assistant is ____. / Nhân viên bán hàng thì ____.",
-    "options": ["helpful", "rude", "sad", "bad"],
-    "correctAnswer": "helpful"
-  },
-  {
-    "question": "What is the missing letter? helpfu_",
-    "options": ["l", "p", "t", "d"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A shopping bag", "A backpack", "A handbag", "A suitcase"],
-    "correctAnswer": "A shopping bag"
-  },
-  {
-    "question": "My ____ is full of new clothes. / ____ của tôi đầy quần áo mới.",
-    "options": ["bag", "desk", "wardrobe", "box"],
-    "correctAnswer": "bag"
-  },
-  {
-    "question": "Is it a picture of a model? / Nó có phải là một bức ảnh của một người mẫu không?",
-    "options": ["Yes, it is.", "No, it is a customer.", "I see a picture.", "The picture is nice."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My friend likes to wear ____. / Bạn tôi thích mặc ____.",
-    "options": ["jeans", "dresses", "skirts", "shorts"],
-    "correctAnswer": "jeans"
-  },
-  {
-    "question": "Spell the word: w-e-a-r / Đánh vần từ: w-e-a-r",
-    "options": ["wear", "where", "were", "we're"],
-    "correctAnswer": "wear"
-  },
-  {
-    "question": "This is a ____ day for shopping. / Đây là một ngày ____ để mua sắm.",
-    "options": ["perfect", "rainy", "cloudy", "windy"],
-    "correctAnswer": "perfect"
-  },
-  {
-    "question": "What is the missing letter? per_ect / Chữ cái còn thiếu là gì? per_ect",
-    "options": ["f", "p", "s", "m"],
-    "correctAnswer": "f"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A mannequin", "A person", "A doll", "A robot"],
-    "correctAnswer": "A mannequin"
-  },
-  {
-    "question": "My mother is paying with a ____. / Mẹ tôi đang thanh toán bằng ____.",
-    "options": ["credit card", "cash", "phone", "watch"],
-    "correctAnswer": "credit card"
-  },
-  {
-    "question": "Are the clothes on sale? / Quần áo có đang giảm giá không?",
-    "options": ["Yes, they are.", "No, they are full price.", "They are clothes.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My clothes shop has many ____. / Cửa hàng quần áo của tôi có nhiều ____.",
-    "options": ["customers", "teachers", "parents", "doctors"],
-    "correctAnswer": "customers"
-  },
-  {
-    "question": "Spell the word: c-h-e-a-p / Đánh vần từ: c-h-e-a-p",
-    "options": ["cheap", "cheat", "chap", "chip"],
-    "correctAnswer": "cheap"
-  },
-  {
-    "question": "I am ____ in the clothes shop. / Tôi ____ trong cửa hàng quần áo.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? dres_",
-    "options": ["s", "t", "p", "k"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A changing room", "A bathroom", "A bedroom", "A living room"],
-    "correctAnswer": "A changing room"
-  },
-  {
-    "question": "My clothes shop is my favorite ____. / Cửa hàng quần áo là ____ yêu thích của tôi.",
-    "options": ["shop", "food", "colour", "toy"],
-    "correctAnswer": "shop"
-  },
-  {
-    "question": "Is the T-shirt soft? / Áo phông có mềm không?",
-    "options": ["Yes, it is.", "No, it is rough.", "It is a T-shirt.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The shop has a ____. / Cửa hàng có một ____.",
-    "options": ["mirror", "window", "door", "wall"],
-    "correctAnswer": "mirror"
-  },
-  {
-    "question": "Spell the word: m-i-r-r-o-r / Đánh vần từ: m-i-r-r-o-r",
-    "options": ["mirror", "minor", "error", "terror"],
-    "correctAnswer": "mirror"
-  },
-  {
-    "question": "We look in the ____ to see our clothes. / Chúng tôi nhìn vào ____ để xem quần áo của mình.",
-    "options": ["mirror", "window", "door", "wall"],
-    "correctAnswer": "mirror"
-  },
-  {
-    "question": "What is the missing letter? mirro_",
-    "options": ["r", "s", "t", "p"],
-    "correctAnswer": "r"
-  }
+    {
+        "question": "This is a place where you can buy T-shirts, trousers, and dresses. What is it? / Đây là nơi bạn có thể mua áo phông, quần dài và váy. Nó là gì?",
+        "options": [
+            "A clothes shop",
+            "A grocery store",
+            "A toy shop",
+            "A school"
+        ],
+        "correctAnswer": "A clothes shop"
+    },
+    {
+        "question": "This is a piece of clothing for the top part of your body, usually with short sleeves. What is it? / Đây là một loại quần áo cho phần trên của cơ thể, thường có tay ngắn. Nó là gì?",
+        "options": [
+            "A T-shirt",
+            "Trousers",
+            "A skirt",
+            "Shoes"
+        ],
+        "correctAnswer": "A T-shirt"
+    },
+    {
+        "question": "This is a piece of clothing for girls that covers from the waist down. What is it? / Đây là một loại trang phục cho các bạn gái, che từ eo trở xuống. Nó là gì?",
+        "options": [
+            "A skirt",
+            "A shirt",
+            "Shorts",
+            "A hat"
+        ],
+        "correctAnswer": "A skirt"
+    },
+    {
+        "question": "This is a piece of clothing for girls that covers the whole body. What is it? / Đây là một loại trang phục cho các bạn gái, che toàn bộ cơ thể. Nó là gì?",
+        "options": [
+            "A dress",
+            "A skirt",
+            "Trousers",
+            "A coat"
+        ],
+        "correctAnswer": "A dress"
+    },
+    {
+        "question": "These are clothes for your legs, and they are long. What are they? / Đây là quần áo cho chân của bạn, và chúng dài. Chúng là gì?",
+        "options": [
+            "Trousers",
+            "Shorts",
+            "A skirt",
+            "Socks"
+        ],
+        "correctAnswer": "Trousers"
+    },
+    {
+        "question": "These are clothes for your legs, and they are short, for warm weather. What are they? / Đây là quần áo cho chân của bạn, và chúng ngắn, dành cho thời tiết ấm áp. Chúng là gì?",
+        "options": [
+            "Shorts",
+            "Trousers",
+            "A dress",
+            "A jacket"
+        ],
+        "correctAnswer": "Shorts"
+    },
+    {
+        "question": "You wear these on your feet to walk outside. What are they? / Bạn đi những thứ này vào chân để đi ra ngoài. Chúng là gì?",
+        "options": [
+            "Shoes",
+            "Socks",
+            "Gloves",
+            "A hat"
+        ],
+        "correctAnswer": "Shoes"
+    },
+    {
+        "question": "You wear these on your head. What is it? / Bạn đội cái này trên đầu. Nó là gì?",
+        "options": [
+            "A hat",
+            "A scarf",
+            "A shoe",
+            "A sock"
+        ],
+        "correctAnswer": "A hat"
+    },
+    {
+        "question": "You wear this around your neck to keep warm. What is it? / Bạn quàng cái này quanh cổ để giữ ấm. Nó là gì?",
+        "options": [
+            "A scarf",
+            "A hat",
+            "A coat",
+            "Gloves"
+        ],
+        "correctAnswer": "A scarf"
+    },
+    {
+        "question": "You wear this heavy piece of clothing in winter to stay warm. What is it? / Bạn mặc loại quần áo dày này vào mùa đông để giữ ấm. Nó là gì?",
+        "options": [
+            "A coat",
+            "A T-shirt",
+            "Shorts",
+            "A skirt"
+        ],
+        "correctAnswer": "A coat"
+    },
+    {
+        "question": "What is the action of putting clothes on your body? / Hành động mặc quần áo vào người là gì?",
+        "options": [
+            "To wear",
+            "To eat",
+            "To drink",
+            "To play"
+        ],
+        "correctAnswer": "To wear"
+    },
+    {
+        "question": "What do you do at a clothes shop? / Bạn làm gì ở một cửa hàng quần áo?",
+        "options": [
+            "Buy clothes",
+            "Read books",
+            "Cook food",
+            "Play games"
+        ],
+        "correctAnswer": "Buy clothes"
+    },
+    {
+        "question": "Before you buy clothes, you can ____ them on to see if they fit. / Trước khi mua quần áo, bạn có thể ____ chúng để xem có vừa không.",
+        "options": [
+            "try",
+            "eat",
+            "read",
+            "sell"
+        ],
+        "correctAnswer": "try"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Long",
+            "Tall"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "This T-shirt is too big, I need a ____ one. / Cái áo phông này quá lớn, tôi cần một cái ____ hơn.",
+        "options": [
+            "smaller",
+            "bigger",
+            "longer",
+            "taller"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "Spell the word for the clothes you wear on your feet. / Đánh vần từ chỉ quần áo bạn đi ở chân.",
+        "options": [
+            "s-h-o-e-s",
+            "s-o-c-k-s",
+            "h-a-t-s",
+            "c-o-a-t-s"
+        ],
+        "correctAnswer": "s-h-o-e-s"
+    },
+    {
+        "question": "What is the opposite of 'long'? / Từ trái nghĩa của 'long' là gì?",
+        "options": [
+            "Short",
+            "Big",
+            "Tall",
+            "Wide"
+        ],
+        "correctAnswer": "Short"
+    },
+    {
+        "question": "A skirt is usually ____ than a dress. / Một chiếc váy ngắn thường ____ hơn một chiếc váy dài.",
+        "options": [
+            "shorter",
+            "longer",
+            "bigger",
+            "smaller"
+        ],
+        "correctAnswer": "shorter"
+    },
+    {
+        "question": "What do you call the room where you try on clothes? / Bạn gọi căn phòng nơi bạn thử quần áo là gì?",
+        "options": [
+            "A changing room",
+            "A bedroom",
+            "A bathroom",
+            "A kitchen"
+        ],
+        "correctAnswer": "A changing room"
+    },
+    {
+        "question": "What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
+        "options": [
+            "Old",
+            "Young",
+            "Fresh",
+            "Modern"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "I want to buy a ____ pair of shoes. / Tôi muốn mua một đôi giày ____.",
+        "options": [
+            "new",
+            "old",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "new"
+    },
+    {
+        "question": "Spell the word for a girl's piece of clothing. / Đánh vần từ chỉ một loại trang phục của con gái.",
+        "options": [
+            "d-r-e-s-s",
+            "s-h-i-r-t",
+            "c-o-a-t",
+            "h-a-t"
+        ],
+        "correctAnswer": "d-r-e-s-s"
+    },
+    {
+        "question": "What is the opposite of 'expensive'? / Từ trái nghĩa của 'expensive' là gì?",
+        "options": [
+            "Cheap",
+            "Free",
+            "Good",
+            "Nice"
+        ],
+        "correctAnswer": "Cheap"
+    },
+    {
+        "question": "A nice coat can be very ____. / Một chiếc áo khoác đẹp có thể rất ____.",
+        "options": [
+            "expensive",
+            "cheap",
+            "small",
+            "light"
+        ],
+        "correctAnswer": "expensive"
+    },
+    {
+        "question": "What do you call a person who is buying things? / Bạn gọi người đang mua đồ là gì?",
+        "options": [
+            "A customer",
+            "A shopkeeper",
+            "A teacher",
+            "A doctor"
+        ],
+        "correctAnswer": "A customer"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You ____ the clothes to the changing room to try them on. / Bạn ____ quần áo vào phòng thử đồ để thử.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "Spell the word for long leg coverings. / Đánh vần từ chỉ quần áo dài che chân.",
+        "options": [
+            "t-r-o-u-s-e-r-s",
+            "s-h-o-r-t-s",
+            "s-k-i-r-t",
+            "s-o-c-k-s"
+        ],
+        "correctAnswer": "t-r-o-u-s-e-r-s"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ this new dress! It's beautiful. / Tôi ____ chiếc váy mới này! Nó thật đẹp.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call the money you pay for something? / Bạn gọi số tiền bạn trả cho một thứ gì đó là gì?",
+        "options": [
+            "The price",
+            "The change",
+            "The cost",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "Spell the word for short leg coverings. / Đánh vần từ chỉ quần áo ngắn che chân.",
+        "options": [
+            "s-h-o-r-t-s",
+            "p-a-n-t-s",
+            "j-e-a-n-s",
+            "s-k-i-r-t"
+        ],
+        "correctAnswer": "s-h-o-r-t-s"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "This shirt has a hole in it, the quality is ____. / Chiếc áo này có một lỗ thủng, chất lượng ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "new"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call clothes for your hands in winter? / Bạn gọi quần áo cho tay vào mùa đông là gì?",
+        "options": [
+            "Gloves",
+            "Socks",
+            "Hats",
+            "Shoes"
+        ],
+        "correctAnswer": "Gloves"
+    },
+    {
+        "question": "Spell the word for what you wear on your head. / Đánh vần từ chỉ thứ bạn đội trên đầu.",
+        "options": [
+            "h-a-t",
+            "c-a-p",
+            "s-o-c-k",
+            "b-o-o-t"
+        ],
+        "correctAnswer": "h-a-t"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "I like this shirt, the color is very ____. / Tôi thích chiếc áo này, màu sắc rất ____.",
+        "options": [
+            "nice",
+            "ugly",
+            "bad",
+            "sad"
+        ],
+        "correctAnswer": "nice"
+    },
+    {
+        "question": "What do you call clothes for your feet that you wear inside shoes? / Bạn gọi quần áo cho chân mà bạn đi bên trong giày là gì?",
+        "options": [
+            "Socks",
+            "Gloves",
+            "Hats",
+            "Scarves"
+        ],
+        "correctAnswer": "Socks"
+    },
+    {
+        "question": "Spell the word for a warm winter covering. / Đánh vần từ chỉ một loại áo khoác ấm mùa đông.",
+        "options": [
+            "c-o-a-t",
+            "h-a-t",
+            "s-c-a-r-f",
+            "b-o-o-t"
+        ],
+        "correctAnswer": "c-o-a-t"
+    }
 ]
-
