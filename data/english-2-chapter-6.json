@@ -1,483 +1,423 @@
 [
-  {
-    "question": "What is this animal? It says 'oink oink'. / Đây là con vật gì? Nó kêu 'oink oink'.",
-    "options": ["A pig", "A chicken", "A duck", "A horse"],
-    "correctAnswer": "A pig"
-  },
-  {
-    "question": "This is a ____. It gives us eggs. / Đây là một ____. Nó cho chúng ta trứng.",
-    "options": ["chicken", "pig", "horse", "duck"],
-    "correctAnswer": "chicken"
-  },
-  {
-    "question": "You can ride this animal. / Bạn có thể cưỡi con vật này.",
-    "options": ["A horse", "A pig", "A chicken", "A duck"],
-    "correctAnswer": "A horse"
-  },
-  {
-    "question": "This is a ____. It can swim in the pond. / Đây là một ____. Nó có thể bơi trong ao.",
-    "options": ["duck", "chicken", "pig", "horse"],
-    "correctAnswer": "duck"
-  },
-  {
-    "question": "Spell the word: p-i-g / Đánh vần từ: p-i-g",
-    "options": ["pig", "big", "dig", "fig"],
-    "correctAnswer": "pig"
-  },
-  {
-    "question": "This is a ____. It gives us wool. / Đây là một ____. Nó cho chúng ta len.",
-    "options": ["sheep", "goat", "cow", "horse"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "I can see a big ____ on the farm. / Tôi có thể thấy một ____ lớn ở nông trại.",
-    "options": ["tractor", "car", "bus", "boat"],
-    "correctAnswer": "tractor"
-  },
-  {
-    "question": "Find the word: h-o-r-s-e / Tìm từ: h-o-r-s-e",
-    "options": ["horse", "house", "hose", "worse"],
-    "correctAnswer": "horse"
-  },
-  {
-    "question": "Is this a chicken? / Đây có phải là một con gà không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a duck.", "I have a pig."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a pink ____. / Đây là một ____ màu hồng.",
-    "options": ["pig", "chicken", "duck", "horse"],
-    "correctAnswer": "pig"
-  },
-  {
-    "question": "What can you see on the farm? / Bạn có thể thấy gì ở nông trại?",
-    "options": ["I can see animals.", "I can see tall buildings.", "I can see many cars.", "I can see the sea."],
-    "correctAnswer": "I can see animals."
-  },
-  {
-    "question": "A ____ works on the farm. / Một ____ làm việc ở nông trại.",
-    "options": ["farmer", "doctor", "teacher", "pilot"],
-    "correctAnswer": "farmer"
-  },
-  {
-    "question": "What is the missing letter? duc_ / Chữ cái còn thiếu là gì? duc_",
-    "options": ["k", "t", "p", "b"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "This is a ____. It's a fun place. / Đây là một ____. Đó là một nơi vui vẻ.",
-    "options": ["farm", "school", "city", "shop"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "My grandpa is a ____. / Ông tôi là một ____.",
-    "options": ["farmer", "student", "teacher", "doctor"],
-    "correctAnswer": "farmer"
-  },
-  {
-    "question": "Let's feed the ____. / Hãy cho ____ ăn.",
-    "options": ["chickens", "books", "pencils", "chairs"],
-    "correctAnswer": "chickens"
-  },
-  {
-    "question": "Spell the word: f-a-r-m / Đánh vần từ: f-a-r-m",
-    "options": ["farm", "form", "from", "arm"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Is this a big horse? / Đây có phải là một con ngựa lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a pig.", "I can see a duck."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am riding a ____. / Tôi đang cưỡi một ____.",
-    "options": ["horse", "pig", "chicken", "duck"],
-    "correctAnswer": "horse"
-  },
-  {
-    "question": "What is the missing letter? _ig / Chữ cái còn thiếu là gì? _ig",
-    "options": ["p", "b", "d", "f"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "These are farm ____. / Đây là những ____ nông trại.",
-    "options": ["animals", "pets", "toys", "books"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "How many pigs are there? / Có bao nhiêu con lợn?",
-    "options": ["Three", "One", "Two", "Four"],
-    "correctAnswer": "Three"
-  },
-  {
-    "question": "This is a ____. It's white and fluffy. / Đây là một ____. Nó trắng và xù.",
-    "options": ["sheep", "goat", "cow", "pig"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "Spell the word: d-u-c-k / Đánh vần từ: d-u-c-k",
-    "options": ["duck", "dark", "desk", "deck"],
-    "correctAnswer": "duck"
-  },
-  {
-    "question": "Is it a quiet farm? / Nó có phải là một nông trại yên tĩnh không?",
-    "options": ["No, it is noisy.", "Yes, it is.", "It is a farm.", "I can see animals."],
-    "correctAnswer": "No, it is noisy."
-  },
-  {
-    "question": "We can get ____ from chickens. / Chúng ta có thể lấy ____ từ gà.",
-    "options": ["eggs", "milk", "wool", "honey"],
-    "correctAnswer": "eggs"
-  },
-  {
-    "question": "What is the missing letter? shee_",
-    "options": ["p", "t", "d", "g"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A tractor", "A car", "A bus", "A train"],
-    "correctAnswer": "A tractor"
-  },
-  {
-    "question": "This is a ____. The farmer drives it. / Đây là một ____. Người nông dân lái nó.",
-    "options": ["tractor", "horse", "cow", "pig"],
-    "correctAnswer": "tractor"
-  },
-  {
-    "question": "This is ____. It's where the animals sleep. / Đây là ____. Đó là nơi các con vật ngủ.",
-    "options": ["a barn", "a house", "a school", "a shop"],
-    "correctAnswer": "a barn"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A chicken", "A duck", "A goose", "A turkey"],
-    "correctAnswer": "A chicken"
-  },
-  {
-    "question": "Find the word: s-h-e-e-p / Tìm từ: s-h-e-e-p",
-    "options": ["sheep", "ship", "shop", "sheet"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "Is it a brown horse? / Nó có phải là một con ngựa màu nâu không?",
-    "options": ["Yes, it is.", "No, it is black.", "I am on the farm.", "I like horses."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is red. / ____ của tôi màu đỏ.",
-    "options": ["tractor", "barn", "horse", "pig"],
-    "correctAnswer": "tractor"
-  },
-  {
-    "question": "What is the missing letter? hors_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["farm", "book", "lesson", "game"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Spell the word: t-r-a-c-t-o-r / Đánh vần từ: t-r-a-c-t-o-r",
-    "options": ["tractor", "doctor", "actor", "factor"],
-    "correctAnswer": "tractor"
-  },
-  {
-    "question": "Is this a mother duck? / Đây có phải là một con vịt mẹ không?",
-    "options": ["Yes, it is.", "No, it is a baby duck.", "I can see a duck.", "I like ducks."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The farm has a big ____. / Nông trại có một ____ lớn.",
-    "options": ["barn", "house", "school", "shop"],
-    "correctAnswer": "barn"
-  },
-  {
-    "question": "What is the missing letter? _arn / Chữ cái còn thiếu là gì? _arn",
-    "options": ["b", "f", "c", "p"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A duck", "A chicken", "A goose", "A swan"],
-    "correctAnswer": "A duck"
-  },
-  {
-    "question": "My ____ is noisy. / ____ của tôi ồn ào.",
-    "options": ["farm", "house", "room", "bag"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Is the pig clean? / Con lợn có sạch không?",
-    "options": ["No, it is muddy.", "Yes, it is.", "It is a pig.", "Hello."],
-    "correctAnswer": "No, it is muddy."
-  },
-  {
-    "question": "I can see a horse and some ____. / Tôi có thể thấy một con ngựa và một vài ____.",
-    "options": ["sheep", "houses", "cars", "books"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "Find the word: f-a-r-m-e-r / Tìm từ: f-a-r-m-e-r",
-    "options": ["farmer", "father", "former", "famous"],
-    "correctAnswer": "farmer"
-  },
-  {
-    "question": "This is my ____. He works hard. / Đây là ____ của tôi. Ông ấy làm việc chăm chỉ.",
-    "options": ["grandfather", "teacher", "doctor", "pilot"],
-    "correctAnswer": "grandfather"
-  },
-  {
-    "question": "What is the missing letter? chic_en / Chữ cái còn thiếu là gì? chic_en",
-    "options": ["k", "p", "t", "d"],
-    "correctAnswer": "k"
-  },
-  {
-    "question": "Is it a baby pig? / Nó có phải là một con lợn con không?",
-    "options": ["Yes, it is.", "No, it is a big pig.", "I like pigs.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun to visit. / ____ của tôi rất vui để đến thăm.",
-    "options": ["farm", "school", "class", "test"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A scarecrow", "A farmer", "A tractor", "A barn"],
-    "correctAnswer": "A scarecrow"
-  },
-  {
-    "question": "How many sheep can you see? / Bạn có thể thấy bao nhiêu con cừu?",
-    "options": ["Many", "One", "Two", "Three"],
-    "correctAnswer": "Many"
-  },
-  {
-    "question": "A duck swims in the ____. / Một con vịt bơi trong ____.",
-    "options": ["pond", "river", "sea", "lake"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "I see ____ goat on the hill. / Tôi thấy ____ con dê trên đồi.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "What colour is the chicken? / Con gà màu gì?",
-    "options": ["White", "Blue", "Red", "Yellow"],
-    "correctAnswer": "White"
-  },
-  {
-    "question": "What colour is the tractor? / Máy cày màu gì?",
-    "options": ["Red", "White", "Black", "Pink"],
-    "correctAnswer": "Red"
-  },
-  {
-    "question": "The horse is ____. / Con ngựa thì ____.",
-    "options": ["strong", "weak", "small", "thin"],
-    "correctAnswer": "strong"
-  },
-  {
-    "question": "The ducks are ____. / Những con vịt thì ____.",
-    "options": ["swimming", "flying", "running", "sleeping"],
-    "correctAnswer": "swimming"
-  },
-  {
-    "question": "Is the barn big? / Chuồng trại có lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My trip to the farm is ____. / Chuyến đi đến nông trại của tôi thì ____.",
-    "options": ["interesting", "boring", "busy", "crowded"],
-    "correctAnswer": "interesting"
-  },
-  {
-    "question": "What is the missing letter? intere_ting / Chữ cái còn thiếu là gì? intere_ting",
-    "options": ["s", "t", "d", "k"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["horse", "pig", "chicken", "duck"],
-    "correctAnswer": "horse"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["farm", "dog", "cat", "bird"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Is the farmer busy? / Người nông dân có bận không?",
-    "options": ["Yes, he is.", "No, he is free.", "It is a farmer.", "Hello."],
-    "correctAnswer": "Yes, he is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["farm", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Spell the word: a-n-i-m-a-l / Đánh vần từ: a-n-i-m-a-l",
-    "options": ["animal", "anime", "animate", "enamel"],
-    "correctAnswer": "animal"
-  },
-  {
-    "question": "I have ____ small chick. / Tôi có ____ chú gà con nhỏ.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite animal on the farm is the ____. / Con vật yêu thích của tôi ở nông trại là ____.",
-    "options": ["sheep", "cow", "goat", "horse"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "What is the missing letter? anima_",
-    "options": ["l", "a", "i", "o"],
-    "correctAnswer": "l"
-  },
-  {
-    "question": "This is ____. It's food for horses. / Đây là ____. Nó là thức ăn cho ngựa.",
-    "options": ["hay", "grass", "leaves", "flowers"],
-    "correctAnswer": "hay"
-  },
-  {
-    "question": "We should be kind to ____. / Chúng ta nên đối xử tốt với ____.",
-    "options": ["animals", "fence", "bench", "swing"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "Is it a baby sheep? It's a ____. / Nó có phải là một con cừu con không? Nó là một ____.",
-    "options": ["lamb", "kid", "calf", "foal"],
-    "correctAnswer": "lamb"
-  },
-  {
-    "question": "Spell the word: h-a-y / Đánh vần từ: h-a-y",
-    "options": ["hay", "hey", "day", "say"],
-    "correctAnswer": "hay"
-  },
-  {
-    "question": "I help the farmer collect ____. / Tôi giúp người nông dân thu thập ____.",
-    "options": ["eggs", "milk", "wool", "honey"],
-    "correctAnswer": "eggs"
-  },
-  {
-    "question": "The tractor is pulling a ____. / Máy cày đang kéo một ____.",
-    "options": ["cart", "car", "bus", "boat"],
-    "correctAnswer": "cart"
-  },
-  {
-    "question": "What is the missing letter? car_",
-    "options": ["t", "p", "d", "k"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A goat", "A sheep", "A cow", "A horse"],
-    "correctAnswer": "A goat"
-  },
-  {
-    "question": "My ____ is full of animals. / ____ của tôi đầy ắp động vật.",
-    "options": ["farm", "house", "room", "bag"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Is it a noisy duck? / Nó có phải là một con vịt ồn ào không?",
-    "options": ["Yes, it is.", "No, it is quiet.", "I see a duck.", "The duck is yellow."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My sister likes to watch the ____. / Chị tôi thích xem ____.",
-    "options": ["chickens", "trees", "grass", "leaves"],
-    "correctAnswer": "chickens"
-  },
-  {
-    "question": "Spell the word: p-o-n-d / Đánh vần từ: p-o-n-d",
-    "options": ["pond", "bond", "fond", "pawn"],
-    "correctAnswer": "pond"
-  },
-  {
-    "question": "This is a ____ day on the farm. / Đây là một ngày ____ ở nông trại.",
-    "options": ["busy", "rainy", "cloudy", "windy"],
-    "correctAnswer": "busy"
-  },
-  {
-    "question": "What is the missing letter? _usy / Chữ cái còn thiếu là gì? _usy",
-    "options": ["b", "f", "r", "m"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A rooster", "A chicken", "A duck", "A goose"],
-    "correctAnswer": "A rooster"
-  },
-  {
-    "question": "My brother is feeding the ____. / Anh trai tôi đang cho ____ ăn.",
-    "options": ["pigs", "horses", "cows", "goats"],
-    "correctAnswer": "pigs"
-  },
-  {
-    "question": "Are the sheep white? / Những con cừu màu trắng phải không?",
-    "options": ["Yes, they are.", "No, they are black.", "They are sheep.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My family is having a fun day at the ____. / Gia đình tôi đang có một ngày vui vẻ ở ____.",
-    "options": ["farm", "beach", "park", "zoo"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "Spell the word: e-g-g / Đánh vần từ: e-g-g",
-    "options": ["egg", "leg", "beg", "peg"],
-    "correctAnswer": "egg"
-  },
-  {
-    "question": "I am ____ on the farm. / Tôi ____ ở nông trại.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? shee_",
-    "options": ["p", "t", "d", "k"],
-    "correctAnswer": "p"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A barn", "A house", "A school", "A shop"],
-    "correctAnswer": "A barn"
-  },
-  {
-    "question": "My farm is my favorite ____. / Nông trại là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the tractor new? / Máy cày có mới không?",
-    "options": ["Yes, it is.", "No, it is old.", "It is a tractor.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The farmer grows ____ in the field. / Người nông dân trồng ____ trên cánh đồng.",
-    "options": ["vegetables", "flowers", "trees", "grass"],
-    "correctAnswer": "vegetables"
-  },
-  {
-    "question": "Spell the word: g-r-o-w / Đánh vần từ: g-r-o-w",
-    "options": ["grow", "glow", "crow", "brow"],
-    "correctAnswer": "grow"
-  },
-  {
-    "question": "We get fresh ____ from the farm. / Chúng tôi lấy ____ tươi từ nông trại.",
-    "options": ["food", "toys", "books", "clothes"],
-    "correctAnswer": "food"
-  },
-  {
-    "question": "What is the missing letter? far_",
-    "options": ["m", "n", "p", "t"],
-    "correctAnswer": "m"
-  }
-]
+    {
+        "question": "This is a place in the countryside with fields and animals like cows and chickens. What is it? / Đây là một nơi ở nông thôn có những cánh đồng và các con vật như bò và gà. Nó là gì?",
+        "options": [
+            "A farm",
+            "A zoo",
+            "A park",
+            "A city"
+        ],
+        "correctAnswer": "A farm"
+    },
+    {
+        "question": "This large animal lives on a farm, says 'moo', and gives us milk. What is it? / Con vật lớn này sống trong trang trại, kêu 'moo' và cho chúng ta sữa. Nó là gì?",
+        "options": [
+            "A cow",
+            "A horse",
+            "A sheep",
+            "A pig"
+        ],
+        "correctAnswer": "A cow"
+    },
+    {
+        "question": "This animal is covered in wool and says 'baa'. What is it? / Con vật này được bao phủ bởi lông cừu và kêu 'baa'. Nó là gì?",
+        "options": [
+            "A sheep",
+            "A goat",
+            "A cow",
+            "A chicken"
+        ],
+        "correctAnswer": "A sheep"
+    },
+    {
+        "question": "This is a large animal that people can ride. What is it? / Đây là một con vật lớn mà mọi người có thể cưỡi. Nó là gì?",
+        "options": [
+            "A horse",
+            "A sheep",
+            "A cow",
+            "A duck"
+        ],
+        "correctAnswer": "A horse"
+    },
+    {
+        "question": "This pink animal lives on a farm and says 'oink'. What is it? / Con vật màu hồng này sống trong trang trại và kêu 'oink'. Nó là gì?",
+        "options": [
+            "A pig",
+            "A sheep",
+            "A horse",
+            "A cow"
+        ],
+        "correctAnswer": "A pig"
+    },
+    {
+        "question": "This farm bird gives us eggs and says 'cluck-cluck'. What is it? / Loài gia cầm này cho chúng ta trứng và kêu 'cluck-cluck'. Nó là gì?",
+        "options": [
+            "A chicken",
+            "A duck",
+            "A goose",
+            "A turkey"
+        ],
+        "correctAnswer": "A chicken"
+    },
+    {
+        "question": "This bird likes to swim in the pond and says 'quack'. What is it? / Loài chim này thích bơi trong ao và kêu 'quạc'. Nó là gì?",
+        "options": [
+            "A duck",
+            "A chicken",
+            "A goose",
+            "A horse"
+        ],
+        "correctAnswer": "A duck"
+    },
+    {
+        "question": "A person who works on a farm and grows food is a ____. / Một người làm việc trên nông trại và trồng lương thực là một ____.",
+        "options": [
+            "farmer",
+            "teacher",
+            "doctor",
+            "driver"
+        ],
+        "correctAnswer": "farmer"
+    },
+    {
+        "question": "A farmer drives this big vehicle in the fields. What is it? / Một người nông dân lái chiếc xe lớn này trên cánh đồng. Nó là gì?",
+        "options": [
+            "A tractor",
+            "A car",
+            "A bus",
+            "A bike"
+        ],
+        "correctAnswer": "A tractor"
+    },
+    {
+        "question": "This is a large building on a farm where animals or hay are kept. What is it? / Đây là một tòa nhà lớn trong trang trại nơi nuôi động vật hoặc chứa cỏ khô. Nó là gì?",
+        "options": [
+            "A barn",
+            "A house",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "A barn"
+    },
+    {
+        "question": "What do you call a baby cow? / Bạn gọi một con bò con là gì?",
+        "options": [
+            "A calf",
+            "A lamb",
+            "A foal",
+            "A chick"
+        ],
+        "correctAnswer": "A calf"
+    },
+    {
+        "question": "What do you call a baby sheep? / Bạn gọi một con cừu con là gì?",
+        "options": [
+            "A lamb",
+            "A calf",
+            "A foal",
+            "A piglet"
+        ],
+        "correctAnswer": "A lamb"
+    },
+    {
+        "question": "What do you call a baby horse? / Bạn gọi một con ngựa con là gì?",
+        "options": [
+            "A foal",
+            "A calf",
+            "A lamb",
+            "A kitten"
+        ],
+        "correctAnswer": "A foal"
+    },
+    {
+        "question": "What do you call a baby chicken? / Bạn gọi một con gà con là gì?",
+        "options": [
+            "A chick",
+            "A duckling",
+            "A gosling",
+            "A puppy"
+        ],
+        "correctAnswer": "A chick"
+    },
+    {
+        "question": "What do you call a baby pig? / Bạn gọi một con lợn con là gì?",
+        "options": [
+            "A piglet",
+            "A calf",
+            "A lamb",
+            "A foal"
+        ],
+        "correctAnswer": "A piglet"
+    },
+    {
+        "question": "Spell the word for the place with fields and farm animals. / Đánh vần từ chỉ nơi có những cánh đồng và động vật trang trại.",
+        "options": [
+            "f-a-r-m",
+            "z-o-o",
+            "p-a-r-k",
+            "c-i-t-y"
+        ],
+        "correctAnswer": "f-a-r-m"
+    },
+    {
+        "question": "What is the opposite of 'noisy'? / Từ trái nghĩa của 'noisy' là gì?",
+        "options": [
+            "Quiet",
+            "Loud",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Quiet"
+    },
+    {
+        "question": "A farm in the early morning is often very ____. / Một nông trại vào sáng sớm thường rất ____.",
+        "options": [
+            "quiet",
+            "noisy",
+            "busy",
+            "crowded"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What do farmers grow in the fields? / Nông dân trồng gì trên cánh đồng?",
+        "options": [
+            "Vegetables and grains",
+            "Toys and books",
+            "Cars and bikes",
+            "Houses and schools"
+        ],
+        "correctAnswer": "Vegetables and grains"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "Pigs like to play in the ____. / Lợn thích chơi trong ____.",
+        "options": [
+            "mud",
+            "water",
+            "sand",
+            "house"
+        ],
+        "correctAnswer": "mud"
+    },
+    {
+        "question": "Spell the word for the animal that gives us milk. / Đánh vần từ chỉ con vật cho chúng ta sữa.",
+        "options": [
+            "c-o-w",
+            "g-o-a-t",
+            "d-o-g",
+            "c-a-t"
+        ],
+        "correctAnswer": "c-o-w"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
 
+            "Long",
+            "Happy"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A chick is ____ than a chicken. / Một con gà con ____ hơn một con gà.",
+        "options": [
+            "smaller",
+            "bigger",
+            "taller",
+            "older"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "What do you call the food for farm animals? / Bạn gọi thức ăn cho động vật trang trại là gì?",
+        "options": [
+            "Feed",
+            "Food",
+            "Lunch",
+            "Dinner"
+        ],
+        "correctAnswer": "Feed"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "A farmer has ____ sheep in the field. / Một người nông dân có ____ con cừu trên cánh đồng.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "Spell the word for the animal that gives us wool. / Đánh vần từ chỉ con vật cho chúng ta len.",
+        "options": [
+            "s-h-e-e-p",
+            "g-o-a-t",
+            "c-o-w",
+            "h-o-r-s-e"
+        ],
+        "correctAnswer": "s-h-e-e-p"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "Farmers ____ their animals and take care of them. / Nông dân ____ động vật của họ và chăm sóc chúng.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a male chicken? / Bạn gọi một con gà trống là gì?",
+        "options": [
+            "A rooster",
+            "A hen",
+            "A chick",
+            "A duck"
+        ],
+        "correctAnswer": "A rooster"
+    },
+    {
+        "question": "Spell the word for the large animal you can ride. / Đánh vần từ chỉ con vật lớn bạn có thể cưỡi.",
+        "options": [
+            "h-o-r-s-e",
+            "c-o-w",
+            "s-h-e-e-p",
+            "d-o-n-k-e-y"
+        ],
+        "correctAnswer": "h-o-r-s-e"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "Cows ____ us milk. / Bò ____ cho chúng ta sữa.",
+        "options": [
+            "give",
+            "take",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "What do you call a farm animal with horns and a beard? / Bạn gọi một con vật nuôi có sừng và râu là gì?",
+        "options": [
+            "A goat",
+            "A sheep",
+            "A cow",
+            "A horse"
+        ],
+        "correctAnswer": "A goat"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "A farmer's day will ____ when the sun goes down. / Một ngày của người nông dân sẽ ____ khi mặt trời lặn.",
+        "options": [
+            "finish",
+            "start",
+            "begin",
+            "play"
+        ],
+        "correctAnswer": "finish"
+    },
+    {
+        "question": "Spell the word for the pink farm animal. / Đánh vần từ chỉ con vật nuôi màu hồng.",
+        "options": [
+            "p-i-g",
+            "c-o-w",
+            "d-o-g",
+            "c-a-t"
+        ],
+        "correctAnswer": "p-i-g"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A sunrise in the countryside is ____. / Cảnh bình minh ở nông thôn thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a baby duck? / Bạn gọi một con vịt con là gì?",
+        "options": [
+            "A duckling",
+            "A chick",
+            "A gosling",
+            "A lamb"
+        ],
+        "correctAnswer": "A duckling"
+    },
+    {
+        "question": "Spell the word for the bird that gives us eggs. / Đánh vần từ chỉ loài chim cho chúng ta trứng.",
+        "options": [
+            "c-h-i-c-k-e-n",
+            "d-u-c-k",
+            "g-o-o-s-e",
+            "t-u-r-k-e-y"
+        ],
+        "correctAnswer": "c-h-i-c-k-e-n"
+    }
+]
