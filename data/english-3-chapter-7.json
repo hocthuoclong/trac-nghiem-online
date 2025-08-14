@@ -1,6 +1,6 @@
 [
     {
-        "question": "____ your book, please. / Vui lòng ____ sách của bạn.",
+        "question": "When the teacher wants you to look at your book, she says: '____ your book, please.' / Khi giáo viên muốn bạn nhìn vào sách, cô ấy nói: 'Làm ơn ____ sách của bạn.'",
         "options": [
             "Open",
             "Close",
@@ -10,27 +10,37 @@
         "correctAnswer": "Open"
     },
     {
-        "question": "Sit ____, please. / Vui lòng ngồi ____.",
+        "question": "When the lesson is finished, the teacher says: '____ your books, please.' / Khi tiết học kết thúc, giáo viên nói: 'Làm ơn ____ sách của các em lại.'",
         "options": [
-            "down",
-            "up",
-            "in",
-            "out"
+            "Close",
+            "Open",
+            "Drop",
+            "Take"
         ],
-        "correctAnswer": "down"
+        "correctAnswer": "Close"
     },
     {
-        "question": "____ up, please. / Vui lòng ____ dậy.",
+        "question": "If you are standing, the teacher might ask you to '____ down, please.' / Nếu bạn đang đứng, giáo viên có thể yêu cầu bạn 'Làm ơn ____ xuống.'",
+        "options": [
+            "Sit",
+            "Stand",
+            "Jump",
+            "Run"
+        ],
+        "correctAnswer": "Sit"
+    },
+    {
+        "question": "If you are sitting, the teacher might ask you to '____ up, please.' / Nếu bạn đang ngồi, giáo viên có thể yêu cầu bạn 'Làm ơn ____ dậy.'",
         "options": [
             "Stand",
             "Sit",
-            "Come",
-            "Go"
+            "Look",
+            "Listen"
         ],
         "correctAnswer": "Stand"
     },
     {
-        "question": "Be ____, please. The teacher is talking. / Vui lòng ____. Cô giáo đang nói.",
+        "question": "If the class is too noisy, the teacher will say: 'Be ____, please.' / Nếu lớp học quá ồn ào, giáo viên sẽ nói: 'Làm ơn ____.'",
         "options": [
             "quiet",
             "loud",
@@ -40,27 +50,7 @@
         "correctAnswer": "quiet"
     },
     {
-        "question": "Spell the word: o-p-e-n / Đánh vần từ: o-p-e-n",
-        "options": [
-            "open",
-            "pen",
-            "on",
-            "pin"
-        ],
-        "correctAnswer": "open"
-    },
-    {
-        "question": "____ your book, please. The lesson is over. / Vui lòng ____ sách của bạn. Buổi học đã kết thúc.",
-        "options": [
-            "Close",
-            "Open",
-            "Read",
-            "Write"
-        ],
-        "correctAnswer": "Close"
-    },
-    {
-        "question": "May I ____ in? / Em có thể ____ vào không ạ?",
+        "question": "If you want to enter the classroom, you should ask: 'May I ____ in?' / Nếu bạn muốn vào lớp, bạn nên hỏi: 'Em có thể ____ vào không ạ?'",
         "options": [
             "come",
             "go",
@@ -70,133 +60,353 @@
         "correctAnswer": "come"
     },
     {
-        "question": "Find the word: s-i-t / Tìm từ: s-i-t",
-        "options": [
-            "sit",
-            "set",
-            "six",
-            "sin"
-        ],
-        "correctAnswer": "sit"
-    },
-    {
-        "question": "Don't ____. / Đừng ____.",
-        "options": [
-            "talk",
-            "listen",
-            "read",
-            "write"
-        ],
-        "correctAnswer": "talk"
-    },
-    {
-        "question": "May I ____ out? / Em có thể ____ ngoài không ạ?",
+        "question": "If you want to leave the classroom, you should ask: 'May I ____ out?' / Nếu bạn muốn rời khỏi lớp học, bạn nên hỏi: 'Em có thể ____ ngoài không ạ?'",
         "options": [
             "go",
             "come",
-            "sit",
-            "stand"
+            "look",
+            "listen"
         ],
         "correctAnswer": "go"
     },
     {
-        "question": "What does 'Open your book' mean? / 'Open your book' có nghĩa là gì?",
+        "question": "When the teacher is explaining something, you should ____ carefully. / Khi giáo viên đang giải thích điều gì đó, bạn nên ____ cẩn thận.",
         "options": [
-            "Mở sách của bạn ra.",
-            "Đóng sách của bạn lại.",
-            "Đọc sách của bạn.",
-            "Viết vào sách của bạn."
-        ],
-        "correctAnswer": "Mở sách của bạn ra."
-    },
-    {
-        "question": "I want to ____ a question. / Em muốn ____ một câu hỏi.",
-        "options": [
-            "ask",
-            "answer",
-            "read",
-            "write"
-        ],
-        "correctAnswer": "ask"
-    },
-    {
-        "question": "What is the missing letter? quie_",
-        "options": [
-            "t",
-            "p",
-            "d",
-            "k"
-        ],
-        "correctAnswer": "t"
-    },
-    {
-        "question": "This is a ____. / Đây là một ____.",
-        "options": [
-            "classroom",
-            "playground",
-            "library",
-            "gym"
-        ],
-        "correctAnswer": "classroom"
-    },
-    {
-        "question": "My teacher says, '____ down.' / Cô giáo của tôi nói, '____ xuống.'",
-        "options": [
-            "Sit",
-            "Stand",
-            "Come",
-            "Go"
-        ],
-        "correctAnswer": "Sit"
-    },
-    {
-        "question": "Let's ____ to the board. / Hãy ____ lên bảng.",
-        "options": [
-            "look",
             "listen",
-            "point",
-            "go"
+            "talk",
+            "play",
+            "sleep"
         ],
-        "correctAnswer": "look"
+        "correctAnswer": "listen"
     },
     {
-        "question": "Spell the word: c-l-o-s-e / Đánh vần từ: c-l-o-s-e",
+        "question": "The teacher writes on the board and says: '____ at the board, please.' / Giáo viên viết lên bảng và nói: 'Làm ơn ____ lên bảng.'",
         "options": [
-            "close",
-            "class",
-            "rose",
-            "chose"
+            "Look",
+            "Listen",
+            "Point",
+            "Touch"
         ],
-        "correctAnswer": "close"
+        "correctAnswer": "Look"
     },
     {
-        "question": "Is this a command? 'Stand up.' / Đây có phải là một mệnh lệnh không? 'Stand up.'",
+        "question": "If you have a question, you should raise your ____. / Nếu bạn có câu hỏi, bạn nên giơ ____ của mình lên.",
         "options": [
-            "Yes, it is.",
-            "No, it isn't.",
-            "It is a question.",
-            "It is an answer."
+            "hand",
+            "book",
+            "voice",
+            "foot"
         ],
-        "correctAnswer": "Yes, it is."
+        "correctAnswer": "hand"
     },
     {
-        "question": "I am ____ to the teacher. / Tôi đang ____ cô giáo.",
+        "question": "What is the opposite of 'open'? / Từ trái nghĩa của 'open' là gì?",
         "options": [
-            "listening",
-            "talking",
-            "playing",
-            "eating"
+            "Close",
+            "Start",
+            "In",
+            "Big"
         ],
-        "correctAnswer": "listening"
+        "correctAnswer": "Close"
     },
     {
-        "question": "What is the missing letter? _tand / Chữ cái còn thiếu là gì? _tand",
+        "question": "What is the opposite of 'sit down'? / Từ trái nghĩa của 'sit down' là gì?",
         "options": [
-            "S",
-            "P",
-            "B",
-            "D"
+            "Stand up",
+            "Run away",
+            "Look here",
+            "Be quiet"
         ],
-        "correctAnswer": "S"
+        "correctAnswer": "Stand up"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "What is the opposite of 'come in'? / Từ trái nghĩa của 'come in' là gì?",
+        "options": [
+            "Go out",
+            "Sit down",
+            "Stand up",
+            "Look here"
+        ],
+        "correctAnswer": "Go out"
+    },
+    {
+        "question": "A polite word you should always use is ____. / Một từ lịch sự bạn nên luôn luôn sử dụng là ____.",
+        "options": [
+            "please",
+            "no",
+            "what",
+            "bad"
+        ],
+        "correctAnswer": "please"
+    },
+    {
+        "question": "Spell the word for the action of opening your book. / Đánh vần từ chỉ hành động mở sách của bạn.",
+        "options": [
+            "o-p-e-n",
+            "c-l-o-s-e",
+            "r-e-a-d",
+            "s-i-t"
+        ],
+        "correctAnswer": "o-p-e-n"
+    },
+    {
+        "question": "What should you NOT do when another student is speaking? / Bạn KHÔNG nên làm gì khi một học sinh khác đang nói?",
+        "options": [
+            "Talk",
+            "Listen",
+            "Look",
+            "Wait"
+        ],
+        "correctAnswer": "Talk"
+    },
+    {
+        "question": "The teacher says 'Don't talk'. This means you must be ____. / Giáo viên nói 'Don't talk'. Điều này có nghĩa là bạn phải ____.",
+        "options": [
+            "quiet",
+            "loud",
+            "happy",
+            "sad"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What do you use to write in your notebook? / Bạn dùng gì để viết vào vở?",
+        "options": [
+            "A pen or a pencil",
+            "An eraser",
+            "A ruler",
+            "A book"
+        ],
+        "correctAnswer": "A pen or a pencil"
+    },
+    {
+        "question": "What do you do with a storybook? / Bạn làm gì với một cuốn truyện?",
+        "options": [
+            "Read it",
+            "Write it",
+            "Draw it",
+            "Listen to it"
+        ],
+        "correctAnswer": "Read it"
+    },
+    {
+        "question": "Spell the word for the action of closing your book. / Đánh vần từ chỉ hành động đóng sách của bạn.",
+        "options": [
+            "c-l-o-s-e",
+            "o-p-e-n",
+            "s-t-a-n-d",
+            "l-o-o-k"
+        ],
+        "correctAnswer": "c-l-o-s-e"
+    },
+    {
+        "question": "What is the opposite of 'ask'? / Từ trái nghĩa của 'ask' là gì?",
+        "options": [
+            "Answer",
+            "Tell",
+            "Say",
+            "Listen"
+        ],
+        "correctAnswer": "Answer"
+    },
+    {
+        "question": "When the teacher asks a question, she wants you to ____. / Khi giáo viên đặt câu hỏi, cô ấy muốn bạn ____.",
+        "options": [
+            "answer",
+            "ask",
+            "talk",
+            "play"
+        ],
+        "correctAnswer": "answer"
+    },
+    {
+        "question": "What do you call the people in your class with you? / Bạn gọi những người trong lớp cùng với bạn là gì?",
+        "options": [
+            "Classmates",
+            "Teachers",
+            "Friends",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "Spell the word for the action of being seated. / Đánh vần từ chỉ hành động ngồi.",
+        "options": [
+            "s-i-t",
+            "s-e-t",
+            "s-a-t",
+            "s-u-n"
+        ],
+        "correctAnswer": "s-i-t"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "Being noisy during a lesson is ____ behavior. / Gây ồn ào trong giờ học là hành vi ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "great"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you use to see the words in a book? / Bạn dùng gì để nhìn thấy các từ trong một cuốn sách?",
+        "options": [
+            "Your eyes",
+            "Your ears",
+            "Your hands",
+            "Your nose"
+        ],
+        "correctAnswer": "Your eyes"
+    },
+    {
+        "question": "Spell the word for the action of being on your feet. / Đánh vần từ chỉ hành động đứng trên đôi chân của bạn.",
+        "options": [
+            "s-t-a-n-d",
+            "s-a-n-d",
+            "h-a-n-d",
+            "l-a-n-d"
+        ],
+        "correctAnswer": "s-t-a-n-d"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ students in the classroom. / Có ____ học sinh trong lớp học.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call the main person in charge of a school? / Bạn gọi người chính phụ trách một trường học là gì?",
+        "options": [
+            "The principal",
+            "The teacher",
+            "The student",
+            "The librarian"
+        ],
+        "correctAnswer": "The principal"
+    },
+    {
+        "question": "Spell the word for the action of using your ears. / Đánh vần từ chỉ hành động sử dụng tai của bạn.",
+        "options": [
+            "l-i-s-t-e-n",
+            "l-o-o-k",
+            "t-a-l-k",
+            "s-p-e-a-k"
+        ],
+        "correctAnswer": "l-i-s-t-e-n"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ learning new things in my class. / Tôi ____ học những điều mới trong lớp của mình.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you do with a pencil sharpener? / Bạn làm gì với một cái gọt bút chì?",
+        "options": [
+            "Sharpen your pencil",
+            "Erase mistakes",
+            "Draw a line",
+            "Read a book"
+        ],
+        "correctAnswer": "Sharpen your pencil"
+    },
+    {
+        "question": "Spell the word for the action of using your eyes to see. / Đánh vần từ chỉ hành động dùng mắt để nhìn.",
+        "options": [
+            "l-o-o-k",
+            "s-e-e",
+            "w-a-t-c-h",
+            "v-i-e-w"
+        ],
+        "correctAnswer": "l-o-o-k"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You should ____ your homework to the teacher. / Bạn nên ____ bài tập về nhà cho giáo viên.",
+        "options": [
+            "give",
+            "take",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "What do you call the break between lessons? / Bạn gọi giờ nghỉ giữa các tiết học là gì?",
+        "options": [
+            "Break time",
+            "Class time",
+            "Lunch time",
+            "Play time"
+        ],
+        "correctAnswer": "Break time"
+    },
+    {
+        "question": "Spell the word for the action of not making noise. / Đánh vần từ chỉ hành động không gây ra tiếng ồn.",
+        "options": [
+            "q-u-i-e-t",
+            "l-o-u-d",
+            "n-o-i-s-y",
+            "s-i-l-e-n-t"
+        ],
+        "correctAnswer": "q-u-i-e-t"
     }
 ]
