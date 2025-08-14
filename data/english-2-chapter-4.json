@@ -1,483 +1,422 @@
 [
-  {
-    "question": "What is this? It's a large area of water. / Đây là gì? Nó là một vùng nước rộng lớn.",
-    "options": ["A river", "A mountain", "A field", "A flower"],
-    "correctAnswer": "A river"
-  },
-  {
-    "question": "This is a ____. It's very high. / Đây là một ____. Nó rất cao.",
-    "options": ["mountain", "river", "field", "tree"],
-    "correctAnswer": "mountain"
-  },
-  {
-    "question": "You can see many green plants here. / Bạn có thể thấy nhiều cây xanh ở đây.",
-    "options": ["A field", "A river", "A mountain", "A house"],
-    "correctAnswer": "A field"
-  },
-  {
-    "question": "This is a ____. It's beautiful and colourful. / Đây là một ____. Nó đẹp và nhiều màu sắc.",
-    "options": ["flower", "tree", "river", "mountain"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Spell the word: r-i-v-e-r / Đánh vần từ: r-i-v-e-r",
-    "options": ["river", "ruler", "rider", "razor"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "This is a ____. It's big and green. / Đây là một ____. Nó to và màu xanh.",
-    "options": ["tree", "flower", "river", "mountain"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "I can see a ____ in the field. It says 'moo'. / Tôi có thể thấy một ____ trên cánh đồng. Nó kêu 'moo'.",
-    "options": ["cow", "goat", "sheep", "horse"],
-    "correctAnswer": "cow"
-  },
-  {
-    "question": "Find the word: f-i-e-l-d / Tìm từ: f-i-e-l-d",
-    "options": ["field", "find", "fill", "friend"],
-    "correctAnswer": "field"
-  },
-  {
-    "question": "Is this a mountain? / Đây có phải là một ngọn núi không?",
-    "options": ["Yes, it is.", "No, it isn't.", "It is a river.", "I have a flower."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "This is a yellow ____. / Đây là một ____ màu vàng.",
-    "options": ["flower", "tree", "river", "mountain"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "What can you do in the countryside? / Bạn có thể làm gì ở nông thôn?",
-    "options": ["I can fly a kite.", "I can drive a car.", "I can cook.", "I can sleep."],
-    "correctAnswer": "I can fly a kite."
-  },
-  {
-    "question": "I like to ____ in the river. / Tôi thích ____ ở sông.",
-    "options": ["swim", "run", "jump", "walk"],
-    "correctAnswer": "swim"
-  },
-  {
-    "question": "What is the missing letter? tre_ / Chữ cái còn thiếu là gì? tre_",
-    "options": ["e", "a", "i", "o"],
-    "correctAnswer": "e"
-  },
-  {
-    "question": "This is the ____. It's quiet and beautiful. / Đây là ____. Nó yên tĩnh và đẹp.",
-    "options": ["countryside", "city", "town", "village"],
-    "correctAnswer": "countryside"
-  },
-  {
-    "question": "My family is in the ____. / Gia đình tôi đang ở ____.",
-    "options": ["countryside", "school", "supermarket", "hospital"],
-    "correctAnswer": "countryside"
-  },
-  {
-    "question": "Let's fly a ____. / Hãy thả một ____.",
-    "options": ["kite", "plane", "bird", "balloon"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Spell the word: k-i-t-e / Đánh vần từ: k-i-t-e",
-    "options": ["kite", "king", "kiss", "kitchen"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "Is this a big field? / Đây có phải là một cánh đồng lớn không?",
-    "options": ["Yes, it is.", "No, it is small.", "It is a river.", "I can see a cow."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I am walking in the ____. / Tôi đang đi bộ trong ____.",
-    "options": ["field", "river", "mountain", "house"],
-    "correctAnswer": "field"
-  },
-  {
-    "question": "What is the missing letter? _ow / Chữ cái còn thiếu là gì? _ow",
-    "options": ["c", "n", "h", "b"],
-    "correctAnswer": "c"
-  },
-  {
-    "question": "These are green ____. / Đây là những ____ màu xanh.",
-    "options": ["fields", "rivers", "mountains", "flowers"],
-    "correctAnswer": "fields"
-  },
-  {
-    "question": "How many mountains can you see? / Bạn có thể thấy bao nhiêu ngọn núi?",
-    "options": ["Two", "One", "Three", "Four"],
-    "correctAnswer": "Two"
-  },
-  {
-    "question": "This is a ____. It eats grass. / Đây là một ____. Nó ăn cỏ.",
-    "options": ["goat", "cow", "sheep", "horse"],
-    "correctAnswer": "goat"
-  },
-  {
-    "question": "Spell the word: f-l-o-w-e-r / Đánh vần từ: f-l-o-w-e-r",
-    "options": ["flower", "floor", "flour", "follow"],
-    "correctAnswer": "flower"
-  },
-  {
-    "question": "Is it a peaceful place? / Nó có phải là một nơi yên bình không?",
-    "options": ["Yes, it is.", "No, it is noisy.", "It is the countryside.", "I can see a river."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "We can see many ____ in the countryside. / Chúng ta có thể thấy nhiều ____ ở nông thôn.",
-    "options": ["animals", "cars", "buildings", "shops"],
-    "correctAnswer": "animals"
-  },
-  {
-    "question": "What is the missing letter? goa_",
-    "options": ["t", "d", "g", "p"],
-    "correctAnswer": "t"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A kite", "A plane", "A bird", "A balloon"],
-    "correctAnswer": "A kite"
-  },
-  {
-    "question": "This is a ____. I am flying it. / Đây là một ____. Tôi đang thả nó.",
-    "options": ["kite", "boat", "car", "bike"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "This is ____. It's fresh. / Đây là ____. Nó trong lành.",
-    "options": ["the air", "the water", "the food", "the milk"],
-    "correctAnswer": "the air"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A mountain", "A hill", "A valley", "A rock"],
-    "correctAnswer": "A mountain"
-  },
-  {
-    "question": "Find the word: t-r-e-e / Tìm từ: t-r-e-e",
-    "options": ["tree", "three", "free", "true"],
-    "correctAnswer": "tree"
-  },
-  {
-    "question": "Is it a long river? / Nó có phải là một con sông dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "I am at the countryside.", "I like rivers."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is colourful. / ____ của tôi nhiều màu sắc.",
-    "options": ["kite", "cow", "goat", "tree"],
-    "correctAnswer": "kite"
-  },
-  {
-    "question": "What is the missing letter? rive_",
-    "options": ["r", "n", "m", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "This is a lovely ____. / Đây là một ____ đáng yêu.",
-    "options": ["place", "book", "lesson", "game"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Spell the word: c-o-w / Đánh vần từ: c-o-w",
-    "options": ["cow", "now", "how", "bow"],
-    "correctAnswer": "cow"
-  },
-  {
-    "question": "Is this a white goat? / Đây có phải là một con dê trắng không?",
-    "options": ["Yes, it is.", "No, it is black.", "I can see a goat.", "I like goats."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The countryside has a big ____. / Nông thôn có một ____ lớn.",
-    "options": ["sky", "road", "building", "shop"],
-    "correctAnswer": "sky"
-  },
-  {
-    "question": "What is the missing letter? _ky / Chữ cái còn thiếu là gì? _ky",
-    "options": ["s", "f", "r", "m"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A field", "A garden", "A park", "A forest"],
-    "correctAnswer": "A field"
-  },
-  {
-    "question": "My ____ is green. / ____ của tôi màu xanh.",
-    "options": ["field", "sky", "sun", "flower"],
-    "correctAnswer": "field"
-  },
-  {
-    "question": "Is the mountain high? / Ngọn núi có cao không?",
-    "options": ["Yes, it is.", "No, it is low.", "It is a mountain.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "I can see a river and some ____. / Tôi có thể thấy một con sông và một vài ____.",
-    "options": ["trees", "houses", "cars", "books"],
-    "correctAnswer": "trees"
-  },
-  {
-    "question": "Find the word: g-o-a-t / Tìm từ: g-o-a-t",
-    "options": ["goat", "boat", "coat", "goal"],
-    "correctAnswer": "goat"
-  },
-  {
-    "question": "This is my ____. I can relax here. / Đây là ____ của tôi. Tôi có thể thư giãn ở đây.",
-    "options": ["village", "city", "town", "school"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "What is the missing letter? fiel_",
-    "options": ["d", "t", "p", "k"],
-    "correctAnswer": "d"
-  },
-  {
-    "question": "Is it a beautiful flower? / Nó có phải là một bông hoa đẹp không?",
-    "options": ["Yes, it is.", "No, it is ugly.", "I like flowers.", "Goodbye."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My ____ is fun. / ____ của tôi rất vui.",
-    "options": ["trip", "homework", "class", "test"],
-    "correctAnswer": "trip"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A farmhouse", "A school", "A hospital", "A shop"],
-    "correctAnswer": "A farmhouse"
-  },
-  {
-    "question": "How many cows can you see? / Bạn có thể thấy bao nhiêu con bò?",
-    "options": ["Three", "One", "Two", "Four"],
-    "correctAnswer": "Three"
-  },
-  {
-    "question": "A river flows to the ____. / Một con sông chảy ra ____.",
-    "options": ["sea", "mountain", "lake", "pond"],
-    "correctAnswer": "sea"
-  },
-  {
-    "question": "I see ____ sheep in the field. / Tôi thấy ____ con cừu trên cánh đồng.",
-    "options": ["a", "an", "many", "some"],
-    "correctAnswer": "some"
-  },
-  {
-    "question": "What colour is the sky? / Bầu trời màu gì?",
-    "options": ["Blue", "Green", "Red", "Yellow"],
-    "correctAnswer": "Blue"
-  },
-  {
-    "question": "What colour is the flower? / Bông hoa màu gì?",
-    "options": ["Red", "White", "Black", "Pink"],
-    "correctAnswer": "Red"
-  },
-  {
-    "question": "The mountain is ____. / Ngọn núi thì ____.",
-    "options": ["majestic", "small", "short", "thin"],
-    "correctAnswer": "majestic"
-  },
-  {
-    "question": "The air is ____. / Không khí thì ____.",
-    "options": ["fresh", "polluted", "sad", "bad"],
-    "correctAnswer": "fresh"
-  },
-  {
-    "question": "Is the river clean? / Con sông có sạch không?",
-    "options": ["Yes, it is.", "No, it is dirty.", "Yes", "No"],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My trip is ____. / Chuyến đi của tôi thì ____.",
-    "options": ["exciting", "noisy", "busy", "crowded"],
-    "correctAnswer": "exciting"
-  },
-  {
-    "question": "What is the missing letter? exciti_g / Chữ cái còn thiếu là gì? exciti_g",
-    "options": ["n", "t", "d", "k"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "This is a ____. / Đây là một ____.",
-    "options": ["river", "mountain", "field", "flower"],
-    "correctAnswer": "river"
-  },
-  {
-    "question": "I love the ____. / Tôi yêu ____.",
-    "options": ["countryside", "dog", "cat", "bird"],
-    "correctAnswer": "countryside"
-  },
-  {
-    "question": "Is the kite high in the sky? / Con diều có bay cao trên trời không?",
-    "options": ["Yes, it is.", "No, it is low.", "It is a kite.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Let's go to the ____. / Hãy đi đến ____.",
-    "options": ["countryside", "kitchen", "bedroom", "bathroom"],
-    "correctAnswer": "countryside"
-  },
-  {
-    "question": "Spell the word: v-i-l-l-a-g-e / Đánh vần từ: v-i-l-l-a-g-e",
-    "options": ["village", "villa", "vintage", "vinegar"],
-    "correctAnswer": "village"
-  },
-  {
-    "question": "I have ____ small house in the village. / Tôi có ____ ngôi nhà nhỏ trong làng.",
-    "options": ["a", "an", "one", "two"],
-    "correctAnswer": "a"
-  },
-  {
-    "question": "My favorite animal is the ____. / Con vật yêu thích của tôi là ____.",
-    "options": ["horse", "cow", "goat", "sheep"],
-    "correctAnswer": "horse"
-  },
-  {
-    "question": "What is the missing letter? hor_e / Chữ cái còn thiếu là gì? hor_e",
-    "options": ["s", "a", "i", "o"],
-    "correctAnswer": "s"
-  },
-  {
-    "question": "This is a ____. It gives us milk. / Đây là một ____. Nó cho chúng ta sữa.",
-    "options": ["cow", "goat", "sheep", "horse"],
-    "correctAnswer": "cow"
-  },
-  {
-    "question": "We should protect the ____. / Chúng ta nên bảo vệ ____.",
-    "options": ["nature", "fence", "bench", "swing"],
-    "correctAnswer": "nature"
-  },
-  {
-    "question": "Is it a wooden bridge? / Nó có phải là một cây cầu gỗ không?",
-    "options": ["Yes, it is.", "No, it is stone.", "I like bridges.", "The bridge is long."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "Spell the word: n-a-t-u-r-e / Đánh vần từ: n-a-t-u-r-e",
-    "options": ["nature", "natural", "mature", "future"],
-    "correctAnswer": "nature"
-  },
-  {
-    "question": "I help my grandpa in the ____. / Tôi giúp ông tôi ở ____.",
-    "options": ["field", "kitchen", "office", "car"],
-    "correctAnswer": "field"
-  },
-  {
-    "question": "The tree has many ____. / Cái cây có nhiều ____.",
-    "options": ["apples", "flowers", "leaves", "branches"],
-    "correctAnswer": "apples"
-  },
-  {
-    "question": "What is the missing letter? mou_tain / Chữ cái còn thiếu là gì? mou_tain",
-    "options": ["n", "p", "t", "d"],
-    "correctAnswer": "n"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A sheep", "A goat", "A cow", "A horse"],
-    "correctAnswer": "A sheep"
-  },
-  {
-    "question": "My ____ is full of green trees. / ____ của tôi đầy cây xanh.",
-    "options": ["countryside", "house", "room", "bag"],
-    "correctAnswer": "countryside"
-  },
-  {
-    "question": "Is it a red kite? / Nó có phải là một con diều màu đỏ không?",
-    "options": ["Yes, it is.", "No, it is blue.", "I see a kite.", "The kite is high."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "My sister likes to pick ____. / Chị tôi thích hái ____.",
-    "options": ["flowers", "trees", "grass", "leaves"],
-    "correctAnswer": "flowers"
-  },
-  {
-    "question": "Spell the word: s-h-e-e-p / Đánh vần từ: s-h-e-e-p",
-    "options": ["sheep", "ship", "shop", "sheet"],
-    "correctAnswer": "sheep"
-  },
-  {
-    "question": "This is a ____ day. / Đây là một ngày ____.",
-    "options": ["beautiful", "rainy", "cloudy", "windy"],
-    "correctAnswer": "beautiful"
-  },
-  {
-    "question": "What is the missing letter? _eautiful / Chữ cái còn thiếu là gì? _eautiful",
-    "options": ["b", "f", "r", "m"],
-    "correctAnswer": "b"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A cloud", "The sun", "The moon", "A star"],
-    "correctAnswer": "A cloud"
-  },
-  {
-    "question": "My brother is riding a ____. / Anh trai tôi đang cưỡi ____.",
-    "options": ["horse", "bike", "cow", "goat"],
-    "correctAnswer": "horse"
-  },
-  {
-    "question": "Are the flowers yellow? / Những bông hoa màu vàng phải không?",
-    "options": ["Yes, they are.", "No, they are red.", "They are flowers.", "I am happy."],
-    "correctAnswer": "Yes, they are."
-  },
-  {
-    "question": "My family is having a ____. / Gia đình tôi đang có một ____.",
-    "options": ["picnic", "party", "meeting", "class"],
-    "correctAnswer": "picnic"
-  },
-  {
-    "question": "Spell the word: p-i-c-n-i-c / Đánh vần từ: p-i-c-n-i-c",
-    "options": ["picnic", "pick", "picture", "clinic"],
-    "correctAnswer": "picnic"
-  },
-  {
-    "question": "I am ____ in the countryside. / Tôi ____ ở nông thôn.",
-    "options": ["happy", "sad", "bored", "angry"],
-    "correctAnswer": "happy"
-  },
-  {
-    "question": "What is the missing letter? flowe_",
-    "options": ["r", "s", "t", "p"],
-    "correctAnswer": "r"
-  },
-  {
-    "question": "What is this? / Đây là gì?",
-    "options": ["A scarecrow", "A farmer", "A tractor", "A barn"],
-    "correctAnswer": "A scarecrow"
-  },
-  {
-    "question": "My countryside is my favorite ____. / Nông thôn là ____ yêu thích của tôi.",
-    "options": ["place", "food", "colour", "toy"],
-    "correctAnswer": "place"
-  },
-  {
-    "question": "Is the grass long? / Cỏ có dài không?",
-    "options": ["Yes, it is.", "No, it is short.", "It is green grass.", "Hello."],
-    "correctAnswer": "Yes, it is."
-  },
-  {
-    "question": "The river has a ____ in it. / Con sông có một ____ trong đó.",
-    "options": ["fish", "cat", "dog", "ball"],
-    "correctAnswer": "fish"
-  },
-  {
-    "question": "Spell the word: f-a-r-m / Đánh vần từ: f-a-r-m",
-    "options": ["farm", "form", "from", "arm"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "We visit a ____ in the countryside. / Chúng tôi thăm một ____ ở nông thôn.",
-    "options": ["farm", "factory", "office", "library"],
-    "correctAnswer": "farm"
-  },
-  {
-    "question": "What is the missing letter? far_",
-    "options": ["m", "n", "p", "t"],
-    "correctAnswer": "m"
-  }
+    {
+        "question": "This is an area with fields, farms, and trees, not a city. What is it? / Đây là một khu vực có những cánh đồng, trang trại và cây cối, không phải thành phố. Nó là gì?",
+        "options": [
+            "The countryside",
+            "The seaside",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "The countryside"
+    },
+    {
+        "question": "This is a large area of land used for growing plants or keeping animals. What is it? / Đây là một khu đất rộng lớn dùng để trồng cây hoặc nuôi động vật. Nó là gì?",
+        "options": [
+            "A farm",
+            "A park",
+            "A garden",
+            "A backyard"
+        ],
+        "correctAnswer": "A farm"
+    },
+    {
+        "question": "A person who works on a farm is a ____. / Một người làm việc trên nông trại là một ____.",
+        "options": [
+            "farmer",
+            "teacher",
+            "doctor",
+            "driver"
+        ],
+        "correctAnswer": "farmer"
+    },
+    {
+        "question": "This is a large, open area of land with grass or crops. What is it? / Đây là một khu đất rộng, thoáng đãng có cỏ hoặc cây trồng. Nó là gì?",
+        "options": [
+            "A field",
+            "A river",
+            "A road",
+            "A house"
+        ],
+        "correctAnswer": "A field"
+    },
+    {
+        "question": "This is a long body of water that flows to the sea. What is it? / Đây là một dòng nước dài chảy ra biển. Nó là gì?",
+        "options": [
+            "A river",
+            "A pond",
+            "A lake",
+            "A pool"
+        ],
+        "correctAnswer": "A river"
+    },
+    {
+        "question": "This large farm animal says 'moo' and gives us milk. What is it? / Con vật nuôi lớn này kêu 'moo' và cho chúng ta sữa. Nó là gì?",
+        "options": [
+            "A cow",
+            "A sheep",
+            "A horse",
+            "A chicken"
+        ],
+        "correctAnswer": "A cow"
+    },
+    {
+        "question": "This farm animal is covered in wool and says 'baa'. What is it? / Con vật nuôi này được bao phủ bởi lông cừu và kêu 'baa'. Nó là gì?",
+        "options": [
+            "A sheep",
+            "A cow",
+            "A pig",
+            "A goat"
+        ],
+        "correctAnswer": "A sheep"
+    },
+    {
+        "question": "This is a large animal that people can ride. What is it? / Đây là một con vật lớn mà mọi người có thể cưỡi. Nó là gì?",
+        "options": [
+            "A horse",
+            "A sheep",
+            "A cow",
+            "A duck"
+        ],
+        "correctAnswer": "A horse"
+    },
+    {
+        "question": "This farm bird gives us eggs. What is it? / Loài gia cầm này cho chúng ta trứng. Nó là gì?",
+        "options": [
+            "A chicken",
+            "A duck",
+            "A goose",
+            "A turkey"
+        ],
+        "correctAnswer": "A chicken"
+    },
+    {
+        "question": "A farmer drives this vehicle in the fields. What is it? / Một người nông dân lái phương tiện này trên cánh đồng. Nó là gì?",
+        "options": [
+            "A tractor",
+            "A car",
+            "A bus",
+            "A bike"
+        ],
+        "correctAnswer": "A tractor"
+    },
+    {
+        "question": "What is the opposite of 'city'? / Từ trái nghĩa của 'city' là gì?",
+        "options": [
+            "Countryside",
+            "Village",
+            "Town",
+            "Street"
+        ],
+        "correctAnswer": "Countryside"
+    },
+    {
+        "question": "The air in the countryside is very ____. / Không khí ở nông thôn rất ____.",
+        "options": [
+            "fresh",
+            "dirty",
+            "loud",
+            "busy"
+        ],
+        "correctAnswer": "fresh"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "The countryside is often very ____ compared to the city. / Nông thôn thường rất ____ so với thành phố.",
+        "options": [
+            "quiet",
+            "noisy",
+            "crowded",
+            "busy"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What do you see growing in the fields? / Bạn thấy gì mọc trên những cánh đồng?",
+        "options": [
+            "Rice and vegetables",
+            "Houses and shops",
+            "Cars and buses",
+            "Boats and ships"
+        ],
+        "correctAnswer": "Rice and vegetables"
+    },
+    {
+        "question": "Spell the word for a place with farms and fields. / Đánh vần từ chỉ một nơi có các trang trại và cánh đồng.",
+        "options": [
+            "c-o-u-n-t-r-y-s-i-d-e",
+            "v-i-l-l-a-g-e",
+            "f-a-r-m",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "c-o-u-n-t-r-y-s-i-d-e"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A tractor moves ____ across the field. / Một chiếc máy kéo di chuyển ____ trên cánh đồng.",
+        "options": [
+            "slowly",
+            "fast",
+            "happily",
+            "sadly"
+        ],
+        "correctAnswer": "slowly"
+    },
+    {
+        "question": "What do you call a small group of houses in the countryside? / Bạn gọi một nhóm nhỏ các ngôi nhà ở nông thôn là gì?",
+        "options": [
+            "A village",
+            "A city",
+            "A town",
+            "A street"
+        ],
+        "correctAnswer": "A village"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The view in the countryside is very ____. / Khung cảnh ở nông thôn rất ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "noisy",
+            "small"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for the person who works on a farm. / Đánh vần từ chỉ người làm việc trên nông trại.",
+        "options": [
+            "f-a-r-m-e-r",
+            "t-e-a-c-h-e-r",
+            "d-o-c-t-o-r",
+            "d-r-i-v-e-r"
+        ],
+        "correctAnswer": "f-a-r-m-e-r"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Tall",
+            "Long",
+            "Happy"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A chicken is ____ than a cow. / Một con gà ____ hơn một con bò.",
+        "options": [
+            "smaller",
+            "bigger",
+            "taller",
+            "longer"
+        ],
+        "correctAnswer": "smaller"
+    },
+    {
+        "question": "What do you call the building where farm animals sleep? / Bạn gọi tòa nhà nơi các con vật nuôi ngủ là gì?",
+        "options": [
+            "A barn",
+            "A house",
+            "A school",
+            "A shop"
+        ],
+        "correctAnswer": "A barn"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ houses in a small village. / Có ____ ngôi nhà trong một ngôi làng nhỏ.",
+        "options": [
+            "few",
+            "many",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "few"
+    },
+    {
+        "question": "Spell the word for the large animal you can ride. / Đánh vần từ chỉ con vật lớn bạn có thể cưỡi.",
+        "options": [
+            "h-o-r-s-e",
+            "c-o-w",
+            "s-h-e-e-p",
+            "d-o-n-k-e-y"
+        ],
+        "correctAnswer": "h-o-r-s-e"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "A farmer's hands can get ____ from working. / Tay của người nông dân có thể bị ____ do làm việc.",
+        "options": [
+            "dirty",
+            "clean",
+            "new",
+            "happy"
+        ],
+        "correctAnswer": "dirty"
+    },
+    {
+        "question": "What do you call a baby sheep? / Bạn gọi một con cừu con là gì?",
+        "options": [
+            "A lamb",
+            "A calf",
+            "A foal",
+            "A chick"
+        ],
+        "correctAnswer": "A lamb"
+    },
+    {
+        "question": "Spell the word for the animal that gives us wool. / Đánh vần từ chỉ con vật cho chúng ta len.",
+        "options": [
+            "s-h-e-e-p",
+            "g-o-a-t",
+            "c-o-w",
+            "h-o-r-s-e"
+        ],
+        "correctAnswer": "s-h-e-e-p"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ the peaceful life in the countryside. / Tôi ____ cuộc sống yên bình ở nông thôn.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a baby cow? / Bạn gọi một con bò con là gì?",
+        "options": [
+            "A calf",
+            "A lamb",
+            "A foal",
+            "A piglet"
+        ],
+        "correctAnswer": "A calf"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "A farmer will ____ the vegetables to the market. / Người nông dân sẽ ____ rau ra chợ.",
+        "options": [
+            "take",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "Spell the word for the animal that gives us milk. / Đánh vần từ chỉ con vật cho chúng ta sữa.",
+        "options": [
+            "c-o-w",
+            "g-o-a-t",
+            "d-o-g",
+            "c-a-t"
+        ],
+        "correctAnswer": "c-o-w"
+    },
+    {
+        "question": "What is the opposite of 'start'? / Từ trái nghĩa của 'start' là gì?",
+        "options": [
+            "Finish",
+            "Begin",
+            "Go",
+            "End"
+        ],
+        "correctAnswer": "Finish"
+    },
+    {
+        "question": "A farmer must ____ his work early in the morning. / Một người nông dân phải ____ công việc của mình vào sáng sớm.",
+        "options": [
+            "start",
+            "finish",
+            "end",
+            "stop"
+        ],
+        "correctAnswer": "start"
+    },
+    {
+        "question": "What do you call a baby chicken? / Bạn gọi một con gà con là gì?",
+        "options": [
+            "A chick",
+            "A duckling",
+            "A gosling",
+            "A puppy"
+        ],
+        "correctAnswer": "A chick"
+    },
+    {
+        "question": "Spell the word for the bird that gives us eggs. / Đánh vần từ chỉ loài chim cho chúng ta trứng.",
+        "options": [
+            "c-h-i-c-k-e-n",
+            "d-u-c-k",
+            "g-o-o-s-e",
+            "t-u-r-k-e-y"
+        ],
+        "correctAnswer": "c-h-i-c-k-e-n"
+    }
 ]
-
