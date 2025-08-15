@@ -1,0 +1,382 @@
+[
+    {
+        "question": "This is a very large building with many different shops inside. What is it? / Đây là một tòa nhà rất lớn có nhiều cửa hàng khác nhau bên trong. Nó là gì?",
+        "options": [
+            "A shopping centre",
+            "A school",
+            "A hospital",
+            "A house"
+        ],
+        "correctAnswer": "A shopping centre"
+    },
+    {
+        "question": "You go to this shop to buy bread and cakes. What is it? / Bạn đến cửa hàng này để mua bánh mì và bánh ngọt. Nó là gì?",
+        "options": [
+            "A bakery",
+            "A bookshop",
+            "A pharmacy",
+            "A toy shop"
+        ],
+        "correctAnswer": "A bakery"
+    },
+    {
+        "question": "You go to this shop to buy storybooks and notebooks. What is it? / Bạn đến cửa hàng này để mua truyện và vở. Nó là gì?",
+        "options": [
+            "A bookshop",
+            "A clothes shop",
+            "A supermarket",
+            "A cinema"
+        ],
+        "correctAnswer": "A bookshop"
+    },
+    {
+        "question": "You go to this shop to buy T-shirts and trousers. What is it? / Bạn đến cửa hàng này để mua áo phông và quần dài. Nó là gì?",
+        "options": [
+            "A clothes shop",
+            "A bakery",
+            "A bookshop",
+            "A sweet shop"
+        ],
+        "correctAnswer": "A clothes shop"
+    },
+    {
+        "question": "This is a place in a shopping centre where you can eat. It has many small restaurants. What is it? / Đây là một nơi trong trung tâm mua sắm mà bạn có thể ăn. Nó có nhiều nhà hàng nhỏ. Nó là gì?",
+        "options": [
+            "A food court",
+            "A cinema",
+            "A playground",
+            "A library"
+        ],
+        "correctAnswer": "A food court"
+    },
+    {
+        "question": "This is a place where you can watch movies. What is it? / Đây là nơi bạn có thể xem phim. Nó là gì?",
+        "options": [
+            "A cinema",
+            "A theatre",
+            "A museum",
+            "A stadium"
+        ],
+        "correctAnswer": "A cinema"
+    },
+    {
+        "question": "To ask for the price of a book, you say: / Để hỏi giá của một cuốn sách, bạn nói:",
+        "options": [
+            "How much is the book?",
+            "Where is the book?",
+            "What colour is the book?",
+            "Do you have the book?"
+        ],
+        "correctAnswer": "How much is the book?"
+    },
+    {
+        "question": "To ask for the price of some shoes, you say: / Để hỏi giá của một đôi giày, bạn nói:",
+        "options": [
+            "How much are the shoes?",
+            "How much is the shoes?",
+            "Where are the shoes?",
+            "What size are the shoes?"
+        ],
+        "correctAnswer": "How much are the shoes?"
+    },
+    {
+        "question": "A correct answer to 'How much is the T-shirt?' is: / Một câu trả lời đúng cho 'How much is the T-shirt?' là:",
+        "options": [
+            "It's 50,000 dong.",
+            "They're 50,000 dong.",
+            "I like the T-shirt.",
+            "The T-shirt is blue."
+        ],
+        "correctAnswer": "It's 50,000 dong."
+    },
+    {
+        "question": "A correct answer to 'How much are the trousers?' is: / Một câu trả lời đúng cho 'How much are the trousers?' là:",
+        "options": [
+            "They're 100,000 dong.",
+            "It's 100,000 dong.",
+            "I want the trousers.",
+            "The trousers are long."
+        ],
+        "correctAnswer": "They're 100,000 dong."
+    },
+    {
+        "question": "What do you do at a shopping centre? / Bạn làm gì ở một trung tâm mua sắm?",
+        "options": [
+            "Go shopping",
+            "Go to school",
+            "Go to bed",
+            "Do homework"
+        ],
+        "correctAnswer": "Go shopping"
+    },
+    {
+        "question": "The currency of Vietnam is ____. / Đơn vị tiền tệ của Việt Nam là ____.",
+        "options": [
+            "dong",
+            "dollar",
+            "yen",
+            "euro"
+        ],
+        "correctAnswer": "dong"
+    },
+    {
+        "question": "What is the opposite of 'expensive'? / Từ trái nghĩa của 'expensive' là gì?",
+        "options": [
+            "Cheap",
+            "Free",
+            "Good",
+            "Nice"
+        ],
+        "correctAnswer": "Cheap"
+    },
+    {
+        "question": "A new pair of shoes can be ____. / Một đôi giày mới có thể ____.",
+        "options": [
+            "expensive",
+            "cheap",
+            "small",
+            "light"
+        ],
+        "correctAnswer": "expensive"
+    },
+    {
+        "question": "A small cake from the bakery is usually ____. / Một chiếc bánh nhỏ từ tiệm bánh thường ____.",
+        "options": [
+            "cheap",
+            "expensive",
+            "big",
+            "heavy"
+        ],
+        "correctAnswer": "cheap"
+    },
+    {
+        "question": "Spell the word for a place with many shops. / Đánh vần từ chỉ một nơi có nhiều cửa hàng.",
+        "options": [
+            "s-h-o-p-p-i-n-g c-e-n-t-r-e",
+            "s-u-p-e-r-m-a-r-k-e-t",
+            "m-a-r-k-e-t",
+            "s-t-o-r-e"
+        ],
+        "correctAnswer": "s-h-o-p-p-i-n-g c-e-n-t-r-e"
+    },
+    {
+        "question": "What is the opposite of 'buy'? / Từ trái nghĩa của 'buy' là gì?",
+        "options": [
+            "Sell",
+            "Give",
+            "Take",
+            "Want"
+        ],
+        "correctAnswer": "Sell"
+    },
+    {
+        "question": "A shopkeeper will ____ items to customers. / Một người bán hàng sẽ ____ các mặt hàng cho khách hàng.",
+        "options": [
+            "sell",
+            "buy",
+            "eat",
+            "read"
+        ],
+        "correctAnswer": "sell"
+    },
+    {
+        "question": "What do you call a person who is buying things? / Bạn gọi người đang mua đồ là gì?",
+        "options": [
+            "A customer",
+            "A shopkeeper",
+            "A teacher",
+            "A doctor"
+        ],
+        "correctAnswer": "A customer"
+    },
+    {
+        "question": "What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
+        "options": [
+            "Old",
+            "Young",
+            "Fresh",
+            "Modern"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "I want to buy a ____ book, not an old one. / Tôi muốn mua một cuốn sách ____, không phải một cuốn cũ.",
+        "options": [
+            "new",
+            "old",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "new"
+    },
+    {
+        "question": "Spell the word for a place where you buy bread. / Đánh vần từ chỉ nơi bạn mua bánh mì.",
+        "options": [
+            "b-a-k-e-r-y",
+            "l-i-b-r-a-r-y",
+            "f-a-c-t-o-r-y",
+            "g-a-l-l-e-r-y"
+        ],
+        "correctAnswer": "b-a-k-e-r-y"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Tall",
+            "Long"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A shopping centre is a very ____ place. / Một trung tâm mua sắm là một nơi rất ____.",
+        "options": [
+            "big",
+            "small",
+            "short",
+            "quiet"
+        ],
+        "correctAnswer": "big"
+    },
+    {
+        "question": "What do you call a shop that sells medicine? / Bạn gọi một cửa hàng bán thuốc là gì?",
+        "options": [
+            "A pharmacy",
+            "A bakery",
+            "A sweet shop",
+            "A toy shop"
+        ],
+        "correctAnswer": "A pharmacy"
+    },
+    {
+        "question": "Spell the word for a place where you buy books. / Đánh vần từ chỉ nơi bạn mua sách.",
+        "options": [
+            "b-o-o-k-s-h-o-p",
+            "l-i-b-r-a-r-y",
+            "s-c-h-o-o-l",
+            "c-l-a-s-s"
+        ],
+        "correctAnswer": "b-o-o-k-s-h-o-p"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ going shopping with my family. / Tôi ____ đi mua sắm với gia đình.",
+        "options": [
+            "love",
+            "hate",
+            "dislike",
+            "avoid"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a place where you can buy candy and chocolate? / Bạn gọi một nơi bạn có thể mua kẹo và sô cô la là gì?",
+        "options": [
+            "A sweet shop",
+            "A bakery",
+            "A pharmacy",
+            "A bookshop"
+        ],
+        "correctAnswer": "A sweet shop"
+    },
+    {
+        "question": "Spell the word for a place where you can eat. / Đánh vần từ chỉ một nơi bạn có thể ăn.",
+        "options": [
+            "f-o-o-d c-o-u-r-t",
+            "p-l-a-y-g-r-o-u-n-d",
+            "l-i-b-r-a-r-y",
+            "c-l-a-s-s-r-o-o-m"
+        ],
+        "correctAnswer": "f-o-o-d c-o-u-r-t"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "Spending too much money is a ____ habit. / Tiêu quá nhiều tiền là một thói quen ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a shop that sells toys? / Bạn gọi một cửa hàng bán đồ chơi là gì?",
+        "options": [
+            "A toy shop",
+            "A pet shop",
+            "A clothes shop",
+            "A bookshop"
+        ],
+        "correctAnswer": "A toy shop"
+    },
+    {
+        "question": "Spell the word for a place where you watch films. / Đánh vần từ chỉ nơi bạn xem phim.",
+        "options": [
+            "c-i-n-e-m-a",
+            "t-h-e-a-t-r-e",
+            "m-u-s-e-u-m",
+            "s-t-a-d-i-u-m"
+        ],
+        "correctAnswer": "c-i-n-e-m-a"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ when I buy a new toy. / Tôi cảm thấy ____ khi mua một món đồ chơi mới.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the money you get back after paying? / Bạn gọi số tiền bạn nhận lại sau khi thanh toán là gì?",
+        "options": [
+            "Change",
+            "Price",
+            "Cost",
+            "Bill"
+        ],
+        "correctAnswer": "Change"
+    },
+    {
+        "question": "Spell the word for the clothes you wear on your legs. / Đánh vần từ chỉ quần áo bạn mặc ở chân.",
+        "options": [
+            "t-r-o-u-s-e-r-s",
+            "s-h-i-r-t",
+            "d-r-e-s-s",
+            "s-k-i-r-t"
+        ],
+        "correctAnswer": "t-r-o-u-s-e-r-s"
+    }
+]
