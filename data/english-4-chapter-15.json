@@ -1,0 +1,383 @@
+[
+    {
+        "question": "These are the two days of the week when you usually don't go to school. What are they? / Đây là hai ngày trong tuần mà bạn thường không đến trường. Chúng là những ngày nào?",
+        "options": [
+            "The weekend",
+            "The weekday",
+            "A holiday",
+            "A month"
+        ],
+        "correctAnswer": "The weekend"
+    },
+    {
+        "question": "To ask about your friend's activities last weekend, you say: / Để hỏi về các hoạt động của bạn mình vào cuối tuần trước, bạn nói:",
+        "options": [
+            "What did you do last weekend?",
+            "What do you do on weekends?",
+            "Where are you from?",
+            "How old are you?"
+        ],
+        "correctAnswer": "What did you do last weekend?"
+    },
+    {
+        "question": "A correct answer to 'What did you do last weekend?' is: / Một câu trả lời đúng cho 'What did you do last weekend?' là:",
+        "options": [
+            "I visited my grandparents.",
+            "I have Maths on Monday.",
+            "I like weekends.",
+            "My name is Nam."
+        ],
+        "correctAnswer": "I visited my grandparents."
+    },
+    {
+        "question": "Your mother's and father's parents are your ____. / Cha mẹ của mẹ và cha bạn là ____ của bạn.",
+        "options": [
+            "grandparents",
+            "parents",
+            "cousins",
+            "friends"
+        ],
+        "correctAnswer": "grandparents"
+    },
+    {
+        "question": "This is an activity where you go to see your relatives. What is it? / Đây là một hoạt động mà bạn đi thăm họ hàng của mình. Nó là gì?",
+        "options": [
+            "Visit",
+            "Work",
+            "Study",
+            "Sleep"
+        ],
+        "correctAnswer": "Visit"
+    },
+    {
+        "question": "This is a place with many wild animals like lions and monkeys. What is it? / Đây là một nơi có nhiều loài động vật hoang dã như sư tử và khỉ. Nó là gì?",
+        "options": [
+            "The zoo",
+            "The farm",
+            "The school",
+            "The shop"
+        ],
+        "correctAnswer": "The zoo"
+    },
+    {
+        "question": "This is an activity where you move through water. What is it? / Đây là một hoạt động mà bạn di chuyển trong nước. Nó là gì?",
+        "options": [
+            "Go swimming",
+            "Go hiking",
+            "Go cycling",
+            "Go shopping"
+        ],
+        "correctAnswer": "Go swimming"
+    },
+    {
+        "question": "This is an activity where you help your parents with jobs at home. What is it? / Đây là một hoạt động mà bạn giúp đỡ cha mẹ làm việc nhà. Nó là gì?",
+        "options": [
+            "Help my parents",
+            "Do homework",
+            "Watch TV",
+            "Play games"
+        ],
+        "correctAnswer": "Help my parents"
+    },
+    {
+        "question": "This is an activity where you make your house tidy. What is it? / Đây là một hoạt động mà bạn làm cho ngôi nhà của mình gọn gàng. Nó là gì?",
+        "options": [
+            "Clean the house",
+            "Cook dinner",
+            "Go to school",
+            "Go to bed"
+        ],
+        "correctAnswer": "Clean the house"
+    },
+    {
+        "question": "This is a place where you buy food and other things. What is it? / Đây là một nơi bạn mua thực phẩm và những thứ khác. Nó là gì?",
+        "options": [
+            "A supermarket",
+            "A cinema",
+            "A library",
+            "A hospital"
+        ],
+        "correctAnswer": "A supermarket"
+    },
+    {
+        "question": "The past tense of 'visit' is ____. / Dạng quá khứ của 'visit' là ____.",
+        "options": [
+            "visited",
+            "visit",
+            "visiting",
+            "visits"
+        ],
+        "correctAnswer": "visited"
+    },
+    {
+        "question": "The past tense of 'go' is ____. / Dạng quá khứ của 'go' là ____.",
+        "options": [
+            "went",
+            "gone",
+            "goed",
+            "go"
+        ],
+        "correctAnswer": "went"
+    },
+    {
+        "question": "The past tense of 'help' is ____. / Dạng quá khứ của 'help' là gì?",
+        "options": [
+            "helped",
+            "help",
+            "helping",
+            "helps"
+        ],
+        "correctAnswer": "helped"
+    },
+    {
+        "question": "The past tense of 'clean' is ____. / Dạng quá khứ của 'clean' là gì?",
+        "options": [
+            "cleaned",
+            "clean",
+            "cleaning",
+            "cleans"
+        ],
+        "correctAnswer": "cleaned"
+    },
+    {
+        "question": "The past tense of 'watch' is ____. / Dạng quá khứ của 'watch' là gì?",
+        "options": [
+            "watched",
+            "watch",
+            "watching",
+            "watches"
+        ],
+        "correctAnswer": "watched"
+    },
+    {
+        "question": "I ____ my grandparents last Sunday. / Tôi ____ ông bà tôi vào Chủ nhật tuần trước.",
+        "options": [
+            "visited",
+            "visit",
+            "am visiting",
+            "will visit"
+        ],
+        "correctAnswer": "visited"
+    },
+    {
+        "question": "She ____ to the zoo yesterday. / Cô ấy ____ đến sở thú ngày hôm qua.",
+        "options": [
+            "went",
+            "go",
+            "goes",
+            "is going"
+        ],
+        "correctAnswer": "went"
+    },
+    {
+        "question": "He ____ his mother in the kitchen. / Cậu ấy ____ mẹ mình trong bếp.",
+        "options": [
+            "helped",
+            "help",
+            "helps",
+            "is helping"
+        ],
+        "correctAnswer": "helped"
+    },
+    {
+        "question": "They ____ the floor together. / Họ ____ sàn nhà cùng nhau.",
+        "options": [
+            "cleaned",
+            "clean",
+            "cleans",
+            "are cleaning"
+        ],
+        "correctAnswer": "cleaned"
+    },
+    {
+        "question": "We ____ a good film last night. / Chúng tôi ____ một bộ phim hay tối qua.",
+        "options": [
+            "watched",
+            "watch",
+            "watches",
+            "are watching"
+        ],
+        "correctAnswer": "watched"
+    },
+    {
+        "question": "To ask a question about the past, you start with '____ you...?' / Để đặt câu hỏi về quá khứ, bạn bắt đầu bằng '____ you...?'",
+        "options": [
+            "Did",
+            "Do",
+            "Are",
+            "Can"
+        ],
+        "correctAnswer": "Did"
+    },
+    {
+        "question": "____ you go to the supermarket yesterday? / ____ bạn đã đi siêu thị ngày hôm qua?",
+        "options": [
+            "Did",
+            "Do",
+            "Were",
+            "Have"
+        ],
+        "correctAnswer": "Did"
+    },
+    {
+        "question": "A correct positive answer to 'Did you clean the house?' is: / Một câu trả lời khẳng định đúng cho 'Did you clean the house?' là:",
+        "options": [
+            "Yes, I did.",
+            "Yes, I do.",
+            "No, I didn't.",
+            "I clean the house."
+        ],
+        "correctAnswer": "Yes, I did."
+    },
+    {
+        "question": "A correct negative answer to 'Did she visit her grandparents?' is: / Một câu trả lời phủ định đúng cho 'Did she visit her grandparents?' là:",
+        "options": [
+            "No, she didn't.",
+            "No, she doesn't.",
+            "Yes, she did.",
+            "She is visiting."
+        ],
+        "correctAnswer": "No, she didn't."
+    },
+    {
+        "question": "What is the opposite of 'weekend'? / Từ trái nghĩa của 'weekend' là gì?",
+        "options": [
+            "Weekday",
+            "Holiday",
+            "Month",
+            "Year"
+        ],
+        "correctAnswer": "Weekday"
+    },
+    {
+        "question": "Monday to Friday are ____. / Thứ Hai đến thứ Sáu là ____.",
+        "options": [
+            "weekdays",
+            "weekends",
+            "holidays",
+            "months"
+        ],
+        "correctAnswer": "weekdays"
+    },
+    {
+        "question": "What is the opposite of 'boring'? / Từ trái nghĩa của 'boring' là gì?",
+        "options": [
+            "Interesting",
+            "Fun",
+            "Exciting",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "My weekend was not boring, it was ____. / Cuối tuần của tôi không nhàm chán, nó ____.",
+        "options": [
+            "interesting",
+            "boring",
+
+            "sad",
+            "difficult"
+        ],
+        "correctAnswer": "interesting"
+    },
+    {
+        "question": "What do you call the things you do to help at home? / Bạn gọi những việc bạn làm để giúp đỡ ở nhà là gì?",
+        "options": [
+            "Chores",
+            "Homework",
+            "Games",
+            "Hobbies"
+        ],
+        "correctAnswer": "Chores"
+    },
+    {
+        "question": "Spell the word for your mother's and father's parents. / Đánh vần từ chỉ cha mẹ của mẹ và cha bạn.",
+        "options": [
+            "g-r-a-n-d-p-a-r-e-n-t-s",
+            "p-a-r-e-n-t-s",
+            "f-a-m-i-l-y",
+            "c-h-i-l-d-r-e-n"
+        ],
+        "correctAnswer": "g-r-a-n-d-p-a-r-e-n-t-s"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is a ____ idea to help your parents with chores. / Giúp đỡ bố mẹ làm việc nhà là một ý tưởng ____.",
+        "options": [
+            "good",
+            "bad",
+            "sad",
+            "wrong"
+        ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "What do you call a movie you watch at a cinema? / Bạn gọi một bộ phim bạn xem ở rạp là gì?",
+        "options": [
+            "A film",
+            "A book",
+            "A song",
+            "A play"
+        ],
+        "correctAnswer": "A film"
+    },
+    {
+        "question": "Spell the word for the action of going to see someone. / Đánh vần từ chỉ hành động đi thăm ai đó.",
+        "options": [
+            "v-i-s-i-t",
+            "m-e-e-t",
+            "s-e-e",
+            "g-o"
+        ],
+        "correctAnswer": "v-i-s-i-t"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ when I spend the weekend with my family. / Tôi cảm thấy ____ khi dành cuối tuần với gia đình.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the day before Sunday? / Bạn gọi ngày trước Chủ nhật là gì?",
+        "options": [
+            "Saturday",
+            "Monday",
+            "Friday",
+            "Tuesday"
+        ],
+        "correctAnswer": "Saturday"
+    },
+    {
+        "question": "Spell the word for the place with many wild animals. / Đánh vần từ chỉ nơi có nhiều động vật hoang dã.",
+        "options": [
+            "z-o-o",
+            "f-a-r-m",
+            "p-a-r-k",
+            "c-i-t-y"
+        ],
+        "correctAnswer": "z-o-o"
+    }
+]
