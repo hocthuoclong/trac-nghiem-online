@@ -1,1 +1,752 @@
-
+[
+    {
+        "question": "Unit 11: This is the room where you sleep in a bed. What is it? / Đây là căn phòng nơi bạn ngủ trên giường. Nó là gì?",
+        "options": [ "A bedroom", "A kitchen", "A garden", "A dining room" ],
+        "correctAnswer": "A bedroom"
+    },
+    {
+        "question": "Unit 11: This is the room where you cook food. What is it? / Đây là căn phòng nơi bạn nấu thức ăn. Nó là gì?",
+        "options": [ "A kitchen", "A living room", "A bedroom", "A bathroom" ],
+        "correctAnswer": "A kitchen"
+    },
+    {
+        "question": "Unit 11: This is the room where you watch TV on a sofa. What is it? / Đây là căn phòng nơi bạn xem TV trên ghế sofa. Nó là gì?",
+        "options": [ "A living room", "A bathroom", "A kitchen", "A garage" ],
+        "correctAnswer": "A living room"
+    },
+    {
+        "question": "Unit 11: This is the room where you wash your hands and take a shower. What is it? / Đây là căn phòng nơi bạn rửa tay và tắm vòi sen. Nó là gì?",
+        "options": [ "A bathroom", "The dining room", "The living room", "The kitchen" ],
+        "correctAnswer": "A bathroom"
+    },
+    {
+        "question": "Unit 11: You put your clothes in this. What is it? / Bạn để quần áo của mình trong cái này. Nó là gì?",
+        "options": [ "A wardrobe", "A fridge", "A desk", "An oven" ],
+        "correctAnswer": "A wardrobe"
+    },
+    {
+        "question": "Unit 11: You put your books on this. What is it? / Bạn đặt sách của mình lên đây. Nó là gì?",
+        "options": [ "A bookshelf", "A bed", "A chair", "A lamp" ],
+        "correctAnswer": "A bookshelf"
+    },
+    {
+        "question": "Unit 11: The cat is sleeping ____ the table. / Con mèo đang ngủ ____ cái bàn.",
+        "options": [ "under", "on", "in", "next to" ],
+        "correctAnswer": "under"
+    },
+    {
+        "question": "Unit 11: The books are ____ the bookshelf. / Những cuốn sách ở ____ giá sách.",
+        "options": [ "on", "under", "behind", "in front of" ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "Unit 11: The chair is ____ the desk. / Cái ghế ở ____ cái bàn.",
+        "options": [ "near", "on", "in", "under" ],
+        "correctAnswer": "near"
+    },
+    {
+        "question": "Unit 11: The picture is hanging ____ the wall. / Bức tranh đang treo ____ tường.",
+        "options": [ "on", "in", "under", "behind" ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "Unit 11: He is hiding ____ the door. / Cậu ấy đang trốn ____ cánh cửa.",
+        "options": [ "behind", "in front of", "on", "under" ],
+        "correctAnswer": "behind"
+    },
+    {
+        "question": "Unit 11: The TV is ____ the sofa. / TV ở ____ ghế sofa.",
+        "options": [ "in front of", "behind", "under", "on" ],
+        "correctAnswer": "in front of"
+    },
+    {
+        "question": "Unit 11: The lamp is ____ the bed. / Cái đèn ở ____ giường.",
+        "options": [ "next to", "in", "on", "under" ],
+        "correctAnswer": "next to"
+    },
+    {
+        "question": "Unit 11: My bedroom is ____, but the living room is big. / Phòng ngủ của tôi ____, nhưng phòng khách thì lớn.",
+        "options": [ "small", "big", "long", "tall" ],
+        "correctAnswer": "small"
+    },
+    {
+        "question": "Unit 11: What do you call a home in a tall building? / Bạn gọi một ngôi nhà trong một tòa nhà cao tầng là gì?",
+        "options": [ "An apartment", "A house", "A cottage", "A villa" ],
+        "correctAnswer": "An apartment"
+    },
+    {
+        "question": "Unit 12: This person helps you when you are sick. Who is this? / Người này giúp bạn khi bạn bị ốm. Đây là ai?",
+        "options": [ "A doctor", "A teacher", "A farmer", "A driver" ],
+        "correctAnswer": "A doctor"
+    },
+    {
+        "question": "Unit 12: This person teaches students in a school. Who is this? / Người này dạy học sinh trong một trường học. Đây là ai?",
+        "options": [ "A teacher", "A doctor", "A farmer", "A pilot" ],
+        "correctAnswer": "A teacher"
+    },
+    {
+        "question": "Unit 12: This person grows food on a farm. Who is this? / Người này trồng lương thực trên một nông trại. Đây là ai?",
+        "options": [ "A farmer", "A driver", "A singer", "A teacher" ],
+        "correctAnswer": "A farmer"
+    },
+    {
+        "question": "Unit 12: This person works in a factory. Who is this? / Người này làm việc trong một nhà máy. Đây là ai?",
+        "options": [ "A worker", "A farmer", "A doctor", "A teacher" ],
+        "correctAnswer": "A worker"
+    },
+    {
+        "question": "Unit 12: This person drives a car or a bus. Who is this? / Người này lái xe ô tô hoặc xe buýt. Đây là ai?",
+        "options": [ "A driver", "A farmer", "A doctor", "A nurse" ],
+        "correctAnswer": "A driver"
+    },
+    {
+        "question": "Unit 12: This person helps a doctor in a hospital. Who is this? / Người này giúp bác sĩ trong bệnh viện. Đây là ai?",
+        "options": [ "A nurse", "A teacher", "A singer", "A worker" ],
+        "correctAnswer": "A nurse"
+    },
+    {
+        "question": "Unit 12: This person puts out fires. Who is this? / Người này dập tắt các đám cháy. Đây là ai?",
+        "options": [ "A firefighter", "A policeman", "A singer", "A driver" ],
+        "correctAnswer": "A firefighter"
+    },
+    {
+        "question": "Unit 12: This person sings songs for a living. Who is this? / Người này hát các bài hát để kiếm sống. Đây là ai?",
+        "options": [ "A singer", "A dancer", "A teacher", "A doctor" ],
+        "correctAnswer": "A singer"
+    },
+    {
+        "question": "Unit 12: Where does a doctor usually work? / Một bác sĩ thường làm việc ở đâu?",
+        "options": [ "In a hospital", "In a school", "On a farm", "In a factory" ],
+        "correctAnswer": "In a hospital"
+    },
+    {
+        "question": "Unit 12: Where does a teacher usually work? / Một giáo viên thường làm việc ở đâu?",
+        "options": [ "In a school", "In a hospital", "On a farm", "On the road" ],
+        "correctAnswer": "In a school"
+    },
+    {
+        "question": "Unit 12: Where does a farmer usually work? / Một người nông dân thường làm việc ở đâu?",
+        "options": [ "On a farm", "In a hospital", "In a school", "In a shop" ],
+        "correctAnswer": "On a farm"
+    },
+    {
+        "question": "Unit 12: To ask about your father's job, you say: 'What does your father ____?' / Để hỏi về công việc của cha bạn, bạn nói: 'What does your father ____?'",
+        "options": [ "do", "is", "have", "like" ],
+        "correctAnswer": "do"
+    },
+    {
+        "question": "Unit 12: A firefighter's job can be very ____. / Công việc của một lính cứu hỏa có thể rất ____.",
+        "options": [ "dangerous", "safe", "easy", "boring" ],
+        "correctAnswer": "dangerous"
+    },
+    {
+        "question": "Unit 12: Being a doctor is a ____ job. / Làm bác sĩ là một công việc ____.",
+        "options": [ "difficult", "easy", "bad", "small" ],
+        "correctAnswer": "difficult"
+    },
+    {
+        "question": "Unit 12: What do you call a person who flies an airplane? / Bạn gọi một người lái máy bay là gì?",
+        "options": [ "A pilot", "A driver", "A captain", "A sailor" ],
+        "correctAnswer": "A pilot"
+    },
+    {
+        "question": "Unit 13: To ask about how someone looks, you say: / Để hỏi về ngoại hình của ai đó, bạn nói:",
+        "options": [ "What does he/she look like?", "What is his/her name?", "How old is he/she?", "Where is he/she from?" ],
+        "correctAnswer": "What does he/she look like?"
+    },
+    {
+        "question": "Unit 13: A correct answer to 'What does she look like?' is: / Một câu trả lời đúng cho 'What does she look like?' là:",
+        "options": [ "She's tall.", "She's a doctor.", "She's nine years old.", "She's from England." ],
+        "correctAnswer": "She's tall."
+    },
+    {
+        "question": "Unit 13: A person who is not short is ____. / Một người không thấp thì ____.",
+        "options": [ "tall", "small", "young", "old" ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "Unit 13: A person who is not tall is ____. / Một người không cao thì ____.",
+        "options": [ "short", "big", "long", "fat" ],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "Unit 13: A person who is not fat is ____. / Một người không béo thì ____.",
+        "options": [ "slim", "big", "tall", "old" ],
+        "correctAnswer": "slim"
+    },
+    {
+        "question": "Unit 13: A person who is not young is ____. / Một người không trẻ thì ____.",
+        "options": [ "old", "new", "small", "short" ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "Unit 13: A person who is not old is ____. / Một người không già thì ____.",
+        "options": [ "young", "big", "tall", "happy" ],
+        "correctAnswer": "young"
+    },
+    {
+        "question": "Unit 13: A correct negative answer to 'Is he old?' is: / Một câu trả lời phủ định đúng cho 'Is he old?' là:",
+        "options": [ "No, he isn't.", "No, he doesn't.", "Yes, he is.", "He is a man." ],
+        "correctAnswer": "No, he isn't."
+    },
+    {
+        "question": "Unit 13: My father is very ____. He can reach the top shelf. / Bố tôi rất ____. Ông ấy có thể với tới kệ trên cùng.",
+        "options": [ "tall", "short", "slim", "young" ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "Unit 13: My grandfather has white hair because he is ____. / Ông tôi có mái tóc bạc vì ông đã ____.",
+        "options": [ "old", "young", "short", "slim" ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "Unit 13: What is the opposite of 'fat'? / Từ trái nghĩa của 'fat' là gì?",
+        "options": [ "Slim", "Big", "Tall", "Short" ],
+        "correctAnswer": "Slim"
+    },
+    {
+        "question": "Unit 13: What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [ "Weak", "Hard", "Big", "Heavy" ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "Unit 13: A weightlifter is very ____. / Một vận động viên cử tạ rất ____.",
+        "options": [ "strong", "weak", "slim", "short" ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "Unit 13: What do you call a man who is good-looking? / Bạn gọi một người đàn ông ưa nhìn là gì?",
+        "options": [ "Handsome", "Beautiful", "Pretty", "Ugly" ],
+        "correctAnswer": "Handsome"
+    },
+    {
+        "question": "Unit 13: What do you call a woman who is good-looking? / Bạn gọi một người phụ nữ ưa nhìn là gì?",
+        "options": [ "Beautiful", "Handsome", "Strong", "Old" ],
+        "correctAnswer": "Beautiful"
+    },
+    {
+        "question": "Unit 14: This is the first thing you do when you wake up. What is it? / Đây là việc đầu tiên bạn làm khi thức dậy. Nó là gì?",
+        "options": [ "Get up", "Go to bed", "Have dinner", "Go home" ],
+        "correctAnswer": "Get up"
+    },
+    {
+        "question": "Unit 14: You do this to keep your teeth clean. What is it? / Bạn làm điều này để giữ cho răng sạch. Nó là gì?",
+        "options": [ "Brush your teeth", "Wash your face", "Comb your hair", "Take a shower" ],
+        "correctAnswer": "Brush your teeth"
+    },
+    {
+        "question": "Unit 14: This is the first meal of the day. What is it? / Đây là bữa ăn đầu tiên trong ngày. Nó là gì?",
+        "options": [ "Have breakfast", "Have lunch", "Have dinner", "Have a snack" ],
+        "correctAnswer": "Have breakfast"
+    },
+    {
+        "question": "Unit 14: After breakfast, you leave home to go to your lessons. What is this action? / Sau bữa sáng, bạn rời nhà để đến các tiết học. Hành động này là gì?",
+        "options": [ "Go to school", "Go home", "Go to bed", "Go to the park" ],
+        "correctAnswer": "Go to school"
+    },
+    {
+        "question": "Unit 14: This is the meal you eat in the middle of the day. What is it? / Đây là bữa ăn bạn ăn vào giữa ngày. Nó là gì?",
+        "options": [ "Have lunch", "Have breakfast", "Have dinner", "Have a party" ],
+        "correctAnswer": "Have lunch"
+    },
+    {
+        "question": "Unit 14: After school, you return to your house. What is this action? / Sau khi tan học, bạn trở về nhà của mình. Hành động này là gì?",
+        "options": [ "Go home", "Go to school", "Get up", "Go to bed" ],
+        "correctAnswer": "Go home"
+    },
+    {
+        "question": "Unit 14: This is the work your teacher gives you to do at home. What is it? / Đây là công việc mà giáo viên giao cho bạn làm ở nhà. Nó là gì?",
+        "options": [ "Do homework", "Play games", "Watch TV", "Cook dinner" ],
+        "correctAnswer": "Do homework"
+    },
+    {
+        "question": "Unit 14: This is the meal you eat in the evening. What is it? / Đây là bữa ăn bạn ăn vào buổi tối. Nó là gì?",
+        "options": [ "Have dinner", "Have breakfast", "Have lunch", "Have a picnic" ],
+        "correctAnswer": "Have dinner"
+    },
+    {
+        "question": "Unit 14: You do this to relax by looking at a screen. What is it? / Bạn làm điều này để thư giãn bằng cách nhìn vào một màn hình. Nó là gì?",
+        "options": [ "Watch TV", "Read a book", "Listen to music", "Do homework" ],
+        "correctAnswer": "Watch TV"
+    },
+    {
+        "question": "Unit 14: This is the last thing you do at night. What is it? / Đây là việc cuối cùng bạn làm vào ban đêm. Nó là gì?",
+        "options": [ "Go to bed", "Get up", "Go to school", "Go home" ],
+        "correctAnswer": "Go to bed"
+    },
+    {
+        "question": "Unit 14: The word 'always' means you do something ____. / Từ 'always' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [ "every day", "never", "sometimes", "one time" ],
+        "correctAnswer": "every day"
+    },
+    {
+        "question": "Unit 14: The word 'usually' means you do something ____. / Từ 'usually' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [ "most of the time", "never", "always", "rarely" ],
+        "correctAnswer": "most of the time"
+    },
+    {
+        "question": "Unit 14: The word 'sometimes' means you do something ____. / Từ 'sometimes' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [ "not always, but not never", "every day", "never", "all the time" ],
+        "correctAnswer": "not always, but not never"
+    },
+    {
+        "question": "Unit 14: The word 'never' means you do something ____. / Từ 'never' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [ "at no time", "always", "sometimes", "usually" ],
+        "correctAnswer": "at no time"
+    },
+    {
+        "question": "Unit 14: I ____ brush my teeth in the morning. / Tôi ____ đánh răng vào buổi sáng.",
+        "options": [ "always", "never", "sometimes", "am" ],
+        "correctAnswer": "always"
+    },
+    {
+        "question": "Unit 15: These are the two days when you don't go to school. What are they? / Đây là hai ngày bạn không đến trường. Chúng là những ngày nào?",
+        "options": [ "The weekend", "The weekday", "A holiday", "A month" ],
+        "correctAnswer": "The weekend"
+    },
+    {
+        "question": "Unit 15: To ask about last weekend's activities, you say: / Để hỏi về các hoạt động cuối tuần trước, bạn nói:",
+        "options": [ "What did you do last weekend?", "What do you do on weekends?", "Where are you from?", "How old are you?" ],
+        "correctAnswer": "What did you do last weekend?"
+    },
+    {
+        "question": "Unit 15: A correct answer to 'What did you do last weekend?' is: / Một câu trả lời đúng cho 'What did you do last weekend?' là:",
+        "options": [ "I visited my grandparents.", "I have Maths on Monday.", "I like weekends.", "My name is Nam." ],
+        "correctAnswer": "I visited my grandparents."
+    },
+    {
+        "question": "Unit 15: Your mother's and father's parents are your ____. / Cha mẹ của mẹ và cha bạn là ____ của bạn.",
+        "options": [ "grandparents", "parents", "cousins", "friends" ],
+        "correctAnswer": "grandparents"
+    },
+    {
+        "question": "Unit 15: This is an activity where you go to see your relatives. What is it? / Đây là một hoạt động mà bạn đi thăm họ hàng của mình. Nó là gì?",
+        "options": [ "Visit", "Work", "Study", "Sleep" ],
+        "correctAnswer": "Visit"
+    },
+    {
+        "question": "Unit 15: This is a place with many wild animals. What is it? / Đây là một nơi có nhiều loài động vật hoang dã. Nó là gì?",
+        "options": [ "The zoo", "The farm", "The school", "The shop" ],
+        "correctAnswer": "The zoo"
+    },
+    {
+        "question": "Unit 15: This is an activity where you move through water. What is it? / Đây là một hoạt động mà bạn di chuyển trong nước. Nó là gì?",
+        "options": [ "Go swimming", "Go hiking", "Go cycling", "Go shopping" ],
+        "correctAnswer": "Go swimming"
+    },
+    {
+        "question": "Unit 15: This is an activity where you help your parents at home. What is it? / Đây là một hoạt động mà bạn giúp đỡ cha mẹ ở nhà. Nó là gì?",
+        "options": [ "Help my parents", "Do homework", "Watch TV", "Play games" ],
+        "correctAnswer": "Help my parents"
+    },
+    {
+        "question": "Unit 15: This is an activity where you make your house tidy. What is it? / Đây là một hoạt động mà bạn làm cho ngôi nhà của mình gọn gàng. Nó là gì?",
+        "options": [ "Clean the house", "Cook dinner", "Go to school", "Go to bed" ],
+        "correctAnswer": "Clean the house"
+    },
+    {
+        "question": "Unit 15: The past tense of 'visit' is ____. / Dạng quá khứ của 'visit' là ____.",
+        "options": [ "visited", "visit", "visiting", "visits" ],
+        "correctAnswer": "visited"
+    },
+    {
+        "question": "Unit 15: The past tense of 'go' is ____. / Dạng quá khứ của 'go' là ____.",
+        "options": [ "went", "gone", "goed", "go" ],
+        "correctAnswer": "went"
+    },
+    {
+        "question": "Unit 15: The past tense of 'help' is ____. / Dạng quá khứ của 'help' là gì?",
+        "options": [ "helped", "help", "helping", "helps" ],
+        "correctAnswer": "helped"
+    },
+    {
+        "question": "Unit 15: The past tense of 'clean' is ____. / Dạng quá khứ của 'clean' là gì?",
+        "options": [ "cleaned", "clean", "cleaning", "cleans" ],
+        "correctAnswer": "cleaned"
+    },
+    {
+        "question": "Unit 15: The past tense of 'watch' is ____. / Dạng quá khứ của 'watch' là gì?",
+        "options": [ "watched", "watch", "watching", "watches" ],
+        "correctAnswer": "watched"
+    },
+    {
+        "question": "Unit 15: I ____ my grandparents last Sunday. / Tôi ____ ông bà tôi vào Chủ nhật tuần trước.",
+        "options": [ "visited", "visit", "am visiting", "will visit" ],
+        "correctAnswer": "visited"
+    },
+    {
+        "question": "Unit 16: To ask about the weather, you say: / Để hỏi về thời tiết, bạn nói:",
+        "options": [ "What's the weather like today?", "What time is it?", "What is your name?", "How old are you?" ],
+        "correctAnswer": "What's the weather like today?"
+    },
+    {
+        "question": "Unit 16: When the sun is shining, the weather is ____. / Khi mặt trời chiếu sáng, thời tiết ____.",
+        "options": [ "sunny", "rainy", "cloudy", "snowy" ],
+        "correctAnswer": "sunny"
+    },
+    {
+        "question": "Unit 16: When water is falling from the sky, the weather is ____. / Khi nước rơi từ trên trời xuống, thời tiết ____.",
+        "options": [ "rainy", "sunny", "windy", "cloudy" ],
+        "correctAnswer": "rainy"
+    },
+    {
+        "question": "Unit 16: When the wind is blowing hard, the weather is ____. / Khi gió thổi mạnh, thời tiết ____.",
+        "options": [ "windy", "sunny", "rainy", "calm" ],
+        "correctAnswer": "windy"
+    },
+    {
+        "question": "Unit 16: When white flakes fall from the sky, the weather is ____. / Khi những bông tuyết trắng rơi từ trên trời xuống, thời tiết ____.",
+        "options": [ "snowy", "sunny", "hot", "rainy" ],
+        "correctAnswer": "snowy"
+    },
+    {
+        "question": "Unit 16: When there are many clouds, the weather is ____. / Khi có nhiều mây, thời tiết ____.",
+        "options": [ "cloudy", "sunny", "stormy", "clear" ],
+        "correctAnswer": "cloudy"
+    },
+    {
+        "question": "Unit 16: When there is thunder and lightning, the weather is ____. / Khi có sấm và chớp, thời tiết ____.",
+        "options": [ "stormy", "sunny", "calm", "cloudy" ],
+        "correctAnswer": "stormy"
+    },
+    {
+        "question": "Unit 16: In summer, the weather is usually ____. / Vào mùa hè, thời tiết thường ____.",
+        "options": [ "hot", "cold", "snowy", "freezing" ],
+        "correctAnswer": "hot"
+    },
+    {
+        "question": "Unit 16: In winter, the weather is usually ____. / Vào mùa đông, thời tiết thường ____.",
+        "options": [ "cold", "hot", "sunny", "warm" ],
+        "correctAnswer": "cold"
+    },
+    {
+        "question": "Unit 16: What can you do on a windy day? / Bạn có thể làm gì vào một ngày có gió?",
+        "options": [ "Fly a kite", "Go swimming", "Build a snowman", "Sunbathe" ],
+        "correctAnswer": "Fly a kite"
+    },
+    {
+        "question": "Unit 16: What can you do on a hot and sunny day? / Bạn có thể làm gì vào một ngày nóng và nắng?",
+        "options": [ "Go swimming", "Make a snowman", "Wear a coat", "Stay inside" ],
+        "correctAnswer": "Go swimming"
+    },
+    {
+        "question": "Unit 16: What can you do on a snowy day? / Bạn có thể làm gì vào một ngày có tuyết?",
+        "options": [ "Make a snowman", "Fly a kite", "Go to the beach", "Wear shorts" ],
+        "correctAnswer": "Make a snowman"
+    },
+    {
+        "question": "Unit 16: What should you take on a rainy day? / Bạn nên mang theo gì vào một ngày mưa?",
+        "options": [ "An umbrella", "Sunglasses", "A kite", "A swimsuit" ],
+        "correctAnswer": "An umbrella"
+    },
+    {
+        "question": "Unit 16: What should you wear on a cold day? / Bạn nên mặc gì vào một ngày lạnh?",
+        "options": [ "A coat and gloves", "A T-shirt and shorts", "A swimsuit", "A dress" ],
+        "correctAnswer": "A coat and gloves"
+    },
+    {
+        "question": "Unit 16: The four parts of the year with different weather are the ____. / Bốn phần của năm với thời tiết khác nhau là ____.",
+        "options": [ "seasons", "months", "weeks", "days" ],
+        "correctAnswer": "seasons"
+    },
+    {
+        "question": "Unit 17: A large place with many houses and busy roads is a ____. / Một nơi rộng lớn có nhiều nhà cửa và những con đường đông đúc là một ____.",
+        "options": [ "city", "village", "farm", "forest" ],
+        "correctAnswer": "city"
+    },
+    {
+        "question": "Unit 17: A place where you watch new movies is a ____. / Một nơi bạn xem những bộ phim mới là một ____.",
+        "options": [ "cinema", "library", "school", "hospital" ],
+        "correctAnswer": "cinema"
+    },
+    {
+        "question": "Unit 17: A large shop where you buy food is a ____. / Một cửa hàng lớn nơi bạn mua thực phẩm là một ____.",
+        "options": [ "supermarket", "pharmacy", "bookshop", "post office" ],
+        "correctAnswer": "supermarket"
+    },
+    {
+        "question": "Unit 17: You go to this place to buy medicine. What is it? / Bạn đến nơi này để mua thuốc. Nó là gì?",
+        "options": [ "A pharmacy", "A bakery", "A sweet shop", "A toy shop" ],
+        "correctAnswer": "A pharmacy"
+    },
+    {
+        "question": "Unit 17: You go to this place to send letters. What is it? / Bạn đến nơi này để gửi thư. Nó là gì?",
+        "options": [ "A post office", "A bank", "A museum", "A theatre" ],
+        "correctAnswer": "A post office"
+    },
+    {
+        "question": "Unit 17: To ask for directions, you say: 'Excuse me, where is the ____?' / Để hỏi đường, bạn nói: 'Excuse me, where is the ____?'",
+        "options": [ "supermarket", "name", "time", "weather" ],
+        "correctAnswer": "supermarket"
+    },
+    {
+        "question": "Unit 17: To tell someone to go forward, you say: / Để bảo ai đó đi thẳng về phía trước, bạn nói:",
+        "options": [ "Go straight on.", "Turn left.", "Turn right.", "Stop here." ],
+        "correctAnswer": "Go straight on."
+    },
+    {
+        "question": "Unit 17: To tell someone to go to the left side, you say: / Để bảo ai đó đi về phía bên trái, bạn nói:",
+        "options": [ "Turn left.", "Turn right.", "Go straight on.", "Go back." ],
+        "correctAnswer": "Turn left."
+    },
+    {
+        "question": "Unit 17: To tell someone to go to the right side, you say: / Để bảo ai đó đi về phía bên phải, bạn nói:",
+        "options": [ "Turn right.", "Turn left.", "Go up.", "Go down." ],
+        "correctAnswer": "Turn right."
+    },
+    {
+        "question": "Unit 17: A city is often ____ than a village. / Một thành phố thường ____ hơn một ngôi làng.",
+        "options": [ "noisier and bigger", "quieter and smaller", "cleaner", "slower" ],
+        "correctAnswer": "noisier and bigger"
+    },
+    {
+        "question": "Unit 17: What do you call a place where you can see historical objects? / Bạn gọi một nơi bạn có thể xem các đồ vật lịch sử là gì?",
+        "options": [ "A museum", "A theatre", "A cinema", "A stadium" ],
+        "correctAnswer": "A museum"
+    },
+    {
+        "question": "Unit 17: What do you call a place where you can see a play? / Bạn gọi một nơi bạn có thể xem một vở kịch là gì?",
+        "options": [ "A theatre", "A cinema", "A museum", "A gallery" ],
+        "correctAnswer": "A theatre"
+    },
+    {
+        "question": "Unit 17: What do you call a place where you can buy bread? / Bạn gọi một nơi bạn có thể mua bánh mì là gì?",
+        "options": [ "A bakery", "A sweet shop", "A grocery store", "A cafe" ],
+        "correctAnswer": "A bakery"
+    },
+    {
+        "question": "Unit 17: A city is a ____ place with lots of things to do. / Một thành phố là một nơi ____ với rất nhiều thứ để làm.",
+        "options": [ "busy", "quiet", "empty", "sad" ],
+        "correctAnswer": "busy"
+    },
+    {
+        "question": "Unit 17: The traffic in the city can be very ____. / Giao thông trong thành phố có thể rất ____.",
+        "options": [ "bad", "good", "easy", "quiet" ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "Unit 18: A very large building with many shops inside is a ____. / Một tòa nhà rất lớn có nhiều cửa hàng bên trong là một ____.",
+        "options": [ "shopping centre", "school", "hospital", "house" ],
+        "correctAnswer": "shopping centre"
+    },
+    {
+        "question": "Unit 18: You go to this shop to buy books. What is it? / Bạn đến cửa hàng này để mua sách. Nó là gì?",
+        "options": [ "A bookshop", "A clothes shop", "A supermarket", "A cinema" ],
+        "correctAnswer": "A bookshop"
+    },
+    {
+        "question": "Unit 18: You go to this shop to buy T-shirts. What is it? / Bạn đến cửa hàng này để mua áo phông. Nó là gì?",
+        "options": [ "A clothes shop", "A bakery", "A bookshop", "A sweet shop" ],
+        "correctAnswer": "A clothes shop"
+    },
+    {
+        "question": "Unit 18: A place in a shopping centre where you can eat is a ____. / Một nơi trong trung tâm mua sắm mà bạn có thể ăn là một ____.",
+        "options": [ "food court", "cinema", "playground", "library" ],
+        "correctAnswer": "food court"
+    },
+    {
+        "question": "Unit 18: To ask for the price of a book, you say: / Để hỏi giá của một cuốn sách, bạn nói:",
+        "options": [ "How much is the book?", "Where is the book?", "What colour is the book?", "Do you have the book?" ],
+        "correctAnswer": "How much is the book?"
+    },
+    {
+        "question": "Unit 18: To ask for the price of some shoes, you say: / Để hỏi giá của một đôi giày, bạn nói:",
+        "options": [ "How much are the shoes?", "How much is the shoes?", "Where are the shoes?", "What size are the shoes?" ],
+        "correctAnswer": "How much are the shoes?"
+    },
+    {
+        "question": "Unit 18: A correct answer to 'How much is the T-shirt?' is: / Một câu trả lời đúng cho 'How much is the T-shirt?' là:",
+        "options": [ "It's 50,000 dong.", "They're 50,000 dong.", "I like the T-shirt.", "The T-shirt is blue." ],
+        "correctAnswer": "It's 50,000 dong."
+    },
+    {
+        "question": "Unit 18: A correct answer to 'How much are the trousers?' is: / Một câu trả lời đúng cho 'How much are the trousers?' là:",
+        "options": [ "They're 100,000 dong.", "It's 100,000 dong.", "I want the trousers.", "The trousers are long." ],
+        "correctAnswer": "They're 100,000 dong."
+    },
+    {
+        "question": "Unit 18: The currency of Vietnam is ____. / Đơn vị tiền tệ của Việt Nam là ____.",
+        "options": [ "dong", "dollar", "yen", "euro" ],
+        "correctAnswer": "dong"
+    },
+    {
+        "question": "Unit 18: A new pair of shoes can be ____. / Một đôi giày mới có thể ____.",
+        "options": [ "expensive", "cheap", "small", "light" ],
+        "correctAnswer": "expensive"
+    },
+    {
+        "question": "Unit 18: A small cake from the bakery is usually ____. / Một chiếc bánh nhỏ từ tiệm bánh thường ____.",
+        "options": [ "cheap", "expensive", "big", "heavy" ],
+        "correctAnswer": "cheap"
+    },
+    {
+        "question": "Unit 18: A person who is buying things is a ____. / Một người đang mua đồ là một ____.",
+        "options": [ "customer", "shopkeeper", "teacher", "doctor" ],
+        "correctAnswer": "customer"
+    },
+    {
+        "question": "Unit 18: What do you call a shop that sells medicine? / Bạn gọi một cửa hàng bán thuốc là gì?",
+        "options": [ "A pharmacy", "A bakery", "A sweet shop", "A toy shop" ],
+        "correctAnswer": "A pharmacy"
+    },
+    {
+        "question": "Unit 18: What do you call a shop that sells toys? / Bạn gọi một cửa hàng bán đồ chơi là gì?",
+        "options": [ "A toy shop", "A pet shop", "A clothes shop", "A bookshop" ],
+        "correctAnswer": "A toy shop"
+    },
+    {
+        "question": "Unit 18: What do you call the money you get back after paying? / Bạn gọi số tiền bạn nhận lại sau khi thanh toán là gì?",
+        "options": [ "Change", "Price", "Cost", "Bill" ],
+        "correctAnswer": "Change"
+    },
+    {
+        "question": "Unit 19: This big cat has orange fur and black stripes. What is it? / Loài mèo lớn này có bộ lông màu cam và sọc đen. Nó là gì?",
+        "options": [ "A tiger", "A lion", "A cheetah", "A leopard" ],
+        "correctAnswer": "A tiger"
+    },
+    {
+        "question": "Unit 19: This animal likes to climb trees and eat bananas. What is it? / Con vật này thích trèo cây và ăn chuối. Nó là gì?",
+        "options": [ "A monkey", "A bear", "A snake", "A penguin" ],
+        "correctAnswer": "A monkey"
+    },
+    {
+        "question": "Unit 19: This is a very big grey animal with a long trunk. What is it? / Đây là một con vật rất to màu xám có vòi dài. Nó là gì?",
+        "options": [ "An elephant", "A hippo", "A rhino", "A bear" ],
+        "correctAnswer": "An elephant"
+    },
+    {
+        "question": "Unit 19: This animal looks like a horse but has black and white stripes. What is it? / Con vật này trông giống ngựa nhưng có sọc đen và trắng. Nó là gì?",
+        "options": [ "A zebra", "A horse", "A tiger", "A cow" ],
+        "correctAnswer": "A zebra"
+    },
+    {
+        "question": "Unit 19: This is a very tall animal with a very long neck. What is it? / Đây là một con vật rất cao với chiếc cổ rất dài. Nó là gì?",
+        "options": [ "A giraffe", "An elephant", "A camel", "A kangaroo" ],
+        "correctAnswer": "A giraffe"
+    },
+    {
+        "question": "Unit 19: This animal from Australia jumps on its big back legs. What is it? / Con vật này từ Úc nhảy bằng hai chân sau to lớn của nó. Nó là gì?",
+        "options": [ "A kangaroo", "A koala", "A monkey", "A rabbit" ],
+        "correctAnswer": "A kangaroo"
+    },
+    {
+        "question": "Unit 19: This is a large reptile with a big mouth and sharp teeth. What is it? / Đây là một loài bò sát lớn có miệng rộng và răng sắc nhọn. Nó là gì?",
+        "options": [ "A crocodile", "A snake", "A lizard", "A turtle" ],
+        "correctAnswer": "A crocodile"
+    },
+    {
+        "question": "Unit 19: This bird is black and white and cannot fly. What is it? / Loài chim này có màu đen và trắng và không thể bay. Nó là gì?",
+        "options": [ "A penguin", "An ostrich", "A parrot", "An eagle" ],
+        "correctAnswer": "A penguin"
+    },
+    {
+        "question": "Unit 19: This male bird has very beautiful tail feathers. What is it? / Loài chim trống này có bộ lông đuôi rất đẹp. Nó là gì?",
+        "options": [ "A peacock", "A chicken", "A duck", "A parrot" ],
+        "correctAnswer": "A peacock"
+    },
+    {
+        "question": "Unit 19: To ask what an animal eats, you say: / Để hỏi một con vật ăn gì, bạn nói:",
+        "options": [ "What does it eat?", "Where does it live?", "What can it do?", "What does it look like?" ],
+        "correctAnswer": "What does it eat?"
+    },
+    {
+        "question": "Unit 19: Lions and tigers eat ____. / Sư tử và hổ ăn ____.",
+        "options": [ "meat", "plants", "fruit", "honey" ],
+        "correctAnswer": "meat"
+    },
+    {
+        "question": "Unit 19: Giraffes and zebras eat ____. / Hươu cao cổ và ngựa vằn ăn ____.",
+        "options": [ "plants", "meat", "fish", "insects" ],
+        "correctAnswer": "plants"
+    },
+    {
+        "question": "Unit 19: A cheetah is a very ____ runner. / Một con báo gêpa là một vận động viên chạy rất ____.",
+        "options": [ "fast", "slow", "tall", "big" ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "Unit 19: A giraffe is ____ than a zebra. / Một con hươu cao cổ ____ hơn một con ngựa vằn.",
+        "options": [ "taller", "shorter", "faster", "smaller" ],
+        "correctAnswer": "taller"
+    },
+    {
+        "question": "Unit 19: An elephant is ____ than a lion. / Một con voi ____ hơn một con sư tử.",
+        "options": [ "bigger", "smaller", "faster", "taller" ],
+        "correctAnswer": "bigger"
+    },
+    {
+        "question": "Unit 20: This is a place in nature where you sleep in a tent. What is it? / Đây là một nơi trong tự nhiên, nơi bạn ngủ trong lều. Nó là gì?",
+        "options": [ "A summer camp", "A school", "A city", "A shopping centre" ],
+        "correctAnswer": "A summer camp"
+    },
+    {
+        "question": "Unit 20: You sleep in this small house made of cloth. What is it? / Bạn ngủ trong ngôi nhà nhỏ làm bằng vải này. Nó là gì?",
+        "options": [ "A tent", "A house", "A car", "A bed" ],
+        "correctAnswer": "A tent"
+    },
+    {
+        "question": "Unit 20: You sleep inside this warm bag at a campsite. What is it? / Bạn ngủ bên trong chiếc túi ấm áp này tại khu cắm trại. Nó là gì?",
+        "options": [ "A sleeping bag", "A blanket", "A pillow", "A coat" ],
+        "correctAnswer": "A sleeping bag"
+    },
+    {
+        "question": "Unit 20: This is a fire you make outside to keep warm. What is it? / Đây là một ngọn lửa bạn đốt ngoài trời để giữ ấm. Nó là gì?",
+        "options": [ "A campfire", "A stove", "An oven", "A lamp" ],
+        "correctAnswer": "A campfire"
+    },
+    {
+        "question": "Unit 20: This is a large area with many trees. What is it? / Đây là một khu vực rộng lớn có nhiều cây cối. Nó là gì?",
+        "options": [ "A forest", "A field", "A beach", "A desert" ],
+        "correctAnswer": "A forest"
+    },
+    {
+        "question": "Unit 20: You use this to see in the dark. What is it? / Bạn dùng cái này để nhìn trong bóng tối. Nó là gì?",
+        "options": [ "A flashlight", "A candle", "A lamp", "The sun" ],
+        "correctAnswer": "A flashlight"
+    },
+    {
+        "question": "Unit 20: This activity is walking for a long distance in the forest. What is it? / Hoạt động này là đi bộ một quãng đường dài trong rừng. Nó là gì?",
+        "options": [ "Hiking", "Swimming", "Cooking", "Sleeping" ],
+        "correctAnswer": "Hiking"
+    },
+    {
+        "question": "Unit 20: This activity is catching fish from a river. What is it? / Hoạt động này là bắt cá từ sông. Nó là gì?",
+        "options": [ "Fishing", "Hiking", "Camping", "Playing" ],
+        "correctAnswer": "Fishing"
+    },
+    {
+        "question": "Unit 20: What do you do with friends around the campfire? / Bạn làm gì với bạn bè quanh đống lửa trại?",
+        "options": [ "Tell stories and sing songs", "Do homework", "Watch TV", "Go shopping" ],
+        "correctAnswer": "Tell stories and sing songs"
+    },
+    {
+        "question": "Unit 20: To ask about your friend's activities at the camp, you say: / Để hỏi về các hoạt động của bạn mình tại trại hè, bạn nói:",
+        "options": [ "What did you do at the camp?", "Where is the camp?", "How old are you?", "What is your name?" ],
+        "correctAnswer": "What did you do at the camp?"
+    },
+    {
+        "question": "Unit 20: A correct answer to 'What did you do?' is: / Một câu trả lời đúng cho 'What did you do?' là:",
+        "options": [ "I went hiking.", "It was fun.", "I am nine years old.", "My name is Quan." ],
+        "correctAnswer": "I went hiking."
+    },
+    {
+        "question": "Unit 20: The past tense of 'tell' is ____. / Dạng quá khứ của 'tell' là gì?",
+        "options": [ "told", "telled", "talling", "tell" ],
+        "correctAnswer": "told"
+    },
+    {
+        "question": "Unit 20: The past tense of 'sing' is ____. / Dạng quá khứ của 'sing' là gì?",
+        "options": [ "sang", "singed", "sung", "sing" ],
+        "correctAnswer": "sang"
+    },
+    {
+        "question": "Unit 20: The past tense of 'make' is ____. / Dạng quá khứ của 'make' là gì?",
+        "options": [ "made", "maked", "moke", "make" ],
+        "correctAnswer": "made"
+    },
+    {
+        "question": "Unit 20: We ____ a big campfire last night. / Chúng tôi ____ một đống lửa trại lớn tối qua.",
+        "options": [ "made", "make", "makes", "are making" ],
+        "correctAnswer": "made"
+    }
+]
