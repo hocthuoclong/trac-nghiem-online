@@ -1,0 +1,402 @@
+[
+    {
+        "question": "This is a time in the year when it's hot and students don't go to school. What is it? / Đây là một thời gian trong năm khi trời nóng và học sinh không đến trường. Nó là gì?",
+        "options": [
+            "Summer holiday",
+            "Winter holiday",
+            "Tet holiday",
+            "A weekend"
+        ],
+        "correctAnswer": "Summer holiday"
+    },
+    {
+        "question": "To ask a friend where they went for their holiday, you say: / Để hỏi một người bạn họ đã đi đâu trong kỳ nghỉ, bạn nói:",
+        "options": [
+            "Where did you go?",
+            "Where are you from?",
+            "What did you do?",
+            "When is your holiday?"
+        ],
+        "correctAnswer": "Where did you go?"
+    },
+    {
+        "question": "A correct answer to 'Where did you go on holiday?' is: / Một câu trả lời đúng cho 'Where did you go on holiday?' là:",
+        "options": [
+            "I went to Ha Long Bay.",
+            "I am fine, thank you.",
+            "I like holidays.",
+            "It was fun."
+        ],
+        "correctAnswer": "I went to Ha Long Bay."
+    },
+    {
+        "question": "This is a famous place in Vietnam with many beautiful islands. What is it? / Đây là một địa danh nổi tiếng ở Việt Nam với nhiều hòn đảo xinh đẹp. Nó là gì?",
+        "options": [
+            "Ha Long Bay",
+            "Phu Quoc Island",
+            "Hoi An Ancient Town",
+            "Hue"
+        ],
+        "correctAnswer": "Ha Long Bay"
+    },
+    {
+        "question": "This is a big island in the south of Vietnam, famous for its beaches. What is it? / Đây là một hòn đảo lớn ở phía nam Việt Nam, nổi tiếng với những bãi biển. Nó là gì?",
+        "options": [
+            "Phu Quoc Island",
+            "Ha Long Bay",
+            "Da Nang",
+            "Nha Trang"
+        ],
+        "correctAnswer": "Phu Quoc Island"
+    },
+    {
+        "question": "This is an old city in the center of Vietnam. What is it? / Đây là một thành phố cổ ở miền trung Việt Nam. Nó là gì?",
+        "options": [
+            "Hue",
+            "Ha Noi",
+            "Ho Chi Minh City",
+            "Hoi An"
+        ],
+        "correctAnswer": "Hue"
+    },
+    {
+        "question": "This is a famous old town with many lanterns. What is it? / Đây là một khu phố cổ nổi tiếng với nhiều đèn lồng. Nó là gì?",
+        "options": [
+            "Hoi An Ancient Town",
+            "Ha Long Bay",
+            "Hue Imperial City",
+            "My Son Sanctuary"
+        ],
+        "correctAnswer": "Hoi An Ancient Town"
+    },
+    {
+        "question": "To ask about the activities your friend did, you say: / Để hỏi về các hoạt động mà bạn của bạn đã làm, bạn nói:",
+        "options": [
+            "What did you do?",
+            "Where did you go?",
+            "Did you have fun?",
+            "When did you go?"
+        ],
+        "correctAnswer": "What did you do?"
+    },
+    {
+        "question": "A correct answer to 'What did you do at the beach?' is: / Một câu trả lời đúng cho 'What did you do at the beach?' là:",
+        "options": [
+            "I built sandcastles.",
+            "I went to the beach.",
+            "The beach was beautiful.",
+            "Yes, I did."
+        ],
+        "correctAnswer": "I built sandcastles."
+    },
+    {
+        "question": "This is an activity where you move through the water. What is it? / Đây là một hoạt động mà bạn di chuyển trong nước. Nó là gì?",
+        "options": [
+            "Swimming",
+            "Hiking",
+            "Cycling",
+            "Running"
+        ],
+        "correctAnswer": "Swimming"
+    },
+    {
+        "question": "This is an activity where you make a small castle with sand. What is it? / Đây là một hoạt động mà bạn làm một lâu đài nhỏ bằng cát. Nó là gì?",
+        "options": [
+            "Building sandcastles",
+            "Taking photos",
+            "Eating seafood",
+            "Swimming"
+        ],
+        "correctAnswer": "Building sandcastles"
+    },
+    {
+        "question": "This is food from the sea, like fish, crabs, and shrimp. What is it? / Đây là thức ăn từ biển, như cá, cua và tôm. Nó là gì?",
+        "options": [
+            "Seafood",
+            "Vegetables",
+            "Fruits",
+            "Dessert"
+        ],
+        "correctAnswer": "Seafood"
+    },
+    {
+        "question": "This is an action where you use a camera to capture a moment. What is it? / Đây là một hành động mà bạn sử dụng máy ảnh để ghi lại một khoảnh khắc. Nó là gì?",
+        "options": [
+            "Taking photos",
+            "Building sandcastles",
+            "Swimming",
+            "Eating"
+        ],
+        "correctAnswer": "Taking photos"
+    },
+    {
+        "question": "To ask if your friend had a good time, you say: / Để hỏi bạn của bạn có vui không, bạn nói:",
+        "options": [
+            "Did you enjoy the trip?",
+            "Where did you go?",
+            "What did you do?",
+            "When was your trip?"
+        ],
+        "correctAnswer": "Did you enjoy the trip?"
+    },
+    {
+        "question": "A correct positive answer to 'Did you enjoy the trip?' is: / Một câu trả lời khẳng định đúng cho 'Did you enjoy the trip?' là:",
+        "options": [
+            "Yes, I did.",
+            "Yes, I can.",
+            "No, I didn't.",
+            "I went to the beach."
+        ],
+        "correctAnswer": "Yes, I did."
+    },
+    {
+        "question": "The past tense of 'go' is ____. / Dạng quá khứ của 'go' là ____.",
+        "options": [
+            "went",
+            "gone",
+            "goed",
+            "go"
+        ],
+        "correctAnswer": "went"
+    },
+    {
+        "question": "The past tense of 'have' is ____. / Dạng quá khứ của 'have' là gì?",
+        "options": [
+            "had",
+            "haved",
+            "has",
+            "have"
+        ],
+        "correctAnswer": "had"
+    },
+    {
+        "question": "The past tense of 'eat' is ____. / Dạng quá khứ của 'eat' là gì?",
+        "options": [
+            "ate",
+            "eaten",
+            "eated",
+            "eat"
+        ],
+        "correctAnswer": "ate"
+    },
+    {
+        "question": "The past tense of 'swim' is ____. / Dạng quá khứ của 'swim' là gì?",
+        "options": [
+            "swam",
+            "swum",
+            "swimmed",
+            "swim"
+        ],
+        "correctAnswer": "swam"
+    },
+    {
+        "question": "The past tense of 'take' is ____. / Dạng quá khứ của 'take' là gì?",
+        "options": [
+            "took",
+            "taken",
+            "taked",
+            "take"
+        ],
+        "correctAnswer": "took"
+    },
+    {
+        "question": "The past tense of 'build' is ____. / Dạng quá khứ của 'build' là gì?",
+        "options": [
+            "built",
+            "builded",
+            "builted",
+            "build"
+        ],
+        "correctAnswer": "built"
+    },
+    {
+        "question": "I ____ to Phu Quoc Island last summer. / Tôi ____ đến đảo Phú Quốc vào mùa hè năm ngoái.",
+        "options": [
+            "went",
+            "go",
+            "am going",
+            "will go"
+        ],
+        "correctAnswer": "went"
+    },
+    {
+        "question": "We ____ a lot of fun at the beach. / Chúng tôi ____ rất vui ở bãi biển.",
+        "options": [
+            "had",
+            "have",
+            "are having",
+            "will have"
+        ],
+        "correctAnswer": "had"
+    },
+    {
+        "question": "She ____ in the sea yesterday. / Cô ấy ____ ở biển ngày hôm qua.",
+        "options": [
+            "swam",
+            "swims",
+            "is swimming",
+            "will swim"
+        ],
+        "correctAnswer": "swam"
+    },
+    {
+        "question": "They ____ delicious seafood for dinner. / Họ ____ hải sản ngon cho bữa tối.",
+        "options": [
+            "ate",
+            "eat",
+            "are eating",
+            "will eat"
+        ],
+        "correctAnswer": "ate"
+    },
+    {
+        "question": "He ____ a big sandcastle on the beach. / Cậu ấy ____ một lâu đài cát lớn trên bãi biển.",
+        "options": [
+            "built",
+            "builds",
+            "is building",
+            "will build"
+        ],
+        "correctAnswer": "built"
+    },
+    {
+        "question": "I ____ many photos of the beautiful islands. / Tôi ____ nhiều bức ảnh về những hòn đảo xinh đẹp.",
+        "options": [
+            "took",
+            "take",
+            "am taking",
+            "will take"
+        ],
+        "correctAnswer": "took"
+    },
+    {
+        "question": "To ask a question about the past, you start with '____ you...?' / Để đặt câu hỏi về quá khứ, bạn bắt đầu bằng '____ you...?'",
+        "options": [
+            "Did",
+            "Do",
+            "Are",
+            "Can"
+        ],
+        "correctAnswer": "Did"
+    },
+    {
+        "question": "____ you go to Hue on your holiday? / ____ bạn đã đến Huế trong kỳ nghỉ của mình?",
+        "options": [
+            "Did",
+            "Do",
+            "Were",
+            "Have"
+        ],
+        "correctAnswer": "Did"
+    },
+    {
+        "question": "What is the opposite of 'fun'? / Từ trái nghĩa của 'fun' là gì?",
+        "options": [
+            "Boring",
+            "Happy",
+            "Exciting",
+            "Good"
+        ],
+        "correctAnswer": "Boring"
+    },
+    {
+        "question": "My trip was not boring, it was very ____. / Chuyến đi của tôi không nhàm chán, nó rất ____.",
+        "options": [
+            "fun",
+            "boring",
+            "sad",
+            "difficult"
+        ],
+        "correctAnswer": "fun"
+    },
+    {
+        "question": "Spell the word for the time you don't go to school. / Đánh vần từ chỉ thời gian bạn không đến trường.",
+        "options": [
+            "h-o-l-i-d-a-y",
+            "w-e-e-k-d-a-y",
+            "s-c-h-o-o-l",
+            "l-e-s-s-o-n"
+        ],
+        "correctAnswer": "h-o-l-i-d-a-y"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The sunset at Ha Long Bay was ____. / Cảnh hoàng hôn ở Vịnh Hạ Long thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a journey to a place for a holiday? / Bạn gọi một chuyến đi đến một nơi để nghỉ lễ là gì?",
+        "options": [
+            "A trip",
+            "A walk",
+            "A run",
+            "A class"
+        ],
+        "correctAnswer": "A trip"
+    },
+    {
+        "question": "Spell the word for a piece of land surrounded by water. / Đánh vần từ chỉ một mảnh đất được bao quanh bởi nước.",
+        "options": [
+            "i-s-l-a-n-d",
+            "b-e-a-c-h",
+            "m-o-u-n-t-a-i-n",
+            "r-i-v-e-r"
+        ],
+        "correctAnswer": "i-s-l-a-n-d"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "I took ____ photos, not many. / Tôi đã chụp ____ bức ảnh, không nhiều.",
+        "options": [
+            "a few",
+            "many",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "a few"
+    },
+    {
+        "question": "What do you call a place where you stay when you are on holiday? / Bạn gọi nơi bạn ở khi đi nghỉ là gì?",
+        "options": [
+            "A hotel",
+            "A school",
+            "A hospital",
+            "An office"
+        ],
+        "correctAnswer": "A hotel"
+    },
+    {
+        "question": "Spell the word for food from the sea. / Đánh vần từ chỉ thức ăn từ biển.",
+        "options": [
+            "s-e-a-f-o-o-d",
+            "v-e-g-e-t-a-b-l-e",
+            "f-r-u-i-t",
+            "d-e-s-s-e-r-t"
+        ],
+        "correctAnswer": "s-e-a-f-o-o-d"
+    }
+]
