@@ -1,0 +1,402 @@
+[
+    {
+        "question": "This is a special day at school when all students play sports and compete. What is it? / Đây là một ngày đặc biệt ở trường khi tất cả học sinh chơi thể thao và thi đấu. Nó là gì?",
+        "options": [
+            "A sports day",
+            "A birthday party",
+            "A music festival",
+            "A normal school day"
+        ],
+        "correctAnswer": "A sports day"
+    },
+    {
+        "question": "In this sport, you hit a small, light ball over a net on a table. What is it? / Trong môn thể thao này, bạn đánh một quả bóng nhỏ, nhẹ qua lưới trên một cái bàn. Nó là gì?",
+        "options": [
+            "Table tennis",
+            "Football",
+            "Basketball",
+            "Swimming"
+        ],
+        "correctAnswer": "Table tennis"
+    },
+    {
+        "question": "In this sport, you hit a ball over a high net with your hands. What is it? / Trong môn thể thao này, bạn dùng tay đánh một quả bóng qua một tấm lưới cao. Nó là gì?",
+        "options": [
+            "Volleyball",
+            "Badminton",
+            "Table tennis",
+            "Football"
+        ],
+        "correctAnswer": "Volleyball"
+    },
+    {
+        "question": "In this sport, you throw a ball through a hoop. What is it? / Trong môn thể thao này, bạn ném một quả bóng qua một cái vòng. Nó là gì?",
+        "options": [
+            "Basketball",
+            "Volleyball",
+            "Football",
+            "Tennis"
+        ],
+        "correctAnswer": "Basketball"
+    },
+    {
+        "question": "This is an activity where you move very fast on your feet. What is it? / Đây là một hoạt động mà bạn di chuyển rất nhanh bằng chân. Nó là gì?",
+        "options": [
+            "Running",
+            "Walking",
+            "Swimming",
+            "Jumping"
+        ],
+        "correctAnswer": "Running"
+    },
+    {
+        "question": "This is an action where you push yourself up into the air. What is it? / Đây là một hành động mà bạn đẩy mình lên không trung. Nó là gì?",
+        "options": [
+            "Jumping",
+            "Running",
+            "Skipping",
+            "Walking"
+        ],
+        "correctAnswer": "Jumping"
+    },
+    {
+        "question": "This is an activity where you jump over a rope. What is it? / Đây là một hoạt động mà bạn nhảy qua một sợi dây. Nó là gì?",
+        "options": [
+            "Skipping",
+            "Skating",
+            "Swimming",
+            "Singing"
+        ],
+        "correctAnswer": "Skipping"
+    },
+    {
+        "question": "To ask if someone has the ability to do a sport, you say: '____ you play volleyball?' / Để hỏi ai đó có khả năng chơi một môn thể thao không, bạn nói: '____ you play volleyball?'",
+        "options": [
+            "Can",
+            "Are",
+            "Do",
+            "Is"
+        ],
+        "correctAnswer": "Can"
+    },
+    {
+        "question": "A correct positive answer to 'Can you play chess?' is: / Một câu trả lời khẳng định đúng cho 'Can you play chess?' là:",
+        "options": [
+            "Yes, I can.",
+            "Yes, I do.",
+            "I am playing chess.",
+            "I like chess."
+        ],
+        "correctAnswer": "Yes, I can."
+    },
+    {
+        "question": "A correct negative answer to 'Can she swim?' is: / Một câu trả lời phủ định đúng cho 'Can she swim?' là:",
+        "options": [
+            "No, she can't.",
+            "No, she isn't.",
+            "No, she doesn't.",
+            "She is not a swimmer."
+        ],
+        "correctAnswer": "No, she can't."
+    },
+    {
+        "question": "What do you call a competition to see who is the fastest? / Bạn gọi một cuộc thi để xem ai là người nhanh nhất là gì?",
+        "options": [
+            "A race",
+            "A game",
+            "A match",
+            "A test"
+        ],
+        "correctAnswer": "A race"
+    },
+    {
+        "question": "The person who finishes a race first is the ____. / Người về đích đầu tiên trong một cuộc đua là ____.",
+        "options": [
+            "winner",
+            "loser",
+            "player",
+            "student"
+        ],
+        "correctAnswer": "winner"
+    },
+    {
+        "question": "What is the opposite of 'win'? / Từ trái nghĩa của 'win' là gì?",
+        "options": [
+            "Lose",
+            "Play",
+            "Start",
+            "Finish"
+        ],
+        "correctAnswer": "Lose"
+    },
+    {
+        "question": "What do you call the place where you run races? / Bạn gọi nơi bạn chạy đua là gì?",
+        "options": [
+            "A track",
+            "A pool",
+            "A court",
+            "A gym"
+        ],
+        "correctAnswer": "A track"
+    },
+    {
+        "question": "What do you call the place where you play basketball or volleyball? / Bạn gọi nơi bạn chơi bóng rổ hoặc bóng chuyền là gì?",
+        "options": [
+            "A court",
+            "A field",
+            "A pool",
+            "A track"
+        ],
+        "correctAnswer": "A court"
+    },
+    {
+        "question": "Spell the word for the event with many sports at school. / Đánh vần từ chỉ sự kiện có nhiều môn thể thao ở trường.",
+        "options": [
+            "s-p-o-r-t-s d-a-y",
+            "b-i-r-t-h-d-a-y",
+            "h-o-l-i-d-a-y",
+            "w-e-e-k-e-n-d"
+        ],
+        "correctAnswer": "s-p-o-r-t-s d-a-y"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "To win a running race, you must be very ____. / Để chiến thắng một cuộc đua chạy, bạn phải rất ____.",
+        "options": [
+            "fast",
+            "slow",
+            "tall",
+            "short"
+        ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "What do you call the action of jumping far forward? / Bạn gọi hành động nhảy xa về phía trước là gì?",
+        "options": [
+            "Long jump",
+            "High jump",
+            "Running",
+            "Skipping"
+        ],
+        "correctAnswer": "Long jump"
+    },
+    {
+        "question": "What is the opposite of 'high'? / Từ trái nghĩa của 'high' là gì?",
+        "options": [
+            "Low",
+            "Tall",
+            "Up",
+            "Big"
+        ],
+        "correctAnswer": "Low"
+    },
+    {
+        "question": "In high jump, you try to jump over a ____ bar. / Trong môn nhảy cao, bạn cố gắng nhảy qua một thanh xà ____.",
+        "options": [
+            "high",
+            "low",
+            "long",
+            "short"
+        ],
+        "correctAnswer": "high"
+    },
+    {
+        "question": "Spell the word for the sport where you hit a ball on a table. / Đánh vần từ chỉ môn thể thao mà bạn đánh bóng trên bàn.",
+        "options": [
+            "t-a-b-l-e t-e-n-n-i-s",
+            "b-a-d-m-i-n-t-o-n",
+            "v-o-l-l-e-y-b-a-l-l",
+            "f-o-o-t-b-a-l-l"
+        ],
+        "correctAnswer": "t-a-b-l-e t-e-n-n-i-s"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ sports at our sports day. / Có ____ môn thể thao trong ngày hội thể thao của chúng tôi.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a person who plays sports? / Bạn gọi một người chơi thể thao là gì?",
+        "options": [
+            "An athlete",
+            "A singer",
+            "A painter",
+            "A writer"
+        ],
+        "correctAnswer": "An athlete"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ running because it makes me tired. / Tôi ____ chạy bộ vì nó làm tôi mệt.",
+        "options": [
+            "dislike",
+            "love",
+            "like",
+            "enjoy"
+        ],
+        "correctAnswer": "dislike"
+    },
+    {
+        "question": "Spell the word for the sport where you throw a ball into a hoop. / Đánh vần từ chỉ môn thể thao mà bạn ném bóng vào rổ.",
+        "options": [
+            "b-a-s-k-e-t-b-a-l-l",
+            "v-o-l-l-e-y-b-a-l-l",
+            "f-o-o-t-b-a-l-l",
+            "h-a-n-d-b-a-l-l"
+        ],
+        "correctAnswer": "b-a-s-k-e-t-b-a-l-l"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "In basketball, you can't ____ the ball and run. You have to bounce it. / Trong bóng rổ, bạn không thể ____ quả bóng và chạy. Bạn phải đập nó.",
+        "options": [
+            "hold",
+            "kick",
+            "give",
+            "take"
+        ],
+        "correctAnswer": "hold"
+    },
+    {
+        "question": "What do you call a group of people watching a game? / Bạn gọi một nhóm người đang xem một trận đấu là gì?",
+        "options": [
+            "Spectators",
+            "Players",
+            "Teams",
+            "Referees"
+        ],
+        "correctAnswer": "Spectators"
+    },
+    {
+        "question": "Spell the word for the sport where you hit a ball over a high net. / Đánh vần từ chỉ môn thể thao mà bạn đánh bóng qua một tấm lưới cao.",
+        "options": [
+            "v-o-l-l-e-y-b-a-l-l",
+            "b-a-d-m-i-n-t-o-n",
+            "t-e-n-n-i-s",
+            "s-q-u-a-s-h"
+        ],
+        "correctAnswer": "v-o-l-l-e-y-b-a-l-l"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is ____ sportsmanship to be angry when you lose. / Tức giận khi thua là tinh thần thể thao ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the prize you get for winning? / Bạn gọi giải thưởng bạn nhận được khi chiến thắng là gì?",
+        "options": [
+            "A medal or a trophy",
+            "A book",
+            "A pen",
+            "Homework"
+        ],
+        "correctAnswer": "A medal or a trophy"
+    },
+    {
+        "question": "Spell the word for the action of moving fast on your feet. / Đánh vần từ chỉ hành động di chuyển nhanh bằng chân.",
+        "options": [
+            "r-u-n-n-i-n-g",
+            "w-a-l-k-i-n-g",
+            "j-u-m-p-i-n-g",
+            "s-k-i-p-p-i-n-g"
+        ],
+        "correctAnswer": "r-u-n-n-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "The winner feels ____, and the loser feels sad. / Người chiến thắng cảm thấy ____, và người thua cuộc cảm thấy buồn.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "tired"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the person who makes sure the game is fair? / Bạn gọi người đảm bảo trò chơi công bằng là gì?",
+        "options": [
+            "A referee",
+            "A coach",
+            "A player",
+            "A fan"
+        ],
+        "correctAnswer": "A referee"
+    },
+    {
+        "question": "Spell the word for the action of pushing yourself into the air. / Đánh vần từ chỉ hành động đẩy mình vào không trung.",
+        "options": [
+            "j-u-m-p-i-n-g",
+            "r-u-n-n-i-n-g",
+            "s-k-i-p-p-i-n-g",
+            "h-o-p-p-i-n-g"
+        ],
+        "correctAnswer": "j-u-m-p-i-n-g"
+    }
+]
