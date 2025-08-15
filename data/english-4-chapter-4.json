@@ -1,0 +1,422 @@
+[
+    {
+        "question": "This is a special party to celebrate the day you were born. What is it? / Đây là một bữa tiệc đặc biệt để kỷ niệm ngày bạn ra đời. Nó là gì?",
+        "options": [
+            "A birthday party",
+            "A school day",
+            "A football match",
+            "A summer camp"
+        ],
+        "correctAnswer": "A birthday party"
+    },
+    {
+        "question": "To ask about someone's age, you say: / Để hỏi về tuổi của ai đó, bạn nói:",
+        "options": [
+            "How old are you?",
+            "What's your name?",
+            "When's your birthday?",
+            "How are you?"
+        ],
+        "correctAnswer": "How old are you?"
+    },
+    {
+        "question": "The correct answer to 'How old are you?' is: / Câu trả lời đúng cho 'How old are you?' là:",
+        "options": [
+            "I'm nine years old.",
+            "My name is Linda.",
+            "I'm from England.",
+            "I'm fine, thank you."
+        ],
+        "correctAnswer": "I'm nine years old."
+    },
+    {
+        "question": "To ask about the date of someone's birthday, you say: / Để hỏi về ngày sinh nhật của ai đó, bạn nói:",
+        "options": [
+            "When's your birthday?",
+            "What time is it?",
+            "How old are you?",
+            "What's your hobby?"
+        ],
+        "correctAnswer": "When's your birthday?"
+    },
+    {
+        "question": "A correct answer to 'When's your birthday?' is: / Một câu trả lời đúng cho 'When's your birthday?' là:",
+        "options": [
+            "It's on the fifth of May.",
+            "I'm nine years old.",
+            "I like birthday parties.",
+            "Yes, it is."
+        ],
+        "correctAnswer": "It's on the fifth of May."
+    },
+    {
+        "question": "This is a sweet food with candles on top that you eat at a birthday party. What is it? / Đây là một món ăn ngọt có nến ở trên mà bạn ăn trong tiệc sinh nhật. Nó là gì?",
+        "options": [
+            "A cake",
+            "A sandwich",
+            "A pizza",
+            "An ice cream"
+        ],
+        "correctAnswer": "A cake"
+    },
+    {
+        "question": "You blow these out on your cake and make a wish. What are they? / Bạn thổi những thứ này trên bánh kem và ước một điều. Chúng là gì?",
+        "options": [
+            "Candles",
+            "Balloons",
+            "Presents",
+            "Hats"
+        ],
+        "correctAnswer": "Candles"
+    },
+    {
+        "question": "These are colorful decorations filled with air. What are they? / Đây là những đồ trang trí nhiều màu sắc, chứa đầy không khí. Chúng là gì?",
+        "options": [
+            "Balloons",
+            "Candles",
+            "Cakes",
+            "Chairs"
+        ],
+        "correctAnswer": "Balloons"
+    },
+    {
+        "question": "These are gifts you receive from your friends and family. What are they? / Đây là những món quà bạn nhận được từ bạn bè và gia đình. Chúng là gì?",
+        "options": [
+            "Presents",
+            "Homework",
+            "Books",
+            "Food"
+        ],
+        "correctAnswer": "Presents"
+    },
+    {
+        "question": "The first month of the year is ____. / Tháng đầu tiên của năm là ____.",
+        "options": [
+            "January",
+            "February",
+            "December",
+            "March"
+        ],
+        "correctAnswer": "January"
+    },
+    {
+        "question": "The month after January is ____. / Tháng sau tháng Một là ____.",
+        "options": [
+            "February",
+            "March",
+            "December",
+            "April"
+        ],
+        "correctAnswer": "February"
+    },
+    {
+        "question": "The third month of the year is ____. / Tháng thứ ba của năm là ____.",
+        "options": [
+            "March",
+            "April",
+            "May",
+            "February"
+        ],
+        "correctAnswer": "March"
+    },
+    {
+        "question": "The month before May is ____. / Tháng trước tháng Năm là ____.",
+        "options": [
+            "April",
+            "June",
+            "March",
+            "May"
+        ],
+        "correctAnswer": "April"
+    },
+    {
+        "question": "The fifth month of the year is ____. / Tháng thứ năm của năm là ____.",
+        "options": [
+            "May",
+            "June",
+            "July",
+            "April"
+        ],
+        "correctAnswer": "May"
+    },
+    {
+        "question": "The month after May is ____. / Tháng sau tháng Năm là ____.",
+        "options": [
+            "June",
+            "July",
+            "May",
+            "August"
+        ],
+        "correctAnswer": "June"
+    },
+    {
+        "question": "The seventh month of the year is ____. / Tháng thứ bảy của năm là ____.",
+        "options": [
+            "July",
+            "June",
+            "August",
+            "September"
+        ],
+        "correctAnswer": "July"
+    },
+    {
+        "question": "The month between July and September is ____. / Tháng giữa tháng Bảy và tháng Chín là ____.",
+        "options": [
+            "August",
+            "October",
+            "June",
+            "July"
+        ],
+        "correctAnswer": "August"
+    },
+    {
+        "question": "The ninth month of the year is ____. / Tháng thứ chín của năm là ____.",
+        "options": [
+            "September",
+            "October",
+            "August",
+            "November"
+        ],
+        "correctAnswer": "September"
+    },
+    {
+        "question": "The month before November is ____. / Tháng trước tháng Mười một là ____.",
+        "options": [
+            "October",
+            "September",
+            "December",
+            "August"
+        ],
+        "correctAnswer": "October"
+    },
+    {
+        "question": "The eleventh month of the year is ____. / Tháng thứ mười một của năm là ____.",
+        "options": [
+            "November",
+            "December",
+            "October",
+            "September"
+        ],
+        "correctAnswer": "November"
+    },
+    {
+        "question": "The last month of the year is ____. / Tháng cuối cùng của năm là ____.",
+        "options": [
+            "December",
+            "January",
+            "November",
+            "October"
+        ],
+        "correctAnswer": "December"
+    },
+    {
+        "question": "What is the date after the first (1st)? / Ngày sau ngày mùng một (1st) là ngày nào?",
+        "options": [
+            "The second (2nd)",
+            "The third (3rd)",
+            "The fourth (4th)",
+            "The first (1st)"
+        ],
+        "correctAnswer": "The second (2nd)"
+    },
+    {
+        "question": "What is the date after the second (2nd)? / Ngày sau ngày mùng hai (2nd) là ngày nào?",
+        "options": [
+            "The third (3rd)",
+            "The first (1st)",
+            "The fourth (4th)",
+            "The fifth (5th)"
+        ],
+        "correctAnswer": "The third (3rd)"
+    },
+    {
+        "question": "What is the date before the twenty-first (21st)? / Ngày trước ngày hai mươi mốt (21st) là ngày nào?",
+        "options": [
+            "The twentieth (20th)",
+            "The twenty-second (22nd)",
+            "The nineteenth (19th)",
+            "The thirtieth (30th)"
+        ],
+        "correctAnswer": "The twentieth (20th)"
+    },
+    {
+        "question": "The last day of the month can be the ____. / Ngày cuối cùng của tháng có thể là ngày ____.",
+        "options": [
+            "thirty-first (31st)",
+            "thirty-second (32nd)",
+            "first (1st)",
+            "second (2nd)"
+        ],
+        "correctAnswer": "thirty-first (31st)"
+    },
+    {
+        "question": "We use the preposition '____' for dates. (e.g., ____ the first of January) / Chúng ta dùng giới từ '____' cho ngày tháng. (ví dụ: ____ the first of January)",
+        "options": [
+            "on",
+            "in",
+            "at",
+            "from"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "My birthday is ____ the twelfth of October. / Sinh nhật của tôi vào ____ ngày mười hai tháng Mười.",
+        "options": [
+            "on",
+            "in",
+            "at",
+            "of"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "What do you do at a birthday party? / Bạn làm gì ở một bữa tiệc sinh nhật?",
+        "options": [
+            "Sing and dance",
+            "Study and do homework",
+            "Clean the house",
+            "Go to sleep"
+        ],
+        "correctAnswer": "Sing and dance"
+    },
+    {
+        "question": "What song do you sing at a birthday party? / Bạn hát bài hát gì trong một bữa tiệc sinh nhật?",
+        "options": [
+            "Happy Birthday",
+            "Jingle Bells",
+            "Twinkle, Twinkle, Little Star",
+            "Old MacDonald Had a Farm"
+        ],
+        "correctAnswer": "Happy Birthday"
+    },
+    {
+        "question": "Spell the word for the gifts you receive. / Đánh vần từ chỉ những món quà bạn nhận được.",
+        "options": [
+            "p-r-e-s-e-n-t-s",
+            "c-a-n-d-l-e-s",
+            "b-a-l-l-o-o-n-s",
+            "c-a-k-e-s"
+        ],
+        "correctAnswer": "p-r-e-s-e-n-t-s"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "A birthday party should be a ____ event. / Một bữa tiệc sinh nhật nên là một sự kiện ____.",
+        "options": [
+            "happy",
+            "sad",
+            "boring",
+            "difficult"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you do with a present? / Bạn làm gì với một món quà?",
+        "options": [
+            "Open it",
+            "Close it",
+            "Eat it",
+            "Wear it"
+        ],
+        "correctAnswer": "Open it"
+    },
+    {
+        "question": "Spell the word for the colorful decorations that float. / Đánh vần từ chỉ những đồ trang trí nhiều màu sắc bay lơ lửng.",
+        "options": [
+            "b-a-l-l-o-o-n-s",
+            "b-a-n-n-e-r-s",
+            "c-o-n-f-e-t-t-i",
+            "s-t-r-e-a-m-e-r-s"
+        ],
+        "correctAnswer": "b-a-l-l-o-o-n-s"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Receive",
+            "Take",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Receive"
+    },
+    {
+        "question": "On your birthday, you ____ presents. / Vào ngày sinh nhật, bạn ____ quà.",
+        "options": [
+            "receive",
+            "give",
+            "sell",
+            "make"
+        ],
+        "correctAnswer": "receive"
+    },
+    {
+        "question": "What do you call the paper you send to invite friends to your party? / Bạn gọi tờ giấy bạn gửi để mời bạn bè đến bữa tiệc của mình là gì?",
+        "options": [
+            "An invitation",
+            "A letter",
+            "A book",
+            "A card"
+        ],
+        "correctAnswer": "An invitation"
+    },
+    {
+        "question": "Spell the word for the sweet food with candles. / Đánh vần từ chỉ món ăn ngọt có nến.",
+        "options": [
+            "c-a-k-e",
+            "j-u-i-c-e",
+            "c-a-n-d-y",
+            "f-o-o-d"
+        ],
+        "correctAnswer": "c-a-k-e"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ celebrating my birthday with my friends. / Tôi ____ kỷ niệm sinh nhật của mình với bạn bè.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call the fun activities at a party? / Bạn gọi các hoạt động vui chơi tại một bữa tiệc là gì?",
+        "options": [
+            "Games",
+            "Homework",
+            "Chores",
+            "Lessons"
+        ],
+        "correctAnswer": "Games"
+    },
+    {
+        "question": "Spell the word for the lights on a cake. / Đánh vần từ chỉ những ngọn đèn trên bánh.",
+        "options": [
+            "c-a-n-d-l-e-s",
+            "l-i-g-h-t-s",
+            "f-i-r-e",
+            "s-t-a-r-s"
+        ],
+        "correctAnswer": "c-a-n-d-l-e-s"
+    }
+]
