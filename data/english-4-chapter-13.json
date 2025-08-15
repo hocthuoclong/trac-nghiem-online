@@ -1,0 +1,463 @@
+[
+    {
+        "question": "To ask about how someone looks, you say: / Để hỏi về ngoại hình của ai đó, bạn nói:",
+        "options": [
+            "What does he/she look like?",
+            "What is his/her name?",
+            "How old is he/she?",
+            "Where is he/she from?"
+        ],
+        "correctAnswer": "What does he/she look like?"
+    },
+    {
+        "question": "A correct answer to 'What does she look like?' is: / Một câu trả lời đúng cho 'What does she look like?' là:",
+        "options": [
+            "She's tall.",
+            "She's a doctor.",
+            "She's nine years old.",
+            "She's from England."
+        ],
+        "correctAnswer": "She's tall."
+    },
+    {
+        "question": "A person who is not short is ____. / Một người không thấp thì ____.",
+        "options": [
+            "tall",
+            "small",
+            "young",
+            "old"
+        ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "A person who is not tall is ____. / Một người không cao thì ____.",
+        "options": [
+            "short",
+            "big",
+            "long",
+            "fat"
+        ],
+        "correctAnswer": "short"
+    },
+    {
+        "question": "A person who is not fat is ____. / Một người không béo thì ____.",
+        "options": [
+            "slim",
+            "big",
+            "tall",
+            "old"
+        ],
+        "correctAnswer": "slim"
+    },
+    {
+        "question": "A person who is not slim is ____. / Một người không gầy thì ____.",
+        "options": [
+            "fat",
+            "thin",
+            "short",
+            "young"
+        ],
+        "correctAnswer": "fat"
+    },
+    {
+        "question": "A person who is not young is ____. / Một người không trẻ thì ____.",
+        "options": [
+            "old",
+            "new",
+            "small",
+            "short"
+        ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "A person who is not old is ____. / Một người không già thì ____.",
+        "options": [
+            "young",
+            "big",
+            "tall",
+            "happy"
+        ],
+        "correctAnswer": "young"
+    },
+    {
+        "question": "To ask about a person's height, you say: 'Is he ____?' / Để hỏi về chiều cao của một người, bạn nói: 'Is he ____?'",
+        "options": [
+            "tall or short",
+            "fat or slim",
+            "old or young",
+            "happy or sad"
+        ],
+        "correctAnswer": "tall or short"
+    },
+    {
+        "question": "A correct positive answer to 'Is she slim?' is: / Một câu trả lời khẳng định đúng cho 'Is she slim?' là:",
+        "options": [
+            "Yes, she is.",
+            "Yes, she does.",
+            "No, she isn't.",
+            "She is a girl."
+        ],
+        "correctAnswer": "Yes, she is."
+    },
+    {
+        "question": "A correct negative answer to 'Is he old?' is: / Một câu trả lời phủ định đúng cho 'Is he old?' là:",
+        "options": [
+            "No, he isn't.",
+            "No, he doesn't.",
+            "Yes, he is.",
+            "He is a man."
+        ],
+        "correctAnswer": "No, he isn't."
+    },
+    {
+        "question": "This word describes how someone looks. What is it? / Từ này mô tả ngoại hình của ai đó. Nó là gì?",
+        "options": [
+            "Appearance",
+            "Hobby",
+            "Job",
+            "Subject"
+        ],
+        "correctAnswer": "Appearance"
+    },
+    {
+        "question": "My father is very ____. He can reach the top shelf. / Bố tôi rất ____. Ông ấy có thể với tới kệ trên cùng.",
+        "options": [
+            "tall",
+            "short",
+            "slim",
+            "young"
+        ],
+        "correctAnswer": "tall"
+    },
+    {
+        "question": "My little brother is still very ____. / Em trai nhỏ của tôi vẫn còn rất ____.",
+        "options": [
+            "young",
+            "old",
+            "tall",
+            "fat"
+        ],
+        "correctAnswer": "young"
+    },
+    {
+        "question": "My grandfather has white hair because he is ____. / Ông tôi có mái tóc bạc vì ông đã ____.",
+        "options": [
+            "old",
+            "young",
+            "short",
+            "slim"
+        ],
+        "correctAnswer": "old"
+    },
+    {
+        "question": "Spell the word for not short. / Đánh vần từ chỉ việc không thấp.",
+        "options": [
+            "t-a-l-l",
+            "s-h-o-r-t",
+            "b-i-g",
+            "l-o-n-g"
+        ],
+        "correctAnswer": "t-a-l-l"
+    },
+    {
+        "question": "What is the opposite of 'fat'? / Từ trái nghĩa của 'fat' là gì?",
+        "options": [
+            "Slim",
+            "Big",
+            "Tall",
+            "Short"
+        ],
+        "correctAnswer": "Slim"
+    },
+    {
+        "question": "A person who eats healthy food and exercises is often ____. / Một người ăn uống lành mạnh và tập thể dục thường ____.",
+        "options": [
+            "slim",
+            "fat",
+            "old",
+            "short"
+        ],
+        "correctAnswer": "slim"
+    },
+    {
+        "question": "What is the opposite of 'young'? / Từ trái nghĩa của 'young' là gì?",
+        "options": [
+            "Old",
+            "New",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "A baby is very ____. / Một em bé thì rất ____.",
+        "options": [
+            "young",
+            "old",
+            "tall",
+            "fat"
+        ],
+        "correctAnswer": "young"
+    },
+    {
+        "question": "Spell the word for not tall. / Đánh vần từ chỉ việc không cao.",
+        "options": [
+            "s-h-o-r-t",
+            "t-a-l-l",
+            "s-m-a-l-l",
+            "l-i-t-t-l-e"
+        ],
+        "correctAnswer": "s-h-o-r-t"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A weightlifter is very ____. / Một vận động viên cử tạ rất ____.",
+        "options": [
+            "strong",
+            "weak",
+            "slim",
+            "short"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "What do you call a man who is good-looking? / Bạn gọi một người đàn ông ưa nhìn là gì?",
+        "options": [
+            "Handsome",
+            "Beautiful",
+            "Pretty",
+            "Ugly"
+        ],
+        "correctAnswer": "Handsome"
+    },
+    {
+        "question": "What do you call a woman who is good-looking? / Bạn gọi một người phụ nữ ưa nhìn là gì?",
+        "options": [
+            "Beautiful",
+            "Handsome",
+            "Strong",
+            "Old"
+        ],
+        "correctAnswer": "Beautiful"
+    },
+    {
+        "question": "Spell the word for not fat. / Đánh vần từ chỉ việc không béo.",
+        "options": [
+            "s-l-i-m",
+            "t-h-i-n",
+            "f-a-t",
+            "b-i-g"
+        ],
+        "correctAnswer": "s-l-i-m"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "My sister is very ____. She looks like a princess. / Chị gái tôi rất ____. Chị ấy trông như một nàng công chúa.",
+        "options": [
+            "pretty",
+            "ugly",
+
+            "old",
+            "short"
+        ],
+        "correctAnswer": "pretty"
+    },
+    {
+        "question": "What do you call the hair on a man's chin? / Bạn gọi lông trên cằm của một người đàn ông là gì?",
+        "options": [
+            "A beard",
+            "A moustache",
+            "Hair",
+            "Eyebrows"
+        ],
+        "correctAnswer": "A beard"
+    },
+    {
+        "question": "Spell the word for not young. / Đánh vần từ chỉ việc không trẻ.",
+        "options": [
+            "o-l-d",
+            "n-e-w",
+            "y-o-u-n-g",
+            "b-i-g"
+        ],
+        "correctAnswer": "o-l-d"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ my family whatever they look like. / Tôi ____ gia đình mình dù họ trông như thế nào.",
+        "options": [
+            "love",
+            "hate",
+            "see",
+            "know"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call the hair above a man's lip? / Bạn gọi lông phía trên môi của một người đàn ông là gì?",
+        "options": [
+            "A moustache",
+            "A beard",
+            "Eyebrows",
+            "Eyelashes"
+        ],
+        "correctAnswer": "A moustache"
+    },
+    {
+        "question": "Spell the word for not weak. / Đánh vần từ chỉ việc không yếu.",
+        "options": [
+            "s-t-r-o-n-g",
+            "w-e-a-k",
+            "b-i-g",
+            "l-o-n-g"
+        ],
+        "correctAnswer": "s-t-r-o-n-g"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "My father is tall, and I ____ after him. / Bố tôi cao, và tôi ____ giống ông ấy.",
+        "options": [
+            "take",
+            "give",
+            "look",
+            "am"
+        ],
+        "correctAnswer": "take"
+    },
+    {
+        "question": "What do you call the color of someone's hair? / Bạn gọi màu tóc của ai đó là gì?",
+        "options": [
+            "Hair colour",
+            "Eye colour",
+            "Skin colour",
+            "Favourite colour"
+        ],
+        "correctAnswer": "Hair colour"
+    },
+    {
+        "question": "Spell the word for a good-looking man. / Đánh vần từ chỉ một người đàn ông ưa nhìn.",
+        "options": [
+            "h-a-n-d-s-o-m-e",
+            "b-e-a-u-t-i-f-u-l",
+            "p-r-e-t-t-y",
+            "c-u-t-e"
+        ],
+        "correctAnswer": "h-a-n-d-s-o-m-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is not ____ to make fun of someone's appearance. / Thật không ____ khi trêu chọc ngoại hình của ai đó.",
+        "options": [
+            "good",
+            "bad",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "What do you call the features of your face, like eyes and nose? / Bạn gọi các đặc điểm trên khuôn mặt của mình, như mắt và mũi là gì?",
+        "options": [
+            "Facial features",
+            "Body parts",
+            "Hobbies",
+            "Jobs"
+        ],
+        "correctAnswer": "Facial features"
+    },
+    {
+        "question": "Spell the word for a good-looking woman. / Đánh vần từ chỉ một người phụ nữ ưa nhìn.",
+        "options": [
+            "b-e-a-u-t-i-f-u-l",
+            "h-a-n-d-s-o-m-e",
+            "u-g-l-y",
+            "o-l-d"
+        ],
+        "correctAnswer": "b-e-a-u-t-i-f-u-l"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "A person with a smile on their face looks ____. / Một người có nụ cười trên môi trông ____.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call hair that is not straight? / Bạn gọi mái tóc không thẳng là gì?",
+        "options": [
+            "Curly",
+            "Wavy",
+            "Spiky",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "Spell the word for how someone looks. / Đánh vần từ chỉ ngoại hình của ai đó.",
+        "options": [
+            "a-p-p-e-a-r-a-n-c-e",
+            "p-e-r-s-o-n-a-l-i-t-y",
+            "h-o-b-b-y",
+            "j-o-b"
+        ],
+        "correctAnswer": "a-p-p-e-a-r-a-n-c-e"
+    }
+]
