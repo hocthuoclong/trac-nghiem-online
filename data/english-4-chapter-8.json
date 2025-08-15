@@ -1,0 +1,422 @@
+[
+    {
+        "question": "To ask about the subject someone likes the most, you say: / Để hỏi về môn học ai đó thích nhất, bạn nói:",
+        "options": [
+            "What's your favourite subject?",
+            "When do you have Maths?",
+            "Do you like school?",
+            "What day is it today?"
+        ],
+        "correctAnswer": "What's your favourite subject?"
+    },
+    {
+        "question": "A correct answer to 'What's your favourite subject?' is: / Một câu trả lời đúng cho 'What's your favourite subject?' là:",
+        "options": [
+            "It's Art.",
+            "I have Art on Monday.",
+            "I'm nine years old.",
+            "Yes, I do."
+        ],
+        "correctAnswer": "It's Art."
+    },
+    {
+        "question": "In this subject, you learn about numbers and calculations. What is it? / Trong môn học này, bạn học về các con số và phép tính. Nó là gì?",
+        "options": [
+            "Maths",
+            "Art",
+            "Music",
+            "English"
+        ],
+        "correctAnswer": "Maths"
+    },
+    {
+        "question": "In this subject, you learn to draw and paint pictures. What is it? / Trong môn học này, bạn học vẽ và tô màu các bức tranh. Nó là gì?",
+        "options": [
+            "Art",
+            "Science",
+            "P.E.",
+            "Vietnamese"
+        ],
+        "correctAnswer": "Art"
+    },
+    {
+        "question": "In this subject, you learn to sing songs. What is it? / Trong môn học này, bạn học hát các bài hát. Nó là gì?",
+        "options": [
+            "Music",
+            "Maths",
+            "Science",
+            "IT"
+        ],
+        "correctAnswer": "Music"
+    },
+    {
+        "question": "In this subject, you learn about plants and animals. What is it? / Trong môn học này, bạn học về cây cối và động vật. Nó là gì?",
+        "options": [
+            "Science",
+            "History",
+            "Art",
+            "Music"
+        ],
+        "correctAnswer": "Science"
+    },
+    {
+        "question": "In this subject, you learn to speak the language of Vietnam. What is it? / Trong môn học này, bạn học nói tiếng Việt Nam. Nó là gì?",
+        "options": [
+            "Vietnamese",
+            "English",
+            "Japanese",
+            "French"
+        ],
+        "correctAnswer": "Vietnamese"
+    },
+    {
+        "question": "In this subject, you run, jump and play games. What is it? / Trong môn học này, bạn chạy, nhảy và chơi các trò chơi. Nó là gì?",
+        "options": [
+            "P.E. (Physical Education)",
+            "Maths",
+            "Science",
+            "Art"
+        ],
+        "correctAnswer": "P.E. (Physical Education)"
+    },
+    {
+        "question": "In this subject, you learn how to use a computer. What is it? / Trong môn học này, bạn học cách sử dụng máy tính. Nó là gì?",
+        "options": [
+            "IT (Information Technology)",
+            "Music",
+            "Art",
+            "Vietnamese"
+        ],
+        "correctAnswer": "IT (Information Technology)"
+    },
+    {
+        "question": "To ask for the reason why someone likes a subject, you say: / Để hỏi lý do tại sao ai đó thích một môn học, bạn nói:",
+        "options": [
+            "Why do you like it?",
+            "When do you have it?",
+            "What is it?",
+            "Do you like it?"
+        ],
+        "correctAnswer": "Why do you like it?"
+    },
+    {
+        "question": "A correct answer to 'Why do you like Maths?' is: / Một câu trả lời đúng cho 'Why do you like Maths?' là:",
+        "options": [
+            "Because I like to count.",
+            "I have it on Monday.",
+            "It's Maths.",
+            "Yes, I do."
+        ],
+        "correctAnswer": "Because I like to count."
+    },
+    {
+        "question": "I like Art because I want to be an ____. / Tôi thích môn Mỹ thuật vì tôi muốn trở thành một ____.",
+        "options": [
+            "artist",
+            "singer",
+            "teacher",
+            "doctor"
+        ],
+        "correctAnswer": "artist"
+    },
+    {
+        "question": "I like Music because I want to be a ____. / Tôi thích môn Âm nhạc vì tôi muốn trở thành một ____.",
+        "options": [
+            "singer",
+            "painter",
+            "writer",
+            "farmer"
+        ],
+        "correctAnswer": "singer"
+    },
+    {
+        "question": "I like English because I want to be an English ____. / Tôi thích môn Tiếng Anh vì tôi muốn trở thành một ____ Tiếng Anh.",
+        "options": [
+            "teacher",
+            "doctor",
+            "driver",
+            "singer"
+        ],
+        "correctAnswer": "teacher"
+    },
+    {
+        "question": "I like Science because I like to ____ about animals. / Tôi thích môn Khoa học vì tôi thích ____ về động vật.",
+        "options": [
+            "learn",
+            "sing",
+            "draw",
+            "play"
+        ],
+        "correctAnswer": "learn"
+    },
+    {
+        "question": "What is the opposite of 'favourite'? / Từ trái nghĩa của 'favourite' là gì?",
+        "options": [
+            "Least favourite",
+            "Best",
+            "Most liked",
+            "Good"
+        ],
+        "correctAnswer": "Least favourite"
+    },
+    {
+        "question": "Maths is difficult, so it's my ____ subject. / Toán thì khó, vì vậy nó là môn học ____ của tôi.",
+        "options": [
+            "least favourite",
+            "favourite",
+            "best",
+            "good"
+        ],
+        "correctAnswer": "least favourite"
+    },
+    {
+        "question": "What is the opposite of 'interesting'? / Từ trái nghĩa của 'interesting' là gì?",
+        "options": [
+            "Boring",
+            "Fun",
+            "Exciting",
+            "Good"
+        ],
+        "correctAnswer": "Boring"
+    },
+    {
+        "question": "I don't like History because I think it's ____. / Tôi không thích môn Lịch sử vì tôi nghĩ nó ____.",
+        "options": [
+            "boring",
+            "interesting",
+            "fun",
+            "easy"
+        ],
+        "correctAnswer": "boring"
+    },
+    {
+        "question": "What is the opposite of 'easy'? / Từ trái nghĩa của 'easy' là gì?",
+        "options": [
+            "Difficult",
+            "Simple",
+            "Hard",
+            "Soft"
+        ],
+        "correctAnswer": "Difficult"
+    },
+    {
+        "question": "P.E. is ____ because you just play games. / Môn Thể dục thì ____ vì bạn chỉ chơi các trò chơi.",
+        "options": [
+            "easy",
+            "difficult",
+            "boring",
+            "sad"
+        ],
+        "correctAnswer": "easy"
+    },
+    {
+        "question": "Spell the word for the things you learn at school. / Đánh vần từ chỉ những thứ bạn học ở trường.",
+        "options": [
+            "s-u-b-j-e-c-t-s",
+            "h-o-b-b-i-e-s",
+            "g-a-m-e-s",
+            "f-r-i-e-n-d-s"
+        ],
+        "correctAnswer": "s-u-b-j-e-c-t-s"
+    },
+    {
+        "question": "What do you do in an Art class? / Bạn làm gì trong một lớp học Mỹ thuật?",
+        "options": [
+            "Paint",
+            "Sing",
+            "Count",
+            "Run"
+        ],
+        "correctAnswer": "Paint"
+    },
+    {
+        "question": "What do you do in a Music class? / Bạn làm gì trong một lớp học Âm nhạc?",
+        "options": [
+            "Sing",
+            "Draw",
+            "Calculate",
+            "Jump"
+        ],
+        "correctAnswer": "Sing"
+    },
+    {
+        "question": "What do you do in a Maths class? / Bạn làm gì trong một lớp học Toán?",
+        "options": [
+            "Solve problems",
+            "Read stories",
+            "Play sports",
+            "Paint pictures"
+        ],
+        "correctAnswer": "Solve problems"
+    },
+    {
+        "question": "Spell the word for your most liked thing. / Đánh vần từ chỉ thứ bạn thích nhất.",
+        "options": [
+            "f-a-v-o-u-r-i-t-e",
+            "d-i-f-f-i-c-u-l-t",
+            "i-n-t-e-r-e-s-t-i-n-g",
+            "b-o-r-i-n-g"
+        ],
+        "correctAnswer": "f-a-v-o-u-r-i-t-e"
+    },
+    {
+        "question": "What is the opposite of 'like'? / Từ trái nghĩa của 'like' là gì?",
+        "options": [
+            "Dislike",
+            "Love",
+            "Hate",
+            "Enjoy"
+        ],
+        "correctAnswer": "Dislike"
+    },
+    {
+        "question": "I ____ Maths because it's difficult. / Tôi ____ môn Toán vì nó khó.",
+        "options": [
+            "dislike",
+            "like",
+            "love",
+            "enjoy"
+        ],
+        "correctAnswer": "dislike"
+    },
+    {
+        "question": "What do you call a person who paints pictures? / Bạn gọi một người vẽ tranh là gì?",
+        "options": [
+            "A painter / An artist",
+            "A singer",
+            "A writer",
+            "A teacher"
+        ],
+        "correctAnswer": "A painter / An artist"
+    },
+    {
+        "question": "Spell the word for the subject where you learn about nature. / Đánh vần từ chỉ môn học mà bạn học về tự nhiên.",
+        "options": [
+            "S-C-I-E-N-C-E",
+            "H-I-S-T-O-R-Y",
+            "G-E-O-G-R-A-P-H-Y",
+            "M-U-S-I-C"
+        ],
+        "correctAnswer": "S-C-I-E-N-C-E"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "A good student gets ____ grades. / Một học sinh giỏi nhận được điểm ____.",
+        "options": [
+            "good",
+            "bad",
+            "low",
+            "sad"
+        ],
+        "correctAnswer": "good"
+    },
+    {
+        "question": "What do you call a person who writes books? / Bạn gọi một người viết sách là gì?",
+        "options": [
+            "A writer",
+            "A reader",
+            "A painter",
+            "A singer"
+        ],
+        "correctAnswer": "A writer"
+    },
+    {
+        "question": "Spell the word for the subject where you learn to speak a new language. / Đánh vần từ chỉ môn học mà bạn học nói một ngôn ngữ mới.",
+        "options": [
+            "E-N-G-L-I-S-H",
+            "V-I-E-T-N-A-M-E-S-E",
+            "M-A-T-H-S",
+            "A-R-T"
+        ],
+        "correctAnswer": "E-N-G-L-I-S-H"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ when I have my favourite subject. / Tôi cảm thấy ____ khi tôi có môn học yêu thích của mình.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call a person who plays music? / Bạn gọi một người chơi nhạc là gì?",
+        "options": [
+            "A musician",
+            "An artist",
+            "A writer",
+            "A dancer"
+        ],
+        "correctAnswer": "A musician"
+    },
+    {
+        "question": "Spell the word for the subject where you sing. / Đánh vần từ chỉ môn học mà bạn hát.",
+        "options": [
+            "M-U-S-I-C",
+            "A-R-T",
+            "P-E",
+            "I-T"
+        ],
+        "correctAnswer": "M-U-S-I-C"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "The teacher will ____ us a test on Friday. / Giáo viên sẽ ____ cho chúng tôi một bài kiểm tra vào thứ Sáu.",
+        "options": [
+            "give",
+            "take",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "What do you call a person who studies science? / Bạn gọi một người nghiên cứu khoa học là gì?",
+        "options": [
+            "A scientist",
+            "An artist",
+            "A musician",
+            "A writer"
+        ],
+        "correctAnswer": "A scientist"
+    },
+    {
+        "question": "Spell the word for the subject where you draw. / Đánh vần từ chỉ môn học mà bạn vẽ.",
+        "options": [
+            "A-R-T",
+            "M-A-P",
+            "P-E-T",
+            "S-U-N"
+        ],
+        "correctAnswer": "A-R-T"
+    }
+]
