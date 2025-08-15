@@ -1,0 +1,492 @@
+[
+    {
+        "question": "To ask a friend where they live, you say: / Để hỏi một người bạn họ sống ở đâu, bạn nói:",
+        "options": [
+            "Where are you from?",
+            "What's your name?",
+            "How old are you?",
+            "How are you?"
+        ],
+        "correctAnswer": "Where are you from?"
+    },
+    {
+        "question": "To answer 'Where are you from?', you can say: / Để trả lời 'Where are you from?', bạn có thể nói:",
+        "options": [
+            "I'm from Vietnam.",
+            "I'm fine, thank you.",
+            "My name is Quan.",
+            "I'm nine years old."
+        ],
+        "correctAnswer": "I'm from Vietnam."
+    },
+    {
+        "question": "A person from England is ____. / Một người đến từ nước Anh là người ____.",
+        "options": [
+            "English",
+            "Vietnamese",
+            "American",
+            "Japanese"
+        ],
+        "correctAnswer": "English"
+    },
+    {
+        "question": "A person from America is ____. / Một người đến từ nước Mỹ là người ____.",
+        "options": [
+            "American",
+            "Australian",
+            "Malaysian",
+            "English"
+        ],
+        "correctAnswer": "American"
+    },
+    {
+        "question": "A person from Australia is ____. / Một người đến từ nước Úc là người ____.",
+        "options": [
+            "Australian",
+            "American",
+            "Japanese",
+            "Vietnamese"
+        ],
+        "correctAnswer": "Australian"
+    },
+    {
+        "question": "A person from Malaysia is ____. / Một người đến từ Malaysia là người ____.",
+        "options": [
+            "Malaysian",
+            "English",
+            "American",
+            "Australian"
+        ],
+        "correctAnswer": "Malaysian"
+    },
+    {
+        "question": "A person from Japan is ____. / Một người đến từ Nhật Bản là người ____.",
+        "options": [
+            "Japanese",
+            "Vietnamese",
+            "Malaysian",
+            "English"
+        ],
+        "correctAnswer": "Japanese"
+    },
+    {
+        "question": "To ask about someone's nationality, you say: / Để hỏi về quốc tịch của ai đó, bạn nói:",
+        "options": [
+            "What nationality are you?",
+            "Where are you from?",
+            "What is your country?",
+            "Do you like Vietnam?"
+        ],
+        "correctAnswer": "What nationality are you?"
+    },
+    {
+        "question": "If you are from Vietnam, your nationality is ____. / Nếu bạn đến từ Việt Nam, quốc tịch của bạn là ____.",
+        "options": [
+            "Vietnamese",
+            "Japanese",
+            "English",
+            "American"
+        ],
+        "correctAnswer": "Vietnamese"
+    },
+    {
+        "question": "To introduce your friend, you can say: 'This is my ____, Linda.' / Để giới thiệu bạn của mình, bạn có thể nói: 'This is my ____, Linda.'",
+        "options": [
+            "friend",
+            "teacher",
+            "mother",
+            "sister"
+        ],
+        "correctAnswer": "friend"
+    },
+    {
+        "question": "What is the correct question for the answer 'I'm from America.'? / Câu hỏi đúng cho câu trả lời 'I'm from America.' là gì?",
+        "options": [
+            "Where are you from?",
+            "What nationality are you?",
+            "Are you American?",
+            "What's your name?"
+        ],
+        "correctAnswer": "Where are you from?"
+    },
+    {
+        "question": "What is the correct question for the answer 'I'm Japanese.'? / Câu hỏi đúng cho câu trả lời 'I'm Japanese.' là gì?",
+        "options": [
+            "What nationality are you?",
+            "Where are you from?",
+            "Are you from Japan?",
+            "How are you?"
+        ],
+        "correctAnswer": "What nationality are you?"
+    },
+    {
+        "question": "Tony is from Australia. He is ____. / Tony đến từ Úc. Cậu ấy là người ____.",
+        "options": [
+            "Australian",
+            "America",
+            "England",
+            "Malaysia"
+        ],
+        "correctAnswer": "Australian"
+    },
+    {
+        "question": "Akiko is from Japan. She is ____. / Akiko đến từ Nhật Bản. Cô ấy là người ____.",
+        "options": [
+            "Japanese",
+            "Vietnam",
+            "Australia",
+            "England"
+        ],
+        "correctAnswer": "Japanese"
+    },
+    {
+        "question": "Hakim is Malaysian. He is from ____. / Hakim là người Malaysia. Cậu ấy đến từ ____.",
+        "options": [
+            "Malaysia",
+            "Japan",
+            "America",
+            "Vietnam"
+        ],
+        "correctAnswer": "Malaysia"
+    },
+    {
+        "question": "Linda is English. She is from ____. / Linda là người Anh. Cô ấy đến từ ____.",
+        "options": [
+            "England",
+            "America",
+            "Australia",
+            "Japan"
+        ],
+        "correctAnswer": "England"
+    },
+    {
+        "question": "What is the correct order: 'from / are / Where / you / ?' / Trật tự đúng là gì: 'from / are / Where / you / ?'",
+        "options": [
+            "Where are you from?",
+            "Where from are you?",
+            "You are from where?",
+            "Are you where from?"
+        ],
+        "correctAnswer": "Where are you from?"
+    },
+    {
+        "question": "What is the correct order: 'name / My / is / Phong / .'? / Trật tự đúng là gì: 'name / My / is / Phong / .'?",
+        "options": [
+            "My name is Phong.",
+            "Phong is my name.",
+            "Is my name Phong.",
+            "Name my is Phong."
+        ],
+        "correctAnswer": "My name is Phong."
+    },
+    {
+        "question": "To say hello again to a friend, you can say: / Để chào lại một người bạn, bạn có thể nói:",
+        "options": [
+            "Hello again!",
+            "Goodbye again!",
+            "Thank you again!",
+            "Sorry again!"
+        ],
+        "correctAnswer": "Hello again!"
+    },
+    {
+        "question": "The capital of Vietnam is ____. / Thủ đô của Việt Nam là ____.",
+        "options": [
+            "Ha Noi",
+            "Tokyo",
+            "London",
+            "New York"
+        ],
+        "correctAnswer": "Ha Noi"
+    },
+    {
+        "question": "The capital of Japan is ____. / Thủ đô của Nhật Bản là ____.",
+        "options": [
+            "Tokyo",
+            "Sydney",
+            "Ha Noi",
+            "Washington D.C."
+        ],
+        "correctAnswer": "Tokyo"
+    },
+    {
+        "question": "The capital of England is ____. / Thủ đô của nước Anh là ____.",
+        "options": [
+            "London",
+            "Kuala Lumpur",
+            "Canberra",
+            "Tokyo"
+        ],
+        "correctAnswer": "London"
+    },
+    {
+        "question": "The capital of America is ____. / Thủ đô của nước Mỹ là ____.",
+        "options": [
+            "Washington D.C.",
+            "New York",
+            "London",
+            "Sydney"
+        ],
+        "correctAnswer": "Washington D.C."
+    },
+    {
+        "question": "The capital of Malaysia is ____. / Thủ đô của Malaysia là ____.",
+        "options": [
+            "Kuala Lumpur",
+            "Ha Noi",
+            "Tokyo",
+            "London"
+        ],
+        "correctAnswer": "Kuala Lumpur"
+    },
+    {
+        "question": "The capital of Australia is ____. / Thủ đô của Úc là ____.",
+        "options": [
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "London"
+        ],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "question": "Sydney is a big city in ____. / Sydney là một thành phố lớn ở ____.",
+        "options": [
+            "Australia",
+            "America",
+            "England",
+            "Japan"
+        ],
+        "correctAnswer": "Australia"
+    },
+    {
+        "question": "New York is a big city in ____. / New York là một thành phố lớn ở ____.",
+        "options": [
+            "America",
+            "Australia",
+            "Malaysia",
+            "Vietnam"
+        ],
+        "correctAnswer": "America"
+    },
+    {
+        "question": "To ask about a boy's name, you say: 'What's ____ name?' / Để hỏi về tên của một cậu bé, bạn nói: 'What's ____ name?'",
+        "options": [
+            "his",
+            "her",
+            "your",
+            "my"
+        ],
+        "correctAnswer": "his"
+    },
+    {
+        "question": "To ask about a girl's name, you say: 'What's ____ name?' / Để hỏi về tên của một cô gái, bạn nói: 'What's ____ name?'",
+        "options": [
+            "her",
+            "his",
+            "your",
+            "our"
+        ],
+        "correctAnswer": "her"
+    },
+    {
+        "question": "That is Tom. ____ is from America. / Đó là Tom. ____ đến từ Mỹ.",
+        "options": [
+            "He",
+            "She",
+            "It",
+            "They"
+        ],
+        "correctAnswer": "He"
+    },
+    {
+        "question": "That is Mary. ____ is from England. / Đó là Mary. ____ đến từ Anh.",
+        "options": [
+            "She",
+            "He",
+            "It",
+            "We"
+        ],
+        "correctAnswer": "She"
+    },
+    {
+        "question": "The correct response to 'Nice to meet you' is: / Câu trả lời đúng cho 'Nice to meet you' là:",
+        "options": [
+            "Nice to meet you, too.",
+            "I'm from Vietnam.",
+            "I'm fine.",
+            "Goodbye."
+        ],
+        "correctAnswer": "Nice to meet you, too."
+    },
+    {
+        "question": "What is the opposite of 'friend'? / Từ trái nghĩa của 'friend' là gì?",
+        "options": [
+            "Enemy",
+            "Family",
+            "Teacher",
+            "Pet"
+        ],
+        "correctAnswer": "Enemy"
+    },
+    {
+        "question": "A person from the same country as you is your ____. / Một người đến từ cùng một quốc gia với bạn là ____ của bạn.",
+        "options": [
+            "compatriot",
+            "friend",
+            "classmate",
+            "teacher"
+        ],
+        "correctAnswer": "compatriot"
+    },
+    {
+        "question": "Spell the word for the country of kangaroos. / Đánh vần từ chỉ đất nước của những con chuột túi.",
+        "options": [
+            "A-U-S-T-R-A-L-I-A",
+            "A-M-E-R-I-C-A",
+            "E-N-G-L-A-N-D",
+            "J-A-P-A-N"
+        ],
+        "correctAnswer": "A-U-S-T-R-A-L-I-A"
+    },
+    {
+        "question": "Spell the word for the country of the Statue of Liberty. / Đánh vần từ chỉ đất nước của Tượng Nữ thần Tự do.",
+        "options": [
+            "A-M-E-R-I-C-A",
+            "V-I-E-T-N-A-M",
+            "M-A-L-A-Y-S-I-A",
+            "E-N-G-L-A-N-D"
+        ],
+        "correctAnswer": "A-M-E-R-I-C-A"
+    },
+    {
+        "question": "Spell the word for the country of Big Ben. / Đánh vần từ chỉ đất nước của tháp đồng hồ Big Ben.",
+        "options": [
+            "E-N-G-L-A-N-D",
+            "J-A-P-A-N",
+            "A-U-S-T-R-A-L-I-A",
+            "A-M-E-R-I-C-A"
+        ],
+        "correctAnswer": "E-N-G-L-A-N-D"
+    },
+    {
+        "question": "Spell the word for the country of sushi and anime. / Đánh vần từ chỉ đất nước của sushi và anime.",
+        "options": [
+            "J-A-P-A-N",
+            "V-I-E-T-N-A-M",
+            "M-A-L-A-Y-S-I-A",
+            "E-N-G-L-A-N-D"
+        ],
+        "correctAnswer": "J-A-P-A-N"
+    },
+    {
+        "question": "Spell the word for the country with the Petronas Towers. / Đánh vần từ chỉ đất nước có Tháp đôi Petronas.",
+        "options": [
+            "M-A-L-A-Y-S-I-A",
+            "A-U-S-T-R-A-L-I-A",
+            "J-A-P-A-N",
+            "V-I-E-T-N-A-M"
+        ],
+        "correctAnswer": "M-A-L-A-Y-S-I-A"
+    },
+    {
+        "question": "Spell the word for the country of pho and ao dai. / Đánh vần từ chỉ đất nước của phở và áo dài.",
+        "options": [
+            "V-I-E-T-N-A-M",
+            "J-A-P-A-N",
+            "E-N-G-L-A-N-D",
+            "A-M-E-R-I-C-A"
+        ],
+        "correctAnswer": "V-I-E-T-N-A-M"
+    },
+    {
+        "question": "What is the correct response to 'Where are you from?' / Câu trả lời đúng cho 'Where are you from?' là gì?",
+        "options": [
+            "I'm from Japan.",
+            "I'm Japanese.",
+            "I like Japan.",
+            "Japan is beautiful."
+        ],
+        "correctAnswer": "I'm from Japan."
+    },
+    {
+        "question": "What is the correct response to 'What nationality are you?' / Câu trả lời đúng cho 'What nationality are you?' là gì?",
+        "options": [
+            "I'm Australian.",
+            "I'm from Australia.",
+            "I live in Australia.",
+            "Australia is big."
+        ],
+        "correctAnswer": "I'm Australian."
+    },
+    {
+        "question": "To ask about your friend and his friend, you say: 'Where are ____ from?' / Để hỏi về bạn của bạn và bạn của cậu ấy, bạn nói: 'Where are ____ from?'",
+        "options": [
+            "they",
+            "he",
+            "she",
+            "we"
+        ],
+        "correctAnswer": "they"
+    },
+    {
+        "question": "Tom and Tony are from America. ____ are American. / Tom và Tony đến từ Mỹ. ____ là người Mỹ.",
+        "options": [
+            "They",
+            "He",
+            "We",
+            "She"
+        ],
+        "correctAnswer": "They"
+    },
+    {
+        "question": "The word 'nationality' refers to your ____. / Từ 'nationality' đề cập đến ____ của bạn.",
+        "options": [
+            "country of citizenship",
+            "name",
+            "age",
+            "hobby"
+        ],
+        "correctAnswer": "country of citizenship"
+    },
+    {
+        "question": "If you meet many new friends, you can say 'Nice to meet you ____.' / Nếu bạn gặp nhiều người bạn mới, bạn có thể nói 'Nice to meet you ____.'",
+        "options": [
+            "all",
+            "one",
+            "too",
+            "again"
+        ],
+        "correctAnswer": "all"
+    },
+    {
+        "question": "What is the opposite of 'friend'? / Từ trái nghĩa của 'friend' là gì?",
+        "options": [
+            "Enemy",
+            "Classmate",
+            "Neighbor",
+            "Family"
+        ],
+        "correctAnswer": "Enemy"
+    },
+    {
+        "question": "A good friend is always ____. / Một người bạn tốt luôn ____.",
+        "options": [
+            "kind and helpful",
+            "mean and selfish",
+            "sad and quiet",
+            "angry and loud"
+        ],
+        "correctAnswer": "kind and helpful"
+    },
+    {
+        "question": "What is the correct order: 'from / is / England / Linda / .'? / Trật tự đúng là gì: 'from / is / England / Linda / .'?",
+        "options": [
+            "Linda is from England.",
+            "England is from Linda.",
+            "Is Linda from England.",
+            "From Linda is England."
+        ],
+        "correctAnswer": "Linda is from England."
+    }
+]
