@@ -1,0 +1,403 @@
+[
+    {
+        "question": "This is a large room at school where you can play sports like basketball. What is it? / Đây là một căn phòng lớn ở trường, nơi bạn có thể chơi các môn thể thao như bóng rổ. Nó là gì?",
+        "options": [
+            "A gym",
+            "A classroom",
+            "A library",
+            "A music room"
+        ],
+        "correctAnswer": "A gym"
+    },
+    {
+        "question": "This is a place at school where you can read and borrow many books. What is it? / Đây là một nơi ở trường mà bạn có thể đọc và mượn rất nhiều sách. Nó là gì?",
+        "options": [
+            "A library",
+            "A gym",
+            "A computer room",
+            "A canteen"
+        ],
+        "correctAnswer": "A library"
+    },
+    {
+        "question": "This is a room with many computers for students to learn IT. What is it? / Đây là một căn phòng có nhiều máy tính để học sinh học Tin học. Nó là gì?",
+        "options": [
+            "A computer room",
+            "A music room",
+            "A gym",
+            "A playground"
+        ],
+        "correctAnswer": "A computer room"
+    },
+    {
+        "question": "This is a room where you learn to sing songs and play instruments. What is it? / Đây là một căn phòng nơi bạn học hát và chơi nhạc cụ. Nó là gì?",
+        "options": [
+            "A music room",
+            "An art room",
+            "A computer room",
+            "A classroom"
+        ],
+        "correctAnswer": "A music room"
+    },
+    {
+        "question": "This is a room where you learn to draw and paint pictures. What is it? / Đây là một căn phòng nơi bạn học vẽ và tô màu các bức tranh. Nó là gì?",
+        "options": [
+            "An art room",
+            "A music room",
+            "A gym",
+            "A library"
+        ],
+        "correctAnswer": "An art room"
+    },
+    {
+        "question": "To ask if a school has a certain room, you say: '____ your school have a library?' / Để hỏi xem một trường có một phòng nào đó không, bạn nói: '____ your school have a library?'",
+        "options": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+        ],
+        "correctAnswer": "Does"
+    },
+    {
+        "question": "A correct positive answer to 'Does your school have a computer room?' is: / Một câu trả lời khẳng định đúng cho 'Does your school have a computer room?' là:",
+        "options": [
+            "Yes, it does.",
+            "Yes, it is.",
+            "No, it doesn't.",
+            "I have a computer."
+        ],
+        "correctAnswer": "Yes, it does."
+    },
+    {
+        "question": "A correct negative answer to 'Does the school have a swimming pool?' is: / Một câu trả lời phủ định đúng cho 'Does the school have a swimming pool?' là:",
+        "options": [
+            "No, it doesn't.",
+            "No, it isn't.",
+            "Yes, it does.",
+            "I can swim."
+        ],
+        "correctAnswer": "No, it doesn't."
+    },
+    {
+        "question": "What do you do in the library? / Bạn làm gì trong thư viện?",
+        "options": [
+            "Read books",
+            "Play basketball",
+            "Use a computer",
+            "Sing songs"
+        ],
+        "correctAnswer": "Read books"
+    },
+    {
+        "question": "What do you do in the computer room? / Bạn làm gì trong phòng máy tính?",
+        "options": [
+            "Use a computer",
+            "Play the piano",
+            "Read a book",
+            "Play football"
+        ],
+        "correctAnswer": "Use a computer"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Tall",
+            "Long"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "Our school gym is very ____. We can play many sports there. / Phòng thể dục của trường chúng tôi rất ____. Chúng tôi có thể chơi nhiều môn thể thao ở đó.",
+        "options": [
+            "big",
+            "small",
+            "short",
+            "old"
+        ],
+        "correctAnswer": "big"
+    },
+    {
+        "question": "What is the opposite of 'new'? / Từ trái nghĩa của 'new' là gì?",
+        "options": [
+            "Old",
+            "Young",
+            "Fresh",
+            "Modern"
+        ],
+        "correctAnswer": "Old"
+    },
+    {
+        "question": "The computers in our computer room are ____. / Những chiếc máy tính trong phòng máy của chúng tôi thì ____.",
+        "options": [
+            "new",
+            "old",
+            "sad",
+            "bad"
+        ],
+        "correctAnswer": "new"
+    },
+    {
+        "question": "What do you call all the rooms and places in a school? / Bạn gọi tất cả các phòng và địa điểm trong một trường học là gì?",
+        "options": [
+            "Facilities",
+            "Subjects",
+            "Hobbies",
+            "Friends"
+        ],
+        "correctAnswer": "Facilities"
+    },
+    {
+        "question": "Spell the word for the place where you read books. / Đánh vần từ chỉ nơi bạn đọc sách.",
+        "options": [
+            "l-i-b-r-a-r-y",
+            "c-l-a-s-s",
+            "g-y-m",
+            "c-a-f-e"
+        ],
+        "correctAnswer": "l-i-b-r-a-r-y"
+    },
+    {
+        "question": "What is the opposite of 'quiet'? / Từ trái nghĩa của 'quiet' là gì?",
+        "options": [
+            "Noisy",
+            "Loud",
+            "Silent",
+            "Calm"
+        ],
+        "correctAnswer": "Noisy"
+    },
+    {
+        "question": "You must be ____ in the library. / Bạn phải ____ trong thư viện.",
+        "options": [
+            "quiet",
+            "noisy",
+            "loud",
+            "running"
+        ],
+        "correctAnswer": "quiet"
+    },
+    {
+        "question": "What do you call a person who works in the library? / Bạn gọi một người làm việc trong thư viện là gì?",
+        "options": [
+            "A librarian",
+            "A teacher",
+            "A principal",
+            "A student"
+        ],
+        "correctAnswer": "A librarian"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The paintings in the art room are ____. / Những bức tranh trong phòng mỹ thuật thì ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for the place where you play sports. / Đánh vần từ chỉ nơi bạn chơi thể thao.",
+        "options": [
+            "g-y-m",
+            "p-a-r-k",
+            "f-i-e-l-d",
+            "c-o-u-r-t"
+        ],
+        "correctAnswer": "g-y-m"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "Our library has ____ books. / Thư viện của chúng tôi có ____ sách.",
+        "options": [
+            "many",
+
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call the big garden at some schools? / Bạn gọi khu vườn lớn ở một số trường học là gì?",
+        "options": [
+            "A school garden",
+            "A playground",
+            "A farm",
+            "A forest"
+        ],
+        "correctAnswer": "A school garden"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ having P.E. lessons in the new gym. / Tôi ____ có các tiết học Thể dục trong phòng thể dục mới.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "Spell the word for the room with many computers. / Đánh vần từ chỉ căn phòng có nhiều máy tính.",
+        "options": [
+            "c-o-m-p-u-t-e-r r-o-o-m",
+            "l-i-b-r-a-r-y",
+            "o-f-f-i-c-e",
+            "c-l-a-s-s"
+        ],
+        "correctAnswer": "c-o-m-p-u-t-e-r r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "You can ____ a book from the library and read it at home. / Bạn có thể ____ một cuốn sách từ thư viện và đọc nó ở nhà.",
+        "options": [
+            "borrow",
+            "give",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "borrow"
+    },
+    {
+        "question": "What do you call the room where you learn to play the piano? / Bạn gọi căn phòng nơi bạn học chơi piano là gì?",
+        "options": [
+            "A music room",
+            "An art room",
+            "A computer room",
+            "A gym"
+        ],
+        "correctAnswer": "A music room"
+    },
+    {
+        "question": "Spell the word for the room where you paint. / Đánh vần từ chỉ căn phòng nơi bạn vẽ.",
+        "options": [
+            "a-r-t r-o-o-m",
+            "m-u-s-i-c r-o-o-m",
+            "c-l-a-s-s-r-o-o-m",
+            "g-y-m"
+        ],
+        "correctAnswer": "a-r-t r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is a ____ idea to run in the library. / Chạy trong thư viện là một ý tưởng ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a large, modern school? / Bạn gọi một ngôi trường lớn, hiện đại là gì?",
+        "options": [
+            "A modern school",
+            "An old school",
+            "A small school",
+            "A bad school"
+        ],
+        "correctAnswer": "A modern school"
+    },
+    {
+        "question": "Spell the word for the room where you sing. / Đánh vần từ chỉ căn phòng nơi bạn hát.",
+        "options": [
+            "m-u-s-i-c r-o-o-m",
+            "a-r-t r-o-o-m",
+            "g-y-m",
+            "c-l-a-s-s"
+        ],
+        "correctAnswer": "m-u-s-i-c r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I am ____ because our school has a new playground. / Tôi ____ vì trường chúng tôi có một sân chơi mới.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call a place where you can swim at school? / Bạn gọi nơi bạn có thể bơi ở trường là gì?",
+        "options": [
+            "A swimming pool",
+            "A gym",
+            "A playground",
+            "A pond"
+        ],
+        "correctAnswer": "A swimming pool"
+    },
+    {
+        "question": "Spell the word for the place you play outside. / Đánh vần từ chỉ nơi bạn chơi bên ngoài.",
+        "options": [
+            "p-l-a-y-g-r-o-u-n-d",
+            "g-a-r-d-e-n",
+            "y-a-r-d",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "p-l-a-y-g-r-o-u-n-d"
+    }
+]
