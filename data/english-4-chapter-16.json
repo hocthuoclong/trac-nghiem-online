@@ -1,0 +1,422 @@
+[
+    {
+        "question": "To ask about the weather today, you say: / Để hỏi về thời tiết hôm nay, bạn nói:",
+        "options": [
+            "What's the weather like today?",
+            "What time is it?",
+            "What is your name?",
+            "How old are you?"
+        ],
+        "correctAnswer": "What's the weather like today?"
+    },
+    {
+        "question": "A correct answer to 'What's the weather like?' is: / Một câu trả lời đúng cho 'What's the weather like?' là:",
+        "options": [
+            "It's sunny.",
+            "It's Monday.",
+            "I'm fine, thank you.",
+            "I like the weather."
+        ],
+        "correctAnswer": "It's sunny."
+    },
+    {
+        "question": "When the sun is shining brightly, the weather is ____. / Khi mặt trời chiếu sáng rực rỡ, thời tiết ____.",
+        "options": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "snowy"
+        ],
+        "correctAnswer": "sunny"
+    },
+    {
+        "question": "When water is falling from the sky, the weather is ____. / Khi nước rơi từ trên trời xuống, thời tiết ____.",
+        "options": [
+            "rainy",
+            "sunny",
+            "windy",
+            "cloudy"
+        ],
+        "correctAnswer": "rainy"
+    },
+    {
+        "question": "When the wind is blowing very hard, the weather is ____. / Khi gió thổi rất mạnh, thời tiết ____.",
+        "options": [
+            "windy",
+            "sunny",
+            "rainy",
+            "calm"
+        ],
+        "correctAnswer": "windy"
+    },
+    {
+        "question": "When white flakes fall from the sky in winter, the weather is ____. / Khi những bông tuyết trắng rơi từ trên trời xuống vào mùa đông, thời tiết ____.",
+        "options": [
+            "snowy",
+            "sunny",
+            "hot",
+            "rainy"
+        ],
+        "correctAnswer": "snowy"
+    },
+    {
+        "question": "When there are many clouds in the sky, the weather is ____. / Khi có nhiều mây trên bầu trời, thời tiết ____.",
+        "options": [
+            "cloudy",
+            "sunny",
+            "stormy",
+            "clear"
+        ],
+        "correctAnswer": "cloudy"
+    },
+    {
+        "question": "When there is thunder and lightning, the weather is ____. / Khi có sấm và chớp, thời tiết ____.",
+        "options": [
+            "stormy",
+            "sunny",
+            "calm",
+            "cloudy"
+        ],
+        "correctAnswer": "stormy"
+    },
+    {
+        "question": "In summer, the weather is usually very ____. / Vào mùa hè, thời tiết thường rất ____.",
+        "options": [
+            "hot",
+            "cold",
+            "snowy",
+            "freezing"
+        ],
+        "correctAnswer": "hot"
+    },
+    {
+        "question": "In winter, the weather is usually very ____. / Vào mùa đông, thời tiết thường rất ____.",
+        "options": [
+            "cold",
+            "hot",
+            "sunny",
+            "warm"
+        ],
+        "correctAnswer": "cold"
+    },
+    {
+        "question": "What can you do on a windy day? / Bạn có thể làm gì vào một ngày có gió?",
+        "options": [
+            "Fly a kite",
+            "Go swimming",
+            "Build a snowman",
+            "Sunbathe"
+        ],
+        "correctAnswer": "Fly a kite"
+    },
+    {
+        "question": "What can you do on a hot and sunny day? / Bạn có thể làm gì vào một ngày nóng và nắng?",
+        "options": [
+            "Go swimming",
+            "Make a snowman",
+            "Wear a coat",
+            "Stay inside"
+        ],
+        "correctAnswer": "Go swimming"
+    },
+    {
+        "question": "What can you do on a snowy day? / Bạn có thể làm gì vào một ngày có tuyết?",
+        "options": [
+            "Make a snowman",
+            "Fly a kite",
+            "Go to the beach",
+            "Wear shorts"
+        ],
+        "correctAnswer": "Make a snowman"
+    },
+    {
+        "question": "What should you take with you on a rainy day? / Bạn nên mang theo gì vào một ngày mưa?",
+        "options": [
+            "An umbrella",
+            "Sunglasses",
+            "A kite",
+            "A swimsuit"
+        ],
+        "correctAnswer": "An umbrella"
+    },
+    {
+        "question": "What should you wear on a cold, snowy day? / Bạn nên mặc gì vào một ngày lạnh, có tuyết?",
+        "options": [
+            "A coat and gloves",
+            "A T-shirt and shorts",
+            "A swimsuit",
+            "A dress"
+        ],
+        "correctAnswer": "A coat and gloves"
+    },
+    {
+        "question": "Spell the word for when the sun is shining. / Đánh vần từ chỉ khi mặt trời đang chiếu sáng.",
+        "options": [
+            "s-u-n-n-y",
+            "r-a-i-n-y",
+            "c-l-o-u-d-y",
+            "w-i-n-d-y"
+        ],
+        "correctAnswer": "s-u-n-n-y"
+    },
+    {
+        "question": "What is the opposite of 'hot'? / Từ trái nghĩa của 'hot' là gì?",
+        "options": [
+            "Cold",
+            "Warm",
+            "Big",
+            "Fast"
+        ],
+        "correctAnswer": "Cold"
+    },
+    {
+        "question": "The weather in the desert is very ____. / Thời tiết ở sa mạc rất ____.",
+        "options": [
+            "hot and dry",
+            "cold and wet",
+            "snowy",
+            "stormy"
+        ],
+        "correctAnswer": "hot and dry"
+    },
+    {
+        "question": "What is the opposite of 'wet'? / Từ trái nghĩa của 'wet' là gì?",
+        "options": [
+            "Dry",
+            "Hot",
+            "Cold",
+            "Soft"
+        ],
+        "correctAnswer": "Dry"
+    },
+    {
+        "question": "After it rains, the ground is ____. / Sau khi mưa, mặt đất ____.",
+        "options": [
+            "wet",
+            "dry",
+            "hot",
+            "cold"
+        ],
+        "correctAnswer": "wet"
+    },
+    {
+        "question": "Spell the word for when water falls from the sky. / Đánh vần từ chỉ khi nước rơi từ trên trời xuống.",
+        "options": [
+            "r-a-i-n-y",
+            "s-n-o-w-y",
+            "s-u-n-n-y",
+            "f-o-g-g-y"
+        ],
+        "correctAnswer": "r-a-i-n-y"
+    },
+    {
+        "question": "What is the opposite of 'cloudy'? / Từ trái nghĩa của 'cloudy' là gì?",
+        "options": [
+            "Clear",
+            "Sunny",
+            "Bright",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "A day with no clouds has a ____ sky. / Một ngày không có mây có một bầu trời ____.",
+        "options": [
+            "clear",
+            "cloudy",
+            "stormy",
+            "dark"
+        ],
+        "correctAnswer": "clear"
+    },
+    {
+        "question": "What do you call the sound you hear during a storm? / Bạn gọi âm thanh bạn nghe thấy trong một cơn bão là gì?",
+        "options": [
+            "Thunder",
+            "Lightning",
+            "Rain",
+            "Wind"
+        ],
+        "correctAnswer": "Thunder"
+    },
+    {
+        "question": "What do you call the flash of light you see during a storm? / Bạn gọi tia sáng bạn thấy trong một cơn bão là gì?",
+        "options": [
+            "Lightning",
+            "Thunder",
+            "Sun",
+            "A star"
+        ],
+        "correctAnswer": "Lightning"
+    },
+    {
+        "question": "Spell the word for when the wind blows hard. / Đánh vần từ chỉ khi gió thổi mạnh.",
+        "options": [
+            "w-i-n-d-y",
+            "s-t-o-r-m-y",
+            "c-a-l-m",
+            "b-r-e-e-z-y"
+        ],
+        "correctAnswer": "w-i-n-d-y"
+    },
+    {
+        "question": "What is the opposite of 'warm'? / Từ trái nghĩa của 'warm' là gì?",
+        "options": [
+            "Cool",
+            "Hot",
+            "Cold",
+            "Sunny"
+        ],
+        "correctAnswer": "Cool"
+    },
+    {
+        "question": "In autumn, the weather is often ____. / Vào mùa thu, thời tiết thường ____.",
+        "options": [
+            "cool",
+            "hot",
+            "snowy",
+            "freezing"
+        ],
+        "correctAnswer": "cool"
+    },
+    {
+        "question": "What do you call the four parts of the year with different weather? / Bạn gọi bốn phần của năm với thời tiết khác nhau là gì?",
+        "options": [
+            "Seasons",
+            "Months",
+            "Weeks",
+            "Days"
+        ],
+        "correctAnswer": "Seasons"
+    },
+    {
+        "question": "Spell the word for when white flakes fall. / Đánh vần từ chỉ khi những bông tuyết trắng rơi.",
+        "options": [
+            "s-n-o-w-y",
+            "r-a-i-n-y",
+            "c-l-o-u-d-y",
+            "s-u-n-n-y"
+        ],
+        "correctAnswer": "s-n-o-w-y"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "Stormy weather can be ____. / Thời tiết bão tố có thể ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a gentle wind? / Bạn gọi một cơn gió nhẹ là gì?",
+        "options": [
+            "A breeze",
+            "A storm",
+            "A hurricane",
+            "A tornado"
+        ],
+        "correctAnswer": "A breeze"
+    },
+    {
+        "question": "Spell the word for when there are many clouds. / Đánh vần từ chỉ khi có nhiều mây.",
+        "options": [
+            "c-l-o-u-d-y",
+            "s-u-n-n-y",
+            "c-l-e-a-r",
+            "b-r-i-g-h-t"
+        ],
+        "correctAnswer": "c-l-o-u-d-y"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Rainy days can sometimes make people feel ____. / Những ngày mưa đôi khi có thể làm mọi người cảm thấy ____.",
+        "options": [
+            "sad",
+            "happy",
+            "excited",
+            "hungry"
+        ],
+        "correctAnswer": "sad"
+    },
+    {
+        "question": "What do you call the temperature of the air? / Bạn gọi nhiệt độ của không khí là gì?",
+        "options": [
+            "The weather",
+            "The climate",
+            "The season",
+            "The forecast"
+        ],
+        "correctAnswer": "The weather"
+    },
+    {
+        "question": "Spell the word for when it is very cold. / Đánh vần từ chỉ khi trời rất lạnh.",
+        "options": [
+            "c-o-l-d",
+            "h-o-t",
+            "w-a-r-m",
+            "c-o-o-l"
+        ],
+        "correctAnswer": "c-o-l-d"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ stormy weather because it is scary. / Tôi ____ thời tiết bão tố vì nó đáng sợ.",
+        "options": [
+            "hate",
+            "love",
+            "like",
+            "enjoy"
+        ],
+        "correctAnswer": "hate"
+    },
+    {
+        "question": "What do you call a prediction of the weather? / Bạn gọi một dự đoán về thời tiết là gì?",
+        "options": [
+            "A forecast",
+            "A story",
+            "A guess",
+            "A wish"
+        ],
+        "correctAnswer": "A forecast"
+    },
+    {
+        "question": "Spell the word for when it is very hot. / Đánh vần từ chỉ khi trời rất nóng.",
+        "options": [
+            "h-o-t",
+            "c-o-l-d",
+            "w-e-t",
+            "d-r-y"
+        ],
+        "correctAnswer": "h-o-t"
+    }
+]
