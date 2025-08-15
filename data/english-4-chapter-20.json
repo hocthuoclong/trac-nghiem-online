@@ -1,0 +1,422 @@
+[
+    {
+        "question": "This is a place in nature where people stay in tents for a holiday. What is it? / Đây là một nơi trong tự nhiên, nơi mọi người ở trong lều để nghỉ lễ. Nó là gì?",
+        "options": [
+            "A summer camp",
+            "A school",
+            "A city",
+            "A shopping centre"
+        ],
+        "correctAnswer": "A summer camp"
+    },
+    {
+        "question": "You sleep in this small house made of cloth when you go camping. What is it? / Bạn ngủ trong ngôi nhà nhỏ làm bằng vải này khi đi cắm trại. Nó là gì?",
+        "options": [
+            "A tent",
+            "A house",
+            "A car",
+            "A bed"
+        ],
+        "correctAnswer": "A tent"
+    },
+    {
+        "question": "You sleep inside this warm bag at a campsite. What is it? / Bạn ngủ bên trong chiếc túi ấm áp này tại khu cắm trại. Nó là gì?",
+        "options": [
+            "A sleeping bag",
+            "A blanket",
+            "A pillow",
+            "A coat"
+        ],
+        "correctAnswer": "A sleeping bag"
+    },
+    {
+        "question": "This is a fire you make outside to keep warm and tell stories around. What is it? / Đây là một ngọn lửa bạn đốt ngoài trời để giữ ấm và kể chuyện xung quanh. Nó là gì?",
+        "options": [
+            "A campfire",
+            "A stove",
+            "An oven",
+            "A lamp"
+        ],
+        "correctAnswer": "A campfire"
+    },
+    {
+        "question": "This is a large area with many trees. What is it? / Đây là một khu vực rộng lớn có nhiều cây cối. Nó là gì?",
+        "options": [
+            "A forest",
+            "A field",
+            "A beach",
+            "A desert"
+        ],
+        "correctAnswer": "A forest"
+    },
+    {
+        "question": "You use this to see in the dark. What is it? / Bạn dùng cái này để nhìn trong bóng tối. Nó là gì?",
+        "options": [
+            "A flashlight",
+            "A candle",
+            "A lamp",
+            "The sun"
+        ],
+        "correctAnswer": "A flashlight"
+    },
+    {
+        "question": "This activity is walking for a long distance in the forest or mountains. What is it? / Hoạt động này là đi bộ một quãng đường dài trong rừng hoặc núi. Nó là gì?",
+        "options": [
+            "Hiking",
+            "Swimming",
+            "Cooking",
+            "Sleeping"
+        ],
+        "correctAnswer": "Hiking"
+    },
+    {
+        "question": "This activity is catching fish from a river or lake. What is it? / Hoạt động này là bắt cá từ sông hoặc hồ. Nó là gì?",
+        "options": [
+            "Fishing",
+            "Hiking",
+            "Camping",
+            "Playing"
+        ],
+        "correctAnswer": "Fishing"
+    },
+    {
+        "question": "What do you do with your friends around the campfire at night? / Bạn làm gì với bạn bè quanh đống lửa trại vào ban đêm?",
+        "options": [
+            "Tell stories and sing songs",
+            "Do homework",
+            "Watch TV",
+            "Go shopping"
+        ],
+        "correctAnswer": "Tell stories and sing songs"
+    },
+    {
+        "question": "To ask about your friend's activities at the camp, you say: / Để hỏi về các hoạt động của bạn mình tại trại hè, bạn nói:",
+        "options": [
+            "What did you do at the camp?",
+            "Where is the camp?",
+            "How old are you?",
+            "What is your name?"
+        ],
+        "correctAnswer": "What did you do at the camp?"
+    },
+    {
+        "question": "A correct answer to 'What did you do?' is: / Một câu trả lời đúng cho 'What did you do?' là:",
+        "options": [
+            "I went hiking.",
+            "It was fun.",
+            "I am nine years old.",
+            "My name is Quan."
+        ],
+        "correctAnswer": "I went hiking."
+    },
+    {
+        "question": "The past tense of 'go' is ____. / Dạng quá khứ của 'go' là ____.",
+        "options": [
+            "went",
+            "gone",
+            "goed",
+            "go"
+        ],
+        "correctAnswer": "went"
+    },
+    {
+        "question": "The past tense of 'tell' is ____. / Dạng quá khứ của 'tell' là gì?",
+        "options": [
+            "told",
+            "telled",
+            "talling",
+            "tell"
+        ],
+        "correctAnswer": "told"
+    },
+    {
+        "question": "The past tense of 'sing' is ____. / Dạng quá khứ của 'sing' là gì?",
+        "options": [
+            "sang",
+            "singed",
+            "sung",
+            "sing"
+        ],
+        "correctAnswer": "sang"
+    },
+    {
+        "question": "The past tense of 'make' is ____. / Dạng quá khứ của 'make' là gì?",
+        "options": [
+            "made",
+            "maked",
+            "moke",
+            "make"
+        ],
+        "correctAnswer": "made"
+    },
+    {
+        "question": "We ____ a big campfire last night. / Chúng tôi ____ một đống lửa trại lớn tối qua.",
+        "options": [
+            "made",
+            "make",
+            "makes",
+            "are making"
+        ],
+        "correctAnswer": "made"
+    },
+    {
+        "question": "She ____ a funny story. / Cô ấy ____ một câu chuyện vui.",
+        "options": [
+            "told",
+            "tell",
+            "tells",
+            "is telling"
+        ],
+        "correctAnswer": "told"
+    },
+    {
+        "question": "They ____ many songs together. / Họ ____ nhiều bài hát cùng nhau.",
+        "options": [
+            "sang",
+            "sing",
+            "sings",
+            "are singing"
+        ],
+        "correctAnswer": "sang"
+    },
+    {
+        "question": "What do you call a bag you carry on your back with your things for camping? / Bạn gọi chiếc túi bạn đeo trên lưng với đồ đạc để đi cắm trại là gì?",
+        "options": [
+            "A backpack",
+            "A handbag",
+            "A suitcase",
+            "A wallet"
+        ],
+        "correctAnswer": "A backpack"
+    },
+    {
+        "question": "What do you use to find your way in the forest? / Bạn dùng gì để tìm đường trong rừng?",
+        "options": [
+            "A map and a compass",
+            "A book and a pen",
+            "A phone and a charger",
+            "A tent and a sleeping bag"
+        ],
+        "correctAnswer": "A map and a compass"
+    },
+    {
+        "question": "Spell the word for the place where you camp. / Đánh vần từ chỉ nơi bạn cắm trại.",
+        "options": [
+            "c-a-m-p-s-i-t-e",
+            "f-o-r-e-s-t",
+            "m-o-u-n-t-a-i-n",
+            "b-e-a-c-h"
+        ],
+        "correctAnswer": "c-a-m-p-s-i-t-e"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Morning",
+            "Evening",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You can see the stars at ____. / Bạn có thể nhìn thấy các vì sao vào ____.",
+        "options": [
+            "night",
+            "day",
+            "noon",
+            "morning"
+        ],
+        "correctAnswer": "night"
+    },
+    {
+        "question": "What is the opposite of 'light' (not dark)? / Từ trái nghĩa của 'light' là gì? (không tối)",
+        "options": [
+            "Dark",
+            "Bright",
+            "Heavy",
+            "Soft"
+        ],
+        "correctAnswer": "Dark"
+    },
+    {
+        "question": "It is very ____ in the forest at night. / Trời rất ____ trong rừng vào ban đêm.",
+        "options": [
+            "dark",
+            "bright",
+            "sunny",
+            "hot"
+        ],
+        "correctAnswer": "dark"
+    },
+    {
+        "question": "Spell the word for the house made of cloth. / Đánh vần từ chỉ ngôi nhà làm bằng vải.",
+        "options": [
+            "t-e-n-t",
+            "h-u-t",
+            "c-a-b-i-n",
+            "h-o-u-s-e"
+        ],
+        "correctAnswer": "t-e-n-t"
+    },
+    {
+        "question": "What is the opposite of 'hot'? / Từ trái nghĩa của 'hot' là gì?",
+        "options": [
+            "Cold",
+            "Warm",
+            "Big",
+            "Fast"
+        ],
+        "correctAnswer": "Cold"
+    },
+    {
+        "question": "It can get ____ at night when you are camping. / Trời có thể trở ____ vào ban đêm khi bạn đi cắm trại.",
+        "options": [
+            "cold",
+            "hot",
+            "sunny",
+            "dry"
+        ],
+        "correctAnswer": "cold"
+    },
+    {
+        "question": "What do you call the stories people tell around a campfire? / Bạn gọi những câu chuyện mọi người kể quanh đống lửa trại là gì?",
+        "options": [
+            "Campfire stories",
+            "Homework",
+            "Lessons",
+            "News"
+        ],
+        "correctAnswer": "Campfire stories"
+    },
+    {
+        "question": "Spell the word for the warm bag you sleep in. / Đánh vần từ chỉ chiếc túi ấm bạn ngủ trong đó.",
+        "options": [
+            "s-l-e-e-p-i-n-g b-a-g",
+            "b-a-c-k-p-a-c-k",
+            "b-l-a-n-k-e-t",
+            "p-i-l-l-o-w"
+        ],
+        "correctAnswer": "s-l-e-e-p-i-n-g b-a-g"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ going camping with my friends. / Tôi ____ đi cắm trại với bạn bè của mình.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a sweet, soft food that you roast over a campfire? / Bạn gọi món ăn ngọt, mềm mà bạn nướng trên lửa trại là gì?",
+        "options": [
+            "A marshmallow",
+            "A cake",
+            "A cookie",
+            "Bread"
+        ],
+        "correctAnswer": "A marshmallow"
+    },
+    {
+        "question": "Spell the word for the fire you make outside. / Đánh vần từ chỉ ngọn lửa bạn đốt ngoài trời.",
+        "options": [
+            "c-a-m-p-f-i-r-e",
+            "f-i-r-e-p-l-a-c-e",
+            "c-a-n-d-l-e",
+            "l-a-m-p"
+        ],
+        "correctAnswer": "c-a-m-p-f-i-r-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "Getting lost in the forest is a ____ experience. / Bị lạc trong rừng là một trải nghiệm ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the activity of setting up your tent? / Bạn gọi hoạt động dựng lều của mình là gì?",
+        "options": [
+            "Pitching a tent",
+            "Building a house",
+            "Making a bed",
+            "Cooking dinner"
+        ],
+        "correctAnswer": "Pitching a tent"
+    },
+    {
+        "question": "Spell the word for a large area of trees. / Đánh vần từ chỉ một khu vực rộng lớn có cây cối.",
+        "options": [
+            "f-o-r-e-s-t",
+            "g-a-r-d-e-n",
+            "p-a-r-k",
+            "f-i-e-l-d"
+        ],
+        "correctAnswer": "f-o-r-e-s-t"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "A summer camp is a ____ experience. / Một trại hè là một trải nghiệm ____.",
+        "options": [
+            "fun",
+            "sad",
+            "boring",
+            "bad"
+        ],
+        "correctAnswer": "fun"
+    },
+    {
+        "question": "What do you call the people you go camping with? / Bạn gọi những người bạn đi cắm trại cùng là gì?",
+        "options": [
+            "Friends or family",
+            "Teachers",
+            "Doctors",
+            "Strangers"
+        ],
+        "correctAnswer": "Friends or family"
+    },
+    {
+        "question": "Spell the word for the tool you use to see in the dark. / Đánh vần từ chỉ dụng cụ bạn dùng để nhìn trong bóng tối.",
+        "options": [
+            "f-l-a-s-h-l-i-g-h-t",
+            "l-a-m-p",
+            "c-a-n-d-l-e",
+            "m-a-t-c-h"
+        ],
+        "correctAnswer": "f-l-a-s-h-l-i-g-h-t"
+    }
+]
