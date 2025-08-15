@@ -1,0 +1,423 @@
+[
+    {
+        "question": "This is a list that shows your subjects for each day of the week. What is it? / Đây là một danh sách cho thấy các môn học của bạn vào mỗi ngày trong tuần. Nó là gì?",
+        "options": [
+            "A timetable",
+            "A menu",
+            "A shopping list",
+            "A storybook"
+        ],
+        "correctAnswer": "A timetable"
+    },
+    {
+        "question": "To ask what day it is, you say: / Để hỏi hôm nay là thứ mấy, bạn nói:",
+        "options": [
+            "What day is it today?",
+            "What time is it?",
+            "When do you have Maths?",
+            "How are you?"
+        ],
+        "correctAnswer": "What day is it today?"
+    },
+    {
+        "question": "A correct answer to 'What day is it today?' is: / Một câu trả lời đúng cho 'What day is it today?' là:",
+        "options": [
+            "It's Monday.",
+            "It's seven o'clock.",
+            "I have English.",
+            "I'm fine, thank you."
+        ],
+        "correctAnswer": "It's Monday."
+    },
+    {
+        "question": "To ask about the subjects on a specific day, you say: 'What subjects do you have on ____?' / Để hỏi về các môn học vào một ngày cụ thể, bạn nói: 'What subjects do you have on ____?'",
+        "options": [
+            "Tuesday",
+            "Today",
+            "Tomorrow",
+            "School"
+        ],
+        "correctAnswer": "Tuesday"
+    },
+    {
+        "question": "A correct answer to 'What subjects do you have on Friday?' is: / Một câu trả lời đúng cho 'What subjects do you have on Friday?' là:",
+        "options": [
+            "I have English and Art.",
+            "It's Friday.",
+            "I like Friday.",
+            "Yes, I do."
+        ],
+        "correctAnswer": "I have English and Art."
+    },
+    {
+        "question": "This is the first day of the school week. What day is it? / Đây là ngày đầu tiên trong tuần đi học. Đó là ngày nào?",
+        "options": [
+            "Monday",
+            "Sunday",
+            "Friday",
+            "Saturday"
+        ],
+        "correctAnswer": "Monday"
+    },
+    {
+        "question": "This is the day after Monday. What day is it? / Đây là ngày sau thứ Hai. Đó là ngày nào?",
+        "options": [
+            "Tuesday",
+            "Wednesday",
+            "Sunday",
+            "Thursday"
+        ],
+        "correctAnswer": "Tuesday"
+    },
+    {
+        "question": "This is the day in the middle of the school week. What day is it? / Đây là ngày ở giữa tuần đi học. Đó là ngày nào?",
+        "options": [
+            "Wednesday",
+            "Monday",
+            "Friday",
+            "Tuesday"
+        ],
+        "correctAnswer": "Wednesday"
+    },
+    {
+        "question": "This is the day before Friday. What day is it? / Đây là ngày trước thứ Sáu. Đó là ngày nào?",
+        "options": [
+            "Thursday",
+            "Wednesday",
+            "Saturday",
+            "Tuesday"
+        ],
+        "correctAnswer": "Thursday"
+    },
+    {
+        "question": "This is the last day of the school week. What day is it? / Đây là ngày cuối cùng trong tuần đi học. Đó là ngày nào?",
+        "options": [
+            "Friday",
+            "Saturday",
+            "Sunday",
+            "Monday"
+        ],
+        "correctAnswer": "Friday"
+    },
+    {
+        "question": "These two days are the weekend. What are they? / Hai ngày này là cuối tuần. Chúng là những ngày nào?",
+        "options": [
+            "Saturday and Sunday",
+            "Monday and Tuesday",
+            "Thursday and Friday",
+            "Wednesday and Thursday"
+        ],
+        "correctAnswer": "Saturday and Sunday"
+    },
+    {
+        "question": "In this subject, you learn about numbers. What is it? / Trong môn học này, bạn học về các con số. Nó là gì?",
+        "options": [
+            "Maths",
+            "Science",
+            "Art",
+            "Music"
+        ],
+        "correctAnswer": "Maths"
+    },
+    {
+        "question": "In this subject, you learn about plants and animals. What is it? / Trong môn học này, bạn học về cây cối và động vật. Nó là gì?",
+        "options": [
+            "Science",
+            "Maths",
+            "History",
+            "Music"
+        ],
+        "correctAnswer": "Science"
+    },
+    {
+        "question": "In this subject, you learn to speak a language from England and America. What is it? / Trong môn học này, bạn học nói một ngôn ngữ từ Anh và Mỹ. Nó là gì?",
+        "options": [
+            "English",
+            "Maths",
+            "Art",
+
+            "P.E."
+        ],
+        "correctAnswer": "English"
+    },
+    {
+        "question": "In this subject, you sing songs. What is it? / Trong môn học này, bạn hát các bài hát. Nó là gì?",
+        "options": [
+            "Music",
+            "Art",
+            "Science",
+            "Maths"
+        ],
+        "correctAnswer": "Music"
+    },
+    {
+        "question": "In this subject, you draw pictures. What is it? / Trong môn học này, bạn vẽ các bức tranh. Nó là gì?",
+        "options": [
+            "Art",
+            "Music",
+            "P.E.",
+            "Science"
+        ],
+        "correctAnswer": "Art"
+    },
+    {
+        "question": "In this subject, you run and play sports. What is it? / Trong môn học này, bạn chạy và chơi thể thao. Nó là gì?",
+        "options": [
+            "P.E. (Physical Education)",
+            "Maths",
+            "Art",
+            "Music"
+        ],
+        "correctAnswer": "P.E. (Physical Education)"
+    },
+    {
+        "question": "What is the correct order: 'have / on / I / Maths / Monday /.'? / Trật tự đúng là gì: 'have / on / I / Maths / Monday /.'?",
+        "options": [
+            "I have Maths on Monday.",
+            "I on Monday have Maths.",
+            "Maths I have on Monday.",
+            "Monday on I have Maths."
+        ],
+        "correctAnswer": "I have Maths on Monday."
+    },
+    {
+        "question": "What is the correct question for the answer 'I have Science on Tuesday.'? / Câu hỏi đúng cho câu trả lời 'I have Science on Tuesday.' là gì?",
+        "options": [
+            "What do you have on Tuesday?",
+            "When do you have Science?",
+            "Do you have Science on Tuesday?",
+            "Both A and B are correct"
+        ],
+        "correctAnswer": "Both A and B are correct"
+    },
+    {
+        "question": "The day after Saturday is ____. / Ngày sau thứ Bảy là ____.",
+        "options": [
+            "Sunday",
+            "Friday",
+            "Monday",
+            "Thursday"
+        ],
+        "correctAnswer": "Sunday"
+    },
+    {
+        "question": "The day before Monday is ____. / Ngày trước thứ Hai là ____.",
+        "options": [
+            "Sunday",
+            "Tuesday",
+            "Saturday",
+            "Friday"
+        ],
+        "correctAnswer": "Sunday"
+    },
+    {
+        "question": "Spell the word for the day after Sunday. / Đánh vần từ chỉ ngày sau Chủ nhật.",
+        "options": [
+            "M-O-N-D-A-Y",
+            "T-U-E-S-D-A-Y",
+            "S-U-N-D-A-Y",
+            "F-R-I-D-A-Y"
+        ],
+        "correctAnswer": "M-O-N-D-A-Y"
+    },
+    {
+        "question": "What is the opposite of 'before'? / Từ trái nghĩa của 'before' là gì?",
+        "options": [
+            "After",
+            "During",
+            "Next",
+            "Then"
+        ],
+        "correctAnswer": "After"
+    },
+    {
+        "question": "Thursday comes ____ Wednesday. / Thứ Năm đến ____ thứ Tư.",
+        "options": [
+            "after",
+            "before",
+            "on",
+            "in"
+        ],
+        "correctAnswer": "after"
+    },
+    {
+        "question": "What do you call the two days when you don't go to school? / Bạn gọi hai ngày bạn không đến trường là gì?",
+        "options": [
+            "The weekend",
+            "The weekday",
+            "A holiday",
+            "A vacation"
+        ],
+        "correctAnswer": "The weekend"
+    },
+    {
+        "question": "Spell the word for the subject with numbers. / Đánh vần từ chỉ môn học với các con số.",
+        "options": [
+            "M-A-T-H-S",
+            "A-R-T",
+            "M-U-S-I-C",
+            "P-E"
+        ],
+        "correctAnswer": "M-A-T-H-S"
+    },
+    {
+        "question": "What is the opposite of 'like'? / Từ trái nghĩa của 'like' là gì?",
+        "options": [
+            "Dislike",
+            "Love",
+            "Hate",
+            "Enjoy"
+        ],
+        "correctAnswer": "Dislike"
+    },
+    {
+        "question": "To ask if your friend likes a subject, you say: 'Do you ____ Art?' / Để hỏi bạn của bạn có thích một môn học không, bạn nói: 'Do you ____ Art?'",
+        "options": [
+            "like",
+            "have",
+            "is",
+            "are"
+        ],
+        "correctAnswer": "like"
+    },
+    {
+        "question": "What do you call a subject that you like the most? / Bạn gọi một môn học mà bạn thích nhất là gì?",
+        "options": [
+            "Favourite subject",
+            "Hard subject",
+            "Easy subject",
+            "New subject"
+        ],
+        "correctAnswer": "Favourite subject"
+    },
+    {
+        "question": "Spell the word for the day before Saturday. / Đánh vần từ chỉ ngày trước thứ Bảy.",
+        "options": [
+            "F-R-I-D-A-Y",
+            "S-U-N-D-A-Y",
+            "M-O-N-D-A-Y",
+            "T-H-U-R-S-D-A-Y"
+        ],
+        "correctAnswer": "F-R-I-D-A-Y"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "If you don't study for a test, you might get a ____ grade. / Nếu bạn không học bài cho một bài kiểm tra, bạn có thể nhận được điểm ____.",
+        "options": [
+            "bad",
+            "good",
+            "high",
+            "happy"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you do with a song in Music class? / Bạn làm gì với một bài hát trong lớp Âm nhạc?",
+        "options": [
+            "Sing it",
+            "Draw it",
+            "Read it",
+            "Solve it"
+        ],
+        "correctAnswer": "Sing it"
+    },
+    {
+        "question": "Spell the word for the subject where you run and jump. / Đánh vần từ chỉ môn học mà bạn chạy và nhảy.",
+        "options": [
+            "P-E",
+            "A-R-T",
+            "I-T",
+            "M-A-P"
+        ],
+        "correctAnswer": "P-E"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "My favourite subject is ____ because I love painting. / Môn học yêu thích của tôi là ____ vì tôi yêu thích hội họa.",
+        "options": [
+            "Art",
+            "Music",
+            "Maths",
+            "Science"
+        ],
+        "correctAnswer": "Art"
+    },
+    {
+        "question": "What do you call the seven days from Monday to Sunday? / Bạn gọi bảy ngày từ thứ Hai đến Chủ nhật là gì?",
+        "options": [
+            "A week",
+            "A month",
+            "A year",
+            "A day"
+        ],
+        "correctAnswer": "A week"
+    },
+    {
+        "question": "Spell the word for the day between Tuesday and Thursday. / Đánh vần từ chỉ ngày giữa thứ Ba và thứ Năm.",
+        "options": [
+            "W-E-D-N-E-S-D-A-Y",
+            "T-H-U-R-S-D-A-Y",
+            "T-U-E-S-D-A-Y",
+            "F-R-I-D-A-Y"
+        ],
+        "correctAnswer": "W-E-D-N-E-S-D-A-Y"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ on Friday because the weekend is coming. / Tôi cảm thấy ____ vào thứ Sáu vì cuối tuần sắp đến.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scared"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the subject where you learn about computers? / Bạn gọi môn học mà bạn học về máy tính là gì?",
+        "options": [
+            "IT (Information Technology)",
+            "Science",
+            "Art",
+            "Music"
+        ],
+        "correctAnswer": "IT (Information Technology)"
+    },
+    {
+        "question": "Spell the word for the subject where you learn about nature. / Đánh vần từ chỉ môn học mà bạn học về tự nhiên.",
+        "options": [
+            "S-C-I-E-N-C-E",
+            "H-I-S-T-O-R-Y",
+            "G-E-O-G-R-A-P-H-Y",
+            "M-U-S-I-C"
+        ],
+        "correctAnswer": "S-C-I-E-N-C-E"
+    }
+]
