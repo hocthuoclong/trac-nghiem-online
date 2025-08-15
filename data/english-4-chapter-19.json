@@ -1,0 +1,422 @@
+[
+    {
+        "question": "This is a very big and strong animal that lives in the jungle. It is called the 'king of the jungle'. What is it? / Đây là một con vật rất to và khỏe sống trong rừng. Nó được gọi là 'vua của rừng xanh'. Nó là gì?",
+        "options": [
+            "A lion",
+            "A tiger",
+            "A monkey",
+            "An elephant"
+        ],
+        "correctAnswer": "A lion"
+    },
+    {
+        "question": "This is a big cat with orange fur and black stripes. What is it? / Đây là một loài mèo lớn có bộ lông màu cam và sọc đen. Nó là gì?",
+        "options": [
+            "A tiger",
+            "A lion",
+            "A cheetah",
+            "A leopard"
+        ],
+        "correctAnswer": "A tiger"
+    },
+    {
+        "question": "This animal likes to climb trees and eat bananas. What is it? / Con vật này thích trèo cây và ăn chuối. Nó là gì?",
+        "options": [
+            "A monkey",
+            "A bear",
+            "A snake",
+            "A penguin"
+        ],
+        "correctAnswer": "A monkey"
+    },
+    {
+        "question": "This is a very big grey animal with a long trunk and big ears. What is it? / Đây là một con vật rất to màu xám có vòi dài và tai to. Nó là gì?",
+        "options": [
+            "An elephant",
+            "A hippo",
+            "A rhino",
+            "A bear"
+        ],
+        "correctAnswer": "An elephant"
+    },
+    {
+        "question": "This animal looks like a horse but has black and white stripes. What is it? / Con vật này trông giống ngựa nhưng có sọc đen và trắng. Nó là gì?",
+        "options": [
+            "A zebra",
+            "A horse",
+            "A tiger",
+            "A cow"
+        ],
+        "correctAnswer": "A zebra"
+    },
+    {
+        "question": "This is a very tall animal with a very long neck. What is it? / Đây là một con vật rất cao với chiếc cổ rất dài. Nó là gì?",
+        "options": [
+            "A giraffe",
+            "An elephant",
+            "A camel",
+            "A kangaroo"
+        ],
+        "correctAnswer": "A giraffe"
+    },
+    {
+        "question": "This animal from Australia jumps on its big back legs. What is it? / Con vật này từ Úc nhảy bằng hai chân sau to lớn của nó. Nó là gì?",
+        "options": [
+            "A kangaroo",
+            "A koala",
+            "A monkey",
+            "A rabbit"
+        ],
+        "correctAnswer": "A kangaroo"
+    },
+    {
+        "question": "This is a large reptile with a big mouth and many sharp teeth. What is it? / Đây là một loài bò sát lớn có miệng rộng và nhiều răng sắc nhọn. Nó là gì?",
+        "options": [
+            "A crocodile",
+            "A snake",
+            "A lizard",
+            "A turtle"
+        ],
+        "correctAnswer": "A crocodile"
+    },
+    {
+        "question": "This bird is black and white, lives in cold places, and cannot fly. What is it? / Loài chim này có màu đen và trắng, sống ở những nơi lạnh giá và không thể bay. Nó là gì?",
+        "options": [
+            "A penguin",
+            "An ostrich",
+            "A parrot",
+            "An eagle"
+        ],
+        "correctAnswer": "A penguin"
+    },
+    {
+        "question": "This male bird has very beautiful and colorful tail feathers. What is it? / Loài chim trống này có bộ lông đuôi rất đẹp và sặc sỡ. Nó là gì?",
+        "options": [
+            "A peacock",
+            "A chicken",
+            "A duck",
+            "A parrot"
+        ],
+        "correctAnswer": "A peacock"
+    },
+    {
+        "question": "To ask what an animal eats, you say: / Để hỏi một con vật ăn gì, bạn nói:",
+        "options": [
+            "What does it eat?",
+            "Where does it live?",
+            "What can it do?",
+            "What does it look like?"
+        ],
+        "correctAnswer": "What does it eat?"
+    },
+    {
+        "question": "A correct answer to 'What do monkeys eat?' is: / Một câu trả lời đúng cho 'What do monkeys eat?' là:",
+        "options": [
+            "They eat fruit, like bananas.",
+            "They live in the jungle.",
+            "They can climb trees.",
+            "They are small."
+        ],
+        "correctAnswer": "They eat fruit, like bananas."
+    },
+    {
+        "question": "Lions and tigers are carnivores, which means they eat ____. / Sư tử và hổ là động vật ăn thịt, có nghĩa là chúng ăn ____.",
+        "options": [
+            "meat",
+            "plants",
+            "fruit",
+            "honey"
+        ],
+        "correctAnswer": "meat"
+    },
+    {
+        "question": "Giraffes and zebras are herbivores, which means they eat ____. / Hươu cao cổ và ngựa vằn là động vật ăn cỏ, có nghĩa là chúng ăn ____.",
+        "options": [
+            "plants",
+            "meat",
+            "fish",
+            "insects"
+        ],
+        "correctAnswer": "plants"
+    },
+    {
+        "question": "Bears are omnivores, which means they eat ____. / Gấu là động vật ăn tạp, có nghĩa là chúng ăn ____.",
+        "options": [
+            "both plants and meat",
+            "only meat",
+            "only plants",
+            "only fish"
+        ],
+        "correctAnswer": "both plants and meat"
+    },
+    {
+        "question": "The word 'fast' describes how quickly an animal can ____. / Từ 'fast' mô tả một con vật có thể ____ nhanh như thế nào.",
+        "options": [
+            "run",
+            "eat",
+            "sleep",
+            "grow"
+        ],
+        "correctAnswer": "run"
+    },
+    {
+        "question": "A cheetah is a very ____ runner. / Một con báo gêpa là một vận động viên chạy rất ____.",
+        "options": [
+            "fast",
+            "slow",
+            "tall",
+            "big"
+        ],
+        "correctAnswer": "fast"
+    },
+    {
+        "question": "The word 'tall' describes an animal's ____. / Từ 'tall' mô tả ____ của một con vật.",
+        "options": [
+            "height",
+            "speed",
+            "weight",
+            "color"
+        ],
+        "correctAnswer": "height"
+    },
+    {
+        "question": "A giraffe is ____ than a zebra. / Một con hươu cao cổ ____ hơn một con ngựa vằn.",
+        "options": [
+            "taller",
+            "shorter",
+            "faster",
+            "smaller"
+        ],
+        "correctAnswer": "taller"
+    },
+    {
+        "question": "The word 'big' describes an animal's ____. / Từ 'big' mô tả ____ của một con vật.",
+        "options": [
+            "size",
+            "age",
+            "speed",
+            "sound"
+        ],
+        "correctAnswer": "size"
+    },
+    {
+        "question": "An elephant is ____ than a lion. / Một con voi ____ hơn một con sư tử.",
+        "options": [
+            "bigger",
+            "smaller",
+            "faster",
+            "taller"
+        ],
+        "correctAnswer": "bigger"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A turtle is a very ____ animal. / Một con rùa là một con vật rất ____.",
+        "options": [
+            "slow",
+            "fast",
+            "big",
+            "tall"
+        ],
+        "correctAnswer": "slow"
+    },
+    {
+        "question": "What do you call an animal that is scary? / Bạn gọi một con vật đáng sợ là gì?",
+        "options": [
+            "A dangerous animal",
+            "A friendly animal",
+            "A cute animal",
+            "A small animal"
+        ],
+        "correctAnswer": "A dangerous animal"
+    },
+    {
+        "question": "A crocodile can be ____. / Một con cá sấu có thể ____.",
+        "options": [
+            "dangerous",
+            "gentle",
+            "friendly",
+            "small"
+        ],
+        "correctAnswer": "dangerous"
+    },
+    {
+        "question": "Spell the word for a place with many wild animals. / Đánh vần từ chỉ một nơi có nhiều động vật hoang dã.",
+        "options": [
+            "z-o-o",
+            "f-a-r-m",
+            "p-a-r-k",
+            "c-i-t-y"
+        ],
+        "correctAnswer": "z-o-o"
+    },
+    {
+        "question": "What is the opposite of 'wild'? / Từ trái nghĩa của 'wild' là gì?",
+        "options": [
+            "Tame",
+            "Free",
+            "Happy",
+            "Big"
+        ],
+        "correctAnswer": "Tame"
+    },
+    {
+        "question": "A pet dog is a ____ animal. / Một con chó cưng là một con vật ____.",
+        "options": [
+            "tame",
+            "wild",
+            "dangerous",
+            "ugly"
+        ],
+        "correctAnswer": "tame"
+    },
+    {
+        "question": "What do you call an animal's home in the zoo? / Bạn gọi nhà của một con vật trong sở thú là gì?",
+        "options": [
+            "An enclosure",
+            "A house",
+            "A room",
+            "A box"
+        ],
+        "correctAnswer": "An enclosure"
+    },
+    {
+        "question": "Spell the word for the king of the jungle. / Đánh vần từ chỉ vua của rừng xanh.",
+        "options": [
+            "l-i-o-n",
+            "t-i-g-e-r",
+            "b-e-a-r",
+            "z-e-b-r-a"
+        ],
+        "correctAnswer": "l-i-o-n"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "A peacock has ____ feathers. / Một con công có bộ lông ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "small",
+            "short"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a baby lion or tiger? / Bạn gọi một con sư tử hoặc hổ con là gì?",
+        "options": [
+            "A cub",
+            "A kitten",
+            "A puppy",
+            "A chick"
+        ],
+        "correctAnswer": "A cub"
+    },
+    {
+        "question": "Spell the word for the big cat with stripes. / Đánh vần từ chỉ loài mèo lớn có sọc.",
+        "options": [
+            "t-i-g-e-r",
+            "l-i-o-n",
+            "c-h-e-e-t-a-h",
+            "l-e-o-p-a-r-d"
+        ],
+        "correctAnswer": "t-i-g-e-r"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "We should ____ animals and protect them. / Chúng ta nên ____ động vật và bảo vệ chúng.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a big, black and white bear from China? / Bạn gọi một con gấu lớn, màu đen và trắng từ Trung Quốc là gì?",
+        "options": [
+            "A panda",
+            "A polar bear",
+            "A grizzly bear",
+            "A koala"
+        ],
+        "correctAnswer": "A panda"
+    },
+    {
+        "question": "Spell the word for the animal that looks like a striped horse. / Đánh vần từ chỉ con vật trông giống ngựa có sọc.",
+        "options": [
+            "z-e-b-r-a",
+            "h-o-r-s-e",
+            "d-o-n-k-e-y",
+            "g-o-a-t"
+        ],
+        "correctAnswer": "z-e-b-r-a"
+    },
+    {
+        "question": "What is the opposite of 'strong'? / Từ trái nghĩa của 'strong' là gì?",
+        "options": [
+            "Weak",
+            "Hard",
+            "Big",
+            "Heavy"
+        ],
+        "correctAnswer": "Weak"
+    },
+    {
+        "question": "A gorilla is a very ____ animal. / Một con khỉ đột là một loài vật rất ____.",
+        "options": [
+            "strong",
+            "weak",
+            "small",
+            "tame"
+        ],
+        "correctAnswer": "strong"
+    },
+    {
+        "question": "What do you call a bird that can copy what you say? / Bạn gọi một con chim có thể bắt chước những gì bạn nói là gì?",
+        "options": [
+            "A parrot",
+            "An owl",
+            "An eagle",
+            "A penguin"
+        ],
+        "correctAnswer": "A parrot"
+    },
+    {
+        "question": "Spell the word for the big grey animal with a trunk. / Đánh vần từ chỉ con vật to màu xám có vòi.",
+        "options": [
+            "e-l-e-p-h-a-n-t",
+            "h-i-p-p-o",
+            "r-h-i-n-o",
+            "w-h-a-l-e"
+        ],
+        "correctAnswer": "e-l-e-p-h-a-n-t"
+    }
+]
