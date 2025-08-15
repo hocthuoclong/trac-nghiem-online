@@ -1,0 +1,412 @@
+[
+    {
+        "question": "This is a building where a family lives. What is it? / Đây là một tòa nhà nơi một gia đình sinh sống. Nó là gì?",
+        "options": [
+            "A house",
+            "A school",
+            "A shop",
+            "A hospital"
+        ],
+        "correctAnswer": "A house"
+    },
+    {
+        "question": "This is the room where the family relaxes and watches TV. What is it? / Đây là căn phòng nơi gia đình thư giãn và xem TV. Nó là gì?",
+        "options": [
+            "A living room",
+            "A bedroom",
+            "A kitchen",
+            "A bathroom"
+        ],
+        "correctAnswer": "A living room"
+    },
+    {
+        "question": "This is the room where you sleep. What is it? / Đây là căn phòng nơi bạn ngủ. Nó là gì?",
+        "options": [
+            "A bedroom",
+            "A kitchen",
+            "A garden",
+            "A dining room"
+        ],
+        "correctAnswer": "A bedroom"
+    },
+    {
+        "question": "This is the room where you cook meals. What is it? / Đây là căn phòng nơi bạn nấu các bữa ăn. Nó là gì?",
+        "options": [
+            "A kitchen",
+            "A living room",
+            "A bedroom",
+            "A bathroom"
+        ],
+        "correctAnswer": "A kitchen"
+    },
+    {
+        "question": "This is the room where you take a shower. What is it? / Đây là căn phòng nơi bạn tắm vòi sen. Nó là gì?",
+        "options": [
+            "A bathroom",
+            "The dining room",
+            "The living room",
+            "The kitchen"
+        ],
+        "correctAnswer": "A bathroom"
+    },
+    {
+        "question": "This is the room where you eat dinner. What is it? / Đây là căn phòng nơi bạn ăn tối. Nó là gì?",
+        "options": [
+            "A dining room",
+            "A bedroom",
+            "A bathroom",
+            "A garage"
+        ],
+        "correctAnswer": "A dining room"
+    },
+    {
+        "question": "This is a piece of furniture you sleep on. What is it? / Đây là một món đồ nội thất bạn ngủ trên đó. Nó là gì?",
+        "options": [
+            "A bed",
+            "A table",
+            "A chair",
+            "A sofa"
+        ],
+        "correctAnswer": "A bed"
+    },
+    {
+        "question": "This is a long, soft seat for many people. What is it? / Đây là một chiếc ghế dài, mềm cho nhiều người ngồi. Nó là gì?",
+        "options": [
+            "A sofa",
+            "A chair",
+            "A bed",
+            "A bench"
+        ],
+        "correctAnswer": "A sofa"
+    },
+    {
+        "question": "You put your clothes in this. What is it? / Bạn để quần áo của mình trong cái này. Nó là gì?",
+        "options": [
+            "A wardrobe",
+            "A fridge",
+            "A desk",
+            "An oven"
+        ],
+        "correctAnswer": "A wardrobe"
+    },
+    {
+        "question": "You put your books on this. What is it? / Bạn đặt sách của mình lên đây. Nó là gì?",
+        "options": [
+            "A bookshelf",
+            "A bed",
+            "A chair",
+            "A lamp"
+        ],
+        "correctAnswer": "A bookshelf"
+    },
+    {
+        "question": "To ask where something is, you say: '____ is the ball?' / Để hỏi một thứ gì đó ở đâu, bạn nói: '____ is the ball?'",
+        "options": [
+            "Where",
+            "What",
+            "When",
+            "Who"
+        ],
+        "correctAnswer": "Where"
+    },
+    {
+        "question": "The cat is sleeping ____ the table. / Con mèo đang ngủ ____ cái bàn.",
+        "options": [
+            "under",
+            "on",
+            "in",
+            "next to"
+        ],
+        "correctAnswer": "under"
+    },
+    {
+        "question": "The books are ____ the bookshelf. / Những cuốn sách ở ____ giá sách.",
+        "options": [
+            "on",
+            "under",
+            "behind",
+            "in front of"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "The chair is ____ the desk. / Cái ghế ở ____ cái bàn.",
+        "options": [
+            "near",
+            "on",
+            "in",
+            "under"
+        ],
+        "correctAnswer": "near"
+    },
+    {
+        "question": "The picture is hanging ____ the wall. / Bức tranh đang treo ____ tường.",
+        "options": [
+            "on",
+            "in",
+            "under",
+            "behind"
+        ],
+        "correctAnswer": "on"
+    },
+    {
+        "question": "He is hiding ____ the door. / Cậu ấy đang trốn ____ cánh cửa.",
+        "options": [
+            "behind",
+            "in front of",
+            "on",
+            "under"
+        ],
+        "correctAnswer": "behind"
+    },
+    {
+        "question": "The TV is ____ the sofa. / TV ở ____ ghế sofa.",
+        "options": [
+            "in front of",
+            "behind",
+            "under",
+            "on"
+        ],
+        "correctAnswer": "in front of"
+    },
+    {
+        "question": "The lamp is ____ the bed. / Cái đèn ở ____ giường.",
+        "options": [
+            "next to",
+            "in",
+            "on",
+            "under"
+        ],
+        "correctAnswer": "next to"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Tall",
+            "Long"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "My bedroom is ____, but the living room is big. / Phòng ngủ của tôi ____, nhưng phòng khách thì lớn.",
+        "options": [
+            "small",
+            "big",
+            "long",
+            "tall"
+        ],
+        "correctAnswer": "small"
+    },
+    {
+        "question": "Spell the word for the place you live. / Đánh vần từ chỉ nơi bạn sống.",
+        "options": [
+            "h-o-u-s-e",
+            "r-o-o-m",
+            "d-o-o-r",
+            "h-o-m-e"
+        ],
+        "correctAnswer": "h-o-u-s-e"
+    },
+    {
+        "question": "What is the opposite of 'clean'? / Từ trái nghĩa của 'clean' là gì?",
+        "options": [
+            "Dirty",
+            "Tidy",
+            "Neat",
+            "Nice"
+        ],
+        "correctAnswer": "Dirty"
+    },
+    {
+        "question": "You should help your parents keep the house ____. / Bạn nên giúp bố mẹ giữ cho ngôi nhà ____.",
+        "options": [
+            "clean",
+            "dirty",
+            "messy",
+            "cold"
+        ],
+        "correctAnswer": "clean"
+    },
+    {
+        "question": "What do you call the top covering of a house? / Bạn gọi phần che trên cùng của một ngôi nhà là gì?",
+        "options": [
+            "A roof",
+            "A floor",
+            "A wall",
+            "A window"
+        ],
+        "correctAnswer": "A roof"
+    },
+    {
+        "question": "Spell the word for the room where you cook. / Đánh vần từ chỉ căn phòng nơi bạn nấu ăn.",
+        "options": [
+            "k-i-t-c-h-e-n",
+            "b-e-d-r-o-o-m",
+            "g-a-r-d-e-n",
+            "s-c-h-o-o-l"
+        ],
+        "correctAnswer": "k-i-t-c-h-e-n"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "My mother has a ____ garden. / Mẹ tôi có một khu vườn ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "What do you call a house in the countryside? / Bạn gọi một ngôi nhà ở nông thôn là gì?",
+        "options": [
+            "A cottage",
+            "An apartment",
+            "A flat",
+            "A mansion"
+        ],
+        "correctAnswer": "A cottage"
+    },
+    {
+        "question": "Spell the word for the room where you sleep. / Đánh vần từ chỉ căn phòng bạn ngủ.",
+        "options": [
+            "b-e-d-r-o-o-m",
+            "k-i-t-c-h-e-n",
+            "b-a-t-h-r-o-o-m",
+            "g-a-r-d-e-n"
+        ],
+        "correctAnswer": "b-e-d-r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ my home because it's cozy. / Tôi ____ ngôi nhà của mình vì nó ấm cúng.",
+        "options": [
+            "love",
+            "hate",
+            "eat",
+            "sell"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a home in a tall building with many other homes? / Bạn gọi một ngôi nhà trong một tòa nhà cao tầng với nhiều ngôi nhà khác là gì?",
+        "options": [
+            "An apartment",
+            "A house",
+            "A cottage",
+            "A villa"
+        ],
+        "correctAnswer": "An apartment"
+    },
+    {
+        "question": "Spell the word for the room where you watch TV. / Đánh vần từ chỉ căn phòng nơi bạn xem TV.",
+        "options": [
+            "l-i-v-i-n-g r-o-o-m",
+            "d-i-n-i-n-g r-o-o-m",
+            "b-e-d-r-o-o-m",
+            "b-a-t-h-r-o-o-m"
+        ],
+        "correctAnswer": "l-i-v-i-n-g r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "A messy room looks ____. / Một căn phòng bừa bộn trông ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "clean"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the area where you park your car at home? / Bạn gọi khu vực bạn đỗ xe ở nhà là gì?",
+        "options": [
+            "A garage",
+            "A garden",
+            "A kitchen",
+            "A living room"
+        ],
+        "correctAnswer": "A garage"
+    },
+    {
+        "question": "Spell the word for the room where you wash. / Đánh vần từ chỉ căn phòng nơi bạn tắm rửa.",
+        "options": [
+            "b-a-t-h-r-o-o-m",
+            "k-i-t-c-h-e-n",
+            "b-e-d-r-o-o-m",
+            "h-a-l-l"
+        ],
+        "correctAnswer": "b-a-t-h-r-o-o-m"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "A home should be a ____ place. / Một ngôi nhà nên là một nơi ____.",
+        "options": [
+            "happy",
+            "sad",
+            "angry",
+            "scary"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call the stairs that go up to the next floor? / Bạn gọi cầu thang đi lên tầng tiếp theo là gì?",
+        "options": [
+            "Upstairs",
+            "Downstairs",
+            "A ladder",
+            "An elevator"
+        ],
+        "correctAnswer": "Upstairs"
+    },
+    {
+        "question": "Spell the word for the room where you eat meals. / Đánh vần từ chỉ căn phòng nơi bạn ăn các bữa ăn.",
+        "options": [
+            "d-i-n-i-n-g r-o-o-m",
+            "l-i-v-i-n-g r-o-o-m",
+            "k-i-t-c-h-e-n",
+            "b-e-d-r-o-o-m"
+        ],
+        "correctAnswer": "d-i-n-i-n-g r-o-o-m"
+    }
+]
