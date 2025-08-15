@@ -1,0 +1,412 @@
+[
+    {
+        "question": "This is an action where you move your body to music. What is it? / Đây là một hành động mà bạn di chuyển cơ thể theo nhạc. Nó là gì?",
+        "options": [
+            "Dance",
+            "Sing",
+            "Cook",
+            "Read"
+        ],
+        "correctAnswer": "Dance"
+    },
+    {
+        "question": "This is an action where you use your voice to make music. What is it? / Đây là một hành động mà bạn dùng giọng của mình để tạo ra âm nhạc. Nó là gì?",
+        "options": [
+            "Sing",
+            "Dance",
+            "Draw",
+            "Swim"
+        ],
+        "correctAnswer": "Sing"
+    },
+    {
+        "question": "This is an action where you move through water using your arms and legs. What is it? / Đây là một hành động mà bạn di chuyển trong nước bằng tay và chân. Nó là gì?",
+        "options": [
+            "Swim",
+            "Fly",
+            "Run",
+            "Walk"
+        ],
+        "correctAnswer": "Swim"
+    },
+    {
+        "question": "This is an action where you use colors and a brush to make a picture. What is it? / Đây là một hành động mà bạn dùng màu và cọ để tạo ra một bức tranh. Nó là gì?",
+        "options": [
+            "Paint",
+            "Write",
+            "Read",
+            "Cook"
+        ],
+        "correctAnswer": "Paint"
+    },
+    {
+        "question": "This is an action where you prepare food in the kitchen. What is it? / Đây là một hành động mà bạn chuẩn bị thức ăn trong bếp. Nó là gì?",
+        "options": [
+            "Cook",
+            "Sing",
+            "Dance",
+            "Sleep"
+        ],
+        "correctAnswer": "Cook"
+    },
+    {
+        "question": "This is an action where you jump over a rope. What is it? / Đây là một hành động mà bạn nhảy qua một sợi dây. Nó là gì?",
+        "options": [
+            "Skip",
+            "Skate",
+            "Swim",
+            "Sing"
+        ],
+        "correctAnswer": "Skip"
+    },
+    {
+        "question": "This is an action where you ride a bicycle. What is it? / Đây là một hành động mà bạn đi xe đạp. Nó là gì?",
+        "options": [
+            "Cycle",
+            "Drive",
+            "Fly",
+            "Walk"
+        ],
+        "correctAnswer": "Cycle"
+    },
+    {
+        "question": "This is an action where you play a musical instrument with black and white keys. What is it? / Đây là một hành động mà bạn chơi một nhạc cụ có các phím đen và trắng. Nó là gì?",
+        "options": [
+            "Play the piano",
+            "Play the guitar",
+            "Play the drums",
+            "Sing a song"
+        ],
+        "correctAnswer": "Play the piano"
+    },
+    {
+        "question": "This is an action where you play a musical instrument with six strings. What is it? / Đây là một hành động mà bạn chơi một nhạc cụ có sáu dây. Nó là gì?",
+        "options": [
+            "Play the guitar",
+            "Play the piano",
+            "Play the violin",
+            "Play the flute"
+        ],
+        "correctAnswer": "Play the guitar"
+    },
+    {
+        "question": "To ask if someone has an ability, you say: '____ you swim?' / Để hỏi ai đó có khả năng gì không, bạn nói: '____ you swim?'",
+        "options": [
+            "Can",
+            "Are",
+            "Do",
+            "Is"
+        ],
+        "correctAnswer": "Can"
+    },
+    {
+        "question": "A correct positive answer to 'Can you dance?' is: / Một câu trả lời khẳng định đúng cho 'Can you dance?' là:",
+        "options": [
+            "Yes, I can.",
+            "Yes, I do.",
+            "I am dancing.",
+            "I like to dance."
+        ],
+        "correctAnswer": "Yes, I can."
+    },
+    {
+        "question": "A correct negative answer to 'Can he cook?' is: / Một câu trả lời phủ định đúng cho 'Can he cook?' là:",
+        "options": [
+            "No, he can't.",
+            "No, he isn't.",
+            "No, he doesn't.",
+            "He is not a cook."
+        ],
+        "correctAnswer": "No, he can't."
+    },
+    {
+        "question": "A fish can ____, but it can't walk. / Một con cá có thể ____, nhưng nó không thể đi bộ.",
+        "options": [
+            "swim",
+            "fly",
+            "sing",
+            "talk"
+        ],
+        "correctAnswer": "swim"
+    },
+    {
+        "question": "A bird can ____, but it can't swim under water. / Một con chim có thể ____, nhưng nó không thể bơi dưới nước.",
+        "options": [
+            "fly",
+            "read",
+            "write",
+            "cook"
+        ],
+        "correctAnswer": "fly"
+    },
+    {
+        "question": "A monkey can ____ trees. / Một con khỉ có thể ____ cây.",
+        "options": [
+            "climb",
+            "fly",
+            "drive",
+            "cook"
+        ],
+        "correctAnswer": "climb"
+    },
+    {
+        "question": "What is the opposite of 'can'? / Từ trái nghĩa của 'can' là gì?",
+        "options": [
+            "Cannot (can't)",
+            "Will",
+            "Do",
+            "Is"
+        ],
+        "correctAnswer": "Cannot (can't)"
+    },
+    {
+        "question": "I ____ fly like a bird. / Tôi ____ bay như một con chim.",
+        "options": [
+            "can't",
+            "can",
+            "am",
+            "do"
+        ],
+        "correctAnswer": "can't"
+    },
+    {
+        "question": "What do you call a person who can paint very well? / Bạn gọi một người có thể vẽ rất đẹp là gì?",
+        "options": [
+            "An artist",
+            "A singer",
+            "A dancer",
+            "A cook"
+        ],
+        "correctAnswer": "An artist"
+    },
+    {
+        "question": "What is the correct order: 'can / I / sing / song / a /.'? / Trật tự đúng là gì: 'can / I / sing / song / a /.'?",
+        "options": [
+            "I can sing a song.",
+            "I sing can a song.",
+            "A song I can sing.",
+            "Can I a song sing."
+        ],
+        "correctAnswer": "I can sing a song."
+    },
+    {
+        "question": "What is the correct question for the answer 'Yes, I can play the piano.'? / Câu hỏi đúng cho câu trả lời 'Yes, I can play the piano.' là gì?",
+        "options": [
+            "Can you play the piano?",
+            "Do you play the piano?",
+            "Are you playing the piano?",
+            "What can you do?"
+        ],
+        "correctAnswer": "Can you play the piano?"
+    },
+    {
+        "question": "Spell the word for the action of moving through water. / Đánh vần từ chỉ hành động di chuyển trong nước.",
+        "options": [
+            "s-w-i-m",
+            "r-u-n",
+            "w-a-l-k",
+            "j-u-m-p"
+        ],
+        "correctAnswer": "s-w-i-m"
+    },
+    {
+        "question": "What is the opposite of 'fast'? / Từ trái nghĩa của 'fast' là gì?",
+        "options": [
+            "Slow",
+            "Quick",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Slow"
+    },
+    {
+        "question": "A turtle can swim, but it is very ____. / Một con rùa có thể bơi, nhưng nó rất ____.",
+        "options": [
+            "slow",
+            "fast",
+            "big",
+            "happy"
+        ],
+        "correctAnswer": "slow"
+    },
+    {
+        "question": "What do you call a person who can cook delicious food? / Bạn gọi một người có thể nấu những món ăn ngon là gì?",
+        "options": [
+            "A chef",
+            "A painter",
+            "A singer",
+            "A driver"
+        ],
+        "correctAnswer": "A chef"
+    },
+    {
+        "question": "Spell the word for the action of making music with your voice. / Đánh vần từ chỉ hành động tạo ra âm nhạc bằng giọng nói của bạn.",
+        "options": [
+            "s-i-n-g",
+            "d-a-n-c-e",
+            "r-e-a-d",
+            "c-o-o-k"
+        ],
+        "correctAnswer": "s-i-n-g"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "He can't sing well. His singing is ____. / Cậu ấy không thể hát hay. Giọng hát của cậu ấy ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "beautiful"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a person who can ride a horse? / Bạn gọi một người có thể cưỡi ngựa là gì?",
+        "options": [
+            "A rider",
+            "A driver",
+            "A swimmer",
+            "A painter"
+        ],
+        "correctAnswer": "A rider"
+    },
+    {
+        "question": "Spell the word for the action of moving your body to music. / Đánh vần từ chỉ hành động di chuyển cơ thể theo nhạc.",
+        "options": [
+            "d-a-n-c-e",
+            "s-i-n-g",
+            "j-u-m-p",
+            "r-u-n"
+        ],
+        "correctAnswer": "d-a-n-c-e"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "My friend can do ____ things. He can sing and dance. / Bạn tôi có thể làm ____ việc. Cậu ấy có thể hát và nhảy.",
+        "options": [
+            "many",
+            "few",
+            "no",
+            "sad"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a person who can play the guitar? / Bạn gọi một người có thể chơi guitar là gì?",
+        "options": [
+            "A guitarist",
+            "A pianist",
+            "A singer",
+            "A dancer"
+        ],
+        "correctAnswer": "A guitarist"
+    },
+    {
+        "question": "Spell the word for the action of creating pictures with colors. / Đánh vần từ chỉ hành động tạo ra những bức tranh bằng màu sắc.",
+        "options": [
+            "p-a-i-n-t",
+            "d-r-a-w",
+            "w-r-i-t-e",
+            "r-e-a-d"
+        ],
+        "correctAnswer": "p-a-i-n-t"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I can't swim, so I ____ going to the deep pool. / Tôi không thể bơi, vì vậy tôi ____ đi đến hồ bơi sâu.",
+        "options": [
+            "dislike",
+            "love",
+            "like",
+            "enjoy"
+        ],
+        "correctAnswer": "dislike"
+    },
+    {
+        "question": "What do you call a person who can use a skateboard? / Bạn gọi một người có thể sử dụng ván trượt là gì?",
+        "options": [
+            "A skater",
+            "A cyclist",
+            "A driver",
+            "A runner"
+        ],
+        "correctAnswer": "A skater"
+    },
+    {
+        "question": "Spell the word for the action of preparing food. / Đánh vần từ chỉ hành động chuẩn bị thức ăn.",
+        "options": [
+            "c-o-o-k",
+            "e-a-t",
+            "d-r-i-n-k",
+            "w-a-s-h"
+        ],
+        "correctAnswer": "c-o-o-k"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "I can ____ a picture for you. / Tôi có thể ____ một bức tranh cho bạn.",
+        "options": [
+            "draw",
+            "take",
+            "give",
+            "eat"
+        ],
+        "correctAnswer": "draw"
+    },
+    {
+        "question": "What do you call a person who can play the piano? / Bạn gọi một người có thể chơi piano là gì?",
+        "options": [
+            "A pianist",
+            "A guitarist",
+            "A violinist",
+            "A drummer"
+        ],
+        "correctAnswer": "A pianist"
+    },
+    {
+        "question": "Spell the word for the action of jumping over a rope. / Đánh vần từ chỉ hành động nhảy qua một sợi dây.",
+        "options": [
+            "s-k-i-p",
+            "j-u-m-p",
+            "h-o-p",
+            "r-u-n"
+        ],
+        "correctAnswer": "s-k-i-p"
+    }
+]
