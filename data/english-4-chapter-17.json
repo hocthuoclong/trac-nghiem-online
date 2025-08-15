@@ -1,0 +1,412 @@
+[
+    {
+        "question": "This is a large place with many houses, shops, and busy roads. What is it? / Đây là một nơi rộng lớn có nhiều nhà cửa, cửa hàng và những con đường đông đúc. Nó là gì?",
+        "options": [
+            "A city",
+            "A village",
+            "A farm",
+            "A forest"
+        ],
+        "correctAnswer": "A city"
+    },
+    {
+        "question": "This is a place where you can watch new movies on a big screen. What is it? / Đây là nơi bạn có thể xem những bộ phim mới trên một màn hình lớn. Nó là gì?",
+        "options": [
+            "A cinema",
+            "A library",
+            "A school",
+            "A hospital"
+        ],
+        "correctAnswer": "A cinema"
+    },
+    {
+        "question": "This is a large shop where you can buy food and many other things. What is it? / Đây là một cửa hàng lớn nơi bạn có thể mua thực phẩm và nhiều thứ khác. Nó là gì?",
+        "options": [
+            "A supermarket",
+            "A pharmacy",
+            "A bookshop",
+            "A post office"
+        ],
+        "correctAnswer": "A supermarket"
+    },
+    {
+        "question": "You go to this place to buy medicine when you are sick. What is it? / Bạn đến nơi này để mua thuốc khi bị ốm. Nó là gì?",
+        "options": [
+            "A pharmacy",
+            "A bakery",
+            "A sweet shop",
+            "A toy shop"
+        ],
+        "correctAnswer": "A pharmacy"
+    },
+    {
+        "question": "This is a shop where you can buy books and magazines. What is it? / Đây là một cửa hàng nơi bạn có thể mua sách và tạp chí. Nó là gì?",
+        "options": [
+            "A bookshop",
+            "A library",
+            "A post office",
+            "A cinema"
+        ],
+        "correctAnswer": "A bookshop"
+    },
+    {
+        "question": "You go to this place to send letters and parcels. What is it? / Bạn đến nơi này để gửi thư và bưu kiện. Nó là gì?",
+        "options": [
+            "A post office",
+            "A bank",
+            "A museum",
+            "A theatre"
+        ],
+        "correctAnswer": "A post office"
+    },
+    {
+        "question": "To ask for directions, you can say: / Để hỏi đường, bạn có thể nói:",
+        "options": [
+            "Excuse me, where is the supermarket?",
+            "What's your name?",
+            "How are you?",
+            "What time is it?"
+        ],
+        "correctAnswer": "Excuse me, where is the supermarket?"
+    },
+    {
+        "question": "To tell someone to go forward, you say: / Để bảo ai đó đi thẳng về phía trước, bạn nói:",
+        "options": [
+            "Go straight on.",
+            "Turn left.",
+            "Turn right.",
+            "Stop here."
+        ],
+        "correctAnswer": "Go straight on."
+    },
+    {
+        "question": "To tell someone to go to the left side, you say: / Để bảo ai đó đi về phía bên trái, bạn nói:",
+        "options": [
+            "Turn left.",
+            "Turn right.",
+            "Go straight on.",
+            "Go back."
+        ],
+        "correctAnswer": "Turn left."
+    },
+    {
+        "question": "To tell someone to go to the right side, you say: / Để bảo ai đó đi về phía bên phải, bạn nói:",
+        "options": [
+            "Turn right.",
+            "Turn left.",
+            "Go up.",
+            "Go down."
+        ],
+        "correctAnswer": "Turn right."
+    },
+    {
+        "question": "The place where two roads meet is a ____. / Nơi hai con đường gặp nhau là một ____.",
+        "options": [
+            "corner",
+            "river",
+            "bridge",
+            "field"
+        ],
+        "correctAnswer": "corner"
+    },
+    {
+        "question": "The cinema is ____ the corner of the street. / Rạp chiếu phim ở ____ góc phố.",
+        "options": [
+            "at",
+            "in",
+            "on",
+            "under"
+        ],
+        "correctAnswer": "at"
+    },
+    {
+        "question": "What is the opposite of 'noisy'? / Từ trái nghĩa của 'noisy' là gì?",
+        "options": [
+            "Quiet",
+            "Loud",
+            "Big",
+            "Small"
+        ],
+        "correctAnswer": "Quiet"
+    },
+    {
+        "question": "A city is often ____, but a village is quiet. / Một thành phố thường ____, nhưng một ngôi làng thì yên tĩnh.",
+        "options": [
+            "noisy",
+            "quiet",
+            "small",
+            "empty"
+        ],
+        "correctAnswer": "noisy"
+    },
+    {
+        "question": "What is the opposite of 'beautiful'? / Từ trái nghĩa của 'beautiful' là gì?",
+        "options": [
+            "Ugly",
+            "Pretty",
+            "Nice",
+            "Good"
+        ],
+        "correctAnswer": "Ugly"
+    },
+    {
+        "question": "The park in the city is very ____. / Công viên trong thành phố rất ____.",
+        "options": [
+            "beautiful",
+            "ugly",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "beautiful"
+    },
+    {
+        "question": "Spell the word for a place where you watch movies. / Đánh vần từ chỉ nơi bạn xem phim.",
+        "options": [
+            "c-i-n-e-m-a",
+            "t-h-e-a-t-r-e",
+            "m-u-s-e-u-m",
+            "s-t-a-d-i-u-m"
+        ],
+        "correctAnswer": "c-i-n-e-m-a"
+    },
+    {
+        "question": "What is the opposite of 'big'? / Từ trái nghĩa của 'big' là gì?",
+        "options": [
+            "Small",
+            "Large",
+            "Tall",
+            "Long"
+        ],
+        "correctAnswer": "Small"
+    },
+    {
+        "question": "A city is ____ than a village. / Một thành phố ____ hơn một ngôi làng.",
+        "options": [
+            "bigger",
+            "smaller",
+            "shorter",
+            "quieter"
+        ],
+        "correctAnswer": "bigger"
+    },
+    {
+        "question": "What do you call the tall buildings in a city? / Bạn gọi những tòa nhà cao trong thành phố là gì?",
+        "options": [
+            "Skyscrapers",
+            "Houses",
+            "Cottages",
+            "Barns"
+        ],
+        "correctAnswer": "Skyscrapers"
+    },
+    {
+        "question": "Spell the word for a place where you buy food. / Đánh vần từ chỉ nơi bạn mua thực phẩm.",
+        "options": [
+            "s-u-p-e-r-m-a-r-k-e-t",
+            "b-o-o-k-s-h-o-p",
+            "p-h-a-r-m-a-c-y",
+            "c-i-n-e-m-a"
+        ],
+        "correctAnswer": "s-u-p-e-r-m-a-r-k-e-t"
+    },
+    {
+        "question": "What is the opposite of 'far'? / Từ trái nghĩa của 'far' là gì?",
+        "options": [
+            "Near",
+            "Next to",
+            "Close",
+            "All are correct"
+        ],
+        "correctAnswer": "All are correct"
+    },
+    {
+        "question": "Is the post office far from here? - No, it's quite ____. / Bưu điện có xa đây không? - Không, nó khá ____.",
+        "options": [
+            "near",
+            "far",
+            "big",
+            "small"
+        ],
+        "correctAnswer": "near"
+    },
+    {
+        "question": "What do you call a place where you can see historical objects? / Bạn gọi một nơi bạn có thể xem các đồ vật lịch sử là gì?",
+        "options": [
+            "A museum",
+            "A theatre",
+            "A cinema",
+            "A stadium"
+        ],
+        "correctAnswer": "A museum"
+    },
+    {
+        "question": "Spell the word for a place where you buy medicine. / Đánh vần từ chỉ nơi bạn mua thuốc.",
+        "options": [
+            "p-h-a-r-m-a-c-y",
+            "h-o-s-p-i-t-a-l",
+            "c-l-i-n-i-c",
+            "d-o-c-t-o-r"
+        ],
+        "correctAnswer": "p-h-a-r-m-a-c-y"
+    },
+    {
+        "question": "What is the opposite of 'left'? / Từ trái nghĩa của 'left' là gì?",
+        "options": [
+            "Right",
+            "Up",
+            "Down",
+            "Straight"
+        ],
+        "correctAnswer": "Right"
+    },
+    {
+        "question": "To get to the bookshop, you need to turn ____ at the corner. / Để đến hiệu sách, bạn cần rẽ ____ ở góc đường.",
+        "options": [
+            "right",
+            "left",
+            "up",
+            "down"
+        ],
+        "correctAnswer": "right"
+    },
+    {
+        "question": "What do you call a place where you can see a play? / Bạn gọi một nơi bạn có thể xem một vở kịch là gì?",
+        "options": [
+            "A theatre",
+            "A cinema",
+            "A museum",
+            "A gallery"
+        ],
+        "correctAnswer": "A theatre"
+    },
+    {
+        "question": "Spell the word for a place where you buy books. / Đánh vần từ chỉ nơi bạn mua sách.",
+        "options": [
+            "b-o-o-k-s-h-o-p",
+            "l-i-b-r-a-r-y",
+            "s-c-h-o-o-l",
+            "c-l-a-s-s"
+        ],
+        "correctAnswer": "b-o-o-k-s-h-o-p"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "I ____ living in the city because it's exciting. / Tôi ____ sống ở thành phố vì nó thú vị.",
+        "options": [
+            "love",
+            "hate",
+            "dislike",
+            "avoid"
+        ],
+        "correctAnswer": "love"
+    },
+    {
+        "question": "What do you call a place where you can buy bread and cakes? / Bạn gọi một nơi bạn có thể mua bánh mì và bánh ngọt là gì?",
+        "options": [
+            "A bakery",
+            "A sweet shop",
+            "A grocery store",
+            "A cafe"
+        ],
+        "correctAnswer": "A bakery"
+    },
+    {
+        "question": "Spell the word for a place where you send letters. / Đánh vần từ chỉ nơi bạn gửi thư.",
+        "options": [
+            "p-o-s-t o-f-f-i-c-e",
+            "b-a-n-k",
+            "s-c-h-o-o-l",
+            "h-o-m-e"
+        ],
+        "correctAnswer": "p-o-s-t o-f-f-i-c-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "The traffic in the city can be very ____. / Giao thông trong thành phố có thể rất ____.",
+        "options": [
+            "bad",
+            "good",
+            "easy",
+            "quiet"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call a place where you can buy sweet things like candy? / Bạn gọi một nơi bạn có thể mua những thứ ngọt ngào như kẹo là gì?",
+        "options": [
+            "A sweet shop",
+            "A bakery",
+            "A pharmacy",
+            "A bookshop"
+        ],
+        "correctAnswer": "A sweet shop"
+    },
+    {
+        "question": "Spell the word for a large town. / Đánh vần từ chỉ một thị trấn lớn.",
+        "options": [
+            "c-i-t-y",
+            "t-o-w-n",
+            "v-i-l-l-a-g-e",
+            "p-l-a-c-e"
+        ],
+        "correctAnswer": "c-i-t-y"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "A city is a ____ place with lots of things to do. / Một thành phố là một nơi ____ với rất nhiều thứ để làm.",
+        "options": [
+            "busy",
+            "quiet",
+            "empty",
+            "sad"
+        ],
+        "correctAnswer": "busy"
+    },
+    {
+        "question": "What do you call a place where you can watch a sports match? / Bạn gọi một nơi bạn có thể xem một trận đấu thể thao là gì?",
+        "options": [
+            "A stadium",
+            "A theatre",
+            "A cinema",
+            "A museum"
+        ],
+        "correctAnswer": "A stadium"
+    },
+    {
+        "question": "Spell the word for the direction that is not left. / Đánh vần từ chỉ hướng không phải là bên trái.",
+        "options": [
+            "r-i-g-h-t",
+            "l-e-f-t",
+            "u-p",
+            "d-o-w-n"
+        ],
+        "correctAnswer": "r-i-g-h-t"
+    }
+]
