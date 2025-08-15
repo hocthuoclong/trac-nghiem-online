@@ -1,0 +1,412 @@
+[
+    {
+        "question": "This is the work a person does to earn money. What is it? / Đây là công việc một người làm để kiếm tiền. Nó là gì?",
+        "options": [
+            "A job",
+            "A hobby",
+            "A game",
+            "A chore"
+        ],
+        "correctAnswer": "A job"
+    },
+    {
+        "question": "This person helps you when you are sick. Who is this? / Người này giúp bạn khi bạn bị ốm. Đây là ai?",
+        "options": [
+            "A doctor",
+            "A teacher",
+            "A farmer",
+            "A driver"
+        ],
+        "correctAnswer": "A doctor"
+    },
+    {
+        "question": "This person helps a doctor take care of sick people. Who is this? / Người này giúp bác sĩ chăm sóc người bệnh. Đây là ai?",
+        "options": [
+            "A nurse",
+            "A teacher",
+            "A singer",
+            "A worker"
+        ],
+        "correctAnswer": "A nurse"
+    },
+    {
+        "question": "This person teaches students in a school. Who is this? / Người này dạy học sinh trong một trường học. Đây là ai?",
+        "options": [
+            "A teacher",
+            "A doctor",
+            "A farmer",
+            "A pilot"
+        ],
+        "correctAnswer": "A teacher"
+    },
+    {
+        "question": "This person grows food like rice and vegetables on a farm. Who is this? / Người này trồng lương thực như lúa và rau trên một nông trại. Đây là ai?",
+        "options": [
+            "A farmer",
+            "A driver",
+            "A singer",
+            "A teacher"
+        ],
+        "correctAnswer": "A farmer"
+    },
+    {
+        "question": "This person works in a factory. Who is this? / Người này làm việc trong một nhà máy. Đây là ai?",
+        "options": [
+            "A worker",
+            "A farmer",
+            "A doctor",
+            "A teacher"
+        ],
+        "correctAnswer": "A worker"
+    },
+    {
+        "question": "This person drives a car, a bus, or a taxi. Who is this? / Người này lái xe ô tô, xe buýt hoặc taxi. Đây là ai?",
+        "options": [
+            "A driver",
+            "A farmer",
+            "A doctor",
+            "A nurse"
+        ],
+        "correctAnswer": "A driver"
+    },
+    {
+        "question": "This person helps keep people safe and catches bad guys. Who is this? / Người này giúp giữ an toàn cho mọi người và bắt kẻ xấu. Đây là ai?",
+        "options": [
+            "A policeman",
+            "A firefighter",
+            "A doctor",
+            "A teacher"
+        ],
+        "correctAnswer": "A policeman"
+    },
+    {
+        "question": "This person puts out fires. Who is this? / Người này dập tắt các đám cháy. Đây là ai?",
+        "options": [
+            "A firefighter",
+            "A policeman",
+            "A singer",
+            "A driver"
+        ],
+        "correctAnswer": "A firefighter"
+    },
+    {
+        "question": "This person sings songs for a living. Who is this? / Người này hát các bài hát để kiếm sống. Đây là ai?",
+        "options": [
+            "A singer",
+            "A dancer",
+            "A teacher",
+            "A doctor"
+        ],
+        "correctAnswer": "A singer"
+    },
+    {
+        "question": "A person who learns at school is a ____. / Một người học ở trường là một ____.",
+        "options": [
+            "pupil",
+            "teacher",
+            "doctor",
+            "farmer"
+        ],
+        "correctAnswer": "pupil"
+    },
+    {
+        "question": "Where does a doctor usually work? / Một bác sĩ thường làm việc ở đâu?",
+        "options": [
+            "In a hospital",
+            "In a school",
+            "On a farm",
+            "In a factory"
+        ],
+        "correctAnswer": "In a hospital"
+    },
+    {
+        "question": "Where does a teacher usually work? / Một giáo viên thường làm việc ở đâu?",
+        "options": [
+            "In a school",
+            "In a hospital",
+            "On a farm",
+            "On the road"
+        ],
+        "correctAnswer": "In a school"
+    },
+    {
+        "question": "Where does a farmer usually work? / Một người nông dân thường làm việc ở đâu?",
+        "options": [
+            "On a farm",
+            "In a hospital",
+            "In a school",
+            "In a shop"
+        ],
+        "correctAnswer": "On a farm"
+    },
+    {
+        "question": "To ask about your father's job, you say: 'What does your father ____?' / Để hỏi về công việc của cha bạn, bạn nói: 'What does your father ____?'",
+        "options": [
+            "do",
+            "is",
+            "have",
+            "like"
+        ],
+        "correctAnswer": "do"
+    },
+    {
+        "question": "Spell the word for the work you do. / Đánh vần từ chỉ công việc bạn làm.",
+        "options": [
+            "j-o-b",
+            "j-o-y",
+            "j-o-g",
+            "j-a-r"
+        ],
+        "correctAnswer": "j-o-b"
+    },
+    {
+        "question": "What is the opposite of 'safe'? / Từ trái nghĩa của 'safe' là gì?",
+        "options": [
+            "Dangerous",
+            "Good",
+            "Happy",
+            "Clean"
+        ],
+        "correctAnswer": "Dangerous"
+    },
+    {
+        "question": "A firefighter's job can be very ____. / Công việc của một lính cứu hỏa có thể rất ____.",
+        "options": [
+            "dangerous",
+            "safe",
+            "easy",
+            "boring"
+        ],
+        "correctAnswer": "dangerous"
+    },
+    {
+        "question": "What is the opposite of 'easy'? / Từ trái nghĩa của 'easy' là gì?",
+        "options": [
+            "Difficult",
+            "Simple",
+            "Hard",
+            "Soft"
+        ],
+        "correctAnswer": "Difficult"
+    },
+    {
+        "question": "Being a doctor is a ____ job. / Làm bác sĩ là một công việc ____.",
+        "options": [
+            "difficult",
+            "easy",
+            "bad",
+            "small"
+        ],
+        "correctAnswer": "difficult"
+    },
+    {
+        "question": "Spell the word for a person who helps sick people. / Đánh vần từ chỉ một người giúp đỡ người bệnh.",
+        "options": [
+            "d-o-c-t-o-r",
+            "t-e-a-c-h-e-r",
+            "f-a-r-m-e-r",
+            "s-i-n-g-e-r"
+        ],
+        "correctAnswer": "d-o-c-t-o-r"
+    },
+    {
+        "question": "What is the opposite of 'love'? / Từ trái nghĩa của 'love' là gì?",
+        "options": [
+            "Hate",
+            "Like",
+            "Enjoy",
+            "Want"
+        ],
+        "correctAnswer": "Hate"
+    },
+    {
+        "question": "My mother is a teacher and she ____ her job. / Mẹ tôi là một giáo viên và bà ấy ____ công việc của mình.",
+        "options": [
+            "loves",
+            "hates",
+            "eats",
+            "sells"
+        ],
+        "correctAnswer": "loves"
+    },
+    {
+        "question": "What do you want to be when you grow up? / Bạn muốn làm gì khi lớn lên?",
+        "options": [
+            "I want to be a singer.",
+            "I am a student.",
+            "My name is Linh.",
+            "I am eight years old."
+        ],
+        "correctAnswer": "I want to be a singer."
+    },
+    {
+        "question": "Spell the word for a person who teaches. / Đánh vần từ chỉ một người dạy học.",
+        "options": [
+            "t-e-a-c-h-e-r",
+            "s-t-u-d-e-n-t",
+            "d-r-i-v-e-r",
+            "w-o-r-k-e-r"
+        ],
+        "correctAnswer": "t-e-a-c-h-e-r"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "A good job makes you feel ____. / Một công việc tốt làm bạn cảm thấy ____.",
+        "options": [
+            "happy",
+            "bad",
+            "sad",
+            "tired"
+        ],
+        "correctAnswer": "happy"
+    },
+    {
+        "question": "What do you call a person who flies an airplane? / Bạn gọi một người lái máy bay là gì?",
+        "options": [
+            "A pilot",
+            "A driver",
+            "A captain",
+            "A sailor"
+        ],
+        "correctAnswer": "A pilot"
+    },
+    {
+        "question": "Spell the word for a person who works on a farm. / Đánh vần từ chỉ một người làm việc trên nông trại.",
+        "options": [
+            "f-a-r-m-e-r",
+            "d-o-c-t-o-r",
+            "n-u-r-s-e",
+            "p-u-p-i-l"
+        ],
+        "correctAnswer": "f-a-r-m-e-r"
+    },
+    {
+        "question": "What is the opposite of 'many'? / Từ trái nghĩa của 'many' là gì?",
+        "options": [
+            "Few",
+            "Some",
+            "All",
+            "None"
+        ],
+        "correctAnswer": "Few"
+    },
+    {
+        "question": "There are ____ jobs in the world. / Có ____ công việc trên thế giới.",
+        "options": [
+            "many",
+            "no",
+            "sad",
+            "old"
+        ],
+        "correctAnswer": "many"
+    },
+    {
+        "question": "What do you call a person who makes bread and cakes? / Bạn gọi một người làm bánh mì và bánh ngọt là gì?",
+        "options": [
+            "A baker",
+            "A cook",
+            "A farmer",
+            "A singer"
+        ],
+        "correctAnswer": "A baker"
+    },
+    {
+        "question": "Spell the word for a person who helps a doctor. / Đánh vần từ chỉ một người giúp đỡ bác sĩ.",
+        "options": [
+            "n-u-r-s-e",
+            "p-u-p-i-l",
+            "d-r-i-v-e-r",
+            "c-o-o-k"
+        ],
+        "correctAnswer": "n-u-r-s-e"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "Having a job you don't like can make you feel ____. / Có một công việc bạn không thích có thể làm bạn cảm thấy ____.",
+        "options": [
+            "sad",
+            "happy",
+            "excited",
+            "hungry"
+        ],
+        "correctAnswer": "sad"
+    },
+    {
+        "question": "What do you call a person who builds houses? / Bạn gọi một người xây nhà là gì?",
+        "options": [
+            "A builder",
+            "A painter",
+            "A driver",
+            "A farmer"
+        ],
+        "correctAnswer": "A builder"
+    },
+    {
+        "question": "Spell the word for a person who works in a factory. / Đánh vần từ chỉ một người làm việc trong nhà máy.",
+        "options": [
+            "w-o-r-k-e-r",
+            "s-i-n-g-e-r",
+            "d-a-n-c-e-r",
+            "t-e-a-c-h-e-r"
+        ],
+        "correctAnswer": "w-o-r-k-e-r"
+    },
+    {
+        "question": "What is the opposite of 'give'? / Từ trái nghĩa của 'give' là gì?",
+        "options": [
+            "Take",
+            "Receive",
+            "Buy",
+            "Sell"
+        ],
+        "correctAnswer": "Take"
+    },
+    {
+        "question": "A teacher will ____ you homework. / Một giáo viên sẽ ____ cho bạn bài tập về nhà.",
+        "options": [
+            "give",
+            "take",
+            "play",
+            "eat"
+        ],
+        "correctAnswer": "give"
+    },
+    {
+        "question": "What do you call a person who fixes teeth? / Bạn gọi một người chữa răng là gì?",
+        "options": [
+            "A dentist",
+            "A doctor",
+            "A nurse",
+            "A surgeon"
+        ],
+        "correctAnswer": "A dentist"
+    },
+    {
+        "question": "Spell the word for a person who drives. / Đánh vần từ chỉ một người lái xe.",
+        "options": [
+            "d-r-i-v-e-r",
+            "r-i-d-e-r",
+            "d-o-c-t-o-r",
+            "f-a-r-m-e-r"
+        ],
+        "correctAnswer": "d-r-i-v-e-r"
+    }
+]
