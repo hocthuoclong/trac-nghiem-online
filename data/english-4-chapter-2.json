@@ -1,0 +1,412 @@
+[
+    {
+        "question": "To ask about the time, you say: / Để hỏi về thời gian, bạn nói:",
+        "options": [
+            "What time is it?",
+            "What is your name?",
+            "Where are you from?",
+            "How old are you?"
+        ],
+        "correctAnswer": "What time is it?"
+    },
+    {
+        "question": "The correct answer to 'What time is it?' could be: / Câu trả lời đúng cho 'What time is it?' có thể là:",
+        "options": [
+            "It's seven o'clock.",
+            "I'm fine, thank you.",
+            "I'm from Vietnam.",
+            "It's a sunny day."
+        ],
+        "correctAnswer": "It's seven o'clock."
+    },
+    {
+        "question": "This is the first thing you do in the morning. What is it? / Đây là việc đầu tiên bạn làm vào buổi sáng. Nó là gì?",
+        "options": [
+            "Get up",
+            "Go to bed",
+            "Have dinner",
+            "Go home"
+        ],
+        "correctAnswer": "Get up"
+    },
+    {
+        "question": "This is the first meal of the day. What is it? / Đây là bữa ăn đầu tiên trong ngày. Nó là gì?",
+        "options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "A snack"
+        ],
+        "correctAnswer": "Breakfast"
+    },
+    {
+        "question": "After breakfast, children usually ____. / Sau bữa sáng, trẻ em thường ____.",
+        "options": [
+            "go to school",
+            "go to bed",
+            "have dinner",
+            "watch TV"
+        ],
+        "correctAnswer": "go to school"
+    },
+    {
+        "question": "After school, you ____. / Sau giờ học, bạn ____.",
+        "options": [
+            "go home",
+            "get up",
+            "go to school",
+            "have breakfast"
+        ],
+        "correctAnswer": "go home"
+    },
+    {
+        "question": "This is the meal you eat in the evening. What is it? / Đây là bữa ăn bạn ăn vào buổi tối. Nó là gì?",
+        "options": [
+            "Dinner",
+            "Breakfast",
+            "Lunch",
+            "A party"
+        ],
+        "correctAnswer": "Dinner"
+    },
+    {
+        "question": "This is the last thing you do at night. What is it? / Đây là việc cuối cùng bạn làm vào ban đêm. Nó là gì?",
+        "options": [
+            "Go to bed",
+            "Get up",
+            "Have breakfast",
+            "Go to school"
+        ],
+        "correctAnswer": "Go to bed"
+    },
+    {
+        "question": "To ask about a friend's wake-up time, you say: 'What time do you ____?' / Để hỏi về giờ thức dậy của một người bạn, bạn nói: 'What time do you ____?'",
+        "options": [
+            "get up",
+            "go to bed",
+            "have lunch",
+            "play football"
+        ],
+        "correctAnswer": "get up"
+    },
+    {
+        "question": "A correct answer to 'What time do you go to school?' is: / Một câu trả lời đúng cho 'What time do you go to school?' là:",
+        "options": [
+            "I go to school at seven o'clock.",
+            "I like school.",
+            "My school is big.",
+            "Yes, I do."
+        ],
+        "correctAnswer": "I go to school at seven o'clock."
+    },
+    {
+        "question": "What is 7:00 in words? / 7:00 viết bằng chữ là gì?",
+        "options": [
+            "It's seven o'clock.",
+            "It's seven thirty.",
+            "It's thirty seven.",
+            "It's seven."
+        ],
+        "correctAnswer": "It's seven o'clock."
+    },
+    {
+        "question": "What is 8:30 in words? / 8:30 viết bằng chữ là gì?",
+        "options": [
+            "It's eight thirty.",
+            "It's eight o'clock.",
+            "It's thirty eight.",
+            "It's thirty past eight."
+        ],
+        "correctAnswer": "It's eight thirty."
+    },
+    {
+        "question": "What do you do at 6:30 in the morning? / Bạn làm gì vào lúc 6:30 sáng?",
+        "options": [
+            "I get up.",
+            "I go to bed.",
+            "I have dinner.",
+            "I go home."
+        ],
+        "correctAnswer": "I get up."
+    },
+    {
+        "question": "What do you do at 7:00 in the evening? / Bạn làm gì vào lúc 7:00 tối?",
+        "options": [
+            "I have dinner.",
+            "I have breakfast.",
+            "I go to school.",
+            "I get up."
+        ],
+        "correctAnswer": "I have dinner."
+    },
+    {
+        "question": "What do you do at 9:30 at night? / Bạn làm gì vào lúc 9:30 đêm?",
+        "options": [
+            "I go to bed.",
+            "I get up.",
+            "I have breakfast.",
+            "I go to school."
+        ],
+        "correctAnswer": "I go to bed."
+    },
+    {
+        "question": "Spell the word for the first meal of the day. / Đánh vần từ chỉ bữa ăn đầu tiên trong ngày.",
+        "options": [
+            "b-r-e-a-k-f-a-s-t",
+            "l-u-n-c-h",
+            "d-i-n-n-e-r",
+            "m-o-r-n-i-n-g"
+        ],
+        "correctAnswer": "b-r-e-a-k-f-a-s-t"
+    },
+    {
+        "question": "What is the opposite of 'get up'? / Từ trái nghĩa của 'get up' là gì?",
+        "options": [
+            "Go to bed",
+            "Stand up",
+            "Sit down",
+            "Wake up"
+        ],
+        "correctAnswer": "Go to bed"
+    },
+    {
+        "question": "What is the opposite of 'morning'? / Từ trái nghĩa của 'morning' là gì?",
+        "options": [
+            "Evening",
+            "Afternoon",
+            "Night",
+            "Day"
+        ],
+        "correctAnswer": "Evening"
+    },
+    {
+        "question": "You have breakfast in the ____. / Bạn ăn sáng vào ____.",
+        "options": [
+            "morning",
+            "afternoon",
+            "evening",
+            "night"
+        ],
+        "correctAnswer": "morning"
+    },
+    {
+        "question": "You have dinner in the ____. / Bạn ăn tối vào ____.",
+        "options": [
+            "evening",
+            "morning",
+            "afternoon",
+            "midnight"
+        ],
+        "correctAnswer": "evening"
+    },
+    {
+        "question": "Spell the word for the time when it is exactly on the hour. / Đánh vần từ chỉ thời gian khi kim phút chỉ đúng số 12.",
+        "options": [
+            "o-'-c-l-o-c-k",
+            "t-h-i-r-t-y",
+            "m-i-n-u-t-e",
+            "h-o-u-r"
+        ],
+        "correctAnswer": "o-'-c-l-o-c-k"
+    },
+    {
+        "question": "What is the opposite of 'go to school'? / Từ trái nghĩa của 'go to school' là gì?",
+        "options": [
+            "Go home",
+            "Go to bed",
+            "Get up",
+            "Have lunch"
+        ],
+        "correctAnswer": "Go home"
+    },
+    {
+        "question": "The activities you do every day are your ____. / Các hoạt động bạn làm mỗi ngày là ____ của bạn.",
+        "options": [
+            "daily routines",
+            "hobbies",
+            "jobs",
+            "games"
+        ],
+        "correctAnswer": "daily routines"
+    },
+    {
+        "question": "What do you call the part of the day between morning and evening? / Bạn gọi phần của ngày giữa buổi sáng và buổi tối là gì?",
+        "options": [
+            "Afternoon",
+            "Night",
+            "Midnight",
+            "Dawn"
+        ],
+        "correctAnswer": "Afternoon"
+    },
+    {
+        "question": "Spell the word for the meal you eat in the evening. / Đánh vần từ chỉ bữa ăn bạn ăn vào buổi tối.",
+        "options": [
+            "d-i-n-n-e-r",
+            "l-u-n-c-h",
+            "s-n-a-c-k",
+            "b-r-e-a-k-f-a-s-t"
+        ],
+        "correctAnswer": "d-i-n-n-e-r"
+    },
+    {
+        "question": "What is the opposite of 'before'? / Từ trái nghĩa của 'before' là gì?",
+        "options": [
+            "After",
+            "During",
+            "Next",
+            "Then"
+        ],
+        "correctAnswer": "After"
+    },
+    {
+        "question": "You go to school ____ you have breakfast. / Bạn đến trường ____ bạn ăn sáng.",
+        "options": [
+            "after",
+            "before",
+            "never",
+            "during"
+        ],
+        "correctAnswer": "after"
+    },
+    {
+        "question": "What do you call the meal you eat in the middle of the day? / Bạn gọi bữa ăn bạn ăn vào giữa ngày là gì?",
+        "options": [
+            "Lunch",
+            "Breakfast",
+            "Dinner",
+            "Brunch"
+        ],
+        "correctAnswer": "Lunch"
+    },
+    {
+        "question": "Spell the word for the action of waking up. / Đánh vần từ chỉ hành động thức dậy.",
+        "options": [
+            "g-e-t u-p",
+            "g-o t-o b-e-d",
+            "s-l-e-e-p",
+            "d-r-e-a-m"
+        ],
+        "correctAnswer": "g-e-t u-p"
+    },
+    {
+        "question": "What is the opposite of 'early'? / Từ trái nghĩa của 'early' là gì?",
+        "options": [
+            "Late",
+            "Soon",
+            "Quick",
+            "Fast"
+        ],
+        "correctAnswer": "Late"
+    },
+    {
+        "question": "If you don't want to be late for school, you must get up ____. / Nếu bạn không muốn bị trễ học, bạn phải dậy ____.",
+        "options": [
+            "early",
+            "late",
+            "slowly",
+            "sadly"
+        ],
+        "correctAnswer": "early"
+    },
+    {
+        "question": "What do you do in bed? / Bạn làm gì trên giường?",
+        "options": [
+            "Sleep",
+            "Eat dinner",
+            "Play football",
+            "Cook"
+        ],
+        "correctAnswer": "Sleep"
+    },
+    {
+        "question": "Spell the word for the place you learn. / Đánh vần từ chỉ nơi bạn học.",
+        "options": [
+            "s-c-h-o-o-l",
+            "h-o-m-e",
+            "p-a-r-k",
+            "z-o-o"
+        ],
+        "correctAnswer": "s-c-h-o-o-l"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Morning",
+            "Evening",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You go to bed at ____. / Bạn đi ngủ vào ____.",
+        "options": [
+            "night",
+            "day",
+            "morning",
+            "noon"
+        ],
+        "correctAnswer": "night"
+    },
+    {
+        "question": "What do you call the time from sunrise to sunset? / Bạn gọi thời gian từ lúc mặt trời mọc đến lúc mặt trời lặn là gì?",
+        "options": [
+            "Daytime",
+            "Night-time",
+            "Midnight",
+            "Evening"
+        ],
+        "correctAnswer": "Daytime"
+    },
+    {
+        "question": "Spell the word for the place you live. / Đánh vần từ chỉ nơi bạn sống.",
+        "options": [
+            "h-o-m-e",
+            "r-o-o-m",
+            "d-o-o-r",
+            "h-a-t"
+        ],
+        "correctAnswer": "h-o-m-e"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is a ____ habit to go to bed late. / Đi ngủ muộn là một thói quen ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the clothes you wear to school? / Bạn gọi quần áo bạn mặc đến trường là gì?",
+        "options": [
+            "A uniform",
+            "Pajamas",
+            "A swimsuit",
+            "A costume"
+        ],
+        "correctAnswer": "A uniform"
+    },
+    {
+        "question": "Spell the word for the action of going to sleep. / Đánh vần từ chỉ hành động đi ngủ.",
+        "options": [
+            "g-o t-o b-e-d",
+            "g-e-t u-p",
+            "w-a-k-e u-p",
+            "s-t-a-y u-p"
+        ],
+        "correctAnswer": "g-o t-o b-e-d"
+    }
+]
