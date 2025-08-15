@@ -1,0 +1,423 @@
+[
+    {
+        "question": "This is the first thing you do when you wake up in the morning. What is it? / Đây là việc đầu tiên bạn làm khi thức dậy vào buổi sáng. Nó là gì?",
+        "options": [
+            "Get up",
+            "Go to bed",
+            "Have dinner",
+            "Go home"
+        ],
+        "correctAnswer": "Get up"
+    },
+    {
+        "question": "You do this to keep your teeth clean after meals. What is it? / Bạn làm điều này để giữ cho răng sạch sau các bữa ăn. Nó là gì?",
+        "options": [
+            "Brush your teeth",
+            "Wash your face",
+            "Comb your hair",
+            "Take a shower"
+        ],
+        "correctAnswer": "Brush your teeth"
+    },
+    {
+        "question": "You do this to clean your face with water. What is it? / Bạn làm điều này để làm sạch mặt bằng nước. Nó là gì?",
+        "options": [
+            "Wash your face",
+            "Brush your teeth",
+            "Eat breakfast",
+            "Get dressed"
+        ],
+        "correctAnswer": "Wash your face"
+    },
+    {
+        "question": "This is the first meal of the day. What is it? / Đây là bữa ăn đầu tiên trong ngày. Nó là gì?",
+        "options": [
+            "Have breakfast",
+            "Have lunch",
+            "Have dinner",
+            "Have a snack"
+        ],
+        "correctAnswer": "Have breakfast"
+    },
+    {
+        "question": "After breakfast, you leave your home to go to your lessons. What is this action? / Sau bữa sáng, bạn rời nhà để đến các tiết học. Hành động này là gì?",
+        "options": [
+            "Go to school",
+            "Go home",
+            "Go to bed",
+            "Go to the park"
+        ],
+        "correctAnswer": "Go to school"
+    },
+    {
+        "question": "This is the meal you eat in the middle of the day. What is it? / Đây là bữa ăn bạn ăn vào giữa ngày. Nó là gì?",
+        "options": [
+            "Have lunch",
+            "Have breakfast",
+            "Have dinner",
+            "Have a party"
+        ],
+        "correctAnswer": "Have lunch"
+    },
+    {
+        "question": "After school is finished, you return to your house. What is this action? / Sau khi tan học, bạn trở về nhà của mình. Hành động này là gì?",
+        "options": [
+            "Go home",
+            "Go to school",
+            "Get up",
+            "Go to bed"
+        ],
+        "correctAnswer": "Go home"
+    },
+    {
+        "question": "This is the work your teacher gives you to do at home. What is it? / Đây là công việc mà giáo viên giao cho bạn làm ở nhà. Nó là gì?",
+        "options": [
+            "Do homework",
+            "Play games",
+            "Watch TV",
+            "Cook dinner"
+        ],
+        "correctAnswer": "Do homework"
+    },
+    {
+        "question": "This is the meal you eat in the evening. What is it? / Đây là bữa ăn bạn ăn vào buổi tối. Nó là gì?",
+        "options": [
+            "Have dinner",
+            "Have breakfast",
+            "Have lunch",
+            "Have a picnic"
+        ],
+        "correctAnswer": "Have dinner"
+    },
+    {
+        "question": "You do this to relax by looking at a screen. What is it? / Bạn làm điều này để thư giãn bằng cách nhìn vào một màn hình. Nó là gì?",
+        "options": [
+            "Watch TV",
+            "Read a book",
+            "Listen to music",
+            "Do homework"
+        ],
+        "correctAnswer": "Watch TV"
+    },
+    {
+        "question": "This is the last thing you do at night before sleeping. What is it? / Đây là việc cuối cùng bạn làm vào ban đêm trước khi ngủ. Nó là gì?",
+        "options": [
+            "Go to bed",
+            "Get up",
+            "Go to school",
+            "Go home"
+        ],
+        "correctAnswer": "Go to bed"
+    },
+    {
+        "question": "To ask about someone's daily activities, you say: 'What do you do in the ____?' / Để hỏi về các hoạt động hàng ngày của ai đó, bạn nói: 'What do you do in the ____?'",
+        "options": [
+            "morning",
+            "school",
+            "house",
+            "park"
+        ],
+        "correctAnswer": "morning"
+    },
+    {
+        "question": "A correct answer to 'What do you do in the afternoon?' is: / Một câu trả lời đúng cho 'What do you do in the afternoon?' là:",
+        "options": [
+            "I do my homework.",
+            "I get up.",
+            "I have breakfast.",
+            "I go to bed."
+        ],
+        "correctAnswer": "I do my homework."
+    },
+    {
+        "question": "The word 'always' means you do something ____. / Từ 'always' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [
+            "every day",
+            "never",
+            "sometimes",
+            "one time"
+        ],
+        "correctAnswer": "every day"
+    },
+    {
+        "question": "The word 'usually' means you do something ____. / Từ 'usually' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [
+            "most of the time",
+            "never",
+            "always",
+            "rarely"
+        ],
+        "correctAnswer": "most of the time"
+    },
+    {
+        "question": "The word 'sometimes' means you do something ____. / Từ 'sometimes' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [
+            "not always, but not never",
+            "every day",
+            "never",
+            "all the time"
+        ],
+        "correctAnswer": "not always, but not never"
+    },
+    {
+        "question": "The word 'never' means you do something ____. / Từ 'never' có nghĩa là bạn làm một việc gì đó ____.",
+        "options": [
+            "at no time",
+            "always",
+            "sometimes",
+            "usually"
+        ],
+        "correctAnswer": "at no time"
+    },
+    {
+        "question": "I ____ brush my teeth in the morning. / Tôi ____ đánh răng vào buổi sáng.",
+        "options": [
+            "always",
+            "never",
+            "sometimes",
+            "am"
+        ],
+        "correctAnswer": "always"
+    },
+    {
+        "question": "I ____ go to school on Sunday. / Tôi ____ đến trường vào Chủ nhật.",
+        "options": [
+            "never",
+            "always",
+            "usually",
+            "sometimes"
+        ],
+        "correctAnswer": "never"
+    },
+    {
+        "question": "I ____ watch TV after I finish my homework. / Tôi ____ xem TV sau khi làm xong bài tập về nhà.",
+        "options": [
+            "usually",
+            "never",
+            "am",
+            "do"
+        ],
+        "correctAnswer": "usually"
+    },
+    {
+        "question": "What is the opposite of 'morning'? / Từ trái nghĩa của 'morning' là gì?",
+        "options": [
+            "Evening",
+            "Afternoon",
+            "Night",
+            "Day"
+        ],
+        "correctAnswer": "Evening"
+    },
+    {
+        "question": "What is the opposite of 'get up'? / Từ trái nghĩa của 'get up' là gì?",
+        "options": [
+            "Go to bed",
+            "Stand up",
+            "Sit down",
+            "Wake up"
+        ],
+        "correctAnswer": "Go to bed"
+    },
+    {
+        "question": "What do you call the activities you do every day? / Bạn gọi các hoạt động bạn làm mỗi ngày là gì?",
+        "options": [
+            "Daily routines",
+            "Hobbies",
+
+            "Jobs",
+            "Games"
+        ],
+        "correctAnswer": "Daily routines"
+    },
+    {
+        "question": "What is the opposite of 'early'? / Từ trái nghĩa của 'early' là gì?",
+        "options": [
+            "Late",
+            "Soon",
+            "Quick",
+            "Fast"
+        ],
+        "correctAnswer": "Late"
+    },
+    {
+        "question": "You should go to bed ____ on school nights. / Bạn nên đi ngủ ____ vào những đêm đi học.",
+        "options": [
+            "early",
+            "late",
+            "sometimes",
+            "never"
+        ],
+        "correctAnswer": "early"
+    },
+    {
+        "question": "Spell the word for the first meal of the day. / Đánh vần từ chỉ bữa ăn đầu tiên trong ngày.",
+        "options": [
+            "b-r-e-a-k-f-a-s-t",
+            "l-u-n-c-h",
+            "d-i-n-n-e-r",
+            "m-o-r-n-i-n-g"
+        ],
+        "correctAnswer": "b-r-e-a-k-f-a-s-t"
+    },
+    {
+        "question": "What is the opposite of 'before'? / Từ trái nghĩa của 'before' là gì?",
+        "options": [
+            "After",
+            "During",
+            "Next",
+            "Then"
+        ],
+        "correctAnswer": "After"
+    },
+    {
+        "question": "I do my homework ____ I have dinner. / Tôi làm bài tập về nhà ____ tôi ăn tối.",
+        "options": [
+            "before",
+            "after",
+            "never",
+            "always"
+        ],
+        "correctAnswer": "before"
+    },
+    {
+        "question": "What do you call the meal you eat in the middle of the day? / Bạn gọi bữa ăn bạn ăn vào giữa ngày là gì?",
+        "options": [
+            "Lunch",
+            "Breakfast",
+            "Dinner",
+            "Brunch"
+        ],
+        "correctAnswer": "Lunch"
+    },
+    {
+        "question": "Spell the word for the action of waking up. / Đánh vần từ chỉ hành động thức dậy.",
+        "options": [
+            "g-e-t u-p",
+            "g-o t-o b-e-d",
+            "s-l-e-e-p",
+            "d-r-e-a-m"
+        ],
+        "correctAnswer": "g-e-t u-p"
+    },
+    {
+        "question": "What is the opposite of 'day'? / Từ trái nghĩa của 'day' là gì?",
+        "options": [
+            "Night",
+            "Morning",
+            "Evening",
+            "Light"
+        ],
+        "correctAnswer": "Night"
+    },
+    {
+        "question": "You sleep during the ____. / Bạn ngủ trong ____.",
+        "options": [
+            "night",
+            "day",
+            "morning",
+            "afternoon"
+        ],
+        "correctAnswer": "night"
+    },
+    {
+        "question": "What do you call the clothes you wear to sleep? / Bạn gọi quần áo bạn mặc để ngủ là gì?",
+        "options": [
+            "Pajamas",
+            "A uniform",
+            "A swimsuit",
+            "A costume"
+        ],
+        "correctAnswer": "Pajamas"
+    },
+    {
+        "question": "Spell the word for the place you learn. / Đánh vần từ chỉ nơi bạn học.",
+        "options": [
+            "s-c-h-o-o-l",
+            "h-o-m-e",
+            "p-a-r-k",
+            "z-o-o"
+        ],
+        "correctAnswer": "s-c-h-o-o-l"
+    },
+    {
+        "question": "What is the opposite of 'good'? / Từ trái nghĩa của 'good' là gì?",
+        "options": [
+            "Bad",
+            "Nice",
+            "Great",
+            "Kind"
+        ],
+        "correctAnswer": "Bad"
+    },
+    {
+        "question": "It is a ____ habit to watch TV all day. / Xem TV cả ngày là một thói quen ____.",
+        "options": [
+            "bad",
+            "good",
+            "nice",
+            "fun"
+        ],
+        "correctAnswer": "bad"
+    },
+    {
+        "question": "What do you call the work you do to help your parents at home? / Bạn gọi công việc bạn làm để giúp đỡ bố mẹ ở nhà là gì?",
+        "options": [
+            "Chores",
+            "Homework",
+            "Games",
+            "Hobbies"
+        ],
+        "correctAnswer": "Chores"
+    },
+    {
+        "question": "Spell the word for the action of going to sleep. / Đánh vần từ chỉ hành động đi ngủ.",
+        "options": [
+            "g-o t-o b-e-d",
+            "g-e-t u-p",
+            "w-a-k-e u-p",
+            "s-t-a-y u-p"
+        ],
+        "correctAnswer": "g-o t-o b-e-d"
+    },
+    {
+        "question": "What is the opposite of 'happy'? / Từ trái nghĩa của 'happy' là gì?",
+        "options": [
+            "Sad",
+            "Angry",
+            "Tired",
+            "Hungry"
+        ],
+        "correctAnswer": "Sad"
+    },
+    {
+        "question": "I feel ____ if I have too much homework. / Tôi cảm thấy ____ nếu có quá nhiều bài tập về nhà.",
+        "options": [
+            "tired",
+            "happy",
+            "excited",
+            "hungry"
+        ],
+        "correctAnswer": "tired"
+    },
+    {
+        "question": "What do you do with your friends after school? / Bạn làm gì với bạn bè sau giờ học?",
+        "options": [
+            "Play football",
+            "Have breakfast",
+            "Go to school",
+            "Get up"
+        ],
+        "correctAnswer": "Play football"
+    },
+    {
+        "question": "Spell the word for the place you live. / Đánh vần từ chỉ nơi bạn sống.",
+        "options": [
+            "h-o-m-e",
+            "r-o-o-m",
+            "d-o-o-r",
+            "h-a-t"
+        ],
+        "correctAnswer": "h-o-m-e"
+    }
+]
