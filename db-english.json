@@ -119,6 +119,38 @@
         "midterm-2": { "name": "Ôn tập học kỳ 2", "file": "./data/english-4-midterm-2.json" },
         "final": { "name": "Ôn tập cuối năm", "file": "./data/english-4-final.json" }
       }
+    },
+    "5": {
+      "tests": {
+        "chapter": {
+          "name": "Ôn tập theo Unit",
+          "chapters": [
+            { "name": "Unit 1: All about me", "file": "./data/english-5-chapter-1.json" },
+            { "name": "Unit 2: Our homes", "file": "./data/english-5-chapter-2.json" },
+            { "name": "Unit 3: My foreign friends", "file": "./data/english-5-chapter-3.json" },
+            { "name": "Unit 4: Our free-time activities", "file": "./data/english-5-chapter-4.json" },
+            { "name": "Unit 5: My future job", "file": "./data/english-5-chapter-5.json" },
+            { "name": "Unit 6: Our school rooms", "file": "./data/english-5-chapter-6.json" },
+            { "name": "Unit 7: Our favourite school activities", "file": "./data/english-5-chapter-7.json" },
+            { "name": "Unit 8: In our classroom", "file": "./data/english-5-chapter-8.json" },
+            { "name": "Unit 9: Our outdoor activities", "file": "./data/english-5-chapter-9.json" },
+            { "name": "Unit 10: Our school trip", "file": "./data/english-5-chapter-10.json" },
+            { "name": "Unit 11: Family time", "file": "./data/english-5-chapter-11.json" },
+            { "name": "Unit 12: Our Tet Holiday", "file": "./data/english-5-chapter-12.json" },
+            { "name": "Unit 13: Our special days", "file": "./data/english-5-chapter-13.json" },
+            { "name": "Unit 14: Staying healthy", "file": "./data/english-5-chapter-14.json" },
+            { "name": "Unit 15: Our health", "file": "./data/english-5-chapter-15.json" },
+            { "name": "Unit 16: Seasons and the weather", "file": "./data/english-5-chapter-16.json" },
+            { "name": "Unit 17: Stories for children", "file": "./data/english-5-chapter-17.json" },
+            { "name": "Unit 18: Means of transport", "file": "./data/english-5-chapter-18.json" },
+            { "name": "Unit 19: Places of interest", "file": "./data/english-5-chapter-19.json" },
+            { "name": "Unit 20: Our summer holiday", "file": "./data/english-5-chapter-20.json" }
+          ]
+        },
+        "midterm-1": { "name": "Ôn tập học kỳ 1 (Units 1-10)", "file": "./data/english-5-midterm-1.json" },
+        "midterm-2": { "name": "Ôn tập học kỳ 2 (Units 11-20)", "file": "./data/english-5-midterm-2.json" },
+        "final": { "name": "Ôn tập cuối năm", "file": "./data/english-5-final.json" }
+      }
     }
   }
 }
